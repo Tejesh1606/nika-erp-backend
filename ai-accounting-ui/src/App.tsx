@@ -58,7 +58,6 @@ const ListToolbar = ({ search, setSearch, sort, setSort, placeholder }: any) => 
 // ============================================================================
 
 export default function App() {
-  const { user } = useUser(); 
   const { getToken } = useAuth();
   const [activeTab, setActiveTab] = useState<'upload' | 'dashboard' | 'reports' | 'invoices'>('upload');
   
