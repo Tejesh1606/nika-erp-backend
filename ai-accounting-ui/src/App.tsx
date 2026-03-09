@@ -121,7 +121,7 @@ export default function App() {
   const fetchHistory = async () => {
     try {
       const token = await getToken(); // Get the ID Badge
-      const res = await fetch('http://127.0.0.1:8000/invoices/', {
+      const res = await fetch('https://ai-erp-api-gfmt.onrender.com/invoices/', {
         headers: { Authorization: `Bearer ${token}` } // Flash the badge to Python
       });
       const json = await res.json();
@@ -222,7 +222,7 @@ export default function App() {
         formData.append('file', file);
         
         try {
-          const res = await fetch('http://127.0.0.1:8000/upload-invoice/', { 
+          const res = await fetch('https://ai-erp-api-gfmt.onrender.com/upload-invoice/', { 
             method: 'POST', 
             headers: { Authorization: `Bearer ${token}` }, // ATTACH SECURE HEADER
             body: formData 
@@ -518,7 +518,7 @@ export default function App() {
                             <button onClick={async () => {
                               try {
                                 const token = await getToken(); // GET TOKEN
-                                const res = await fetch(`http://127.0.0.1:8000/invoices/${editForm.id}`, { 
+                                const res = await fetch(`https://ai-erp-api-gfmt.onrender.com/invoices/${editForm.id}`, { 
                                   method: 'PUT', 
                                   headers: { 
                                     'Content-Type': 'application/json',
