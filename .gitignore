@@ -1,0 +1,24 @@
+# --- SENSITIVE DATA (CRITICAL) ---
+.env
+.env.local
+*.db
+*.log
+
+# --- PYTHON SETTINGS ---
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# --- NODE/REACT SETTINGS ---
+node_modules/
+dist/
+.vercel/
+
+# --- LOCAL DEVELOPMENT GARBAGE ---
+dev1.py
+dev2.py
+test_api.py
+ERP_analysis1.py
+Market_Analyst_Test1.py
+pm.py
+reset_db.py

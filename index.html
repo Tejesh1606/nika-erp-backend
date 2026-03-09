@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Universal Accounting AI</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        .drag-over {
+            border-color: #4A90E2;
+            background-color: rgba(74, 144, 226, 0.1);
+        }
+    </style>
+</head>
+<body class="bg-gray-100 flex items-center justify-center min-h-screen">
+    <div class="bg-white shadow-xl rounded-xl p-8 w-full max-w-lg">
+        <h1 class="text-3xl font-bold mb-6 text-center text-gray-800">AI Invoice Upload</h1>
+        
+        <div id="drop-zone" class="border-2 border-dashed border-gray-400 rounded-lg h-48 flex flex-col items-center justify-center mb-6 cursor-pointer transition-colors duration-200">
+            <span class="text-gray-600 text-center font-medium">Drag & drop your invoice here<br><span class="text-sm text-gray-400">(JPG, PNG, WEBP)</span></span>
+            <span class="text-gray-400 my-2">or</span>
+            <button id="upload-btn" class="bg-blue-500 hover:bg-blue-600 text-white px-5 py-2 rounded-lg shadow transition duration-200">Browse Files</button>
+            <input type="file" id="file-input" accept=".jpg,.jpeg,.png,.webp" class="hidden" />
+        </div>
+
+        <button id="process-btn" class="w-full bg-green-600 hover:bg-green-700 text-white font-bold text-lg px-4 py-3 rounded-lg shadow-lg transition duration-200">Extract Data with AI</button>
+        
+        <div id="loading" class="hidden mt-6 text-center">
+            <p class="text-blue-600 font-semibold animate-pulse">🤖 AI is reading the invoice... Please wait.</p>
+        </div>
+
+        <div id="result" class="mt-6 hidden border-t-2 pt-4">
+            <h2 class="font-bold text-xl mb-3 text-gray-800">Extracted Data:</h2>
+            <div id="invoice-info" class="bg-gray-50 border border-gray-200 p-5 rounded-lg text-gray-700 space-y-3 text-lg">
+                </div>
+        </div>
+    </div>
+
+    <script>
+        const dropZone = document.getElementById('drop-zone');
+        const fileInput = document.getElementById('file-input');
+        const processBtn = document.getElementById('process-btn');
+        const resultDiv = document.getElementById('result');
+        const invoiceInfo = document.getElementById('invoice-info');
+        const uploadBtn = document.getElementById('upload-btn');
+        const loadingDiv = document.getElementById('loading');
+
+        let selectedFile;
+
+        // Drag and Drop Logic
+        dropZone.addEventListener('dragover', (e) => {
+            e.preventDefault();
+            dropZone.classList.add('drag-over');
+        });
+
+        dropZone.addEventListener('dragleave', () => {
+            dropZone.classList.remove('drag-over');
+        });
+
+        dropZone.addEventListener('drop', (e) => {
+            e.preventDefault();
+            dropZone.classList.remove('drag-over');
+            if (e.dataTransfer.files.length > 0) {
+                selectedFile = e.dataTransfer.files[0];
+                displayFileName(selectedFile.name);
+            }
+        });
+
+        uploadBtn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            fileInput.click();
+        });
+        
+        dropZone.addEventListener('click', () => fileInput.click());
+
+        fileInput.addEventListener('change', (e) => {
+            if (e.target.files.length > 0) {
+                selectedFile = e.target.files[0];
+                displayFileName(selectedFile.name);
+            }
+        });
+
+        function displayFileName(name) {
+            const span = dropZone.querySelector('span:first-child');
+            span.innerHTML = `<span class="font-bold text-blue-600 text-lg">${name}</span><br><span class="text-sm text-green-500 font-semibold">Ready to process</span>`;
+        }
+
+        // Process Button Logic
+        processBtn.addEventListener('click', async () => {
+            if (!selectedFile) {
+                alert('Please select an image file first.');
+                return;
+            }
+
+            const formData = new FormData();
+            formData.append('file', selectedFile);
+
+            // Update UI to show loading state
+            resultDiv.classList.add('hidden');
+            loadingDiv.classList.remove('hidden');
+            processBtn.disabled = true;
+            processBtn.classList.add('opacity-50', 'cursor-not-allowed');
+
+            try {
+                // Send the image to your Python Backend
+                const response = await fetch('http://127.0.0.1:8000/upload-invoice/', {
+                    method: 'POST',
+                    body: formData
+                });
+                
+                const responseData = await response.json();
+
+                if (!response.ok) throw new Error(responseData.detail || responseData.error || 'Server error');
+
+                // Extract the nested AI JSON data
+                const aiData = responseData.data;
+
+                // Display the extracted data beautifully
+                invoiceInfo.innerHTML = `
+                    <p><span class="font-semibold text-gray-900">Vendor:</span> ${aiData.vendor_name || '<span class="text-red-500 italic">Not found</span>'}</p>
+                    <p><span class="font-semibold text-gray-900">Invoice #:</span> ${aiData.invoice_number || '<span class="text-red-500 italic">Not found</span>'}</p>
+                    <p><span class="font-semibold text-gray-900">Due Date:</span> ${aiData.due_date || '<span class="text-red-500 italic">Not found</span>'}</p>
+                    <div class="mt-4 pt-3 border-t border-gray-300">
+                        <p class="text-xl"><span class="font-bold text-gray-900">Total Amount:</span> <span class="font-bold text-green-600">$${aiData.total_amount || '0.00'}</span></p>
+                    </div>
+                `;
+                resultDiv.classList.remove('hidden');
+            } catch (error) {
+                console.error('Error:', error);
+                alert(`Failed to process invoice: ${error.message}`);
+            } finally {
+                // Reset UI
+                loadingDiv.classList.add('hidden');
+                processBtn.disabled = false;
+                processBtn.classList.remove('opacity-50', 'cursor-not-allowed');
+            }
+        });
+    </script>
+</body>
+</html>
