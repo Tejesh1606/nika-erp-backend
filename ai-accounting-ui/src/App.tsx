@@ -1,4 +1,4 @@
-import { SignedIn, SignedOut, SignIn, UserButton, useUser, useAuth } from "@clerk/clerk-react";
+import { SignedIn, SignedOut, SignIn, UserButton, useAuth } from "@clerk/clerk-react";
 import React, { useState, useRef, useEffect, useMemo } from 'react';
 import { BarChart, Bar, LineChart, Line, PieChart, Pie, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, Cell } from 'recharts';
 import { UploadCloud, LayoutDashboard, FileText, Database, Plus, Settings2, Trash2, Edit2, Save, X, ChevronDown, Search, Filter, ArrowLeft, ArrowUp, ArrowDown, ExternalLink, Eye, SortDesc } from 'lucide-react';
