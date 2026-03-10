@@ -59,6 +59,7 @@ const ListToolbar = ({ search, setSearch, sort, setSort, placeholder }: any) => 
 
 export default function App() {
   const { getToken } = useAuth();
+  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [activeTab, setActiveTab] = useState<'upload' | 'dashboard' | 'reports' | 'invoices'>('upload');
   
   const [selectedDashId, setSelectedDashId] = useState<string | null>(null);
@@ -559,27 +560,56 @@ export default function App() {
       </SignedOut>
 
       <SignedIn>
-        <div className="min-h-screen flex bg-slate-100 text-slate-900 font-sans">
-          <div className="w-64 bg-slate-900 text-slate-300 flex flex-col p-4 shadow-xl shrink-0 h-screen sticky top-0">
-            <div className="flex items-center gap-3 mb-8 pl-4 pt-4">
+        <div className="min-h-screen flex flex-col md:flex-row bg-slate-100 text-slate-900 font-sans">
+          
+          {/* MOBILE TOP NAVIGATION BAR */}
+          <div className="md:hidden bg-slate-900 text-white p-4 flex justify-between items-center shadow-md z-40 relative">
+            <div className="flex items-center gap-3">
               <div className="bg-white rounded-full p-0.5 shadow-sm"><UserButton afterSignOutUrl="/"/></div>
-              <h1 className="text-lg font-extrabold text-white tracking-wider">AI ERP</h1>
+              <h1 className="text-lg font-extrabold tracking-wider">Nika ERP</h1>
+            </div>
+            <button onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)} className="p-2 text-slate-300 hover:text-white">
+              {isMobileMenuOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
+            </button>
+          </div>
+
+          {/* MOBILE OVERLAY (Darkens background when menu is open) */}
+          {isMobileMenuOpen && (
+            <div 
+              className="fixed inset-0 bg-black/50 z-40 md:hidden" 
+              onClick={() => setIsMobileMenuOpen(false)}
+            />
+          )}
+
+          {/* SIDEBAR (Hidden on mobile, slides in when active) */}
+          <div className={`fixed md:sticky top-0 left-0 h-screen w-64 bg-slate-900 text-slate-300 flex flex-col p-4 shadow-xl shrink-0 z-50 transform transition-transform duration-300 ease-in-out ${isMobileMenuOpen ? 'translate-x-0' : '-translate-x-full'} md:translate-x-0`}>
+            
+            <div className="flex justify-between items-center mb-8 pl-4 pt-4">
+              <div className="flex items-center gap-3 hidden md:flex">
+                <div className="bg-white rounded-full p-0.5 shadow-sm"><UserButton afterSignOutUrl="/"/></div>
+                <h1 className="text-lg font-extrabold text-white tracking-wider">Nika ERP</h1>
+              </div>
+              <button onClick={() => setIsMobileMenuOpen(false)} className="md:hidden p-2 text-slate-400 hover:text-white">
+                <X className="w-6 h-6" />
+              </button>
             </div>
 
             <nav className="flex flex-col gap-2">
-              <button onClick={() => {setActiveTab('upload'); setSelectedDashId(null); setSelectedReportId(null)}} className={`flex items-center px-4 py-3 rounded-xl font-bold transition-all ${activeTab === 'upload' ? 'bg-blue-600 text-white' : 'hover:bg-slate-800 hover:text-white'}`}><UploadCloud className="w-5 h-5 mr-3"/> Upload Invoice</button>
-              <button onClick={() => {setActiveTab('dashboard'); setSelectedReportId(null)}} className={`flex items-center px-4 py-3 rounded-xl font-bold transition-all ${activeTab === 'dashboard' ? 'bg-blue-600 text-white' : 'hover:bg-slate-800 hover:text-white'}`}><LayoutDashboard className="w-5 h-5 mr-3"/> Dashboards</button>
-              <button onClick={() => {setActiveTab('reports'); setSelectedDashId(null)}} className={`flex items-center px-4 py-3 rounded-xl font-bold transition-all ${activeTab === 'reports' ? 'bg-blue-600 text-white' : 'hover:bg-slate-800 hover:text-white'}`}><FileText className="w-5 h-5 mr-3"/> Report Engine</button>
-              <button onClick={() => {setActiveTab('invoices'); setSelectedDashId(null); setSelectedReportId(null)}} className={`flex items-center px-4 py-3 rounded-xl font-bold transition-all ${activeTab === 'invoices' ? 'bg-blue-600 text-white' : 'hover:bg-slate-800 hover:text-white'}`}><Database className="w-5 h-5 mr-3"/> Master Ledger</button>
+              <button onClick={() => {setActiveTab('upload'); setSelectedDashId(null); setSelectedReportId(null); setIsMobileMenuOpen(false);}} className={`flex items-center px-4 py-3 rounded-xl font-bold transition-all ${activeTab === 'upload' ? 'bg-blue-600 text-white' : 'hover:bg-slate-800 hover:text-white'}`}><UploadCloud className="w-5 h-5 mr-3"/> Upload Invoice</button>
+              <button onClick={() => {setActiveTab('dashboard'); setSelectedReportId(null); setIsMobileMenuOpen(false);}} className={`flex items-center px-4 py-3 rounded-xl font-bold transition-all ${activeTab === 'dashboard' ? 'bg-blue-600 text-white' : 'hover:bg-slate-800 hover:text-white'}`}><LayoutDashboard className="w-5 h-5 mr-3"/> Dashboards</button>
+              <button onClick={() => {setActiveTab('reports'); setSelectedDashId(null); setIsMobileMenuOpen(false);}} className={`flex items-center px-4 py-3 rounded-xl font-bold transition-all ${activeTab === 'reports' ? 'bg-blue-600 text-white' : 'hover:bg-slate-800 hover:text-white'}`}><FileText className="w-5 h-5 mr-3"/> Report Engine</button>
+              <button onClick={() => {setActiveTab('invoices'); setSelectedDashId(null); setSelectedReportId(null); setIsMobileMenuOpen(false);}} className={`flex items-center px-4 py-3 rounded-xl font-bold transition-all ${activeTab === 'invoices' ? 'bg-blue-600 text-white' : 'hover:bg-slate-800 hover:text-white'}`}><Database className="w-5 h-5 mr-3"/> Master Ledger</button>
             </nav>
           </div>
 
-          <div className="flex-1 p-10 overflow-auto h-screen">
+          {/* MAIN CONTENT AREA */}
+          <div className="flex-1 p-4 md:p-10 overflow-auto h-[calc(100vh-72px)] md:h-screen w-full">
             {activeTab === 'upload' && renderUploadTab()}
             {activeTab === 'dashboard' && renderDashboardsTab()}
             {activeTab === 'reports' && renderReportsTab()}
             {activeTab === 'invoices' && renderInvoicesTab()}
           </div>
+
         </div>
       </SignedIn>
     </>
