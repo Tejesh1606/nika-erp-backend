@@ -448,26 +448,42 @@ export default function App() {
     );
   };
 // --- EXPORT LOGIC ---
+  // --- EXPORT LOGIC (WITH LINE ITEMS) ---
   const handleExportCSV = () => {
     if (filteredHistoricData.length === 0) {
       alert("No data to export!");
       return;
     }
     
-    // 1. Create the headers
-    const headers = ['Date', 'Vendor', 'Invoice Number', 'Status', 'Total Amount'];
+    // 1. Create the expanded headers
+    const headers = ['Date', 'Vendor', 'Invoice Number', 'Status', 'Invoice Total', 'Item Description', 'Qty', 'Unit Price', 'Item Total'];
     const csvRows = [headers.join(',')];
 
-    // 2. Map the data to rows
+    // 2. Flatten the data: A row for every line item
     filteredHistoricData.forEach(row => {
-      const values = [
+      const baseData = [
         row.date || '',
-        `"${(row.vendor_name || '').replace(/"/g, '""')}"`, // Handle commas in vendor names
+        `"${(row.vendor_name || '').replace(/"/g, '""')}"`,
         `"${row.invoice_number || ''}"`,
         row.status || '',
         row.amount || 0
       ];
-      csvRows.push(values.join(','));
+
+      // If the invoice has line items, loop through them
+      if (row.items && row.items.length > 0) {
+        row.items.forEach((item: any) => {
+          const itemData = [
+            `"${(item.description || '').replace(/"/g, '""')}"`,
+            item.quantity || 0,
+            item.unit_price || 0,
+            item.total_price || 0
+          ];
+          csvRows.push([...baseData, ...itemData].join(','));
+        });
+      } else {
+        // If no line items exist, just leave those columns blank
+        csvRows.push([...baseData, '', '', '', ''].join(','));
+      }
     });
 
     // 3. Trigger the browser download
@@ -476,7 +492,7 @@ export default function App() {
     const a = document.createElement('a');
     a.setAttribute('hidden', '');
     a.setAttribute('href', url);
-    a.setAttribute('download', `nika_erp_ledger_${new Date().toISOString().split('T')[0]}.csv`);
+    a.setAttribute('download', `nika_erp_detailed_ledger_${new Date().toISOString().split('T')[0]}.csv`);
     document.body.appendChild(a);
     a.click();
     document.body.removeChild(a);
