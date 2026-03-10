@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/react";
 import { SignedIn, SignedOut, SignIn, UserButton, useAuth } from "@clerk/clerk-react";
 import React, { useState, useRef, useEffect, useMemo } from 'react';
 import { BarChart, Bar, LineChart, Line, PieChart, Pie, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, Cell } from 'recharts';
