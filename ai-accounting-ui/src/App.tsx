@@ -2,7 +2,7 @@ import { Analytics } from "@vercel/analytics/react";
 import { SignedIn, SignedOut, SignIn, UserButton, useAuth } from "@clerk/clerk-react";
 import React, { useState, useRef, useEffect, useMemo } from 'react';
 import { BarChart, Bar, LineChart, Line, PieChart, Pie, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, Cell } from 'recharts';
-import { UploadCloud, LayoutDashboard, FileText, Database, Plus, Settings2, Trash2, Edit2, Save, X, ChevronDown, Search, Filter, ArrowLeft, ArrowUp, ArrowDown, ExternalLink, Eye, SortDesc, Menu } from 'lucide-react';
+import { UploadCloud, LayoutDashboard, FileText, Database, Plus, Settings2, Trash2, Edit2, Save, X, ChevronDown, Search, Filter, ArrowLeft, ArrowUp, ArrowDown, ExternalLink, Eye, SortDesc, Menu, Download} from 'lucide-react';
 
 const COLORS = ['#3b82f6', '#10b981', '#f59e0b', '#ef4444', '#8b5cf6', '#ec4899'];
 const AVAILABLE_COLUMNS = [ 'vendor_name', 'invoice_number', 'date', 'status', 'amount', 'item_description', 'item_quantity', 'item_total' ];
@@ -447,7 +447,40 @@ export default function App() {
       </div>
     );
   };
+// --- EXPORT LOGIC ---
+  const handleExportCSV = () => {
+    if (filteredHistoricData.length === 0) {
+      alert("No data to export!");
+      return;
+    }
+    
+    // 1. Create the headers
+    const headers = ['Date', 'Vendor', 'Invoice Number', 'Status', 'Total Amount'];
+    const csvRows = [headers.join(',')];
 
+    // 2. Map the data to rows
+    filteredHistoricData.forEach(row => {
+      const values = [
+        row.date || '',
+        `"${(row.vendor_name || '').replace(/"/g, '""')}"`, // Handle commas in vendor names
+        `"${row.invoice_number || ''}"`,
+        row.status || '',
+        row.amount || 0
+      ];
+      csvRows.push(values.join(','));
+    });
+
+    // 3. Trigger the browser download
+    const blob = new Blob([csvRows.join('\n')], { type: 'text/csv' });
+    const url = window.URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.setAttribute('hidden', '');
+    a.setAttribute('href', url);
+    a.setAttribute('download', `nika_erp_ledger_${new Date().toISOString().split('T')[0]}.csv`);
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+  };
   const renderInvoicesTab = () => {
     const handleItemChange = (index: number, field: string, value: string) => {
       const newItems = [...editForm.items];
@@ -465,7 +498,16 @@ export default function App() {
         <div className="bg-white rounded-2xl shadow-sm border overflow-hidden">
           <div className="p-5 bg-slate-50 border-b flex justify-between items-center">
             <h2 className="text-xl font-bold">Master Editable Ledger</h2>
-            <span className="text-sm font-semibold text-slate-500 bg-slate-200 px-3 py-1 rounded-full">{filteredHistoricData.length} records</span>
+            <div className="flex items-center gap-3">
+              <span className="text-sm font-semibold text-slate-500 bg-slate-200 px-3 py-1 rounded-full hidden sm:inline-block">{filteredHistoricData.length} records</span>
+              <button 
+                onClick={handleExportCSV}
+                className="bg-green-600 hover:bg-green-700 text-white px-4 py-2 rounded-lg font-bold flex items-center transition-colors text-sm shadow-sm"
+              >
+                <Download className="w-4 h-4 mr-2" />
+                Export CSV
+              </button>
+            </div>
           </div>
           <table className="w-full text-left text-sm">
             <thead className="bg-slate-100 text-xs uppercase text-slate-500 border-b">
