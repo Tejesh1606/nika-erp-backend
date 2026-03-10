@@ -1,7 +1,7 @@
 import { SignedIn, SignedOut, SignIn, UserButton, useAuth } from "@clerk/clerk-react";
 import React, { useState, useRef, useEffect, useMemo } from 'react';
 import { BarChart, Bar, LineChart, Line, PieChart, Pie, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, Cell } from 'recharts';
-import { UploadCloud, LayoutDashboard, FileText, Database, Plus, Settings2, Trash2, Edit2, Save, X, ChevronDown, Search, Filter, ArrowLeft, ArrowUp, ArrowDown, ExternalLink, Eye, SortDesc } from 'lucide-react';
+import { UploadCloud, LayoutDashboard, FileText, Database, Plus, Settings2, Trash2, Edit2, Save, X, ChevronDown, Search, Filter, ArrowLeft, ArrowUp, ArrowDown, ExternalLink, Eye, SortDesc, Menu } from 'lucide-react';
 
 const COLORS = ['#3b82f6', '#10b981', '#f59e0b', '#ef4444', '#8b5cf6', '#ec4899'];
 const AVAILABLE_COLUMNS = [ 'vendor_name', 'invoice_number', 'date', 'status', 'amount', 'item_description', 'item_quantity', 'item_total' ];
