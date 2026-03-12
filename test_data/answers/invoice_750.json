@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Stewart Group",
+    "invoice_number": "INV-29826",
+    "date": "2025-10-10",
+    "items": [
+        {
+            "description": "Switchable scalable website",
+            "quantity": 8,
+            "unit_price": 32.49,
+            "total_price": 259.92
+        },
+        {
+            "description": "Organic actuating core",
+            "quantity": 1,
+            "unit_price": 420.81,
+            "total_price": 420.81
+        }
+    ],
+    "amount": 680.73
+}

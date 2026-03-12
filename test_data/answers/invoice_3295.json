@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Martin PLC",
+    "invoice_number": "INV-88950",
+    "date": "2025-03-28",
+    "items": [
+        {
+            "description": "Realigned needs-based project",
+            "quantity": 5,
+            "unit_price": 68.88,
+            "total_price": 344.4
+        },
+        {
+            "description": "Progressive transitional architecture",
+            "quantity": 2,
+            "unit_price": 75.69,
+            "total_price": 151.38
+        }
+    ],
+    "amount": 495.78
+}

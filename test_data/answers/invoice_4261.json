@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Moore Group",
+    "invoice_number": "INV-27717",
+    "date": "2025-10-03",
+    "items": [
+        {
+            "description": "Centralized bottom-line policy",
+            "quantity": 8,
+            "unit_price": 179.03,
+            "total_price": 1432.24
+        }
+    ],
+    "amount": 1432.24
+}

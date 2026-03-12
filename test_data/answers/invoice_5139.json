@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Whitaker-Logan",
+    "invoice_number": "INV-23925",
+    "date": "2025-06-04",
+    "items": [
+        {
+            "description": "Exclusive optimal interface",
+            "quantity": 6,
+            "unit_price": 36.95,
+            "total_price": 221.7
+        }
+    ],
+    "amount": 221.7
+}

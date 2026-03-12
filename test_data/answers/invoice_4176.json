@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Moore, Robinson and Richardson",
+    "invoice_number": "INV-26992",
+    "date": "2025-12-02",
+    "items": [
+        {
+            "description": "Quality-focused fresh-thinking open architecture",
+            "quantity": 10,
+            "unit_price": 370.57,
+            "total_price": 3705.7
+        },
+        {
+            "description": "Pre-emptive static algorithm",
+            "quantity": 4,
+            "unit_price": 189.03,
+            "total_price": 756.12
+        },
+        {
+            "description": "Optional content-based ability",
+            "quantity": 7,
+            "unit_price": 60.83,
+            "total_price": 425.81
+        },
+        {
+            "description": "Synchronized coherent throughput",
+            "quantity": 7,
+            "unit_price": 52.32,
+            "total_price": 366.24
+        }
+    ],
+    "amount": 5253.87
+}

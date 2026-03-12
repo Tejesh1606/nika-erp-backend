@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bell-Wyatt",
+    "invoice_number": "INV-90341",
+    "date": "2025-06-10",
+    "items": [
+        {
+            "description": "Profit-focused non-volatile architecture",
+            "quantity": 5,
+            "unit_price": 260.55,
+            "total_price": 1302.75
+        },
+        {
+            "description": "Cross-platform optimal task-force",
+            "quantity": 9,
+            "unit_price": 470.15,
+            "total_price": 4231.35
+        },
+        {
+            "description": "Advanced multi-tasking data-warehouse",
+            "quantity": 3,
+            "unit_price": 328.19,
+            "total_price": 984.57
+        }
+    ],
+    "amount": 6518.67
+}

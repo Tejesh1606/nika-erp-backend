@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Parrish, Benton and Martinez",
+    "invoice_number": "INV-14952",
+    "date": "2026-02-02",
+    "items": [
+        {
+            "description": "Managed 5thgeneration portal",
+            "quantity": 10,
+            "unit_price": 345.72,
+            "total_price": 3457.2
+        },
+        {
+            "description": "Team-oriented upward-trending emulation",
+            "quantity": 2,
+            "unit_price": 368.7,
+            "total_price": 737.4
+        }
+    ],
+    "amount": 4194.6
+}

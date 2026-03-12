@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Nelson PLC",
+    "invoice_number": "INV-93859",
+    "date": "2025-03-17",
+    "items": [
+        {
+            "description": "Digitized incremental definition",
+            "quantity": 9,
+            "unit_price": 373.06,
+            "total_price": 3357.54
+        },
+        {
+            "description": "Switchable client-server help-desk",
+            "quantity": 1,
+            "unit_price": 450.46,
+            "total_price": 450.46
+        },
+        {
+            "description": "Proactive 4thgeneration encryption",
+            "quantity": 7,
+            "unit_price": 488.11,
+            "total_price": 3416.77
+        }
+    ],
+    "amount": 7224.77
+}

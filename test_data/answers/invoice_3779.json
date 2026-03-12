@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hoover Inc",
+    "invoice_number": "INV-24220",
+    "date": "2026-03-01",
+    "items": [
+        {
+            "description": "Customizable multimedia firmware",
+            "quantity": 10,
+            "unit_price": 362.87,
+            "total_price": 3628.7
+        }
+    ],
+    "amount": 3628.7
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Davis, Santiago and Anderson",
+    "invoice_number": "INV-88298",
+    "date": "2025-07-14",
+    "items": [
+        {
+            "description": "Grass-roots holistic system engine",
+            "quantity": 10,
+            "unit_price": 475.35,
+            "total_price": 4753.5
+        },
+        {
+            "description": "Realigned radical encoding",
+            "quantity": 8,
+            "unit_price": 109.62,
+            "total_price": 876.96
+        },
+        {
+            "description": "Upgradable needs-based functionalities",
+            "quantity": 3,
+            "unit_price": 32.85,
+            "total_price": 98.55
+        },
+        {
+            "description": "Face-to-face responsive emulation",
+            "quantity": 10,
+            "unit_price": 46.08,
+            "total_price": 460.8
+        }
+    ],
+    "amount": 6189.81
+}

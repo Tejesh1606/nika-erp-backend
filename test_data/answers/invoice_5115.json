@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Richards-Gonzalez",
+    "invoice_number": "INV-87067",
+    "date": "2025-10-16",
+    "items": [
+        {
+            "description": "Phased analyzing capacity",
+            "quantity": 10,
+            "unit_price": 118.63,
+            "total_price": 1186.3
+        },
+        {
+            "description": "Decentralized exuding secured line",
+            "quantity": 1,
+            "unit_price": 221.52,
+            "total_price": 221.52
+        }
+    ],
+    "amount": 1407.82
+}

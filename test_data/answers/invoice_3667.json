@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jones and Sons",
+    "invoice_number": "INV-49918",
+    "date": "2025-04-07",
+    "items": [
+        {
+            "description": "Triple-buffered eco-centric algorithm",
+            "quantity": 10,
+            "unit_price": 179.3,
+            "total_price": 1793.0
+        },
+        {
+            "description": "Quality-focused background knowledge user",
+            "quantity": 8,
+            "unit_price": 58.76,
+            "total_price": 470.08
+        }
+    ],
+    "amount": 2263.08
+}

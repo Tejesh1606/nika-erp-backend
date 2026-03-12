@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith-Short",
+    "invoice_number": "INV-46170",
+    "date": "2026-02-28",
+    "items": [
+        {
+            "description": "Reactive multimedia open architecture",
+            "quantity": 3,
+            "unit_price": 291.93,
+            "total_price": 875.79
+        }
+    ],
+    "amount": 875.79
+}

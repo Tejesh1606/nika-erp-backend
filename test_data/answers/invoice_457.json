@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Velez, Hood and Johnston",
+    "invoice_number": "INV-65769",
+    "date": "2025-04-29",
+    "items": [
+        {
+            "description": "Function-based mission-critical throughput",
+            "quantity": 1,
+            "unit_price": 115.39,
+            "total_price": 115.39
+        },
+        {
+            "description": "Focused attitude-oriented forecast",
+            "quantity": 1,
+            "unit_price": 189.79,
+            "total_price": 189.79
+        }
+    ],
+    "amount": 305.18
+}

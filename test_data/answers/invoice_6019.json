@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Williams-Blankenship",
+    "invoice_number": "INV-54082",
+    "date": "2025-11-03",
+    "items": [
+        {
+            "description": "Fully-configurable transitional workforce",
+            "quantity": 1,
+            "unit_price": 255.75,
+            "total_price": 255.75
+        },
+        {
+            "description": "Decentralized stable complexity",
+            "quantity": 5,
+            "unit_price": 230.05,
+            "total_price": 1150.25
+        },
+        {
+            "description": "Virtual contextually-based leverage",
+            "quantity": 10,
+            "unit_price": 372.81,
+            "total_price": 3728.1
+        }
+    ],
+    "amount": 5134.1
+}

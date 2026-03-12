@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Thompson-Santiago",
+    "invoice_number": "INV-15651",
+    "date": "2025-03-29",
+    "items": [
+        {
+            "description": "Stand-alone high-level forecast",
+            "quantity": 8,
+            "unit_price": 246.03,
+            "total_price": 1968.24
+        }
+    ],
+    "amount": 1968.24
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hale-Davis",
+    "invoice_number": "INV-36806",
+    "date": "2025-10-15",
+    "items": [
+        {
+            "description": "Monitored user-facing matrices",
+            "quantity": 5,
+            "unit_price": 470.8,
+            "total_price": 2354.0
+        },
+        {
+            "description": "Re-engineered intermediate Graphic Interface",
+            "quantity": 7,
+            "unit_price": 218.3,
+            "total_price": 1528.1
+        },
+        {
+            "description": "Optional composite neural-net",
+            "quantity": 3,
+            "unit_price": 403.28,
+            "total_price": 1209.84
+        }
+    ],
+    "amount": 5091.94
+}

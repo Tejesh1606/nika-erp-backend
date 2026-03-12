@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Smith LLC",
+    "invoice_number": "INV-31352",
+    "date": "2025-03-15",
+    "items": [
+        {
+            "description": "Synergistic multimedia frame",
+            "quantity": 4,
+            "unit_price": 386.33,
+            "total_price": 1545.32
+        },
+        {
+            "description": "Cross-group multimedia contingency",
+            "quantity": 2,
+            "unit_price": 303.85,
+            "total_price": 607.7
+        },
+        {
+            "description": "Quality-focused responsive installation",
+            "quantity": 7,
+            "unit_price": 298.4,
+            "total_price": 2088.8
+        },
+        {
+            "description": "Inverse encompassing open system",
+            "quantity": 4,
+            "unit_price": 70.5,
+            "total_price": 282.0
+        }
+    ],
+    "amount": 4523.82
+}

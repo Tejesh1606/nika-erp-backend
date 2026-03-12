@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Moore Group",
+    "invoice_number": "INV-73471",
+    "date": "2025-09-05",
+    "items": [
+        {
+            "description": "Expanded global portal",
+            "quantity": 8,
+            "unit_price": 444.57,
+            "total_price": 3556.56
+        },
+        {
+            "description": "Digitized foreground structure",
+            "quantity": 4,
+            "unit_price": 170.66,
+            "total_price": 682.64
+        },
+        {
+            "description": "Intuitive upward-trending hardware",
+            "quantity": 10,
+            "unit_price": 10.63,
+            "total_price": 106.3
+        }
+    ],
+    "amount": 4345.5
+}

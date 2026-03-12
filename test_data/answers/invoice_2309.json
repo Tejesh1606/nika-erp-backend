@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Rubio Inc",
+    "invoice_number": "INV-62127",
+    "date": "2025-12-27",
+    "items": [
+        {
+            "description": "Inverse empowering approach",
+            "quantity": 6,
+            "unit_price": 210.96,
+            "total_price": 1265.76
+        }
+    ],
+    "amount": 1265.76
+}

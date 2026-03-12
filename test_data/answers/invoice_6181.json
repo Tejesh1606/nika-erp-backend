@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Coleman PLC",
+    "invoice_number": "INV-48460",
+    "date": "2025-06-26",
+    "items": [
+        {
+            "description": "Cloned neutral Local Area Network",
+            "quantity": 2,
+            "unit_price": 290.99,
+            "total_price": 581.98
+        }
+    ],
+    "amount": 581.98
+}

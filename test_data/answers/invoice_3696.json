@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hunt LLC",
+    "invoice_number": "INV-42120",
+    "date": "2025-04-30",
+    "items": [
+        {
+            "description": "Fully-configurable attitude-oriented firmware",
+            "quantity": 10,
+            "unit_price": 118.74,
+            "total_price": 1187.4
+        },
+        {
+            "description": "Multi-channeled system-worthy implementation",
+            "quantity": 1,
+            "unit_price": 116.67,
+            "total_price": 116.67
+        }
+    ],
+    "amount": 1304.07
+}

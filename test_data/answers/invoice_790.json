@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bishop, Thomas and Powell",
+    "invoice_number": "INV-94394",
+    "date": "2025-05-27",
+    "items": [
+        {
+            "description": "Quality-focused regional toolset",
+            "quantity": 4,
+            "unit_price": 330.37,
+            "total_price": 1321.48
+        },
+        {
+            "description": "Secured solution-oriented intranet",
+            "quantity": 10,
+            "unit_price": 204.76,
+            "total_price": 2047.6
+        }
+    ],
+    "amount": 3369.08
+}

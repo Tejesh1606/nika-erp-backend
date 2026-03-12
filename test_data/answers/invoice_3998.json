@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mccoy-Garcia",
+    "invoice_number": "INV-86405",
+    "date": "2025-11-18",
+    "items": [
+        {
+            "description": "Balanced dedicated system engine",
+            "quantity": 5,
+            "unit_price": 166.58,
+            "total_price": 832.9
+        },
+        {
+            "description": "Multi-channeled radical framework",
+            "quantity": 4,
+            "unit_price": 48.94,
+            "total_price": 195.76
+        }
+    ],
+    "amount": 1028.66
+}

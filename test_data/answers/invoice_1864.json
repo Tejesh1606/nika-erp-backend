@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Brown Ltd",
+    "invoice_number": "INV-72620",
+    "date": "2025-07-27",
+    "items": [
+        {
+            "description": "Fully-configurable tangible implementation",
+            "quantity": 2,
+            "unit_price": 405.13,
+            "total_price": 810.26
+        },
+        {
+            "description": "Team-oriented 6thgeneration hardware",
+            "quantity": 5,
+            "unit_price": 32.82,
+            "total_price": 164.1
+        }
+    ],
+    "amount": 974.36
+}

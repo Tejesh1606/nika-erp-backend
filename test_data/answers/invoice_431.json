@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Medina-Arroyo",
+    "invoice_number": "INV-49936",
+    "date": "2025-05-29",
+    "items": [
+        {
+            "description": "User-friendly user-facing success",
+            "quantity": 9,
+            "unit_price": 145.45,
+            "total_price": 1309.05
+        },
+        {
+            "description": "Monitored didactic installation",
+            "quantity": 6,
+            "unit_price": 168.36,
+            "total_price": 1010.16
+        },
+        {
+            "description": "Stand-alone multimedia circuit",
+            "quantity": 1,
+            "unit_price": 494.87,
+            "total_price": 494.87
+        },
+        {
+            "description": "Diverse contextually-based definition",
+            "quantity": 10,
+            "unit_price": 288.21,
+            "total_price": 2882.1
+        }
+    ],
+    "amount": 5696.18
+}

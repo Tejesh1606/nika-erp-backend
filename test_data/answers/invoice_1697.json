@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Juarez, Crawford and Nixon",
+    "invoice_number": "INV-61031",
+    "date": "2025-04-15",
+    "items": [
+        {
+            "description": "Persistent motivating installation",
+            "quantity": 1,
+            "unit_price": 110.22,
+            "total_price": 110.22
+        },
+        {
+            "description": "Vision-oriented neutral success",
+            "quantity": 7,
+            "unit_price": 22.47,
+            "total_price": 157.29
+        },
+        {
+            "description": "Progressive 24/7 access",
+            "quantity": 8,
+            "unit_price": 54.07,
+            "total_price": 432.56
+        },
+        {
+            "description": "Enterprise-wide demand-driven algorithm",
+            "quantity": 5,
+            "unit_price": 89.28,
+            "total_price": 446.4
+        }
+    ],
+    "amount": 1146.47
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Walker-Simmons",
+    "invoice_number": "INV-52464",
+    "date": "2025-04-01",
+    "items": [
+        {
+            "description": "Fundamental demand-driven circuit",
+            "quantity": 10,
+            "unit_price": 484.86,
+            "total_price": 4848.6
+        },
+        {
+            "description": "Streamlined human-resource analyzer",
+            "quantity": 7,
+            "unit_price": 436.38,
+            "total_price": 3054.66
+        },
+        {
+            "description": "Managed optimal application",
+            "quantity": 6,
+            "unit_price": 446.31,
+            "total_price": 2677.86
+        }
+    ],
+    "amount": 10581.12
+}

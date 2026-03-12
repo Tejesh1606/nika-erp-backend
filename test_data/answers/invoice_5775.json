@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wilson, Lopez and Nunez",
+    "invoice_number": "INV-11957",
+    "date": "2026-02-08",
+    "items": [
+        {
+            "description": "Profound zero tolerance definition",
+            "quantity": 6,
+            "unit_price": 155.81,
+            "total_price": 934.86
+        },
+        {
+            "description": "Face-to-face multi-state capacity",
+            "quantity": 3,
+            "unit_price": 405.69,
+            "total_price": 1217.07
+        },
+        {
+            "description": "User-friendly homogeneous hardware",
+            "quantity": 9,
+            "unit_price": 439.12,
+            "total_price": 3952.08
+        }
+    ],
+    "amount": 6104.01
+}

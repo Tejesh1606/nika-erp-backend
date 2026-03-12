@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lewis-Park",
+    "invoice_number": "INV-75833",
+    "date": "2025-09-27",
+    "items": [
+        {
+            "description": "Public-key client-server customer loyalty",
+            "quantity": 1,
+            "unit_price": 100.67,
+            "total_price": 100.67
+        }
+    ],
+    "amount": 100.67
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Long, Jimenez and Stewart",
+    "invoice_number": "INV-88217",
+    "date": "2025-11-27",
+    "items": [
+        {
+            "description": "Fully-configurable 5thgeneration algorithm",
+            "quantity": 3,
+            "unit_price": 358.48,
+            "total_price": 1075.44
+        },
+        {
+            "description": "Compatible directional extranet",
+            "quantity": 8,
+            "unit_price": 32.36,
+            "total_price": 258.88
+        },
+        {
+            "description": "Self-enabling attitude-oriented framework",
+            "quantity": 6,
+            "unit_price": 35.47,
+            "total_price": 212.82
+        }
+    ],
+    "amount": 1547.14
+}

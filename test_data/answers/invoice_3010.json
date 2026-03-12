@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mendoza, Valentine and Sanchez",
+    "invoice_number": "INV-25263",
+    "date": "2025-10-19",
+    "items": [
+        {
+            "description": "Self-enabling web-enabled task-force",
+            "quantity": 5,
+            "unit_price": 303.47,
+            "total_price": 1517.35
+        }
+    ],
+    "amount": 1517.35
+}

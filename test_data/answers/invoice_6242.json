@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Anderson-Gutierrez",
+    "invoice_number": "INV-20625",
+    "date": "2025-09-29",
+    "items": [
+        {
+            "description": "Public-key real-time project",
+            "quantity": 10,
+            "unit_price": 173.73,
+            "total_price": 1737.3
+        },
+        {
+            "description": "Diverse incremental support",
+            "quantity": 10,
+            "unit_price": 88.39,
+            "total_price": 883.9
+        }
+    ],
+    "amount": 2621.2
+}

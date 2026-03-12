@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hale PLC",
+    "invoice_number": "INV-18698",
+    "date": "2025-07-23",
+    "items": [
+        {
+            "description": "Operative real-time superstructure",
+            "quantity": 1,
+            "unit_price": 425.58,
+            "total_price": 425.58
+        },
+        {
+            "description": "Reactive user-facing Graphic Interface",
+            "quantity": 7,
+            "unit_price": 317.09,
+            "total_price": 2219.63
+        },
+        {
+            "description": "Persevering system-worthy algorithm",
+            "quantity": 3,
+            "unit_price": 470.7,
+            "total_price": 1412.1
+        },
+        {
+            "description": "Virtual actuating project",
+            "quantity": 6,
+            "unit_price": 184.32,
+            "total_price": 1105.92
+        }
+    ],
+    "amount": 5163.23
+}

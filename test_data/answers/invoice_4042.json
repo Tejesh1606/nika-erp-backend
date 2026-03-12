@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Marshall, Jackson and Black",
+    "invoice_number": "INV-13142",
+    "date": "2025-05-13",
+    "items": [
+        {
+            "description": "Fully-configurable stable protocol",
+            "quantity": 6,
+            "unit_price": 266.85,
+            "total_price": 1601.1
+        },
+        {
+            "description": "Assimilated grid-enabled productivity",
+            "quantity": 10,
+            "unit_price": 418.43,
+            "total_price": 4184.3
+        },
+        {
+            "description": "User-friendly 4thgeneration interface",
+            "quantity": 2,
+            "unit_price": 348.24,
+            "total_price": 696.48
+        }
+    ],
+    "amount": 6481.88
+}

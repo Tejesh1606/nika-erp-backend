@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Martinez-Montoya",
+    "invoice_number": "INV-81190",
+    "date": "2025-05-27",
+    "items": [
+        {
+            "description": "Expanded web-enabled data-warehouse",
+            "quantity": 8,
+            "unit_price": 320.14,
+            "total_price": 2561.12
+        },
+        {
+            "description": "Optimized local service-desk",
+            "quantity": 4,
+            "unit_price": 219.34,
+            "total_price": 877.36
+        },
+        {
+            "description": "Re-engineered homogeneous adapter",
+            "quantity": 1,
+            "unit_price": 143.0,
+            "total_price": 143.0
+        }
+    ],
+    "amount": 3581.48
+}

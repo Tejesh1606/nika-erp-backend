@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Webb-White",
+    "invoice_number": "INV-40792",
+    "date": "2026-01-29",
+    "items": [
+        {
+            "description": "Quality-focused empowering pricing structure",
+            "quantity": 10,
+            "unit_price": 94.55,
+            "total_price": 945.5
+        },
+        {
+            "description": "Synergized leadingedge protocol",
+            "quantity": 9,
+            "unit_price": 100.09,
+            "total_price": 900.81
+        },
+        {
+            "description": "Seamless bottom-line Internet solution",
+            "quantity": 10,
+            "unit_price": 44.75,
+            "total_price": 447.5
+        },
+        {
+            "description": "Digitized scalable adapter",
+            "quantity": 5,
+            "unit_price": 383.15,
+            "total_price": 1915.75
+        }
+    ],
+    "amount": 4209.56
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Silva Inc",
+    "invoice_number": "INV-86142",
+    "date": "2025-10-23",
+    "items": [
+        {
+            "description": "Front-line eco-centric analyzer",
+            "quantity": 5,
+            "unit_price": 130.82,
+            "total_price": 654.1
+        },
+        {
+            "description": "Switchable optimal installation",
+            "quantity": 2,
+            "unit_price": 274.94,
+            "total_price": 549.88
+        },
+        {
+            "description": "Total 3rdgeneration approach",
+            "quantity": 3,
+            "unit_price": 321.82,
+            "total_price": 965.46
+        }
+    ],
+    "amount": 2169.44
+}

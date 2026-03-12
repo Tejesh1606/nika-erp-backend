@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mathews, Perez and Love",
+    "invoice_number": "INV-33256",
+    "date": "2025-03-24",
+    "items": [
+        {
+            "description": "Robust encompassing neural-net",
+            "quantity": 4,
+            "unit_price": 205.64,
+            "total_price": 822.56
+        }
+    ],
+    "amount": 822.56
+}

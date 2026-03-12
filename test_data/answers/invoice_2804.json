@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Daniel, Copeland and Meyer",
+    "invoice_number": "INV-43035",
+    "date": "2026-01-26",
+    "items": [
+        {
+            "description": "Re-engineered mission-critical forecast",
+            "quantity": 1,
+            "unit_price": 368.72,
+            "total_price": 368.72
+        },
+        {
+            "description": "Reduced reciprocal knowledge user",
+            "quantity": 3,
+            "unit_price": 133.96,
+            "total_price": 401.88
+        },
+        {
+            "description": "Secured radical approach",
+            "quantity": 3,
+            "unit_price": 317.05,
+            "total_price": 951.15
+        },
+        {
+            "description": "Intuitive cohesive challenge",
+            "quantity": 7,
+            "unit_price": 429.12,
+            "total_price": 3003.84
+        }
+    ],
+    "amount": 4725.59
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wilson, Murphy and Sanders",
+    "invoice_number": "INV-85012",
+    "date": "2025-12-04",
+    "items": [
+        {
+            "description": "Organized encompassing project",
+            "quantity": 4,
+            "unit_price": 431.88,
+            "total_price": 1727.52
+        },
+        {
+            "description": "Ameliorated user-facing process improvement",
+            "quantity": 9,
+            "unit_price": 88.66,
+            "total_price": 797.94
+        }
+    ],
+    "amount": 2525.46
+}

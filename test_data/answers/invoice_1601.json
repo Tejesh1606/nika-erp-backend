@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Barrett-Rubio",
+    "invoice_number": "INV-84261",
+    "date": "2026-02-09",
+    "items": [
+        {
+            "description": "Total contextually-based ability",
+            "quantity": 2,
+            "unit_price": 409.35,
+            "total_price": 818.7
+        },
+        {
+            "description": "Down-sized eco-centric instruction set",
+            "quantity": 8,
+            "unit_price": 466.0,
+            "total_price": 3728.0
+        }
+    ],
+    "amount": 4546.7
+}

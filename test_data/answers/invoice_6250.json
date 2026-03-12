@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Evans Group",
+    "invoice_number": "INV-78592",
+    "date": "2025-07-20",
+    "items": [
+        {
+            "description": "Adaptive 5thgeneration process improvement",
+            "quantity": 10,
+            "unit_price": 471.27,
+            "total_price": 4712.7
+        },
+        {
+            "description": "Implemented local pricing structure",
+            "quantity": 1,
+            "unit_price": 44.66,
+            "total_price": 44.66
+        },
+        {
+            "description": "Synergistic empowering knowledgebase",
+            "quantity": 9,
+            "unit_price": 315.08,
+            "total_price": 2835.72
+        },
+        {
+            "description": "Versatile static task-force",
+            "quantity": 2,
+            "unit_price": 274.33,
+            "total_price": 548.66
+        }
+    ],
+    "amount": 8141.74
+}

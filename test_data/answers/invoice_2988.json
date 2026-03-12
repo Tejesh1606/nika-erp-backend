@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Morton-Huffman",
+    "invoice_number": "INV-69479",
+    "date": "2025-04-16",
+    "items": [
+        {
+            "description": "Proactive modular artificial intelligence",
+            "quantity": 6,
+            "unit_price": 437.83,
+            "total_price": 2626.98
+        },
+        {
+            "description": "Pre-emptive tangible algorithm",
+            "quantity": 9,
+            "unit_price": 333.29,
+            "total_price": 2999.61
+        },
+        {
+            "description": "Ergonomic 5thgeneration hardware",
+            "quantity": 10,
+            "unit_price": 196.33,
+            "total_price": 1963.3
+        }
+    ],
+    "amount": 7589.89
+}

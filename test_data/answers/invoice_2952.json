@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith-Garcia",
+    "invoice_number": "INV-62487",
+    "date": "2026-01-16",
+    "items": [
+        {
+            "description": "Reverse-engineered leadingedge productivity",
+            "quantity": 5,
+            "unit_price": 287.76,
+            "total_price": 1438.8
+        }
+    ],
+    "amount": 1438.8
+}

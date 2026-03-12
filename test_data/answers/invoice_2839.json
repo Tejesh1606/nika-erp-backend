@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hamilton, Stokes and Cain",
+    "invoice_number": "INV-33033",
+    "date": "2025-06-27",
+    "items": [
+        {
+            "description": "Fully-configurable upward-trending open architecture",
+            "quantity": 10,
+            "unit_price": 81.83,
+            "total_price": 818.3
+        },
+        {
+            "description": "Enhanced human-resource process improvement",
+            "quantity": 10,
+            "unit_price": 496.2,
+            "total_price": 4962.0
+        }
+    ],
+    "amount": 5780.3
+}

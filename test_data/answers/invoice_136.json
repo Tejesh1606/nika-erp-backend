@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Tucker-Ramos",
+    "invoice_number": "INV-45804",
+    "date": "2025-05-31",
+    "items": [
+        {
+            "description": "Versatile multimedia budgetary management",
+            "quantity": 4,
+            "unit_price": 462.01,
+            "total_price": 1848.04
+        }
+    ],
+    "amount": 1848.04
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Stevens LLC",
+    "invoice_number": "INV-85599",
+    "date": "2025-09-30",
+    "items": [
+        {
+            "description": "Public-key regional leverage",
+            "quantity": 10,
+            "unit_price": 198.22,
+            "total_price": 1982.2
+        },
+        {
+            "description": "Streamlined needs-based instruction set",
+            "quantity": 6,
+            "unit_price": 44.08,
+            "total_price": 264.48
+        }
+    ],
+    "amount": 2246.68
+}

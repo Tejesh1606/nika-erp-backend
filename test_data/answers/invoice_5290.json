@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Richards Group",
+    "invoice_number": "INV-94266",
+    "date": "2025-06-08",
+    "items": [
+        {
+            "description": "Reactive encompassing website",
+            "quantity": 9,
+            "unit_price": 479.14,
+            "total_price": 4312.26
+        }
+    ],
+    "amount": 4312.26
+}

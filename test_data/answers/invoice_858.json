@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wells-Perkins",
+    "invoice_number": "INV-93637",
+    "date": "2026-03-01",
+    "items": [
+        {
+            "description": "Reduced solution-oriented alliance",
+            "quantity": 1,
+            "unit_price": 63.47,
+            "total_price": 63.47
+        }
+    ],
+    "amount": 63.47
+}

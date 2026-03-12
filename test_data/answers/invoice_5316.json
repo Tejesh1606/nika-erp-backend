@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hill-Sanford",
+    "invoice_number": "INV-91497",
+    "date": "2025-09-12",
+    "items": [
+        {
+            "description": "Diverse tertiary open system",
+            "quantity": 5,
+            "unit_price": 498.47,
+            "total_price": 2492.35
+        },
+        {
+            "description": "Switchable executive archive",
+            "quantity": 7,
+            "unit_price": 443.78,
+            "total_price": 3106.46
+        },
+        {
+            "description": "Switchable analyzing data-warehouse",
+            "quantity": 6,
+            "unit_price": 10.32,
+            "total_price": 61.92
+        },
+        {
+            "description": "Optimized modular Graphic Interface",
+            "quantity": 10,
+            "unit_price": 417.44,
+            "total_price": 4174.4
+        }
+    ],
+    "amount": 9835.13
+}

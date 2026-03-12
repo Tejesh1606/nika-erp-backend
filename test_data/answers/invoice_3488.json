@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hampton and Sons",
+    "invoice_number": "INV-68023",
+    "date": "2025-09-17",
+    "items": [
+        {
+            "description": "Down-sized radical project",
+            "quantity": 10,
+            "unit_price": 205.84,
+            "total_price": 2058.4
+        },
+        {
+            "description": "Adaptive next generation success",
+            "quantity": 9,
+            "unit_price": 428.91,
+            "total_price": 3860.19
+        },
+        {
+            "description": "Future-proofed systematic synergy",
+            "quantity": 6,
+            "unit_price": 73.18,
+            "total_price": 439.08
+        }
+    ],
+    "amount": 6357.67
+}

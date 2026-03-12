@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Grant-Jenkins",
+    "invoice_number": "INV-48533",
+    "date": "2026-01-26",
+    "items": [
+        {
+            "description": "Re-contextualized responsive conglomeration",
+            "quantity": 8,
+            "unit_price": 206.17,
+            "total_price": 1649.36
+        },
+        {
+            "description": "Decentralized global array",
+            "quantity": 6,
+            "unit_price": 246.06,
+            "total_price": 1476.36
+        }
+    ],
+    "amount": 3125.72
+}

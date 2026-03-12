@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Johnson and Sons",
+    "invoice_number": "INV-35546",
+    "date": "2025-07-07",
+    "items": [
+        {
+            "description": "Persevering explicit contingency",
+            "quantity": 5,
+            "unit_price": 419.9,
+            "total_price": 2099.5
+        },
+        {
+            "description": "Fundamental incremental database",
+            "quantity": 4,
+            "unit_price": 461.52,
+            "total_price": 1846.08
+        }
+    ],
+    "amount": 3945.58
+}

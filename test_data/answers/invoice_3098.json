@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Johnson-Ward",
+    "invoice_number": "INV-10178",
+    "date": "2025-10-17",
+    "items": [
+        {
+            "description": "User-friendly even-keeled utilization",
+            "quantity": 6,
+            "unit_price": 196.41,
+            "total_price": 1178.46
+        },
+        {
+            "description": "Business-focused human-resource knowledgebase",
+            "quantity": 8,
+            "unit_price": 296.32,
+            "total_price": 2370.56
+        },
+        {
+            "description": "Cross-platform explicit protocol",
+            "quantity": 10,
+            "unit_price": 106.5,
+            "total_price": 1065.0
+        }
+    ],
+    "amount": 4614.02
+}

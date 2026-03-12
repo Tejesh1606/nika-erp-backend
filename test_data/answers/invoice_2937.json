@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lawson Inc",
+    "invoice_number": "INV-69779",
+    "date": "2025-09-12",
+    "items": [
+        {
+            "description": "Multi-layered holistic architecture",
+            "quantity": 9,
+            "unit_price": 266.36,
+            "total_price": 2397.24
+        },
+        {
+            "description": "Distributed object-oriented service-desk",
+            "quantity": 7,
+            "unit_price": 196.54,
+            "total_price": 1375.78
+        },
+        {
+            "description": "Team-oriented even-keeled framework",
+            "quantity": 8,
+            "unit_price": 156.53,
+            "total_price": 1252.24
+        }
+    ],
+    "amount": 5025.26
+}

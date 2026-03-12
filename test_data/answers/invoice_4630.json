@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Richardson, Smith and Castro",
+    "invoice_number": "INV-16674",
+    "date": "2025-03-28",
+    "items": [
+        {
+            "description": "Digitized responsive process improvement",
+            "quantity": 2,
+            "unit_price": 201.84,
+            "total_price": 403.68
+        },
+        {
+            "description": "Ameliorated interactive success",
+            "quantity": 5,
+            "unit_price": 132.08,
+            "total_price": 660.4
+        },
+        {
+            "description": "Reduced grid-enabled function",
+            "quantity": 1,
+            "unit_price": 36.02,
+            "total_price": 36.02
+        }
+    ],
+    "amount": 1100.1
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cruz, Eaton and Anderson",
+    "invoice_number": "INV-88883",
+    "date": "2025-04-24",
+    "items": [
+        {
+            "description": "Balanced optimizing projection",
+            "quantity": 2,
+            "unit_price": 416.94,
+            "total_price": 833.88
+        },
+        {
+            "description": "Ergonomic content-based strategy",
+            "quantity": 9,
+            "unit_price": 221.56,
+            "total_price": 1994.04
+        }
+    ],
+    "amount": 2827.92
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Stafford and Sons",
+    "invoice_number": "INV-45352",
+    "date": "2025-07-29",
+    "items": [
+        {
+            "description": "Robust transitional extranet",
+            "quantity": 7,
+            "unit_price": 265.11,
+            "total_price": 1855.77
+        },
+        {
+            "description": "Public-key radical database",
+            "quantity": 10,
+            "unit_price": 144.93,
+            "total_price": 1449.3
+        },
+        {
+            "description": "Assimilated executive pricing structure",
+            "quantity": 3,
+            "unit_price": 465.21,
+            "total_price": 1395.63
+        }
+    ],
+    "amount": 4700.7
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mcbride Ltd",
+    "invoice_number": "INV-52553",
+    "date": "2025-06-30",
+    "items": [
+        {
+            "description": "Distributed tertiary website",
+            "quantity": 3,
+            "unit_price": 391.29,
+            "total_price": 1173.87
+        }
+    ],
+    "amount": 1173.87
+}

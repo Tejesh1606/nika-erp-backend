@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Moore LLC",
+    "invoice_number": "INV-83450",
+    "date": "2026-03-05",
+    "items": [
+        {
+            "description": "Business-focused contextually-based functionalities",
+            "quantity": 10,
+            "unit_price": 389.86,
+            "total_price": 3898.6
+        },
+        {
+            "description": "Object-based composite artificial intelligence",
+            "quantity": 7,
+            "unit_price": 246.79,
+            "total_price": 1727.53
+        },
+        {
+            "description": "Right-sized leadingedge flexibility",
+            "quantity": 1,
+            "unit_price": 213.57,
+            "total_price": 213.57
+        },
+        {
+            "description": "Phased intermediate application",
+            "quantity": 2,
+            "unit_price": 486.55,
+            "total_price": 973.1
+        }
+    ],
+    "amount": 6812.8
+}

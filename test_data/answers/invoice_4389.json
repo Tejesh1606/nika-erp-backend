@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Alvarez, Brown and Weber",
+    "invoice_number": "INV-28602",
+    "date": "2025-05-28",
+    "items": [
+        {
+            "description": "Business-focused mission-critical secured line",
+            "quantity": 8,
+            "unit_price": 243.26,
+            "total_price": 1946.08
+        },
+        {
+            "description": "Balanced 3rdgeneration moderator",
+            "quantity": 1,
+            "unit_price": 277.64,
+            "total_price": 277.64
+        },
+        {
+            "description": "Cloned dedicated data-warehouse",
+            "quantity": 6,
+            "unit_price": 412.48,
+            "total_price": 2474.88
+        },
+        {
+            "description": "Versatile value-added function",
+            "quantity": 4,
+            "unit_price": 228.96,
+            "total_price": 915.84
+        }
+    ],
+    "amount": 5614.44
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Scott, Melendez and Powell",
+    "invoice_number": "INV-97411",
+    "date": "2025-05-24",
+    "items": [
+        {
+            "description": "Expanded explicit conglomeration",
+            "quantity": 4,
+            "unit_price": 390.25,
+            "total_price": 1561.0
+        },
+        {
+            "description": "Right-sized zero-defect pricing structure",
+            "quantity": 5,
+            "unit_price": 34.47,
+            "total_price": 172.35
+        },
+        {
+            "description": "Up-sized grid-enabled approach",
+            "quantity": 6,
+            "unit_price": 175.1,
+            "total_price": 1050.6
+        },
+        {
+            "description": "Quality-focused hybrid Local Area Network",
+            "quantity": 6,
+            "unit_price": 137.4,
+            "total_price": 824.4
+        }
+    ],
+    "amount": 3608.35
+}

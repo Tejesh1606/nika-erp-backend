@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mullins Ltd",
+    "invoice_number": "INV-21722",
+    "date": "2025-04-18",
+    "items": [
+        {
+            "description": "Optional transitional algorithm",
+            "quantity": 2,
+            "unit_price": 323.76,
+            "total_price": 647.52
+        }
+    ],
+    "amount": 647.52
+}

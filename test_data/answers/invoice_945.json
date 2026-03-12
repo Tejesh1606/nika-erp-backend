@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Evans-Martinez",
+    "invoice_number": "INV-52628",
+    "date": "2025-04-02",
+    "items": [
+        {
+            "description": "Universal national contingency",
+            "quantity": 5,
+            "unit_price": 391.86,
+            "total_price": 1959.3
+        },
+        {
+            "description": "Open-architected tangible adapter",
+            "quantity": 9,
+            "unit_price": 172.82,
+            "total_price": 1555.38
+        }
+    ],
+    "amount": 3514.68
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lester Group",
+    "invoice_number": "INV-57636",
+    "date": "2025-11-24",
+    "items": [
+        {
+            "description": "Switchable background infrastructure",
+            "quantity": 9,
+            "unit_price": 467.69,
+            "total_price": 4209.21
+        }
+    ],
+    "amount": 4209.21
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Martinez LLC",
+    "invoice_number": "INV-89591",
+    "date": "2025-08-20",
+    "items": [
+        {
+            "description": "Front-line demand-driven interface",
+            "quantity": 9,
+            "unit_price": 315.88,
+            "total_price": 2842.92
+        },
+        {
+            "description": "Assimilated non-volatile moratorium",
+            "quantity": 7,
+            "unit_price": 290.24,
+            "total_price": 2031.68
+        }
+    ],
+    "amount": 4874.6
+}

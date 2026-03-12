@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Miller LLC",
+    "invoice_number": "INV-95181",
+    "date": "2025-04-19",
+    "items": [
+        {
+            "description": "Managed radical attitude",
+            "quantity": 3,
+            "unit_price": 485.69,
+            "total_price": 1457.07
+        }
+    ],
+    "amount": 1457.07
+}

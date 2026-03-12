@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Shaw PLC",
+    "invoice_number": "INV-44983",
+    "date": "2025-08-29",
+    "items": [
+        {
+            "description": "Upgradable coherent info-mediaries",
+            "quantity": 10,
+            "unit_price": 144.04,
+            "total_price": 1440.4
+        }
+    ],
+    "amount": 1440.4
+}

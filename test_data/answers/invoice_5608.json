@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Walls, Gilbert and Oliver",
+    "invoice_number": "INV-34902",
+    "date": "2025-05-09",
+    "items": [
+        {
+            "description": "Upgradable global knowledge user",
+            "quantity": 9,
+            "unit_price": 113.55,
+            "total_price": 1021.95
+        },
+        {
+            "description": "Progressive radical analyzer",
+            "quantity": 1,
+            "unit_price": 260.95,
+            "total_price": 260.95
+        },
+        {
+            "description": "Reactive motivating groupware",
+            "quantity": 7,
+            "unit_price": 175.4,
+            "total_price": 1227.8
+        },
+        {
+            "description": "Balanced interactive open system",
+            "quantity": 9,
+            "unit_price": 21.8,
+            "total_price": 196.2
+        }
+    ],
+    "amount": 2706.9
+}

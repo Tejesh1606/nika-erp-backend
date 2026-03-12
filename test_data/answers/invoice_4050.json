@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Adams, Cameron and Hart",
+    "invoice_number": "INV-56709",
+    "date": "2025-12-20",
+    "items": [
+        {
+            "description": "Progressive 3rdgeneration core",
+            "quantity": 4,
+            "unit_price": 113.28,
+            "total_price": 453.12
+        },
+        {
+            "description": "Face-to-face 4thgeneration model",
+            "quantity": 3,
+            "unit_price": 165.23,
+            "total_price": 495.69
+        },
+        {
+            "description": "Open-source scalable extranet",
+            "quantity": 5,
+            "unit_price": 155.37,
+            "total_price": 776.85
+        }
+    ],
+    "amount": 1725.66
+}

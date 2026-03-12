@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Morales-Pugh",
+    "invoice_number": "INV-16092",
+    "date": "2025-03-29",
+    "items": [
+        {
+            "description": "Enhanced cohesive access",
+            "quantity": 4,
+            "unit_price": 283.65,
+            "total_price": 1134.6
+        },
+        {
+            "description": "Assimilated secondary encryption",
+            "quantity": 2,
+            "unit_price": 498.01,
+            "total_price": 996.02
+        },
+        {
+            "description": "Team-oriented tangible Internet solution",
+            "quantity": 1,
+            "unit_price": 279.13,
+            "total_price": 279.13
+        },
+        {
+            "description": "Integrated zero administration capacity",
+            "quantity": 1,
+            "unit_price": 196.73,
+            "total_price": 196.73
+        }
+    ],
+    "amount": 2606.48
+}

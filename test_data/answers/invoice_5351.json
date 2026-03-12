@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wilson PLC",
+    "invoice_number": "INV-70640",
+    "date": "2026-02-11",
+    "items": [
+        {
+            "description": "Up-sized impactful Graphical User Interface",
+            "quantity": 10,
+            "unit_price": 30.59,
+            "total_price": 305.9
+        },
+        {
+            "description": "Automated object-oriented time-frame",
+            "quantity": 5,
+            "unit_price": 275.76,
+            "total_price": 1378.8
+        }
+    ],
+    "amount": 1684.7
+}

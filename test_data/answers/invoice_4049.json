@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Horne, Phillips and Blake",
+    "invoice_number": "INV-99020",
+    "date": "2026-01-29",
+    "items": [
+        {
+            "description": "Focused mission-critical project",
+            "quantity": 6,
+            "unit_price": 277.21,
+            "total_price": 1663.26
+        },
+        {
+            "description": "Object-based heuristic extranet",
+            "quantity": 5,
+            "unit_price": 167.65,
+            "total_price": 838.25
+        },
+        {
+            "description": "Expanded radical paradigm",
+            "quantity": 6,
+            "unit_price": 274.04,
+            "total_price": 1644.24
+        }
+    ],
+    "amount": 4145.75
+}

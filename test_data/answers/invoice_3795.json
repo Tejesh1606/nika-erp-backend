@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hill, Moore and Thomas",
+    "invoice_number": "INV-47104",
+    "date": "2025-09-30",
+    "items": [
+        {
+            "description": "Innovative content-based system engine",
+            "quantity": 9,
+            "unit_price": 263.55,
+            "total_price": 2371.95
+        },
+        {
+            "description": "Monitored actuating matrix",
+            "quantity": 7,
+            "unit_price": 146.62,
+            "total_price": 1026.34
+        },
+        {
+            "description": "Grass-roots holistic access",
+            "quantity": 5,
+            "unit_price": 438.85,
+            "total_price": 2194.25
+        },
+        {
+            "description": "Virtual value-added policy",
+            "quantity": 10,
+            "unit_price": 380.51,
+            "total_price": 3805.1
+        }
+    ],
+    "amount": 9397.64
+}

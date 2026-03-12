@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mcclure Ltd",
+    "invoice_number": "INV-22978",
+    "date": "2026-01-26",
+    "items": [
+        {
+            "description": "Pre-emptive reciprocal installation",
+            "quantity": 2,
+            "unit_price": 206.41,
+            "total_price": 412.82
+        },
+        {
+            "description": "Grass-roots 5thgeneration solution",
+            "quantity": 5,
+            "unit_price": 79.73,
+            "total_price": 398.65
+        }
+    ],
+    "amount": 811.47
+}

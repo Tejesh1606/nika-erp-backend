@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Robbins, Martinez and Munoz",
+    "invoice_number": "INV-29252",
+    "date": "2026-03-01",
+    "items": [
+        {
+            "description": "Reduced encompassing firmware",
+            "quantity": 7,
+            "unit_price": 472.25,
+            "total_price": 3305.75
+        },
+        {
+            "description": "User-friendly directional success",
+            "quantity": 3,
+            "unit_price": 445.35,
+            "total_price": 1336.05
+        },
+        {
+            "description": "Customer-focused even-keeled standardization",
+            "quantity": 3,
+            "unit_price": 224.39,
+            "total_price": 673.17
+        },
+        {
+            "description": "Stand-alone asynchronous focus group",
+            "quantity": 1,
+            "unit_price": 146.9,
+            "total_price": 146.9
+        }
+    ],
+    "amount": 5461.87
+}

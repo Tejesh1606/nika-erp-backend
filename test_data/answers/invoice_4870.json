@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Beck, Simpson and Cain",
+    "invoice_number": "INV-53355",
+    "date": "2025-05-06",
+    "items": [
+        {
+            "description": "Cross-platform high-level success",
+            "quantity": 9,
+            "unit_price": 418.69,
+            "total_price": 3768.21
+        },
+        {
+            "description": "Up-sized background flexibility",
+            "quantity": 3,
+            "unit_price": 438.43,
+            "total_price": 1315.29
+        }
+    ],
+    "amount": 5083.5
+}

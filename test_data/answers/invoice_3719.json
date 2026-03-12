@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Stevens PLC",
+    "invoice_number": "INV-56856",
+    "date": "2025-05-08",
+    "items": [
+        {
+            "description": "Synergized dynamic interface",
+            "quantity": 9,
+            "unit_price": 412.39,
+            "total_price": 3711.51
+        },
+        {
+            "description": "Cross-group zero tolerance methodology",
+            "quantity": 4,
+            "unit_price": 28.2,
+            "total_price": 112.8
+        }
+    ],
+    "amount": 3824.31
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Singh, Thomas and Leach",
+    "invoice_number": "INV-64275",
+    "date": "2025-12-20",
+    "items": [
+        {
+            "description": "Right-sized executive superstructure",
+            "quantity": 4,
+            "unit_price": 36.6,
+            "total_price": 146.4
+        },
+        {
+            "description": "Multi-layered eco-centric array",
+            "quantity": 5,
+            "unit_price": 327.02,
+            "total_price": 1635.1
+        }
+    ],
+    "amount": 1781.5
+}

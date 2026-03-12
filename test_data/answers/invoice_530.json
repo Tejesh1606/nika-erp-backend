@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Johnston, Davis and Reynolds",
+    "invoice_number": "INV-61684",
+    "date": "2025-05-05",
+    "items": [
+        {
+            "description": "De-engineered global artificial intelligence",
+            "quantity": 1,
+            "unit_price": 476.84,
+            "total_price": 476.84
+        },
+        {
+            "description": "Phased object-oriented synergy",
+            "quantity": 7,
+            "unit_price": 208.91,
+            "total_price": 1462.37
+        },
+        {
+            "description": "Business-focused neutral initiative",
+            "quantity": 1,
+            "unit_price": 493.43,
+            "total_price": 493.43
+        }
+    ],
+    "amount": 2432.64
+}

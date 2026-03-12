@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Booth, Rodriguez and Armstrong",
+    "invoice_number": "INV-55140",
+    "date": "2026-01-19",
+    "items": [
+        {
+            "description": "Digitized encompassing synergy",
+            "quantity": 1,
+            "unit_price": 20.2,
+            "total_price": 20.2
+        },
+        {
+            "description": "Expanded value-added infrastructure",
+            "quantity": 7,
+            "unit_price": 330.85,
+            "total_price": 2315.95
+        },
+        {
+            "description": "Total fault-tolerant ability",
+            "quantity": 6,
+            "unit_price": 167.9,
+            "total_price": 1007.4
+        },
+        {
+            "description": "Down-sized mobile ability",
+            "quantity": 10,
+            "unit_price": 133.36,
+            "total_price": 1333.6
+        }
+    ],
+    "amount": 4677.15
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Dyer, Scott and Hawkins",
+    "invoice_number": "INV-77331",
+    "date": "2025-11-25",
+    "items": [
+        {
+            "description": "Operative clear-thinking data-warehouse",
+            "quantity": 1,
+            "unit_price": 321.96,
+            "total_price": 321.96
+        }
+    ],
+    "amount": 321.96
+}

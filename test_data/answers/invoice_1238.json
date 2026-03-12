@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Bullock PLC",
+    "invoice_number": "INV-58005",
+    "date": "2025-09-25",
+    "items": [
+        {
+            "description": "Advanced static initiative",
+            "quantity": 5,
+            "unit_price": 86.76,
+            "total_price": 433.8
+        }
+    ],
+    "amount": 433.8
+}

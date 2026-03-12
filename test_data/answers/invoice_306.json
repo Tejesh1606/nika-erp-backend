@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jones, Baker and Williams",
+    "invoice_number": "INV-17925",
+    "date": "2026-01-09",
+    "items": [
+        {
+            "description": "Object-based motivating forecast",
+            "quantity": 10,
+            "unit_price": 59.32,
+            "total_price": 593.2
+        },
+        {
+            "description": "Self-enabling transitional middleware",
+            "quantity": 7,
+            "unit_price": 260.79,
+            "total_price": 1825.53
+        },
+        {
+            "description": "Visionary intangible interface",
+            "quantity": 3,
+            "unit_price": 156.98,
+            "total_price": 470.94
+        }
+    ],
+    "amount": 2889.67
+}

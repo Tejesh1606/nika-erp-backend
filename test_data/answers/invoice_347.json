@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ruiz-Jacobson",
+    "invoice_number": "INV-44734",
+    "date": "2025-04-13",
+    "items": [
+        {
+            "description": "Stand-alone needs-based info-mediaries",
+            "quantity": 2,
+            "unit_price": 387.96,
+            "total_price": 775.92
+        },
+        {
+            "description": "Enterprise-wide holistic implementation",
+            "quantity": 7,
+            "unit_price": 294.91,
+            "total_price": 2064.37
+        }
+    ],
+    "amount": 2840.29
+}

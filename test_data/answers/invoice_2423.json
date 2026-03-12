@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Harmon, Daniel and Morton",
+    "invoice_number": "INV-52068",
+    "date": "2026-02-19",
+    "items": [
+        {
+            "description": "Organized empowering flexibility",
+            "quantity": 4,
+            "unit_price": 134.78,
+            "total_price": 539.12
+        },
+        {
+            "description": "Universal regional infrastructure",
+            "quantity": 9,
+            "unit_price": 291.67,
+            "total_price": 2625.03
+        }
+    ],
+    "amount": 3164.15
+}

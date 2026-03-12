@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Walker, Murphy and Greene",
+    "invoice_number": "INV-14307",
+    "date": "2025-04-18",
+    "items": [
+        {
+            "description": "Networked bi-directional concept",
+            "quantity": 7,
+            "unit_price": 78.65,
+            "total_price": 550.55
+        },
+        {
+            "description": "Monitored zero tolerance throughput",
+            "quantity": 7,
+            "unit_price": 377.27,
+            "total_price": 2640.89
+        }
+    ],
+    "amount": 3191.44
+}

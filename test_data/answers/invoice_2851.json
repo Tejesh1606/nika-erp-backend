@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Nguyen-Blankenship",
+    "invoice_number": "INV-94634",
+    "date": "2025-07-17",
+    "items": [
+        {
+            "description": "Open-source incremental strategy",
+            "quantity": 7,
+            "unit_price": 313.62,
+            "total_price": 2195.34
+        },
+        {
+            "description": "Re-engineered discrete matrix",
+            "quantity": 10,
+            "unit_price": 338.89,
+            "total_price": 3388.9
+        },
+        {
+            "description": "Mandatory fault-tolerant analyzer",
+            "quantity": 3,
+            "unit_price": 141.94,
+            "total_price": 425.82
+        }
+    ],
+    "amount": 6010.06
+}

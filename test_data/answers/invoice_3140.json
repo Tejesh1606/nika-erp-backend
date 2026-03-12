@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Harrington, Brown and Bowman",
+    "invoice_number": "INV-60941",
+    "date": "2025-12-05",
+    "items": [
+        {
+            "description": "Down-sized zero-defect matrices",
+            "quantity": 5,
+            "unit_price": 226.78,
+            "total_price": 1133.9
+        },
+        {
+            "description": "Progressive mission-critical pricing structure",
+            "quantity": 5,
+            "unit_price": 315.94,
+            "total_price": 1579.7
+        },
+        {
+            "description": "Business-focused composite help-desk",
+            "quantity": 6,
+            "unit_price": 472.59,
+            "total_price": 2835.54
+        },
+        {
+            "description": "Re-engineered bandwidth-monitored solution",
+            "quantity": 4,
+            "unit_price": 344.34,
+            "total_price": 1377.36
+        }
+    ],
+    "amount": 6926.5
+}

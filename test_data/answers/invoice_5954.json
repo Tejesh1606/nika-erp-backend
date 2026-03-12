@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Holmes-Buchanan",
+    "invoice_number": "INV-68800",
+    "date": "2025-06-21",
+    "items": [
+        {
+            "description": "Upgradable content-based installation",
+            "quantity": 8,
+            "unit_price": 207.82,
+            "total_price": 1662.56
+        },
+        {
+            "description": "Team-oriented executive complexity",
+            "quantity": 1,
+            "unit_price": 439.37,
+            "total_price": 439.37
+        },
+        {
+            "description": "Managed even-keeled conglomeration",
+            "quantity": 2,
+            "unit_price": 202.92,
+            "total_price": 405.84
+        }
+    ],
+    "amount": 2507.77
+}

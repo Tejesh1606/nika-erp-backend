@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gonzalez, Ellis and Becker",
+    "invoice_number": "INV-19220",
+    "date": "2025-04-28",
+    "items": [
+        {
+            "description": "Synchronized motivating productivity",
+            "quantity": 3,
+            "unit_price": 223.93,
+            "total_price": 671.79
+        },
+        {
+            "description": "Re-engineered multi-state parallelism",
+            "quantity": 3,
+            "unit_price": 234.02,
+            "total_price": 702.06
+        },
+        {
+            "description": "Secured uniform emulation",
+            "quantity": 8,
+            "unit_price": 363.12,
+            "total_price": 2904.96
+        },
+        {
+            "description": "Adaptive systemic methodology",
+            "quantity": 9,
+            "unit_price": 299.05,
+            "total_price": 2691.45
+        }
+    ],
+    "amount": 6970.26
+}

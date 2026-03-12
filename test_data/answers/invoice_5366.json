@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Johnson Ltd",
+    "invoice_number": "INV-92422",
+    "date": "2026-02-19",
+    "items": [
+        {
+            "description": "De-engineered solution-oriented hardware",
+            "quantity": 9,
+            "unit_price": 161.46,
+            "total_price": 1453.14
+        },
+        {
+            "description": "User-centric grid-enabled customer loyalty",
+            "quantity": 2,
+            "unit_price": 102.4,
+            "total_price": 204.8
+        },
+        {
+            "description": "Right-sized full-range protocol",
+            "quantity": 3,
+            "unit_price": 236.24,
+            "total_price": 708.72
+        }
+    ],
+    "amount": 2366.66
+}

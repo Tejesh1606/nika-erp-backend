@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Harris, Randall and Mcdonald",
+    "invoice_number": "INV-97024",
+    "date": "2025-09-18",
+    "items": [
+        {
+            "description": "Multi-tiered holistic ability",
+            "quantity": 10,
+            "unit_price": 170.51,
+            "total_price": 1705.1
+        },
+        {
+            "description": "Re-engineered empowering infrastructure",
+            "quantity": 8,
+            "unit_price": 328.41,
+            "total_price": 2627.28
+        },
+        {
+            "description": "Enterprise-wide 24/7 leverage",
+            "quantity": 2,
+            "unit_price": 387.28,
+            "total_price": 774.56
+        }
+    ],
+    "amount": 5106.94
+}

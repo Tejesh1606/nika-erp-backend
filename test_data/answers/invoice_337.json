@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Taylor-Moore",
+    "invoice_number": "INV-67261",
+    "date": "2026-01-10",
+    "items": [
+        {
+            "description": "Sharable mobile projection",
+            "quantity": 7,
+            "unit_price": 454.84,
+            "total_price": 3183.88
+        },
+        {
+            "description": "Intuitive context-sensitive strategy",
+            "quantity": 7,
+            "unit_price": 168.2,
+            "total_price": 1177.4
+        },
+        {
+            "description": "Realigned system-worthy pricing structure",
+            "quantity": 1,
+            "unit_price": 41.79,
+            "total_price": 41.79
+        }
+    ],
+    "amount": 4403.07
+}

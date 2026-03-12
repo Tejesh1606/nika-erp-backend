@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Santos-Hatfield",
+    "invoice_number": "INV-54758",
+    "date": "2025-07-04",
+    "items": [
+        {
+            "description": "Public-key real-time Graphic Interface",
+            "quantity": 5,
+            "unit_price": 66.47,
+            "total_price": 332.35
+        },
+        {
+            "description": "Integrated methodical migration",
+            "quantity": 9,
+            "unit_price": 479.27,
+            "total_price": 4313.43
+        },
+        {
+            "description": "Pre-emptive human-resource system engine",
+            "quantity": 4,
+            "unit_price": 243.79,
+            "total_price": 975.16
+        },
+        {
+            "description": "Team-oriented optimizing solution",
+            "quantity": 3,
+            "unit_price": 379.39,
+            "total_price": 1138.17
+        }
+    ],
+    "amount": 6759.11
+}

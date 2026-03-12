@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Le LLC",
+    "invoice_number": "INV-53188",
+    "date": "2025-03-26",
+    "items": [
+        {
+            "description": "Customizable global focus group",
+            "quantity": 4,
+            "unit_price": 213.81,
+            "total_price": 855.24
+        },
+        {
+            "description": "Decentralized methodical methodology",
+            "quantity": 9,
+            "unit_price": 12.67,
+            "total_price": 114.03
+        }
+    ],
+    "amount": 969.27
+}

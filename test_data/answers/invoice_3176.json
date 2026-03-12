@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Myers-Rodriguez",
+    "invoice_number": "INV-25313",
+    "date": "2025-12-24",
+    "items": [
+        {
+            "description": "Fully-configurable upward-trending orchestration",
+            "quantity": 3,
+            "unit_price": 446.48,
+            "total_price": 1339.44
+        },
+        {
+            "description": "Robust web-enabled productivity",
+            "quantity": 5,
+            "unit_price": 110.9,
+            "total_price": 554.5
+        },
+        {
+            "description": "Polarized object-oriented policy",
+            "quantity": 10,
+            "unit_price": 70.93,
+            "total_price": 709.3
+        },
+        {
+            "description": "De-engineered maximized benchmark",
+            "quantity": 8,
+            "unit_price": 39.34,
+            "total_price": 314.72
+        }
+    ],
+    "amount": 2917.96
+}

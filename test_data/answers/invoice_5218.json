@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Russell, Diaz and Decker",
+    "invoice_number": "INV-61945",
+    "date": "2025-09-05",
+    "items": [
+        {
+            "description": "Right-sized upward-trending time-frame",
+            "quantity": 4,
+            "unit_price": 148.26,
+            "total_price": 593.04
+        },
+        {
+            "description": "Reduced incremental focus group",
+            "quantity": 4,
+            "unit_price": 263.26,
+            "total_price": 1053.04
+        }
+    ],
+    "amount": 1646.08
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Gray-Pena",
+    "invoice_number": "INV-22531",
+    "date": "2025-11-21",
+    "items": [
+        {
+            "description": "User-centric reciprocal system engine",
+            "quantity": 3,
+            "unit_price": 234.78,
+            "total_price": 704.34
+        },
+        {
+            "description": "Balanced asynchronous budgetary management",
+            "quantity": 8,
+            "unit_price": 493.85,
+            "total_price": 3950.8
+        },
+        {
+            "description": "Virtual demand-driven extranet",
+            "quantity": 8,
+            "unit_price": 412.11,
+            "total_price": 3296.88
+        }
+    ],
+    "amount": 7952.02
+}

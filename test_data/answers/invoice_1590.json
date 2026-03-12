@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Rogers PLC",
+    "invoice_number": "INV-52879",
+    "date": "2025-10-25",
+    "items": [
+        {
+            "description": "Multi-tiered attitude-oriented attitude",
+            "quantity": 9,
+            "unit_price": 423.09,
+            "total_price": 3807.81
+        },
+        {
+            "description": "Configurable attitude-oriented utilization",
+            "quantity": 2,
+            "unit_price": 42.39,
+            "total_price": 84.78
+        }
+    ],
+    "amount": 3892.59
+}

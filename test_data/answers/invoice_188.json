@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Morgan, Bradshaw and Williams",
+    "invoice_number": "INV-13718",
+    "date": "2025-04-09",
+    "items": [
+        {
+            "description": "Balanced secondary throughput",
+            "quantity": 7,
+            "unit_price": 432.38,
+            "total_price": 3026.66
+        },
+        {
+            "description": "Re-engineered empowering projection",
+            "quantity": 6,
+            "unit_price": 115.6,
+            "total_price": 693.6
+        },
+        {
+            "description": "Expanded zero administration orchestration",
+            "quantity": 1,
+            "unit_price": 54.11,
+            "total_price": 54.11
+        }
+    ],
+    "amount": 3774.37
+}

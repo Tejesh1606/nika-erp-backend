@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wallace-George",
+    "invoice_number": "INV-16378",
+    "date": "2026-01-02",
+    "items": [
+        {
+            "description": "Multi-tiered zero administration customer loyalty",
+            "quantity": 4,
+            "unit_price": 190.6,
+            "total_price": 762.4
+        }
+    ],
+    "amount": 762.4
+}

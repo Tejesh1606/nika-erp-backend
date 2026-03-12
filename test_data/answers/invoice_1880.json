@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Gamble Group",
+    "invoice_number": "INV-44487",
+    "date": "2026-02-03",
+    "items": [
+        {
+            "description": "Down-sized scalable workforce",
+            "quantity": 6,
+            "unit_price": 123.36,
+            "total_price": 740.16
+        },
+        {
+            "description": "Optimized asynchronous circuit",
+            "quantity": 3,
+            "unit_price": 377.23,
+            "total_price": 1131.69
+        },
+        {
+            "description": "Upgradable bifurcated concept",
+            "quantity": 6,
+            "unit_price": 116.25,
+            "total_price": 697.5
+        }
+    ],
+    "amount": 2569.35
+}

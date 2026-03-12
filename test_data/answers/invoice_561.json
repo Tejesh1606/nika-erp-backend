@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ramos-Burke",
+    "invoice_number": "INV-10861",
+    "date": "2025-06-12",
+    "items": [
+        {
+            "description": "Reactive even-keeled process improvement",
+            "quantity": 3,
+            "unit_price": 181.41,
+            "total_price": 544.23
+        }
+    ],
+    "amount": 544.23
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Saunders-Thomas",
+    "invoice_number": "INV-83433",
+    "date": "2025-03-20",
+    "items": [
+        {
+            "description": "Robust bifurcated instruction set",
+            "quantity": 7,
+            "unit_price": 437.54,
+            "total_price": 3062.78
+        }
+    ],
+    "amount": 3062.78
+}

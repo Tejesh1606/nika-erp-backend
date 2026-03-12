@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jackson-Moore",
+    "invoice_number": "INV-34060",
+    "date": "2026-02-09",
+    "items": [
+        {
+            "description": "Monitored 24/7 system engine",
+            "quantity": 3,
+            "unit_price": 39.16,
+            "total_price": 117.48
+        },
+        {
+            "description": "Customer-focused national contingency",
+            "quantity": 5,
+            "unit_price": 366.71,
+            "total_price": 1833.55
+        },
+        {
+            "description": "Multi-channeled upward-trending utilization",
+            "quantity": 10,
+            "unit_price": 479.24,
+            "total_price": 4792.4
+        }
+    ],
+    "amount": 6743.43
+}

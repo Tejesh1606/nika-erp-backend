@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Miller PLC",
+    "invoice_number": "INV-57925",
+    "date": "2025-10-22",
+    "items": [
+        {
+            "description": "Centralized zero administration hardware",
+            "quantity": 10,
+            "unit_price": 243.72,
+            "total_price": 2437.2
+        }
+    ],
+    "amount": 2437.2
+}

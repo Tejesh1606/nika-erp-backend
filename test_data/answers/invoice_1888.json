@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gregory, Jackson and Jackson",
+    "invoice_number": "INV-35117",
+    "date": "2026-02-08",
+    "items": [
+        {
+            "description": "Realigned national implementation",
+            "quantity": 3,
+            "unit_price": 101.46,
+            "total_price": 304.38
+        },
+        {
+            "description": "Synergized composite archive",
+            "quantity": 3,
+            "unit_price": 177.56,
+            "total_price": 532.68
+        },
+        {
+            "description": "Phased heuristic structure",
+            "quantity": 7,
+            "unit_price": 328.99,
+            "total_price": 2302.93
+        },
+        {
+            "description": "Advanced solution-oriented moratorium",
+            "quantity": 1,
+            "unit_price": 145.2,
+            "total_price": 145.2
+        }
+    ],
+    "amount": 3285.19
+}

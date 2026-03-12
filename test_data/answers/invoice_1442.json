@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gonzalez, Walters and Carter",
+    "invoice_number": "INV-20888",
+    "date": "2025-07-24",
+    "items": [
+        {
+            "description": "Robust modular adapter",
+            "quantity": 2,
+            "unit_price": 48.55,
+            "total_price": 97.1
+        },
+        {
+            "description": "Secured optimizing instruction set",
+            "quantity": 1,
+            "unit_price": 489.18,
+            "total_price": 489.18
+        }
+    ],
+    "amount": 586.28
+}

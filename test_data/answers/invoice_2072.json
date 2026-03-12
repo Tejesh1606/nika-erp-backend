@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hanson and Sons",
+    "invoice_number": "INV-11221",
+    "date": "2025-04-30",
+    "items": [
+        {
+            "description": "Ameliorated client-driven groupware",
+            "quantity": 8,
+            "unit_price": 368.01,
+            "total_price": 2944.08
+        },
+        {
+            "description": "Open-architected object-oriented benchmark",
+            "quantity": 6,
+            "unit_price": 448.09,
+            "total_price": 2688.54
+        }
+    ],
+    "amount": 5632.62
+}

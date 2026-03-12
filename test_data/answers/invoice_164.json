@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Martinez-Allen",
+    "invoice_number": "INV-93748",
+    "date": "2026-01-11",
+    "items": [
+        {
+            "description": "Secured logistical architecture",
+            "quantity": 7,
+            "unit_price": 121.41,
+            "total_price": 849.87
+        }
+    ],
+    "amount": 849.87
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Martinez and Sons",
+    "invoice_number": "INV-67840",
+    "date": "2025-09-02",
+    "items": [
+        {
+            "description": "Adaptive interactive customer loyalty",
+            "quantity": 2,
+            "unit_price": 234.13,
+            "total_price": 468.26
+        },
+        {
+            "description": "Team-oriented clear-thinking projection",
+            "quantity": 5,
+            "unit_price": 79.44,
+            "total_price": 397.2
+        },
+        {
+            "description": "Innovative cohesive focus group",
+            "quantity": 2,
+            "unit_price": 120.83,
+            "total_price": 241.66
+        },
+        {
+            "description": "Cross-group solution-oriented hierarchy",
+            "quantity": 7,
+            "unit_price": 379.56,
+            "total_price": 2656.92
+        }
+    ],
+    "amount": 3764.04
+}

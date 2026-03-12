@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Carter and Sons",
+    "invoice_number": "INV-53019",
+    "date": "2025-12-01",
+    "items": [
+        {
+            "description": "User-friendly national projection",
+            "quantity": 9,
+            "unit_price": 383.86,
+            "total_price": 3454.74
+        },
+        {
+            "description": "Seamless user-facing middleware",
+            "quantity": 6,
+            "unit_price": 388.39,
+            "total_price": 2330.34
+        },
+        {
+            "description": "Reactive asymmetric algorithm",
+            "quantity": 5,
+            "unit_price": 11.51,
+            "total_price": 57.55
+        },
+        {
+            "description": "Self-enabling needs-based functionalities",
+            "quantity": 10,
+            "unit_price": 305.44,
+            "total_price": 3054.4
+        }
+    ],
+    "amount": 8897.03
+}

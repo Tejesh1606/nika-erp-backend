@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Miller and Sons",
+    "invoice_number": "INV-45895",
+    "date": "2025-11-30",
+    "items": [
+        {
+            "description": "Centralized stable superstructure",
+            "quantity": 7,
+            "unit_price": 245.38,
+            "total_price": 1717.66
+        },
+        {
+            "description": "Grass-roots optimizing info-mediaries",
+            "quantity": 3,
+            "unit_price": 337.62,
+            "total_price": 1012.86
+        },
+        {
+            "description": "Configurable regional instruction set",
+            "quantity": 2,
+            "unit_price": 299.2,
+            "total_price": 598.4
+        }
+    ],
+    "amount": 3328.92
+}

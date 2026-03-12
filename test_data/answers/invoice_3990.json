@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Shannon-Valdez",
+    "invoice_number": "INV-74900",
+    "date": "2025-12-23",
+    "items": [
+        {
+            "description": "Front-line transitional protocol",
+            "quantity": 8,
+            "unit_price": 86.32,
+            "total_price": 690.56
+        }
+    ],
+    "amount": 690.56
+}

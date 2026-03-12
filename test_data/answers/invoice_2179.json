@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cantu-Pope",
+    "invoice_number": "INV-79590",
+    "date": "2025-09-17",
+    "items": [
+        {
+            "description": "Expanded homogeneous system engine",
+            "quantity": 1,
+            "unit_price": 335.66,
+            "total_price": 335.66
+        },
+        {
+            "description": "Open-architected client-driven intranet",
+            "quantity": 6,
+            "unit_price": 442.36,
+            "total_price": 2654.16
+        }
+    ],
+    "amount": 2989.82
+}

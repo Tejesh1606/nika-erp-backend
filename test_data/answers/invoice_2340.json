@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Peck, Sullivan and Sherman",
+    "invoice_number": "INV-49305",
+    "date": "2025-08-29",
+    "items": [
+        {
+            "description": "Enhanced neutral installation",
+            "quantity": 10,
+            "unit_price": 435.69,
+            "total_price": 4356.9
+        },
+        {
+            "description": "Ergonomic optimizing task-force",
+            "quantity": 9,
+            "unit_price": 52.9,
+            "total_price": 476.1
+        }
+    ],
+    "amount": 4833.0
+}

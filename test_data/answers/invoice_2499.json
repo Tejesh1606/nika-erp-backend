@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Beltran, Smith and Morris",
+    "invoice_number": "INV-93914",
+    "date": "2025-11-12",
+    "items": [
+        {
+            "description": "Face-to-face object-oriented extranet",
+            "quantity": 7,
+            "unit_price": 288.16,
+            "total_price": 2017.12
+        },
+        {
+            "description": "Synergistic 3rdgeneration Graphical User Interface",
+            "quantity": 8,
+            "unit_price": 89.45,
+            "total_price": 715.6
+        },
+        {
+            "description": "Reduced responsive task-force",
+            "quantity": 2,
+            "unit_price": 396.95,
+            "total_price": 793.9
+        },
+        {
+            "description": "Reactive 6thgeneration challenge",
+            "quantity": 1,
+            "unit_price": 267.87,
+            "total_price": 267.87
+        }
+    ],
+    "amount": 3794.49
+}

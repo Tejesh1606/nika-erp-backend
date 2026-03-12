@@ -1,0 +1,32 @@
+{
+    "vendor_name": "White PLC",
+    "invoice_number": "INV-17229",
+    "date": "2025-12-23",
+    "items": [
+        {
+            "description": "Stand-alone fresh-thinking workforce",
+            "quantity": 1,
+            "unit_price": 130.47,
+            "total_price": 130.47
+        },
+        {
+            "description": "Future-proofed executive workforce",
+            "quantity": 7,
+            "unit_price": 213.69,
+            "total_price": 1495.83
+        },
+        {
+            "description": "Cross-platform logistical array",
+            "quantity": 9,
+            "unit_price": 431.16,
+            "total_price": 3880.44
+        },
+        {
+            "description": "Ameliorated grid-enabled implementation",
+            "quantity": 7,
+            "unit_price": 109.29,
+            "total_price": 765.03
+        }
+    ],
+    "amount": 6271.77
+}

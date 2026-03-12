@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Erickson-Kent",
+    "invoice_number": "INV-49634",
+    "date": "2025-03-29",
+    "items": [
+        {
+            "description": "Quality-focused tangible methodology",
+            "quantity": 5,
+            "unit_price": 278.09,
+            "total_price": 1390.45
+        },
+        {
+            "description": "Pre-emptive client-driven archive",
+            "quantity": 5,
+            "unit_price": 13.28,
+            "total_price": 66.4
+        }
+    ],
+    "amount": 1456.85
+}

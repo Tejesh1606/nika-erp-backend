@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Conley Inc",
+    "invoice_number": "INV-86225",
+    "date": "2026-01-06",
+    "items": [
+        {
+            "description": "Face-to-face mission-critical monitoring",
+            "quantity": 6,
+            "unit_price": 28.79,
+            "total_price": 172.74
+        },
+        {
+            "description": "Compatible empowering service-desk",
+            "quantity": 3,
+            "unit_price": 365.48,
+            "total_price": 1096.44
+        }
+    ],
+    "amount": 1269.18
+}

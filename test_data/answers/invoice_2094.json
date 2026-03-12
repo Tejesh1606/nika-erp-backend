@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Moore PLC",
+    "invoice_number": "INV-51488",
+    "date": "2025-08-16",
+    "items": [
+        {
+            "description": "Focused encompassing contingency",
+            "quantity": 4,
+            "unit_price": 148.17,
+            "total_price": 592.68
+        },
+        {
+            "description": "Organized modular leverage",
+            "quantity": 5,
+            "unit_price": 408.23,
+            "total_price": 2041.15
+        }
+    ],
+    "amount": 2633.83
+}

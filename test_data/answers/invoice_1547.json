@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Davila-Ball",
+    "invoice_number": "INV-47249",
+    "date": "2025-08-22",
+    "items": [
+        {
+            "description": "Front-line discrete definition",
+            "quantity": 5,
+            "unit_price": 39.8,
+            "total_price": 199.0
+        },
+        {
+            "description": "Secured real-time orchestration",
+            "quantity": 6,
+            "unit_price": 16.21,
+            "total_price": 97.26
+        },
+        {
+            "description": "Versatile encompassing neural-net",
+            "quantity": 3,
+            "unit_price": 335.98,
+            "total_price": 1007.94
+        },
+        {
+            "description": "Multi-channeled disintermediate collaboration",
+            "quantity": 1,
+            "unit_price": 223.89,
+            "total_price": 223.89
+        }
+    ],
+    "amount": 1528.09
+}

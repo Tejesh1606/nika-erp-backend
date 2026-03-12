@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Morrison Group",
+    "invoice_number": "INV-16715",
+    "date": "2025-07-29",
+    "items": [
+        {
+            "description": "Open-source dedicated installation",
+            "quantity": 1,
+            "unit_price": 265.3,
+            "total_price": 265.3
+        },
+        {
+            "description": "Balanced leadingedge artificial intelligence",
+            "quantity": 10,
+            "unit_price": 249.34,
+            "total_price": 2493.4
+        },
+        {
+            "description": "Distributed exuding capability",
+            "quantity": 3,
+            "unit_price": 182.36,
+            "total_price": 547.08
+        }
+    ],
+    "amount": 3305.78
+}

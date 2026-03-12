@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Moran, Williams and Smith",
+    "invoice_number": "INV-54150",
+    "date": "2025-07-03",
+    "items": [
+        {
+            "description": "Quality-focused attitude-oriented neural-net",
+            "quantity": 4,
+            "unit_price": 452.88,
+            "total_price": 1811.52
+        },
+        {
+            "description": "Optimized mission-critical firmware",
+            "quantity": 7,
+            "unit_price": 461.15,
+            "total_price": 3228.05
+        },
+        {
+            "description": "Networked dynamic analyzer",
+            "quantity": 5,
+            "unit_price": 152.87,
+            "total_price": 764.35
+        }
+    ],
+    "amount": 5803.92
+}

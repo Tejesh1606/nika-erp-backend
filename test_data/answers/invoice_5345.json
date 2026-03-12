@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Odom PLC",
+    "invoice_number": "INV-88468",
+    "date": "2025-12-19",
+    "items": [
+        {
+            "description": "Virtual intangible hierarchy",
+            "quantity": 5,
+            "unit_price": 459.29,
+            "total_price": 2296.45
+        }
+    ],
+    "amount": 2296.45
+}

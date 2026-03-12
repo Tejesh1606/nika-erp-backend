@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Barker-Gould",
+    "invoice_number": "INV-64646",
+    "date": "2026-01-22",
+    "items": [
+        {
+            "description": "Diverse client-server middleware",
+            "quantity": 7,
+            "unit_price": 428.95,
+            "total_price": 3002.65
+        },
+        {
+            "description": "De-engineered mobile structure",
+            "quantity": 4,
+            "unit_price": 258.78,
+            "total_price": 1035.12
+        },
+        {
+            "description": "Persevering clear-thinking strategy",
+            "quantity": 7,
+            "unit_price": 275.24,
+            "total_price": 1926.68
+        },
+        {
+            "description": "Profound multi-tasking capability",
+            "quantity": 2,
+            "unit_price": 157.68,
+            "total_price": 315.36
+        }
+    ],
+    "amount": 6279.81
+}

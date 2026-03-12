@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hickman LLC",
+    "invoice_number": "INV-60264",
+    "date": "2025-12-31",
+    "items": [
+        {
+            "description": "Grass-roots directional success",
+            "quantity": 4,
+            "unit_price": 499.39,
+            "total_price": 1997.56
+        },
+        {
+            "description": "Function-based static leverage",
+            "quantity": 7,
+            "unit_price": 480.37,
+            "total_price": 3362.59
+        },
+        {
+            "description": "Synchronized bottom-line secured line",
+            "quantity": 8,
+            "unit_price": 196.73,
+            "total_price": 1573.84
+        },
+        {
+            "description": "Devolved national productivity",
+            "quantity": 1,
+            "unit_price": 253.73,
+            "total_price": 253.73
+        }
+    ],
+    "amount": 7187.72
+}

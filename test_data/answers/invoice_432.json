@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Davenport, Lee and White",
+    "invoice_number": "INV-84356",
+    "date": "2026-02-02",
+    "items": [
+        {
+            "description": "Business-focused web-enabled neural-net",
+            "quantity": 4,
+            "unit_price": 213.37,
+            "total_price": 853.48
+        },
+        {
+            "description": "Persistent secondary neural-net",
+            "quantity": 5,
+            "unit_price": 23.14,
+            "total_price": 115.7
+        },
+        {
+            "description": "Compatible explicit secured line",
+            "quantity": 2,
+            "unit_price": 27.54,
+            "total_price": 55.08
+        }
+    ],
+    "amount": 1024.26
+}

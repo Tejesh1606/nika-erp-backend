@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Chandler-Lewis",
+    "invoice_number": "INV-83373",
+    "date": "2026-02-12",
+    "items": [
+        {
+            "description": "Ergonomic homogeneous hub",
+            "quantity": 8,
+            "unit_price": 190.25,
+            "total_price": 1522.0
+        }
+    ],
+    "amount": 1522.0
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ramirez and Sons",
+    "invoice_number": "INV-19880",
+    "date": "2025-08-28",
+    "items": [
+        {
+            "description": "Reactive bandwidth-monitored application",
+            "quantity": 6,
+            "unit_price": 207.6,
+            "total_price": 1245.6
+        }
+    ],
+    "amount": 1245.6
+}

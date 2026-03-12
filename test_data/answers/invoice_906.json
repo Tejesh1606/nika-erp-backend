@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Curtis Group",
+    "invoice_number": "INV-42347",
+    "date": "2025-06-11",
+    "items": [
+        {
+            "description": "Polarized 5thgeneration hierarchy",
+            "quantity": 7,
+            "unit_price": 234.45,
+            "total_price": 1641.15
+        }
+    ],
+    "amount": 1641.15
+}

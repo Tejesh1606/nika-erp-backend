@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mcdaniel and Sons",
+    "invoice_number": "INV-73852",
+    "date": "2026-01-05",
+    "items": [
+        {
+            "description": "Upgradable static circuit",
+            "quantity": 5,
+            "unit_price": 470.97,
+            "total_price": 2354.85
+        },
+        {
+            "description": "Front-line asymmetric capability",
+            "quantity": 7,
+            "unit_price": 266.8,
+            "total_price": 1867.6
+        },
+        {
+            "description": "Total encompassing definition",
+            "quantity": 5,
+            "unit_price": 243.03,
+            "total_price": 1215.15
+        },
+        {
+            "description": "Horizontal asymmetric superstructure",
+            "quantity": 10,
+            "unit_price": 37.14,
+            "total_price": 371.4
+        }
+    ],
+    "amount": 5809.0
+}

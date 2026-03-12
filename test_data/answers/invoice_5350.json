@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Fields and Sons",
+    "invoice_number": "INV-37769",
+    "date": "2025-04-04",
+    "items": [
+        {
+            "description": "Multi-channeled dynamic pricing structure",
+            "quantity": 6,
+            "unit_price": 245.22,
+            "total_price": 1471.32
+        },
+        {
+            "description": "Future-proofed cohesive neural-net",
+            "quantity": 9,
+            "unit_price": 228.92,
+            "total_price": 2060.28
+        }
+    ],
+    "amount": 3531.6
+}

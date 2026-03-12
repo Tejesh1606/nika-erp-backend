@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Marks PLC",
+    "invoice_number": "INV-26271",
+    "date": "2026-01-25",
+    "items": [
+        {
+            "description": "Customer-focused optimal website",
+            "quantity": 1,
+            "unit_price": 479.55,
+            "total_price": 479.55
+        },
+        {
+            "description": "Seamless clear-thinking superstructure",
+            "quantity": 2,
+            "unit_price": 178.72,
+            "total_price": 357.44
+        },
+        {
+            "description": "Intuitive homogeneous protocol",
+            "quantity": 8,
+            "unit_price": 206.33,
+            "total_price": 1650.64
+        },
+        {
+            "description": "Synergistic radical circuit",
+            "quantity": 2,
+            "unit_price": 334.82,
+            "total_price": 669.64
+        }
+    ],
+    "amount": 3157.27
+}

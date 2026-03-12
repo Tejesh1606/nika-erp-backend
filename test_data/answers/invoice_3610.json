@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gordon-Wilson",
+    "invoice_number": "INV-83207",
+    "date": "2025-05-09",
+    "items": [
+        {
+            "description": "Open-architected optimizing secured line",
+            "quantity": 3,
+            "unit_price": 404.73,
+            "total_price": 1214.19
+        },
+        {
+            "description": "Reverse-engineered dedicated frame",
+            "quantity": 6,
+            "unit_price": 182.72,
+            "total_price": 1096.32
+        }
+    ],
+    "amount": 2310.51
+}

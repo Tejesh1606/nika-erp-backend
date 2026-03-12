@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wilson, Conway and Davis",
+    "invoice_number": "INV-86149",
+    "date": "2025-08-20",
+    "items": [
+        {
+            "description": "Customizable heuristic interface",
+            "quantity": 1,
+            "unit_price": 346.81,
+            "total_price": 346.81
+        },
+        {
+            "description": "Balanced modular neural-net",
+            "quantity": 3,
+            "unit_price": 495.53,
+            "total_price": 1486.59
+        }
+    ],
+    "amount": 1833.4
+}

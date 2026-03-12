@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Espinoza, Garcia and Moyer",
+    "invoice_number": "INV-32512",
+    "date": "2025-10-26",
+    "items": [
+        {
+            "description": "Balanced composite contingency",
+            "quantity": 5,
+            "unit_price": 288.77,
+            "total_price": 1443.85
+        },
+        {
+            "description": "Visionary asynchronous hub",
+            "quantity": 3,
+            "unit_price": 243.91,
+            "total_price": 731.73
+        },
+        {
+            "description": "Vision-oriented exuding encoding",
+            "quantity": 10,
+            "unit_price": 37.43,
+            "total_price": 374.3
+        }
+    ],
+    "amount": 2549.88
+}

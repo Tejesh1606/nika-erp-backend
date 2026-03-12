@@ -1,0 +1,26 @@
+{
+    "vendor_name": "King and Sons",
+    "invoice_number": "INV-71474",
+    "date": "2025-04-22",
+    "items": [
+        {
+            "description": "Synergized optimal intranet",
+            "quantity": 8,
+            "unit_price": 359.96,
+            "total_price": 2879.68
+        },
+        {
+            "description": "Implemented global data-warehouse",
+            "quantity": 5,
+            "unit_price": 153.8,
+            "total_price": 769.0
+        },
+        {
+            "description": "Cloned explicit hierarchy",
+            "quantity": 7,
+            "unit_price": 47.28,
+            "total_price": 330.96
+        }
+    ],
+    "amount": 3979.64
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hoover Inc",
+    "invoice_number": "INV-24165",
+    "date": "2025-08-30",
+    "items": [
+        {
+            "description": "Innovative 6thgeneration collaboration",
+            "quantity": 4,
+            "unit_price": 250.47,
+            "total_price": 1001.88
+        },
+        {
+            "description": "Business-focused regional middleware",
+            "quantity": 10,
+            "unit_price": 228.68,
+            "total_price": 2286.8
+        },
+        {
+            "description": "Stand-alone exuding standardization",
+            "quantity": 2,
+            "unit_price": 353.15,
+            "total_price": 706.3
+        },
+        {
+            "description": "Integrated intermediate process improvement",
+            "quantity": 1,
+            "unit_price": 70.17,
+            "total_price": 70.17
+        }
+    ],
+    "amount": 4065.15
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Snyder, Campos and Callahan",
+    "invoice_number": "INV-30033",
+    "date": "2025-11-07",
+    "items": [
+        {
+            "description": "Diverse systemic interface",
+            "quantity": 8,
+            "unit_price": 62.03,
+            "total_price": 496.24
+        },
+        {
+            "description": "Right-sized asymmetric info-mediaries",
+            "quantity": 2,
+            "unit_price": 337.14,
+            "total_price": 674.28
+        },
+        {
+            "description": "Multi-tiered radical Local Area Network",
+            "quantity": 9,
+            "unit_price": 306.26,
+            "total_price": 2756.34
+        },
+        {
+            "description": "Progressive eco-centric neural-net",
+            "quantity": 2,
+            "unit_price": 401.95,
+            "total_price": 803.9
+        }
+    ],
+    "amount": 4730.76
+}

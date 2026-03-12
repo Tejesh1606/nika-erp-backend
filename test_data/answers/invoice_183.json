@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Fox-Hammond",
+    "invoice_number": "INV-85353",
+    "date": "2025-04-06",
+    "items": [
+        {
+            "description": "De-engineered foreground project",
+            "quantity": 9,
+            "unit_price": 321.49,
+            "total_price": 2893.41
+        }
+    ],
+    "amount": 2893.41
+}

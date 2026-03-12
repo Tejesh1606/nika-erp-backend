@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wood-Williams",
+    "invoice_number": "INV-37102",
+    "date": "2025-09-26",
+    "items": [
+        {
+            "description": "Multi-lateral human-resource leverage",
+            "quantity": 6,
+            "unit_price": 356.46,
+            "total_price": 2138.76
+        },
+        {
+            "description": "Persevering 6thgeneration analyzer",
+            "quantity": 10,
+            "unit_price": 207.27,
+            "total_price": 2072.7
+        },
+        {
+            "description": "Streamlined fresh-thinking benchmark",
+            "quantity": 3,
+            "unit_price": 431.42,
+            "total_price": 1294.26
+        }
+    ],
+    "amount": 5505.72
+}

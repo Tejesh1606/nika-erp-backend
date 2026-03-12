@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Fleming, Drake and Osborne",
+    "invoice_number": "INV-42151",
+    "date": "2025-06-04",
+    "items": [
+        {
+            "description": "Ameliorated intermediate matrices",
+            "quantity": 1,
+            "unit_price": 452.96,
+            "total_price": 452.96
+        },
+        {
+            "description": "Future-proofed full-range migration",
+            "quantity": 9,
+            "unit_price": 392.27,
+            "total_price": 3530.43
+        }
+    ],
+    "amount": 3983.39
+}

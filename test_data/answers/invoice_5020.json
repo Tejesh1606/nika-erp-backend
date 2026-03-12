@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Rivera LLC",
+    "invoice_number": "INV-60902",
+    "date": "2026-01-15",
+    "items": [
+        {
+            "description": "Ergonomic zero tolerance infrastructure",
+            "quantity": 6,
+            "unit_price": 100.43,
+            "total_price": 602.58
+        },
+        {
+            "description": "Phased reciprocal migration",
+            "quantity": 5,
+            "unit_price": 488.65,
+            "total_price": 2443.25
+        }
+    ],
+    "amount": 3045.83
+}

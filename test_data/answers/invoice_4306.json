@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Coleman, Dyer and Allen",
+    "invoice_number": "INV-23786",
+    "date": "2025-12-27",
+    "items": [
+        {
+            "description": "Synergized 24/7 methodology",
+            "quantity": 8,
+            "unit_price": 480.88,
+            "total_price": 3847.04
+        },
+        {
+            "description": "Quality-focused radical software",
+            "quantity": 9,
+            "unit_price": 238.46,
+            "total_price": 2146.14
+        },
+        {
+            "description": "Balanced scalable matrices",
+            "quantity": 9,
+            "unit_price": 296.21,
+            "total_price": 2665.89
+        },
+        {
+            "description": "Public-key interactive orchestration",
+            "quantity": 10,
+            "unit_price": 212.7,
+            "total_price": 2127.0
+        }
+    ],
+    "amount": 10786.07
+}

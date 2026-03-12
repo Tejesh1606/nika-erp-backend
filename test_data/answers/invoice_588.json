@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mckinney, Marshall and Hall",
+    "invoice_number": "INV-39333",
+    "date": "2025-05-03",
+    "items": [
+        {
+            "description": "Seamless empowering hierarchy",
+            "quantity": 8,
+            "unit_price": 481.82,
+            "total_price": 3854.56
+        },
+        {
+            "description": "Object-based contextually-based standardization",
+            "quantity": 5,
+            "unit_price": 259.96,
+            "total_price": 1299.8
+        },
+        {
+            "description": "Synchronized full-range toolset",
+            "quantity": 3,
+            "unit_price": 353.7,
+            "total_price": 1061.1
+        }
+    ],
+    "amount": 6215.46
+}

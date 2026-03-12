@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Parker-Mccann",
+    "invoice_number": "INV-19297",
+    "date": "2025-12-15",
+    "items": [
+        {
+            "description": "Inverse interactive hierarchy",
+            "quantity": 1,
+            "unit_price": 479.33,
+            "total_price": 479.33
+        },
+        {
+            "description": "Distributed methodical knowledgebase",
+            "quantity": 7,
+            "unit_price": 237.24,
+            "total_price": 1660.68
+        }
+    ],
+    "amount": 2140.01
+}

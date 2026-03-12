@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lynch, Spencer and Jones",
+    "invoice_number": "INV-21011",
+    "date": "2025-06-27",
+    "items": [
+        {
+            "description": "Monitored local product",
+            "quantity": 10,
+            "unit_price": 462.69,
+            "total_price": 4626.9
+        },
+        {
+            "description": "Quality-focused motivating knowledgebase",
+            "quantity": 7,
+            "unit_price": 294.76,
+            "total_price": 2063.32
+        },
+        {
+            "description": "Versatile 5thgeneration solution",
+            "quantity": 2,
+            "unit_price": 221.53,
+            "total_price": 443.06
+        },
+        {
+            "description": "Streamlined leadingedge array",
+            "quantity": 7,
+            "unit_price": 47.46,
+            "total_price": 332.22
+        }
+    ],
+    "amount": 7465.5
+}

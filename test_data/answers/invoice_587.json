@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Davis Ltd",
+    "invoice_number": "INV-71377",
+    "date": "2025-04-15",
+    "items": [
+        {
+            "description": "Persevering fault-tolerant software",
+            "quantity": 5,
+            "unit_price": 191.27,
+            "total_price": 956.35
+        }
+    ],
+    "amount": 956.35
+}

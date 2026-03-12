@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Green, Dillon and Becker",
+    "invoice_number": "INV-59272",
+    "date": "2025-04-24",
+    "items": [
+        {
+            "description": "Extended methodical interface",
+            "quantity": 8,
+            "unit_price": 415.95,
+            "total_price": 3327.6
+        },
+        {
+            "description": "Robust national concept",
+            "quantity": 3,
+            "unit_price": 73.21,
+            "total_price": 219.63
+        }
+    ],
+    "amount": 3547.23
+}

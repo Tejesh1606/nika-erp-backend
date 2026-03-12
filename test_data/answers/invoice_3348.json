@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Allen-Cook",
+    "invoice_number": "INV-22426",
+    "date": "2025-05-08",
+    "items": [
+        {
+            "description": "Cross-group web-enabled projection",
+            "quantity": 6,
+            "unit_price": 410.64,
+            "total_price": 2463.84
+        },
+        {
+            "description": "Upgradable zero administration open architecture",
+            "quantity": 4,
+            "unit_price": 257.44,
+            "total_price": 1029.76
+        },
+        {
+            "description": "Assimilated neutral complexity",
+            "quantity": 4,
+            "unit_price": 179.97,
+            "total_price": 719.88
+        },
+        {
+            "description": "Versatile composite initiative",
+            "quantity": 10,
+            "unit_price": 64.74,
+            "total_price": 647.4
+        }
+    ],
+    "amount": 4860.88
+}

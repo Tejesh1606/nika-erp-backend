@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Roberts, Johnson and Bradley",
+    "invoice_number": "INV-62699",
+    "date": "2026-01-31",
+    "items": [
+        {
+            "description": "Cloned methodical system engine",
+            "quantity": 8,
+            "unit_price": 306.07,
+            "total_price": 2448.56
+        }
+    ],
+    "amount": 2448.56
+}

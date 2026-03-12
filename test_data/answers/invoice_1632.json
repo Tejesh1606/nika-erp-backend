@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Garza PLC",
+    "invoice_number": "INV-42450",
+    "date": "2025-04-09",
+    "items": [
+        {
+            "description": "Managed composite contingency",
+            "quantity": 7,
+            "unit_price": 219.61,
+            "total_price": 1537.27
+        },
+        {
+            "description": "Streamlined non-volatile standardization",
+            "quantity": 1,
+            "unit_price": 361.54,
+            "total_price": 361.54
+        },
+        {
+            "description": "Customer-focused responsive workforce",
+            "quantity": 5,
+            "unit_price": 281.27,
+            "total_price": 1406.35
+        },
+        {
+            "description": "Ameliorated methodical data-warehouse",
+            "quantity": 6,
+            "unit_price": 270.63,
+            "total_price": 1623.78
+        }
+    ],
+    "amount": 4928.94
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lynch PLC",
+    "invoice_number": "INV-20552",
+    "date": "2025-10-27",
+    "items": [
+        {
+            "description": "Re-engineered upward-trending installation",
+            "quantity": 4,
+            "unit_price": 246.52,
+            "total_price": 986.08
+        },
+        {
+            "description": "Ameliorated fresh-thinking pricing structure",
+            "quantity": 8,
+            "unit_price": 282.6,
+            "total_price": 2260.8
+        },
+        {
+            "description": "Fully-configurable composite open system",
+            "quantity": 1,
+            "unit_price": 394.57,
+            "total_price": 394.57
+        }
+    ],
+    "amount": 3641.45
+}

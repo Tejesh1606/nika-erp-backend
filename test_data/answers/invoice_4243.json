@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Nunez, Berry and Stephenson",
+    "invoice_number": "INV-38730",
+    "date": "2026-03-05",
+    "items": [
+        {
+            "description": "Upgradable maximized open architecture",
+            "quantity": 3,
+            "unit_price": 355.37,
+            "total_price": 1066.11
+        },
+        {
+            "description": "Balanced eco-centric policy",
+            "quantity": 3,
+            "unit_price": 369.08,
+            "total_price": 1107.24
+        },
+        {
+            "description": "Profit-focused mobile interface",
+            "quantity": 3,
+            "unit_price": 379.07,
+            "total_price": 1137.21
+        }
+    ],
+    "amount": 3310.56
+}

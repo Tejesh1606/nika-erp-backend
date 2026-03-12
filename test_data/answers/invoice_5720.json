@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Decker-Warner",
+    "invoice_number": "INV-95451",
+    "date": "2026-01-20",
+    "items": [
+        {
+            "description": "Stand-alone contextually-based framework",
+            "quantity": 4,
+            "unit_price": 451.2,
+            "total_price": 1804.8
+        }
+    ],
+    "amount": 1804.8
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Sandoval LLC",
+    "invoice_number": "INV-31802",
+    "date": "2025-11-15",
+    "items": [
+        {
+            "description": "Seamless 6thgeneration open system",
+            "quantity": 7,
+            "unit_price": 76.08,
+            "total_price": 532.56
+        },
+        {
+            "description": "Stand-alone systematic project",
+            "quantity": 9,
+            "unit_price": 232.8,
+            "total_price": 2095.2
+        },
+        {
+            "description": "Open-architected web-enabled groupware",
+            "quantity": 7,
+            "unit_price": 168.55,
+            "total_price": 1179.85
+        },
+        {
+            "description": "Optional bi-directional access",
+            "quantity": 9,
+            "unit_price": 494.14,
+            "total_price": 4447.26
+        }
+    ],
+    "amount": 8254.87
+}

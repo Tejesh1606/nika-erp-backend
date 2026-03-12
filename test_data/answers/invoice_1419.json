@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hammond, Bates and Gordon",
+    "invoice_number": "INV-34768",
+    "date": "2026-01-01",
+    "items": [
+        {
+            "description": "Expanded uniform functionalities",
+            "quantity": 7,
+            "unit_price": 333.71,
+            "total_price": 2335.97
+        }
+    ],
+    "amount": 2335.97
+}

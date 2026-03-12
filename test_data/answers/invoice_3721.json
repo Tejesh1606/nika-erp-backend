@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Huang, Dawson and Gomez",
+    "invoice_number": "INV-69823",
+    "date": "2025-12-18",
+    "items": [
+        {
+            "description": "Profit-focused bifurcated conglomeration",
+            "quantity": 7,
+            "unit_price": 18.43,
+            "total_price": 129.01
+        },
+        {
+            "description": "Organized uniform core",
+            "quantity": 1,
+            "unit_price": 255.12,
+            "total_price": 255.12
+        }
+    ],
+    "amount": 384.13
+}

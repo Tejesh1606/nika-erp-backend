@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Dorsey-Terry",
+    "invoice_number": "INV-40337",
+    "date": "2025-05-08",
+    "items": [
+        {
+            "description": "Intuitive scalable budgetary management",
+            "quantity": 8,
+            "unit_price": 170.63,
+            "total_price": 1365.04
+        },
+        {
+            "description": "Organic optimizing secured line",
+            "quantity": 8,
+            "unit_price": 457.69,
+            "total_price": 3661.52
+        },
+        {
+            "description": "Adaptive fault-tolerant function",
+            "quantity": 1,
+            "unit_price": 365.43,
+            "total_price": 365.43
+        }
+    ],
+    "amount": 5391.99
+}

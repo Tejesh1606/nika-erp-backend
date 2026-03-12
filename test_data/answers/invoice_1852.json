@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Williams, Graham and Mercer",
+    "invoice_number": "INV-61798",
+    "date": "2025-09-11",
+    "items": [
+        {
+            "description": "Distributed web-enabled moderator",
+            "quantity": 9,
+            "unit_price": 434.76,
+            "total_price": 3912.84
+        },
+        {
+            "description": "Organic real-time orchestration",
+            "quantity": 2,
+            "unit_price": 490.28,
+            "total_price": 980.56
+        }
+    ],
+    "amount": 4893.4
+}

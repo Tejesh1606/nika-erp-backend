@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Christensen and Sons",
+    "invoice_number": "INV-65248",
+    "date": "2025-11-16",
+    "items": [
+        {
+            "description": "Ergonomic scalable access",
+            "quantity": 1,
+            "unit_price": 27.05,
+            "total_price": 27.05
+        }
+    ],
+    "amount": 27.05
+}

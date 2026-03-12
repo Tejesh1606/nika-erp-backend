@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Pineda-Dixon",
+    "invoice_number": "INV-74956",
+    "date": "2025-11-20",
+    "items": [
+        {
+            "description": "Customer-focused full-range paradigm",
+            "quantity": 7,
+            "unit_price": 72.36,
+            "total_price": 506.52
+        },
+        {
+            "description": "Assimilated foreground capability",
+            "quantity": 5,
+            "unit_price": 70.29,
+            "total_price": 351.45
+        }
+    ],
+    "amount": 857.97
+}

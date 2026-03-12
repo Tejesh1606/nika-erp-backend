@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Werner, Pierce and Bell",
+    "invoice_number": "INV-38541",
+    "date": "2025-08-18",
+    "items": [
+        {
+            "description": "Right-sized even-keeled functionalities",
+            "quantity": 7,
+            "unit_price": 339.08,
+            "total_price": 2373.56
+        },
+        {
+            "description": "Visionary high-level product",
+            "quantity": 3,
+            "unit_price": 185.54,
+            "total_price": 556.62
+        },
+        {
+            "description": "Customer-focused static software",
+            "quantity": 9,
+            "unit_price": 255.2,
+            "total_price": 2296.8
+        },
+        {
+            "description": "Sharable well-modulated productivity",
+            "quantity": 3,
+            "unit_price": 303.2,
+            "total_price": 909.6
+        }
+    ],
+    "amount": 6136.58
+}

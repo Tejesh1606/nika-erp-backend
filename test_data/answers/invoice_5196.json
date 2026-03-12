@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Allen-Howard",
+    "invoice_number": "INV-50581",
+    "date": "2025-06-22",
+    "items": [
+        {
+            "description": "Switchable asymmetric architecture",
+            "quantity": 10,
+            "unit_price": 52.24,
+            "total_price": 522.4
+        }
+    ],
+    "amount": 522.4
+}

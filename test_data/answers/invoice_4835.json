@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mitchell-Clark",
+    "invoice_number": "INV-96192",
+    "date": "2025-11-22",
+    "items": [
+        {
+            "description": "Inverse local Graphic Interface",
+            "quantity": 5,
+            "unit_price": 294.54,
+            "total_price": 1472.7
+        },
+        {
+            "description": "Synergized client-server protocol",
+            "quantity": 8,
+            "unit_price": 87.91,
+            "total_price": 703.28
+        }
+    ],
+    "amount": 2175.98
+}

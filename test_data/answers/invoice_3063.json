@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Brandt, Johnson and Mahoney",
+    "invoice_number": "INV-15509",
+    "date": "2025-12-23",
+    "items": [
+        {
+            "description": "Virtual optimizing alliance",
+            "quantity": 4,
+            "unit_price": 388.26,
+            "total_price": 1553.04
+        }
+    ],
+    "amount": 1553.04
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Delgado, Green and Gonzales",
+    "invoice_number": "INV-41032",
+    "date": "2025-11-05",
+    "items": [
+        {
+            "description": "Triple-buffered cohesive definition",
+            "quantity": 2,
+            "unit_price": 492.03,
+            "total_price": 984.06
+        },
+        {
+            "description": "Up-sized national Graphical User Interface",
+            "quantity": 7,
+            "unit_price": 330.81,
+            "total_price": 2315.67
+        },
+        {
+            "description": "Streamlined client-server analyzer",
+            "quantity": 6,
+            "unit_price": 342.56,
+            "total_price": 2055.36
+        },
+        {
+            "description": "Devolved disintermediate software",
+            "quantity": 6,
+            "unit_price": 494.24,
+            "total_price": 2965.44
+        }
+    ],
+    "amount": 8320.53
+}

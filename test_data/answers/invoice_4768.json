@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Reid PLC",
+    "invoice_number": "INV-38993",
+    "date": "2025-05-17",
+    "items": [
+        {
+            "description": "Cross-group full-range complexity",
+            "quantity": 5,
+            "unit_price": 98.51,
+            "total_price": 492.55
+        },
+        {
+            "description": "Re-contextualized 6thgeneration approach",
+            "quantity": 6,
+            "unit_price": 128.05,
+            "total_price": 768.3
+        }
+    ],
+    "amount": 1260.85
+}

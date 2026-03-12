@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Johnson LLC",
+    "invoice_number": "INV-33242",
+    "date": "2025-09-02",
+    "items": [
+        {
+            "description": "Networked reciprocal moderator",
+            "quantity": 6,
+            "unit_price": 144.62,
+            "total_price": 867.72
+        },
+        {
+            "description": "Decentralized tangible parallelism",
+            "quantity": 5,
+            "unit_price": 317.04,
+            "total_price": 1585.2
+        }
+    ],
+    "amount": 2452.92
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wallace and Sons",
+    "invoice_number": "INV-95700",
+    "date": "2025-09-11",
+    "items": [
+        {
+            "description": "Intuitive object-oriented function",
+            "quantity": 2,
+            "unit_price": 298.04,
+            "total_price": 596.08
+        },
+        {
+            "description": "Right-sized dedicated workforce",
+            "quantity": 8,
+            "unit_price": 395.35,
+            "total_price": 3162.8
+        },
+        {
+            "description": "Exclusive 5thgeneration intranet",
+            "quantity": 7,
+            "unit_price": 142.95,
+            "total_price": 1000.65
+        }
+    ],
+    "amount": 4759.53
+}

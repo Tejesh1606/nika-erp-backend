@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Dougherty, Ramos and Ramirez",
+    "invoice_number": "INV-93559",
+    "date": "2025-07-09",
+    "items": [
+        {
+            "description": "Reactive background structure",
+            "quantity": 3,
+            "unit_price": 112.79,
+            "total_price": 338.37
+        }
+    ],
+    "amount": 338.37
+}

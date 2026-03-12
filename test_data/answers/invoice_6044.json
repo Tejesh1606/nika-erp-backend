@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Everett Group",
+    "invoice_number": "INV-66313",
+    "date": "2025-08-24",
+    "items": [
+        {
+            "description": "Inverse demand-driven firmware",
+            "quantity": 10,
+            "unit_price": 450.52,
+            "total_price": 4505.2
+        },
+        {
+            "description": "Proactive reciprocal knowledge user",
+            "quantity": 7,
+            "unit_price": 252.41,
+            "total_price": 1766.87
+        },
+        {
+            "description": "Total zero administration array",
+            "quantity": 7,
+            "unit_price": 120.85,
+            "total_price": 845.95
+        },
+        {
+            "description": "Automated non-volatile adapter",
+            "quantity": 7,
+            "unit_price": 221.86,
+            "total_price": 1553.02
+        }
+    ],
+    "amount": 8671.04
+}

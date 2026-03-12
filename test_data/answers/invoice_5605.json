@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Navarro-Gomez",
+    "invoice_number": "INV-26145",
+    "date": "2025-08-17",
+    "items": [
+        {
+            "description": "User-centric 6thgeneration utilization",
+            "quantity": 2,
+            "unit_price": 293.52,
+            "total_price": 587.04
+        },
+        {
+            "description": "Expanded needs-based forecast",
+            "quantity": 1,
+            "unit_price": 331.83,
+            "total_price": 331.83
+        }
+    ],
+    "amount": 918.87
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Williams LLC",
+    "invoice_number": "INV-61167",
+    "date": "2025-12-29",
+    "items": [
+        {
+            "description": "Synergistic impactful benchmark",
+            "quantity": 9,
+            "unit_price": 279.42,
+            "total_price": 2514.78
+        },
+        {
+            "description": "Reverse-engineered zero-defect policy",
+            "quantity": 5,
+            "unit_price": 444.28,
+            "total_price": 2221.4
+        },
+        {
+            "description": "Multi-channeled secondary database",
+            "quantity": 3,
+            "unit_price": 488.12,
+            "total_price": 1464.36
+        },
+        {
+            "description": "Ameliorated heuristic info-mediaries",
+            "quantity": 3,
+            "unit_price": 485.92,
+            "total_price": 1457.76
+        }
+    ],
+    "amount": 7658.3
+}

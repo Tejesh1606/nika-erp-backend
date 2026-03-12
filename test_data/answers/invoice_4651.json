@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Greene-Murray",
+    "invoice_number": "INV-31430",
+    "date": "2025-10-13",
+    "items": [
+        {
+            "description": "Multi-tiered contextually-based support",
+            "quantity": 3,
+            "unit_price": 418.35,
+            "total_price": 1255.05
+        }
+    ],
+    "amount": 1255.05
+}

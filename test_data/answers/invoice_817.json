@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hess PLC",
+    "invoice_number": "INV-47912",
+    "date": "2025-11-17",
+    "items": [
+        {
+            "description": "Down-sized 24hour approach",
+            "quantity": 4,
+            "unit_price": 98.55,
+            "total_price": 394.2
+        },
+        {
+            "description": "Polarized encompassing policy",
+            "quantity": 8,
+            "unit_price": 332.86,
+            "total_price": 2662.88
+        },
+        {
+            "description": "Function-based systemic implementation",
+            "quantity": 2,
+            "unit_price": 123.04,
+            "total_price": 246.08
+        }
+    ],
+    "amount": 3303.16
+}

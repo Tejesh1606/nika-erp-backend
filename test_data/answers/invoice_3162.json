@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith, Anderson and Davis",
+    "invoice_number": "INV-57010",
+    "date": "2025-03-11",
+    "items": [
+        {
+            "description": "Intuitive 3rdgeneration projection",
+            "quantity": 4,
+            "unit_price": 55.4,
+            "total_price": 221.6
+        },
+        {
+            "description": "Seamless incremental pricing structure",
+            "quantity": 1,
+            "unit_price": 272.02,
+            "total_price": 272.02
+        },
+        {
+            "description": "Re-engineered tertiary instruction set",
+            "quantity": 4,
+            "unit_price": 86.44,
+            "total_price": 345.76
+        }
+    ],
+    "amount": 839.38
+}

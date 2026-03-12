@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gomez Group",
+    "invoice_number": "INV-34811",
+    "date": "2025-10-06",
+    "items": [
+        {
+            "description": "Function-based uniform adapter",
+            "quantity": 3,
+            "unit_price": 175.12,
+            "total_price": 525.36
+        }
+    ],
+    "amount": 525.36
+}

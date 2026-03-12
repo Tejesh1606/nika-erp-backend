@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Anderson, Baker and Ward",
+    "invoice_number": "INV-74558",
+    "date": "2025-09-10",
+    "items": [
+        {
+            "description": "Organized zero administration contingency",
+            "quantity": 10,
+            "unit_price": 257.52,
+            "total_price": 2575.2
+        },
+        {
+            "description": "Persevering logistical extranet",
+            "quantity": 7,
+            "unit_price": 126.8,
+            "total_price": 887.6
+        },
+        {
+            "description": "Multi-lateral local service-desk",
+            "quantity": 1,
+            "unit_price": 234.13,
+            "total_price": 234.13
+        }
+    ],
+    "amount": 3696.93
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith Inc",
+    "invoice_number": "INV-25530",
+    "date": "2026-02-13",
+    "items": [
+        {
+            "description": "Virtual even-keeled methodology",
+            "quantity": 3,
+            "unit_price": 252.88,
+            "total_price": 758.64
+        }
+    ],
+    "amount": 758.64
+}

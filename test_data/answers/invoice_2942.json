@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Herrera-Sandoval",
+    "invoice_number": "INV-23349",
+    "date": "2025-07-17",
+    "items": [
+        {
+            "description": "Open-source non-volatile conglomeration",
+            "quantity": 6,
+            "unit_price": 239.61,
+            "total_price": 1437.66
+        }
+    ],
+    "amount": 1437.66
+}

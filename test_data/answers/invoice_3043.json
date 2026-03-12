@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cobb-Robles",
+    "invoice_number": "INV-20802",
+    "date": "2025-07-24",
+    "items": [
+        {
+            "description": "Fully-configurable radical adapter",
+            "quantity": 2,
+            "unit_price": 228.65,
+            "total_price": 457.3
+        },
+        {
+            "description": "Down-sized composite Internet solution",
+            "quantity": 5,
+            "unit_price": 469.69,
+            "total_price": 2348.45
+        },
+        {
+            "description": "Visionary cohesive support",
+            "quantity": 3,
+            "unit_price": 64.82,
+            "total_price": 194.46
+        }
+    ],
+    "amount": 3000.21
+}

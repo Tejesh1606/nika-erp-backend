@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Turner-Rivera",
+    "invoice_number": "INV-69525",
+    "date": "2026-01-28",
+    "items": [
+        {
+            "description": "Business-focused incremental project",
+            "quantity": 4,
+            "unit_price": 190.46,
+            "total_price": 761.84
+        }
+    ],
+    "amount": 761.84
+}

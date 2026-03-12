@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Leon, Bryant and Avila",
+    "invoice_number": "INV-98783",
+    "date": "2025-06-17",
+    "items": [
+        {
+            "description": "Synchronized object-oriented budgetary management",
+            "quantity": 6,
+            "unit_price": 351.75,
+            "total_price": 2110.5
+        },
+        {
+            "description": "Compatible systematic service-desk",
+            "quantity": 7,
+            "unit_price": 140.69,
+            "total_price": 984.83
+        }
+    ],
+    "amount": 3095.33
+}

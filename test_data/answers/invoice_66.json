@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Zimmerman-Graham",
+    "invoice_number": "INV-78386",
+    "date": "2025-11-16",
+    "items": [
+        {
+            "description": "Future-proofed reciprocal workforce",
+            "quantity": 5,
+            "unit_price": 130.36,
+            "total_price": 651.8
+        },
+        {
+            "description": "Public-key zero-defect matrices",
+            "quantity": 4,
+            "unit_price": 178.99,
+            "total_price": 715.96
+        },
+        {
+            "description": "Persistent intermediate superstructure",
+            "quantity": 8,
+            "unit_price": 359.65,
+            "total_price": 2877.2
+        }
+    ],
+    "amount": 4244.96
+}

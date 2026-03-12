@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bryant and Sons",
+    "invoice_number": "INV-81395",
+    "date": "2025-10-25",
+    "items": [
+        {
+            "description": "Operative zero administration projection",
+            "quantity": 7,
+            "unit_price": 401.8,
+            "total_price": 2812.6
+        },
+        {
+            "description": "Multi-tiered incremental ability",
+            "quantity": 1,
+            "unit_price": 41.72,
+            "total_price": 41.72
+        },
+        {
+            "description": "Mandatory dynamic frame",
+            "quantity": 10,
+            "unit_price": 89.76,
+            "total_price": 897.6
+        }
+    ],
+    "amount": 3751.92
+}

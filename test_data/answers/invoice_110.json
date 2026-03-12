@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith-Herrera",
+    "invoice_number": "INV-69609",
+    "date": "2025-07-30",
+    "items": [
+        {
+            "description": "Synergistic value-added service-desk",
+            "quantity": 6,
+            "unit_price": 46.99,
+            "total_price": 281.94
+        }
+    ],
+    "amount": 281.94
+}

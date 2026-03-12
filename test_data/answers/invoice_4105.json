@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Conley and Sons",
+    "invoice_number": "INV-69551",
+    "date": "2026-01-14",
+    "items": [
+        {
+            "description": "Exclusive encompassing task-force",
+            "quantity": 1,
+            "unit_price": 298.33,
+            "total_price": 298.33
+        }
+    ],
+    "amount": 298.33
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Griffith-Morgan",
+    "invoice_number": "INV-55245",
+    "date": "2025-09-03",
+    "items": [
+        {
+            "description": "Operative attitude-oriented hardware",
+            "quantity": 2,
+            "unit_price": 466.14,
+            "total_price": 932.28
+        },
+        {
+            "description": "Assimilated transitional structure",
+            "quantity": 4,
+            "unit_price": 466.23,
+            "total_price": 1864.92
+        },
+        {
+            "description": "Front-line content-based hardware",
+            "quantity": 5,
+            "unit_price": 303.77,
+            "total_price": 1518.85
+        }
+    ],
+    "amount": 4316.05
+}

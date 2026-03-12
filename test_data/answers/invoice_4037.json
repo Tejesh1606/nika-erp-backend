@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Johnson Ltd",
+    "invoice_number": "INV-64338",
+    "date": "2025-12-24",
+    "items": [
+        {
+            "description": "Balanced user-facing protocol",
+            "quantity": 8,
+            "unit_price": 433.99,
+            "total_price": 3471.92
+        }
+    ],
+    "amount": 3471.92
+}

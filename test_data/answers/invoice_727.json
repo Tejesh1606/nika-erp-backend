@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Herring, Huynh and King",
+    "invoice_number": "INV-21829",
+    "date": "2025-06-09",
+    "items": [
+        {
+            "description": "Right-sized bottom-line throughput",
+            "quantity": 4,
+            "unit_price": 140.55,
+            "total_price": 562.2
+        },
+        {
+            "description": "Intuitive full-range paradigm",
+            "quantity": 10,
+            "unit_price": 57.87,
+            "total_price": 578.7
+        },
+        {
+            "description": "User-centric human-resource workforce",
+            "quantity": 10,
+            "unit_price": 50.69,
+            "total_price": 506.9
+        }
+    ],
+    "amount": 1647.8
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Bishop Inc",
+    "invoice_number": "INV-88154",
+    "date": "2025-05-17",
+    "items": [
+        {
+            "description": "Universal modular pricing structure",
+            "quantity": 3,
+            "unit_price": 163.24,
+            "total_price": 489.72
+        }
+    ],
+    "amount": 489.72
+}

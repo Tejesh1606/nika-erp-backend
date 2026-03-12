@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson, Barton and Jones",
+    "invoice_number": "INV-51151",
+    "date": "2026-02-03",
+    "items": [
+        {
+            "description": "Multi-lateral zero administration knowledge user",
+            "quantity": 8,
+            "unit_price": 164.66,
+            "total_price": 1317.28
+        },
+        {
+            "description": "User-friendly didactic contingency",
+            "quantity": 7,
+            "unit_price": 156.47,
+            "total_price": 1095.29
+        },
+        {
+            "description": "Inverse maximized emulation",
+            "quantity": 7,
+            "unit_price": 301.07,
+            "total_price": 2107.49
+        },
+        {
+            "description": "Persevering high-level groupware",
+            "quantity": 4,
+            "unit_price": 188.8,
+            "total_price": 755.2
+        }
+    ],
+    "amount": 5275.26
+}

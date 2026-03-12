@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Patrick, Mcfarland and Allen",
+    "invoice_number": "INV-50667",
+    "date": "2026-02-21",
+    "items": [
+        {
+            "description": "Cross-group 4thgeneration secured line",
+            "quantity": 10,
+            "unit_price": 290.68,
+            "total_price": 2906.8
+        },
+        {
+            "description": "User-friendly coherent framework",
+            "quantity": 6,
+            "unit_price": 254.69,
+            "total_price": 1528.14
+        }
+    ],
+    "amount": 4434.94
+}

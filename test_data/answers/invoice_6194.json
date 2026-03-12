@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Walker-Combs",
+    "invoice_number": "INV-38814",
+    "date": "2026-01-17",
+    "items": [
+        {
+            "description": "Universal exuding paradigm",
+            "quantity": 2,
+            "unit_price": 456.39,
+            "total_price": 912.78
+        },
+        {
+            "description": "Customizable transitional system engine",
+            "quantity": 10,
+            "unit_price": 172.52,
+            "total_price": 1725.2
+        }
+    ],
+    "amount": 2637.98
+}

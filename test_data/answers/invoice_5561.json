@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Smith PLC",
+    "invoice_number": "INV-90731",
+    "date": "2025-10-02",
+    "items": [
+        {
+            "description": "Optional multimedia portal",
+            "quantity": 7,
+            "unit_price": 75.67,
+            "total_price": 529.69
+        },
+        {
+            "description": "Configurable radical success",
+            "quantity": 1,
+            "unit_price": 151.86,
+            "total_price": 151.86
+        },
+        {
+            "description": "Multi-layered 24/7 matrices",
+            "quantity": 4,
+            "unit_price": 385.4,
+            "total_price": 1541.6
+        },
+        {
+            "description": "Total next generation Internet solution",
+            "quantity": 9,
+            "unit_price": 266.78,
+            "total_price": 2401.02
+        }
+    ],
+    "amount": 4624.17
+}

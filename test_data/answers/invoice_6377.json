@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Griffith-Hanson",
+    "invoice_number": "INV-72694",
+    "date": "2025-11-15",
+    "items": [
+        {
+            "description": "Organized fault-tolerant project",
+            "quantity": 6,
+            "unit_price": 451.78,
+            "total_price": 2710.68
+        },
+        {
+            "description": "Customizable exuding flexibility",
+            "quantity": 7,
+            "unit_price": 468.97,
+            "total_price": 3282.79
+        },
+        {
+            "description": "Devolved scalable approach",
+            "quantity": 7,
+            "unit_price": 19.21,
+            "total_price": 134.47
+        },
+        {
+            "description": "Configurable motivating protocol",
+            "quantity": 10,
+            "unit_price": 360.81,
+            "total_price": 3608.1
+        }
+    ],
+    "amount": 9736.04
+}

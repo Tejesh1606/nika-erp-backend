@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Owen Ltd",
+    "invoice_number": "INV-42004",
+    "date": "2025-09-07",
+    "items": [
+        {
+            "description": "Visionary logistical task-force",
+            "quantity": 3,
+            "unit_price": 279.79,
+            "total_price": 839.37
+        },
+        {
+            "description": "Upgradable optimizing groupware",
+            "quantity": 8,
+            "unit_price": 419.88,
+            "total_price": 3359.04
+        },
+        {
+            "description": "Automated local success",
+            "quantity": 2,
+            "unit_price": 226.87,
+            "total_price": 453.74
+        },
+        {
+            "description": "Operative systemic hierarchy",
+            "quantity": 3,
+            "unit_price": 472.66,
+            "total_price": 1417.98
+        }
+    ],
+    "amount": 6070.13
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "White-Russell",
+    "invoice_number": "INV-67624",
+    "date": "2025-12-19",
+    "items": [
+        {
+            "description": "Virtual multi-tasking installation",
+            "quantity": 3,
+            "unit_price": 472.44,
+            "total_price": 1417.32
+        },
+        {
+            "description": "Cloned impactful emulation",
+            "quantity": 10,
+            "unit_price": 152.75,
+            "total_price": 1527.5
+        }
+    ],
+    "amount": 2944.82
+}

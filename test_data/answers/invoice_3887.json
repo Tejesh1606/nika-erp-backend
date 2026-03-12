@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Carlson, Mason and Ramos",
+    "invoice_number": "INV-43185",
+    "date": "2025-08-27",
+    "items": [
+        {
+            "description": "Upgradable demand-driven Graphic Interface",
+            "quantity": 4,
+            "unit_price": 81.66,
+            "total_price": 326.64
+        },
+        {
+            "description": "Extended solution-oriented process improvement",
+            "quantity": 4,
+            "unit_price": 191.93,
+            "total_price": 767.72
+        },
+        {
+            "description": "Secured multi-tasking methodology",
+            "quantity": 6,
+            "unit_price": 137.13,
+            "total_price": 822.78
+        }
+    ],
+    "amount": 1917.14
+}

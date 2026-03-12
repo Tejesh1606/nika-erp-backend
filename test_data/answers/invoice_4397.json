@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mason, Cruz and Wells",
+    "invoice_number": "INV-72828",
+    "date": "2025-06-10",
+    "items": [
+        {
+            "description": "Integrated responsive neural-net",
+            "quantity": 6,
+            "unit_price": 10.36,
+            "total_price": 62.16
+        },
+        {
+            "description": "Self-enabling zero-defect Graphic Interface",
+            "quantity": 9,
+            "unit_price": 349.47,
+            "total_price": 3145.23
+        },
+        {
+            "description": "Business-focused user-facing encryption",
+            "quantity": 5,
+            "unit_price": 290.2,
+            "total_price": 1451.0
+        }
+    ],
+    "amount": 4658.39
+}

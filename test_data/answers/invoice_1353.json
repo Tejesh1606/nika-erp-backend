@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Black, Huerta and Adams",
+    "invoice_number": "INV-27263",
+    "date": "2025-07-14",
+    "items": [
+        {
+            "description": "Optimized holistic protocol",
+            "quantity": 1,
+            "unit_price": 481.59,
+            "total_price": 481.59
+        },
+        {
+            "description": "Digitized optimal support",
+            "quantity": 7,
+            "unit_price": 399.16,
+            "total_price": 2794.12
+        },
+        {
+            "description": "Automated value-added website",
+            "quantity": 5,
+            "unit_price": 470.16,
+            "total_price": 2350.8
+        },
+        {
+            "description": "Networked responsive application",
+            "quantity": 6,
+            "unit_price": 104.34,
+            "total_price": 626.04
+        }
+    ],
+    "amount": 6252.55
+}

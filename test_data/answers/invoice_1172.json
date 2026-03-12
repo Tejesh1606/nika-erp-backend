@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Yates, Lawson and Hopkins",
+    "invoice_number": "INV-78201",
+    "date": "2025-08-27",
+    "items": [
+        {
+            "description": "Intuitive encompassing core",
+            "quantity": 7,
+            "unit_price": 54.95,
+            "total_price": 384.65
+        },
+        {
+            "description": "Re-engineered explicit encryption",
+            "quantity": 5,
+            "unit_price": 440.45,
+            "total_price": 2202.25
+        }
+    ],
+    "amount": 2586.9
+}

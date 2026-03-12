@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Richards-Carson",
+    "invoice_number": "INV-58689",
+    "date": "2025-04-20",
+    "items": [
+        {
+            "description": "Synergistic discrete leverage",
+            "quantity": 2,
+            "unit_price": 248.61,
+            "total_price": 497.22
+        }
+    ],
+    "amount": 497.22
+}

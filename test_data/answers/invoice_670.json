@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Morales and Sons",
+    "invoice_number": "INV-68454",
+    "date": "2025-07-25",
+    "items": [
+        {
+            "description": "Cross-group fresh-thinking approach",
+            "quantity": 6,
+            "unit_price": 273.48,
+            "total_price": 1640.88
+        }
+    ],
+    "amount": 1640.88
+}

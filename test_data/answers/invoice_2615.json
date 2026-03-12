@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Pennington-Martin",
+    "invoice_number": "INV-94296",
+    "date": "2025-10-01",
+    "items": [
+        {
+            "description": "Reverse-engineered clear-thinking ability",
+            "quantity": 2,
+            "unit_price": 130.53,
+            "total_price": 261.06
+        },
+        {
+            "description": "Optional explicit capability",
+            "quantity": 9,
+            "unit_price": 187.05,
+            "total_price": 1683.45
+        },
+        {
+            "description": "Sharable tangible secured line",
+            "quantity": 3,
+            "unit_price": 398.49,
+            "total_price": 1195.47
+        },
+        {
+            "description": "Multi-lateral mobile open architecture",
+            "quantity": 4,
+            "unit_price": 89.51,
+            "total_price": 358.04
+        }
+    ],
+    "amount": 3498.02
+}

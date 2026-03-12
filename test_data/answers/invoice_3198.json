@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Grant-Gomez",
+    "invoice_number": "INV-97975",
+    "date": "2025-03-10",
+    "items": [
+        {
+            "description": "Function-based holistic hub",
+            "quantity": 10,
+            "unit_price": 110.6,
+            "total_price": 1106.0
+        },
+        {
+            "description": "Inverse global paradigm",
+            "quantity": 5,
+            "unit_price": 86.07,
+            "total_price": 430.35
+        },
+        {
+            "description": "Managed actuating capacity",
+            "quantity": 10,
+            "unit_price": 61.35,
+            "total_price": 613.5
+        },
+        {
+            "description": "Open-source didactic strategy",
+            "quantity": 3,
+            "unit_price": 110.27,
+            "total_price": 330.81
+        }
+    ],
+    "amount": 2480.66
+}

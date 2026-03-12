@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Fox-Lopez",
+    "invoice_number": "INV-28864",
+    "date": "2025-09-27",
+    "items": [
+        {
+            "description": "Enhanced solution-oriented implementation",
+            "quantity": 5,
+            "unit_price": 122.54,
+            "total_price": 612.7
+        }
+    ],
+    "amount": 612.7
+}

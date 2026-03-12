@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Rodriguez, Contreras and Rodriguez",
+    "invoice_number": "INV-60339",
+    "date": "2025-07-24",
+    "items": [
+        {
+            "description": "Enhanced systemic protocol",
+            "quantity": 3,
+            "unit_price": 405.17,
+            "total_price": 1215.51
+        },
+        {
+            "description": "Multi-layered analyzing open architecture",
+            "quantity": 4,
+            "unit_price": 172.0,
+            "total_price": 688.0
+        },
+        {
+            "description": "Synergistic bottom-line hub",
+            "quantity": 6,
+            "unit_price": 223.94,
+            "total_price": 1343.64
+        }
+    ],
+    "amount": 3247.15
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jones and Sons",
+    "invoice_number": "INV-76307",
+    "date": "2025-06-19",
+    "items": [
+        {
+            "description": "De-engineered grid-enabled architecture",
+            "quantity": 1,
+            "unit_price": 336.52,
+            "total_price": 336.52
+        },
+        {
+            "description": "Fully-configurable holistic forecast",
+            "quantity": 7,
+            "unit_price": 492.6,
+            "total_price": 3448.2
+        }
+    ],
+    "amount": 3784.72
+}

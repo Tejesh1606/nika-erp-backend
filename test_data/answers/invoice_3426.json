@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Velez-White",
+    "invoice_number": "INV-34973",
+    "date": "2025-11-25",
+    "items": [
+        {
+            "description": "Virtual responsive monitoring",
+            "quantity": 9,
+            "unit_price": 259.12,
+            "total_price": 2332.08
+        },
+        {
+            "description": "Horizontal logistical initiative",
+            "quantity": 10,
+            "unit_price": 17.69,
+            "total_price": 176.9
+        },
+        {
+            "description": "Versatile human-resource portal",
+            "quantity": 6,
+            "unit_price": 494.67,
+            "total_price": 2968.02
+        },
+        {
+            "description": "Configurable radical workforce",
+            "quantity": 10,
+            "unit_price": 489.41,
+            "total_price": 4894.1
+        }
+    ],
+    "amount": 10371.1
+}

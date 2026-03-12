@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brown-Schmidt",
+    "invoice_number": "INV-80134",
+    "date": "2026-02-13",
+    "items": [
+        {
+            "description": "Multi-lateral system-worthy architecture",
+            "quantity": 5,
+            "unit_price": 107.04,
+            "total_price": 535.2
+        },
+        {
+            "description": "Phased real-time process improvement",
+            "quantity": 7,
+            "unit_price": 377.32,
+            "total_price": 2641.24
+        },
+        {
+            "description": "Extended local strategy",
+            "quantity": 9,
+            "unit_price": 166.87,
+            "total_price": 1501.83
+        }
+    ],
+    "amount": 4678.27
+}

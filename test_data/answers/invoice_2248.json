@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Nichols-Martin",
+    "invoice_number": "INV-51661",
+    "date": "2025-12-27",
+    "items": [
+        {
+            "description": "Cross-platform value-added service-desk",
+            "quantity": 3,
+            "unit_price": 243.19,
+            "total_price": 729.57
+        },
+        {
+            "description": "De-engineered logistical secured line",
+            "quantity": 7,
+            "unit_price": 137.66,
+            "total_price": 963.62
+        },
+        {
+            "description": "Enterprise-wide hybrid knowledge user",
+            "quantity": 2,
+            "unit_price": 432.58,
+            "total_price": 865.16
+        }
+    ],
+    "amount": 2558.35
+}

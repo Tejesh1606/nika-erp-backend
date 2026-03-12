@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Taylor Inc",
+    "invoice_number": "INV-53440",
+    "date": "2025-10-12",
+    "items": [
+        {
+            "description": "Multi-layered tertiary protocol",
+            "quantity": 6,
+            "unit_price": 368.91,
+            "total_price": 2213.46
+        },
+        {
+            "description": "Innovative secondary complexity",
+            "quantity": 3,
+            "unit_price": 402.62,
+            "total_price": 1207.86
+        },
+        {
+            "description": "Focused discrete conglomeration",
+            "quantity": 3,
+            "unit_price": 378.52,
+            "total_price": 1135.56
+        },
+        {
+            "description": "Innovative background implementation",
+            "quantity": 4,
+            "unit_price": 93.06,
+            "total_price": 372.24
+        }
+    ],
+    "amount": 4929.12
+}

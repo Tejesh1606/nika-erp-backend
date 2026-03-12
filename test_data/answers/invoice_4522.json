@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith Group",
+    "invoice_number": "INV-89477",
+    "date": "2025-09-28",
+    "items": [
+        {
+            "description": "Business-focused eco-centric support",
+            "quantity": 3,
+            "unit_price": 12.81,
+            "total_price": 38.43
+        },
+        {
+            "description": "Pre-emptive 6thgeneration matrices",
+            "quantity": 7,
+            "unit_price": 391.67,
+            "total_price": 2741.69
+        },
+        {
+            "description": "Profound regional utilization",
+            "quantity": 1,
+            "unit_price": 40.67,
+            "total_price": 40.67
+        }
+    ],
+    "amount": 2820.79
+}

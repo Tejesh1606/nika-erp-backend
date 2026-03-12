@@ -1,0 +1,20 @@
+{
+    "vendor_name": "White LLC",
+    "invoice_number": "INV-18383",
+    "date": "2025-03-26",
+    "items": [
+        {
+            "description": "Horizontal cohesive pricing structure",
+            "quantity": 10,
+            "unit_price": 364.11,
+            "total_price": 3641.1
+        },
+        {
+            "description": "Function-based national data-warehouse",
+            "quantity": 7,
+            "unit_price": 15.08,
+            "total_price": 105.56
+        }
+    ],
+    "amount": 3746.66
+}

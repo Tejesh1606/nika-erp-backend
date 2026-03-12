@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Reed Inc",
+    "invoice_number": "INV-84808",
+    "date": "2025-03-15",
+    "items": [
+        {
+            "description": "Synchronized empowering customer loyalty",
+            "quantity": 6,
+            "unit_price": 480.97,
+            "total_price": 2885.82
+        },
+        {
+            "description": "Monitored user-facing system engine",
+            "quantity": 3,
+            "unit_price": 472.5,
+            "total_price": 1417.5
+        },
+        {
+            "description": "Compatible multi-state focus group",
+            "quantity": 2,
+            "unit_price": 444.23,
+            "total_price": 888.46
+        }
+    ],
+    "amount": 5191.78
+}

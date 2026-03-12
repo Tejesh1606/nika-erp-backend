@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Dalton Inc",
+    "invoice_number": "INV-57852",
+    "date": "2025-12-30",
+    "items": [
+        {
+            "description": "Adaptive homogeneous moratorium",
+            "quantity": 7,
+            "unit_price": 250.03,
+            "total_price": 1750.21
+        },
+        {
+            "description": "Digitized attitude-oriented protocol",
+            "quantity": 2,
+            "unit_price": 18.44,
+            "total_price": 36.88
+        }
+    ],
+    "amount": 1787.09
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Burton LLC",
+    "invoice_number": "INV-55593",
+    "date": "2025-08-18",
+    "items": [
+        {
+            "description": "Adaptive next generation encoding",
+            "quantity": 8,
+            "unit_price": 272.0,
+            "total_price": 2176.0
+        },
+        {
+            "description": "Ergonomic bottom-line moderator",
+            "quantity": 8,
+            "unit_price": 15.38,
+            "total_price": 123.04
+        },
+        {
+            "description": "Cross-platform regional hierarchy",
+            "quantity": 4,
+            "unit_price": 89.88,
+            "total_price": 359.52
+        }
+    ],
+    "amount": 2658.56
+}

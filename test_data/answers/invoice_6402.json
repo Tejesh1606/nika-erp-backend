@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Brown, Cooper and Hunt",
+    "invoice_number": "INV-17268",
+    "date": "2025-09-29",
+    "items": [
+        {
+            "description": "Sharable 5thgeneration neural-net",
+            "quantity": 10,
+            "unit_price": 159.27,
+            "total_price": 1592.7
+        }
+    ],
+    "amount": 1592.7
+}

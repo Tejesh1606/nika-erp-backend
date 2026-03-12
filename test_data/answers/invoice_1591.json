@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith, Fernandez and Vasquez",
+    "invoice_number": "INV-22099",
+    "date": "2026-03-06",
+    "items": [
+        {
+            "description": "Total secondary collaboration",
+            "quantity": 6,
+            "unit_price": 118.47,
+            "total_price": 710.82
+        },
+        {
+            "description": "Business-focused 24hour leverage",
+            "quantity": 9,
+            "unit_price": 78.79,
+            "total_price": 709.11
+        },
+        {
+            "description": "Enhanced 5thgeneration challenge",
+            "quantity": 5,
+            "unit_price": 207.33,
+            "total_price": 1036.65
+        }
+    ],
+    "amount": 2456.58
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Anderson, Potts and Vargas",
+    "invoice_number": "INV-43384",
+    "date": "2025-07-19",
+    "items": [
+        {
+            "description": "Visionary neutral solution",
+            "quantity": 5,
+            "unit_price": 79.31,
+            "total_price": 396.55
+        },
+        {
+            "description": "Balanced context-sensitive migration",
+            "quantity": 2,
+            "unit_price": 144.22,
+            "total_price": 288.44
+        }
+    ],
+    "amount": 684.99
+}

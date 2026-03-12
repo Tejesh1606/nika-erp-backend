@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Buchanan-Robinson",
+    "invoice_number": "INV-31706",
+    "date": "2026-03-03",
+    "items": [
+        {
+            "description": "Synergistic modular budgetary management",
+            "quantity": 9,
+            "unit_price": 251.57,
+            "total_price": 2264.13
+        },
+        {
+            "description": "Configurable static knowledgebase",
+            "quantity": 3,
+            "unit_price": 422.4,
+            "total_price": 1267.2
+        },
+        {
+            "description": "Mandatory reciprocal superstructure",
+            "quantity": 9,
+            "unit_price": 202.84,
+            "total_price": 1825.56
+        }
+    ],
+    "amount": 5356.89
+}

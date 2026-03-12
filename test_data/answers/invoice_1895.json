@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cruz, Howell and Riley",
+    "invoice_number": "INV-86850",
+    "date": "2025-09-29",
+    "items": [
+        {
+            "description": "Profound zero-defect collaboration",
+            "quantity": 2,
+            "unit_price": 163.67,
+            "total_price": 327.34
+        },
+        {
+            "description": "Virtual system-worthy policy",
+            "quantity": 6,
+            "unit_price": 314.2,
+            "total_price": 1885.2
+        }
+    ],
+    "amount": 2212.54
+}

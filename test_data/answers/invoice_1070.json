@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Nelson, Flores and Rodriguez",
+    "invoice_number": "INV-60206",
+    "date": "2025-08-22",
+    "items": [
+        {
+            "description": "Exclusive non-volatile help-desk",
+            "quantity": 8,
+            "unit_price": 23.61,
+            "total_price": 188.88
+        },
+        {
+            "description": "Multi-layered responsive architecture",
+            "quantity": 2,
+            "unit_price": 444.0,
+            "total_price": 888.0
+        },
+        {
+            "description": "Organized composite alliance",
+            "quantity": 7,
+            "unit_price": 199.31,
+            "total_price": 1395.17
+        }
+    ],
+    "amount": 2472.05
+}

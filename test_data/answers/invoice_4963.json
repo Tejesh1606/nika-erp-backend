@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Campbell PLC",
+    "invoice_number": "INV-47870",
+    "date": "2025-12-23",
+    "items": [
+        {
+            "description": "Synchronized tertiary initiative",
+            "quantity": 9,
+            "unit_price": 463.31,
+            "total_price": 4169.79
+        },
+        {
+            "description": "Universal asynchronous Internet solution",
+            "quantity": 9,
+            "unit_price": 30.43,
+            "total_price": 273.87
+        },
+        {
+            "description": "Stand-alone client-server capacity",
+            "quantity": 3,
+            "unit_price": 417.6,
+            "total_price": 1252.8
+        }
+    ],
+    "amount": 5696.46
+}

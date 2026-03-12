@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Valencia Group",
+    "invoice_number": "INV-40461",
+    "date": "2025-05-30",
+    "items": [
+        {
+            "description": "Fundamental regional challenge",
+            "quantity": 10,
+            "unit_price": 211.56,
+            "total_price": 2115.6
+        },
+        {
+            "description": "Digitized leadingedge system engine",
+            "quantity": 7,
+            "unit_price": 72.78,
+            "total_price": 509.46
+        },
+        {
+            "description": "Pre-emptive tangible task-force",
+            "quantity": 3,
+            "unit_price": 24.72,
+            "total_price": 74.16
+        },
+        {
+            "description": "Phased analyzing monitoring",
+            "quantity": 8,
+            "unit_price": 475.68,
+            "total_price": 3805.44
+        }
+    ],
+    "amount": 6504.66
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Morales-Wu",
+    "invoice_number": "INV-53370",
+    "date": "2025-10-11",
+    "items": [
+        {
+            "description": "Vision-oriented interactive instruction set",
+            "quantity": 6,
+            "unit_price": 166.11,
+            "total_price": 996.66
+        },
+        {
+            "description": "Centralized fresh-thinking throughput",
+            "quantity": 7,
+            "unit_price": 298.4,
+            "total_price": 2088.8
+        },
+        {
+            "description": "Reduced motivating instruction set",
+            "quantity": 10,
+            "unit_price": 286.46,
+            "total_price": 2864.6
+        },
+        {
+            "description": "Versatile local monitoring",
+            "quantity": 6,
+            "unit_price": 266.45,
+            "total_price": 1598.7
+        }
+    ],
+    "amount": 7548.76
+}

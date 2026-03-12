@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Green, Rodriguez and Mathis",
+    "invoice_number": "INV-88964",
+    "date": "2026-02-22",
+    "items": [
+        {
+            "description": "Face-to-face systematic complexity",
+            "quantity": 9,
+            "unit_price": 55.62,
+            "total_price": 500.58
+        },
+        {
+            "description": "Horizontal incremental matrices",
+            "quantity": 10,
+            "unit_price": 19.64,
+            "total_price": 196.4
+        },
+        {
+            "description": "Compatible secondary structure",
+            "quantity": 5,
+            "unit_price": 272.99,
+            "total_price": 1364.95
+        }
+    ],
+    "amount": 2061.93
+}

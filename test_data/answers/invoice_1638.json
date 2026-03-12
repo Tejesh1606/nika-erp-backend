@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Anderson Inc",
+    "invoice_number": "INV-40258",
+    "date": "2025-06-14",
+    "items": [
+        {
+            "description": "User-friendly 6thgeneration superstructure",
+            "quantity": 1,
+            "unit_price": 296.04,
+            "total_price": 296.04
+        }
+    ],
+    "amount": 296.04
+}

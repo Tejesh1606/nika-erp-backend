@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Glover, Torres and Russell",
+    "invoice_number": "INV-20998",
+    "date": "2026-01-31",
+    "items": [
+        {
+            "description": "Sharable motivating database",
+            "quantity": 8,
+            "unit_price": 144.65,
+            "total_price": 1157.2
+        },
+        {
+            "description": "Digitized holistic moratorium",
+            "quantity": 10,
+            "unit_price": 244.59,
+            "total_price": 2445.9
+        }
+    ],
+    "amount": 3603.1
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Stokes-Steele",
+    "invoice_number": "INV-64423",
+    "date": "2026-01-13",
+    "items": [
+        {
+            "description": "Progressive mobile database",
+            "quantity": 3,
+            "unit_price": 171.58,
+            "total_price": 514.74
+        },
+        {
+            "description": "Customizable systematic analyzer",
+            "quantity": 6,
+            "unit_price": 341.44,
+            "total_price": 2048.64
+        },
+        {
+            "description": "De-engineered exuding complexity",
+            "quantity": 10,
+            "unit_price": 236.23,
+            "total_price": 2362.3
+        },
+        {
+            "description": "Networked explicit functionalities",
+            "quantity": 2,
+            "unit_price": 108.37,
+            "total_price": 216.74
+        }
+    ],
+    "amount": 5142.42
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Riley, Thomas and Arroyo",
+    "invoice_number": "INV-72957",
+    "date": "2025-07-03",
+    "items": [
+        {
+            "description": "Focused context-sensitive Internet solution",
+            "quantity": 5,
+            "unit_price": 262.32,
+            "total_price": 1311.6
+        }
+    ],
+    "amount": 1311.6
+}

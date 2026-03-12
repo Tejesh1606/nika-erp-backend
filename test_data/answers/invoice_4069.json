@@ -1,0 +1,20 @@
+{
+    "vendor_name": "King, Cooper and Harris",
+    "invoice_number": "INV-62620",
+    "date": "2025-10-05",
+    "items": [
+        {
+            "description": "Upgradable optimal attitude",
+            "quantity": 2,
+            "unit_price": 157.51,
+            "total_price": 315.02
+        },
+        {
+            "description": "Business-focused multi-state synergy",
+            "quantity": 7,
+            "unit_price": 343.72,
+            "total_price": 2406.04
+        }
+    ],
+    "amount": 2721.06
+}

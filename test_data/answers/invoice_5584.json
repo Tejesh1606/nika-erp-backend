@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wilson Inc",
+    "invoice_number": "INV-27730",
+    "date": "2025-11-24",
+    "items": [
+        {
+            "description": "Monitored demand-driven encoding",
+            "quantity": 7,
+            "unit_price": 476.12,
+            "total_price": 3332.84
+        }
+    ],
+    "amount": 3332.84
+}

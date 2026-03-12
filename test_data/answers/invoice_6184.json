@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mcguire-Payne",
+    "invoice_number": "INV-21549",
+    "date": "2025-03-31",
+    "items": [
+        {
+            "description": "Cross-group system-worthy function",
+            "quantity": 6,
+            "unit_price": 172.16,
+            "total_price": 1032.96
+        },
+        {
+            "description": "Cloned actuating success",
+            "quantity": 4,
+            "unit_price": 156.22,
+            "total_price": 624.88
+        }
+    ],
+    "amount": 1657.84
+}

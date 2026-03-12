@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Nelson-Anderson",
+    "invoice_number": "INV-92369",
+    "date": "2025-07-27",
+    "items": [
+        {
+            "description": "Visionary client-server matrices",
+            "quantity": 4,
+            "unit_price": 98.22,
+            "total_price": 392.88
+        },
+        {
+            "description": "Mandatory 24hour hub",
+            "quantity": 9,
+            "unit_price": 117.03,
+            "total_price": 1053.27
+        },
+        {
+            "description": "Open-architected needs-based middleware",
+            "quantity": 2,
+            "unit_price": 283.24,
+            "total_price": 566.48
+        }
+    ],
+    "amount": 2012.63
+}

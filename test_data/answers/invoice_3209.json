@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Stewart PLC",
+    "invoice_number": "INV-83355",
+    "date": "2025-07-12",
+    "items": [
+        {
+            "description": "Pre-emptive user-facing moratorium",
+            "quantity": 5,
+            "unit_price": 388.52,
+            "total_price": 1942.6
+        },
+        {
+            "description": "Public-key leadingedge utilization",
+            "quantity": 5,
+            "unit_price": 135.43,
+            "total_price": 677.15
+        },
+        {
+            "description": "Down-sized neutral circuit",
+            "quantity": 8,
+            "unit_price": 156.98,
+            "total_price": 1255.84
+        },
+        {
+            "description": "Centralized impactful core",
+            "quantity": 6,
+            "unit_price": 396.34,
+            "total_price": 2378.04
+        }
+    ],
+    "amount": 6253.63
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Moran Ltd",
+    "invoice_number": "INV-97431",
+    "date": "2026-03-07",
+    "items": [
+        {
+            "description": "Integrated non-volatile infrastructure",
+            "quantity": 3,
+            "unit_price": 146.09,
+            "total_price": 438.27
+        },
+        {
+            "description": "Devolved next generation firmware",
+            "quantity": 1,
+            "unit_price": 364.77,
+            "total_price": 364.77
+        },
+        {
+            "description": "Assimilated logistical workforce",
+            "quantity": 8,
+            "unit_price": 14.82,
+            "total_price": 118.56
+        }
+    ],
+    "amount": 921.6
+}

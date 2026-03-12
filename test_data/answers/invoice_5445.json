@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wong and Sons",
+    "invoice_number": "INV-71661",
+    "date": "2025-07-29",
+    "items": [
+        {
+            "description": "Multi-layered user-facing utilization",
+            "quantity": 9,
+            "unit_price": 364.31,
+            "total_price": 3278.79
+        },
+        {
+            "description": "Pre-emptive national hub",
+            "quantity": 10,
+            "unit_price": 109.7,
+            "total_price": 1097.0
+        },
+        {
+            "description": "Horizontal fresh-thinking matrices",
+            "quantity": 9,
+            "unit_price": 449.63,
+            "total_price": 4046.67
+        },
+        {
+            "description": "Triple-buffered system-worthy info-mediaries",
+            "quantity": 4,
+            "unit_price": 141.12,
+            "total_price": 564.48
+        }
+    ],
+    "amount": 8986.94
+}

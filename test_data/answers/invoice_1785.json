@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Nguyen PLC",
+    "invoice_number": "INV-21827",
+    "date": "2025-09-23",
+    "items": [
+        {
+            "description": "Vision-oriented static support",
+            "quantity": 7,
+            "unit_price": 393.71,
+            "total_price": 2755.97
+        },
+        {
+            "description": "Persevering homogeneous protocol",
+            "quantity": 3,
+            "unit_price": 139.72,
+            "total_price": 419.16
+        }
+    ],
+    "amount": 3175.13
+}

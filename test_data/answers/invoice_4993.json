@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Meyer-Garrett",
+    "invoice_number": "INV-82988",
+    "date": "2025-09-09",
+    "items": [
+        {
+            "description": "Polarized mission-critical implementation",
+            "quantity": 3,
+            "unit_price": 322.48,
+            "total_price": 967.44
+        },
+        {
+            "description": "Managed empowering ability",
+            "quantity": 2,
+            "unit_price": 357.34,
+            "total_price": 714.68
+        },
+        {
+            "description": "Devolved directional framework",
+            "quantity": 7,
+            "unit_price": 374.85,
+            "total_price": 2623.95
+        }
+    ],
+    "amount": 4306.07
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Bennett PLC",
+    "invoice_number": "INV-68784",
+    "date": "2026-02-13",
+    "items": [
+        {
+            "description": "Sharable high-level adapter",
+            "quantity": 5,
+            "unit_price": 393.77,
+            "total_price": 1968.85
+        }
+    ],
+    "amount": 1968.85
+}

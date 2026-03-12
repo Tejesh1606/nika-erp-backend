@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Carter-Pugh",
+    "invoice_number": "INV-99120",
+    "date": "2026-02-02",
+    "items": [
+        {
+            "description": "Multi-lateral background core",
+            "quantity": 1,
+            "unit_price": 350.25,
+            "total_price": 350.25
+        },
+        {
+            "description": "Front-line logistical time-frame",
+            "quantity": 9,
+            "unit_price": 499.89,
+            "total_price": 4499.01
+        },
+        {
+            "description": "Seamless zero administration emulation",
+            "quantity": 6,
+            "unit_price": 346.09,
+            "total_price": 2076.54
+        }
+    ],
+    "amount": 6925.8
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lee-Acosta",
+    "invoice_number": "INV-81843",
+    "date": "2025-03-19",
+    "items": [
+        {
+            "description": "Automated local support",
+            "quantity": 1,
+            "unit_price": 412.82,
+            "total_price": 412.82
+        },
+        {
+            "description": "Proactive zero tolerance open architecture",
+            "quantity": 6,
+            "unit_price": 50.45,
+            "total_price": 302.7
+        },
+        {
+            "description": "Right-sized zero tolerance model",
+            "quantity": 2,
+            "unit_price": 207.15,
+            "total_price": 414.3
+        },
+        {
+            "description": "Cross-platform object-oriented solution",
+            "quantity": 4,
+            "unit_price": 384.69,
+            "total_price": 1538.76
+        }
+    ],
+    "amount": 2668.58
+}

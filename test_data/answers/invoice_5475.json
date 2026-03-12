@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Allen-Spencer",
+    "invoice_number": "INV-95076",
+    "date": "2025-10-25",
+    "items": [
+        {
+            "description": "Synergistic 24/7 budgetary management",
+            "quantity": 8,
+            "unit_price": 166.82,
+            "total_price": 1334.56
+        },
+        {
+            "description": "Optional multi-state archive",
+            "quantity": 5,
+            "unit_price": 300.94,
+            "total_price": 1504.7
+        },
+        {
+            "description": "Distributed well-modulated alliance",
+            "quantity": 4,
+            "unit_price": 169.26,
+            "total_price": 677.04
+        },
+        {
+            "description": "Proactive global ability",
+            "quantity": 7,
+            "unit_price": 113.23,
+            "total_price": 792.61
+        }
+    ],
+    "amount": 4308.91
+}

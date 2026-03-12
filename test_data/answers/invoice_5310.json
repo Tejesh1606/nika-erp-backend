@@ -1,0 +1,14 @@
+{
+    "vendor_name": "House-Hines",
+    "invoice_number": "INV-40483",
+    "date": "2025-03-31",
+    "items": [
+        {
+            "description": "Virtual multimedia benchmark",
+            "quantity": 8,
+            "unit_price": 149.82,
+            "total_price": 1198.56
+        }
+    ],
+    "amount": 1198.56
+}

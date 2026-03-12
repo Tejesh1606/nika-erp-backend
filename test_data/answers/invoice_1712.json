@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lewis Ltd",
+    "invoice_number": "INV-59060",
+    "date": "2025-11-02",
+    "items": [
+        {
+            "description": "Up-sized bottom-line application",
+            "quantity": 2,
+            "unit_price": 324.73,
+            "total_price": 649.46
+        }
+    ],
+    "amount": 649.46
+}

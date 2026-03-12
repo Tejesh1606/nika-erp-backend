@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Obrien-Fernandez",
+    "invoice_number": "INV-93519",
+    "date": "2026-02-28",
+    "items": [
+        {
+            "description": "De-engineered eco-centric hierarchy",
+            "quantity": 4,
+            "unit_price": 204.6,
+            "total_price": 818.4
+        },
+        {
+            "description": "De-engineered executive website",
+            "quantity": 2,
+            "unit_price": 208.71,
+            "total_price": 417.42
+        }
+    ],
+    "amount": 1235.82
+}

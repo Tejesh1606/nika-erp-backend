@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Anderson, Fox and Henderson",
+    "invoice_number": "INV-80879",
+    "date": "2025-03-21",
+    "items": [
+        {
+            "description": "Profit-focused grid-enabled infrastructure",
+            "quantity": 8,
+            "unit_price": 225.98,
+            "total_price": 1807.84
+        }
+    ],
+    "amount": 1807.84
+}

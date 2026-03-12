@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Chen-Barton",
+    "invoice_number": "INV-33581",
+    "date": "2026-02-12",
+    "items": [
+        {
+            "description": "Persevering 24/7 concept",
+            "quantity": 9,
+            "unit_price": 478.76,
+            "total_price": 4308.84
+        },
+        {
+            "description": "Decentralized intangible firmware",
+            "quantity": 2,
+            "unit_price": 465.97,
+            "total_price": 931.94
+        },
+        {
+            "description": "Virtual neutral structure",
+            "quantity": 7,
+            "unit_price": 362.97,
+            "total_price": 2540.79
+        },
+        {
+            "description": "Phased value-added attitude",
+            "quantity": 8,
+            "unit_price": 268.24,
+            "total_price": 2145.92
+        }
+    ],
+    "amount": 9927.49
+}

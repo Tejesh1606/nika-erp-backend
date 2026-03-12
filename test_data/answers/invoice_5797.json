@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Allen PLC",
+    "invoice_number": "INV-86365",
+    "date": "2025-11-15",
+    "items": [
+        {
+            "description": "Object-based 5thgeneration functionalities",
+            "quantity": 8,
+            "unit_price": 206.54,
+            "total_price": 1652.32
+        }
+    ],
+    "amount": 1652.32
+}

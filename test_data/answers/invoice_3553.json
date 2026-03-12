@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Franco PLC",
+    "invoice_number": "INV-29122",
+    "date": "2025-06-11",
+    "items": [
+        {
+            "description": "Synchronized zero administration projection",
+            "quantity": 5,
+            "unit_price": 149.06,
+            "total_price": 745.3
+        },
+        {
+            "description": "Self-enabling secondary challenge",
+            "quantity": 4,
+            "unit_price": 378.26,
+            "total_price": 1513.04
+        }
+    ],
+    "amount": 2258.34
+}

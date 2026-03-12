@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Robinson PLC",
+    "invoice_number": "INV-88056",
+    "date": "2025-11-15",
+    "items": [
+        {
+            "description": "Monitored 6thgeneration infrastructure",
+            "quantity": 3,
+            "unit_price": 437.31,
+            "total_price": 1311.93
+        },
+        {
+            "description": "Object-based tangible initiative",
+            "quantity": 2,
+            "unit_price": 89.21,
+            "total_price": 178.42
+        },
+        {
+            "description": "Stand-alone modular interface",
+            "quantity": 7,
+            "unit_price": 197.23,
+            "total_price": 1380.61
+        }
+    ],
+    "amount": 2870.96
+}

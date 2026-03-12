@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gould-Bates",
+    "invoice_number": "INV-80480",
+    "date": "2025-12-12",
+    "items": [
+        {
+            "description": "Operative executive task-force",
+            "quantity": 10,
+            "unit_price": 138.41,
+            "total_price": 1384.1
+        }
+    ],
+    "amount": 1384.1
+}

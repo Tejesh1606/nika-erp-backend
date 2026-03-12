@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hayes, York and Gomez",
+    "invoice_number": "INV-77856",
+    "date": "2025-06-07",
+    "items": [
+        {
+            "description": "Future-proofed solution-oriented projection",
+            "quantity": 1,
+            "unit_price": 161.05,
+            "total_price": 161.05
+        },
+        {
+            "description": "Vision-oriented encompassing definition",
+            "quantity": 9,
+            "unit_price": 113.78,
+            "total_price": 1024.02
+        },
+        {
+            "description": "Assimilated clear-thinking paradigm",
+            "quantity": 2,
+            "unit_price": 464.37,
+            "total_price": 928.74
+        }
+    ],
+    "amount": 2113.81
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Parker PLC",
+    "invoice_number": "INV-32821",
+    "date": "2025-12-09",
+    "items": [
+        {
+            "description": "Organic exuding solution",
+            "quantity": 6,
+            "unit_price": 328.51,
+            "total_price": 1971.06
+        }
+    ],
+    "amount": 1971.06
+}

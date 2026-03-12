@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Smith, Mitchell and Stevenson",
+    "invoice_number": "INV-67429",
+    "date": "2025-06-06",
+    "items": [
+        {
+            "description": "Multi-tiered fresh-thinking neural-net",
+            "quantity": 9,
+            "unit_price": 245.46,
+            "total_price": 2209.14
+        },
+        {
+            "description": "Multi-lateral executive alliance",
+            "quantity": 5,
+            "unit_price": 55.54,
+            "total_price": 277.7
+        },
+        {
+            "description": "Inverse upward-trending open system",
+            "quantity": 2,
+            "unit_price": 295.12,
+            "total_price": 590.24
+        },
+        {
+            "description": "Cloned object-oriented definition",
+            "quantity": 1,
+            "unit_price": 231.96,
+            "total_price": 231.96
+        }
+    ],
+    "amount": 3309.04
+}

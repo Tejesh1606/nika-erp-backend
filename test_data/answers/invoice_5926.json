@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Sutton Inc",
+    "invoice_number": "INV-97324",
+    "date": "2025-03-11",
+    "items": [
+        {
+            "description": "Right-sized stable matrices",
+            "quantity": 8,
+            "unit_price": 281.33,
+            "total_price": 2250.64
+        },
+        {
+            "description": "Pre-emptive directional Graphic Interface",
+            "quantity": 6,
+            "unit_price": 392.9,
+            "total_price": 2357.4
+        },
+        {
+            "description": "Team-oriented explicit paradigm",
+            "quantity": 10,
+            "unit_price": 440.78,
+            "total_price": 4407.8
+        }
+    ],
+    "amount": 9015.84
+}

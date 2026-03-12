@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Garcia Inc",
+    "invoice_number": "INV-27212",
+    "date": "2025-12-08",
+    "items": [
+        {
+            "description": "De-engineered local productivity",
+            "quantity": 2,
+            "unit_price": 377.48,
+            "total_price": 754.96
+        }
+    ],
+    "amount": 754.96
+}

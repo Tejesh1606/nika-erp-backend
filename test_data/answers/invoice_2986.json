@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hernandez PLC",
+    "invoice_number": "INV-42052",
+    "date": "2025-05-21",
+    "items": [
+        {
+            "description": "Cross-group object-oriented groupware",
+            "quantity": 3,
+            "unit_price": 138.37,
+            "total_price": 415.11
+        }
+    ],
+    "amount": 415.11
+}

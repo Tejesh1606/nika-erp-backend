@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Levy, Brown and Patrick",
+    "invoice_number": "INV-30014",
+    "date": "2026-01-24",
+    "items": [
+        {
+            "description": "Universal demand-driven superstructure",
+            "quantity": 8,
+            "unit_price": 99.28,
+            "total_price": 794.24
+        },
+        {
+            "description": "Face-to-face tangible support",
+            "quantity": 1,
+            "unit_price": 318.08,
+            "total_price": 318.08
+        }
+    ],
+    "amount": 1112.32
+}

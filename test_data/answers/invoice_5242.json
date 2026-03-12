@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Diaz-Willis",
+    "invoice_number": "INV-60297",
+    "date": "2025-10-21",
+    "items": [
+        {
+            "description": "Customizable full-range time-frame",
+            "quantity": 7,
+            "unit_price": 180.81,
+            "total_price": 1265.67
+        }
+    ],
+    "amount": 1265.67
+}

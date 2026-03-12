@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Simmons Group",
+    "invoice_number": "INV-71588",
+    "date": "2025-09-28",
+    "items": [
+        {
+            "description": "Cloned logistical functionalities",
+            "quantity": 8,
+            "unit_price": 207.23,
+            "total_price": 1657.84
+        },
+        {
+            "description": "Distributed empowering project",
+            "quantity": 4,
+            "unit_price": 401.21,
+            "total_price": 1604.84
+        },
+        {
+            "description": "Reactive asymmetric encryption",
+            "quantity": 9,
+            "unit_price": 17.43,
+            "total_price": 156.87
+        }
+    ],
+    "amount": 3419.55
+}

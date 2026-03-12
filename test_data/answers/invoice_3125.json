@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Contreras Ltd",
+    "invoice_number": "INV-17259",
+    "date": "2025-04-10",
+    "items": [
+        {
+            "description": "Inverse interactive archive",
+            "quantity": 10,
+            "unit_price": 86.7,
+            "total_price": 867.0
+        },
+        {
+            "description": "Operative asynchronous paradigm",
+            "quantity": 6,
+            "unit_price": 302.4,
+            "total_price": 1814.4
+        }
+    ],
+    "amount": 2681.4
+}

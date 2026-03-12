@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Sanders LLC",
+    "invoice_number": "INV-89121",
+    "date": "2025-10-31",
+    "items": [
+        {
+            "description": "Monitored discrete application",
+            "quantity": 5,
+            "unit_price": 368.62,
+            "total_price": 1843.1
+        }
+    ],
+    "amount": 1843.1
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Johnson Inc",
+    "invoice_number": "INV-32421",
+    "date": "2025-10-14",
+    "items": [
+        {
+            "description": "Sharable upward-trending challenge",
+            "quantity": 4,
+            "unit_price": 178.36,
+            "total_price": 713.44
+        },
+        {
+            "description": "Total maximized circuit",
+            "quantity": 4,
+            "unit_price": 100.51,
+            "total_price": 402.04
+        },
+        {
+            "description": "Future-proofed content-based adapter",
+            "quantity": 1,
+            "unit_price": 415.5,
+            "total_price": 415.5
+        }
+    ],
+    "amount": 1530.98
+}

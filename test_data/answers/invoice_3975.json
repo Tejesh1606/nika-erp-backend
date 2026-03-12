@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Miller, Vincent and Alexander",
+    "invoice_number": "INV-55400",
+    "date": "2025-05-01",
+    "items": [
+        {
+            "description": "Profound composite challenge",
+            "quantity": 5,
+            "unit_price": 366.44,
+            "total_price": 1832.2
+        },
+        {
+            "description": "Triple-buffered web-enabled info-mediaries",
+            "quantity": 6,
+            "unit_price": 427.03,
+            "total_price": 2562.18
+        }
+    ],
+    "amount": 4394.38
+}

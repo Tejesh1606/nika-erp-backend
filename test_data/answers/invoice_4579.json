@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gates-Nguyen",
+    "invoice_number": "INV-52738",
+    "date": "2025-12-13",
+    "items": [
+        {
+            "description": "Programmable 6thgeneration function",
+            "quantity": 7,
+            "unit_price": 313.17,
+            "total_price": 2192.19
+        }
+    ],
+    "amount": 2192.19
+}

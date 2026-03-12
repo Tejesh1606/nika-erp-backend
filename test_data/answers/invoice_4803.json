@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Santiago PLC",
+    "invoice_number": "INV-70943",
+    "date": "2025-08-08",
+    "items": [
+        {
+            "description": "Open-architected directional flexibility",
+            "quantity": 3,
+            "unit_price": 411.27,
+            "total_price": 1233.81
+        },
+        {
+            "description": "Adaptive eco-centric website",
+            "quantity": 8,
+            "unit_price": 497.68,
+            "total_price": 3981.44
+        },
+        {
+            "description": "Customer-focused regional intranet",
+            "quantity": 6,
+            "unit_price": 269.08,
+            "total_price": 1614.48
+        },
+        {
+            "description": "User-friendly eco-centric firmware",
+            "quantity": 6,
+            "unit_price": 452.52,
+            "total_price": 2715.12
+        }
+    ],
+    "amount": 9544.85
+}

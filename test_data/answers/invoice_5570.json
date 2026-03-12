@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Smith LLC",
+    "invoice_number": "INV-67533",
+    "date": "2025-09-17",
+    "items": [
+        {
+            "description": "Cloned stable analyzer",
+            "quantity": 5,
+            "unit_price": 288.52,
+            "total_price": 1442.6
+        },
+        {
+            "description": "Expanded systemic approach",
+            "quantity": 10,
+            "unit_price": 440.85,
+            "total_price": 4408.5
+        },
+        {
+            "description": "Switchable zero administration circuit",
+            "quantity": 3,
+            "unit_price": 270.35,
+            "total_price": 811.05
+        },
+        {
+            "description": "Persistent full-range orchestration",
+            "quantity": 1,
+            "unit_price": 480.56,
+            "total_price": 480.56
+        }
+    ],
+    "amount": 7142.71
+}

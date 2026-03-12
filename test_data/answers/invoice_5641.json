@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Trevino-Jones",
+    "invoice_number": "INV-10544",
+    "date": "2025-08-06",
+    "items": [
+        {
+            "description": "Total bi-directional info-mediaries",
+            "quantity": 5,
+            "unit_price": 53.49,
+            "total_price": 267.45
+        },
+        {
+            "description": "Synergized uniform initiative",
+            "quantity": 5,
+            "unit_price": 316.36,
+            "total_price": 1581.8
+        }
+    ],
+    "amount": 1849.25
+}

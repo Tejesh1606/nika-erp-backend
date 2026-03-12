@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jensen-Miller",
+    "invoice_number": "INV-40961",
+    "date": "2026-01-19",
+    "items": [
+        {
+            "description": "Open-architected 5thgeneration Local Area Network",
+            "quantity": 10,
+            "unit_price": 46.91,
+            "total_price": 469.1
+        },
+        {
+            "description": "Proactive client-server matrix",
+            "quantity": 10,
+            "unit_price": 110.76,
+            "total_price": 1107.6
+        },
+        {
+            "description": "Diverse 5thgeneration product",
+            "quantity": 3,
+            "unit_price": 103.58,
+            "total_price": 310.74
+        }
+    ],
+    "amount": 1887.44
+}

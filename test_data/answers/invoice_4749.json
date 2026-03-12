@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Simon, Chen and Dougherty",
+    "invoice_number": "INV-91625",
+    "date": "2025-05-09",
+    "items": [
+        {
+            "description": "Networked client-server algorithm",
+            "quantity": 10,
+            "unit_price": 195.96,
+            "total_price": 1959.6
+        },
+        {
+            "description": "Managed systemic hierarchy",
+            "quantity": 8,
+            "unit_price": 327.28,
+            "total_price": 2618.24
+        },
+        {
+            "description": "Visionary tertiary hub",
+            "quantity": 9,
+            "unit_price": 88.96,
+            "total_price": 800.64
+        },
+        {
+            "description": "Triple-buffered grid-enabled success",
+            "quantity": 9,
+            "unit_price": 133.94,
+            "total_price": 1205.46
+        }
+    ],
+    "amount": 6583.94
+}

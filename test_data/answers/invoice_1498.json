@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Gutierrez-Dudley",
+    "invoice_number": "INV-85597",
+    "date": "2026-02-20",
+    "items": [
+        {
+            "description": "Balanced stable architecture",
+            "quantity": 8,
+            "unit_price": 286.8,
+            "total_price": 2294.4
+        },
+        {
+            "description": "Visionary even-keeled strategy",
+            "quantity": 8,
+            "unit_price": 99.37,
+            "total_price": 794.96
+        },
+        {
+            "description": "Horizontal uniform matrices",
+            "quantity": 6,
+            "unit_price": 213.8,
+            "total_price": 1282.8
+        }
+    ],
+    "amount": 4372.16
+}

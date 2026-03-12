@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Howell-Evans",
+    "invoice_number": "INV-89807",
+    "date": "2025-12-03",
+    "items": [
+        {
+            "description": "Reduced 5thgeneration knowledgebase",
+            "quantity": 9,
+            "unit_price": 408.91,
+            "total_price": 3680.19
+        }
+    ],
+    "amount": 3680.19
+}

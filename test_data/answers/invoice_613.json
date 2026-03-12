@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wells-Thomas",
+    "invoice_number": "INV-66981",
+    "date": "2025-03-13",
+    "items": [
+        {
+            "description": "Horizontal local implementation",
+            "quantity": 10,
+            "unit_price": 397.43,
+            "total_price": 3974.3
+        },
+        {
+            "description": "Synergistic foreground moderator",
+            "quantity": 4,
+            "unit_price": 426.27,
+            "total_price": 1705.08
+        },
+        {
+            "description": "Synergized 6thgeneration attitude",
+            "quantity": 7,
+            "unit_price": 417.57,
+            "total_price": 2922.99
+        },
+        {
+            "description": "Public-key scalable help-desk",
+            "quantity": 6,
+            "unit_price": 148.12,
+            "total_price": 888.72
+        }
+    ],
+    "amount": 9491.09
+}

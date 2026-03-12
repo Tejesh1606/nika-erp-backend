@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hoffman, Keith and Castaneda",
+    "invoice_number": "INV-25606",
+    "date": "2025-08-12",
+    "items": [
+        {
+            "description": "Quality-focused 5thgeneration synergy",
+            "quantity": 3,
+            "unit_price": 161.93,
+            "total_price": 485.79
+        },
+        {
+            "description": "Compatible regional portal",
+            "quantity": 9,
+            "unit_price": 459.2,
+            "total_price": 4132.8
+        },
+        {
+            "description": "Balanced dynamic frame",
+            "quantity": 4,
+            "unit_price": 205.08,
+            "total_price": 820.32
+        }
+    ],
+    "amount": 5438.91
+}

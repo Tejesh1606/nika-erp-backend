@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Butler PLC",
+    "invoice_number": "INV-54829",
+    "date": "2025-04-07",
+    "items": [
+        {
+            "description": "Organic multi-tasking complexity",
+            "quantity": 8,
+            "unit_price": 440.19,
+            "total_price": 3521.52
+        },
+        {
+            "description": "Total local software",
+            "quantity": 8,
+            "unit_price": 318.88,
+            "total_price": 2551.04
+        }
+    ],
+    "amount": 6072.56
+}

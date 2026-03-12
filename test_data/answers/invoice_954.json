@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Adams, Schultz and Brewer",
+    "invoice_number": "INV-58777",
+    "date": "2025-10-13",
+    "items": [
+        {
+            "description": "Switchable secondary migration",
+            "quantity": 10,
+            "unit_price": 340.55,
+            "total_price": 3405.5
+        }
+    ],
+    "amount": 3405.5
+}

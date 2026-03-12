@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Campbell, Huerta and Cannon",
+    "invoice_number": "INV-23119",
+    "date": "2025-12-16",
+    "items": [
+        {
+            "description": "Centralized next generation model",
+            "quantity": 6,
+            "unit_price": 13.89,
+            "total_price": 83.34
+        },
+        {
+            "description": "Monitored well-modulated middleware",
+            "quantity": 4,
+            "unit_price": 437.58,
+            "total_price": 1750.32
+        },
+        {
+            "description": "Re-contextualized tertiary solution",
+            "quantity": 3,
+            "unit_price": 202.31,
+            "total_price": 606.93
+        }
+    ],
+    "amount": 2440.59
+}

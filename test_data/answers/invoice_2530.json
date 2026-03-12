@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gonzales, Garcia and Long",
+    "invoice_number": "INV-83342",
+    "date": "2026-01-03",
+    "items": [
+        {
+            "description": "User-friendly demand-driven strategy",
+            "quantity": 9,
+            "unit_price": 40.63,
+            "total_price": 365.67
+        }
+    ],
+    "amount": 365.67
+}

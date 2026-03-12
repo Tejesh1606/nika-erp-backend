@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Rivera, Johnson and Allen",
+    "invoice_number": "INV-54328",
+    "date": "2026-03-09",
+    "items": [
+        {
+            "description": "Ameliorated leadingedge archive",
+            "quantity": 4,
+            "unit_price": 409.07,
+            "total_price": 1636.28
+        }
+    ],
+    "amount": 1636.28
+}

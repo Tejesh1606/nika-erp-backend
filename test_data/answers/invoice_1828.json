@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Tucker, Mcdonald and Sloan",
+    "invoice_number": "INV-14895",
+    "date": "2025-03-16",
+    "items": [
+        {
+            "description": "User-friendly solution-oriented firmware",
+            "quantity": 4,
+            "unit_price": 107.24,
+            "total_price": 428.96
+        }
+    ],
+    "amount": 428.96
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ward LLC",
+    "invoice_number": "INV-11854",
+    "date": "2025-12-08",
+    "items": [
+        {
+            "description": "Public-key clear-thinking focus group",
+            "quantity": 3,
+            "unit_price": 305.16,
+            "total_price": 915.48
+        },
+        {
+            "description": "Balanced actuating neural-net",
+            "quantity": 5,
+            "unit_price": 487.79,
+            "total_price": 2438.95
+        },
+        {
+            "description": "Implemented tangible capacity",
+            "quantity": 5,
+            "unit_price": 142.43,
+            "total_price": 712.15
+        }
+    ],
+    "amount": 4066.58
+}

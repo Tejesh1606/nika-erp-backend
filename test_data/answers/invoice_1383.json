@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Olsen, Clay and Carter",
+    "invoice_number": "INV-84725",
+    "date": "2025-04-09",
+    "items": [
+        {
+            "description": "Inverse directional intranet",
+            "quantity": 8,
+            "unit_price": 256.2,
+            "total_price": 2049.6
+        },
+        {
+            "description": "Balanced dynamic neural-net",
+            "quantity": 7,
+            "unit_price": 156.13,
+            "total_price": 1092.91
+        }
+    ],
+    "amount": 3142.51
+}

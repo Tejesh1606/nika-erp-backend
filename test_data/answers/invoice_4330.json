@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Johnston, Clark and Guerra",
+    "invoice_number": "INV-23739",
+    "date": "2025-06-13",
+    "items": [
+        {
+            "description": "Polarized 24/7 moderator",
+            "quantity": 4,
+            "unit_price": 288.82,
+            "total_price": 1155.28
+        },
+        {
+            "description": "Multi-channeled next generation intranet",
+            "quantity": 10,
+            "unit_price": 108.21,
+            "total_price": 1082.1
+        }
+    ],
+    "amount": 2237.38
+}

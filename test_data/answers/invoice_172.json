@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gonzales, Huber and Morgan",
+    "invoice_number": "INV-34486",
+    "date": "2025-09-17",
+    "items": [
+        {
+            "description": "Team-oriented modular hub",
+            "quantity": 5,
+            "unit_price": 294.59,
+            "total_price": 1472.95
+        },
+        {
+            "description": "Programmable encompassing website",
+            "quantity": 8,
+            "unit_price": 371.88,
+            "total_price": 2975.04
+        }
+    ],
+    "amount": 4447.99
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Manning-Mcknight",
+    "invoice_number": "INV-69432",
+    "date": "2025-06-09",
+    "items": [
+        {
+            "description": "Reverse-engineered bifurcated pricing structure",
+            "quantity": 8,
+            "unit_price": 157.72,
+            "total_price": 1261.76
+        },
+        {
+            "description": "Adaptive 24hour model",
+            "quantity": 2,
+            "unit_price": 15.11,
+            "total_price": 30.22
+        },
+        {
+            "description": "Programmable object-oriented throughput",
+            "quantity": 6,
+            "unit_price": 307.65,
+            "total_price": 1845.9
+        },
+        {
+            "description": "Vision-oriented non-volatile array",
+            "quantity": 6,
+            "unit_price": 302.93,
+            "total_price": 1817.58
+        }
+    ],
+    "amount": 4955.46
+}

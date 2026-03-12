@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Williams, Chavez and Clark",
+    "invoice_number": "INV-77395",
+    "date": "2025-04-03",
+    "items": [
+        {
+            "description": "Multi-channeled optimal architecture",
+            "quantity": 4,
+            "unit_price": 50.81,
+            "total_price": 203.24
+        },
+        {
+            "description": "Inverse modular portal",
+            "quantity": 7,
+            "unit_price": 441.39,
+            "total_price": 3089.73
+        },
+        {
+            "description": "Centralized next generation paradigm",
+            "quantity": 4,
+            "unit_price": 440.36,
+            "total_price": 1761.44
+        }
+    ],
+    "amount": 5054.41
+}

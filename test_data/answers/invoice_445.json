@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Valdez-Diaz",
+    "invoice_number": "INV-95634",
+    "date": "2026-02-20",
+    "items": [
+        {
+            "description": "Compatible multi-state extranet",
+            "quantity": 6,
+            "unit_price": 244.26,
+            "total_price": 1465.56
+        },
+        {
+            "description": "Multi-tiered directional model",
+            "quantity": 1,
+            "unit_price": 483.89,
+            "total_price": 483.89
+        },
+        {
+            "description": "Open-architected heuristic hardware",
+            "quantity": 6,
+            "unit_price": 477.61,
+            "total_price": 2865.66
+        },
+        {
+            "description": "Pre-emptive mission-critical portal",
+            "quantity": 2,
+            "unit_price": 376.04,
+            "total_price": 752.08
+        }
+    ],
+    "amount": 5567.19
+}

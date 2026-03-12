@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Thompson-Anderson",
+    "invoice_number": "INV-36703",
+    "date": "2026-01-25",
+    "items": [
+        {
+            "description": "Realigned solution-oriented definition",
+            "quantity": 1,
+            "unit_price": 122.13,
+            "total_price": 122.13
+        }
+    ],
+    "amount": 122.13
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Keller-Jones",
+    "invoice_number": "INV-17530",
+    "date": "2025-07-30",
+    "items": [
+        {
+            "description": "Programmable 24/7 concept",
+            "quantity": 7,
+            "unit_price": 29.27,
+            "total_price": 204.89
+        },
+        {
+            "description": "Inverse incremental infrastructure",
+            "quantity": 5,
+            "unit_price": 289.92,
+            "total_price": 1449.6
+        },
+        {
+            "description": "Diverse bifurcated capacity",
+            "quantity": 6,
+            "unit_price": 307.88,
+            "total_price": 1847.28
+        },
+        {
+            "description": "Public-key intangible matrices",
+            "quantity": 2,
+            "unit_price": 82.73,
+            "total_price": 165.46
+        }
+    ],
+    "amount": 3667.23
+}

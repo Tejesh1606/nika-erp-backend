@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Green and Sons",
+    "invoice_number": "INV-22279",
+    "date": "2025-09-25",
+    "items": [
+        {
+            "description": "Configurable content-based knowledge user",
+            "quantity": 2,
+            "unit_price": 105.53,
+            "total_price": 211.06
+        },
+        {
+            "description": "Devolved well-modulated collaboration",
+            "quantity": 6,
+            "unit_price": 95.96,
+            "total_price": 575.76
+        },
+        {
+            "description": "Reverse-engineered user-facing customer loyalty",
+            "quantity": 7,
+            "unit_price": 281.56,
+            "total_price": 1970.92
+        }
+    ],
+    "amount": 2757.74
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mann, Wade and Spence",
+    "invoice_number": "INV-29391",
+    "date": "2025-07-31",
+    "items": [
+        {
+            "description": "Organized needs-based complexity",
+            "quantity": 6,
+            "unit_price": 166.26,
+            "total_price": 997.56
+        },
+        {
+            "description": "Public-key exuding capability",
+            "quantity": 1,
+            "unit_price": 317.82,
+            "total_price": 317.82
+        },
+        {
+            "description": "Assimilated impactful methodology",
+            "quantity": 3,
+            "unit_price": 264.06,
+            "total_price": 792.18
+        },
+        {
+            "description": "Visionary client-server knowledgebase",
+            "quantity": 10,
+            "unit_price": 366.64,
+            "total_price": 3666.4
+        }
+    ],
+    "amount": 5773.96
+}

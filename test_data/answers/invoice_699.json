@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Rhodes, Wilson and Foster",
+    "invoice_number": "INV-87405",
+    "date": "2025-04-17",
+    "items": [
+        {
+            "description": "User-centric composite architecture",
+            "quantity": 9,
+            "unit_price": 459.42,
+            "total_price": 4134.78
+        }
+    ],
+    "amount": 4134.78
+}

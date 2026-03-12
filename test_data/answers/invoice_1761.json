@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Powell PLC",
+    "invoice_number": "INV-39052",
+    "date": "2026-02-09",
+    "items": [
+        {
+            "description": "Team-oriented directional Graphical User Interface",
+            "quantity": 2,
+            "unit_price": 280.43,
+            "total_price": 560.86
+        },
+        {
+            "description": "Progressive real-time toolset",
+            "quantity": 4,
+            "unit_price": 108.9,
+            "total_price": 435.6
+        },
+        {
+            "description": "Synergized holistic benchmark",
+            "quantity": 9,
+            "unit_price": 323.37,
+            "total_price": 2910.33
+        },
+        {
+            "description": "Face-to-face motivating benchmark",
+            "quantity": 4,
+            "unit_price": 326.45,
+            "total_price": 1305.8
+        }
+    ],
+    "amount": 5212.59
+}

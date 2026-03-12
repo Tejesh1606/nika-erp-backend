@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Williams Group",
+    "invoice_number": "INV-33363",
+    "date": "2025-05-10",
+    "items": [
+        {
+            "description": "Synergistic executive pricing structure",
+            "quantity": 5,
+            "unit_price": 120.04,
+            "total_price": 600.2
+        },
+        {
+            "description": "Switchable system-worthy standardization",
+            "quantity": 1,
+            "unit_price": 243.21,
+            "total_price": 243.21
+        }
+    ],
+    "amount": 843.41
+}

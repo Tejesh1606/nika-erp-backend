@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Baker-Harris",
+    "invoice_number": "INV-72233",
+    "date": "2025-04-19",
+    "items": [
+        {
+            "description": "Mandatory secondary alliance",
+            "quantity": 1,
+            "unit_price": 191.29,
+            "total_price": 191.29
+        },
+        {
+            "description": "Future-proofed fresh-thinking capability",
+            "quantity": 4,
+            "unit_price": 86.97,
+            "total_price": 347.88
+        },
+        {
+            "description": "Secured hybrid matrix",
+            "quantity": 4,
+            "unit_price": 16.57,
+            "total_price": 66.28
+        }
+    ],
+    "amount": 605.45
+}

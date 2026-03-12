@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Terry LLC",
+    "invoice_number": "INV-74856",
+    "date": "2026-02-15",
+    "items": [
+        {
+            "description": "Team-oriented background workforce",
+            "quantity": 5,
+            "unit_price": 235.12,
+            "total_price": 1175.6
+        },
+        {
+            "description": "Stand-alone well-modulated focus group",
+            "quantity": 2,
+            "unit_price": 474.1,
+            "total_price": 948.2
+        }
+    ],
+    "amount": 2123.8
+}

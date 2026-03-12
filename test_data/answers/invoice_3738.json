@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brown, Hamilton and Smith",
+    "invoice_number": "INV-89299",
+    "date": "2025-06-26",
+    "items": [
+        {
+            "description": "Cloned maximized Graphical User Interface",
+            "quantity": 8,
+            "unit_price": 380.46,
+            "total_price": 3043.68
+        },
+        {
+            "description": "Advanced composite utilization",
+            "quantity": 7,
+            "unit_price": 96.51,
+            "total_price": 675.57
+        },
+        {
+            "description": "Upgradable even-keeled capability",
+            "quantity": 7,
+            "unit_price": 389.13,
+            "total_price": 2723.91
+        }
+    ],
+    "amount": 6443.16
+}

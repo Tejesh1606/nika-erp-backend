@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Horton-Russell",
+    "invoice_number": "INV-49306",
+    "date": "2025-08-02",
+    "items": [
+        {
+            "description": "Enterprise-wide web-enabled monitoring",
+            "quantity": 5,
+            "unit_price": 375.03,
+            "total_price": 1875.15
+        },
+        {
+            "description": "Phased disintermediate definition",
+            "quantity": 2,
+            "unit_price": 169.51,
+            "total_price": 339.02
+        },
+        {
+            "description": "Innovative tertiary circuit",
+            "quantity": 9,
+            "unit_price": 206.89,
+            "total_price": 1862.01
+        },
+        {
+            "description": "Persistent analyzing open architecture",
+            "quantity": 5,
+            "unit_price": 376.78,
+            "total_price": 1883.9
+        }
+    ],
+    "amount": 5960.08
+}

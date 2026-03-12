@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Burnett PLC",
+    "invoice_number": "INV-18954",
+    "date": "2025-07-23",
+    "items": [
+        {
+            "description": "Enhanced mission-critical moratorium",
+            "quantity": 1,
+            "unit_price": 250.18,
+            "total_price": 250.18
+        }
+    ],
+    "amount": 250.18
+}

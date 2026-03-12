@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Watson, Steele and Jones",
+    "invoice_number": "INV-80022",
+    "date": "2025-06-14",
+    "items": [
+        {
+            "description": "Open-source systematic interface",
+            "quantity": 2,
+            "unit_price": 124.8,
+            "total_price": 249.6
+        }
+    ],
+    "amount": 249.6
+}

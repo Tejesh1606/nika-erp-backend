@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Parker-Ortega",
+    "invoice_number": "INV-67050",
+    "date": "2025-09-17",
+    "items": [
+        {
+            "description": "Open-architected exuding orchestration",
+            "quantity": 6,
+            "unit_price": 110.81,
+            "total_price": 664.86
+        }
+    ],
+    "amount": 664.86
+}

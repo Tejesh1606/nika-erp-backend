@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Sutton and Sons",
+    "invoice_number": "INV-38591",
+    "date": "2025-06-24",
+    "items": [
+        {
+            "description": "Customizable object-oriented ability",
+            "quantity": 8,
+            "unit_price": 341.72,
+            "total_price": 2733.76
+        },
+        {
+            "description": "Streamlined demand-driven structure",
+            "quantity": 6,
+            "unit_price": 449.12,
+            "total_price": 2694.72
+        }
+    ],
+    "amount": 5428.48
+}

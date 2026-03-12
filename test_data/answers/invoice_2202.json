@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Miller-Crawford",
+    "invoice_number": "INV-49131",
+    "date": "2026-01-11",
+    "items": [
+        {
+            "description": "Digitized contextually-based frame",
+            "quantity": 7,
+            "unit_price": 462.83,
+            "total_price": 3239.81
+        },
+        {
+            "description": "Advanced empowering solution",
+            "quantity": 3,
+            "unit_price": 484.85,
+            "total_price": 1454.55
+        },
+        {
+            "description": "Stand-alone systematic data-warehouse",
+            "quantity": 6,
+            "unit_price": 37.26,
+            "total_price": 223.56
+        },
+        {
+            "description": "Enhanced intangible attitude",
+            "quantity": 5,
+            "unit_price": 206.79,
+            "total_price": 1033.95
+        }
+    ],
+    "amount": 5951.87
+}

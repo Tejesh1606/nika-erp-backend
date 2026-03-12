@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Johnson, Cameron and Hunter",
+    "invoice_number": "INV-94307",
+    "date": "2025-11-13",
+    "items": [
+        {
+            "description": "Reverse-engineered user-facing groupware",
+            "quantity": 10,
+            "unit_price": 106.3,
+            "total_price": 1063.0
+        },
+        {
+            "description": "Switchable background leverage",
+            "quantity": 5,
+            "unit_price": 299.7,
+            "total_price": 1498.5
+        }
+    ],
+    "amount": 2561.5
+}

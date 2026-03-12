@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Benson and Sons",
+    "invoice_number": "INV-62469",
+    "date": "2025-10-14",
+    "items": [
+        {
+            "description": "Multi-tiered uniform protocol",
+            "quantity": 8,
+            "unit_price": 90.52,
+            "total_price": 724.16
+        },
+        {
+            "description": "Digitized interactive open system",
+            "quantity": 3,
+            "unit_price": 441.69,
+            "total_price": 1325.07
+        },
+        {
+            "description": "Ameliorated contextually-based software",
+            "quantity": 6,
+            "unit_price": 364.26,
+            "total_price": 2185.56
+        },
+        {
+            "description": "Enterprise-wide coherent approach",
+            "quantity": 9,
+            "unit_price": 283.5,
+            "total_price": 2551.5
+        }
+    ],
+    "amount": 6786.29
+}

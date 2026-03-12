@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Browning-Rice",
+    "invoice_number": "INV-26636",
+    "date": "2025-06-05",
+    "items": [
+        {
+            "description": "Centralized secondary interface",
+            "quantity": 4,
+            "unit_price": 163.8,
+            "total_price": 655.2
+        },
+        {
+            "description": "Implemented clear-thinking synergy",
+            "quantity": 7,
+            "unit_price": 36.61,
+            "total_price": 256.27
+        },
+        {
+            "description": "Compatible attitude-oriented interface",
+            "quantity": 5,
+            "unit_price": 346.37,
+            "total_price": 1731.85
+        },
+        {
+            "description": "Profound empowering initiative",
+            "quantity": 5,
+            "unit_price": 300.23,
+            "total_price": 1501.15
+        }
+    ],
+    "amount": 4144.47
+}

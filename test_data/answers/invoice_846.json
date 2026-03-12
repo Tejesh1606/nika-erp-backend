@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cooper-Bray",
+    "invoice_number": "INV-93958",
+    "date": "2026-02-24",
+    "items": [
+        {
+            "description": "Exclusive zero tolerance architecture",
+            "quantity": 8,
+            "unit_price": 349.48,
+            "total_price": 2795.84
+        },
+        {
+            "description": "Mandatory content-based secured line",
+            "quantity": 5,
+            "unit_price": 280.03,
+            "total_price": 1400.15
+        },
+        {
+            "description": "Phased system-worthy solution",
+            "quantity": 2,
+            "unit_price": 144.39,
+            "total_price": 288.78
+        }
+    ],
+    "amount": 4484.77
+}

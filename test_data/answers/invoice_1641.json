@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Keller-Becker",
+    "invoice_number": "INV-68118",
+    "date": "2025-11-21",
+    "items": [
+        {
+            "description": "Exclusive scalable circuit",
+            "quantity": 3,
+            "unit_price": 37.76,
+            "total_price": 113.28
+        },
+        {
+            "description": "Expanded human-resource help-desk",
+            "quantity": 10,
+            "unit_price": 391.45,
+            "total_price": 3914.5
+        }
+    ],
+    "amount": 4027.78
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Barton LLC",
+    "invoice_number": "INV-42302",
+    "date": "2025-12-10",
+    "items": [
+        {
+            "description": "Compatible attitude-oriented flexibility",
+            "quantity": 2,
+            "unit_price": 498.24,
+            "total_price": 996.48
+        },
+        {
+            "description": "Distributed homogeneous structure",
+            "quantity": 10,
+            "unit_price": 120.11,
+            "total_price": 1201.1
+        }
+    ],
+    "amount": 2197.58
+}

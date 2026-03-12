@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Patel PLC",
+    "invoice_number": "INV-39256",
+    "date": "2025-11-02",
+    "items": [
+        {
+            "description": "Persevering secondary productivity",
+            "quantity": 1,
+            "unit_price": 433.73,
+            "total_price": 433.73
+        },
+        {
+            "description": "Diverse 6thgeneration focus group",
+            "quantity": 8,
+            "unit_price": 196.89,
+            "total_price": 1575.12
+        },
+        {
+            "description": "Profit-focused methodical definition",
+            "quantity": 6,
+            "unit_price": 37.06,
+            "total_price": 222.36
+        }
+    ],
+    "amount": 2231.21
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Collins-Morgan",
+    "invoice_number": "INV-29741",
+    "date": "2025-03-23",
+    "items": [
+        {
+            "description": "Inverse system-worthy open system",
+            "quantity": 10,
+            "unit_price": 199.39,
+            "total_price": 1993.9
+        }
+    ],
+    "amount": 1993.9
+}

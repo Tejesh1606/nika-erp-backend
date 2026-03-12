@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jackson-Harvey",
+    "invoice_number": "INV-45242",
+    "date": "2025-10-07",
+    "items": [
+        {
+            "description": "Fully-configurable user-facing hierarchy",
+            "quantity": 9,
+            "unit_price": 84.99,
+            "total_price": 764.91
+        },
+        {
+            "description": "Stand-alone homogeneous hierarchy",
+            "quantity": 4,
+            "unit_price": 304.82,
+            "total_price": 1219.28
+        },
+        {
+            "description": "Balanced next generation productivity",
+            "quantity": 6,
+            "unit_price": 152.07,
+            "total_price": 912.42
+        }
+    ],
+    "amount": 2896.61
+}

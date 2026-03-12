@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Davis, Santiago and Romero",
+    "invoice_number": "INV-12389",
+    "date": "2025-07-27",
+    "items": [
+        {
+            "description": "Integrated contextually-based data-warehouse",
+            "quantity": 10,
+            "unit_price": 124.96,
+            "total_price": 1249.6
+        },
+        {
+            "description": "Mandatory zero administration matrix",
+            "quantity": 10,
+            "unit_price": 447.05,
+            "total_price": 4470.5
+        },
+        {
+            "description": "Ergonomic directional challenge",
+            "quantity": 1,
+            "unit_price": 313.77,
+            "total_price": 313.77
+        },
+        {
+            "description": "Distributed asynchronous frame",
+            "quantity": 6,
+            "unit_price": 323.07,
+            "total_price": 1938.42
+        }
+    ],
+    "amount": 7972.29
+}

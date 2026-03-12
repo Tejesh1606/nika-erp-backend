@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Proctor LLC",
+    "invoice_number": "INV-12553",
+    "date": "2026-01-20",
+    "items": [
+        {
+            "description": "Triple-buffered dedicated database",
+            "quantity": 8,
+            "unit_price": 427.4,
+            "total_price": 3419.2
+        },
+        {
+            "description": "Switchable transitional extranet",
+            "quantity": 7,
+            "unit_price": 451.47,
+            "total_price": 3160.29
+        },
+        {
+            "description": "Implemented holistic algorithm",
+            "quantity": 8,
+            "unit_price": 136.66,
+            "total_price": 1093.28
+        },
+        {
+            "description": "Inverse interactive utilization",
+            "quantity": 3,
+            "unit_price": 206.96,
+            "total_price": 620.88
+        }
+    ],
+    "amount": 8293.65
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cisneros and Sons",
+    "invoice_number": "INV-92915",
+    "date": "2025-09-07",
+    "items": [
+        {
+            "description": "Assimilated demand-driven software",
+            "quantity": 6,
+            "unit_price": 23.64,
+            "total_price": 141.84
+        },
+        {
+            "description": "Realigned grid-enabled projection",
+            "quantity": 10,
+            "unit_price": 391.73,
+            "total_price": 3917.3
+        },
+        {
+            "description": "Grass-roots methodical open architecture",
+            "quantity": 5,
+            "unit_price": 465.97,
+            "total_price": 2329.85
+        }
+    ],
+    "amount": 6388.99
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mcdowell-Le",
+    "invoice_number": "INV-87216",
+    "date": "2025-08-09",
+    "items": [
+        {
+            "description": "Optimized grid-enabled strategy",
+            "quantity": 7,
+            "unit_price": 253.51,
+            "total_price": 1774.57
+        }
+    ],
+    "amount": 1774.57
+}

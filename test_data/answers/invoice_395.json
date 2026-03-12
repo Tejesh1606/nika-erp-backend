@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Marks, Stone and Watts",
+    "invoice_number": "INV-91033",
+    "date": "2025-04-14",
+    "items": [
+        {
+            "description": "Optional stable superstructure",
+            "quantity": 10,
+            "unit_price": 14.68,
+            "total_price": 146.8
+        },
+        {
+            "description": "Fully-configurable mission-critical hardware",
+            "quantity": 9,
+            "unit_price": 426.89,
+            "total_price": 3842.01
+        },
+        {
+            "description": "Switchable systematic project",
+            "quantity": 6,
+            "unit_price": 70.01,
+            "total_price": 420.06
+        },
+        {
+            "description": "Networked coherent open architecture",
+            "quantity": 3,
+            "unit_price": 438.58,
+            "total_price": 1315.74
+        }
+    ],
+    "amount": 5724.61
+}

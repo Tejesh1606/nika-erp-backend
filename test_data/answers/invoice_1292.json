@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Johnson, Rhodes and Camacho",
+    "invoice_number": "INV-71631",
+    "date": "2026-02-06",
+    "items": [
+        {
+            "description": "Networked asynchronous toolset",
+            "quantity": 10,
+            "unit_price": 291.64,
+            "total_price": 2916.4
+        },
+        {
+            "description": "Operative empowering structure",
+            "quantity": 2,
+            "unit_price": 322.56,
+            "total_price": 645.12
+        },
+        {
+            "description": "Public-key bottom-line structure",
+            "quantity": 5,
+            "unit_price": 269.18,
+            "total_price": 1345.9
+        }
+    ],
+    "amount": 4907.42
+}

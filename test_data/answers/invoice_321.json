@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jones-Bradley",
+    "invoice_number": "INV-67014",
+    "date": "2025-11-21",
+    "items": [
+        {
+            "description": "De-engineered disintermediate frame",
+            "quantity": 4,
+            "unit_price": 323.91,
+            "total_price": 1295.64
+        },
+        {
+            "description": "Fundamental foreground website",
+            "quantity": 10,
+            "unit_price": 87.86,
+            "total_price": 878.6
+        },
+        {
+            "description": "Object-based tangible support",
+            "quantity": 8,
+            "unit_price": 469.08,
+            "total_price": 3752.64
+        }
+    ],
+    "amount": 5926.88
+}

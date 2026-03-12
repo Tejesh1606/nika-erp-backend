@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Collins, Morgan and English",
+    "invoice_number": "INV-30959",
+    "date": "2025-11-29",
+    "items": [
+        {
+            "description": "Team-oriented logistical secured line",
+            "quantity": 6,
+            "unit_price": 265.88,
+            "total_price": 1595.28
+        },
+        {
+            "description": "Multi-layered real-time productivity",
+            "quantity": 7,
+            "unit_price": 263.25,
+            "total_price": 1842.75
+        },
+        {
+            "description": "Total 4thgeneration moderator",
+            "quantity": 3,
+            "unit_price": 131.0,
+            "total_price": 393.0
+        },
+        {
+            "description": "Distributed incremental moratorium",
+            "quantity": 7,
+            "unit_price": 359.2,
+            "total_price": 2514.4
+        }
+    ],
+    "amount": 6345.43
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wolf Inc",
+    "invoice_number": "INV-20708",
+    "date": "2025-11-07",
+    "items": [
+        {
+            "description": "Managed coherent pricing structure",
+            "quantity": 3,
+            "unit_price": 155.58,
+            "total_price": 466.74
+        },
+        {
+            "description": "Team-oriented mobile pricing structure",
+            "quantity": 5,
+            "unit_price": 238.99,
+            "total_price": 1194.95
+        },
+        {
+            "description": "Operative neutral hub",
+            "quantity": 8,
+            "unit_price": 343.09,
+            "total_price": 2744.72
+        }
+    ],
+    "amount": 4406.41
+}

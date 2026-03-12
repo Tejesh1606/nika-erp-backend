@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Myers-Butler",
+    "invoice_number": "INV-46208",
+    "date": "2025-07-07",
+    "items": [
+        {
+            "description": "Ergonomic 6thgeneration paradigm",
+            "quantity": 9,
+            "unit_price": 155.52,
+            "total_price": 1399.68
+        }
+    ],
+    "amount": 1399.68
+}

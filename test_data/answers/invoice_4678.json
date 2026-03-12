@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bailey, Watkins and Sanchez",
+    "invoice_number": "INV-65278",
+    "date": "2025-10-24",
+    "items": [
+        {
+            "description": "Programmable upward-trending collaboration",
+            "quantity": 8,
+            "unit_price": 432.1,
+            "total_price": 3456.8
+        },
+        {
+            "description": "Fully-configurable zero-defect conglomeration",
+            "quantity": 5,
+            "unit_price": 386.36,
+            "total_price": 1931.8
+        },
+        {
+            "description": "Balanced leadingedge concept",
+            "quantity": 5,
+            "unit_price": 432.62,
+            "total_price": 2163.1
+        }
+    ],
+    "amount": 7551.7
+}

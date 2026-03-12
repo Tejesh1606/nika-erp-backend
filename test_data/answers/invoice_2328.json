@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Suarez, Barrera and Stewart",
+    "invoice_number": "INV-28013",
+    "date": "2025-06-22",
+    "items": [
+        {
+            "description": "Centralized content-based concept",
+            "quantity": 7,
+            "unit_price": 63.56,
+            "total_price": 444.92
+        }
+    ],
+    "amount": 444.92
+}

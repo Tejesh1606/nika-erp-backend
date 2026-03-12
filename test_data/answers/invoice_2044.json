@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hart-Bryant",
+    "invoice_number": "INV-47236",
+    "date": "2025-09-11",
+    "items": [
+        {
+            "description": "Adaptive transitional application",
+            "quantity": 5,
+            "unit_price": 311.57,
+            "total_price": 1557.85
+        },
+        {
+            "description": "Adaptive client-driven instruction set",
+            "quantity": 8,
+            "unit_price": 206.3,
+            "total_price": 1650.4
+        },
+        {
+            "description": "Realigned maximized infrastructure",
+            "quantity": 7,
+            "unit_price": 321.87,
+            "total_price": 2253.09
+        }
+    ],
+    "amount": 5461.34
+}

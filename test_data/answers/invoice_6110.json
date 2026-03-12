@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Stone, Jackson and Wallace",
+    "invoice_number": "INV-55332",
+    "date": "2025-06-21",
+    "items": [
+        {
+            "description": "Enterprise-wide discrete knowledgebase",
+            "quantity": 9,
+            "unit_price": 53.06,
+            "total_price": 477.54
+        },
+        {
+            "description": "Front-line global database",
+            "quantity": 5,
+            "unit_price": 139.9,
+            "total_price": 699.5
+        }
+    ],
+    "amount": 1177.04
+}

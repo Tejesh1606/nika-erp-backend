@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Alexander LLC",
+    "invoice_number": "INV-46194",
+    "date": "2025-06-17",
+    "items": [
+        {
+            "description": "Proactive clear-thinking emulation",
+            "quantity": 4,
+            "unit_price": 46.07,
+            "total_price": 184.28
+        },
+        {
+            "description": "Self-enabling context-sensitive circuit",
+            "quantity": 4,
+            "unit_price": 146.01,
+            "total_price": 584.04
+        },
+        {
+            "description": "Secured solution-oriented application",
+            "quantity": 6,
+            "unit_price": 442.79,
+            "total_price": 2656.74
+        }
+    ],
+    "amount": 3425.06
+}

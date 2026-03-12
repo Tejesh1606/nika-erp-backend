@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Brown, Young and Dudley",
+    "invoice_number": "INV-66839",
+    "date": "2025-12-22",
+    "items": [
+        {
+            "description": "Assimilated client-driven moderator",
+            "quantity": 10,
+            "unit_price": 59.63,
+            "total_price": 596.3
+        }
+    ],
+    "amount": 596.3
+}

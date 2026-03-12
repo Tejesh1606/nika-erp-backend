@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Welch, Clark and Perry",
+    "invoice_number": "INV-80576",
+    "date": "2025-10-20",
+    "items": [
+        {
+            "description": "Devolved actuating access",
+            "quantity": 2,
+            "unit_price": 62.64,
+            "total_price": 125.28
+        }
+    ],
+    "amount": 125.28
+}

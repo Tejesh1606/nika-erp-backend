@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Martinez, Estes and Pope",
+    "invoice_number": "INV-47227",
+    "date": "2025-07-15",
+    "items": [
+        {
+            "description": "Exclusive bandwidth-monitored open system",
+            "quantity": 4,
+            "unit_price": 261.06,
+            "total_price": 1044.24
+        },
+        {
+            "description": "Open-architected tertiary workforce",
+            "quantity": 1,
+            "unit_price": 110.07,
+            "total_price": 110.07
+        },
+        {
+            "description": "Intuitive attitude-oriented info-mediaries",
+            "quantity": 1,
+            "unit_price": 232.31,
+            "total_price": 232.31
+        }
+    ],
+    "amount": 1386.62
+}

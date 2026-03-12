@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Moon Group",
+    "invoice_number": "INV-84750",
+    "date": "2025-10-25",
+    "items": [
+        {
+            "description": "Streamlined dedicated portal",
+            "quantity": 4,
+            "unit_price": 383.42,
+            "total_price": 1533.68
+        },
+        {
+            "description": "Right-sized empowering Graphical User Interface",
+            "quantity": 8,
+            "unit_price": 366.43,
+            "total_price": 2931.44
+        }
+    ],
+    "amount": 4465.12
+}

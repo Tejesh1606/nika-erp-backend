@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lee and Sons",
+    "invoice_number": "INV-47016",
+    "date": "2025-05-08",
+    "items": [
+        {
+            "description": "Inverse heuristic Graphical User Interface",
+            "quantity": 9,
+            "unit_price": 449.51,
+            "total_price": 4045.59
+        }
+    ],
+    "amount": 4045.59
+}

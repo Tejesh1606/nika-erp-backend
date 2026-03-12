@@ -1,0 +1,32 @@
+{
+    "vendor_name": "George-Douglas",
+    "invoice_number": "INV-59098",
+    "date": "2025-08-06",
+    "items": [
+        {
+            "description": "Re-contextualized systematic secured line",
+            "quantity": 3,
+            "unit_price": 91.9,
+            "total_price": 275.7
+        },
+        {
+            "description": "Function-based radical algorithm",
+            "quantity": 4,
+            "unit_price": 436.62,
+            "total_price": 1746.48
+        },
+        {
+            "description": "Optional 3rdgeneration moderator",
+            "quantity": 9,
+            "unit_price": 245.13,
+            "total_price": 2206.17
+        },
+        {
+            "description": "Stand-alone context-sensitive methodology",
+            "quantity": 5,
+            "unit_price": 395.96,
+            "total_price": 1979.8
+        }
+    ],
+    "amount": 6208.15
+}

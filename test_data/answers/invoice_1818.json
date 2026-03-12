@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Skinner-Taylor",
+    "invoice_number": "INV-42912",
+    "date": "2025-09-04",
+    "items": [
+        {
+            "description": "Optional 24hour budgetary management",
+            "quantity": 2,
+            "unit_price": 439.08,
+            "total_price": 878.16
+        },
+        {
+            "description": "Balanced next generation approach",
+            "quantity": 4,
+            "unit_price": 475.13,
+            "total_price": 1900.52
+        }
+    ],
+    "amount": 2778.68
+}

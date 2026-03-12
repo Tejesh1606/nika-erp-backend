@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hall-Dixon",
+    "invoice_number": "INV-13969",
+    "date": "2025-06-03",
+    "items": [
+        {
+            "description": "Ergonomic bottom-line moderator",
+            "quantity": 10,
+            "unit_price": 127.46,
+            "total_price": 1274.6
+        },
+        {
+            "description": "Extended intangible artificial intelligence",
+            "quantity": 8,
+            "unit_price": 274.29,
+            "total_price": 2194.32
+        },
+        {
+            "description": "Cloned system-worthy customer loyalty",
+            "quantity": 4,
+            "unit_price": 385.16,
+            "total_price": 1540.64
+        }
+    ],
+    "amount": 5009.56
+}

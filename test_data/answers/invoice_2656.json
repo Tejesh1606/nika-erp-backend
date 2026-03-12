@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Davis LLC",
+    "invoice_number": "INV-97464",
+    "date": "2026-02-10",
+    "items": [
+        {
+            "description": "Assimilated human-resource website",
+            "quantity": 7,
+            "unit_price": 106.22,
+            "total_price": 743.54
+        },
+        {
+            "description": "Multi-channeled cohesive standardization",
+            "quantity": 2,
+            "unit_price": 63.75,
+            "total_price": 127.5
+        },
+        {
+            "description": "Optimized hybrid frame",
+            "quantity": 7,
+            "unit_price": 232.89,
+            "total_price": 1630.23
+        }
+    ],
+    "amount": 2501.27
+}

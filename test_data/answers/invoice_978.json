@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Dixon, Wright and Wang",
+    "invoice_number": "INV-44541",
+    "date": "2025-12-06",
+    "items": [
+        {
+            "description": "Fully-configurable static interface",
+            "quantity": 4,
+            "unit_price": 171.21,
+            "total_price": 684.84
+        },
+        {
+            "description": "Exclusive methodical strategy",
+            "quantity": 7,
+            "unit_price": 48.44,
+            "total_price": 339.08
+        }
+    ],
+    "amount": 1023.92
+}

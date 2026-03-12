@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith-Gardner",
+    "invoice_number": "INV-47390",
+    "date": "2025-10-05",
+    "items": [
+        {
+            "description": "User-friendly hybrid matrix",
+            "quantity": 10,
+            "unit_price": 420.84,
+            "total_price": 4208.4
+        },
+        {
+            "description": "Decentralized bifurcated strategy",
+            "quantity": 4,
+            "unit_price": 134.11,
+            "total_price": 536.44
+        },
+        {
+            "description": "Organic web-enabled throughput",
+            "quantity": 9,
+            "unit_price": 281.57,
+            "total_price": 2534.13
+        }
+    ],
+    "amount": 7278.97
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Thompson PLC",
+    "invoice_number": "INV-35819",
+    "date": "2025-11-30",
+    "items": [
+        {
+            "description": "Upgradable asynchronous system engine",
+            "quantity": 10,
+            "unit_price": 126.59,
+            "total_price": 1265.9
+        },
+        {
+            "description": "Synergistic human-resource model",
+            "quantity": 6,
+            "unit_price": 368.64,
+            "total_price": 2211.84
+        }
+    ],
+    "amount": 3477.74
+}

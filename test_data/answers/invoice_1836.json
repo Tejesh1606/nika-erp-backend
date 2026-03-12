@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jenkins and Sons",
+    "invoice_number": "INV-96606",
+    "date": "2025-11-22",
+    "items": [
+        {
+            "description": "Switchable 4thgeneration product",
+            "quantity": 4,
+            "unit_price": 343.14,
+            "total_price": 1372.56
+        }
+    ],
+    "amount": 1372.56
+}

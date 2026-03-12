@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Casey PLC",
+    "invoice_number": "INV-65542",
+    "date": "2026-02-25",
+    "items": [
+        {
+            "description": "Realigned local analyzer",
+            "quantity": 1,
+            "unit_price": 416.46,
+            "total_price": 416.46
+        }
+    ],
+    "amount": 416.46
+}

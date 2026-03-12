@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mcmillan Inc",
+    "invoice_number": "INV-60608",
+    "date": "2025-11-21",
+    "items": [
+        {
+            "description": "Phased background matrix",
+            "quantity": 5,
+            "unit_price": 74.4,
+            "total_price": 372.0
+        },
+        {
+            "description": "Organized static attitude",
+            "quantity": 9,
+            "unit_price": 467.93,
+            "total_price": 4211.37
+        },
+        {
+            "description": "Decentralized 24hour definition",
+            "quantity": 6,
+            "unit_price": 138.8,
+            "total_price": 832.8
+        },
+        {
+            "description": "Horizontal 6thgeneration conglomeration",
+            "quantity": 1,
+            "unit_price": 215.25,
+            "total_price": 215.25
+        }
+    ],
+    "amount": 5631.42
+}

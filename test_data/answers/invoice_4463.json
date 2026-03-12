@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Holmes, Welch and Allen",
+    "invoice_number": "INV-96692",
+    "date": "2025-10-16",
+    "items": [
+        {
+            "description": "Networked 24hour throughput",
+            "quantity": 9,
+            "unit_price": 398.52,
+            "total_price": 3586.68
+        }
+    ],
+    "amount": 3586.68
+}

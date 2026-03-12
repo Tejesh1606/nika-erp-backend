@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jacobson, Singleton and King",
+    "invoice_number": "INV-93238",
+    "date": "2025-10-08",
+    "items": [
+        {
+            "description": "Grass-roots clear-thinking product",
+            "quantity": 7,
+            "unit_price": 223.24,
+            "total_price": 1562.68
+        },
+        {
+            "description": "Innovative reciprocal monitoring",
+            "quantity": 2,
+            "unit_price": 16.74,
+            "total_price": 33.48
+        }
+    ],
+    "amount": 1596.16
+}

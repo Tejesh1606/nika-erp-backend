@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Rhodes, Bailey and Peterson",
+    "invoice_number": "INV-20518",
+    "date": "2025-06-17",
+    "items": [
+        {
+            "description": "Self-enabling web-enabled Internet solution",
+            "quantity": 2,
+            "unit_price": 476.23,
+            "total_price": 952.46
+        },
+        {
+            "description": "Balanced real-time product",
+            "quantity": 3,
+            "unit_price": 27.93,
+            "total_price": 83.79
+        },
+        {
+            "description": "Configurable optimal emulation",
+            "quantity": 10,
+            "unit_price": 112.97,
+            "total_price": 1129.7
+        }
+    ],
+    "amount": 2165.95
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mitchell-Paul",
+    "invoice_number": "INV-45235",
+    "date": "2025-08-16",
+    "items": [
+        {
+            "description": "Ergonomic asymmetric contingency",
+            "quantity": 4,
+            "unit_price": 89.35,
+            "total_price": 357.4
+        }
+    ],
+    "amount": 357.4
+}

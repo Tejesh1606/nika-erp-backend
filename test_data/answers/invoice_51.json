@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Griffin, Moore and Hensley",
+    "invoice_number": "INV-68991",
+    "date": "2025-06-17",
+    "items": [
+        {
+            "description": "Versatile dynamic productivity",
+            "quantity": 4,
+            "unit_price": 495.68,
+            "total_price": 1982.72
+        }
+    ],
+    "amount": 1982.72
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Henson PLC",
+    "invoice_number": "INV-96476",
+    "date": "2025-10-26",
+    "items": [
+        {
+            "description": "Adaptive system-worthy moderator",
+            "quantity": 3,
+            "unit_price": 287.86,
+            "total_price": 863.58
+        },
+        {
+            "description": "Phased 5thgeneration architecture",
+            "quantity": 2,
+            "unit_price": 269.54,
+            "total_price": 539.08
+        }
+    ],
+    "amount": 1402.66
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Francis, Fritz and Gutierrez",
+    "invoice_number": "INV-20218",
+    "date": "2025-03-09",
+    "items": [
+        {
+            "description": "Devolved foreground synergy",
+            "quantity": 10,
+            "unit_price": 31.8,
+            "total_price": 318.0
+        },
+        {
+            "description": "Object-based disintermediate focus group",
+            "quantity": 9,
+            "unit_price": 450.43,
+            "total_price": 4053.87
+        }
+    ],
+    "amount": 4371.87
+}

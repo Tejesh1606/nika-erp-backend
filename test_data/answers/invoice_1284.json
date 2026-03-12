@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Shaw-Patel",
+    "invoice_number": "INV-39504",
+    "date": "2026-02-05",
+    "items": [
+        {
+            "description": "Open-architected modular system engine",
+            "quantity": 4,
+            "unit_price": 309.75,
+            "total_price": 1239.0
+        },
+        {
+            "description": "Persistent executive knowledge user",
+            "quantity": 1,
+            "unit_price": 109.39,
+            "total_price": 109.39
+        },
+        {
+            "description": "Diverse context-sensitive initiative",
+            "quantity": 3,
+            "unit_price": 202.96,
+            "total_price": 608.88
+        },
+        {
+            "description": "Horizontal 24hour monitoring",
+            "quantity": 9,
+            "unit_price": 266.4,
+            "total_price": 2397.6
+        }
+    ],
+    "amount": 4354.87
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cooper LLC",
+    "invoice_number": "INV-12900",
+    "date": "2025-10-02",
+    "items": [
+        {
+            "description": "Total 24/7 orchestration",
+            "quantity": 4,
+            "unit_price": 496.52,
+            "total_price": 1986.08
+        },
+        {
+            "description": "Managed regional function",
+            "quantity": 4,
+            "unit_price": 269.17,
+            "total_price": 1076.68
+        }
+    ],
+    "amount": 3062.76
+}

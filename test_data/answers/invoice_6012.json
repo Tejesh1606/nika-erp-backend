@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hernandez Group",
+    "invoice_number": "INV-90976",
+    "date": "2025-08-10",
+    "items": [
+        {
+            "description": "Switchable intangible Internet solution",
+            "quantity": 5,
+            "unit_price": 65.11,
+            "total_price": 325.55
+        },
+        {
+            "description": "Switchable maximized migration",
+            "quantity": 9,
+            "unit_price": 202.11,
+            "total_price": 1818.99
+        },
+        {
+            "description": "Expanded 4thgeneration core",
+            "quantity": 7,
+            "unit_price": 356.45,
+            "total_price": 2495.15
+        },
+        {
+            "description": "Cross-platform mobile concept",
+            "quantity": 1,
+            "unit_price": 348.9,
+            "total_price": 348.9
+        }
+    ],
+    "amount": 4988.59
+}

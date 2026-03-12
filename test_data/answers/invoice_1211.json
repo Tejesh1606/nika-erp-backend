@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hester, Sanders and Hall",
+    "invoice_number": "INV-58473",
+    "date": "2025-09-10",
+    "items": [
+        {
+            "description": "Re-contextualized bi-directional project",
+            "quantity": 7,
+            "unit_price": 104.04,
+            "total_price": 728.28
+        }
+    ],
+    "amount": 728.28
+}

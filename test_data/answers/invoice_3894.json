@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Simmons Ltd",
+    "invoice_number": "INV-87376",
+    "date": "2025-08-07",
+    "items": [
+        {
+            "description": "Customizable uniform algorithm",
+            "quantity": 5,
+            "unit_price": 187.0,
+            "total_price": 935.0
+        },
+        {
+            "description": "Multi-tiered radical product",
+            "quantity": 4,
+            "unit_price": 245.0,
+            "total_price": 980.0
+        }
+    ],
+    "amount": 1915.0
+}

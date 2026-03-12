@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gilbert LLC",
+    "invoice_number": "INV-17768",
+    "date": "2026-02-03",
+    "items": [
+        {
+            "description": "Phased executive service-desk",
+            "quantity": 5,
+            "unit_price": 261.01,
+            "total_price": 1305.05
+        },
+        {
+            "description": "Future-proofed global infrastructure",
+            "quantity": 4,
+            "unit_price": 372.65,
+            "total_price": 1490.6
+        }
+    ],
+    "amount": 2795.65
+}

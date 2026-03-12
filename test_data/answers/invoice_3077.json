@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Christian and Sons",
+    "invoice_number": "INV-44422",
+    "date": "2025-11-22",
+    "items": [
+        {
+            "description": "Centralized client-driven hub",
+            "quantity": 10,
+            "unit_price": 478.08,
+            "total_price": 4780.8
+        },
+        {
+            "description": "Implemented global Graphic Interface",
+            "quantity": 6,
+            "unit_price": 405.62,
+            "total_price": 2433.72
+        },
+        {
+            "description": "Assimilated stable approach",
+            "quantity": 9,
+            "unit_price": 19.21,
+            "total_price": 172.89
+        }
+    ],
+    "amount": 7387.41
+}

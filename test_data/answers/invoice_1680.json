@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Blair-Tran",
+    "invoice_number": "INV-15161",
+    "date": "2025-11-06",
+    "items": [
+        {
+            "description": "Phased actuating installation",
+            "quantity": 3,
+            "unit_price": 175.21,
+            "total_price": 525.63
+        },
+        {
+            "description": "Expanded disintermediate installation",
+            "quantity": 7,
+            "unit_price": 351.94,
+            "total_price": 2463.58
+        },
+        {
+            "description": "Robust reciprocal open architecture",
+            "quantity": 1,
+            "unit_price": 109.46,
+            "total_price": 109.46
+        }
+    ],
+    "amount": 3098.67
+}

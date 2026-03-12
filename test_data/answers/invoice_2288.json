@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Murray, Perez and Reyes",
+    "invoice_number": "INV-30120",
+    "date": "2025-07-01",
+    "items": [
+        {
+            "description": "Implemented intermediate task-force",
+            "quantity": 5,
+            "unit_price": 37.67,
+            "total_price": 188.35
+        },
+        {
+            "description": "User-centric holistic throughput",
+            "quantity": 1,
+            "unit_price": 484.95,
+            "total_price": 484.95
+        },
+        {
+            "description": "Grass-roots interactive throughput",
+            "quantity": 7,
+            "unit_price": 32.44,
+            "total_price": 227.08
+        },
+        {
+            "description": "Persistent maximized circuit",
+            "quantity": 5,
+            "unit_price": 416.02,
+            "total_price": 2080.1
+        }
+    ],
+    "amount": 2980.48
+}

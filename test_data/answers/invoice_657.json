@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wilson, Mendoza and Crosby",
+    "invoice_number": "INV-86037",
+    "date": "2026-02-10",
+    "items": [
+        {
+            "description": "Total demand-driven system engine",
+            "quantity": 3,
+            "unit_price": 58.76,
+            "total_price": 176.28
+        }
+    ],
+    "amount": 176.28
+}

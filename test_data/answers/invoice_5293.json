@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Larson PLC",
+    "invoice_number": "INV-14100",
+    "date": "2025-12-22",
+    "items": [
+        {
+            "description": "Expanded web-enabled success",
+            "quantity": 1,
+            "unit_price": 123.74,
+            "total_price": 123.74
+        },
+        {
+            "description": "Cross-group actuating collaboration",
+            "quantity": 6,
+            "unit_price": 381.89,
+            "total_price": 2291.34
+        },
+        {
+            "description": "Multi-tiered coherent emulation",
+            "quantity": 2,
+            "unit_price": 321.27,
+            "total_price": 642.54
+        }
+    ],
+    "amount": 3057.62
+}

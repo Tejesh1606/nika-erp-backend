@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Tucker LLC",
+    "invoice_number": "INV-39919",
+    "date": "2025-09-30",
+    "items": [
+        {
+            "description": "Ameliorated zero-defect contingency",
+            "quantity": 9,
+            "unit_price": 373.89,
+            "total_price": 3365.01
+        },
+        {
+            "description": "Organic explicit archive",
+            "quantity": 9,
+            "unit_price": 35.6,
+            "total_price": 320.4
+        },
+        {
+            "description": "Innovative motivating Graphic Interface",
+            "quantity": 1,
+            "unit_price": 177.23,
+            "total_price": 177.23
+        },
+        {
+            "description": "Triple-buffered logistical secured line",
+            "quantity": 8,
+            "unit_price": 437.49,
+            "total_price": 3499.92
+        }
+    ],
+    "amount": 7362.56
+}

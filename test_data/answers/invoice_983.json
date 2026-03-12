@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cox-Hahn",
+    "invoice_number": "INV-64797",
+    "date": "2025-06-12",
+    "items": [
+        {
+            "description": "Intuitive actuating contingency",
+            "quantity": 6,
+            "unit_price": 33.15,
+            "total_price": 198.9
+        },
+        {
+            "description": "Balanced 24hour application",
+            "quantity": 6,
+            "unit_price": 477.17,
+            "total_price": 2863.02
+        }
+    ],
+    "amount": 3061.92
+}

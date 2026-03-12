@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Nelson, Parks and Campbell",
+    "invoice_number": "INV-54297",
+    "date": "2026-02-01",
+    "items": [
+        {
+            "description": "Re-contextualized heuristic service-desk",
+            "quantity": 3,
+            "unit_price": 293.7,
+            "total_price": 881.1
+        },
+        {
+            "description": "Open-source zero tolerance interface",
+            "quantity": 7,
+            "unit_price": 21.8,
+            "total_price": 152.6
+        }
+    ],
+    "amount": 1033.7
+}

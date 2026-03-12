@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hill Inc",
+    "invoice_number": "INV-49103",
+    "date": "2026-02-11",
+    "items": [
+        {
+            "description": "Universal local instruction set",
+            "quantity": 1,
+            "unit_price": 71.06,
+            "total_price": 71.06
+        }
+    ],
+    "amount": 71.06
+}

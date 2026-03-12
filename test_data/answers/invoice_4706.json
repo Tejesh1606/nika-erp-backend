@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cook-Taylor",
+    "invoice_number": "INV-61162",
+    "date": "2025-04-24",
+    "items": [
+        {
+            "description": "Re-contextualized disintermediate knowledge user",
+            "quantity": 2,
+            "unit_price": 46.61,
+            "total_price": 93.22
+        },
+        {
+            "description": "Seamless analyzing concept",
+            "quantity": 1,
+            "unit_price": 62.82,
+            "total_price": 62.82
+        },
+        {
+            "description": "Diverse solution-oriented synergy",
+            "quantity": 8,
+            "unit_price": 142.55,
+            "total_price": 1140.4
+        }
+    ],
+    "amount": 1296.44
+}

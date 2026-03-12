@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wallace Group",
+    "invoice_number": "INV-74651",
+    "date": "2025-06-19",
+    "items": [
+        {
+            "description": "Cross-group client-driven focus group",
+            "quantity": 8,
+            "unit_price": 18.43,
+            "total_price": 147.44
+        },
+        {
+            "description": "Upgradable static budgetary management",
+            "quantity": 2,
+            "unit_price": 338.92,
+            "total_price": 677.84
+        },
+        {
+            "description": "Multi-channeled attitude-oriented synergy",
+            "quantity": 4,
+            "unit_price": 55.44,
+            "total_price": 221.76
+        }
+    ],
+    "amount": 1047.04
+}

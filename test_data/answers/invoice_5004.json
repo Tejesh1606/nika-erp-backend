@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Warren, Park and Wu",
+    "invoice_number": "INV-91277",
+    "date": "2025-12-10",
+    "items": [
+        {
+            "description": "Realigned scalable process improvement",
+            "quantity": 6,
+            "unit_price": 304.23,
+            "total_price": 1825.38
+        },
+        {
+            "description": "Balanced needs-based structure",
+            "quantity": 6,
+            "unit_price": 60.9,
+            "total_price": 365.4
+        },
+        {
+            "description": "Organized impactful customer loyalty",
+            "quantity": 1,
+            "unit_price": 410.18,
+            "total_price": 410.18
+        },
+        {
+            "description": "Function-based stable conglomeration",
+            "quantity": 5,
+            "unit_price": 206.46,
+            "total_price": 1032.3
+        }
+    ],
+    "amount": 3633.26
+}

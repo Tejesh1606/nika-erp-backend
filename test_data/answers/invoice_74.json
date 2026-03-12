@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Oneill, Henry and Salas",
+    "invoice_number": "INV-85243",
+    "date": "2025-06-27",
+    "items": [
+        {
+            "description": "Phased mission-critical intranet",
+            "quantity": 1,
+            "unit_price": 237.86,
+            "total_price": 237.86
+        },
+        {
+            "description": "Mandatory contextually-based application",
+            "quantity": 3,
+            "unit_price": 335.56,
+            "total_price": 1006.68
+        }
+    ],
+    "amount": 1244.54
+}

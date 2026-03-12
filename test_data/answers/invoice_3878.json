@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Adams-Byrd",
+    "invoice_number": "INV-42566",
+    "date": "2025-10-22",
+    "items": [
+        {
+            "description": "Realigned discrete functionalities",
+            "quantity": 10,
+            "unit_price": 12.3,
+            "total_price": 123.0
+        },
+        {
+            "description": "Up-sized well-modulated infrastructure",
+            "quantity": 9,
+            "unit_price": 474.73,
+            "total_price": 4272.57
+        }
+    ],
+    "amount": 4395.57
+}

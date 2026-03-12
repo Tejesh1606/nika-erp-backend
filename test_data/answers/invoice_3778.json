@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Brown Inc",
+    "invoice_number": "INV-81301",
+    "date": "2025-12-04",
+    "items": [
+        {
+            "description": "Ergonomic non-volatile encoding",
+            "quantity": 1,
+            "unit_price": 403.88,
+            "total_price": 403.88
+        }
+    ],
+    "amount": 403.88
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Boyle, Campbell and Reynolds",
+    "invoice_number": "INV-57433",
+    "date": "2026-01-27",
+    "items": [
+        {
+            "description": "Customizable mobile parallelism",
+            "quantity": 7,
+            "unit_price": 446.01,
+            "total_price": 3122.07
+        },
+        {
+            "description": "Persevering content-based Internet solution",
+            "quantity": 4,
+            "unit_price": 122.96,
+            "total_price": 491.84
+        },
+        {
+            "description": "Polarized non-volatile superstructure",
+            "quantity": 1,
+            "unit_price": 371.87,
+            "total_price": 371.87
+        },
+        {
+            "description": "Robust actuating array",
+            "quantity": 6,
+            "unit_price": 195.29,
+            "total_price": 1171.74
+        }
+    ],
+    "amount": 5157.52
+}

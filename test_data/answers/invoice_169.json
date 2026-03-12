@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Li-Thompson",
+    "invoice_number": "INV-99742",
+    "date": "2025-09-05",
+    "items": [
+        {
+            "description": "Total mission-critical product",
+            "quantity": 6,
+            "unit_price": 83.4,
+            "total_price": 500.4
+        },
+        {
+            "description": "Enterprise-wide client-driven architecture",
+            "quantity": 8,
+            "unit_price": 21.91,
+            "total_price": 175.28
+        }
+    ],
+    "amount": 675.68
+}

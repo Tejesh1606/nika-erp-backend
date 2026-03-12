@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jones-Kaiser",
+    "invoice_number": "INV-98567",
+    "date": "2026-03-09",
+    "items": [
+        {
+            "description": "Robust mission-critical implementation",
+            "quantity": 2,
+            "unit_price": 387.64,
+            "total_price": 775.28
+        },
+        {
+            "description": "Triple-buffered dynamic groupware",
+            "quantity": 5,
+            "unit_price": 239.49,
+            "total_price": 1197.45
+        }
+    ],
+    "amount": 1972.73
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brown-Clark",
+    "invoice_number": "INV-18560",
+    "date": "2025-10-21",
+    "items": [
+        {
+            "description": "Cross-group incremental info-mediaries",
+            "quantity": 10,
+            "unit_price": 186.51,
+            "total_price": 1865.1
+        },
+        {
+            "description": "Organic directional contingency",
+            "quantity": 1,
+            "unit_price": 398.04,
+            "total_price": 398.04
+        },
+        {
+            "description": "Digitized bottom-line standardization",
+            "quantity": 1,
+            "unit_price": 267.77,
+            "total_price": 267.77
+        }
+    ],
+    "amount": 2530.91
+}

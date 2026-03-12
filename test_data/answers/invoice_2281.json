@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Diaz, Aguirre and Pierce",
+    "invoice_number": "INV-60873",
+    "date": "2025-12-05",
+    "items": [
+        {
+            "description": "Implemented impactful structure",
+            "quantity": 1,
+            "unit_price": 137.16,
+            "total_price": 137.16
+        }
+    ],
+    "amount": 137.16
+}

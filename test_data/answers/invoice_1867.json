@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Robertson LLC",
+    "invoice_number": "INV-52946",
+    "date": "2025-07-31",
+    "items": [
+        {
+            "description": "Right-sized analyzing implementation",
+            "quantity": 9,
+            "unit_price": 166.72,
+            "total_price": 1500.48
+        }
+    ],
+    "amount": 1500.48
+}

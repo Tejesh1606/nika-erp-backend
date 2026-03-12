@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Poole, Price and Long",
+    "invoice_number": "INV-89725",
+    "date": "2025-11-12",
+    "items": [
+        {
+            "description": "Down-sized empowering definition",
+            "quantity": 8,
+            "unit_price": 98.52,
+            "total_price": 788.16
+        },
+        {
+            "description": "Innovative zero-defect emulation",
+            "quantity": 4,
+            "unit_price": 368.22,
+            "total_price": 1472.88
+        },
+        {
+            "description": "Multi-channeled eco-centric moderator",
+            "quantity": 7,
+            "unit_price": 94.79,
+            "total_price": 663.53
+        },
+        {
+            "description": "Open-architected radical groupware",
+            "quantity": 7,
+            "unit_price": 129.37,
+            "total_price": 905.59
+        }
+    ],
+    "amount": 3830.16
+}

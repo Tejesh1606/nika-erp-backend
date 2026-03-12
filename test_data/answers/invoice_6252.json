@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Clay, Anderson and Long",
+    "invoice_number": "INV-60237",
+    "date": "2025-06-07",
+    "items": [
+        {
+            "description": "Stand-alone interactive superstructure",
+            "quantity": 10,
+            "unit_price": 484.04,
+            "total_price": 4840.4
+        },
+        {
+            "description": "User-friendly mobile knowledge user",
+            "quantity": 10,
+            "unit_price": 159.61,
+            "total_price": 1596.1
+        },
+        {
+            "description": "Optimized discrete process improvement",
+            "quantity": 1,
+            "unit_price": 431.63,
+            "total_price": 431.63
+        },
+        {
+            "description": "Multi-tiered human-resource emulation",
+            "quantity": 3,
+            "unit_price": 237.52,
+            "total_price": 712.56
+        }
+    ],
+    "amount": 7580.69
+}

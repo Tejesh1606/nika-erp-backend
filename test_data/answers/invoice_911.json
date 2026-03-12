@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jones Ltd",
+    "invoice_number": "INV-64767",
+    "date": "2025-09-28",
+    "items": [
+        {
+            "description": "Operative solution-oriented forecast",
+            "quantity": 1,
+            "unit_price": 426.02,
+            "total_price": 426.02
+        },
+        {
+            "description": "Upgradable intermediate concept",
+            "quantity": 3,
+            "unit_price": 189.09,
+            "total_price": 567.27
+        }
+    ],
+    "amount": 993.29
+}

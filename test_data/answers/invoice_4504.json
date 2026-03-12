@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Rojas, Pittman and Martin",
+    "invoice_number": "INV-39938",
+    "date": "2025-03-28",
+    "items": [
+        {
+            "description": "Cross-platform impactful focus group",
+            "quantity": 10,
+            "unit_price": 68.1,
+            "total_price": 681.0
+        },
+        {
+            "description": "Upgradable discrete adapter",
+            "quantity": 9,
+            "unit_price": 61.46,
+            "total_price": 553.14
+        },
+        {
+            "description": "Switchable dynamic product",
+            "quantity": 7,
+            "unit_price": 167.97,
+            "total_price": 1175.79
+        }
+    ],
+    "amount": 2409.93
+}

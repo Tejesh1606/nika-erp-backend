@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Klein and Sons",
+    "invoice_number": "INV-69897",
+    "date": "2025-05-19",
+    "items": [
+        {
+            "description": "Down-sized demand-driven toolset",
+            "quantity": 6,
+            "unit_price": 103.41,
+            "total_price": 620.46
+        }
+    ],
+    "amount": 620.46
+}

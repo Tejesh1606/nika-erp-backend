@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Sanders PLC",
+    "invoice_number": "INV-11388",
+    "date": "2025-11-21",
+    "items": [
+        {
+            "description": "Front-line reciprocal software",
+            "quantity": 1,
+            "unit_price": 199.69,
+            "total_price": 199.69
+        },
+        {
+            "description": "Down-sized web-enabled migration",
+            "quantity": 5,
+            "unit_price": 185.15,
+            "total_price": 925.75
+        }
+    ],
+    "amount": 1125.44
+}

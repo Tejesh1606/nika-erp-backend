@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Dudley PLC",
+    "invoice_number": "INV-21858",
+    "date": "2025-10-16",
+    "items": [
+        {
+            "description": "Profit-focused interactive encryption",
+            "quantity": 5,
+            "unit_price": 200.37,
+            "total_price": 1001.85
+        }
+    ],
+    "amount": 1001.85
+}

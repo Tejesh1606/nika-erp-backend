@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Petty and Sons",
+    "invoice_number": "INV-33755",
+    "date": "2025-03-20",
+    "items": [
+        {
+            "description": "Streamlined modular superstructure",
+            "quantity": 10,
+            "unit_price": 385.5,
+            "total_price": 3855.0
+        },
+        {
+            "description": "Decentralized full-range array",
+            "quantity": 10,
+            "unit_price": 239.26,
+            "total_price": 2392.6
+        }
+    ],
+    "amount": 6247.6
+}

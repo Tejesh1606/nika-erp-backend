@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hess, Booker and Johnson",
+    "invoice_number": "INV-40691",
+    "date": "2025-07-08",
+    "items": [
+        {
+            "description": "Total tangible Graphic Interface",
+            "quantity": 3,
+            "unit_price": 451.92,
+            "total_price": 1355.76
+        },
+        {
+            "description": "Advanced national attitude",
+            "quantity": 4,
+            "unit_price": 322.63,
+            "total_price": 1290.52
+        }
+    ],
+    "amount": 2646.28
+}

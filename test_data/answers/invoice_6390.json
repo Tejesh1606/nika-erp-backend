@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Johnson, Neal and Hopkins",
+    "invoice_number": "INV-25006",
+    "date": "2025-11-04",
+    "items": [
+        {
+            "description": "Face-to-face multi-tasking monitoring",
+            "quantity": 9,
+            "unit_price": 387.41,
+            "total_price": 3486.69
+        }
+    ],
+    "amount": 3486.69
+}

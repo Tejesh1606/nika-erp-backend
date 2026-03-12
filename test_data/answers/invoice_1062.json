@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Myers Group",
+    "invoice_number": "INV-12877",
+    "date": "2025-08-16",
+    "items": [
+        {
+            "description": "Compatible mobile product",
+            "quantity": 6,
+            "unit_price": 19.93,
+            "total_price": 119.58
+        }
+    ],
+    "amount": 119.58
+}

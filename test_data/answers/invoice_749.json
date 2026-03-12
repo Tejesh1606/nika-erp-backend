@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Savage-Davenport",
+    "invoice_number": "INV-57263",
+    "date": "2026-03-03",
+    "items": [
+        {
+            "description": "Optional executive firmware",
+            "quantity": 5,
+            "unit_price": 312.94,
+            "total_price": 1564.7
+        },
+        {
+            "description": "Seamless well-modulated firmware",
+            "quantity": 10,
+            "unit_price": 443.01,
+            "total_price": 4430.1
+        },
+        {
+            "description": "Programmable foreground Internet solution",
+            "quantity": 6,
+            "unit_price": 329.61,
+            "total_price": 1977.66
+        }
+    ],
+    "amount": 7972.46
+}

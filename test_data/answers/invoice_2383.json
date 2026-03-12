@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Byrd LLC",
+    "invoice_number": "INV-94567",
+    "date": "2025-09-29",
+    "items": [
+        {
+            "description": "Reduced web-enabled task-force",
+            "quantity": 8,
+            "unit_price": 310.85,
+            "total_price": 2486.8
+        },
+        {
+            "description": "Business-focused bi-directional implementation",
+            "quantity": 7,
+            "unit_price": 287.28,
+            "total_price": 2010.96
+        }
+    ],
+    "amount": 4497.76
+}

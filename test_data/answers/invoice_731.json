@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cruz, Fowler and Haynes",
+    "invoice_number": "INV-99816",
+    "date": "2025-04-25",
+    "items": [
+        {
+            "description": "Public-key disintermediate intranet",
+            "quantity": 9,
+            "unit_price": 292.52,
+            "total_price": 2632.68
+        },
+        {
+            "description": "Networked 24/7 infrastructure",
+            "quantity": 5,
+            "unit_price": 231.95,
+            "total_price": 1159.75
+        },
+        {
+            "description": "Function-based exuding array",
+            "quantity": 4,
+            "unit_price": 471.75,
+            "total_price": 1887.0
+        }
+    ],
+    "amount": 5679.43
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Brown-Barker",
+    "invoice_number": "INV-54599",
+    "date": "2025-03-15",
+    "items": [
+        {
+            "description": "Object-based dedicated capacity",
+            "quantity": 6,
+            "unit_price": 266.8,
+            "total_price": 1600.8
+        },
+        {
+            "description": "User-centric maximized toolset",
+            "quantity": 2,
+            "unit_price": 351.25,
+            "total_price": 702.5
+        },
+        {
+            "description": "Centralized system-worthy solution",
+            "quantity": 10,
+            "unit_price": 212.18,
+            "total_price": 2121.8
+        },
+        {
+            "description": "Synergistic grid-enabled collaboration",
+            "quantity": 3,
+            "unit_price": 494.84,
+            "total_price": 1484.52
+        }
+    ],
+    "amount": 5909.62
+}

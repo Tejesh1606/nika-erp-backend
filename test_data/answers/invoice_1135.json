@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Miller Inc",
+    "invoice_number": "INV-92459",
+    "date": "2025-11-23",
+    "items": [
+        {
+            "description": "Cross-platform demand-driven alliance",
+            "quantity": 5,
+            "unit_price": 326.18,
+            "total_price": 1630.9
+        },
+        {
+            "description": "Devolved 24hour hierarchy",
+            "quantity": 7,
+            "unit_price": 349.02,
+            "total_price": 2443.14
+        }
+    ],
+    "amount": 4074.04
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Kidd-Peck",
+    "invoice_number": "INV-73588",
+    "date": "2026-03-09",
+    "items": [
+        {
+            "description": "Quality-focused even-keeled matrices",
+            "quantity": 5,
+            "unit_price": 468.03,
+            "total_price": 2340.15
+        }
+    ],
+    "amount": 2340.15
+}

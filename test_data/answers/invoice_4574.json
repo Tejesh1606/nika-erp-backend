@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mathews, Woods and Guzman",
+    "invoice_number": "INV-23061",
+    "date": "2025-11-25",
+    "items": [
+        {
+            "description": "Multi-layered bi-directional database",
+            "quantity": 5,
+            "unit_price": 365.07,
+            "total_price": 1825.35
+        },
+        {
+            "description": "Secured needs-based task-force",
+            "quantity": 7,
+            "unit_price": 211.45,
+            "total_price": 1480.15
+        },
+        {
+            "description": "Multi-lateral holistic workforce",
+            "quantity": 1,
+            "unit_price": 360.05,
+            "total_price": 360.05
+        },
+        {
+            "description": "Fully-configurable cohesive database",
+            "quantity": 2,
+            "unit_price": 229.57,
+            "total_price": 459.14
+        }
+    ],
+    "amount": 4124.69
+}

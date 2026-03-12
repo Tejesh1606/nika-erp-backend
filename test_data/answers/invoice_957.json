@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bennett and Sons",
+    "invoice_number": "INV-59628",
+    "date": "2025-04-18",
+    "items": [
+        {
+            "description": "Decentralized context-sensitive moderator",
+            "quantity": 8,
+            "unit_price": 430.91,
+            "total_price": 3447.28
+        },
+        {
+            "description": "Upgradable fault-tolerant parallelism",
+            "quantity": 2,
+            "unit_price": 407.16,
+            "total_price": 814.32
+        },
+        {
+            "description": "Pre-emptive bandwidth-monitored moderator",
+            "quantity": 1,
+            "unit_price": 160.85,
+            "total_price": 160.85
+        }
+    ],
+    "amount": 4422.45
+}

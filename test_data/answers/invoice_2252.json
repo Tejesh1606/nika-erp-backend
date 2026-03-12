@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Shields-Cain",
+    "invoice_number": "INV-50317",
+    "date": "2025-03-29",
+    "items": [
+        {
+            "description": "Integrated uniform instruction set",
+            "quantity": 6,
+            "unit_price": 479.33,
+            "total_price": 2875.98
+        },
+        {
+            "description": "User-centric web-enabled implementation",
+            "quantity": 9,
+            "unit_price": 352.58,
+            "total_price": 3173.22
+        },
+        {
+            "description": "Reactive coherent budgetary management",
+            "quantity": 8,
+            "unit_price": 278.8,
+            "total_price": 2230.4
+        }
+    ],
+    "amount": 8279.6
+}

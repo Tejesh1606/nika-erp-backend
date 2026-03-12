@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Aguilar-Ortiz",
+    "invoice_number": "INV-75472",
+    "date": "2025-04-20",
+    "items": [
+        {
+            "description": "Public-key attitude-oriented service-desk",
+            "quantity": 8,
+            "unit_price": 198.43,
+            "total_price": 1587.44
+        },
+        {
+            "description": "Polarized heuristic emulation",
+            "quantity": 9,
+            "unit_price": 477.01,
+            "total_price": 4293.09
+        },
+        {
+            "description": "Future-proofed 5thgeneration paradigm",
+            "quantity": 7,
+            "unit_price": 318.86,
+            "total_price": 2232.02
+        },
+        {
+            "description": "Optional bi-directional productivity",
+            "quantity": 1,
+            "unit_price": 118.31,
+            "total_price": 118.31
+        }
+    ],
+    "amount": 8230.86
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Moore, Daniels and Powell",
+    "invoice_number": "INV-55796",
+    "date": "2025-06-02",
+    "items": [
+        {
+            "description": "Extended stable groupware",
+            "quantity": 1,
+            "unit_price": 229.37,
+            "total_price": 229.37
+        },
+        {
+            "description": "Managed high-level frame",
+            "quantity": 8,
+            "unit_price": 437.23,
+            "total_price": 3497.84
+        },
+        {
+            "description": "Extended web-enabled process improvement",
+            "quantity": 10,
+            "unit_price": 335.83,
+            "total_price": 3358.3
+        },
+        {
+            "description": "Progressive methodical open architecture",
+            "quantity": 8,
+            "unit_price": 357.3,
+            "total_price": 2858.4
+        }
+    ],
+    "amount": 9943.91
+}

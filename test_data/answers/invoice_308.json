@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mccall, Mccann and Moore",
+    "invoice_number": "INV-52827",
+    "date": "2025-08-07",
+    "items": [
+        {
+            "description": "Reverse-engineered scalable task-force",
+            "quantity": 6,
+            "unit_price": 16.69,
+            "total_price": 100.14
+        },
+        {
+            "description": "Streamlined systemic project",
+            "quantity": 5,
+            "unit_price": 477.55,
+            "total_price": 2387.75
+        },
+        {
+            "description": "Cloned fault-tolerant standardization",
+            "quantity": 7,
+            "unit_price": 273.2,
+            "total_price": 1912.4
+        },
+        {
+            "description": "Optional upward-trending encoding",
+            "quantity": 1,
+            "unit_price": 71.43,
+            "total_price": 71.43
+        }
+    ],
+    "amount": 4471.72
+}

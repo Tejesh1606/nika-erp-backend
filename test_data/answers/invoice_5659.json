@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Chambers PLC",
+    "invoice_number": "INV-16087",
+    "date": "2025-11-01",
+    "items": [
+        {
+            "description": "Inverse reciprocal approach",
+            "quantity": 8,
+            "unit_price": 234.38,
+            "total_price": 1875.04
+        },
+        {
+            "description": "Digitized systemic Local Area Network",
+            "quantity": 1,
+            "unit_price": 295.45,
+            "total_price": 295.45
+        }
+    ],
+    "amount": 2170.49
+}

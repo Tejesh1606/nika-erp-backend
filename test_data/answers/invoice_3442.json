@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Cooper-Ford",
+    "invoice_number": "INV-90812",
+    "date": "2025-12-27",
+    "items": [
+        {
+            "description": "Optional didactic service-desk",
+            "quantity": 9,
+            "unit_price": 217.92,
+            "total_price": 1961.28
+        },
+        {
+            "description": "Managed high-level middleware",
+            "quantity": 5,
+            "unit_price": 241.08,
+            "total_price": 1205.4
+        },
+        {
+            "description": "Phased local forecast",
+            "quantity": 4,
+            "unit_price": 186.44,
+            "total_price": 745.76
+        },
+        {
+            "description": "Vision-oriented grid-enabled capacity",
+            "quantity": 3,
+            "unit_price": 316.66,
+            "total_price": 949.98
+        }
+    ],
+    "amount": 4862.42
+}

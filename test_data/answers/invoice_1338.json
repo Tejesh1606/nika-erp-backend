@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Barrett and Sons",
+    "invoice_number": "INV-49705",
+    "date": "2025-05-11",
+    "items": [
+        {
+            "description": "Optimized encompassing emulation",
+            "quantity": 7,
+            "unit_price": 147.43,
+            "total_price": 1032.01
+        },
+        {
+            "description": "Extended zero administration help-desk",
+            "quantity": 1,
+            "unit_price": 38.96,
+            "total_price": 38.96
+        },
+        {
+            "description": "Assimilated client-driven intranet",
+            "quantity": 10,
+            "unit_price": 57.48,
+            "total_price": 574.8
+        }
+    ],
+    "amount": 1645.77
+}

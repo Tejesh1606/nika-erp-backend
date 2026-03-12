@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Bautista-Underwood",
+    "invoice_number": "INV-95892",
+    "date": "2025-03-13",
+    "items": [
+        {
+            "description": "Phased solution-oriented migration",
+            "quantity": 1,
+            "unit_price": 168.66,
+            "total_price": 168.66
+        },
+        {
+            "description": "Virtual coherent infrastructure",
+            "quantity": 6,
+            "unit_price": 348.41,
+            "total_price": 2090.46
+        },
+        {
+            "description": "Focused discrete success",
+            "quantity": 4,
+            "unit_price": 138.86,
+            "total_price": 555.44
+        },
+        {
+            "description": "User-friendly demand-driven leverage",
+            "quantity": 9,
+            "unit_price": 124.52,
+            "total_price": 1120.68
+        }
+    ],
+    "amount": 3935.24
+}

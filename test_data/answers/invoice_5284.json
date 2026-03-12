@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Combs Ltd",
+    "invoice_number": "INV-13722",
+    "date": "2026-03-02",
+    "items": [
+        {
+            "description": "Pre-emptive bottom-line challenge",
+            "quantity": 8,
+            "unit_price": 497.21,
+            "total_price": 3977.68
+        },
+        {
+            "description": "Configurable composite hierarchy",
+            "quantity": 4,
+            "unit_price": 332.87,
+            "total_price": 1331.48
+        },
+        {
+            "description": "Proactive regional workforce",
+            "quantity": 10,
+            "unit_price": 270.4,
+            "total_price": 2704.0
+        },
+        {
+            "description": "Quality-focused optimizing Internet solution",
+            "quantity": 6,
+            "unit_price": 458.14,
+            "total_price": 2748.84
+        }
+    ],
+    "amount": 10762.0
+}

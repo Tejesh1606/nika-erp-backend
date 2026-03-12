@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson, Green and Armstrong",
+    "invoice_number": "INV-14534",
+    "date": "2025-10-22",
+    "items": [
+        {
+            "description": "Face-to-face context-sensitive complexity",
+            "quantity": 3,
+            "unit_price": 333.11,
+            "total_price": 999.33
+        },
+        {
+            "description": "Monitored content-based encryption",
+            "quantity": 8,
+            "unit_price": 140.33,
+            "total_price": 1122.64
+        },
+        {
+            "description": "Expanded context-sensitive ability",
+            "quantity": 6,
+            "unit_price": 130.42,
+            "total_price": 782.52
+        },
+        {
+            "description": "Down-sized dynamic help-desk",
+            "quantity": 9,
+            "unit_price": 268.4,
+            "total_price": 2415.6
+        }
+    ],
+    "amount": 5320.09
+}

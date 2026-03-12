@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Robinson, Young and Taylor",
+    "invoice_number": "INV-36593",
+    "date": "2026-01-27",
+    "items": [
+        {
+            "description": "Public-key static system engine",
+            "quantity": 3,
+            "unit_price": 283.83,
+            "total_price": 851.49
+        },
+        {
+            "description": "Robust multi-tasking info-mediaries",
+            "quantity": 6,
+            "unit_price": 171.55,
+            "total_price": 1029.3
+        },
+        {
+            "description": "Devolved coherent help-desk",
+            "quantity": 6,
+            "unit_price": 235.19,
+            "total_price": 1411.14
+        },
+        {
+            "description": "Stand-alone eco-centric interface",
+            "quantity": 4,
+            "unit_price": 10.43,
+            "total_price": 41.72
+        }
+    ],
+    "amount": 3333.65
+}

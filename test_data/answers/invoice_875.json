@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Aguirre, Fox and Kent",
+    "invoice_number": "INV-74350",
+    "date": "2025-09-03",
+    "items": [
+        {
+            "description": "Persistent object-oriented analyzer",
+            "quantity": 3,
+            "unit_price": 142.95,
+            "total_price": 428.85
+        },
+        {
+            "description": "User-centric background forecast",
+            "quantity": 1,
+            "unit_price": 113.38,
+            "total_price": 113.38
+        }
+    ],
+    "amount": 542.23
+}

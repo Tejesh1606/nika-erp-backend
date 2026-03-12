@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Petersen PLC",
+    "invoice_number": "INV-88757",
+    "date": "2025-05-18",
+    "items": [
+        {
+            "description": "Optimized 5thgeneration migration",
+            "quantity": 7,
+            "unit_price": 412.63,
+            "total_price": 2888.41
+        },
+        {
+            "description": "Phased motivating monitoring",
+            "quantity": 3,
+            "unit_price": 183.71,
+            "total_price": 551.13
+        }
+    ],
+    "amount": 3439.54
+}

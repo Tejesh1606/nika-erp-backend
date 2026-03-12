@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Leonard, Duncan and Peck",
+    "invoice_number": "INV-69998",
+    "date": "2025-11-30",
+    "items": [
+        {
+            "description": "Exclusive analyzing methodology",
+            "quantity": 9,
+            "unit_price": 242.35,
+            "total_price": 2181.15
+        },
+        {
+            "description": "Vision-oriented dedicated complexity",
+            "quantity": 2,
+            "unit_price": 196.77,
+            "total_price": 393.54
+        },
+        {
+            "description": "Customer-focused incremental infrastructure",
+            "quantity": 8,
+            "unit_price": 276.86,
+            "total_price": 2214.88
+        }
+    ],
+    "amount": 4789.57
+}

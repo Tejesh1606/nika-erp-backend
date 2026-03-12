@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gonzalez-Brown",
+    "invoice_number": "INV-18227",
+    "date": "2025-07-11",
+    "items": [
+        {
+            "description": "Face-to-face 5thgeneration core",
+            "quantity": 7,
+            "unit_price": 97.74,
+            "total_price": 684.18
+        },
+        {
+            "description": "Centralized fault-tolerant frame",
+            "quantity": 2,
+            "unit_price": 455.32,
+            "total_price": 910.64
+        },
+        {
+            "description": "Advanced local intranet",
+            "quantity": 3,
+            "unit_price": 49.01,
+            "total_price": 147.03
+        },
+        {
+            "description": "Public-key background secured line",
+            "quantity": 6,
+            "unit_price": 235.39,
+            "total_price": 1412.34
+        }
+    ],
+    "amount": 3154.19
+}

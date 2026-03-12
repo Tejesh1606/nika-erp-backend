@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Long LLC",
+    "invoice_number": "INV-95026",
+    "date": "2025-08-01",
+    "items": [
+        {
+            "description": "Persistent didactic process improvement",
+            "quantity": 2,
+            "unit_price": 301.64,
+            "total_price": 603.28
+        }
+    ],
+    "amount": 603.28
+}

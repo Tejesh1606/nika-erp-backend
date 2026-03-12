@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Contreras, Stevens and Nixon",
+    "invoice_number": "INV-70557",
+    "date": "2025-12-13",
+    "items": [
+        {
+            "description": "Cross-group attitude-oriented model",
+            "quantity": 7,
+            "unit_price": 485.86,
+            "total_price": 3401.02
+        }
+    ],
+    "amount": 3401.02
+}

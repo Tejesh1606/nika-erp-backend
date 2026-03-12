@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Haynes, Morales and Graham",
+    "invoice_number": "INV-70722",
+    "date": "2025-11-23",
+    "items": [
+        {
+            "description": "Up-sized coherent project",
+            "quantity": 4,
+            "unit_price": 209.6,
+            "total_price": 838.4
+        },
+        {
+            "description": "Open-source context-sensitive process improvement",
+            "quantity": 5,
+            "unit_price": 392.97,
+            "total_price": 1964.85
+        }
+    ],
+    "amount": 2803.25
+}

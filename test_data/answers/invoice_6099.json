@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Simpson, Ayers and Clark",
+    "invoice_number": "INV-12620",
+    "date": "2025-11-29",
+    "items": [
+        {
+            "description": "Intuitive exuding frame",
+            "quantity": 1,
+            "unit_price": 185.17,
+            "total_price": 185.17
+        }
+    ],
+    "amount": 185.17
+}

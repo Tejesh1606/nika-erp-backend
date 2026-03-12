@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Guerrero-Pugh",
+    "invoice_number": "INV-91684",
+    "date": "2026-02-14",
+    "items": [
+        {
+            "description": "Optional transitional architecture",
+            "quantity": 9,
+            "unit_price": 58.65,
+            "total_price": 527.85
+        },
+        {
+            "description": "Decentralized client-server capacity",
+            "quantity": 4,
+            "unit_price": 98.99,
+            "total_price": 395.96
+        },
+        {
+            "description": "Ergonomic content-based monitoring",
+            "quantity": 8,
+            "unit_price": 275.88,
+            "total_price": 2207.04
+        },
+        {
+            "description": "Multi-tiered system-worthy hub",
+            "quantity": 10,
+            "unit_price": 454.6,
+            "total_price": 4546.0
+        }
+    ],
+    "amount": 7676.85
+}

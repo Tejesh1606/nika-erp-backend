@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Miller, Moore and Macdonald",
+    "invoice_number": "INV-98387",
+    "date": "2026-01-20",
+    "items": [
+        {
+            "description": "Reverse-engineered encompassing utilization",
+            "quantity": 2,
+            "unit_price": 220.01,
+            "total_price": 440.02
+        },
+        {
+            "description": "Down-sized radical secured line",
+            "quantity": 3,
+            "unit_price": 205.88,
+            "total_price": 617.64
+        },
+        {
+            "description": "Optimized next generation middleware",
+            "quantity": 6,
+            "unit_price": 475.38,
+            "total_price": 2852.28
+        }
+    ],
+    "amount": 3909.94
+}

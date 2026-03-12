@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hill and Sons",
+    "invoice_number": "INV-67876",
+    "date": "2025-10-30",
+    "items": [
+        {
+            "description": "Expanded impactful info-mediaries",
+            "quantity": 6,
+            "unit_price": 339.42,
+            "total_price": 2036.52
+        },
+        {
+            "description": "Optimized actuating forecast",
+            "quantity": 5,
+            "unit_price": 224.36,
+            "total_price": 1121.8
+        },
+        {
+            "description": "Integrated national system engine",
+            "quantity": 7,
+            "unit_price": 22.02,
+            "total_price": 154.14
+        },
+        {
+            "description": "Object-based zero tolerance support",
+            "quantity": 3,
+            "unit_price": 401.11,
+            "total_price": 1203.33
+        }
+    ],
+    "amount": 4515.79
+}

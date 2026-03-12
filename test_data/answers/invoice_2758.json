@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Taylor-Lopez",
+    "invoice_number": "INV-24110",
+    "date": "2025-08-17",
+    "items": [
+        {
+            "description": "Persevering dedicated encryption",
+            "quantity": 4,
+            "unit_price": 413.65,
+            "total_price": 1654.6
+        },
+        {
+            "description": "Organic eco-centric info-mediaries",
+            "quantity": 6,
+            "unit_price": 68.86,
+            "total_price": 413.16
+        }
+    ],
+    "amount": 2067.76
+}

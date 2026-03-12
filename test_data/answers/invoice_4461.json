@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Haynes-Clarke",
+    "invoice_number": "INV-24128",
+    "date": "2025-10-02",
+    "items": [
+        {
+            "description": "Organized regional neural-net",
+            "quantity": 6,
+            "unit_price": 457.38,
+            "total_price": 2744.28
+        }
+    ],
+    "amount": 2744.28
+}

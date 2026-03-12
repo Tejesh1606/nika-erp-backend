@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Brown PLC",
+    "invoice_number": "INV-38679",
+    "date": "2025-03-16",
+    "items": [
+        {
+            "description": "Progressive mission-critical ability",
+            "quantity": 9,
+            "unit_price": 426.47,
+            "total_price": 3838.23
+        },
+        {
+            "description": "Managed reciprocal customer loyalty",
+            "quantity": 9,
+            "unit_price": 446.97,
+            "total_price": 4022.73
+        },
+        {
+            "description": "De-engineered global structure",
+            "quantity": 3,
+            "unit_price": 197.85,
+            "total_price": 593.55
+        },
+        {
+            "description": "Enhanced fresh-thinking approach",
+            "quantity": 3,
+            "unit_price": 495.56,
+            "total_price": 1486.68
+        }
+    ],
+    "amount": 9941.19
+}

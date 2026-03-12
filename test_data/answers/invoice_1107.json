@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Porter Ltd",
+    "invoice_number": "INV-29284",
+    "date": "2025-09-06",
+    "items": [
+        {
+            "description": "Synergized coherent model",
+            "quantity": 1,
+            "unit_price": 28.32,
+            "total_price": 28.32
+        },
+        {
+            "description": "Implemented regional open architecture",
+            "quantity": 8,
+            "unit_price": 474.45,
+            "total_price": 3795.6
+        },
+        {
+            "description": "Synchronized cohesive framework",
+            "quantity": 10,
+            "unit_price": 197.69,
+            "total_price": 1976.9
+        },
+        {
+            "description": "Pre-emptive executive architecture",
+            "quantity": 9,
+            "unit_price": 183.87,
+            "total_price": 1654.83
+        }
+    ],
+    "amount": 7455.65
+}

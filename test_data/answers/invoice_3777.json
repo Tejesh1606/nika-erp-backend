@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Reynolds, Jennings and Johnson",
+    "invoice_number": "INV-59794",
+    "date": "2026-01-13",
+    "items": [
+        {
+            "description": "Polarized client-driven function",
+            "quantity": 7,
+            "unit_price": 193.13,
+            "total_price": 1351.91
+        },
+        {
+            "description": "Operative intermediate customer loyalty",
+            "quantity": 5,
+            "unit_price": 73.34,
+            "total_price": 366.7
+        },
+        {
+            "description": "Reduced 5thgeneration encryption",
+            "quantity": 6,
+            "unit_price": 329.43,
+            "total_price": 1976.58
+        },
+        {
+            "description": "Diverse background extranet",
+            "quantity": 9,
+            "unit_price": 311.62,
+            "total_price": 2804.58
+        }
+    ],
+    "amount": 6499.77
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Good-Carter",
+    "invoice_number": "INV-50178",
+    "date": "2025-07-22",
+    "items": [
+        {
+            "description": "Triple-buffered even-keeled algorithm",
+            "quantity": 5,
+            "unit_price": 451.21,
+            "total_price": 2256.05
+        },
+        {
+            "description": "Optional optimizing budgetary management",
+            "quantity": 8,
+            "unit_price": 206.05,
+            "total_price": 1648.4
+        }
+    ],
+    "amount": 3904.45
+}

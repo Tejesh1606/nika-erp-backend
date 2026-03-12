@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Harrington Group",
+    "invoice_number": "INV-60838",
+    "date": "2025-06-07",
+    "items": [
+        {
+            "description": "Implemented even-keeled database",
+            "quantity": 3,
+            "unit_price": 29.31,
+            "total_price": 87.93
+        },
+        {
+            "description": "Expanded even-keeled software",
+            "quantity": 3,
+            "unit_price": 426.94,
+            "total_price": 1280.82
+        },
+        {
+            "description": "Operative 24hour contingency",
+            "quantity": 5,
+            "unit_price": 434.32,
+            "total_price": 2171.6
+        },
+        {
+            "description": "Streamlined value-added implementation",
+            "quantity": 6,
+            "unit_price": 117.54,
+            "total_price": 705.24
+        }
+    ],
+    "amount": 4245.59
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Day, Ramirez and Cox",
+    "invoice_number": "INV-16077",
+    "date": "2025-08-28",
+    "items": [
+        {
+            "description": "Triple-buffered client-driven policy",
+            "quantity": 10,
+            "unit_price": 116.35,
+            "total_price": 1163.5
+        },
+        {
+            "description": "Open-architected cohesive pricing structure",
+            "quantity": 2,
+            "unit_price": 292.64,
+            "total_price": 585.28
+        },
+        {
+            "description": "Upgradable zero administration support",
+            "quantity": 5,
+            "unit_price": 136.89,
+            "total_price": 684.45
+        },
+        {
+            "description": "Assimilated systemic artificial intelligence",
+            "quantity": 5,
+            "unit_price": 235.9,
+            "total_price": 1179.5
+        }
+    ],
+    "amount": 3612.73
+}

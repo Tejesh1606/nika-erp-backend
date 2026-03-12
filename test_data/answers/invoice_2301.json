@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Brady-Anderson",
+    "invoice_number": "INV-37032",
+    "date": "2025-05-18",
+    "items": [
+        {
+            "description": "Centralized tertiary conglomeration",
+            "quantity": 1,
+            "unit_price": 357.62,
+            "total_price": 357.62
+        },
+        {
+            "description": "Enhanced secondary circuit",
+            "quantity": 8,
+            "unit_price": 106.5,
+            "total_price": 852.0
+        }
+    ],
+    "amount": 1209.62
+}

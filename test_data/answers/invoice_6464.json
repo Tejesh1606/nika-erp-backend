@@ -1,0 +1,32 @@
+{
+    "vendor_name": "King-Jimenez",
+    "invoice_number": "INV-87636",
+    "date": "2025-07-26",
+    "items": [
+        {
+            "description": "Expanded value-added software",
+            "quantity": 4,
+            "unit_price": 349.62,
+            "total_price": 1398.48
+        },
+        {
+            "description": "Multi-lateral cohesive Graphic Interface",
+            "quantity": 2,
+            "unit_price": 467.19,
+            "total_price": 934.38
+        },
+        {
+            "description": "Public-key foreground encryption",
+            "quantity": 6,
+            "unit_price": 106.44,
+            "total_price": 638.64
+        },
+        {
+            "description": "Intuitive fresh-thinking productivity",
+            "quantity": 2,
+            "unit_price": 34.84,
+            "total_price": 69.68
+        }
+    ],
+    "amount": 3041.18
+}

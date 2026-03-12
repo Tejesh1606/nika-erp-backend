@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Shaw-Norman",
+    "invoice_number": "INV-53917",
+    "date": "2026-01-30",
+    "items": [
+        {
+            "description": "Public-key high-level budgetary management",
+            "quantity": 10,
+            "unit_price": 330.77,
+            "total_price": 3307.7
+        },
+        {
+            "description": "Enhanced interactive monitoring",
+            "quantity": 5,
+            "unit_price": 482.33,
+            "total_price": 2411.65
+        },
+        {
+            "description": "Virtual human-resource service-desk",
+            "quantity": 8,
+            "unit_price": 350.59,
+            "total_price": 2804.72
+        }
+    ],
+    "amount": 8524.07
+}

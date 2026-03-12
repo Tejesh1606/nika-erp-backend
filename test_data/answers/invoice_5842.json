@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Dalton, Butler and Reyes",
+    "invoice_number": "INV-15955",
+    "date": "2025-03-17",
+    "items": [
+        {
+            "description": "Re-engineered optimal process improvement",
+            "quantity": 1,
+            "unit_price": 235.88,
+            "total_price": 235.88
+        },
+        {
+            "description": "Universal logistical solution",
+            "quantity": 5,
+            "unit_price": 251.32,
+            "total_price": 1256.6
+        },
+        {
+            "description": "Implemented object-oriented focus group",
+            "quantity": 8,
+            "unit_price": 203.58,
+            "total_price": 1628.64
+        }
+    ],
+    "amount": 3121.12
+}

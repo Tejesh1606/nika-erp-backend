@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lawson-Wilson",
+    "invoice_number": "INV-50099",
+    "date": "2025-07-13",
+    "items": [
+        {
+            "description": "Extended dynamic methodology",
+            "quantity": 1,
+            "unit_price": 193.37,
+            "total_price": 193.37
+        }
+    ],
+    "amount": 193.37
+}

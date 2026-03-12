@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Carter-Hanson",
+    "invoice_number": "INV-33131",
+    "date": "2025-03-23",
+    "items": [
+        {
+            "description": "Organic human-resource orchestration",
+            "quantity": 4,
+            "unit_price": 66.84,
+            "total_price": 267.36
+        },
+        {
+            "description": "Reduced responsive archive",
+            "quantity": 9,
+            "unit_price": 56.84,
+            "total_price": 511.56
+        },
+        {
+            "description": "Multi-channeled client-server moratorium",
+            "quantity": 7,
+            "unit_price": 366.64,
+            "total_price": 2566.48
+        }
+    ],
+    "amount": 3345.4
+}

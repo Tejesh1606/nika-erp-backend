@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jenkins and Sons",
+    "invoice_number": "INV-34225",
+    "date": "2025-12-18",
+    "items": [
+        {
+            "description": "Front-line intermediate functionalities",
+            "quantity": 9,
+            "unit_price": 126.42,
+            "total_price": 1137.78
+        }
+    ],
+    "amount": 1137.78
+}

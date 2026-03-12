@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Murphy-Newman",
+    "invoice_number": "INV-18058",
+    "date": "2025-04-13",
+    "items": [
+        {
+            "description": "Extended client-driven paradigm",
+            "quantity": 8,
+            "unit_price": 167.34,
+            "total_price": 1338.72
+        }
+    ],
+    "amount": 1338.72
+}

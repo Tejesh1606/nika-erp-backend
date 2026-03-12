@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Adams, Meyers and Daniel",
+    "invoice_number": "INV-10188",
+    "date": "2025-04-18",
+    "items": [
+        {
+            "description": "Mandatory system-worthy projection",
+            "quantity": 10,
+            "unit_price": 108.48,
+            "total_price": 1084.8
+        },
+        {
+            "description": "Realigned bifurcated capacity",
+            "quantity": 7,
+            "unit_price": 469.78,
+            "total_price": 3288.46
+        }
+    ],
+    "amount": 4373.26
+}

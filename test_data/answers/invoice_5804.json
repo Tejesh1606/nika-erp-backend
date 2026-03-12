@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brown-Robles",
+    "invoice_number": "INV-29621",
+    "date": "2025-06-23",
+    "items": [
+        {
+            "description": "Grass-roots neutral Internet solution",
+            "quantity": 7,
+            "unit_price": 394.26,
+            "total_price": 2759.82
+        },
+        {
+            "description": "Grass-roots zero administration paradigm",
+            "quantity": 10,
+            "unit_price": 94.92,
+            "total_price": 949.2
+        },
+        {
+            "description": "Cloned systemic functionalities",
+            "quantity": 9,
+            "unit_price": 158.76,
+            "total_price": 1428.84
+        }
+    ],
+    "amount": 5137.86
+}

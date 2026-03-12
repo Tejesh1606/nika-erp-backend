@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Rodriguez-Espinoza",
+    "invoice_number": "INV-68445",
+    "date": "2025-05-05",
+    "items": [
+        {
+            "description": "Expanded 6thgeneration structure",
+            "quantity": 6,
+            "unit_price": 226.24,
+            "total_price": 1357.44
+        },
+        {
+            "description": "Total logistical definition",
+            "quantity": 9,
+            "unit_price": 494.24,
+            "total_price": 4448.16
+        }
+    ],
+    "amount": 5805.6
+}

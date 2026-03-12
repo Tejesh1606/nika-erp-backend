@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hill-Freeman",
+    "invoice_number": "INV-13149",
+    "date": "2025-11-11",
+    "items": [
+        {
+            "description": "Realigned radical Graphic Interface",
+            "quantity": 9,
+            "unit_price": 391.91,
+            "total_price": 3527.19
+        },
+        {
+            "description": "Expanded analyzing artificial intelligence",
+            "quantity": 8,
+            "unit_price": 126.45,
+            "total_price": 1011.6
+        },
+        {
+            "description": "De-engineered transitional application",
+            "quantity": 8,
+            "unit_price": 315.8,
+            "total_price": 2526.4
+        }
+    ],
+    "amount": 7065.19
+}

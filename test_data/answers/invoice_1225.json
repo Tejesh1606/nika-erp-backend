@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Rivera-Ingram",
+    "invoice_number": "INV-87616",
+    "date": "2025-10-29",
+    "items": [
+        {
+            "description": "Grass-roots user-facing pricing structure",
+            "quantity": 2,
+            "unit_price": 240.99,
+            "total_price": 481.98
+        },
+        {
+            "description": "Synchronized methodical database",
+            "quantity": 10,
+            "unit_price": 116.88,
+            "total_price": 1168.8
+        },
+        {
+            "description": "Down-sized 24hour toolset",
+            "quantity": 7,
+            "unit_price": 357.0,
+            "total_price": 2499.0
+        }
+    ],
+    "amount": 4149.78
+}

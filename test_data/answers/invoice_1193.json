@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Tapia Ltd",
+    "invoice_number": "INV-38074",
+    "date": "2025-03-10",
+    "items": [
+        {
+            "description": "Optional asymmetric matrix",
+            "quantity": 4,
+            "unit_price": 107.53,
+            "total_price": 430.12
+        },
+        {
+            "description": "Realigned reciprocal database",
+            "quantity": 2,
+            "unit_price": 13.67,
+            "total_price": 27.34
+        },
+        {
+            "description": "Triple-buffered context-sensitive alliance",
+            "quantity": 9,
+            "unit_price": 472.91,
+            "total_price": 4256.19
+        },
+        {
+            "description": "Operative system-worthy firmware",
+            "quantity": 1,
+            "unit_price": 234.83,
+            "total_price": 234.83
+        }
+    ],
+    "amount": 4948.48
+}

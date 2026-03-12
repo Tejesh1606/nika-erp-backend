@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Campbell, Taylor and Reyes",
+    "invoice_number": "INV-35635",
+    "date": "2025-05-29",
+    "items": [
+        {
+            "description": "Fully-configurable zero-defect productivity",
+            "quantity": 4,
+            "unit_price": 460.05,
+            "total_price": 1840.2
+        }
+    ],
+    "amount": 1840.2
+}

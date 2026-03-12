@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Brown, Sharp and Martinez",
+    "invoice_number": "INV-20479",
+    "date": "2025-12-28",
+    "items": [
+        {
+            "description": "Stand-alone multi-tasking productivity",
+            "quantity": 7,
+            "unit_price": 27.84,
+            "total_price": 194.88
+        }
+    ],
+    "amount": 194.88
+}

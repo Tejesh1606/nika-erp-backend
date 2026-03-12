@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Murray, Lynch and Burke",
+    "invoice_number": "INV-47561",
+    "date": "2025-11-19",
+    "items": [
+        {
+            "description": "Profit-focused asynchronous paradigm",
+            "quantity": 9,
+            "unit_price": 392.9,
+            "total_price": 3536.1
+        },
+        {
+            "description": "Integrated system-worthy alliance",
+            "quantity": 8,
+            "unit_price": 457.83,
+            "total_price": 3662.64
+        }
+    ],
+    "amount": 7198.74
+}

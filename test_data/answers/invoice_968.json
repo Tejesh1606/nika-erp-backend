@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Roberts Group",
+    "invoice_number": "INV-48475",
+    "date": "2025-06-19",
+    "items": [
+        {
+            "description": "Extended 24hour support",
+            "quantity": 5,
+            "unit_price": 302.52,
+            "total_price": 1512.6
+        }
+    ],
+    "amount": 1512.6
+}

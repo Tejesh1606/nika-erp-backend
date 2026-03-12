@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Spears, Bartlett and Roberts",
+    "invoice_number": "INV-27023",
+    "date": "2026-01-06",
+    "items": [
+        {
+            "description": "Open-architected uniform approach",
+            "quantity": 3,
+            "unit_price": 274.28,
+            "total_price": 822.84
+        },
+        {
+            "description": "Triple-buffered leadingedge neural-net",
+            "quantity": 5,
+            "unit_price": 495.99,
+            "total_price": 2479.95
+        },
+        {
+            "description": "Distributed explicit archive",
+            "quantity": 7,
+            "unit_price": 294.57,
+            "total_price": 2061.99
+        },
+        {
+            "description": "Decentralized intangible focus group",
+            "quantity": 1,
+            "unit_price": 47.11,
+            "total_price": 47.11
+        }
+    ],
+    "amount": 5411.89
+}

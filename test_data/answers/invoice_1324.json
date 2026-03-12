@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Watts-Stout",
+    "invoice_number": "INV-73837",
+    "date": "2025-06-14",
+    "items": [
+        {
+            "description": "Grass-roots real-time parallelism",
+            "quantity": 6,
+            "unit_price": 431.87,
+            "total_price": 2591.22
+        }
+    ],
+    "amount": 2591.22
+}

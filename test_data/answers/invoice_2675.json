@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Odonnell and Sons",
+    "invoice_number": "INV-59047",
+    "date": "2025-03-28",
+    "items": [
+        {
+            "description": "Streamlined 24hour archive",
+            "quantity": 6,
+            "unit_price": 24.99,
+            "total_price": 149.94
+        },
+        {
+            "description": "Customer-focused full-range frame",
+            "quantity": 3,
+            "unit_price": 88.55,
+            "total_price": 265.65
+        },
+        {
+            "description": "Object-based bifurcated leverage",
+            "quantity": 5,
+            "unit_price": 266.6,
+            "total_price": 1333.0
+        },
+        {
+            "description": "Monitored zero tolerance moderator",
+            "quantity": 5,
+            "unit_price": 71.69,
+            "total_price": 358.45
+        }
+    ],
+    "amount": 2107.04
+}

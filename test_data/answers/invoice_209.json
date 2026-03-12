@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Matthews, Sanchez and Santiago",
+    "invoice_number": "INV-79604",
+    "date": "2025-06-04",
+    "items": [
+        {
+            "description": "Sharable discrete application",
+            "quantity": 5,
+            "unit_price": 291.88,
+            "total_price": 1459.4
+        },
+        {
+            "description": "Cross-platform incremental groupware",
+            "quantity": 10,
+            "unit_price": 84.15,
+            "total_price": 841.5
+        }
+    ],
+    "amount": 2300.9
+}

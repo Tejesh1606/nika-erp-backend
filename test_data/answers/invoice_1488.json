@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Johnson-Morrison",
+    "invoice_number": "INV-95381",
+    "date": "2025-11-24",
+    "items": [
+        {
+            "description": "Profound zero administration initiative",
+            "quantity": 1,
+            "unit_price": 279.45,
+            "total_price": 279.45
+        }
+    ],
+    "amount": 279.45
+}

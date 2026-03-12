@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Davis-Hale",
+    "invoice_number": "INV-57107",
+    "date": "2025-10-13",
+    "items": [
+        {
+            "description": "Optional hybrid installation",
+            "quantity": 6,
+            "unit_price": 268.67,
+            "total_price": 1612.02
+        }
+    ],
+    "amount": 1612.02
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Moody-Evans",
+    "invoice_number": "INV-17031",
+    "date": "2025-04-29",
+    "items": [
+        {
+            "description": "Proactive encompassing adapter",
+            "quantity": 2,
+            "unit_price": 298.83,
+            "total_price": 597.66
+        },
+        {
+            "description": "Synergistic secondary Internet solution",
+            "quantity": 1,
+            "unit_price": 378.1,
+            "total_price": 378.1
+        },
+        {
+            "description": "Phased zero tolerance task-force",
+            "quantity": 10,
+            "unit_price": 444.45,
+            "total_price": 4444.5
+        }
+    ],
+    "amount": 5420.26
+}

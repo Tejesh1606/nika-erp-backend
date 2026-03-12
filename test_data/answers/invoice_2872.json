@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Tanner, Shaw and Curry",
+    "invoice_number": "INV-68696",
+    "date": "2026-01-08",
+    "items": [
+        {
+            "description": "Grass-roots impactful interface",
+            "quantity": 9,
+            "unit_price": 183.57,
+            "total_price": 1652.13
+        },
+        {
+            "description": "Compatible fault-tolerant superstructure",
+            "quantity": 6,
+            "unit_price": 326.75,
+            "total_price": 1960.5
+        }
+    ],
+    "amount": 3612.63
+}

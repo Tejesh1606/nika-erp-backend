@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Stuart-Wilson",
+    "invoice_number": "INV-47983",
+    "date": "2025-03-12",
+    "items": [
+        {
+            "description": "Intuitive scalable ability",
+            "quantity": 9,
+            "unit_price": 209.45,
+            "total_price": 1885.05
+        },
+        {
+            "description": "Function-based methodical capacity",
+            "quantity": 7,
+            "unit_price": 117.78,
+            "total_price": 824.46
+        },
+        {
+            "description": "Versatile intangible algorithm",
+            "quantity": 10,
+            "unit_price": 319.15,
+            "total_price": 3191.5
+        }
+    ],
+    "amount": 5901.01
+}

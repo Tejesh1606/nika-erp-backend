@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Kane-Ball",
+    "invoice_number": "INV-13681",
+    "date": "2025-07-16",
+    "items": [
+        {
+            "description": "Public-key demand-driven hub",
+            "quantity": 5,
+            "unit_price": 313.67,
+            "total_price": 1568.35
+        },
+        {
+            "description": "Ergonomic eco-centric help-desk",
+            "quantity": 5,
+            "unit_price": 218.77,
+            "total_price": 1093.85
+        },
+        {
+            "description": "Stand-alone needs-based architecture",
+            "quantity": 1,
+            "unit_price": 37.23,
+            "total_price": 37.23
+        }
+    ],
+    "amount": 2699.43
+}

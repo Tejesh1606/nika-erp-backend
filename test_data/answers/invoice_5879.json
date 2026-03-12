@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Rios-Green",
+    "invoice_number": "INV-27897",
+    "date": "2026-01-23",
+    "items": [
+        {
+            "description": "Organized 24hour artificial intelligence",
+            "quantity": 8,
+            "unit_price": 220.49,
+            "total_price": 1763.92
+        },
+        {
+            "description": "Synchronized neutral capacity",
+            "quantity": 8,
+            "unit_price": 488.13,
+            "total_price": 3905.04
+        }
+    ],
+    "amount": 5668.96
+}

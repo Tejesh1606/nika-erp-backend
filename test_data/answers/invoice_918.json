@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gray-Brown",
+    "invoice_number": "INV-56665",
+    "date": "2026-02-11",
+    "items": [
+        {
+            "description": "Managed bandwidth-monitored ability",
+            "quantity": 5,
+            "unit_price": 107.59,
+            "total_price": 537.95
+        },
+        {
+            "description": "Persevering tangible initiative",
+            "quantity": 10,
+            "unit_price": 339.89,
+            "total_price": 3398.9
+        },
+        {
+            "description": "Up-sized client-driven algorithm",
+            "quantity": 6,
+            "unit_price": 394.7,
+            "total_price": 2368.2
+        },
+        {
+            "description": "Robust bottom-line moderator",
+            "quantity": 3,
+            "unit_price": 51.82,
+            "total_price": 155.46
+        }
+    ],
+    "amount": 6460.51
+}

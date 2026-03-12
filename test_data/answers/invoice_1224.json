@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hernandez, Cross and Ramirez",
+    "invoice_number": "INV-44463",
+    "date": "2025-10-13",
+    "items": [
+        {
+            "description": "Customer-focused clear-thinking website",
+            "quantity": 1,
+            "unit_price": 47.32,
+            "total_price": 47.32
+        },
+        {
+            "description": "Programmable optimizing project",
+            "quantity": 4,
+            "unit_price": 344.39,
+            "total_price": 1377.56
+        }
+    ],
+    "amount": 1424.88
+}

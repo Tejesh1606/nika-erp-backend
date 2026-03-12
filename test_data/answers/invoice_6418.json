@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Schultz Inc",
+    "invoice_number": "INV-68159",
+    "date": "2025-04-15",
+    "items": [
+        {
+            "description": "Adaptive multi-state secured line",
+            "quantity": 4,
+            "unit_price": 61.8,
+            "total_price": 247.2
+        },
+        {
+            "description": "Organized even-keeled monitoring",
+            "quantity": 10,
+            "unit_price": 95.55,
+            "total_price": 955.5
+        },
+        {
+            "description": "Inverse dynamic artificial intelligence",
+            "quantity": 4,
+            "unit_price": 401.23,
+            "total_price": 1604.92
+        }
+    ],
+    "amount": 2807.62
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Castillo-Hernandez",
+    "invoice_number": "INV-52299",
+    "date": "2025-10-29",
+    "items": [
+        {
+            "description": "Proactive homogeneous frame",
+            "quantity": 8,
+            "unit_price": 379.59,
+            "total_price": 3036.72
+        },
+        {
+            "description": "Assimilated neutral core",
+            "quantity": 9,
+            "unit_price": 182.18,
+            "total_price": 1639.62
+        },
+        {
+            "description": "Realigned holistic support",
+            "quantity": 2,
+            "unit_price": 470.43,
+            "total_price": 940.86
+        }
+    ],
+    "amount": 5617.2
+}

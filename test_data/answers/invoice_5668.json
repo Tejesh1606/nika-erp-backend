@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Huff-Ochoa",
+    "invoice_number": "INV-80511",
+    "date": "2026-02-05",
+    "items": [
+        {
+            "description": "Integrated didactic neural-net",
+            "quantity": 9,
+            "unit_price": 68.34,
+            "total_price": 615.06
+        },
+        {
+            "description": "User-friendly context-sensitive moratorium",
+            "quantity": 6,
+            "unit_price": 99.7,
+            "total_price": 598.2
+        },
+        {
+            "description": "Switchable well-modulated archive",
+            "quantity": 9,
+            "unit_price": 91.69,
+            "total_price": 825.21
+        },
+        {
+            "description": "Integrated 3rdgeneration frame",
+            "quantity": 4,
+            "unit_price": 186.68,
+            "total_price": 746.72
+        }
+    ],
+    "amount": 2785.19
+}

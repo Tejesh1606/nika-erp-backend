@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Green, Peck and Allison",
+    "invoice_number": "INV-41162",
+    "date": "2025-08-03",
+    "items": [
+        {
+            "description": "Horizontal non-volatile collaboration",
+            "quantity": 2,
+            "unit_price": 105.45,
+            "total_price": 210.9
+        },
+        {
+            "description": "Customizable grid-enabled collaboration",
+            "quantity": 4,
+            "unit_price": 445.17,
+            "total_price": 1780.68
+        },
+        {
+            "description": "Triple-buffered optimizing instruction set",
+            "quantity": 5,
+            "unit_price": 55.55,
+            "total_price": 277.75
+        }
+    ],
+    "amount": 2269.33
+}

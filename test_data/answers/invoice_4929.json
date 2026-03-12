@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wong, Torres and Cervantes",
+    "invoice_number": "INV-33173",
+    "date": "2025-07-03",
+    "items": [
+        {
+            "description": "Ameliorated neutral model",
+            "quantity": 6,
+            "unit_price": 264.5,
+            "total_price": 1587.0
+        },
+        {
+            "description": "Optional uniform utilization",
+            "quantity": 9,
+            "unit_price": 65.76,
+            "total_price": 591.84
+        },
+        {
+            "description": "Automated user-facing pricing structure",
+            "quantity": 2,
+            "unit_price": 389.6,
+            "total_price": 779.2
+        },
+        {
+            "description": "Optimized systematic parallelism",
+            "quantity": 6,
+            "unit_price": 304.62,
+            "total_price": 1827.72
+        }
+    ],
+    "amount": 4785.76
+}

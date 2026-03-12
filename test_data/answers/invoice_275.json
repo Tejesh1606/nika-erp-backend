@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Williams-Page",
+    "invoice_number": "INV-12960",
+    "date": "2026-02-01",
+    "items": [
+        {
+            "description": "Mandatory secondary benchmark",
+            "quantity": 3,
+            "unit_price": 177.76,
+            "total_price": 533.28
+        },
+        {
+            "description": "Synergistic composite support",
+            "quantity": 8,
+            "unit_price": 15.09,
+            "total_price": 120.72
+        },
+        {
+            "description": "Fully-configurable multi-state conglomeration",
+            "quantity": 2,
+            "unit_price": 202.62,
+            "total_price": 405.24
+        },
+        {
+            "description": "Reactive cohesive groupware",
+            "quantity": 5,
+            "unit_price": 292.78,
+            "total_price": 1463.9
+        }
+    ],
+    "amount": 2523.14
+}

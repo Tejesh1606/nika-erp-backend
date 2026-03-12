@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Miller-Wilkerson",
+    "invoice_number": "INV-60409",
+    "date": "2025-03-27",
+    "items": [
+        {
+            "description": "Fully-configurable dedicated support",
+            "quantity": 3,
+            "unit_price": 151.32,
+            "total_price": 453.96
+        },
+        {
+            "description": "Synergistic discrete approach",
+            "quantity": 1,
+            "unit_price": 255.58,
+            "total_price": 255.58
+        }
+    ],
+    "amount": 709.54
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Baker PLC",
+    "invoice_number": "INV-99315",
+    "date": "2025-04-27",
+    "items": [
+        {
+            "description": "Streamlined reciprocal secured line",
+            "quantity": 3,
+            "unit_price": 448.6,
+            "total_price": 1345.8
+        }
+    ],
+    "amount": 1345.8
+}

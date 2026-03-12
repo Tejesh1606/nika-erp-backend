@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mcgee, Parsons and Esparza",
+    "invoice_number": "INV-97914",
+    "date": "2025-11-19",
+    "items": [
+        {
+            "description": "Cross-group zero-defect Local Area Network",
+            "quantity": 8,
+            "unit_price": 357.8,
+            "total_price": 2862.4
+        }
+    ],
+    "amount": 2862.4
+}

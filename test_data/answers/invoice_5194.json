@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Shaffer, Johnson and Lang",
+    "invoice_number": "INV-17962",
+    "date": "2025-05-07",
+    "items": [
+        {
+            "description": "Front-line needs-based open architecture",
+            "quantity": 2,
+            "unit_price": 115.94,
+            "total_price": 231.88
+        }
+    ],
+    "amount": 231.88
+}

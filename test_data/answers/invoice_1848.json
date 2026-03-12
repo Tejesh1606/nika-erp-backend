@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Miles-Campbell",
+    "invoice_number": "INV-89930",
+    "date": "2025-08-02",
+    "items": [
+        {
+            "description": "Networked needs-based encryption",
+            "quantity": 8,
+            "unit_price": 97.65,
+            "total_price": 781.2
+        },
+        {
+            "description": "Up-sized empowering pricing structure",
+            "quantity": 1,
+            "unit_price": 283.36,
+            "total_price": 283.36
+        }
+    ],
+    "amount": 1064.56
+}

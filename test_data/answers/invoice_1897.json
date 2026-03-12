@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Taylor, Bennett and Johnson",
+    "invoice_number": "INV-21736",
+    "date": "2026-02-06",
+    "items": [
+        {
+            "description": "Upgradable radical moratorium",
+            "quantity": 3,
+            "unit_price": 307.31,
+            "total_price": 921.93
+        },
+        {
+            "description": "User-friendly homogeneous strategy",
+            "quantity": 3,
+            "unit_price": 262.41,
+            "total_price": 787.23
+        }
+    ],
+    "amount": 1709.16
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Blair, Campbell and Barrera",
+    "invoice_number": "INV-55990",
+    "date": "2026-02-17",
+    "items": [
+        {
+            "description": "Decentralized transitional website",
+            "quantity": 1,
+            "unit_price": 13.43,
+            "total_price": 13.43
+        },
+        {
+            "description": "Reverse-engineered 5thgeneration initiative",
+            "quantity": 10,
+            "unit_price": 395.26,
+            "total_price": 3952.6
+        },
+        {
+            "description": "Organic mobile framework",
+            "quantity": 10,
+            "unit_price": 103.31,
+            "total_price": 1033.1
+        }
+    ],
+    "amount": 4999.13
+}

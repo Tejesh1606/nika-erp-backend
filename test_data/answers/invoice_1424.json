@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Johnson-Valenzuela",
+    "invoice_number": "INV-99694",
+    "date": "2025-06-07",
+    "items": [
+        {
+            "description": "Adaptive homogeneous ability",
+            "quantity": 7,
+            "unit_price": 40.35,
+            "total_price": 282.45
+        }
+    ],
+    "amount": 282.45
+}

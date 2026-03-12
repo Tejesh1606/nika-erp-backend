@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Sheppard, Ortiz and Hill",
+    "invoice_number": "INV-34574",
+    "date": "2025-05-05",
+    "items": [
+        {
+            "description": "Universal 24/7 concept",
+            "quantity": 2,
+            "unit_price": 127.74,
+            "total_price": 255.48
+        },
+        {
+            "description": "Cloned composite customer loyalty",
+            "quantity": 7,
+            "unit_price": 404.56,
+            "total_price": 2831.92
+        },
+        {
+            "description": "User-friendly upward-trending matrix",
+            "quantity": 8,
+            "unit_price": 372.43,
+            "total_price": 2979.44
+        },
+        {
+            "description": "Synergized value-added circuit",
+            "quantity": 5,
+            "unit_price": 110.08,
+            "total_price": 550.4
+        }
+    ],
+    "amount": 6617.24
+}

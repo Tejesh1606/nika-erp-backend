@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Norman Group",
+    "invoice_number": "INV-79727",
+    "date": "2026-02-02",
+    "items": [
+        {
+            "description": "Function-based upward-trending hardware",
+            "quantity": 8,
+            "unit_price": 488.2,
+            "total_price": 3905.6
+        },
+        {
+            "description": "Synchronized multi-state focus group",
+            "quantity": 5,
+            "unit_price": 245.95,
+            "total_price": 1229.75
+        }
+    ],
+    "amount": 5135.35
+}

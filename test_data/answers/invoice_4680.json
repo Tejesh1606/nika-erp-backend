@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Roth Group",
+    "invoice_number": "INV-75312",
+    "date": "2025-10-09",
+    "items": [
+        {
+            "description": "Assimilated asymmetric service-desk",
+            "quantity": 6,
+            "unit_price": 406.55,
+            "total_price": 2439.3
+        }
+    ],
+    "amount": 2439.3
+}

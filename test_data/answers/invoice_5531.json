@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Marshall-Kelly",
+    "invoice_number": "INV-52909",
+    "date": "2026-01-30",
+    "items": [
+        {
+            "description": "Digitized composite instruction set",
+            "quantity": 7,
+            "unit_price": 390.15,
+            "total_price": 2731.05
+        }
+    ],
+    "amount": 2731.05
+}

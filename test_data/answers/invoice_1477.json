@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Woods, Thomas and Decker",
+    "invoice_number": "INV-59155",
+    "date": "2025-10-08",
+    "items": [
+        {
+            "description": "Assimilated responsive Internet solution",
+            "quantity": 10,
+            "unit_price": 100.26,
+            "total_price": 1002.6
+        },
+        {
+            "description": "Stand-alone fresh-thinking infrastructure",
+            "quantity": 1,
+            "unit_price": 277.29,
+            "total_price": 277.29
+        },
+        {
+            "description": "Enhanced fresh-thinking pricing structure",
+            "quantity": 5,
+            "unit_price": 403.88,
+            "total_price": 2019.4
+        }
+    ],
+    "amount": 3299.29
+}

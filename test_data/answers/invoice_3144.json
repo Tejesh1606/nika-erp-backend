@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gonzalez, Rivas and Davila",
+    "invoice_number": "INV-85873",
+    "date": "2025-07-09",
+    "items": [
+        {
+            "description": "Virtual grid-enabled architecture",
+            "quantity": 8,
+            "unit_price": 202.66,
+            "total_price": 1621.28
+        },
+        {
+            "description": "Re-contextualized secondary circuit",
+            "quantity": 2,
+            "unit_price": 90.57,
+            "total_price": 181.14
+        }
+    ],
+    "amount": 1802.42
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jacobs, Jacobs and Romero",
+    "invoice_number": "INV-15564",
+    "date": "2026-01-08",
+    "items": [
+        {
+            "description": "Triple-buffered mobile capability",
+            "quantity": 8,
+            "unit_price": 465.59,
+            "total_price": 3724.72
+        },
+        {
+            "description": "Total impactful matrix",
+            "quantity": 9,
+            "unit_price": 152.05,
+            "total_price": 1368.45
+        }
+    ],
+    "amount": 5093.17
+}

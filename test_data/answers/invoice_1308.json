@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Willis PLC",
+    "invoice_number": "INV-72558",
+    "date": "2025-09-05",
+    "items": [
+        {
+            "description": "Cross-platform national toolset",
+            "quantity": 2,
+            "unit_price": 423.97,
+            "total_price": 847.94
+        },
+        {
+            "description": "Business-focused foreground utilization",
+            "quantity": 3,
+            "unit_price": 303.18,
+            "total_price": 909.54
+        }
+    ],
+    "amount": 1757.48
+}

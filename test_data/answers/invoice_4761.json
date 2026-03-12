@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cowan-Lee",
+    "invoice_number": "INV-31986",
+    "date": "2025-03-25",
+    "items": [
+        {
+            "description": "Distributed exuding product",
+            "quantity": 9,
+            "unit_price": 385.48,
+            "total_price": 3469.32
+        }
+    ],
+    "amount": 3469.32
+}

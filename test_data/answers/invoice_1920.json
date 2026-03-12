@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Davis-Marquez",
+    "invoice_number": "INV-62797",
+    "date": "2026-03-09",
+    "items": [
+        {
+            "description": "Devolved intermediate flexibility",
+            "quantity": 7,
+            "unit_price": 30.93,
+            "total_price": 216.51
+        },
+        {
+            "description": "Enhanced cohesive circuit",
+            "quantity": 5,
+            "unit_price": 387.06,
+            "total_price": 1935.3
+        }
+    ],
+    "amount": 2151.81
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Scott Group",
+    "invoice_number": "INV-81945",
+    "date": "2025-09-02",
+    "items": [
+        {
+            "description": "Switchable bandwidth-monitored secured line",
+            "quantity": 7,
+            "unit_price": 154.82,
+            "total_price": 1083.74
+        },
+        {
+            "description": "Mandatory well-modulated model",
+            "quantity": 8,
+            "unit_price": 88.83,
+            "total_price": 710.64
+        },
+        {
+            "description": "Fundamental asymmetric toolset",
+            "quantity": 2,
+            "unit_price": 395.18,
+            "total_price": 790.36
+        },
+        {
+            "description": "Multi-lateral interactive project",
+            "quantity": 7,
+            "unit_price": 443.66,
+            "total_price": 3105.62
+        }
+    ],
+    "amount": 5690.36
+}

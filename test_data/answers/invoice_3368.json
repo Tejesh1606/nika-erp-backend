@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Walters-Donaldson",
+    "invoice_number": "INV-26761",
+    "date": "2025-07-26",
+    "items": [
+        {
+            "description": "Stand-alone mobile neural-net",
+            "quantity": 1,
+            "unit_price": 426.28,
+            "total_price": 426.28
+        },
+        {
+            "description": "Self-enabling 24/7 flexibility",
+            "quantity": 1,
+            "unit_price": 474.95,
+            "total_price": 474.95
+        }
+    ],
+    "amount": 901.23
+}

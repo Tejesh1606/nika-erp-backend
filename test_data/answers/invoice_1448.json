@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Miller-Cole",
+    "invoice_number": "INV-98055",
+    "date": "2025-04-10",
+    "items": [
+        {
+            "description": "Synchronized foreground migration",
+            "quantity": 2,
+            "unit_price": 420.95,
+            "total_price": 841.9
+        },
+        {
+            "description": "Customizable 3rdgeneration workforce",
+            "quantity": 1,
+            "unit_price": 222.75,
+            "total_price": 222.75
+        },
+        {
+            "description": "De-engineered well-modulated benchmark",
+            "quantity": 10,
+            "unit_price": 477.27,
+            "total_price": 4772.7
+        },
+        {
+            "description": "Fully-configurable asynchronous conglomeration",
+            "quantity": 3,
+            "unit_price": 135.48,
+            "total_price": 406.44
+        }
+    ],
+    "amount": 6243.79
+}

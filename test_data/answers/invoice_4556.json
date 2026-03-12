@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jones LLC",
+    "invoice_number": "INV-60050",
+    "date": "2025-08-29",
+    "items": [
+        {
+            "description": "Virtual upward-trending model",
+            "quantity": 7,
+            "unit_price": 316.31,
+            "total_price": 2214.17
+        },
+        {
+            "description": "Cloned even-keeled adapter",
+            "quantity": 2,
+            "unit_price": 199.87,
+            "total_price": 399.74
+        },
+        {
+            "description": "Public-key cohesive monitoring",
+            "quantity": 4,
+            "unit_price": 412.57,
+            "total_price": 1650.28
+        }
+    ],
+    "amount": 4264.19
+}

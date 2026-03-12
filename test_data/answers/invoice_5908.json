@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Arellano-Miller",
+    "invoice_number": "INV-44403",
+    "date": "2025-05-16",
+    "items": [
+        {
+            "description": "Decentralized responsive hub",
+            "quantity": 3,
+            "unit_price": 198.32,
+            "total_price": 594.96
+        }
+    ],
+    "amount": 594.96
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mclaughlin and Sons",
+    "invoice_number": "INV-34129",
+    "date": "2025-09-25",
+    "items": [
+        {
+            "description": "Business-focused optimal productivity",
+            "quantity": 8,
+            "unit_price": 156.48,
+            "total_price": 1251.84
+        }
+    ],
+    "amount": 1251.84
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Howard, Young and Nichols",
+    "invoice_number": "INV-17979",
+    "date": "2026-01-13",
+    "items": [
+        {
+            "description": "Versatile zero administration analyzer",
+            "quantity": 3,
+            "unit_price": 314.92,
+            "total_price": 944.76
+        }
+    ],
+    "amount": 944.76
+}

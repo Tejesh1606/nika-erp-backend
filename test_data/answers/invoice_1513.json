@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Porter LLC",
+    "invoice_number": "INV-14068",
+    "date": "2025-06-16",
+    "items": [
+        {
+            "description": "Total methodical website",
+            "quantity": 9,
+            "unit_price": 338.5,
+            "total_price": 3046.5
+        },
+        {
+            "description": "Networked web-enabled monitoring",
+            "quantity": 2,
+            "unit_price": 104.15,
+            "total_price": 208.3
+        },
+        {
+            "description": "Visionary bandwidth-monitored interface",
+            "quantity": 7,
+            "unit_price": 266.56,
+            "total_price": 1865.92
+        },
+        {
+            "description": "Team-oriented optimizing process improvement",
+            "quantity": 10,
+            "unit_price": 467.04,
+            "total_price": 4670.4
+        }
+    ],
+    "amount": 9791.12
+}

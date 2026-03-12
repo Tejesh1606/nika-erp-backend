@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wright Group",
+    "invoice_number": "INV-40040",
+    "date": "2025-07-15",
+    "items": [
+        {
+            "description": "Configurable actuating forecast",
+            "quantity": 7,
+            "unit_price": 108.73,
+            "total_price": 761.11
+        }
+    ],
+    "amount": 761.11
+}

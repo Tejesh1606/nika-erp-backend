@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hale, Mitchell and Cooper",
+    "invoice_number": "INV-74585",
+    "date": "2025-12-14",
+    "items": [
+        {
+            "description": "Re-contextualized maximized challenge",
+            "quantity": 10,
+            "unit_price": 447.34,
+            "total_price": 4473.4
+        },
+        {
+            "description": "Multi-layered bifurcated model",
+            "quantity": 1,
+            "unit_price": 357.63,
+            "total_price": 357.63
+        }
+    ],
+    "amount": 4831.03
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Nelson PLC",
+    "invoice_number": "INV-66365",
+    "date": "2025-05-13",
+    "items": [
+        {
+            "description": "Seamless dedicated architecture",
+            "quantity": 10,
+            "unit_price": 201.81,
+            "total_price": 2018.1
+        },
+        {
+            "description": "Seamless web-enabled benchmark",
+            "quantity": 6,
+            "unit_price": 12.11,
+            "total_price": 72.66
+        }
+    ],
+    "amount": 2090.76
+}

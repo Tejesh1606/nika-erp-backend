@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Castillo LLC",
+    "invoice_number": "INV-67719",
+    "date": "2025-04-29",
+    "items": [
+        {
+            "description": "Optimized empowering strategy",
+            "quantity": 4,
+            "unit_price": 56.93,
+            "total_price": 227.72
+        },
+        {
+            "description": "Extended radical database",
+            "quantity": 3,
+            "unit_price": 76.61,
+            "total_price": 229.83
+        },
+        {
+            "description": "Exclusive 24/7 framework",
+            "quantity": 2,
+            "unit_price": 471.4,
+            "total_price": 942.8
+        }
+    ],
+    "amount": 1400.35
+}

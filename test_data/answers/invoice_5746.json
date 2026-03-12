@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Garrett and Sons",
+    "invoice_number": "INV-49502",
+    "date": "2025-09-22",
+    "items": [
+        {
+            "description": "Synchronized object-oriented artificial intelligence",
+            "quantity": 9,
+            "unit_price": 134.82,
+            "total_price": 1213.38
+        },
+        {
+            "description": "Horizontal analyzing capacity",
+            "quantity": 3,
+            "unit_price": 256.39,
+            "total_price": 769.17
+        },
+        {
+            "description": "Object-based optimizing project",
+            "quantity": 9,
+            "unit_price": 301.79,
+            "total_price": 2716.11
+        }
+    ],
+    "amount": 4698.66
+}

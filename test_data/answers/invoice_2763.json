@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Snyder, Brown and Rogers",
+    "invoice_number": "INV-53244",
+    "date": "2025-12-14",
+    "items": [
+        {
+            "description": "Seamless optimizing moratorium",
+            "quantity": 7,
+            "unit_price": 257.49,
+            "total_price": 1802.43
+        },
+        {
+            "description": "Digitized clear-thinking service-desk",
+            "quantity": 6,
+            "unit_price": 86.34,
+            "total_price": 518.04
+        },
+        {
+            "description": "Triple-buffered uniform instruction set",
+            "quantity": 9,
+            "unit_price": 429.63,
+            "total_price": 3866.67
+        }
+    ],
+    "amount": 6187.14
+}

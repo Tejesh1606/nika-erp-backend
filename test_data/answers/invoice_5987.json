@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Pierce-Robertson",
+    "invoice_number": "INV-81494",
+    "date": "2025-04-20",
+    "items": [
+        {
+            "description": "Visionary reciprocal moratorium",
+            "quantity": 10,
+            "unit_price": 101.86,
+            "total_price": 1018.6
+        }
+    ],
+    "amount": 1018.6
+}

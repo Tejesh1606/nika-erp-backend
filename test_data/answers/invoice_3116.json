@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Simpson, Sharp and Hickman",
+    "invoice_number": "INV-35700",
+    "date": "2026-01-10",
+    "items": [
+        {
+            "description": "User-friendly next generation hardware",
+            "quantity": 6,
+            "unit_price": 146.54,
+            "total_price": 879.24
+        },
+        {
+            "description": "Progressive homogeneous groupware",
+            "quantity": 4,
+            "unit_price": 428.14,
+            "total_price": 1712.56
+        },
+        {
+            "description": "Switchable dynamic process improvement",
+            "quantity": 4,
+            "unit_price": 438.25,
+            "total_price": 1753.0
+        }
+    ],
+    "amount": 4344.8
+}

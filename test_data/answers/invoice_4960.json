@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ellis Inc",
+    "invoice_number": "INV-13377",
+    "date": "2025-05-28",
+    "items": [
+        {
+            "description": "Proactive needs-based array",
+            "quantity": 1,
+            "unit_price": 98.53,
+            "total_price": 98.53
+        },
+        {
+            "description": "Adaptive bifurcated ability",
+            "quantity": 8,
+            "unit_price": 278.59,
+            "total_price": 2228.72
+        },
+        {
+            "description": "Fully-configurable scalable circuit",
+            "quantity": 8,
+            "unit_price": 370.4,
+            "total_price": 2963.2
+        }
+    ],
+    "amount": 5290.45
+}

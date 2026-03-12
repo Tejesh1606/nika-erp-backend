@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Larson-Alvarez",
+    "invoice_number": "INV-60709",
+    "date": "2025-07-08",
+    "items": [
+        {
+            "description": "Decentralized client-driven contingency",
+            "quantity": 2,
+            "unit_price": 233.19,
+            "total_price": 466.38
+        }
+    ],
+    "amount": 466.38
+}

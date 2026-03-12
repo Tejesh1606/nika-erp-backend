@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Williams-Johnson",
+    "invoice_number": "INV-35929",
+    "date": "2025-06-27",
+    "items": [
+        {
+            "description": "Enhanced directional firmware",
+            "quantity": 8,
+            "unit_price": 376.24,
+            "total_price": 3009.92
+        },
+        {
+            "description": "Up-sized context-sensitive Graphical User Interface",
+            "quantity": 1,
+            "unit_price": 478.19,
+            "total_price": 478.19
+        },
+        {
+            "description": "Reactive dynamic conglomeration",
+            "quantity": 3,
+            "unit_price": 237.32,
+            "total_price": 711.96
+        }
+    ],
+    "amount": 4200.07
+}

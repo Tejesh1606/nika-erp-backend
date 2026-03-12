@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Oneill, Oconnor and Wang",
+    "invoice_number": "INV-50134",
+    "date": "2026-01-01",
+    "items": [
+        {
+            "description": "Right-sized stable application",
+            "quantity": 5,
+            "unit_price": 73.3,
+            "total_price": 366.5
+        }
+    ],
+    "amount": 366.5
+}

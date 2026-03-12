@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Villarreal, Hughes and Williams",
+    "invoice_number": "INV-41497",
+    "date": "2025-10-20",
+    "items": [
+        {
+            "description": "Reactive methodical migration",
+            "quantity": 5,
+            "unit_price": 469.11,
+            "total_price": 2345.55
+        }
+    ],
+    "amount": 2345.55
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bailey Ltd",
+    "invoice_number": "INV-80627",
+    "date": "2025-03-29",
+    "items": [
+        {
+            "description": "Networked responsive matrices",
+            "quantity": 7,
+            "unit_price": 415.78,
+            "total_price": 2910.46
+        },
+        {
+            "description": "Ameliorated object-oriented archive",
+            "quantity": 3,
+            "unit_price": 60.83,
+            "total_price": 182.49
+        }
+    ],
+    "amount": 3092.95
+}

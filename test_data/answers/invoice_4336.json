@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Flores and Sons",
+    "invoice_number": "INV-56671",
+    "date": "2025-07-12",
+    "items": [
+        {
+            "description": "Streamlined motivating model",
+            "quantity": 10,
+            "unit_price": 130.03,
+            "total_price": 1300.3
+        }
+    ],
+    "amount": 1300.3
+}

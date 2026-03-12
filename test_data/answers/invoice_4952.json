@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wagner, Harmon and Mccullough",
+    "invoice_number": "INV-90124",
+    "date": "2026-02-12",
+    "items": [
+        {
+            "description": "Public-key demand-driven installation",
+            "quantity": 4,
+            "unit_price": 71.02,
+            "total_price": 284.08
+        },
+        {
+            "description": "Proactive multi-state firmware",
+            "quantity": 4,
+            "unit_price": 103.06,
+            "total_price": 412.24
+        },
+        {
+            "description": "Seamless 24/7 encoding",
+            "quantity": 1,
+            "unit_price": 230.51,
+            "total_price": 230.51
+        },
+        {
+            "description": "Devolved background knowledge user",
+            "quantity": 1,
+            "unit_price": 94.77,
+            "total_price": 94.77
+        }
+    ],
+    "amount": 1021.6
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Clark, Bartlett and Gay",
+    "invoice_number": "INV-56872",
+    "date": "2025-10-28",
+    "items": [
+        {
+            "description": "User-centric encompassing concept",
+            "quantity": 2,
+            "unit_price": 422.04,
+            "total_price": 844.08
+        }
+    ],
+    "amount": 844.08
+}

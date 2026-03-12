@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Carroll, Robinson and Torres",
+    "invoice_number": "INV-94275",
+    "date": "2025-09-25",
+    "items": [
+        {
+            "description": "Automated maximized process improvement",
+            "quantity": 3,
+            "unit_price": 265.91,
+            "total_price": 797.73
+        },
+        {
+            "description": "Pre-emptive analyzing help-desk",
+            "quantity": 3,
+            "unit_price": 35.16,
+            "total_price": 105.48
+        },
+        {
+            "description": "Adaptive reciprocal knowledgebase",
+            "quantity": 1,
+            "unit_price": 332.48,
+            "total_price": 332.48
+        }
+    ],
+    "amount": 1235.69
+}

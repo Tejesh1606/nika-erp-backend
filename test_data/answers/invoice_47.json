@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Sanchez Group",
+    "invoice_number": "INV-90120",
+    "date": "2026-02-02",
+    "items": [
+        {
+            "description": "Visionary asynchronous knowledgebase",
+            "quantity": 8,
+            "unit_price": 489.51,
+            "total_price": 3916.08
+        }
+    ],
+    "amount": 3916.08
+}

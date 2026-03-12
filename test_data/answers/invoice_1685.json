@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Moore Inc",
+    "invoice_number": "INV-28546",
+    "date": "2025-12-04",
+    "items": [
+        {
+            "description": "Open-architected regional service-desk",
+            "quantity": 1,
+            "unit_price": 421.97,
+            "total_price": 421.97
+        },
+        {
+            "description": "Implemented uniform concept",
+            "quantity": 9,
+            "unit_price": 171.64,
+            "total_price": 1544.76
+        },
+        {
+            "description": "Programmable object-oriented project",
+            "quantity": 9,
+            "unit_price": 334.33,
+            "total_price": 3008.97
+        },
+        {
+            "description": "Synchronized static superstructure",
+            "quantity": 1,
+            "unit_price": 260.07,
+            "total_price": 260.07
+        }
+    ],
+    "amount": 5235.77
+}

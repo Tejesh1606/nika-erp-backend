@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Harris-Fletcher",
+    "invoice_number": "INV-90748",
+    "date": "2025-08-24",
+    "items": [
+        {
+            "description": "Implemented transitional array",
+            "quantity": 5,
+            "unit_price": 73.36,
+            "total_price": 366.8
+        }
+    ],
+    "amount": 366.8
+}

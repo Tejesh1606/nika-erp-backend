@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Davis-Rose",
+    "invoice_number": "INV-54398",
+    "date": "2026-01-08",
+    "items": [
+        {
+            "description": "Fully-configurable logistical analyzer",
+            "quantity": 9,
+            "unit_price": 286.68,
+            "total_price": 2580.12
+        },
+        {
+            "description": "Adaptive modular approach",
+            "quantity": 6,
+            "unit_price": 105.23,
+            "total_price": 631.38
+        },
+        {
+            "description": "Ameliorated bandwidth-monitored ability",
+            "quantity": 9,
+            "unit_price": 65.23,
+            "total_price": 587.07
+        }
+    ],
+    "amount": 3798.57
+}

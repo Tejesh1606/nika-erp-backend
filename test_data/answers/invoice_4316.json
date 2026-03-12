@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Brown, Shaw and Harris",
+    "invoice_number": "INV-26087",
+    "date": "2025-05-06",
+    "items": [
+        {
+            "description": "Synchronized bottom-line knowledgebase",
+            "quantity": 1,
+            "unit_price": 100.87,
+            "total_price": 100.87
+        },
+        {
+            "description": "Reduced full-range portal",
+            "quantity": 10,
+            "unit_price": 386.19,
+            "total_price": 3861.9
+        },
+        {
+            "description": "Devolved neutral collaboration",
+            "quantity": 9,
+            "unit_price": 169.68,
+            "total_price": 1527.12
+        },
+        {
+            "description": "Vision-oriented cohesive database",
+            "quantity": 4,
+            "unit_price": 197.57,
+            "total_price": 790.28
+        }
+    ],
+    "amount": 6280.17
+}

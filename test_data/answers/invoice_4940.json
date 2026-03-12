@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Schultz Inc",
+    "invoice_number": "INV-38702",
+    "date": "2025-05-22",
+    "items": [
+        {
+            "description": "User-friendly well-modulated attitude",
+            "quantity": 2,
+            "unit_price": 139.62,
+            "total_price": 279.24
+        }
+    ],
+    "amount": 279.24
+}

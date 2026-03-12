@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Lawrence, Flynn and Steele",
+    "invoice_number": "INV-74954",
+    "date": "2025-09-03",
+    "items": [
+        {
+            "description": "Decentralized next generation Graphic Interface",
+            "quantity": 10,
+            "unit_price": 116.7,
+            "total_price": 1167.0
+        },
+        {
+            "description": "Ergonomic transitional initiative",
+            "quantity": 4,
+            "unit_price": 222.19,
+            "total_price": 888.76
+        }
+    ],
+    "amount": 2055.76
+}

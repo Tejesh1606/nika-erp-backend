@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lucas-Nielsen",
+    "invoice_number": "INV-58637",
+    "date": "2025-04-13",
+    "items": [
+        {
+            "description": "Public-key uniform core",
+            "quantity": 4,
+            "unit_price": 134.44,
+            "total_price": 537.76
+        }
+    ],
+    "amount": 537.76
+}

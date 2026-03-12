@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Choi Group",
+    "invoice_number": "INV-32460",
+    "date": "2025-05-14",
+    "items": [
+        {
+            "description": "Triple-buffered fresh-thinking system engine",
+            "quantity": 4,
+            "unit_price": 314.19,
+            "total_price": 1256.76
+        },
+        {
+            "description": "User-centric bi-directional portal",
+            "quantity": 5,
+            "unit_price": 125.6,
+            "total_price": 628.0
+        },
+        {
+            "description": "Exclusive content-based functionalities",
+            "quantity": 4,
+            "unit_price": 367.21,
+            "total_price": 1468.84
+        },
+        {
+            "description": "Operative clear-thinking website",
+            "quantity": 3,
+            "unit_price": 469.59,
+            "total_price": 1408.77
+        }
+    ],
+    "amount": 4762.37
+}

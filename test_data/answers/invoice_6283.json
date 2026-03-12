@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cannon-Hahn",
+    "invoice_number": "INV-28488",
+    "date": "2026-03-05",
+    "items": [
+        {
+            "description": "Advanced 5thgeneration standardization",
+            "quantity": 2,
+            "unit_price": 216.72,
+            "total_price": 433.44
+        },
+        {
+            "description": "Synergized neutral info-mediaries",
+            "quantity": 9,
+            "unit_price": 59.83,
+            "total_price": 538.47
+        }
+    ],
+    "amount": 971.91
+}

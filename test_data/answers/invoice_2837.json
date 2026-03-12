@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith-Coleman",
+    "invoice_number": "INV-33288",
+    "date": "2025-09-23",
+    "items": [
+        {
+            "description": "User-friendly content-based flexibility",
+            "quantity": 10,
+            "unit_price": 481.45,
+            "total_price": 4814.5
+        },
+        {
+            "description": "Open-source content-based customer loyalty",
+            "quantity": 8,
+            "unit_price": 440.22,
+            "total_price": 3521.76
+        },
+        {
+            "description": "Innovative systematic model",
+            "quantity": 5,
+            "unit_price": 219.99,
+            "total_price": 1099.95
+        }
+    ],
+    "amount": 9436.21
+}

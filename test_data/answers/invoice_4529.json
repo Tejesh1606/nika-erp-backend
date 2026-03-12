@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Lewis, Evans and Simpson",
+    "invoice_number": "INV-60190",
+    "date": "2026-02-13",
+    "items": [
+        {
+            "description": "Cloned reciprocal interface",
+            "quantity": 3,
+            "unit_price": 364.52,
+            "total_price": 1093.56
+        },
+        {
+            "description": "User-friendly bandwidth-monitored Local Area Network",
+            "quantity": 6,
+            "unit_price": 422.31,
+            "total_price": 2533.86
+        }
+    ],
+    "amount": 3627.42
+}

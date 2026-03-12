@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Thompson, Taylor and Peters",
+    "invoice_number": "INV-57223",
+    "date": "2026-01-29",
+    "items": [
+        {
+            "description": "Operative coherent forecast",
+            "quantity": 7,
+            "unit_price": 107.6,
+            "total_price": 753.2
+        },
+        {
+            "description": "Synchronized clear-thinking challenge",
+            "quantity": 1,
+            "unit_price": 22.37,
+            "total_price": 22.37
+        },
+        {
+            "description": "Advanced asynchronous project",
+            "quantity": 7,
+            "unit_price": 399.68,
+            "total_price": 2797.76
+        }
+    ],
+    "amount": 3573.33
+}

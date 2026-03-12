@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Melendez-Guerrero",
+    "invoice_number": "INV-66028",
+    "date": "2025-10-31",
+    "items": [
+        {
+            "description": "Function-based zero-defect throughput",
+            "quantity": 1,
+            "unit_price": 277.66,
+            "total_price": 277.66
+        }
+    ],
+    "amount": 277.66
+}

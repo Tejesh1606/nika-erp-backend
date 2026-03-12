@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Massey, Brooks and Hartman",
+    "invoice_number": "INV-33387",
+    "date": "2025-08-23",
+    "items": [
+        {
+            "description": "Total optimizing challenge",
+            "quantity": 6,
+            "unit_price": 299.88,
+            "total_price": 1799.28
+        }
+    ],
+    "amount": 1799.28
+}

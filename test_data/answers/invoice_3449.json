@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Waters-Fletcher",
+    "invoice_number": "INV-61921",
+    "date": "2025-04-27",
+    "items": [
+        {
+            "description": "Cross-platform stable projection",
+            "quantity": 2,
+            "unit_price": 371.55,
+            "total_price": 743.1
+        },
+        {
+            "description": "Automated mission-critical frame",
+            "quantity": 10,
+            "unit_price": 417.12,
+            "total_price": 4171.2
+        },
+        {
+            "description": "Universal attitude-oriented extranet",
+            "quantity": 2,
+            "unit_price": 231.45,
+            "total_price": 462.9
+        },
+        {
+            "description": "Fundamental directional ability",
+            "quantity": 10,
+            "unit_price": 51.07,
+            "total_price": 510.7
+        }
+    ],
+    "amount": 5887.9
+}

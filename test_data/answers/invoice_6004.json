@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Carter, Wood and Keller",
+    "invoice_number": "INV-55877",
+    "date": "2025-12-16",
+    "items": [
+        {
+            "description": "Horizontal zero administration forecast",
+            "quantity": 1,
+            "unit_price": 45.36,
+            "total_price": 45.36
+        },
+        {
+            "description": "Polarized cohesive intranet",
+            "quantity": 1,
+            "unit_price": 400.33,
+            "total_price": 400.33
+        },
+        {
+            "description": "Programmable modular strategy",
+            "quantity": 7,
+            "unit_price": 376.0,
+            "total_price": 2632.0
+        },
+        {
+            "description": "Right-sized context-sensitive frame",
+            "quantity": 4,
+            "unit_price": 98.11,
+            "total_price": 392.44
+        }
+    ],
+    "amount": 3470.13
+}

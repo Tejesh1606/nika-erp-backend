@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mercer-Hughes",
+    "invoice_number": "INV-47176",
+    "date": "2025-11-27",
+    "items": [
+        {
+            "description": "Front-line coherent adapter",
+            "quantity": 4,
+            "unit_price": 291.28,
+            "total_price": 1165.12
+        },
+        {
+            "description": "Expanded background methodology",
+            "quantity": 6,
+            "unit_price": 258.27,
+            "total_price": 1549.62
+        },
+        {
+            "description": "Team-oriented client-driven protocol",
+            "quantity": 5,
+            "unit_price": 242.45,
+            "total_price": 1212.25
+        }
+    ],
+    "amount": 3926.99
+}

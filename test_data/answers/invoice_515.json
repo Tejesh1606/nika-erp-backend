@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Huff, Barrett and Fox",
+    "invoice_number": "INV-87371",
+    "date": "2025-06-16",
+    "items": [
+        {
+            "description": "Business-focused high-level definition",
+            "quantity": 7,
+            "unit_price": 343.43,
+            "total_price": 2404.01
+        }
+    ],
+    "amount": 2404.01
+}

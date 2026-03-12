@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Kirby-Pham",
+    "invoice_number": "INV-94662",
+    "date": "2025-08-28",
+    "items": [
+        {
+            "description": "Configurable executive policy",
+            "quantity": 9,
+            "unit_price": 64.93,
+            "total_price": 584.37
+        },
+        {
+            "description": "Down-sized 3rdgeneration toolset",
+            "quantity": 1,
+            "unit_price": 298.57,
+            "total_price": 298.57
+        }
+    ],
+    "amount": 882.94
+}

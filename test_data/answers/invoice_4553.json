@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Escobar, Hernandez and Strickland",
+    "invoice_number": "INV-69673",
+    "date": "2025-07-22",
+    "items": [
+        {
+            "description": "Secured impactful moderator",
+            "quantity": 2,
+            "unit_price": 414.34,
+            "total_price": 828.68
+        },
+        {
+            "description": "User-centric hybrid monitoring",
+            "quantity": 8,
+            "unit_price": 48.19,
+            "total_price": 385.52
+        }
+    ],
+    "amount": 1214.2
+}

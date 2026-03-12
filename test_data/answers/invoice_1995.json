@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Sheppard, Hays and Valentine",
+    "invoice_number": "INV-34465",
+    "date": "2026-02-17",
+    "items": [
+        {
+            "description": "Multi-lateral static approach",
+            "quantity": 3,
+            "unit_price": 90.45,
+            "total_price": 271.35
+        },
+        {
+            "description": "Multi-lateral national encoding",
+            "quantity": 9,
+            "unit_price": 101.22,
+            "total_price": 910.98
+        },
+        {
+            "description": "Face-to-face dynamic firmware",
+            "quantity": 7,
+            "unit_price": 308.57,
+            "total_price": 2159.99
+        }
+    ],
+    "amount": 3342.32
+}

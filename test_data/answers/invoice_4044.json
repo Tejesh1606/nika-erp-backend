@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Andrews-Stewart",
+    "invoice_number": "INV-43484",
+    "date": "2025-12-19",
+    "items": [
+        {
+            "description": "Cloned composite open system",
+            "quantity": 4,
+            "unit_price": 112.62,
+            "total_price": 450.48
+        },
+        {
+            "description": "Reactive system-worthy concept",
+            "quantity": 3,
+            "unit_price": 424.52,
+            "total_price": 1273.56
+        },
+        {
+            "description": "Implemented web-enabled task-force",
+            "quantity": 4,
+            "unit_price": 411.08,
+            "total_price": 1644.32
+        }
+    ],
+    "amount": 3368.36
+}

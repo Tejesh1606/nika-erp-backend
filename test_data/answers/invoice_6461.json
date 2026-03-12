@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Thompson-Johnson",
+    "invoice_number": "INV-28013",
+    "date": "2025-07-02",
+    "items": [
+        {
+            "description": "Configurable systematic policy",
+            "quantity": 8,
+            "unit_price": 415.69,
+            "total_price": 3325.52
+        },
+        {
+            "description": "Reactive solution-oriented hierarchy",
+            "quantity": 6,
+            "unit_price": 191.47,
+            "total_price": 1148.82
+        },
+        {
+            "description": "Persistent logistical superstructure",
+            "quantity": 3,
+            "unit_price": 452.53,
+            "total_price": 1357.59
+        },
+        {
+            "description": "Profound methodical data-warehouse",
+            "quantity": 9,
+            "unit_price": 297.83,
+            "total_price": 2680.47
+        }
+    ],
+    "amount": 8512.4
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jackson-Gates",
+    "invoice_number": "INV-89593",
+    "date": "2025-11-14",
+    "items": [
+        {
+            "description": "Focused heuristic contingency",
+            "quantity": 3,
+            "unit_price": 318.13,
+            "total_price": 954.39
+        },
+        {
+            "description": "Operative 24hour artificial intelligence",
+            "quantity": 5,
+            "unit_price": 493.71,
+            "total_price": 2468.55
+        },
+        {
+            "description": "Persistent responsive knowledge user",
+            "quantity": 8,
+            "unit_price": 456.02,
+            "total_price": 3648.16
+        },
+        {
+            "description": "Enhanced intangible Graphical User Interface",
+            "quantity": 9,
+            "unit_price": 134.51,
+            "total_price": 1210.59
+        }
+    ],
+    "amount": 8281.69
+}

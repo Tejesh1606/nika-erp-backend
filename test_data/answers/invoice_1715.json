@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Bender, Fisher and Weber",
+    "invoice_number": "INV-59265",
+    "date": "2026-02-09",
+    "items": [
+        {
+            "description": "Vision-oriented stable frame",
+            "quantity": 8,
+            "unit_price": 72.05,
+            "total_price": 576.4
+        },
+        {
+            "description": "Reactive secondary portal",
+            "quantity": 1,
+            "unit_price": 51.89,
+            "total_price": 51.89
+        },
+        {
+            "description": "Virtual radical synergy",
+            "quantity": 2,
+            "unit_price": 160.88,
+            "total_price": 321.76
+        },
+        {
+            "description": "Upgradable systematic service-desk",
+            "quantity": 1,
+            "unit_price": 132.31,
+            "total_price": 132.31
+        }
+    ],
+    "amount": 1082.36
+}

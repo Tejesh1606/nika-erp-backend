@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Flores, Rose and Andrews",
+    "invoice_number": "INV-79720",
+    "date": "2025-09-27",
+    "items": [
+        {
+            "description": "Object-based web-enabled moratorium",
+            "quantity": 8,
+            "unit_price": 160.02,
+            "total_price": 1280.16
+        }
+    ],
+    "amount": 1280.16
+}

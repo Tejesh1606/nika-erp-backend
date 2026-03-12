@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hawkins Ltd",
+    "invoice_number": "INV-29824",
+    "date": "2025-03-13",
+    "items": [
+        {
+            "description": "Fully-configurable needs-based ability",
+            "quantity": 1,
+            "unit_price": 445.95,
+            "total_price": 445.95
+        },
+        {
+            "description": "Synergized interactive service-desk",
+            "quantity": 4,
+            "unit_price": 406.4,
+            "total_price": 1625.6
+        },
+        {
+            "description": "Triple-buffered uniform paradigm",
+            "quantity": 5,
+            "unit_price": 320.0,
+            "total_price": 1600.0
+        }
+    ],
+    "amount": 3671.55
+}

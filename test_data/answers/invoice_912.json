@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brooks Ltd",
+    "invoice_number": "INV-27607",
+    "date": "2025-05-24",
+    "items": [
+        {
+            "description": "Pre-emptive contextually-based middleware",
+            "quantity": 10,
+            "unit_price": 474.49,
+            "total_price": 4744.9
+        },
+        {
+            "description": "Customizable local open system",
+            "quantity": 3,
+            "unit_price": 134.79,
+            "total_price": 404.37
+        },
+        {
+            "description": "Extended contextually-based customer loyalty",
+            "quantity": 2,
+            "unit_price": 435.19,
+            "total_price": 870.38
+        }
+    ],
+    "amount": 6019.65
+}

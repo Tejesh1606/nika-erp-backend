@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lewis-Thompson",
+    "invoice_number": "INV-82487",
+    "date": "2025-11-09",
+    "items": [
+        {
+            "description": "Self-enabling needs-based website",
+            "quantity": 8,
+            "unit_price": 366.21,
+            "total_price": 2929.68
+        }
+    ],
+    "amount": 2929.68
+}

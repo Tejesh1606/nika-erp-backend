@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Green Ltd",
+    "invoice_number": "INV-99198",
+    "date": "2026-02-27",
+    "items": [
+        {
+            "description": "Inverse contextually-based monitoring",
+            "quantity": 9,
+            "unit_price": 436.68,
+            "total_price": 3930.12
+        },
+        {
+            "description": "Virtual global success",
+            "quantity": 1,
+            "unit_price": 346.05,
+            "total_price": 346.05
+        },
+        {
+            "description": "Polarized context-sensitive Graphical User Interface",
+            "quantity": 4,
+            "unit_price": 270.66,
+            "total_price": 1082.64
+        },
+        {
+            "description": "Networked composite orchestration",
+            "quantity": 2,
+            "unit_price": 305.41,
+            "total_price": 610.82
+        }
+    ],
+    "amount": 5969.63
+}

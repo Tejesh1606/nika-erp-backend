@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Griffin, Salazar and Lewis",
+    "invoice_number": "INV-43509",
+    "date": "2025-10-26",
+    "items": [
+        {
+            "description": "Open-source heuristic intranet",
+            "quantity": 2,
+            "unit_price": 200.55,
+            "total_price": 401.1
+        },
+        {
+            "description": "Persevering foreground neural-net",
+            "quantity": 1,
+            "unit_price": 488.25,
+            "total_price": 488.25
+        },
+        {
+            "description": "Front-line secondary definition",
+            "quantity": 3,
+            "unit_price": 323.43,
+            "total_price": 970.29
+        }
+    ],
+    "amount": 1859.64
+}

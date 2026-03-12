@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Bray Inc",
+    "invoice_number": "INV-87839",
+    "date": "2025-07-12",
+    "items": [
+        {
+            "description": "Implemented radical info-mediaries",
+            "quantity": 1,
+            "unit_price": 278.34,
+            "total_price": 278.34
+        }
+    ],
+    "amount": 278.34
+}

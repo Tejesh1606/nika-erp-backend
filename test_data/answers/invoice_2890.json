@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Walter, Andrews and Garner",
+    "invoice_number": "INV-41740",
+    "date": "2025-12-30",
+    "items": [
+        {
+            "description": "Business-focused optimizing support",
+            "quantity": 3,
+            "unit_price": 128.35,
+            "total_price": 385.05
+        },
+        {
+            "description": "Customer-focused context-sensitive architecture",
+            "quantity": 9,
+            "unit_price": 292.7,
+            "total_price": 2634.3
+        },
+        {
+            "description": "Profound foreground collaboration",
+            "quantity": 10,
+            "unit_price": 293.5,
+            "total_price": 2935.0
+        }
+    ],
+    "amount": 5954.35
+}

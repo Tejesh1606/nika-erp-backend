@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Barrett, Lopez and Taylor",
+    "invoice_number": "INV-86915",
+    "date": "2025-07-12",
+    "items": [
+        {
+            "description": "Multi-layered non-volatile implementation",
+            "quantity": 4,
+            "unit_price": 265.24,
+            "total_price": 1060.96
+        },
+        {
+            "description": "Switchable optimizing alliance",
+            "quantity": 2,
+            "unit_price": 407.08,
+            "total_price": 814.16
+        },
+        {
+            "description": "Inverse tangible benchmark",
+            "quantity": 4,
+            "unit_price": 10.93,
+            "total_price": 43.72
+        },
+        {
+            "description": "Self-enabling heuristic access",
+            "quantity": 6,
+            "unit_price": 465.37,
+            "total_price": 2792.22
+        }
+    ],
+    "amount": 4711.06
+}

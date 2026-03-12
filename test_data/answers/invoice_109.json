@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mcdonald Inc",
+    "invoice_number": "INV-28449",
+    "date": "2025-12-26",
+    "items": [
+        {
+            "description": "Face-to-face systematic success",
+            "quantity": 6,
+            "unit_price": 60.84,
+            "total_price": 365.04
+        },
+        {
+            "description": "Synergistic hybrid website",
+            "quantity": 3,
+            "unit_price": 106.33,
+            "total_price": 318.99
+        },
+        {
+            "description": "Realigned high-level array",
+            "quantity": 10,
+            "unit_price": 227.15,
+            "total_price": 2271.5
+        }
+    ],
+    "amount": 2955.53
+}

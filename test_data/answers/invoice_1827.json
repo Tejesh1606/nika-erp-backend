@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson LLC",
+    "invoice_number": "INV-62819",
+    "date": "2025-08-17",
+    "items": [
+        {
+            "description": "Optimized bandwidth-monitored function",
+            "quantity": 7,
+            "unit_price": 51.9,
+            "total_price": 363.3
+        },
+        {
+            "description": "Managed responsive parallelism",
+            "quantity": 10,
+            "unit_price": 484.1,
+            "total_price": 4841.0
+        },
+        {
+            "description": "Assimilated web-enabled architecture",
+            "quantity": 4,
+            "unit_price": 424.92,
+            "total_price": 1699.68
+        },
+        {
+            "description": "Customizable actuating knowledge user",
+            "quantity": 1,
+            "unit_price": 147.59,
+            "total_price": 147.59
+        }
+    ],
+    "amount": 7051.57
+}

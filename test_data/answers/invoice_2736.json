@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Tanner Inc",
+    "invoice_number": "INV-75336",
+    "date": "2025-11-12",
+    "items": [
+        {
+            "description": "Exclusive 3rdgeneration challenge",
+            "quantity": 3,
+            "unit_price": 255.44,
+            "total_price": 766.32
+        },
+        {
+            "description": "Fundamental zero tolerance conglomeration",
+            "quantity": 10,
+            "unit_price": 71.16,
+            "total_price": 711.6
+        },
+        {
+            "description": "Networked solution-oriented strategy",
+            "quantity": 2,
+            "unit_price": 464.98,
+            "total_price": 929.96
+        }
+    ],
+    "amount": 2407.88
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Moore-Harris",
+    "invoice_number": "INV-62362",
+    "date": "2025-12-15",
+    "items": [
+        {
+            "description": "Switchable attitude-oriented functionalities",
+            "quantity": 8,
+            "unit_price": 316.35,
+            "total_price": 2530.8
+        },
+        {
+            "description": "Cloned cohesive budgetary management",
+            "quantity": 7,
+            "unit_price": 93.81,
+            "total_price": 656.67
+        },
+        {
+            "description": "Versatile interactive matrix",
+            "quantity": 5,
+            "unit_price": 297.13,
+            "total_price": 1485.65
+        },
+        {
+            "description": "Open-architected user-facing ability",
+            "quantity": 1,
+            "unit_price": 344.93,
+            "total_price": 344.93
+        }
+    ],
+    "amount": 5018.05
+}

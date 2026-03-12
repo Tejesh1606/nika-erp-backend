@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Johnson, Ingram and James",
+    "invoice_number": "INV-64538",
+    "date": "2025-11-28",
+    "items": [
+        {
+            "description": "Proactive analyzing project",
+            "quantity": 3,
+            "unit_price": 164.98,
+            "total_price": 494.94
+        },
+        {
+            "description": "Switchable tangible initiative",
+            "quantity": 9,
+            "unit_price": 134.14,
+            "total_price": 1207.26
+        }
+    ],
+    "amount": 1702.2
+}

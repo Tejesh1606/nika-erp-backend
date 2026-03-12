@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ford, Peters and Short",
+    "invoice_number": "INV-33091",
+    "date": "2025-07-06",
+    "items": [
+        {
+            "description": "Open-architected asymmetric policy",
+            "quantity": 5,
+            "unit_price": 292.16,
+            "total_price": 1460.8
+        },
+        {
+            "description": "Customer-focused systemic policy",
+            "quantity": 2,
+            "unit_price": 61.97,
+            "total_price": 123.94
+        }
+    ],
+    "amount": 1584.74
+}

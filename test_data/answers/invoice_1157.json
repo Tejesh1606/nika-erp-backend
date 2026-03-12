@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Todd LLC",
+    "invoice_number": "INV-91465",
+    "date": "2025-08-24",
+    "items": [
+        {
+            "description": "Optimized zero tolerance superstructure",
+            "quantity": 3,
+            "unit_price": 455.53,
+            "total_price": 1366.59
+        },
+        {
+            "description": "User-centric web-enabled approach",
+            "quantity": 2,
+            "unit_price": 412.09,
+            "total_price": 824.18
+        },
+        {
+            "description": "Customer-focused neutral info-mediaries",
+            "quantity": 9,
+            "unit_price": 286.16,
+            "total_price": 2575.44
+        }
+    ],
+    "amount": 4766.21
+}

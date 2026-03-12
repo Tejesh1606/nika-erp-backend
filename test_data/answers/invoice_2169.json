@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith-Murphy",
+    "invoice_number": "INV-86100",
+    "date": "2025-09-30",
+    "items": [
+        {
+            "description": "Innovative empowering groupware",
+            "quantity": 4,
+            "unit_price": 87.75,
+            "total_price": 351.0
+        }
+    ],
+    "amount": 351.0
+}

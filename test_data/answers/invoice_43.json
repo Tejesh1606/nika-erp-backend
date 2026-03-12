@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ortiz, Powell and Phillips",
+    "invoice_number": "INV-26683",
+    "date": "2025-05-22",
+    "items": [
+        {
+            "description": "Operative static implementation",
+            "quantity": 1,
+            "unit_price": 93.95,
+            "total_price": 93.95
+        },
+        {
+            "description": "Synergistic value-added conglomeration",
+            "quantity": 3,
+            "unit_price": 361.02,
+            "total_price": 1083.06
+        }
+    ],
+    "amount": 1177.01
+}

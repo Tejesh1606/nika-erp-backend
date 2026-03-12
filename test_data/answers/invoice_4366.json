@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Parker, David and Daniels",
+    "invoice_number": "INV-34277",
+    "date": "2025-09-22",
+    "items": [
+        {
+            "description": "Visionary asymmetric array",
+            "quantity": 1,
+            "unit_price": 23.43,
+            "total_price": 23.43
+        }
+    ],
+    "amount": 23.43
+}

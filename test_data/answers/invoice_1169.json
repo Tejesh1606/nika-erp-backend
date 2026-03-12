@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Rodriguez and Sons",
+    "invoice_number": "INV-51039",
+    "date": "2025-09-23",
+    "items": [
+        {
+            "description": "Universal zero-defect support",
+            "quantity": 2,
+            "unit_price": 335.22,
+            "total_price": 670.44
+        },
+        {
+            "description": "Profound zero tolerance paradigm",
+            "quantity": 6,
+            "unit_price": 87.11,
+            "total_price": 522.66
+        }
+    ],
+    "amount": 1193.1
+}

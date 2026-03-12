@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Dawson, Haynes and Cervantes",
+    "invoice_number": "INV-64179",
+    "date": "2025-11-07",
+    "items": [
+        {
+            "description": "Cloned upward-trending moderator",
+            "quantity": 1,
+            "unit_price": 16.3,
+            "total_price": 16.3
+        }
+    ],
+    "amount": 16.3
+}

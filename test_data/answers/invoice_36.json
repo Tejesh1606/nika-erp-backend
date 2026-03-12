@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Shields, Cochran and Adams",
+    "invoice_number": "INV-24168",
+    "date": "2025-08-04",
+    "items": [
+        {
+            "description": "Automated methodical definition",
+            "quantity": 6,
+            "unit_price": 94.1,
+            "total_price": 564.6
+        },
+        {
+            "description": "Exclusive logistical hardware",
+            "quantity": 8,
+            "unit_price": 137.22,
+            "total_price": 1097.76
+        }
+    ],
+    "amount": 1662.36
+}

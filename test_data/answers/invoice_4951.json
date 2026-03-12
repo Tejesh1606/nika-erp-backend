@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Carlson PLC",
+    "invoice_number": "INV-89956",
+    "date": "2025-03-25",
+    "items": [
+        {
+            "description": "Organic impactful array",
+            "quantity": 2,
+            "unit_price": 451.73,
+            "total_price": 903.46
+        },
+        {
+            "description": "Reduced bottom-line task-force",
+            "quantity": 7,
+            "unit_price": 482.96,
+            "total_price": 3380.72
+        }
+    ],
+    "amount": 4284.18
+}

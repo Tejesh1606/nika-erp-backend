@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith PLC",
+    "invoice_number": "INV-46885",
+    "date": "2025-07-31",
+    "items": [
+        {
+            "description": "Vision-oriented mobile installation",
+            "quantity": 8,
+            "unit_price": 438.44,
+            "total_price": 3507.52
+        }
+    ],
+    "amount": 3507.52
+}

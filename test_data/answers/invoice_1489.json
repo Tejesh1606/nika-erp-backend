@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Lopez Inc",
+    "invoice_number": "INV-60784",
+    "date": "2026-01-15",
+    "items": [
+        {
+            "description": "Customer-focused value-added database",
+            "quantity": 1,
+            "unit_price": 109.49,
+            "total_price": 109.49
+        },
+        {
+            "description": "Exclusive well-modulated open system",
+            "quantity": 9,
+            "unit_price": 120.01,
+            "total_price": 1080.09
+        }
+    ],
+    "amount": 1189.58
+}

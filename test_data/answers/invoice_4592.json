@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Clark Inc",
+    "invoice_number": "INV-68663",
+    "date": "2025-04-07",
+    "items": [
+        {
+            "description": "Realigned systematic implementation",
+            "quantity": 9,
+            "unit_price": 225.46,
+            "total_price": 2029.14
+        }
+    ],
+    "amount": 2029.14
+}

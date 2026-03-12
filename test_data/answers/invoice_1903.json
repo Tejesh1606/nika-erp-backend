@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Carlson, Parrish and Gillespie",
+    "invoice_number": "INV-98701",
+    "date": "2025-09-11",
+    "items": [
+        {
+            "description": "Universal human-resource capability",
+            "quantity": 1,
+            "unit_price": 231.82,
+            "total_price": 231.82
+        },
+        {
+            "description": "Advanced neutral artificial intelligence",
+            "quantity": 7,
+            "unit_price": 82.89,
+            "total_price": 580.23
+        }
+    ],
+    "amount": 812.05
+}

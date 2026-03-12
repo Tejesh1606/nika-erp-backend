@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Castro-Tanner",
+    "invoice_number": "INV-92047",
+    "date": "2025-04-06",
+    "items": [
+        {
+            "description": "Secured systemic complexity",
+            "quantity": 8,
+            "unit_price": 436.5,
+            "total_price": 3492.0
+        },
+        {
+            "description": "Optional national policy",
+            "quantity": 8,
+            "unit_price": 97.06,
+            "total_price": 776.48
+        },
+        {
+            "description": "Business-focused 3rdgeneration process improvement",
+            "quantity": 2,
+            "unit_price": 460.68,
+            "total_price": 921.36
+        }
+    ],
+    "amount": 5189.84
+}

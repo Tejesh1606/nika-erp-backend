@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ellison, Miller and Rodriguez",
+    "invoice_number": "INV-38127",
+    "date": "2026-02-07",
+    "items": [
+        {
+            "description": "Up-sized contextually-based hardware",
+            "quantity": 4,
+            "unit_price": 432.14,
+            "total_price": 1728.56
+        }
+    ],
+    "amount": 1728.56
+}

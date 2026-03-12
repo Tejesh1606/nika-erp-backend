@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Baker and Sons",
+    "invoice_number": "INV-69578",
+    "date": "2025-07-14",
+    "items": [
+        {
+            "description": "Optimized bifurcated knowledge user",
+            "quantity": 1,
+            "unit_price": 170.44,
+            "total_price": 170.44
+        },
+        {
+            "description": "Universal dynamic knowledge user",
+            "quantity": 10,
+            "unit_price": 36.97,
+            "total_price": 369.7
+        },
+        {
+            "description": "Distributed actuating artificial intelligence",
+            "quantity": 8,
+            "unit_price": 186.94,
+            "total_price": 1495.52
+        },
+        {
+            "description": "Phased upward-trending solution",
+            "quantity": 8,
+            "unit_price": 185.6,
+            "total_price": 1484.8
+        }
+    ],
+    "amount": 3520.46
+}

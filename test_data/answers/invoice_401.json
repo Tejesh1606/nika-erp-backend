@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Greene, Moran and Cox",
+    "invoice_number": "INV-69314",
+    "date": "2025-04-22",
+    "items": [
+        {
+            "description": "Cross-platform well-modulated protocol",
+            "quantity": 4,
+            "unit_price": 271.52,
+            "total_price": 1086.08
+        },
+        {
+            "description": "Face-to-face 24hour Graphical User Interface",
+            "quantity": 8,
+            "unit_price": 161.29,
+            "total_price": 1290.32
+        },
+        {
+            "description": "Multi-channeled scalable website",
+            "quantity": 9,
+            "unit_price": 285.85,
+            "total_price": 2572.65
+        },
+        {
+            "description": "Implemented neutral model",
+            "quantity": 8,
+            "unit_price": 154.38,
+            "total_price": 1235.04
+        }
+    ],
+    "amount": 6184.09
+}

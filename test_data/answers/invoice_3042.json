@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Martin-Johnston",
+    "invoice_number": "INV-93541",
+    "date": "2025-06-11",
+    "items": [
+        {
+            "description": "Virtual secondary task-force",
+            "quantity": 4,
+            "unit_price": 22.33,
+            "total_price": 89.32
+        },
+        {
+            "description": "Inverse reciprocal instruction set",
+            "quantity": 4,
+            "unit_price": 487.78,
+            "total_price": 1951.12
+        },
+        {
+            "description": "Synergized intangible solution",
+            "quantity": 8,
+            "unit_price": 40.38,
+            "total_price": 323.04
+        }
+    ],
+    "amount": 2363.48
+}

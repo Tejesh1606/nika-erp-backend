@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Black, Chandler and Curtis",
+    "invoice_number": "INV-54749",
+    "date": "2025-08-29",
+    "items": [
+        {
+            "description": "De-engineered global frame",
+            "quantity": 10,
+            "unit_price": 305.66,
+            "total_price": 3056.6
+        },
+        {
+            "description": "Multi-lateral regional Internet solution",
+            "quantity": 7,
+            "unit_price": 42.34,
+            "total_price": 296.38
+        },
+        {
+            "description": "Balanced transitional time-frame",
+            "quantity": 5,
+            "unit_price": 316.55,
+            "total_price": 1582.75
+        }
+    ],
+    "amount": 4935.73
+}

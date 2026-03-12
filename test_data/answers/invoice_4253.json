@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Sanchez Group",
+    "invoice_number": "INV-26433",
+    "date": "2025-08-30",
+    "items": [
+        {
+            "description": "Organized uniform interface",
+            "quantity": 10,
+            "unit_price": 156.73,
+            "total_price": 1567.3
+        }
+    ],
+    "amount": 1567.3
+}

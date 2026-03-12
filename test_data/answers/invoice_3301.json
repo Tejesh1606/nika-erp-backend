@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Nelson LLC",
+    "invoice_number": "INV-87651",
+    "date": "2025-07-29",
+    "items": [
+        {
+            "description": "Optional 4thgeneration methodology",
+            "quantity": 4,
+            "unit_price": 251.15,
+            "total_price": 1004.6
+        }
+    ],
+    "amount": 1004.6
+}

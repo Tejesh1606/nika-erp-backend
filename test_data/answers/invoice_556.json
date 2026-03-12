@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Khan Inc",
+    "invoice_number": "INV-42778",
+    "date": "2025-07-12",
+    "items": [
+        {
+            "description": "Team-oriented solution-oriented structure",
+            "quantity": 4,
+            "unit_price": 166.35,
+            "total_price": 665.4
+        },
+        {
+            "description": "Diverse transitional superstructure",
+            "quantity": 6,
+            "unit_price": 402.34,
+            "total_price": 2414.04
+        },
+        {
+            "description": "Decentralized background budgetary management",
+            "quantity": 5,
+            "unit_price": 286.15,
+            "total_price": 1430.75
+        }
+    ],
+    "amount": 4510.19
+}

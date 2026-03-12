@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Munoz, Farley and Scott",
+    "invoice_number": "INV-71949",
+    "date": "2025-07-31",
+    "items": [
+        {
+            "description": "Customer-focused user-facing moderator",
+            "quantity": 10,
+            "unit_price": 396.56,
+            "total_price": 3965.6
+        },
+        {
+            "description": "Multi-tiered intermediate pricing structure",
+            "quantity": 3,
+            "unit_price": 246.17,
+            "total_price": 738.51
+        },
+        {
+            "description": "Function-based upward-trending alliance",
+            "quantity": 5,
+            "unit_price": 428.73,
+            "total_price": 2143.65
+        }
+    ],
+    "amount": 6847.76
+}

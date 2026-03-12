@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Sims-Gomez",
+    "invoice_number": "INV-27634",
+    "date": "2025-06-02",
+    "items": [
+        {
+            "description": "Profound next generation matrix",
+            "quantity": 7,
+            "unit_price": 289.95,
+            "total_price": 2029.65
+        },
+        {
+            "description": "Progressive multimedia migration",
+            "quantity": 9,
+            "unit_price": 122.32,
+            "total_price": 1100.88
+        }
+    ],
+    "amount": 3130.53
+}

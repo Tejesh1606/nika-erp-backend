@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Allen-Hansen",
+    "invoice_number": "INV-11628",
+    "date": "2025-12-03",
+    "items": [
+        {
+            "description": "Upgradable incremental data-warehouse",
+            "quantity": 1,
+            "unit_price": 142.57,
+            "total_price": 142.57
+        },
+        {
+            "description": "De-engineered heuristic frame",
+            "quantity": 9,
+            "unit_price": 21.67,
+            "total_price": 195.03
+        },
+        {
+            "description": "Front-line secondary array",
+            "quantity": 1,
+            "unit_price": 132.55,
+            "total_price": 132.55
+        }
+    ],
+    "amount": 470.15
+}

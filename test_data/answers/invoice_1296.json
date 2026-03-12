@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Vasquez, Sanchez and Green",
+    "invoice_number": "INV-48704",
+    "date": "2025-12-01",
+    "items": [
+        {
+            "description": "Organic full-range toolset",
+            "quantity": 3,
+            "unit_price": 408.18,
+            "total_price": 1224.54
+        },
+        {
+            "description": "Organized tangible firmware",
+            "quantity": 9,
+            "unit_price": 286.35,
+            "total_price": 2577.15
+        },
+        {
+            "description": "Re-contextualized even-keeled policy",
+            "quantity": 2,
+            "unit_price": 34.42,
+            "total_price": 68.84
+        }
+    ],
+    "amount": 3870.53
+}

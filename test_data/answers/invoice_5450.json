@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Patterson-Harris",
+    "invoice_number": "INV-82801",
+    "date": "2025-05-07",
+    "items": [
+        {
+            "description": "Synergized motivating approach",
+            "quantity": 4,
+            "unit_price": 179.61,
+            "total_price": 718.44
+        },
+        {
+            "description": "Polarized asymmetric approach",
+            "quantity": 2,
+            "unit_price": 37.11,
+            "total_price": 74.22
+        },
+        {
+            "description": "Business-focused client-server extranet",
+            "quantity": 3,
+            "unit_price": 170.31,
+            "total_price": 510.93
+        }
+    ],
+    "amount": 1303.59
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mooney LLC",
+    "invoice_number": "INV-90658",
+    "date": "2025-11-03",
+    "items": [
+        {
+            "description": "Enhanced needs-based help-desk",
+            "quantity": 9,
+            "unit_price": 121.96,
+            "total_price": 1097.64
+        }
+    ],
+    "amount": 1097.64
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Williams-Pena",
+    "invoice_number": "INV-84645",
+    "date": "2025-10-14",
+    "items": [
+        {
+            "description": "Open-source client-server implementation",
+            "quantity": 7,
+            "unit_price": 237.66,
+            "total_price": 1663.62
+        },
+        {
+            "description": "Face-to-face modular Local Area Network",
+            "quantity": 9,
+            "unit_price": 45.52,
+            "total_price": 409.68
+        }
+    ],
+    "amount": 2073.3
+}

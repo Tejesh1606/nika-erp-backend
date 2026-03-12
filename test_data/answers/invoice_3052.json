@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Fuentes, Moore and Allen",
+    "invoice_number": "INV-55461",
+    "date": "2025-03-26",
+    "items": [
+        {
+            "description": "Inverse asynchronous initiative",
+            "quantity": 2,
+            "unit_price": 418.83,
+            "total_price": 837.66
+        },
+        {
+            "description": "Business-focused clear-thinking encryption",
+            "quantity": 8,
+            "unit_price": 53.14,
+            "total_price": 425.12
+        }
+    ],
+    "amount": 1262.78
+}

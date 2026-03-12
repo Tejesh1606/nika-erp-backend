@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Brown, Johnson and Miller",
+    "invoice_number": "INV-39281",
+    "date": "2025-07-08",
+    "items": [
+        {
+            "description": "Diverse reciprocal function",
+            "quantity": 1,
+            "unit_price": 100.45,
+            "total_price": 100.45
+        }
+    ],
+    "amount": 100.45
+}

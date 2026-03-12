@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Nguyen, Wallace and Lawson",
+    "invoice_number": "INV-62450",
+    "date": "2025-12-21",
+    "items": [
+        {
+            "description": "Seamless attitude-oriented hardware",
+            "quantity": 1,
+            "unit_price": 71.08,
+            "total_price": 71.08
+        }
+    ],
+    "amount": 71.08
+}

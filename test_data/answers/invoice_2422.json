@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Watkins, Miller and Bell",
+    "invoice_number": "INV-35242",
+    "date": "2025-06-16",
+    "items": [
+        {
+            "description": "Automated real-time archive",
+            "quantity": 5,
+            "unit_price": 220.7,
+            "total_price": 1103.5
+        },
+        {
+            "description": "Realigned heuristic migration",
+            "quantity": 7,
+            "unit_price": 340.52,
+            "total_price": 2383.64
+        },
+        {
+            "description": "Adaptive grid-enabled hardware",
+            "quantity": 2,
+            "unit_price": 328.36,
+            "total_price": 656.72
+        }
+    ],
+    "amount": 4143.86
+}

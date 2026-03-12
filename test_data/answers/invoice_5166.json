@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Massey-Hamilton",
+    "invoice_number": "INV-48661",
+    "date": "2025-12-08",
+    "items": [
+        {
+            "description": "Focused needs-based superstructure",
+            "quantity": 7,
+            "unit_price": 130.45,
+            "total_price": 913.15
+        },
+        {
+            "description": "Future-proofed actuating emulation",
+            "quantity": 9,
+            "unit_price": 159.1,
+            "total_price": 1431.9
+        },
+        {
+            "description": "Robust maximized capacity",
+            "quantity": 9,
+            "unit_price": 498.43,
+            "total_price": 4485.87
+        }
+    ],
+    "amount": 6830.92
+}

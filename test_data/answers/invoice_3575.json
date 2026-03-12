@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Rodriguez-Smith",
+    "invoice_number": "INV-56693",
+    "date": "2026-02-22",
+    "items": [
+        {
+            "description": "User-friendly systemic Internet solution",
+            "quantity": 1,
+            "unit_price": 395.42,
+            "total_price": 395.42
+        },
+        {
+            "description": "Reactive mobile analyzer",
+            "quantity": 1,
+            "unit_price": 345.53,
+            "total_price": 345.53
+        },
+        {
+            "description": "Optimized optimal ability",
+            "quantity": 5,
+            "unit_price": 202.93,
+            "total_price": 1014.65
+        }
+    ],
+    "amount": 1755.6
+}

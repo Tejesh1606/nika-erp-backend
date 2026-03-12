@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lopez Inc",
+    "invoice_number": "INV-77529",
+    "date": "2025-04-12",
+    "items": [
+        {
+            "description": "Secured dedicated emulation",
+            "quantity": 1,
+            "unit_price": 56.26,
+            "total_price": 56.26
+        },
+        {
+            "description": "Secured systematic collaboration",
+            "quantity": 3,
+            "unit_price": 399.48,
+            "total_price": 1198.44
+        },
+        {
+            "description": "Diverse methodical firmware",
+            "quantity": 9,
+            "unit_price": 335.26,
+            "total_price": 3017.34
+        }
+    ],
+    "amount": 4272.04
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Brown LLC",
+    "invoice_number": "INV-28008",
+    "date": "2025-06-01",
+    "items": [
+        {
+            "description": "Customer-focused heuristic initiative",
+            "quantity": 2,
+            "unit_price": 398.05,
+            "total_price": 796.1
+        },
+        {
+            "description": "Public-key zero administration concept",
+            "quantity": 9,
+            "unit_price": 401.64,
+            "total_price": 3614.76
+        }
+    ],
+    "amount": 4410.86
+}

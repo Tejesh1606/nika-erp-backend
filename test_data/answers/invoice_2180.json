@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Robinson LLC",
+    "invoice_number": "INV-76801",
+    "date": "2025-12-13",
+    "items": [
+        {
+            "description": "Right-sized impactful open system",
+            "quantity": 1,
+            "unit_price": 136.15,
+            "total_price": 136.15
+        },
+        {
+            "description": "Fully-configurable demand-driven help-desk",
+            "quantity": 2,
+            "unit_price": 88.91,
+            "total_price": 177.82
+        },
+        {
+            "description": "Front-line regional approach",
+            "quantity": 4,
+            "unit_price": 226.17,
+            "total_price": 904.68
+        },
+        {
+            "description": "Triple-buffered 24hour product",
+            "quantity": 2,
+            "unit_price": 394.19,
+            "total_price": 788.38
+        }
+    ],
+    "amount": 2007.03
+}

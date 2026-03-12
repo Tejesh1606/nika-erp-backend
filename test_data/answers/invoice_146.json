@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Vargas-Bell",
+    "invoice_number": "INV-19724",
+    "date": "2025-07-07",
+    "items": [
+        {
+            "description": "Persistent local alliance",
+            "quantity": 5,
+            "unit_price": 373.34,
+            "total_price": 1866.7
+        },
+        {
+            "description": "Centralized holistic forecast",
+            "quantity": 4,
+            "unit_price": 69.13,
+            "total_price": 276.52
+        },
+        {
+            "description": "Compatible secondary array",
+            "quantity": 1,
+            "unit_price": 171.36,
+            "total_price": 171.36
+        }
+    ],
+    "amount": 2314.58
+}

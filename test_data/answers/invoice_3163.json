@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Simon and Sons",
+    "invoice_number": "INV-26012",
+    "date": "2025-07-15",
+    "items": [
+        {
+            "description": "Diverse tertiary groupware",
+            "quantity": 4,
+            "unit_price": 424.6,
+            "total_price": 1698.4
+        },
+        {
+            "description": "Multi-layered cohesive standardization",
+            "quantity": 6,
+            "unit_price": 122.73,
+            "total_price": 736.38
+        },
+        {
+            "description": "Fully-configurable tangible complexity",
+            "quantity": 3,
+            "unit_price": 442.92,
+            "total_price": 1328.76
+        },
+        {
+            "description": "Devolved stable utilization",
+            "quantity": 2,
+            "unit_price": 207.37,
+            "total_price": 414.74
+        }
+    ],
+    "amount": 4178.28
+}

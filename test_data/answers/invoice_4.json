@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Bernard LLC",
+    "invoice_number": "INV-23396",
+    "date": "2025-04-14",
+    "items": [
+        {
+            "description": "Multi-tiered bandwidth-monitored help-desk",
+            "quantity": 9,
+            "unit_price": 268.23,
+            "total_price": 2414.07
+        }
+    ],
+    "amount": 2414.07
+}

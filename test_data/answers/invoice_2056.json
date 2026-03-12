@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cummings-Robinson",
+    "invoice_number": "INV-85447",
+    "date": "2025-11-23",
+    "items": [
+        {
+            "description": "Public-key secondary throughput",
+            "quantity": 9,
+            "unit_price": 357.83,
+            "total_price": 3220.47
+        }
+    ],
+    "amount": 3220.47
+}

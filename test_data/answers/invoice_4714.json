@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Harris-Frost",
+    "invoice_number": "INV-79248",
+    "date": "2025-05-01",
+    "items": [
+        {
+            "description": "Multi-tiered optimizing knowledge user",
+            "quantity": 8,
+            "unit_price": 288.52,
+            "total_price": 2308.16
+        }
+    ],
+    "amount": 2308.16
+}

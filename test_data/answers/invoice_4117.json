@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Thornton Ltd",
+    "invoice_number": "INV-55444",
+    "date": "2025-10-14",
+    "items": [
+        {
+            "description": "Progressive content-based infrastructure",
+            "quantity": 10,
+            "unit_price": 16.68,
+            "total_price": 166.8
+        },
+        {
+            "description": "Vision-oriented cohesive application",
+            "quantity": 6,
+            "unit_price": 473.79,
+            "total_price": 2842.74
+        },
+        {
+            "description": "Persevering encompassing process improvement",
+            "quantity": 9,
+            "unit_price": 204.8,
+            "total_price": 1843.2
+        },
+        {
+            "description": "Profound next generation toolset",
+            "quantity": 2,
+            "unit_price": 286.09,
+            "total_price": 572.18
+        }
+    ],
+    "amount": 5424.92
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Robinson-Wallace",
+    "invoice_number": "INV-40947",
+    "date": "2026-02-04",
+    "items": [
+        {
+            "description": "Multi-lateral bandwidth-monitored software",
+            "quantity": 7,
+            "unit_price": 25.28,
+            "total_price": 176.96
+        }
+    ],
+    "amount": 176.96
+}

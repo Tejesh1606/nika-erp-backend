@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Johnson-Johnson",
+    "invoice_number": "INV-69553",
+    "date": "2025-11-25",
+    "items": [
+        {
+            "description": "Implemented next generation success",
+            "quantity": 7,
+            "unit_price": 235.79,
+            "total_price": 1650.53
+        }
+    ],
+    "amount": 1650.53
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Acevedo Ltd",
+    "invoice_number": "INV-68366",
+    "date": "2025-05-30",
+    "items": [
+        {
+            "description": "Persevering didactic encoding",
+            "quantity": 4,
+            "unit_price": 221.79,
+            "total_price": 887.16
+        },
+        {
+            "description": "Right-sized mission-critical workforce",
+            "quantity": 6,
+            "unit_price": 445.4,
+            "total_price": 2672.4
+        }
+    ],
+    "amount": 3559.56
+}

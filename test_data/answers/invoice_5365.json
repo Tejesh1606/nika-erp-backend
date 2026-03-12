@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Warner-Payne",
+    "invoice_number": "INV-60375",
+    "date": "2026-03-06",
+    "items": [
+        {
+            "description": "De-engineered value-added Internet solution",
+            "quantity": 4,
+            "unit_price": 378.2,
+            "total_price": 1512.8
+        },
+        {
+            "description": "Right-sized context-sensitive toolset",
+            "quantity": 6,
+            "unit_price": 215.27,
+            "total_price": 1291.62
+        },
+        {
+            "description": "Extended disintermediate open system",
+            "quantity": 6,
+            "unit_price": 343.27,
+            "total_price": 2059.62
+        },
+        {
+            "description": "Mandatory disintermediate superstructure",
+            "quantity": 9,
+            "unit_price": 241.67,
+            "total_price": 2175.03
+        }
+    ],
+    "amount": 7039.07
+}

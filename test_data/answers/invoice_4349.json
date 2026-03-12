@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Anderson Group",
+    "invoice_number": "INV-30828",
+    "date": "2026-02-24",
+    "items": [
+        {
+            "description": "User-friendly upward-trending alliance",
+            "quantity": 1,
+            "unit_price": 253.88,
+            "total_price": 253.88
+        },
+        {
+            "description": "Secured grid-enabled matrices",
+            "quantity": 10,
+            "unit_price": 252.14,
+            "total_price": 2521.4
+        }
+    ],
+    "amount": 2775.28
+}

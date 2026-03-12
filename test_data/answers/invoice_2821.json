@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jacobs, Thompson and Rodriguez",
+    "invoice_number": "INV-73367",
+    "date": "2025-11-11",
+    "items": [
+        {
+            "description": "Vision-oriented content-based groupware",
+            "quantity": 4,
+            "unit_price": 91.28,
+            "total_price": 365.12
+        },
+        {
+            "description": "Streamlined well-modulated array",
+            "quantity": 3,
+            "unit_price": 368.61,
+            "total_price": 1105.83
+        },
+        {
+            "description": "Operative impactful migration",
+            "quantity": 10,
+            "unit_price": 24.22,
+            "total_price": 242.2
+        },
+        {
+            "description": "Cloned asymmetric database",
+            "quantity": 2,
+            "unit_price": 445.96,
+            "total_price": 891.92
+        }
+    ],
+    "amount": 2605.07
+}

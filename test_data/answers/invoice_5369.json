@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Brown LLC",
+    "invoice_number": "INV-25980",
+    "date": "2025-09-15",
+    "items": [
+        {
+            "description": "Front-line static database",
+            "quantity": 1,
+            "unit_price": 275.56,
+            "total_price": 275.56
+        }
+    ],
+    "amount": 275.56
+}

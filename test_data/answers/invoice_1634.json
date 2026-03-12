@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Vasquez and Sons",
+    "invoice_number": "INV-17781",
+    "date": "2025-08-22",
+    "items": [
+        {
+            "description": "Extended reciprocal secured line",
+            "quantity": 5,
+            "unit_price": 484.78,
+            "total_price": 2423.9
+        }
+    ],
+    "amount": 2423.9
+}

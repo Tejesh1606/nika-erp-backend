@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Simmons-Mcdonald",
+    "invoice_number": "INV-63602",
+    "date": "2025-07-29",
+    "items": [
+        {
+            "description": "Proactive foreground flexibility",
+            "quantity": 3,
+            "unit_price": 357.77,
+            "total_price": 1073.31
+        },
+        {
+            "description": "Multi-tiered 4thgeneration conglomeration",
+            "quantity": 6,
+            "unit_price": 108.88,
+            "total_price": 653.28
+        },
+        {
+            "description": "Organic discrete firmware",
+            "quantity": 9,
+            "unit_price": 244.1,
+            "total_price": 2196.9
+        }
+    ],
+    "amount": 3923.49
+}

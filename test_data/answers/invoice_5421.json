@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith and Sons",
+    "invoice_number": "INV-34547",
+    "date": "2026-03-09",
+    "items": [
+        {
+            "description": "Networked full-range approach",
+            "quantity": 9,
+            "unit_price": 349.49,
+            "total_price": 3145.41
+        },
+        {
+            "description": "Stand-alone discrete application",
+            "quantity": 10,
+            "unit_price": 398.16,
+            "total_price": 3981.6
+        },
+        {
+            "description": "Intuitive client-driven firmware",
+            "quantity": 7,
+            "unit_price": 463.43,
+            "total_price": 3244.01
+        }
+    ],
+    "amount": 10371.02
+}

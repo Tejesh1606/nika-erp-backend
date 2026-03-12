@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Robles-Thompson",
+    "invoice_number": "INV-24824",
+    "date": "2025-09-09",
+    "items": [
+        {
+            "description": "Synchronized object-oriented infrastructure",
+            "quantity": 7,
+            "unit_price": 143.36,
+            "total_price": 1003.52
+        },
+        {
+            "description": "Integrated exuding budgetary management",
+            "quantity": 10,
+            "unit_price": 391.94,
+            "total_price": 3919.4
+        }
+    ],
+    "amount": 4922.92
+}

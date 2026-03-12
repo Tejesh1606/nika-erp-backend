@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Thomas-Singleton",
+    "invoice_number": "INV-59273",
+    "date": "2025-12-15",
+    "items": [
+        {
+            "description": "Secured interactive functionalities",
+            "quantity": 6,
+            "unit_price": 453.7,
+            "total_price": 2722.2
+        },
+        {
+            "description": "Operative executive help-desk",
+            "quantity": 9,
+            "unit_price": 477.55,
+            "total_price": 4297.95
+        },
+        {
+            "description": "Multi-lateral upward-trending data-warehouse",
+            "quantity": 7,
+            "unit_price": 259.56,
+            "total_price": 1816.92
+        }
+    ],
+    "amount": 8837.07
+}

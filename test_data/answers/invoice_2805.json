@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Henry Inc",
+    "invoice_number": "INV-46589",
+    "date": "2025-10-07",
+    "items": [
+        {
+            "description": "Open-source full-range instruction set",
+            "quantity": 4,
+            "unit_price": 116.91,
+            "total_price": 467.64
+        },
+        {
+            "description": "Multi-channeled multi-state support",
+            "quantity": 8,
+            "unit_price": 345.41,
+            "total_price": 2763.28
+        }
+    ],
+    "amount": 3230.92
+}

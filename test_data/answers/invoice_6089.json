@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Martinez, Boyd and Pope",
+    "invoice_number": "INV-89401",
+    "date": "2026-02-11",
+    "items": [
+        {
+            "description": "Multi-tiered bi-directional array",
+            "quantity": 10,
+            "unit_price": 244.9,
+            "total_price": 2449.0
+        },
+        {
+            "description": "Multi-layered next generation moderator",
+            "quantity": 8,
+            "unit_price": 345.14,
+            "total_price": 2761.12
+        }
+    ],
+    "amount": 5210.12
+}

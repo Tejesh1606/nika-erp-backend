@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Silva Group",
+    "invoice_number": "INV-71841",
+    "date": "2025-03-31",
+    "items": [
+        {
+            "description": "Diverse high-level function",
+            "quantity": 1,
+            "unit_price": 303.17,
+            "total_price": 303.17
+        }
+    ],
+    "amount": 303.17
+}

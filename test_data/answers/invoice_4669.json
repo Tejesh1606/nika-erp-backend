@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Swanson and Sons",
+    "invoice_number": "INV-83513",
+    "date": "2025-12-02",
+    "items": [
+        {
+            "description": "Open-source next generation workforce",
+            "quantity": 8,
+            "unit_price": 393.14,
+            "total_price": 3145.12
+        },
+        {
+            "description": "Cross-platform demand-driven emulation",
+            "quantity": 4,
+            "unit_price": 445.63,
+            "total_price": 1782.52
+        }
+    ],
+    "amount": 4927.64
+}

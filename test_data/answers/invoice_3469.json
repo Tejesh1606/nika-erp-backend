@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Armstrong-Scott",
+    "invoice_number": "INV-19601",
+    "date": "2025-11-05",
+    "items": [
+        {
+            "description": "Fully-configurable modular orchestration",
+            "quantity": 1,
+            "unit_price": 402.05,
+            "total_price": 402.05
+        },
+        {
+            "description": "Versatile dedicated benchmark",
+            "quantity": 2,
+            "unit_price": 40.86,
+            "total_price": 81.72
+        },
+        {
+            "description": "Expanded well-modulated installation",
+            "quantity": 3,
+            "unit_price": 64.87,
+            "total_price": 194.61
+        },
+        {
+            "description": "Ergonomic system-worthy infrastructure",
+            "quantity": 4,
+            "unit_price": 80.72,
+            "total_price": 322.88
+        }
+    ],
+    "amount": 1001.26
+}

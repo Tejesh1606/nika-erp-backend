@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jones Group",
+    "invoice_number": "INV-89777",
+    "date": "2025-05-08",
+    "items": [
+        {
+            "description": "Profound optimal matrices",
+            "quantity": 9,
+            "unit_price": 206.72,
+            "total_price": 1860.48
+        },
+        {
+            "description": "Enhanced multimedia focus group",
+            "quantity": 8,
+            "unit_price": 346.25,
+            "total_price": 2770.0
+        }
+    ],
+    "amount": 4630.48
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Williams, Delacruz and James",
+    "invoice_number": "INV-35179",
+    "date": "2025-06-13",
+    "items": [
+        {
+            "description": "Vision-oriented modular groupware",
+            "quantity": 7,
+            "unit_price": 19.64,
+            "total_price": 137.48
+        },
+        {
+            "description": "Total mobile orchestration",
+            "quantity": 6,
+            "unit_price": 136.19,
+            "total_price": 817.14
+        },
+        {
+            "description": "Synergized actuating attitude",
+            "quantity": 5,
+            "unit_price": 451.0,
+            "total_price": 2255.0
+        },
+        {
+            "description": "Inverse heuristic adapter",
+            "quantity": 2,
+            "unit_price": 328.08,
+            "total_price": 656.16
+        }
+    ],
+    "amount": 3865.78
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Blackwell-Rodriguez",
+    "invoice_number": "INV-96106",
+    "date": "2025-04-11",
+    "items": [
+        {
+            "description": "Intuitive contextually-based interface",
+            "quantity": 1,
+            "unit_price": 88.41,
+            "total_price": 88.41
+        },
+        {
+            "description": "Configurable value-added analyzer",
+            "quantity": 9,
+            "unit_price": 455.4,
+            "total_price": 4098.6
+        },
+        {
+            "description": "User-friendly high-level emulation",
+            "quantity": 5,
+            "unit_price": 383.69,
+            "total_price": 1918.45
+        }
+    ],
+    "amount": 6105.46
+}

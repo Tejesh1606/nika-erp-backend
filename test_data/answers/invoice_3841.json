@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mcdowell, Moore and Marsh",
+    "invoice_number": "INV-20063",
+    "date": "2025-08-05",
+    "items": [
+        {
+            "description": "Extended bandwidth-monitored middleware",
+            "quantity": 3,
+            "unit_price": 319.86,
+            "total_price": 959.58
+        }
+    ],
+    "amount": 959.58
+}

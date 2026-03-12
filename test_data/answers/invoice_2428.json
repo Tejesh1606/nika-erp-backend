@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hernandez LLC",
+    "invoice_number": "INV-30637",
+    "date": "2025-10-31",
+    "items": [
+        {
+            "description": "Total global array",
+            "quantity": 5,
+            "unit_price": 371.22,
+            "total_price": 1856.1
+        },
+        {
+            "description": "Multi-tiered executive solution",
+            "quantity": 1,
+            "unit_price": 276.29,
+            "total_price": 276.29
+        },
+        {
+            "description": "Optional tertiary policy",
+            "quantity": 10,
+            "unit_price": 324.87,
+            "total_price": 3248.7
+        },
+        {
+            "description": "Expanded demand-driven success",
+            "quantity": 4,
+            "unit_price": 462.3,
+            "total_price": 1849.2
+        }
+    ],
+    "amount": 7230.29
+}

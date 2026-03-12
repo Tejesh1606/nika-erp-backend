@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Perez, Burnett and Mueller",
+    "invoice_number": "INV-16553",
+    "date": "2025-04-17",
+    "items": [
+        {
+            "description": "Profound non-volatile benchmark",
+            "quantity": 2,
+            "unit_price": 215.29,
+            "total_price": 430.58
+        },
+        {
+            "description": "Multi-channeled interactive software",
+            "quantity": 1,
+            "unit_price": 423.38,
+            "total_price": 423.38
+        },
+        {
+            "description": "Polarized content-based frame",
+            "quantity": 2,
+            "unit_price": 494.01,
+            "total_price": 988.02
+        },
+        {
+            "description": "Grass-roots homogeneous methodology",
+            "quantity": 9,
+            "unit_price": 13.3,
+            "total_price": 119.7
+        }
+    ],
+    "amount": 1961.68
+}

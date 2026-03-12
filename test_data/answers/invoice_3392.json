@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Nguyen, Mason and Armstrong",
+    "invoice_number": "INV-96400",
+    "date": "2025-07-15",
+    "items": [
+        {
+            "description": "Networked intermediate hardware",
+            "quantity": 1,
+            "unit_price": 252.1,
+            "total_price": 252.1
+        },
+        {
+            "description": "Cross-group neutral core",
+            "quantity": 2,
+            "unit_price": 412.21,
+            "total_price": 824.42
+        },
+        {
+            "description": "Organic needs-based website",
+            "quantity": 9,
+            "unit_price": 244.9,
+            "total_price": 2204.1
+        }
+    ],
+    "amount": 3280.62
+}

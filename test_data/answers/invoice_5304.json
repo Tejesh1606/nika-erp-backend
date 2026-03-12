@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Green, Pittman and Marshall",
+    "invoice_number": "INV-17969",
+    "date": "2025-12-07",
+    "items": [
+        {
+            "description": "Progressive intangible neural-net",
+            "quantity": 3,
+            "unit_price": 203.41,
+            "total_price": 610.23
+        }
+    ],
+    "amount": 610.23
+}

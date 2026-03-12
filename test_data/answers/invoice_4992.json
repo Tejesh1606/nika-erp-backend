@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Moore, Gutierrez and Dixon",
+    "invoice_number": "INV-36510",
+    "date": "2026-02-23",
+    "items": [
+        {
+            "description": "Synergistic full-range policy",
+            "quantity": 1,
+            "unit_price": 284.77,
+            "total_price": 284.77
+        },
+        {
+            "description": "Streamlined interactive capacity",
+            "quantity": 4,
+            "unit_price": 336.11,
+            "total_price": 1344.44
+        }
+    ],
+    "amount": 1629.21
+}

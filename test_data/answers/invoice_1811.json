@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Carroll, Reed and Maxwell",
+    "invoice_number": "INV-86475",
+    "date": "2025-09-17",
+    "items": [
+        {
+            "description": "Ameliorated zero-defect attitude",
+            "quantity": 6,
+            "unit_price": 24.42,
+            "total_price": 146.52
+        },
+        {
+            "description": "Focused logistical capability",
+            "quantity": 5,
+            "unit_price": 95.9,
+            "total_price": 479.5
+        },
+        {
+            "description": "Digitized even-keeled core",
+            "quantity": 5,
+            "unit_price": 374.47,
+            "total_price": 1872.35
+        }
+    ],
+    "amount": 2498.37
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Ward, Miller and English",
+    "invoice_number": "INV-58484",
+    "date": "2026-03-02",
+    "items": [
+        {
+            "description": "Team-oriented static Graphic Interface",
+            "quantity": 5,
+            "unit_price": 215.39,
+            "total_price": 1076.95
+        },
+        {
+            "description": "Operative mission-critical website",
+            "quantity": 5,
+            "unit_price": 220.67,
+            "total_price": 1103.35
+        },
+        {
+            "description": "Grass-roots 24/7 open system",
+            "quantity": 8,
+            "unit_price": 475.78,
+            "total_price": 3806.24
+        },
+        {
+            "description": "Enhanced actuating budgetary management",
+            "quantity": 1,
+            "unit_price": 298.56,
+            "total_price": 298.56
+        }
+    ],
+    "amount": 6285.1
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Martin, Lopez and Collier",
+    "invoice_number": "INV-53820",
+    "date": "2026-02-24",
+    "items": [
+        {
+            "description": "Inverse executive instruction set",
+            "quantity": 4,
+            "unit_price": 107.6,
+            "total_price": 430.4
+        },
+        {
+            "description": "Diverse 24hour conglomeration",
+            "quantity": 4,
+            "unit_price": 267.81,
+            "total_price": 1071.24
+        },
+        {
+            "description": "Decentralized discrete Graphical User Interface",
+            "quantity": 7,
+            "unit_price": 308.07,
+            "total_price": 2156.49
+        }
+    ],
+    "amount": 3658.13
+}

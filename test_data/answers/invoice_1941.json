@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wade PLC",
+    "invoice_number": "INV-23332",
+    "date": "2026-02-17",
+    "items": [
+        {
+            "description": "Focused bandwidth-monitored artificial intelligence",
+            "quantity": 6,
+            "unit_price": 130.61,
+            "total_price": 783.66
+        }
+    ],
+    "amount": 783.66
+}

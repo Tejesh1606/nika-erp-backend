@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hudson Group",
+    "invoice_number": "INV-45657",
+    "date": "2025-09-25",
+    "items": [
+        {
+            "description": "Function-based scalable challenge",
+            "quantity": 9,
+            "unit_price": 91.63,
+            "total_price": 824.67
+        },
+        {
+            "description": "Cross-group 24/7 open system",
+            "quantity": 10,
+            "unit_price": 419.86,
+            "total_price": 4198.6
+        },
+        {
+            "description": "Diverse contextually-based capacity",
+            "quantity": 3,
+            "unit_price": 211.23,
+            "total_price": 633.69
+        },
+        {
+            "description": "Inverse background superstructure",
+            "quantity": 8,
+            "unit_price": 291.04,
+            "total_price": 2328.32
+        }
+    ],
+    "amount": 7985.28
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Suarez-Pope",
+    "invoice_number": "INV-79099",
+    "date": "2025-10-25",
+    "items": [
+        {
+            "description": "Open-source 6thgeneration matrix",
+            "quantity": 9,
+            "unit_price": 130.2,
+            "total_price": 1171.8
+        }
+    ],
+    "amount": 1171.8
+}

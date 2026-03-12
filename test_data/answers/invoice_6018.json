@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Shields LLC",
+    "invoice_number": "INV-71944",
+    "date": "2026-01-08",
+    "items": [
+        {
+            "description": "Upgradable stable strategy",
+            "quantity": 2,
+            "unit_price": 256.24,
+            "total_price": 512.48
+        }
+    ],
+    "amount": 512.48
+}

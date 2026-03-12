@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Carey, Lee and Combs",
+    "invoice_number": "INV-93725",
+    "date": "2025-04-10",
+    "items": [
+        {
+            "description": "Adaptive incremental hierarchy",
+            "quantity": 3,
+            "unit_price": 417.08,
+            "total_price": 1251.24
+        },
+        {
+            "description": "Organized disintermediate website",
+            "quantity": 10,
+            "unit_price": 240.23,
+            "total_price": 2402.3
+        }
+    ],
+    "amount": 3653.54
+}

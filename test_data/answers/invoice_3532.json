@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jordan-Baker",
+    "invoice_number": "INV-12729",
+    "date": "2025-08-01",
+    "items": [
+        {
+            "description": "Innovative bottom-line toolset",
+            "quantity": 6,
+            "unit_price": 319.79,
+            "total_price": 1918.74
+        },
+        {
+            "description": "Distributed zero-defect collaboration",
+            "quantity": 4,
+            "unit_price": 149.78,
+            "total_price": 599.12
+        }
+    ],
+    "amount": 2517.86
+}

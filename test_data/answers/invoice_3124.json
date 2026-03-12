@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Howell and Sons",
+    "invoice_number": "INV-61043",
+    "date": "2025-03-29",
+    "items": [
+        {
+            "description": "Adaptive actuating secured line",
+            "quantity": 1,
+            "unit_price": 154.55,
+            "total_price": 154.55
+        },
+        {
+            "description": "Configurable zero tolerance utilization",
+            "quantity": 5,
+            "unit_price": 456.73,
+            "total_price": 2283.65
+        }
+    ],
+    "amount": 2438.2
+}

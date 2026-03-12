@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Roberts PLC",
+    "invoice_number": "INV-42860",
+    "date": "2026-03-06",
+    "items": [
+        {
+            "description": "Universal 24/7 superstructure",
+            "quantity": 5,
+            "unit_price": 148.55,
+            "total_price": 742.75
+        },
+        {
+            "description": "De-engineered client-server success",
+            "quantity": 7,
+            "unit_price": 258.29,
+            "total_price": 1808.03
+        },
+        {
+            "description": "User-centric eco-centric infrastructure",
+            "quantity": 2,
+            "unit_price": 175.81,
+            "total_price": 351.62
+        },
+        {
+            "description": "Enhanced hybrid matrices",
+            "quantity": 8,
+            "unit_price": 222.18,
+            "total_price": 1777.44
+        }
+    ],
+    "amount": 4679.84
+}

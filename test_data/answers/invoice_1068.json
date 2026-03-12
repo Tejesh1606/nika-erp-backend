@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gonzalez Ltd",
+    "invoice_number": "INV-46842",
+    "date": "2025-08-08",
+    "items": [
+        {
+            "description": "Customer-focused optimal utilization",
+            "quantity": 10,
+            "unit_price": 321.37,
+            "total_price": 3213.7
+        }
+    ],
+    "amount": 3213.7
+}

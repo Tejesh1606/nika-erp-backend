@@ -1,0 +1,14 @@
+{
+    "vendor_name": "English, Dean and Wilson",
+    "invoice_number": "INV-30397",
+    "date": "2025-12-30",
+    "items": [
+        {
+            "description": "Self-enabling optimizing encryption",
+            "quantity": 10,
+            "unit_price": 116.02,
+            "total_price": 1160.2
+        }
+    ],
+    "amount": 1160.2
+}

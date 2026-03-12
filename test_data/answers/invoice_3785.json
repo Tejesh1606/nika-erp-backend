@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Beck-Jones",
+    "invoice_number": "INV-95632",
+    "date": "2025-10-02",
+    "items": [
+        {
+            "description": "Digitized fresh-thinking software",
+            "quantity": 5,
+            "unit_price": 223.0,
+            "total_price": 1115.0
+        },
+        {
+            "description": "Networked 6thgeneration solution",
+            "quantity": 3,
+            "unit_price": 32.74,
+            "total_price": 98.22
+        }
+    ],
+    "amount": 1213.22
+}

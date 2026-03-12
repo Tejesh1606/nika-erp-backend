@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Russell, Smith and Vaughn",
+    "invoice_number": "INV-83716",
+    "date": "2026-01-11",
+    "items": [
+        {
+            "description": "Pre-emptive needs-based methodology",
+            "quantity": 3,
+            "unit_price": 471.26,
+            "total_price": 1413.78
+        },
+        {
+            "description": "Intuitive solution-oriented encoding",
+            "quantity": 9,
+            "unit_price": 380.28,
+            "total_price": 3422.52
+        },
+        {
+            "description": "Inverse maximized strategy",
+            "quantity": 9,
+            "unit_price": 494.79,
+            "total_price": 4453.11
+        }
+    ],
+    "amount": 9289.41
+}

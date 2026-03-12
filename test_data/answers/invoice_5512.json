@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Roberts, Lopez and Parker",
+    "invoice_number": "INV-85712",
+    "date": "2026-01-09",
+    "items": [
+        {
+            "description": "Ergonomic local concept",
+            "quantity": 8,
+            "unit_price": 36.4,
+            "total_price": 291.2
+        },
+        {
+            "description": "User-friendly context-sensitive emulation",
+            "quantity": 7,
+            "unit_price": 214.06,
+            "total_price": 1498.42
+        }
+    ],
+    "amount": 1789.62
+}

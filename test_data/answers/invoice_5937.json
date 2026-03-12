@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Cooper, Friedman and Navarro",
+    "invoice_number": "INV-14192",
+    "date": "2025-07-08",
+    "items": [
+        {
+            "description": "Enhanced stable data-warehouse",
+            "quantity": 1,
+            "unit_price": 469.08,
+            "total_price": 469.08
+        },
+        {
+            "description": "User-friendly interactive benchmark",
+            "quantity": 9,
+            "unit_price": 395.93,
+            "total_price": 3563.37
+        },
+        {
+            "description": "Function-based well-modulated attitude",
+            "quantity": 8,
+            "unit_price": 322.19,
+            "total_price": 2577.52
+        },
+        {
+            "description": "Optional zero tolerance emulation",
+            "quantity": 1,
+            "unit_price": 495.03,
+            "total_price": 495.03
+        }
+    ],
+    "amount": 7105.0
+}

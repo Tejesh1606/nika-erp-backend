@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Valentine-Perry",
+    "invoice_number": "INV-98923",
+    "date": "2026-03-08",
+    "items": [
+        {
+            "description": "Compatible contextually-based software",
+            "quantity": 10,
+            "unit_price": 454.13,
+            "total_price": 4541.3
+        }
+    ],
+    "amount": 4541.3
+}

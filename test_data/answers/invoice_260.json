@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Miller Group",
+    "invoice_number": "INV-68830",
+    "date": "2025-10-11",
+    "items": [
+        {
+            "description": "Realigned multimedia installation",
+            "quantity": 3,
+            "unit_price": 488.59,
+            "total_price": 1465.77
+        }
+    ],
+    "amount": 1465.77
+}

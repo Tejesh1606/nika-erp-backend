@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Clayton-Morgan",
+    "invoice_number": "INV-85750",
+    "date": "2025-04-28",
+    "items": [
+        {
+            "description": "Re-contextualized mobile toolset",
+            "quantity": 8,
+            "unit_price": 342.33,
+            "total_price": 2738.64
+        },
+        {
+            "description": "Mandatory systemic task-force",
+            "quantity": 6,
+            "unit_price": 34.91,
+            "total_price": 209.46
+        },
+        {
+            "description": "Business-focused 6thgeneration attitude",
+            "quantity": 6,
+            "unit_price": 251.44,
+            "total_price": 1508.64
+        },
+        {
+            "description": "Self-enabling zero tolerance knowledgebase",
+            "quantity": 4,
+            "unit_price": 395.64,
+            "total_price": 1582.56
+        }
+    ],
+    "amount": 6039.3
+}

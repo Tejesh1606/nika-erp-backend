@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Thomas-Jensen",
+    "invoice_number": "INV-18826",
+    "date": "2026-01-10",
+    "items": [
+        {
+            "description": "Integrated user-facing projection",
+            "quantity": 5,
+            "unit_price": 301.12,
+            "total_price": 1505.6
+        }
+    ],
+    "amount": 1505.6
+}

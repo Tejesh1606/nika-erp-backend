@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wilson, Stevens and Weiss",
+    "invoice_number": "INV-61904",
+    "date": "2025-07-07",
+    "items": [
+        {
+            "description": "Cloned empowering matrix",
+            "quantity": 8,
+            "unit_price": 75.5,
+            "total_price": 604.0
+        },
+        {
+            "description": "Managed intangible orchestration",
+            "quantity": 9,
+            "unit_price": 112.5,
+            "total_price": 1012.5
+        },
+        {
+            "description": "Advanced 24/7 productivity",
+            "quantity": 4,
+            "unit_price": 389.39,
+            "total_price": 1557.56
+        },
+        {
+            "description": "Cloned multi-state flexibility",
+            "quantity": 8,
+            "unit_price": 444.02,
+            "total_price": 3552.16
+        }
+    ],
+    "amount": 6726.22
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jones, Shields and Schmidt",
+    "invoice_number": "INV-56021",
+    "date": "2026-02-15",
+    "items": [
+        {
+            "description": "Versatile optimal help-desk",
+            "quantity": 10,
+            "unit_price": 408.78,
+            "total_price": 4087.8
+        },
+        {
+            "description": "Quality-focused national archive",
+            "quantity": 4,
+            "unit_price": 381.03,
+            "total_price": 1524.12
+        },
+        {
+            "description": "Diverse dedicated interface",
+            "quantity": 5,
+            "unit_price": 256.07,
+            "total_price": 1280.35
+        }
+    ],
+    "amount": 6892.27
+}

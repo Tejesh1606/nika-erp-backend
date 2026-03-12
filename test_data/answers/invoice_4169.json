@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Goodman-Chaney",
+    "invoice_number": "INV-92706",
+    "date": "2025-06-12",
+    "items": [
+        {
+            "description": "Robust intangible hierarchy",
+            "quantity": 10,
+            "unit_price": 228.59,
+            "total_price": 2285.9
+        },
+        {
+            "description": "Diverse mission-critical product",
+            "quantity": 5,
+            "unit_price": 475.29,
+            "total_price": 2376.45
+        }
+    ],
+    "amount": 4662.35
+}

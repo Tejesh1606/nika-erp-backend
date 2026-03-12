@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Moore Group",
+    "invoice_number": "INV-99040",
+    "date": "2026-02-04",
+    "items": [
+        {
+            "description": "Virtual bottom-line flexibility",
+            "quantity": 7,
+            "unit_price": 366.32,
+            "total_price": 2564.24
+        },
+        {
+            "description": "Adaptive transitional throughput",
+            "quantity": 10,
+            "unit_price": 287.39,
+            "total_price": 2873.9
+        },
+        {
+            "description": "De-engineered scalable forecast",
+            "quantity": 3,
+            "unit_price": 326.02,
+            "total_price": 978.06
+        },
+        {
+            "description": "Managed exuding challenge",
+            "quantity": 3,
+            "unit_price": 125.09,
+            "total_price": 375.27
+        }
+    ],
+    "amount": 6791.47
+}

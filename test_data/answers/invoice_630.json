@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Sullivan and Sons",
+    "invoice_number": "INV-95701",
+    "date": "2025-11-23",
+    "items": [
+        {
+            "description": "Programmable logistical service-desk",
+            "quantity": 10,
+            "unit_price": 88.95,
+            "total_price": 889.5
+        },
+        {
+            "description": "Public-key coherent support",
+            "quantity": 7,
+            "unit_price": 453.26,
+            "total_price": 3172.82
+        },
+        {
+            "description": "Reduced discrete archive",
+            "quantity": 4,
+            "unit_price": 66.86,
+            "total_price": 267.44
+        }
+    ],
+    "amount": 4329.76
+}

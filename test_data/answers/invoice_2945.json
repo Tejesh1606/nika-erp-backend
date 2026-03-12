@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Herring Ltd",
+    "invoice_number": "INV-43064",
+    "date": "2025-09-04",
+    "items": [
+        {
+            "description": "Persevering discrete throughput",
+            "quantity": 4,
+            "unit_price": 116.66,
+            "total_price": 466.64
+        },
+        {
+            "description": "Horizontal reciprocal firmware",
+            "quantity": 10,
+            "unit_price": 161.59,
+            "total_price": 1615.9
+        },
+        {
+            "description": "Front-line stable archive",
+            "quantity": 2,
+            "unit_price": 18.21,
+            "total_price": 36.42
+        },
+        {
+            "description": "Switchable empowering solution",
+            "quantity": 6,
+            "unit_price": 234.01,
+            "total_price": 1404.06
+        }
+    ],
+    "amount": 3523.02
+}

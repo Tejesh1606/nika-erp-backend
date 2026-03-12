@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Taylor PLC",
+    "invoice_number": "INV-74315",
+    "date": "2026-01-24",
+    "items": [
+        {
+            "description": "Networked tangible service-desk",
+            "quantity": 4,
+            "unit_price": 144.07,
+            "total_price": 576.28
+        },
+        {
+            "description": "Grass-roots needs-based info-mediaries",
+            "quantity": 1,
+            "unit_price": 354.95,
+            "total_price": 354.95
+        },
+        {
+            "description": "Cloned neutral core",
+            "quantity": 2,
+            "unit_price": 355.86,
+            "total_price": 711.72
+        },
+        {
+            "description": "User-friendly next generation concept",
+            "quantity": 5,
+            "unit_price": 61.52,
+            "total_price": 307.6
+        }
+    ],
+    "amount": 1950.55
+}

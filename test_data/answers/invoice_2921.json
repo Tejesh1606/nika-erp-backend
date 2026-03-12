@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Sutton-Mcgrath",
+    "invoice_number": "INV-30511",
+    "date": "2025-08-22",
+    "items": [
+        {
+            "description": "Organic fresh-thinking task-force",
+            "quantity": 9,
+            "unit_price": 46.49,
+            "total_price": 418.41
+        },
+        {
+            "description": "Decentralized value-added projection",
+            "quantity": 7,
+            "unit_price": 140.55,
+            "total_price": 983.85
+        },
+        {
+            "description": "Decentralized reciprocal process improvement",
+            "quantity": 4,
+            "unit_price": 317.2,
+            "total_price": 1268.8
+        }
+    ],
+    "amount": 2671.06
+}

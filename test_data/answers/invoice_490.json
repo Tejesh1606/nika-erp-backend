@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Zuniga Group",
+    "invoice_number": "INV-81884",
+    "date": "2025-03-29",
+    "items": [
+        {
+            "description": "Assimilated zero administration infrastructure",
+            "quantity": 4,
+            "unit_price": 70.55,
+            "total_price": 282.2
+        }
+    ],
+    "amount": 282.2
+}

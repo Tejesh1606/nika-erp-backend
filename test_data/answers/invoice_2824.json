@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jackson, Rosales and Nelson",
+    "invoice_number": "INV-90835",
+    "date": "2025-09-28",
+    "items": [
+        {
+            "description": "Up-sized discrete workforce",
+            "quantity": 1,
+            "unit_price": 60.2,
+            "total_price": 60.2
+        }
+    ],
+    "amount": 60.2
+}

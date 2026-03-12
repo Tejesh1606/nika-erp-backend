@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Cantu Ltd",
+    "invoice_number": "INV-92217",
+    "date": "2025-04-11",
+    "items": [
+        {
+            "description": "Reduced bi-directional leverage",
+            "quantity": 6,
+            "unit_price": 497.35,
+            "total_price": 2984.1
+        },
+        {
+            "description": "Adaptive cohesive software",
+            "quantity": 1,
+            "unit_price": 90.18,
+            "total_price": 90.18
+        },
+        {
+            "description": "Future-proofed contextually-based encoding",
+            "quantity": 1,
+            "unit_price": 310.08,
+            "total_price": 310.08
+        },
+        {
+            "description": "Optimized value-added encoding",
+            "quantity": 2,
+            "unit_price": 469.42,
+            "total_price": 938.84
+        }
+    ],
+    "amount": 4323.2
+}

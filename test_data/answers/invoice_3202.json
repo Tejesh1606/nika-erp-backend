@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wallace, Rush and Rhodes",
+    "invoice_number": "INV-62482",
+    "date": "2025-04-18",
+    "items": [
+        {
+            "description": "Persevering zero administration portal",
+            "quantity": 2,
+            "unit_price": 47.3,
+            "total_price": 94.6
+        },
+        {
+            "description": "Automated intermediate project",
+            "quantity": 10,
+            "unit_price": 434.48,
+            "total_price": 4344.8
+        }
+    ],
+    "amount": 4439.4
+}

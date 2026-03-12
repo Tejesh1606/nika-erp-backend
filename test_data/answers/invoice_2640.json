@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Peterson, Garcia and Thomas",
+    "invoice_number": "INV-54631",
+    "date": "2025-08-02",
+    "items": [
+        {
+            "description": "Universal transitional service-desk",
+            "quantity": 4,
+            "unit_price": 253.03,
+            "total_price": 1012.12
+        },
+        {
+            "description": "Grass-roots tangible methodology",
+            "quantity": 7,
+            "unit_price": 284.07,
+            "total_price": 1988.49
+        }
+    ],
+    "amount": 3000.61
+}

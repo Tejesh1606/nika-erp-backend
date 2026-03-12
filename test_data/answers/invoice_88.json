@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wilson-Barton",
+    "invoice_number": "INV-77449",
+    "date": "2026-01-23",
+    "items": [
+        {
+            "description": "Adaptive stable moratorium",
+            "quantity": 6,
+            "unit_price": 36.2,
+            "total_price": 217.2
+        },
+        {
+            "description": "Persistent incremental application",
+            "quantity": 10,
+            "unit_price": 444.54,
+            "total_price": 4445.4
+        },
+        {
+            "description": "Ergonomic multi-state hierarchy",
+            "quantity": 6,
+            "unit_price": 218.03,
+            "total_price": 1308.18
+        },
+        {
+            "description": "Secured web-enabled methodology",
+            "quantity": 7,
+            "unit_price": 294.49,
+            "total_price": 2061.43
+        }
+    ],
+    "amount": 8032.21
+}

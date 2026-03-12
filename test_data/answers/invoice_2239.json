@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Arnold LLC",
+    "invoice_number": "INV-24048",
+    "date": "2025-10-08",
+    "items": [
+        {
+            "description": "Customizable systemic instruction set",
+            "quantity": 4,
+            "unit_price": 343.63,
+            "total_price": 1374.52
+        },
+        {
+            "description": "Cloned responsive conglomeration",
+            "quantity": 5,
+            "unit_price": 257.51,
+            "total_price": 1287.55
+        }
+    ],
+    "amount": 2662.07
+}

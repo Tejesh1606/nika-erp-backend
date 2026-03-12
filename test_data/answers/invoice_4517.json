@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Chandler, Martinez and Mills",
+    "invoice_number": "INV-19610",
+    "date": "2025-11-11",
+    "items": [
+        {
+            "description": "Cross-platform asynchronous contingency",
+            "quantity": 8,
+            "unit_price": 408.46,
+            "total_price": 3267.68
+        },
+        {
+            "description": "Object-based fault-tolerant productivity",
+            "quantity": 8,
+            "unit_price": 169.57,
+            "total_price": 1356.56
+        }
+    ],
+    "amount": 4624.24
+}

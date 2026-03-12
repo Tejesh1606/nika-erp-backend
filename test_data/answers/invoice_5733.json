@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lamb-Summers",
+    "invoice_number": "INV-84089",
+    "date": "2025-11-02",
+    "items": [
+        {
+            "description": "Up-sized bandwidth-monitored throughput",
+            "quantity": 7,
+            "unit_price": 178.17,
+            "total_price": 1247.19
+        }
+    ],
+    "amount": 1247.19
+}

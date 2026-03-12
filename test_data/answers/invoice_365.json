@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Burke Inc",
+    "invoice_number": "INV-39329",
+    "date": "2025-06-15",
+    "items": [
+        {
+            "description": "Robust fault-tolerant structure",
+            "quantity": 4,
+            "unit_price": 126.08,
+            "total_price": 504.32
+        },
+        {
+            "description": "Triple-buffered secondary focus group",
+            "quantity": 3,
+            "unit_price": 496.23,
+            "total_price": 1488.69
+        },
+        {
+            "description": "Optimized homogeneous hardware",
+            "quantity": 3,
+            "unit_price": 330.25,
+            "total_price": 990.75
+        }
+    ],
+    "amount": 2983.76
+}

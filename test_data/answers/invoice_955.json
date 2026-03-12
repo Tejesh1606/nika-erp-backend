@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Martin, Underwood and Stewart",
+    "invoice_number": "INV-66836",
+    "date": "2025-08-03",
+    "items": [
+        {
+            "description": "Assimilated real-time encryption",
+            "quantity": 5,
+            "unit_price": 399.13,
+            "total_price": 1995.65
+        },
+        {
+            "description": "Compatible encompassing capability",
+            "quantity": 1,
+            "unit_price": 169.0,
+            "total_price": 169.0
+        }
+    ],
+    "amount": 2164.65
+}

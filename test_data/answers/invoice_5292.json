@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Rodriguez PLC",
+    "invoice_number": "INV-20195",
+    "date": "2025-10-03",
+    "items": [
+        {
+            "description": "Diverse content-based installation",
+            "quantity": 9,
+            "unit_price": 466.08,
+            "total_price": 4194.72
+        },
+        {
+            "description": "Ergonomic methodical challenge",
+            "quantity": 2,
+            "unit_price": 41.18,
+            "total_price": 82.36
+        },
+        {
+            "description": "Managed bifurcated array",
+            "quantity": 8,
+            "unit_price": 17.79,
+            "total_price": 142.32
+        }
+    ],
+    "amount": 4419.4
+}

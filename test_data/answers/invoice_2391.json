@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Weber Group",
+    "invoice_number": "INV-17447",
+    "date": "2025-11-10",
+    "items": [
+        {
+            "description": "Versatile context-sensitive instruction set",
+            "quantity": 4,
+            "unit_price": 171.09,
+            "total_price": 684.36
+        },
+        {
+            "description": "Ergonomic systematic firmware",
+            "quantity": 1,
+            "unit_price": 430.28,
+            "total_price": 430.28
+        },
+        {
+            "description": "Grass-roots encompassing data-warehouse",
+            "quantity": 1,
+            "unit_price": 456.11,
+            "total_price": 456.11
+        }
+    ],
+    "amount": 1570.75
+}

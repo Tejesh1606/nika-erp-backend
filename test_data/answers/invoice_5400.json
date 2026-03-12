@@ -1,0 +1,14 @@
+{
+    "vendor_name": "King-Steele",
+    "invoice_number": "INV-64186",
+    "date": "2025-05-14",
+    "items": [
+        {
+            "description": "Public-key background support",
+            "quantity": 4,
+            "unit_price": 443.84,
+            "total_price": 1775.36
+        }
+    ],
+    "amount": 1775.36
+}

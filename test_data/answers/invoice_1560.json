@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Armstrong Ltd",
+    "invoice_number": "INV-33061",
+    "date": "2025-06-28",
+    "items": [
+        {
+            "description": "Reactive methodical interface",
+            "quantity": 8,
+            "unit_price": 86.18,
+            "total_price": 689.44
+        }
+    ],
+    "amount": 689.44
+}

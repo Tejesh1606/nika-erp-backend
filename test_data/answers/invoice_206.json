@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wise-Bush",
+    "invoice_number": "INV-74094",
+    "date": "2025-07-10",
+    "items": [
+        {
+            "description": "Polarized grid-enabled open architecture",
+            "quantity": 3,
+            "unit_price": 203.2,
+            "total_price": 609.6
+        },
+        {
+            "description": "Up-sized even-keeled forecast",
+            "quantity": 8,
+            "unit_price": 222.69,
+            "total_price": 1781.52
+        },
+        {
+            "description": "Decentralized object-oriented service-desk",
+            "quantity": 3,
+            "unit_price": 447.43,
+            "total_price": 1342.29
+        }
+    ],
+    "amount": 3733.41
+}

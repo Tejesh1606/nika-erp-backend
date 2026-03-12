@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mercer-Watson",
+    "invoice_number": "INV-26985",
+    "date": "2025-03-26",
+    "items": [
+        {
+            "description": "Polarized client-server workforce",
+            "quantity": 6,
+            "unit_price": 36.22,
+            "total_price": 217.32
+        },
+        {
+            "description": "Cross-platform hybrid contingency",
+            "quantity": 5,
+            "unit_price": 481.99,
+            "total_price": 2409.95
+        },
+        {
+            "description": "Future-proofed local solution",
+            "quantity": 3,
+            "unit_price": 417.16,
+            "total_price": 1251.48
+        }
+    ],
+    "amount": 3878.75
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Juarez and Sons",
+    "invoice_number": "INV-15049",
+    "date": "2025-10-05",
+    "items": [
+        {
+            "description": "Multi-tiered asymmetric software",
+            "quantity": 4,
+            "unit_price": 40.14,
+            "total_price": 160.56
+        }
+    ],
+    "amount": 160.56
+}

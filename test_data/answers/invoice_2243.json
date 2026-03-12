@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bradley Ltd",
+    "invoice_number": "INV-65996",
+    "date": "2025-04-04",
+    "items": [
+        {
+            "description": "Monitored background capacity",
+            "quantity": 8,
+            "unit_price": 91.12,
+            "total_price": 728.96
+        },
+        {
+            "description": "Assimilated solution-oriented firmware",
+            "quantity": 8,
+            "unit_price": 102.85,
+            "total_price": 822.8
+        },
+        {
+            "description": "Public-key transitional hub",
+            "quantity": 6,
+            "unit_price": 46.26,
+            "total_price": 277.56
+        }
+    ],
+    "amount": 1829.32
+}

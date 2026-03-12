@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Beck PLC",
+    "invoice_number": "INV-65603",
+    "date": "2025-08-28",
+    "items": [
+        {
+            "description": "Open-architected systematic encryption",
+            "quantity": 1,
+            "unit_price": 244.41,
+            "total_price": 244.41
+        },
+        {
+            "description": "Multi-channeled dedicated utilization",
+            "quantity": 6,
+            "unit_price": 178.13,
+            "total_price": 1068.78
+        },
+        {
+            "description": "Optimized mobile encoding",
+            "quantity": 7,
+            "unit_price": 358.26,
+            "total_price": 2507.82
+        }
+    ],
+    "amount": 3821.01
+}

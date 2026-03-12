@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Merritt, Riley and Anthony",
+    "invoice_number": "INV-65927",
+    "date": "2025-06-27",
+    "items": [
+        {
+            "description": "Inverse human-resource functionalities",
+            "quantity": 2,
+            "unit_price": 305.06,
+            "total_price": 610.12
+        },
+        {
+            "description": "Versatile context-sensitive circuit",
+            "quantity": 7,
+            "unit_price": 310.58,
+            "total_price": 2174.06
+        },
+        {
+            "description": "Balanced user-facing superstructure",
+            "quantity": 9,
+            "unit_price": 431.79,
+            "total_price": 3886.11
+        }
+    ],
+    "amount": 6670.29
+}

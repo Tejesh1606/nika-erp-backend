@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Roth Group",
+    "invoice_number": "INV-78750",
+    "date": "2025-04-15",
+    "items": [
+        {
+            "description": "Front-line interactive knowledge user",
+            "quantity": 2,
+            "unit_price": 300.13,
+            "total_price": 600.26
+        },
+        {
+            "description": "Intuitive 6thgeneration adapter",
+            "quantity": 3,
+            "unit_price": 35.36,
+            "total_price": 106.08
+        }
+    ],
+    "amount": 706.34
+}

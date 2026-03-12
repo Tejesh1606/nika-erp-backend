@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Shepherd Inc",
+    "invoice_number": "INV-27619",
+    "date": "2026-01-11",
+    "items": [
+        {
+            "description": "De-engineered client-driven software",
+            "quantity": 7,
+            "unit_price": 386.56,
+            "total_price": 2705.92
+        },
+        {
+            "description": "Total directional flexibility",
+            "quantity": 5,
+            "unit_price": 41.67,
+            "total_price": 208.35
+        },
+        {
+            "description": "Seamless optimizing moratorium",
+            "quantity": 1,
+            "unit_price": 136.65,
+            "total_price": 136.65
+        }
+    ],
+    "amount": 3050.92
+}

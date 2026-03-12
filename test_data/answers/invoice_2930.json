@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Graves, Simpson and Williams",
+    "invoice_number": "INV-53615",
+    "date": "2025-12-25",
+    "items": [
+        {
+            "description": "Expanded hybrid standardization",
+            "quantity": 5,
+            "unit_price": 206.9,
+            "total_price": 1034.5
+        }
+    ],
+    "amount": 1034.5
+}

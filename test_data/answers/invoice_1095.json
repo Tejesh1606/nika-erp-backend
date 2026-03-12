@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Holloway, Holt and Simpson",
+    "invoice_number": "INV-32417",
+    "date": "2026-01-08",
+    "items": [
+        {
+            "description": "Expanded grid-enabled productivity",
+            "quantity": 7,
+            "unit_price": 287.35,
+            "total_price": 2011.45
+        }
+    ],
+    "amount": 2011.45
+}

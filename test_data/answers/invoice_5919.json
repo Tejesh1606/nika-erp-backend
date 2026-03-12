@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hutchinson-Thompson",
+    "invoice_number": "INV-40152",
+    "date": "2026-01-20",
+    "items": [
+        {
+            "description": "Profit-focused bottom-line function",
+            "quantity": 10,
+            "unit_price": 171.37,
+            "total_price": 1713.7
+        }
+    ],
+    "amount": 1713.7
+}

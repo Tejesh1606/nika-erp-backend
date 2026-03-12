@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Davis-Hale",
+    "invoice_number": "INV-28304",
+    "date": "2025-12-15",
+    "items": [
+        {
+            "description": "Realigned even-keeled Internet solution",
+            "quantity": 2,
+            "unit_price": 301.81,
+            "total_price": 603.62
+        }
+    ],
+    "amount": 603.62
+}

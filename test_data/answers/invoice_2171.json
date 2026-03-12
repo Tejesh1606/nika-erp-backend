@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Rice LLC",
+    "invoice_number": "INV-66939",
+    "date": "2026-02-01",
+    "items": [
+        {
+            "description": "Public-key bifurcated time-frame",
+            "quantity": 7,
+            "unit_price": 377.75,
+            "total_price": 2644.25
+        },
+        {
+            "description": "Configurable object-oriented encryption",
+            "quantity": 8,
+            "unit_price": 434.57,
+            "total_price": 3476.56
+        },
+        {
+            "description": "Seamless mobile monitoring",
+            "quantity": 2,
+            "unit_price": 242.55,
+            "total_price": 485.1
+        }
+    ],
+    "amount": 6605.91
+}

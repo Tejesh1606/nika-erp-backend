@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rodgers, Harris and Matthews",
+    "invoice_number": "INV-58709",
+    "date": "2025-11-25",
+    "items": [
+        {
+            "description": "Down-sized reciprocal attitude",
+            "quantity": 3,
+            "unit_price": 481.36,
+            "total_price": 1444.08
+        },
+        {
+            "description": "Horizontal secondary policy",
+            "quantity": 8,
+            "unit_price": 340.97,
+            "total_price": 2727.76
+        },
+        {
+            "description": "Face-to-face methodical data-warehouse",
+            "quantity": 3,
+            "unit_price": 374.02,
+            "total_price": 1122.06
+        },
+        {
+            "description": "Versatile global productivity",
+            "quantity": 1,
+            "unit_price": 362.44,
+            "total_price": 362.44
+        }
+    ],
+    "amount": 5656.34
+}

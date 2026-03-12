@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Coleman PLC",
+    "invoice_number": "INV-18311",
+    "date": "2025-04-12",
+    "items": [
+        {
+            "description": "Innovative asynchronous data-warehouse",
+            "quantity": 5,
+            "unit_price": 392.6,
+            "total_price": 1963.0
+        },
+        {
+            "description": "Customizable optimizing system engine",
+            "quantity": 3,
+            "unit_price": 309.87,
+            "total_price": 929.61
+        },
+        {
+            "description": "Up-sized dynamic help-desk",
+            "quantity": 2,
+            "unit_price": 261.53,
+            "total_price": 523.06
+        },
+        {
+            "description": "Switchable web-enabled policy",
+            "quantity": 4,
+            "unit_price": 395.48,
+            "total_price": 1581.92
+        }
+    ],
+    "amount": 4997.59
+}

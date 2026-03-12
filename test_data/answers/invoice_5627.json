@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Klein-Jenkins",
+    "invoice_number": "INV-75592",
+    "date": "2025-06-23",
+    "items": [
+        {
+            "description": "Polarized bi-directional core",
+            "quantity": 8,
+            "unit_price": 412.58,
+            "total_price": 3300.64
+        },
+        {
+            "description": "Down-sized systemic process improvement",
+            "quantity": 10,
+            "unit_price": 98.91,
+            "total_price": 989.1
+        },
+        {
+            "description": "Centralized bandwidth-monitored time-frame",
+            "quantity": 5,
+            "unit_price": 354.11,
+            "total_price": 1770.55
+        },
+        {
+            "description": "Centralized context-sensitive portal",
+            "quantity": 3,
+            "unit_price": 30.28,
+            "total_price": 90.84
+        }
+    ],
+    "amount": 6151.13
+}

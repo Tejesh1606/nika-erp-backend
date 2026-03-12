@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jimenez-Ellis",
+    "invoice_number": "INV-70788",
+    "date": "2025-09-01",
+    "items": [
+        {
+            "description": "Front-line intangible Graphical User Interface",
+            "quantity": 6,
+            "unit_price": 193.93,
+            "total_price": 1163.58
+        },
+        {
+            "description": "Virtual logistical implementation",
+            "quantity": 9,
+            "unit_price": 475.08,
+            "total_price": 4275.72
+        },
+        {
+            "description": "Integrated heuristic hardware",
+            "quantity": 6,
+            "unit_price": 380.14,
+            "total_price": 2280.84
+        },
+        {
+            "description": "Innovative full-range process improvement",
+            "quantity": 1,
+            "unit_price": 137.39,
+            "total_price": 137.39
+        }
+    ],
+    "amount": 7857.53
+}

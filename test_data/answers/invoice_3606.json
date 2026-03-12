@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Simmons-Lane",
+    "invoice_number": "INV-29490",
+    "date": "2025-08-04",
+    "items": [
+        {
+            "description": "Pre-emptive bifurcated orchestration",
+            "quantity": 6,
+            "unit_price": 61.27,
+            "total_price": 367.62
+        }
+    ],
+    "amount": 367.62
+}

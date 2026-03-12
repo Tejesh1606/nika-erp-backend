@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Barrett, Smith and Myers",
+    "invoice_number": "INV-16505",
+    "date": "2025-04-11",
+    "items": [
+        {
+            "description": "Innovative static synergy",
+            "quantity": 9,
+            "unit_price": 236.7,
+            "total_price": 2130.3
+        },
+        {
+            "description": "Multi-tiered 3rdgeneration functionalities",
+            "quantity": 10,
+            "unit_price": 140.35,
+            "total_price": 1403.5
+        },
+        {
+            "description": "Cross-group optimizing algorithm",
+            "quantity": 8,
+            "unit_price": 250.53,
+            "total_price": 2004.24
+        }
+    ],
+    "amount": 5538.04
+}

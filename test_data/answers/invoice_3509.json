@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Patterson Ltd",
+    "invoice_number": "INV-78060",
+    "date": "2025-07-13",
+    "items": [
+        {
+            "description": "User-friendly regional middleware",
+            "quantity": 6,
+            "unit_price": 290.98,
+            "total_price": 1745.88
+        }
+    ],
+    "amount": 1745.88
+}

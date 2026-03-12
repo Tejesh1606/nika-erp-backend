@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Smith Group",
+    "invoice_number": "INV-40466",
+    "date": "2025-06-24",
+    "items": [
+        {
+            "description": "Mandatory dynamic product",
+            "quantity": 6,
+            "unit_price": 444.75,
+            "total_price": 2668.5
+        },
+        {
+            "description": "Synergistic demand-driven application",
+            "quantity": 10,
+            "unit_price": 202.76,
+            "total_price": 2027.6
+        }
+    ],
+    "amount": 4696.1
+}

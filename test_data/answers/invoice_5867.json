@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Rogers-Schmidt",
+    "invoice_number": "INV-24938",
+    "date": "2025-04-10",
+    "items": [
+        {
+            "description": "Stand-alone user-facing structure",
+            "quantity": 2,
+            "unit_price": 361.4,
+            "total_price": 722.8
+        },
+        {
+            "description": "Secured solution-oriented budgetary management",
+            "quantity": 6,
+            "unit_price": 357.52,
+            "total_price": 2145.12
+        }
+    ],
+    "amount": 2867.92
+}

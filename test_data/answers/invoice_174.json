@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Griffin-Robbins",
+    "invoice_number": "INV-31842",
+    "date": "2025-12-01",
+    "items": [
+        {
+            "description": "Organic grid-enabled knowledge user",
+            "quantity": 5,
+            "unit_price": 455.65,
+            "total_price": 2278.25
+        },
+        {
+            "description": "Balanced upward-trending help-desk",
+            "quantity": 4,
+            "unit_price": 359.36,
+            "total_price": 1437.44
+        }
+    ],
+    "amount": 3715.69
+}

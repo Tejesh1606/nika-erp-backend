@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Landry-Davenport",
+    "invoice_number": "INV-85436",
+    "date": "2025-11-20",
+    "items": [
+        {
+            "description": "Robust 4thgeneration groupware",
+            "quantity": 6,
+            "unit_price": 172.88,
+            "total_price": 1037.28
+        },
+        {
+            "description": "Universal directional info-mediaries",
+            "quantity": 5,
+            "unit_price": 294.96,
+            "total_price": 1474.8
+        },
+        {
+            "description": "Organic regional productivity",
+            "quantity": 3,
+            "unit_price": 429.01,
+            "total_price": 1287.03
+        }
+    ],
+    "amount": 3799.11
+}

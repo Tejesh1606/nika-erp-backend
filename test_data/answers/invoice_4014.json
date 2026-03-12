@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Kaiser-Banks",
+    "invoice_number": "INV-17901",
+    "date": "2025-11-20",
+    "items": [
+        {
+            "description": "Open-source web-enabled monitoring",
+            "quantity": 9,
+            "unit_price": 390.28,
+            "total_price": 3512.52
+        }
+    ],
+    "amount": 3512.52
+}

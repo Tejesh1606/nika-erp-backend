@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jones-Rowland",
+    "invoice_number": "INV-50873",
+    "date": "2025-12-06",
+    "items": [
+        {
+            "description": "Ergonomic dedicated solution",
+            "quantity": 2,
+            "unit_price": 100.71,
+            "total_price": 201.42
+        },
+        {
+            "description": "Cross-platform national knowledgebase",
+            "quantity": 8,
+            "unit_price": 295.52,
+            "total_price": 2364.16
+        },
+        {
+            "description": "Managed bandwidth-monitored approach",
+            "quantity": 2,
+            "unit_price": 144.36,
+            "total_price": 288.72
+        }
+    ],
+    "amount": 2854.3
+}

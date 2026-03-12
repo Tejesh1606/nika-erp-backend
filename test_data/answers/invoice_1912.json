@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Moore-Lawson",
+    "invoice_number": "INV-12021",
+    "date": "2025-09-30",
+    "items": [
+        {
+            "description": "Focused needs-based Internet solution",
+            "quantity": 2,
+            "unit_price": 376.0,
+            "total_price": 752.0
+        },
+        {
+            "description": "Realigned next generation model",
+            "quantity": 3,
+            "unit_price": 288.03,
+            "total_price": 864.09
+        }
+    ],
+    "amount": 1616.09
+}

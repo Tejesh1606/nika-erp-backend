@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Elliott-Yu",
+    "invoice_number": "INV-17179",
+    "date": "2025-08-14",
+    "items": [
+        {
+            "description": "Secured tangible adapter",
+            "quantity": 8,
+            "unit_price": 228.68,
+            "total_price": 1829.44
+        },
+        {
+            "description": "Realigned methodical collaboration",
+            "quantity": 6,
+            "unit_price": 471.34,
+            "total_price": 2828.04
+        },
+        {
+            "description": "Object-based scalable capability",
+            "quantity": 2,
+            "unit_price": 407.11,
+            "total_price": 814.22
+        }
+    ],
+    "amount": 5471.7
+}

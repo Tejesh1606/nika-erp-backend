@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Williams-Garner",
+    "invoice_number": "INV-59968",
+    "date": "2025-08-05",
+    "items": [
+        {
+            "description": "Switchable solution-oriented collaboration",
+            "quantity": 4,
+            "unit_price": 141.56,
+            "total_price": 566.24
+        }
+    ],
+    "amount": 566.24
+}

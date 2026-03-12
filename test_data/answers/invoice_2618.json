@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Marsh-Roberts",
+    "invoice_number": "INV-92419",
+    "date": "2025-04-28",
+    "items": [
+        {
+            "description": "Reactive 5thgeneration conglomeration",
+            "quantity": 3,
+            "unit_price": 363.52,
+            "total_price": 1090.56
+        },
+        {
+            "description": "Configurable secondary migration",
+            "quantity": 4,
+            "unit_price": 179.22,
+            "total_price": 716.88
+        }
+    ],
+    "amount": 1807.44
+}

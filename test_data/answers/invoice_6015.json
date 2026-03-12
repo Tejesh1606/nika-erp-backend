@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Griffith, Nelson and Howell",
+    "invoice_number": "INV-65908",
+    "date": "2025-07-23",
+    "items": [
+        {
+            "description": "Fully-configurable multimedia Graphical User Interface",
+            "quantity": 9,
+            "unit_price": 450.99,
+            "total_price": 4058.91
+        },
+        {
+            "description": "Cross-group non-volatile firmware",
+            "quantity": 2,
+            "unit_price": 240.6,
+            "total_price": 481.2
+        },
+        {
+            "description": "Balanced holistic initiative",
+            "quantity": 1,
+            "unit_price": 439.27,
+            "total_price": 439.27
+        },
+        {
+            "description": "Quality-focused explicit system engine",
+            "quantity": 6,
+            "unit_price": 436.41,
+            "total_price": 2618.46
+        }
+    ],
+    "amount": 7597.84
+}

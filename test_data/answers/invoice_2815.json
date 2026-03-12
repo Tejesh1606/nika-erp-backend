@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hernandez LLC",
+    "invoice_number": "INV-38551",
+    "date": "2025-10-29",
+    "items": [
+        {
+            "description": "Self-enabling coherent circuit",
+            "quantity": 9,
+            "unit_price": 152.93,
+            "total_price": 1376.37
+        },
+        {
+            "description": "Inverse zero-defect Graphical User Interface",
+            "quantity": 7,
+            "unit_price": 423.34,
+            "total_price": 2963.38
+        },
+        {
+            "description": "Customer-focused leadingedge workforce",
+            "quantity": 10,
+            "unit_price": 481.01,
+            "total_price": 4810.1
+        },
+        {
+            "description": "Future-proofed asymmetric policy",
+            "quantity": 4,
+            "unit_price": 74.03,
+            "total_price": 296.12
+        }
+    ],
+    "amount": 9445.97
+}

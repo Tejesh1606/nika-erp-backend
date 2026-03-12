@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Snyder-Walsh",
+    "invoice_number": "INV-61143",
+    "date": "2025-12-19",
+    "items": [
+        {
+            "description": "Cloned motivating intranet",
+            "quantity": 1,
+            "unit_price": 295.44,
+            "total_price": 295.44
+        }
+    ],
+    "amount": 295.44
+}

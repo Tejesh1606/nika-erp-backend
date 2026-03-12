@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brown-Little",
+    "invoice_number": "INV-90808",
+    "date": "2026-02-26",
+    "items": [
+        {
+            "description": "Polarized stable matrix",
+            "quantity": 10,
+            "unit_price": 491.0,
+            "total_price": 4910.0
+        },
+        {
+            "description": "Ameliorated 24hour monitoring",
+            "quantity": 4,
+            "unit_price": 433.02,
+            "total_price": 1732.08
+        },
+        {
+            "description": "Reactive incremental access",
+            "quantity": 1,
+            "unit_price": 135.77,
+            "total_price": 135.77
+        }
+    ],
+    "amount": 6777.85
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lara-Rogers",
+    "invoice_number": "INV-87070",
+    "date": "2025-04-24",
+    "items": [
+        {
+            "description": "Implemented directional conglomeration",
+            "quantity": 4,
+            "unit_price": 376.25,
+            "total_price": 1505.0
+        }
+    ],
+    "amount": 1505.0
+}

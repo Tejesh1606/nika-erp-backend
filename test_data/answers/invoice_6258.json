@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith, Zamora and Hoffman",
+    "invoice_number": "INV-28972",
+    "date": "2025-05-14",
+    "items": [
+        {
+            "description": "Enhanced systematic framework",
+            "quantity": 4,
+            "unit_price": 152.12,
+            "total_price": 608.48
+        },
+        {
+            "description": "Implemented human-resource Internet solution",
+            "quantity": 8,
+            "unit_price": 67.73,
+            "total_price": 541.84
+        },
+        {
+            "description": "Configurable tangible installation",
+            "quantity": 5,
+            "unit_price": 443.55,
+            "total_price": 2217.75
+        }
+    ],
+    "amount": 3368.07
+}

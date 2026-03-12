@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Berry-Cooper",
+    "invoice_number": "INV-92621",
+    "date": "2025-04-06",
+    "items": [
+        {
+            "description": "Extended 24/7 open architecture",
+            "quantity": 9,
+            "unit_price": 318.86,
+            "total_price": 2869.74
+        },
+        {
+            "description": "Polarized interactive attitude",
+            "quantity": 3,
+            "unit_price": 78.01,
+            "total_price": 234.03
+        },
+        {
+            "description": "Synergistic systemic circuit",
+            "quantity": 8,
+            "unit_price": 155.37,
+            "total_price": 1242.96
+        },
+        {
+            "description": "Visionary content-based workforce",
+            "quantity": 10,
+            "unit_price": 132.58,
+            "total_price": 1325.8
+        }
+    ],
+    "amount": 5672.53
+}

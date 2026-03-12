@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Anderson Ltd",
+    "invoice_number": "INV-18688",
+    "date": "2025-10-08",
+    "items": [
+        {
+            "description": "Sharable disintermediate instruction set",
+            "quantity": 1,
+            "unit_price": 404.22,
+            "total_price": 404.22
+        },
+        {
+            "description": "Networked optimal workforce",
+            "quantity": 8,
+            "unit_price": 350.78,
+            "total_price": 2806.24
+        },
+        {
+            "description": "Up-sized empowering process improvement",
+            "quantity": 10,
+            "unit_price": 21.86,
+            "total_price": 218.6
+        }
+    ],
+    "amount": 3429.06
+}

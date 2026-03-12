@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Scott Ltd",
+    "invoice_number": "INV-80651",
+    "date": "2025-05-07",
+    "items": [
+        {
+            "description": "Fundamental zero-defect matrices",
+            "quantity": 5,
+            "unit_price": 54.83,
+            "total_price": 274.15
+        },
+        {
+            "description": "User-friendly 24/7 migration",
+            "quantity": 5,
+            "unit_price": 167.82,
+            "total_price": 839.1
+        },
+        {
+            "description": "Assimilated value-added methodology",
+            "quantity": 10,
+            "unit_price": 293.61,
+            "total_price": 2936.1
+        },
+        {
+            "description": "Balanced optimal contingency",
+            "quantity": 7,
+            "unit_price": 406.67,
+            "total_price": 2846.69
+        }
+    ],
+    "amount": 6896.04
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Dixon-Caldwell",
+    "invoice_number": "INV-46787",
+    "date": "2025-12-13",
+    "items": [
+        {
+            "description": "Persistent upward-trending paradigm",
+            "quantity": 5,
+            "unit_price": 179.13,
+            "total_price": 895.65
+        },
+        {
+            "description": "Open-source impactful secured line",
+            "quantity": 6,
+            "unit_price": 259.43,
+            "total_price": 1556.58
+        },
+        {
+            "description": "Streamlined zero tolerance info-mediaries",
+            "quantity": 3,
+            "unit_price": 253.11,
+            "total_price": 759.33
+        }
+    ],
+    "amount": 3211.56
+}

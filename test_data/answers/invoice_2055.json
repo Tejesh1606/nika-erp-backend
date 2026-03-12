@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Smith-Blake",
+    "invoice_number": "INV-96164",
+    "date": "2025-12-05",
+    "items": [
+        {
+            "description": "Realigned composite circuit",
+            "quantity": 1,
+            "unit_price": 445.58,
+            "total_price": 445.58
+        },
+        {
+            "description": "Face-to-face actuating parallelism",
+            "quantity": 3,
+            "unit_price": 389.08,
+            "total_price": 1167.24
+        },
+        {
+            "description": "Managed motivating instruction set",
+            "quantity": 10,
+            "unit_price": 309.5,
+            "total_price": 3095.0
+        },
+        {
+            "description": "De-engineered real-time success",
+            "quantity": 6,
+            "unit_price": 83.39,
+            "total_price": 500.34
+        }
+    ],
+    "amount": 5208.16
+}

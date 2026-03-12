@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Luna-Bean",
+    "invoice_number": "INV-81641",
+    "date": "2025-12-11",
+    "items": [
+        {
+            "description": "Customer-focused local definition",
+            "quantity": 3,
+            "unit_price": 275.15,
+            "total_price": 825.45
+        }
+    ],
+    "amount": 825.45
+}

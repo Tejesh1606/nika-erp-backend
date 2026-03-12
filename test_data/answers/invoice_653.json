@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Sullivan, Clarke and Wood",
+    "invoice_number": "INV-70856",
+    "date": "2025-12-07",
+    "items": [
+        {
+            "description": "Sharable 24hour product",
+            "quantity": 4,
+            "unit_price": 465.18,
+            "total_price": 1860.72
+        },
+        {
+            "description": "Compatible human-resource solution",
+            "quantity": 1,
+            "unit_price": 75.73,
+            "total_price": 75.73
+        }
+    ],
+    "amount": 1936.45
+}

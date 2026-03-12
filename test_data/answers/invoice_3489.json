@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Carr, Edwards and Perez",
+    "invoice_number": "INV-91755",
+    "date": "2025-06-17",
+    "items": [
+        {
+            "description": "Managed 4thgeneration encoding",
+            "quantity": 4,
+            "unit_price": 334.29,
+            "total_price": 1337.16
+        },
+        {
+            "description": "Organic grid-enabled focus group",
+            "quantity": 10,
+            "unit_price": 288.81,
+            "total_price": 2888.1
+        },
+        {
+            "description": "Reactive 5thgeneration throughput",
+            "quantity": 2,
+            "unit_price": 151.29,
+            "total_price": 302.58
+        }
+    ],
+    "amount": 4527.84
+}

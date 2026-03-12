@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Lynch Ltd",
+    "invoice_number": "INV-40107",
+    "date": "2026-03-09",
+    "items": [
+        {
+            "description": "Front-line high-level hierarchy",
+            "quantity": 10,
+            "unit_price": 21.01,
+            "total_price": 210.1
+        },
+        {
+            "description": "Progressive motivating hardware",
+            "quantity": 7,
+            "unit_price": 144.04,
+            "total_price": 1008.28
+        }
+    ],
+    "amount": 1218.38
+}

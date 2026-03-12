@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Reyes-Williams",
+    "invoice_number": "INV-50037",
+    "date": "2025-11-18",
+    "items": [
+        {
+            "description": "Enhanced client-server intranet",
+            "quantity": 1,
+            "unit_price": 242.88,
+            "total_price": 242.88
+        },
+        {
+            "description": "Operative directional productivity",
+            "quantity": 10,
+            "unit_price": 180.54,
+            "total_price": 1805.4
+        }
+    ],
+    "amount": 2048.28
+}

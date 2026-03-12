@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mendoza, Williams and Dominguez",
+    "invoice_number": "INV-43166",
+    "date": "2025-06-23",
+    "items": [
+        {
+            "description": "Self-enabling analyzing orchestration",
+            "quantity": 8,
+            "unit_price": 482.0,
+            "total_price": 3856.0
+        },
+        {
+            "description": "Assimilated transitional leverage",
+            "quantity": 6,
+            "unit_price": 269.85,
+            "total_price": 1619.1
+        },
+        {
+            "description": "Robust responsive knowledgebase",
+            "quantity": 9,
+            "unit_price": 404.68,
+            "total_price": 3642.12
+        }
+    ],
+    "amount": 9117.22
+}

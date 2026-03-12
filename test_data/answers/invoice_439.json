@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hammond-Lewis",
+    "invoice_number": "INV-14804",
+    "date": "2025-10-09",
+    "items": [
+        {
+            "description": "Fundamental needs-based moratorium",
+            "quantity": 4,
+            "unit_price": 138.55,
+            "total_price": 554.2
+        },
+        {
+            "description": "Phased solution-oriented time-frame",
+            "quantity": 10,
+            "unit_price": 322.95,
+            "total_price": 3229.5
+        },
+        {
+            "description": "Distributed high-level infrastructure",
+            "quantity": 6,
+            "unit_price": 484.71,
+            "total_price": 2908.26
+        }
+    ],
+    "amount": 6691.96
+}

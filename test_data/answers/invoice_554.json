@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Phillips-Ellison",
+    "invoice_number": "INV-77760",
+    "date": "2026-02-22",
+    "items": [
+        {
+            "description": "Digitized maximized project",
+            "quantity": 5,
+            "unit_price": 202.77,
+            "total_price": 1013.85
+        },
+        {
+            "description": "Organized background success",
+            "quantity": 2,
+            "unit_price": 118.03,
+            "total_price": 236.06
+        },
+        {
+            "description": "Profit-focused bifurcated contingency",
+            "quantity": 6,
+            "unit_price": 134.4,
+            "total_price": 806.4
+        }
+    ],
+    "amount": 2056.31
+}

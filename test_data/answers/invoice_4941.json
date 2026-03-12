@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gibson-White",
+    "invoice_number": "INV-83652",
+    "date": "2025-05-18",
+    "items": [
+        {
+            "description": "Synchronized dynamic utilization",
+            "quantity": 6,
+            "unit_price": 259.09,
+            "total_price": 1554.54
+        }
+    ],
+    "amount": 1554.54
+}

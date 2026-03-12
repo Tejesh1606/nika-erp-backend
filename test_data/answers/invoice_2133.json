@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Carrillo Inc",
+    "invoice_number": "INV-82912",
+    "date": "2026-02-12",
+    "items": [
+        {
+            "description": "Quality-focused object-oriented open architecture",
+            "quantity": 5,
+            "unit_price": 292.22,
+            "total_price": 1461.1
+        },
+        {
+            "description": "Ergonomic static website",
+            "quantity": 2,
+            "unit_price": 475.93,
+            "total_price": 951.86
+        }
+    ],
+    "amount": 2412.96
+}

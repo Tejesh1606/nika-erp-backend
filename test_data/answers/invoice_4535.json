@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ryan and Sons",
+    "invoice_number": "INV-96026",
+    "date": "2025-03-19",
+    "items": [
+        {
+            "description": "Organic fresh-thinking knowledge user",
+            "quantity": 5,
+            "unit_price": 318.69,
+            "total_price": 1593.45
+        },
+        {
+            "description": "Robust content-based superstructure",
+            "quantity": 8,
+            "unit_price": 445.71,
+            "total_price": 3565.68
+        },
+        {
+            "description": "Cross-platform fault-tolerant projection",
+            "quantity": 8,
+            "unit_price": 43.52,
+            "total_price": 348.16
+        }
+    ],
+    "amount": 5507.29
+}

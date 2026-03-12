@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bailey, Smith and Snyder",
+    "invoice_number": "INV-59739",
+    "date": "2025-07-08",
+    "items": [
+        {
+            "description": "Function-based clear-thinking infrastructure",
+            "quantity": 2,
+            "unit_price": 192.07,
+            "total_price": 384.14
+        },
+        {
+            "description": "Enterprise-wide executive benchmark",
+            "quantity": 7,
+            "unit_price": 445.63,
+            "total_price": 3119.41
+        },
+        {
+            "description": "Persevering national extranet",
+            "quantity": 2,
+            "unit_price": 329.65,
+            "total_price": 659.3
+        }
+    ],
+    "amount": 4162.85
+}

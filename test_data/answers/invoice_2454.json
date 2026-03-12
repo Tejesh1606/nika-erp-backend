@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Dennis-Diaz",
+    "invoice_number": "INV-22723",
+    "date": "2025-11-28",
+    "items": [
+        {
+            "description": "Intuitive system-worthy Local Area Network",
+            "quantity": 3,
+            "unit_price": 149.19,
+            "total_price": 447.57
+        }
+    ],
+    "amount": 447.57
+}

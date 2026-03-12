@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Miller, Arnold and Anderson",
+    "invoice_number": "INV-91811",
+    "date": "2025-03-13",
+    "items": [
+        {
+            "description": "User-centric object-oriented adapter",
+            "quantity": 2,
+            "unit_price": 317.27,
+            "total_price": 634.54
+        },
+        {
+            "description": "Innovative homogeneous customer loyalty",
+            "quantity": 3,
+            "unit_price": 61.87,
+            "total_price": 185.61
+        }
+    ],
+    "amount": 820.15
+}

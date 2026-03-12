@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Clayton, Harrington and Walker",
+    "invoice_number": "INV-56404",
+    "date": "2025-06-04",
+    "items": [
+        {
+            "description": "De-engineered discrete interface",
+            "quantity": 2,
+            "unit_price": 130.74,
+            "total_price": 261.48
+        },
+        {
+            "description": "Optimized background middleware",
+            "quantity": 3,
+            "unit_price": 379.72,
+            "total_price": 1139.16
+        }
+    ],
+    "amount": 1400.64
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hicks-Mitchell",
+    "invoice_number": "INV-31071",
+    "date": "2025-08-21",
+    "items": [
+        {
+            "description": "Persistent eco-centric monitoring",
+            "quantity": 2,
+            "unit_price": 279.36,
+            "total_price": 558.72
+        },
+        {
+            "description": "Integrated interactive flexibility",
+            "quantity": 1,
+            "unit_price": 144.98,
+            "total_price": 144.98
+        },
+        {
+            "description": "Sharable directional archive",
+            "quantity": 8,
+            "unit_price": 399.1,
+            "total_price": 3192.8
+        },
+        {
+            "description": "Vision-oriented analyzing workforce",
+            "quantity": 4,
+            "unit_price": 232.73,
+            "total_price": 930.92
+        }
+    ],
+    "amount": 4827.42
+}

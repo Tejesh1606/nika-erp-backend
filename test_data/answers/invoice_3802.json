@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Reed Ltd",
+    "invoice_number": "INV-22874",
+    "date": "2025-05-28",
+    "items": [
+        {
+            "description": "Function-based directional productivity",
+            "quantity": 7,
+            "unit_price": 170.48,
+            "total_price": 1193.36
+        }
+    ],
+    "amount": 1193.36
+}

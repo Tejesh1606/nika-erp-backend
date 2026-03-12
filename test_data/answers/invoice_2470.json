@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Schaefer Group",
+    "invoice_number": "INV-10452",
+    "date": "2025-05-28",
+    "items": [
+        {
+            "description": "Realigned high-level application",
+            "quantity": 3,
+            "unit_price": 376.17,
+            "total_price": 1128.51
+        },
+        {
+            "description": "Front-line homogeneous website",
+            "quantity": 6,
+            "unit_price": 245.95,
+            "total_price": 1475.7
+        }
+    ],
+    "amount": 2604.21
+}

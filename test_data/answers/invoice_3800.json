@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Arroyo-Morgan",
+    "invoice_number": "INV-50630",
+    "date": "2025-10-11",
+    "items": [
+        {
+            "description": "Customer-focused executive Local Area Network",
+            "quantity": 2,
+            "unit_price": 375.23,
+            "total_price": 750.46
+        },
+        {
+            "description": "Cross-platform contextually-based info-mediaries",
+            "quantity": 6,
+            "unit_price": 91.58,
+            "total_price": 549.48
+        },
+        {
+            "description": "Open-source interactive benchmark",
+            "quantity": 1,
+            "unit_price": 97.83,
+            "total_price": 97.83
+        },
+        {
+            "description": "Mandatory systemic encryption",
+            "quantity": 6,
+            "unit_price": 400.16,
+            "total_price": 2400.96
+        }
+    ],
+    "amount": 3798.73
+}

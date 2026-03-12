@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mcdonald, Barton and Russo",
+    "invoice_number": "INV-31545",
+    "date": "2026-01-27",
+    "items": [
+        {
+            "description": "Organized analyzing flexibility",
+            "quantity": 10,
+            "unit_price": 14.71,
+            "total_price": 147.1
+        },
+        {
+            "description": "Front-line multimedia moratorium",
+            "quantity": 3,
+            "unit_price": 449.26,
+            "total_price": 1347.78
+        },
+        {
+            "description": "Managed uniform circuit",
+            "quantity": 2,
+            "unit_price": 80.26,
+            "total_price": 160.52
+        }
+    ],
+    "amount": 1655.4
+}

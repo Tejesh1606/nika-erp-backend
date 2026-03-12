@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wise, Watson and Obrien",
+    "invoice_number": "INV-48969",
+    "date": "2025-04-28",
+    "items": [
+        {
+            "description": "Customer-focused bifurcated support",
+            "quantity": 4,
+            "unit_price": 456.04,
+            "total_price": 1824.16
+        }
+    ],
+    "amount": 1824.16
+}

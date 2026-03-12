@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gonzalez, Martinez and Simon",
+    "invoice_number": "INV-29651",
+    "date": "2025-07-19",
+    "items": [
+        {
+            "description": "Sharable 24/7 architecture",
+            "quantity": 4,
+            "unit_price": 467.5,
+            "total_price": 1870.0
+        }
+    ],
+    "amount": 1870.0
+}

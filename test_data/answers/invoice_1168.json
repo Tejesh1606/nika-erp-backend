@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lawson-Ward",
+    "invoice_number": "INV-63495",
+    "date": "2026-02-20",
+    "items": [
+        {
+            "description": "Streamlined holistic leverage",
+            "quantity": 9,
+            "unit_price": 259.42,
+            "total_price": 2334.78
+        },
+        {
+            "description": "Implemented regional algorithm",
+            "quantity": 10,
+            "unit_price": 141.47,
+            "total_price": 1414.7
+        },
+        {
+            "description": "Diverse holistic analyzer",
+            "quantity": 5,
+            "unit_price": 103.59,
+            "total_price": 517.95
+        },
+        {
+            "description": "Implemented coherent parallelism",
+            "quantity": 4,
+            "unit_price": 426.63,
+            "total_price": 1706.52
+        }
+    ],
+    "amount": 5973.95
+}

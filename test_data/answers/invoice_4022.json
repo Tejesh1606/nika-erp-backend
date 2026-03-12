@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Goodwin-Neal",
+    "invoice_number": "INV-64160",
+    "date": "2025-09-29",
+    "items": [
+        {
+            "description": "Cross-platform object-oriented core",
+            "quantity": 1,
+            "unit_price": 327.3,
+            "total_price": 327.3
+        },
+        {
+            "description": "Decentralized reciprocal collaboration",
+            "quantity": 6,
+            "unit_price": 159.13,
+            "total_price": 954.78
+        },
+        {
+            "description": "Enhanced uniform orchestration",
+            "quantity": 10,
+            "unit_price": 476.76,
+            "total_price": 4767.6
+        },
+        {
+            "description": "Grass-roots background throughput",
+            "quantity": 3,
+            "unit_price": 226.2,
+            "total_price": 678.6
+        }
+    ],
+    "amount": 6728.28
+}

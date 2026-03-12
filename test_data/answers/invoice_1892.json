@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jones, Brennan and Alexander",
+    "invoice_number": "INV-76211",
+    "date": "2025-06-28",
+    "items": [
+        {
+            "description": "Profound asymmetric interface",
+            "quantity": 2,
+            "unit_price": 402.29,
+            "total_price": 804.58
+        },
+        {
+            "description": "Monitored context-sensitive focus group",
+            "quantity": 5,
+            "unit_price": 231.02,
+            "total_price": 1155.1
+        },
+        {
+            "description": "Function-based eco-centric secured line",
+            "quantity": 3,
+            "unit_price": 124.3,
+            "total_price": 372.9
+        },
+        {
+            "description": "Multi-lateral empowering firmware",
+            "quantity": 10,
+            "unit_price": 386.45,
+            "total_price": 3864.5
+        }
+    ],
+    "amount": 6197.08
+}

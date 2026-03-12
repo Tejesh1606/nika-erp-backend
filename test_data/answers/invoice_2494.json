@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Day, Brown and Williams",
+    "invoice_number": "INV-53618",
+    "date": "2025-12-18",
+    "items": [
+        {
+            "description": "Business-focused needs-based pricing structure",
+            "quantity": 5,
+            "unit_price": 229.52,
+            "total_price": 1147.6
+        }
+    ],
+    "amount": 1147.6
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cole LLC",
+    "invoice_number": "INV-33393",
+    "date": "2026-01-11",
+    "items": [
+        {
+            "description": "Implemented system-worthy application",
+            "quantity": 10,
+            "unit_price": 365.23,
+            "total_price": 3652.3
+        },
+        {
+            "description": "Ameliorated disintermediate data-warehouse",
+            "quantity": 1,
+            "unit_price": 142.38,
+            "total_price": 142.38
+        }
+    ],
+    "amount": 3794.68
+}

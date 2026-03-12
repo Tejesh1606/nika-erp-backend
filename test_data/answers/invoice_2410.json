@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Fernandez, Newman and Wall",
+    "invoice_number": "INV-60298",
+    "date": "2025-07-02",
+    "items": [
+        {
+            "description": "Diverse value-added toolset",
+            "quantity": 6,
+            "unit_price": 179.82,
+            "total_price": 1078.92
+        },
+        {
+            "description": "Synchronized tangible challenge",
+            "quantity": 2,
+            "unit_price": 172.28,
+            "total_price": 344.56
+        },
+        {
+            "description": "Implemented 24/7 groupware",
+            "quantity": 8,
+            "unit_price": 455.64,
+            "total_price": 3645.12
+        },
+        {
+            "description": "Secured tertiary projection",
+            "quantity": 7,
+            "unit_price": 358.86,
+            "total_price": 2512.02
+        }
+    ],
+    "amount": 7580.62
+}

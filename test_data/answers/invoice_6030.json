@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wolfe, Tucker and Obrien",
+    "invoice_number": "INV-20536",
+    "date": "2025-08-25",
+    "items": [
+        {
+            "description": "Diverse interactive architecture",
+            "quantity": 2,
+            "unit_price": 160.79,
+            "total_price": 321.58
+        },
+        {
+            "description": "Automated needs-based service-desk",
+            "quantity": 4,
+            "unit_price": 38.72,
+            "total_price": 154.88
+        }
+    ],
+    "amount": 476.46
+}

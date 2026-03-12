@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lopez PLC",
+    "invoice_number": "INV-94821",
+    "date": "2026-01-13",
+    "items": [
+        {
+            "description": "Ergonomic human-resource middleware",
+            "quantity": 3,
+            "unit_price": 310.22,
+            "total_price": 930.66
+        }
+    ],
+    "amount": 930.66
+}

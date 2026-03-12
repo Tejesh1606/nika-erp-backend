@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Carrillo, Barnes and Peterson",
+    "invoice_number": "INV-73048",
+    "date": "2025-05-23",
+    "items": [
+        {
+            "description": "Enterprise-wide bi-directional superstructure",
+            "quantity": 2,
+            "unit_price": 212.41,
+            "total_price": 424.82
+        },
+        {
+            "description": "Integrated uniform task-force",
+            "quantity": 9,
+            "unit_price": 411.23,
+            "total_price": 3701.07
+        },
+        {
+            "description": "Optimized eco-centric standardization",
+            "quantity": 4,
+            "unit_price": 435.22,
+            "total_price": 1740.88
+        },
+        {
+            "description": "Future-proofed optimizing customer loyalty",
+            "quantity": 4,
+            "unit_price": 431.35,
+            "total_price": 1725.4
+        }
+    ],
+    "amount": 7592.17
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Ayala-Porter",
+    "invoice_number": "INV-33638",
+    "date": "2025-07-12",
+    "items": [
+        {
+            "description": "Advanced national forecast",
+            "quantity": 6,
+            "unit_price": 463.87,
+            "total_price": 2783.22
+        },
+        {
+            "description": "Synergistic contextually-based encoding",
+            "quantity": 10,
+            "unit_price": 273.42,
+            "total_price": 2734.2
+        },
+        {
+            "description": "User-friendly client-server extranet",
+            "quantity": 6,
+            "unit_price": 36.13,
+            "total_price": 216.78
+        },
+        {
+            "description": "Enhanced didactic framework",
+            "quantity": 1,
+            "unit_price": 147.49,
+            "total_price": 147.49
+        }
+    ],
+    "amount": 5881.69
+}

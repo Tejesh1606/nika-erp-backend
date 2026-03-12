@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Owens Inc",
+    "invoice_number": "INV-77095",
+    "date": "2025-05-08",
+    "items": [
+        {
+            "description": "Configurable tangible groupware",
+            "quantity": 10,
+            "unit_price": 412.08,
+            "total_price": 4120.8
+        },
+        {
+            "description": "Mandatory mobile firmware",
+            "quantity": 3,
+            "unit_price": 299.46,
+            "total_price": 898.38
+        },
+        {
+            "description": "Synergistic background challenge",
+            "quantity": 6,
+            "unit_price": 470.58,
+            "total_price": 2823.48
+        },
+        {
+            "description": "Versatile holistic attitude",
+            "quantity": 5,
+            "unit_price": 176.86,
+            "total_price": 884.3
+        }
+    ],
+    "amount": 8726.96
+}

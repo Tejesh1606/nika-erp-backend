@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Matthews Ltd",
+    "invoice_number": "INV-83140",
+    "date": "2025-09-09",
+    "items": [
+        {
+            "description": "Distributed value-added info-mediaries",
+            "quantity": 6,
+            "unit_price": 362.75,
+            "total_price": 2176.5
+        },
+        {
+            "description": "Function-based object-oriented installation",
+            "quantity": 4,
+            "unit_price": 333.25,
+            "total_price": 1333.0
+        },
+        {
+            "description": "Expanded contextually-based conglomeration",
+            "quantity": 6,
+            "unit_price": 303.43,
+            "total_price": 1820.58
+        }
+    ],
+    "amount": 5330.08
+}

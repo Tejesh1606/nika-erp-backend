@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lewis-Perry",
+    "invoice_number": "INV-20279",
+    "date": "2026-02-11",
+    "items": [
+        {
+            "description": "Face-to-face object-oriented Graphic Interface",
+            "quantity": 6,
+            "unit_price": 307.78,
+            "total_price": 1846.68
+        }
+    ],
+    "amount": 1846.68
+}

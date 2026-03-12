@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bennett-Galloway",
+    "invoice_number": "INV-88750",
+    "date": "2025-11-19",
+    "items": [
+        {
+            "description": "Distributed optimizing support",
+            "quantity": 1,
+            "unit_price": 99.16,
+            "total_price": 99.16
+        },
+        {
+            "description": "Robust upward-trending neural-net",
+            "quantity": 9,
+            "unit_price": 19.13,
+            "total_price": 172.17
+        }
+    ],
+    "amount": 271.33
+}

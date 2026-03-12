@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Glover, Kelly and Mora",
+    "invoice_number": "INV-48855",
+    "date": "2026-03-03",
+    "items": [
+        {
+            "description": "Public-key upward-trending interface",
+            "quantity": 1,
+            "unit_price": 213.29,
+            "total_price": 213.29
+        }
+    ],
+    "amount": 213.29
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Leblanc and Sons",
+    "invoice_number": "INV-73898",
+    "date": "2025-12-16",
+    "items": [
+        {
+            "description": "Object-based exuding protocol",
+            "quantity": 9,
+            "unit_price": 240.87,
+            "total_price": 2167.83
+        },
+        {
+            "description": "Diverse 3rdgeneration neural-net",
+            "quantity": 7,
+            "unit_price": 396.81,
+            "total_price": 2777.67
+        }
+    ],
+    "amount": 4945.5
+}

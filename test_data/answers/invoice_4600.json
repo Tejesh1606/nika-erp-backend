@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wilkerson Inc",
+    "invoice_number": "INV-70344",
+    "date": "2025-04-16",
+    "items": [
+        {
+            "description": "Horizontal radical synergy",
+            "quantity": 7,
+            "unit_price": 267.69,
+            "total_price": 1873.83
+        },
+        {
+            "description": "Enhanced demand-driven strategy",
+            "quantity": 5,
+            "unit_price": 67.46,
+            "total_price": 337.3
+        },
+        {
+            "description": "Open-architected 4thgeneration encryption",
+            "quantity": 3,
+            "unit_price": 79.35,
+            "total_price": 238.05
+        },
+        {
+            "description": "Vision-oriented incremental migration",
+            "quantity": 2,
+            "unit_price": 305.65,
+            "total_price": 611.3
+        }
+    ],
+    "amount": 3060.48
+}

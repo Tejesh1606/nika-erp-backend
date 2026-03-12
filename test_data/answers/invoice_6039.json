@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mcintyre Ltd",
+    "invoice_number": "INV-55125",
+    "date": "2026-01-20",
+    "items": [
+        {
+            "description": "Networked cohesive info-mediaries",
+            "quantity": 3,
+            "unit_price": 45.17,
+            "total_price": 135.51
+        },
+        {
+            "description": "Open-architected web-enabled process improvement",
+            "quantity": 6,
+            "unit_price": 365.58,
+            "total_price": 2193.48
+        },
+        {
+            "description": "Re-contextualized national artificial intelligence",
+            "quantity": 6,
+            "unit_price": 451.53,
+            "total_price": 2709.18
+        },
+        {
+            "description": "Quality-focused analyzing hub",
+            "quantity": 10,
+            "unit_price": 478.52,
+            "total_price": 4785.2
+        }
+    ],
+    "amount": 9823.37
+}

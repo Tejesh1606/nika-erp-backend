@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hamilton-Mayer",
+    "invoice_number": "INV-44991",
+    "date": "2025-11-03",
+    "items": [
+        {
+            "description": "Synergistic real-time intranet",
+            "quantity": 8,
+            "unit_price": 270.91,
+            "total_price": 2167.28
+        },
+        {
+            "description": "Up-sized leadingedge algorithm",
+            "quantity": 4,
+            "unit_price": 109.2,
+            "total_price": 436.8
+        },
+        {
+            "description": "User-centric modular website",
+            "quantity": 3,
+            "unit_price": 51.35,
+            "total_price": 154.05
+        },
+        {
+            "description": "Balanced interactive analyzer",
+            "quantity": 1,
+            "unit_price": 188.98,
+            "total_price": 188.98
+        }
+    ],
+    "amount": 2947.11
+}

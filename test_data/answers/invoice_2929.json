@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Butler-Smith",
+    "invoice_number": "INV-42118",
+    "date": "2025-10-22",
+    "items": [
+        {
+            "description": "Distributed hybrid analyzer",
+            "quantity": 7,
+            "unit_price": 134.21,
+            "total_price": 939.47
+        },
+        {
+            "description": "Seamless intermediate matrix",
+            "quantity": 5,
+            "unit_price": 118.13,
+            "total_price": 590.65
+        },
+        {
+            "description": "Future-proofed value-added initiative",
+            "quantity": 2,
+            "unit_price": 89.81,
+            "total_price": 179.62
+        }
+    ],
+    "amount": 1709.74
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Weaver Inc",
+    "invoice_number": "INV-56942",
+    "date": "2025-04-10",
+    "items": [
+        {
+            "description": "Vision-oriented contextually-based challenge",
+            "quantity": 9,
+            "unit_price": 265.23,
+            "total_price": 2387.07
+        }
+    ],
+    "amount": 2387.07
+}

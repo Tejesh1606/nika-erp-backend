@@ -1,0 +1,26 @@
+{
+    "vendor_name": "James, Jenkins and Pacheco",
+    "invoice_number": "INV-30680",
+    "date": "2025-05-21",
+    "items": [
+        {
+            "description": "Customizable object-oriented benchmark",
+            "quantity": 4,
+            "unit_price": 207.74,
+            "total_price": 830.96
+        },
+        {
+            "description": "Synergistic object-oriented parallelism",
+            "quantity": 6,
+            "unit_price": 435.75,
+            "total_price": 2614.5
+        },
+        {
+            "description": "Automated multimedia collaboration",
+            "quantity": 2,
+            "unit_price": 118.81,
+            "total_price": 237.62
+        }
+    ],
+    "amount": 3683.08
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jimenez, Gilbert and Ellison",
+    "invoice_number": "INV-42614",
+    "date": "2025-06-27",
+    "items": [
+        {
+            "description": "Pre-emptive client-server frame",
+            "quantity": 5,
+            "unit_price": 136.63,
+            "total_price": 683.15
+        }
+    ],
+    "amount": 683.15
+}

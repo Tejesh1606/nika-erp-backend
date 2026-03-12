@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith and Sons",
+    "invoice_number": "INV-59074",
+    "date": "2026-01-29",
+    "items": [
+        {
+            "description": "Programmable user-facing policy",
+            "quantity": 6,
+            "unit_price": 319.42,
+            "total_price": 1916.52
+        },
+        {
+            "description": "Intuitive full-range concept",
+            "quantity": 8,
+            "unit_price": 27.66,
+            "total_price": 221.28
+        },
+        {
+            "description": "Re-engineered intermediate encoding",
+            "quantity": 4,
+            "unit_price": 324.84,
+            "total_price": 1299.36
+        }
+    ],
+    "amount": 3437.16
+}

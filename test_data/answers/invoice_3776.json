@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Zamora-Jackson",
+    "invoice_number": "INV-80282",
+    "date": "2025-09-06",
+    "items": [
+        {
+            "description": "Synergistic discrete project",
+            "quantity": 3,
+            "unit_price": 86.71,
+            "total_price": 260.13
+        }
+    ],
+    "amount": 260.13
+}

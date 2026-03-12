@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Torres, Foley and Carpenter",
+    "invoice_number": "INV-48863",
+    "date": "2025-05-21",
+    "items": [
+        {
+            "description": "Synchronized value-added extranet",
+            "quantity": 8,
+            "unit_price": 277.34,
+            "total_price": 2218.72
+        }
+    ],
+    "amount": 2218.72
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Conley-Martin",
+    "invoice_number": "INV-37531",
+    "date": "2026-02-10",
+    "items": [
+        {
+            "description": "Upgradable object-oriented array",
+            "quantity": 2,
+            "unit_price": 190.83,
+            "total_price": 381.66
+        },
+        {
+            "description": "Ameliorated zero-defect collaboration",
+            "quantity": 8,
+            "unit_price": 233.08,
+            "total_price": 1864.64
+        },
+        {
+            "description": "Stand-alone object-oriented concept",
+            "quantity": 4,
+            "unit_price": 166.46,
+            "total_price": 665.84
+        }
+    ],
+    "amount": 2912.14
+}

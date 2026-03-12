@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Dennis-Smith",
+    "invoice_number": "INV-72220",
+    "date": "2025-06-10",
+    "items": [
+        {
+            "description": "Profit-focused context-sensitive core",
+            "quantity": 7,
+            "unit_price": 438.9,
+            "total_price": 3072.3
+        }
+    ],
+    "amount": 3072.3
+}

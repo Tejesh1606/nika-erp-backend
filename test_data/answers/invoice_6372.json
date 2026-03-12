@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Esparza Group",
+    "invoice_number": "INV-86660",
+    "date": "2025-04-11",
+    "items": [
+        {
+            "description": "Sharable exuding success",
+            "quantity": 6,
+            "unit_price": 404.48,
+            "total_price": 2426.88
+        },
+        {
+            "description": "Universal maximized workforce",
+            "quantity": 10,
+            "unit_price": 194.87,
+            "total_price": 1948.7
+        },
+        {
+            "description": "Advanced asynchronous complexity",
+            "quantity": 4,
+            "unit_price": 48.44,
+            "total_price": 193.76
+        }
+    ],
+    "amount": 4569.34
+}

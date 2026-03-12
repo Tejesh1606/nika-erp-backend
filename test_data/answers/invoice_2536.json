@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mendoza, Hale and Brown",
+    "invoice_number": "INV-87437",
+    "date": "2025-06-16",
+    "items": [
+        {
+            "description": "Realigned demand-driven solution",
+            "quantity": 2,
+            "unit_price": 475.65,
+            "total_price": 951.3
+        },
+        {
+            "description": "Pre-emptive local forecast",
+            "quantity": 2,
+            "unit_price": 333.83,
+            "total_price": 667.66
+        },
+        {
+            "description": "Assimilated user-facing capacity",
+            "quantity": 10,
+            "unit_price": 452.52,
+            "total_price": 4525.2
+        },
+        {
+            "description": "Reverse-engineered uniform capacity",
+            "quantity": 9,
+            "unit_price": 107.8,
+            "total_price": 970.2
+        }
+    ],
+    "amount": 7114.36
+}

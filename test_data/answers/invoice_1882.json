@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jordan Ltd",
+    "invoice_number": "INV-87167",
+    "date": "2025-12-17",
+    "items": [
+        {
+            "description": "Networked web-enabled monitoring",
+            "quantity": 8,
+            "unit_price": 89.17,
+            "total_price": 713.36
+        },
+        {
+            "description": "Business-focused maximized neural-net",
+            "quantity": 4,
+            "unit_price": 307.63,
+            "total_price": 1230.52
+        }
+    ],
+    "amount": 1943.88
+}

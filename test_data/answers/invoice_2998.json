@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gutierrez-Wilson",
+    "invoice_number": "INV-24090",
+    "date": "2025-03-28",
+    "items": [
+        {
+            "description": "Polarized object-oriented leverage",
+            "quantity": 10,
+            "unit_price": 453.55,
+            "total_price": 4535.5
+        },
+        {
+            "description": "Object-based fault-tolerant knowledge user",
+            "quantity": 6,
+            "unit_price": 167.69,
+            "total_price": 1006.14
+        }
+    ],
+    "amount": 5541.64
+}

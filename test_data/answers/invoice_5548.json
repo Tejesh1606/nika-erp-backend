@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Fisher-Horn",
+    "invoice_number": "INV-66695",
+    "date": "2025-10-01",
+    "items": [
+        {
+            "description": "Up-sized object-oriented productivity",
+            "quantity": 5,
+            "unit_price": 89.87,
+            "total_price": 449.35
+        },
+        {
+            "description": "Re-contextualized transitional support",
+            "quantity": 2,
+            "unit_price": 244.5,
+            "total_price": 489.0
+        }
+    ],
+    "amount": 938.35
+}

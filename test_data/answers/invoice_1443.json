@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Diaz LLC",
+    "invoice_number": "INV-35168",
+    "date": "2025-09-24",
+    "items": [
+        {
+            "description": "Grass-roots multi-state algorithm",
+            "quantity": 3,
+            "unit_price": 223.54,
+            "total_price": 670.62
+        },
+        {
+            "description": "Pre-emptive foreground concept",
+            "quantity": 9,
+            "unit_price": 319.89,
+            "total_price": 2879.01
+        }
+    ],
+    "amount": 3549.63
+}

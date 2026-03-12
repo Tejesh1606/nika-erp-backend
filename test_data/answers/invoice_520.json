@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Andrade-Jackson",
+    "invoice_number": "INV-33644",
+    "date": "2025-10-08",
+    "items": [
+        {
+            "description": "Open-architected motivating Graphical User Interface",
+            "quantity": 8,
+            "unit_price": 347.76,
+            "total_price": 2782.08
+        }
+    ],
+    "amount": 2782.08
+}

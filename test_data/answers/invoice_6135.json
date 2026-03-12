@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mcmahon-Caldwell",
+    "invoice_number": "INV-76105",
+    "date": "2025-12-11",
+    "items": [
+        {
+            "description": "Virtual maximized software",
+            "quantity": 8,
+            "unit_price": 307.58,
+            "total_price": 2460.64
+        },
+        {
+            "description": "Centralized transitional budgetary management",
+            "quantity": 2,
+            "unit_price": 237.29,
+            "total_price": 474.58
+        },
+        {
+            "description": "Mandatory discrete success",
+            "quantity": 1,
+            "unit_price": 204.05,
+            "total_price": 204.05
+        }
+    ],
+    "amount": 3139.27
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Randolph Inc",
+    "invoice_number": "INV-73916",
+    "date": "2025-12-16",
+    "items": [
+        {
+            "description": "Re-engineered bottom-line budgetary management",
+            "quantity": 1,
+            "unit_price": 118.13,
+            "total_price": 118.13
+        },
+        {
+            "description": "Operative bottom-line archive",
+            "quantity": 4,
+            "unit_price": 399.15,
+            "total_price": 1596.6
+        },
+        {
+            "description": "Innovative impactful extranet",
+            "quantity": 7,
+            "unit_price": 28.4,
+            "total_price": 198.8
+        },
+        {
+            "description": "Function-based homogeneous structure",
+            "quantity": 5,
+            "unit_price": 23.23,
+            "total_price": 116.15
+        }
+    ],
+    "amount": 2029.68
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Gordon-Jimenez",
+    "invoice_number": "INV-26377",
+    "date": "2026-01-30",
+    "items": [
+        {
+            "description": "Synergized content-based collaboration",
+            "quantity": 8,
+            "unit_price": 494.36,
+            "total_price": 3954.88
+        },
+        {
+            "description": "Adaptive coherent adapter",
+            "quantity": 1,
+            "unit_price": 464.01,
+            "total_price": 464.01
+        },
+        {
+            "description": "Open-architected background solution",
+            "quantity": 8,
+            "unit_price": 366.51,
+            "total_price": 2932.08
+        }
+    ],
+    "amount": 7350.97
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hall, Rodgers and Jefferson",
+    "invoice_number": "INV-14888",
+    "date": "2026-02-26",
+    "items": [
+        {
+            "description": "Enhanced intangible conglomeration",
+            "quantity": 5,
+            "unit_price": 167.82,
+            "total_price": 839.1
+        },
+        {
+            "description": "Automated hybrid toolset",
+            "quantity": 8,
+            "unit_price": 406.67,
+            "total_price": 3253.36
+        }
+    ],
+    "amount": 4092.46
+}

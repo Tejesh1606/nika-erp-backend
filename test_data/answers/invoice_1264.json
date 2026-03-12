@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Reed Ltd",
+    "invoice_number": "INV-23291",
+    "date": "2025-11-18",
+    "items": [
+        {
+            "description": "Open-architected 24/7 complexity",
+            "quantity": 10,
+            "unit_price": 432.93,
+            "total_price": 4329.3
+        },
+        {
+            "description": "Intuitive clear-thinking orchestration",
+            "quantity": 5,
+            "unit_price": 31.19,
+            "total_price": 155.95
+        },
+        {
+            "description": "Profit-focused human-resource software",
+            "quantity": 3,
+            "unit_price": 209.13,
+            "total_price": 627.39
+        },
+        {
+            "description": "Persevering 24/7 matrix",
+            "quantity": 1,
+            "unit_price": 99.99,
+            "total_price": 99.99
+        }
+    ],
+    "amount": 5212.63
+}

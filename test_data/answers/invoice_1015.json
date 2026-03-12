@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rosario-Mccall",
+    "invoice_number": "INV-17808",
+    "date": "2026-02-25",
+    "items": [
+        {
+            "description": "Monitored high-level time-frame",
+            "quantity": 6,
+            "unit_price": 163.34,
+            "total_price": 980.04
+        },
+        {
+            "description": "Devolved explicit knowledgebase",
+            "quantity": 9,
+            "unit_price": 16.42,
+            "total_price": 147.78
+        },
+        {
+            "description": "Digitized neutral instruction set",
+            "quantity": 3,
+            "unit_price": 24.68,
+            "total_price": 74.04
+        },
+        {
+            "description": "Fully-configurable demand-driven definition",
+            "quantity": 6,
+            "unit_price": 229.13,
+            "total_price": 1374.78
+        }
+    ],
+    "amount": 2576.64
+}

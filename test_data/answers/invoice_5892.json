@@ -1,0 +1,14 @@
+{
+    "vendor_name": "James-Petty",
+    "invoice_number": "INV-91090",
+    "date": "2025-12-14",
+    "items": [
+        {
+            "description": "Enhanced demand-driven ability",
+            "quantity": 4,
+            "unit_price": 59.24,
+            "total_price": 236.96
+        }
+    ],
+    "amount": 236.96
+}

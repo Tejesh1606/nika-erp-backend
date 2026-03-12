@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Clayton Group",
+    "invoice_number": "INV-98293",
+    "date": "2025-07-18",
+    "items": [
+        {
+            "description": "Focused executive matrix",
+            "quantity": 5,
+            "unit_price": 22.6,
+            "total_price": 113.0
+        },
+        {
+            "description": "Multi-tiered web-enabled frame",
+            "quantity": 4,
+            "unit_price": 262.84,
+            "total_price": 1051.36
+        }
+    ],
+    "amount": 1164.36
+}

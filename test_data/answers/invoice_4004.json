@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Fuentes, Thornton and White",
+    "invoice_number": "INV-60053",
+    "date": "2025-06-11",
+    "items": [
+        {
+            "description": "Profound composite ability",
+            "quantity": 3,
+            "unit_price": 208.87,
+            "total_price": 626.61
+        },
+        {
+            "description": "Phased bottom-line hardware",
+            "quantity": 3,
+            "unit_price": 16.68,
+            "total_price": 50.04
+        },
+        {
+            "description": "Integrated next generation artificial intelligence",
+            "quantity": 5,
+            "unit_price": 76.55,
+            "total_price": 382.75
+        },
+        {
+            "description": "Reactive fresh-thinking capability",
+            "quantity": 3,
+            "unit_price": 381.11,
+            "total_price": 1143.33
+        }
+    ],
+    "amount": 2202.73
+}

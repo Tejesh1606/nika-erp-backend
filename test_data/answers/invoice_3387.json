@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gutierrez LLC",
+    "invoice_number": "INV-68625",
+    "date": "2026-01-03",
+    "items": [
+        {
+            "description": "Visionary next generation orchestration",
+            "quantity": 4,
+            "unit_price": 259.39,
+            "total_price": 1037.56
+        },
+        {
+            "description": "Self-enabling system-worthy customer loyalty",
+            "quantity": 9,
+            "unit_price": 496.73,
+            "total_price": 4470.57
+        }
+    ],
+    "amount": 5508.13
+}

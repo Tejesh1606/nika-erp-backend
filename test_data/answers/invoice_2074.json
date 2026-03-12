@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mcdonald-Jones",
+    "invoice_number": "INV-26102",
+    "date": "2025-11-24",
+    "items": [
+        {
+            "description": "Optimized zero tolerance knowledgebase",
+            "quantity": 6,
+            "unit_price": 268.14,
+            "total_price": 1608.84
+        },
+        {
+            "description": "Multi-lateral 24/7 intranet",
+            "quantity": 6,
+            "unit_price": 408.55,
+            "total_price": 2451.3
+        },
+        {
+            "description": "Optimized client-server time-frame",
+            "quantity": 3,
+            "unit_price": 190.13,
+            "total_price": 570.39
+        }
+    ],
+    "amount": 4630.53
+}

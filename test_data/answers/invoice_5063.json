@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Daniels-Sanders",
+    "invoice_number": "INV-53431",
+    "date": "2025-08-29",
+    "items": [
+        {
+            "description": "Pre-emptive context-sensitive artificial intelligence",
+            "quantity": 10,
+            "unit_price": 270.5,
+            "total_price": 2705.0
+        }
+    ],
+    "amount": 2705.0
+}

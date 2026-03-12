@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Booker-Sims",
+    "invoice_number": "INV-62952",
+    "date": "2025-06-12",
+    "items": [
+        {
+            "description": "Automated bottom-line encoding",
+            "quantity": 3,
+            "unit_price": 181.77,
+            "total_price": 545.31
+        },
+        {
+            "description": "Object-based mobile framework",
+            "quantity": 4,
+            "unit_price": 287.87,
+            "total_price": 1151.48
+        },
+        {
+            "description": "Team-oriented radical conglomeration",
+            "quantity": 3,
+            "unit_price": 415.21,
+            "total_price": 1245.63
+        }
+    ],
+    "amount": 2942.42
+}

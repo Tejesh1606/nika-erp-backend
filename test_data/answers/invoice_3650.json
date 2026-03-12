@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mckee-Bryant",
+    "invoice_number": "INV-95254",
+    "date": "2025-06-06",
+    "items": [
+        {
+            "description": "Configurable multi-state pricing structure",
+            "quantity": 5,
+            "unit_price": 454.37,
+            "total_price": 2271.85
+        },
+        {
+            "description": "Robust holistic paradigm",
+            "quantity": 9,
+            "unit_price": 69.86,
+            "total_price": 628.74
+        }
+    ],
+    "amount": 2900.59
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Perez Inc",
+    "invoice_number": "INV-16639",
+    "date": "2025-10-06",
+    "items": [
+        {
+            "description": "Customer-focused systemic utilization",
+            "quantity": 8,
+            "unit_price": 149.48,
+            "total_price": 1195.84
+        },
+        {
+            "description": "Adaptive directional portal",
+            "quantity": 9,
+            "unit_price": 492.05,
+            "total_price": 4428.45
+        }
+    ],
+    "amount": 5624.29
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jackson-Smith",
+    "invoice_number": "INV-96140",
+    "date": "2026-03-08",
+    "items": [
+        {
+            "description": "Multi-channeled 5thgeneration policy",
+            "quantity": 9,
+            "unit_price": 457.04,
+            "total_price": 4113.36
+        },
+        {
+            "description": "Monitored mission-critical orchestration",
+            "quantity": 7,
+            "unit_price": 410.4,
+            "total_price": 2872.8
+        }
+    ],
+    "amount": 6986.16
+}

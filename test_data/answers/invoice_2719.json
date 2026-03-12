@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Kelley, Lewis and Chan",
+    "invoice_number": "INV-42048",
+    "date": "2025-03-12",
+    "items": [
+        {
+            "description": "Seamless intermediate methodology",
+            "quantity": 5,
+            "unit_price": 412.58,
+            "total_price": 2062.9
+        },
+        {
+            "description": "Exclusive real-time knowledge user",
+            "quantity": 2,
+            "unit_price": 493.07,
+            "total_price": 986.14
+        }
+    ],
+    "amount": 3049.04
+}

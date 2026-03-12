@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Trujillo and Sons",
+    "invoice_number": "INV-20567",
+    "date": "2025-10-28",
+    "items": [
+        {
+            "description": "Self-enabling zero tolerance data-warehouse",
+            "quantity": 3,
+            "unit_price": 166.98,
+            "total_price": 500.94
+        },
+        {
+            "description": "Compatible tangible collaboration",
+            "quantity": 8,
+            "unit_price": 62.92,
+            "total_price": 503.36
+        }
+    ],
+    "amount": 1004.3
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Reese Inc",
+    "invoice_number": "INV-58228",
+    "date": "2025-07-24",
+    "items": [
+        {
+            "description": "User-centric incremental conglomeration",
+            "quantity": 5,
+            "unit_price": 443.52,
+            "total_price": 2217.6
+        },
+        {
+            "description": "Streamlined exuding archive",
+            "quantity": 5,
+            "unit_price": 198.6,
+            "total_price": 993.0
+        },
+        {
+            "description": "Digitized interactive protocol",
+            "quantity": 7,
+            "unit_price": 368.05,
+            "total_price": 2576.35
+        },
+        {
+            "description": "Open-source local instruction set",
+            "quantity": 2,
+            "unit_price": 446.32,
+            "total_price": 892.64
+        }
+    ],
+    "amount": 6679.59
+}

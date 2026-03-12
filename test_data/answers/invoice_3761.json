@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Snow-Campbell",
+    "invoice_number": "INV-60792",
+    "date": "2025-10-12",
+    "items": [
+        {
+            "description": "Organic attitude-oriented protocol",
+            "quantity": 2,
+            "unit_price": 166.83,
+            "total_price": 333.66
+        },
+        {
+            "description": "Upgradable scalable implementation",
+            "quantity": 6,
+            "unit_price": 238.25,
+            "total_price": 1429.5
+        }
+    ],
+    "amount": 1763.16
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Fuentes LLC",
+    "invoice_number": "INV-66725",
+    "date": "2025-09-09",
+    "items": [
+        {
+            "description": "Fully-configurable zero tolerance emulation",
+            "quantity": 5,
+            "unit_price": 422.34,
+            "total_price": 2111.7
+        },
+        {
+            "description": "Quality-focused grid-enabled archive",
+            "quantity": 10,
+            "unit_price": 445.33,
+            "total_price": 4453.3
+        },
+        {
+            "description": "Intuitive logistical interface",
+            "quantity": 2,
+            "unit_price": 394.36,
+            "total_price": 788.72
+        },
+        {
+            "description": "Horizontal user-facing instruction set",
+            "quantity": 2,
+            "unit_price": 261.46,
+            "total_price": 522.92
+        }
+    ],
+    "amount": 7876.64
+}

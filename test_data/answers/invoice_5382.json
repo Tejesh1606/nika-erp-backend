@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lloyd PLC",
+    "invoice_number": "INV-67381",
+    "date": "2025-04-08",
+    "items": [
+        {
+            "description": "Stand-alone static frame",
+            "quantity": 7,
+            "unit_price": 432.07,
+            "total_price": 3024.49
+        },
+        {
+            "description": "Profound explicit software",
+            "quantity": 2,
+            "unit_price": 487.01,
+            "total_price": 974.02
+        },
+        {
+            "description": "Inverse encompassing function",
+            "quantity": 5,
+            "unit_price": 350.24,
+            "total_price": 1751.2
+        },
+        {
+            "description": "Exclusive 4thgeneration ability",
+            "quantity": 9,
+            "unit_price": 428.42,
+            "total_price": 3855.78
+        }
+    ],
+    "amount": 9605.49
+}

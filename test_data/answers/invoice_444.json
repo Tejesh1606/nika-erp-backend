@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Schmitt, Schultz and Hill",
+    "invoice_number": "INV-44513",
+    "date": "2025-10-19",
+    "items": [
+        {
+            "description": "Quality-focused non-volatile conglomeration",
+            "quantity": 3,
+            "unit_price": 189.77,
+            "total_price": 569.31
+        }
+    ],
+    "amount": 569.31
+}

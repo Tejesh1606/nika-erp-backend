@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Davis, Garcia and Rogers",
+    "invoice_number": "INV-49309",
+    "date": "2025-12-05",
+    "items": [
+        {
+            "description": "Open-architected local Graphic Interface",
+            "quantity": 7,
+            "unit_price": 163.61,
+            "total_price": 1145.27
+        },
+        {
+            "description": "Visionary radical architecture",
+            "quantity": 3,
+            "unit_price": 418.72,
+            "total_price": 1256.16
+        }
+    ],
+    "amount": 2401.43
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Andrews and Sons",
+    "invoice_number": "INV-40323",
+    "date": "2025-03-15",
+    "items": [
+        {
+            "description": "Self-enabling holistic flexibility",
+            "quantity": 4,
+            "unit_price": 22.39,
+            "total_price": 89.56
+        }
+    ],
+    "amount": 89.56
+}

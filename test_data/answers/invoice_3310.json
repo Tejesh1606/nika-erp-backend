@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Dean Ltd",
+    "invoice_number": "INV-32426",
+    "date": "2025-06-11",
+    "items": [
+        {
+            "description": "Persistent full-range policy",
+            "quantity": 8,
+            "unit_price": 303.34,
+            "total_price": 2426.72
+        }
+    ],
+    "amount": 2426.72
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Thompson, Cook and Moyer",
+    "invoice_number": "INV-82796",
+    "date": "2025-10-07",
+    "items": [
+        {
+            "description": "Compatible hybrid task-force",
+            "quantity": 6,
+            "unit_price": 380.01,
+            "total_price": 2280.06
+        },
+        {
+            "description": "Customer-focused uniform ability",
+            "quantity": 10,
+            "unit_price": 187.34,
+            "total_price": 1873.4
+        }
+    ],
+    "amount": 4153.46
+}

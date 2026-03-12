@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith Inc",
+    "invoice_number": "INV-21302",
+    "date": "2025-04-14",
+    "items": [
+        {
+            "description": "Right-sized incremental project",
+            "quantity": 1,
+            "unit_price": 152.88,
+            "total_price": 152.88
+        }
+    ],
+    "amount": 152.88
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Frazier Group",
+    "invoice_number": "INV-74955",
+    "date": "2025-07-27",
+    "items": [
+        {
+            "description": "Programmable well-modulated analyzer",
+            "quantity": 3,
+            "unit_price": 337.7,
+            "total_price": 1013.1
+        },
+        {
+            "description": "Up-sized directional application",
+            "quantity": 5,
+            "unit_price": 316.96,
+            "total_price": 1584.8
+        },
+        {
+            "description": "Grass-roots intangible monitoring",
+            "quantity": 2,
+            "unit_price": 158.04,
+            "total_price": 316.08
+        }
+    ],
+    "amount": 2913.98
+}

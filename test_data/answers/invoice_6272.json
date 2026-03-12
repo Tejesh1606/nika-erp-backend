@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Charles-Case",
+    "invoice_number": "INV-13423",
+    "date": "2026-01-24",
+    "items": [
+        {
+            "description": "Right-sized solution-oriented conglomeration",
+            "quantity": 10,
+            "unit_price": 229.52,
+            "total_price": 2295.2
+        },
+        {
+            "description": "Open-source client-server migration",
+            "quantity": 2,
+            "unit_price": 260.99,
+            "total_price": 521.98
+        },
+        {
+            "description": "Seamless mission-critical hub",
+            "quantity": 8,
+            "unit_price": 339.11,
+            "total_price": 2712.88
+        }
+    ],
+    "amount": 5530.06
+}

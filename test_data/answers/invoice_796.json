@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Glover, Espinoza and Chambers",
+    "invoice_number": "INV-59501",
+    "date": "2025-09-26",
+    "items": [
+        {
+            "description": "User-centric dynamic benchmark",
+            "quantity": 2,
+            "unit_price": 313.27,
+            "total_price": 626.54
+        }
+    ],
+    "amount": 626.54
+}

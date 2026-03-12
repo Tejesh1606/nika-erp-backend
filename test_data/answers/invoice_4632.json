@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Soto-Johnson",
+    "invoice_number": "INV-89980",
+    "date": "2025-03-18",
+    "items": [
+        {
+            "description": "Re-contextualized multi-state complexity",
+            "quantity": 8,
+            "unit_price": 413.89,
+            "total_price": 3311.12
+        },
+        {
+            "description": "Fundamental fresh-thinking approach",
+            "quantity": 6,
+            "unit_price": 12.43,
+            "total_price": 74.58
+        },
+        {
+            "description": "Stand-alone multi-state budgetary management",
+            "quantity": 7,
+            "unit_price": 486.64,
+            "total_price": 3406.48
+        },
+        {
+            "description": "Fundamental tertiary Internet solution",
+            "quantity": 2,
+            "unit_price": 434.61,
+            "total_price": 869.22
+        }
+    ],
+    "amount": 7661.4
+}

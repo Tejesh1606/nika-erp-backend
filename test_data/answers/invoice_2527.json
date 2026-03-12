@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cherry-Andrews",
+    "invoice_number": "INV-48462",
+    "date": "2025-03-18",
+    "items": [
+        {
+            "description": "Virtual discrete throughput",
+            "quantity": 3,
+            "unit_price": 464.83,
+            "total_price": 1394.49
+        },
+        {
+            "description": "Optimized uniform interface",
+            "quantity": 5,
+            "unit_price": 214.48,
+            "total_price": 1072.4
+        },
+        {
+            "description": "Innovative 3rdgeneration architecture",
+            "quantity": 2,
+            "unit_price": 70.55,
+            "total_price": 141.1
+        }
+    ],
+    "amount": 2607.99
+}

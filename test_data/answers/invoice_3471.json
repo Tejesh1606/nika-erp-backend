@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Freeman-Bradley",
+    "invoice_number": "INV-57301",
+    "date": "2026-01-09",
+    "items": [
+        {
+            "description": "Realigned interactive archive",
+            "quantity": 5,
+            "unit_price": 300.32,
+            "total_price": 1501.6
+        },
+        {
+            "description": "Expanded zero-defect function",
+            "quantity": 1,
+            "unit_price": 401.04,
+            "total_price": 401.04
+        },
+        {
+            "description": "Cross-group mobile extranet",
+            "quantity": 5,
+            "unit_price": 491.04,
+            "total_price": 2455.2
+        }
+    ],
+    "amount": 4357.84
+}

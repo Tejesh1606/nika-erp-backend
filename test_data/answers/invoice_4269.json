@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cantu, Wilson and Williams",
+    "invoice_number": "INV-39626",
+    "date": "2025-09-07",
+    "items": [
+        {
+            "description": "Exclusive actuating moderator",
+            "quantity": 3,
+            "unit_price": 460.93,
+            "total_price": 1382.79
+        },
+        {
+            "description": "Synergized logistical artificial intelligence",
+            "quantity": 7,
+            "unit_price": 137.05,
+            "total_price": 959.35
+        }
+    ],
+    "amount": 2342.14
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Stevens Group",
+    "invoice_number": "INV-32530",
+    "date": "2025-10-24",
+    "items": [
+        {
+            "description": "Diverse contextually-based interface",
+            "quantity": 1,
+            "unit_price": 138.36,
+            "total_price": 138.36
+        },
+        {
+            "description": "Optional intermediate intranet",
+            "quantity": 4,
+            "unit_price": 253.48,
+            "total_price": 1013.92
+        }
+    ],
+    "amount": 1152.28
+}

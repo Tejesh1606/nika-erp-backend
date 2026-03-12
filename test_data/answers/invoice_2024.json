@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Garcia-Newman",
+    "invoice_number": "INV-82564",
+    "date": "2025-06-03",
+    "items": [
+        {
+            "description": "Realigned systematic open architecture",
+            "quantity": 4,
+            "unit_price": 393.91,
+            "total_price": 1575.64
+        },
+        {
+            "description": "Self-enabling contextually-based strategy",
+            "quantity": 2,
+            "unit_price": 477.38,
+            "total_price": 954.76
+        },
+        {
+            "description": "Cross-group modular secured line",
+            "quantity": 1,
+            "unit_price": 177.62,
+            "total_price": 177.62
+        }
+    ],
+    "amount": 2708.02
+}

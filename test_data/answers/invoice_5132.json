@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lewis, Walton and Johnson",
+    "invoice_number": "INV-71778",
+    "date": "2025-05-15",
+    "items": [
+        {
+            "description": "Profound attitude-oriented toolset",
+            "quantity": 9,
+            "unit_price": 82.34,
+            "total_price": 741.06
+        },
+        {
+            "description": "Seamless grid-enabled pricing structure",
+            "quantity": 8,
+            "unit_price": 202.64,
+            "total_price": 1621.12
+        },
+        {
+            "description": "Profit-focused bi-directional product",
+            "quantity": 4,
+            "unit_price": 87.21,
+            "total_price": 348.84
+        }
+    ],
+    "amount": 2711.02
+}

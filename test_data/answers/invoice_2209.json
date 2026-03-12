@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wilson LLC",
+    "invoice_number": "INV-51446",
+    "date": "2026-02-09",
+    "items": [
+        {
+            "description": "Triple-buffered zero-defect focus group",
+            "quantity": 6,
+            "unit_price": 295.44,
+            "total_price": 1772.64
+        }
+    ],
+    "amount": 1772.64
+}

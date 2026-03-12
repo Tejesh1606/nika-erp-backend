@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Kennedy Group",
+    "invoice_number": "INV-41632",
+    "date": "2025-03-09",
+    "items": [
+        {
+            "description": "Optimized system-worthy core",
+            "quantity": 8,
+            "unit_price": 28.0,
+            "total_price": 224.0
+        },
+        {
+            "description": "Re-contextualized 5thgeneration moderator",
+            "quantity": 8,
+            "unit_price": 121.77,
+            "total_price": 974.16
+        }
+    ],
+    "amount": 1198.16
+}

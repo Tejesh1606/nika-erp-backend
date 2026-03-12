@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Neal-King",
+    "invoice_number": "INV-25760",
+    "date": "2025-10-11",
+    "items": [
+        {
+            "description": "Optional solution-oriented hardware",
+            "quantity": 7,
+            "unit_price": 471.08,
+            "total_price": 3297.56
+        },
+        {
+            "description": "Enhanced 4thgeneration hierarchy",
+            "quantity": 2,
+            "unit_price": 472.83,
+            "total_price": 945.66
+        },
+        {
+            "description": "Persistent zero administration secured line",
+            "quantity": 5,
+            "unit_price": 48.02,
+            "total_price": 240.1
+        }
+    ],
+    "amount": 4483.32
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Houston, Hartman and Johnston",
+    "invoice_number": "INV-21829",
+    "date": "2025-05-16",
+    "items": [
+        {
+            "description": "Universal background neural-net",
+            "quantity": 4,
+            "unit_price": 269.54,
+            "total_price": 1078.16
+        },
+        {
+            "description": "Automated high-level structure",
+            "quantity": 10,
+            "unit_price": 55.88,
+            "total_price": 558.8
+        }
+    ],
+    "amount": 1636.96
+}

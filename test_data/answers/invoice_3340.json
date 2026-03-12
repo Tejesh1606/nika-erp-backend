@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Craig Group",
+    "invoice_number": "INV-57081",
+    "date": "2026-02-05",
+    "items": [
+        {
+            "description": "Open-architected stable matrix",
+            "quantity": 4,
+            "unit_price": 104.99,
+            "total_price": 419.96
+        },
+        {
+            "description": "Re-engineered next generation capability",
+            "quantity": 8,
+            "unit_price": 369.41,
+            "total_price": 2955.28
+        }
+    ],
+    "amount": 3375.24
+}

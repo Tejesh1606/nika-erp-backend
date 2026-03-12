@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Perez-Berry",
+    "invoice_number": "INV-26176",
+    "date": "2026-01-01",
+    "items": [
+        {
+            "description": "Extended well-modulated infrastructure",
+            "quantity": 10,
+            "unit_price": 428.55,
+            "total_price": 4285.5
+        },
+        {
+            "description": "Progressive responsive solution",
+            "quantity": 7,
+            "unit_price": 329.41,
+            "total_price": 2305.87
+        }
+    ],
+    "amount": 6591.37
+}

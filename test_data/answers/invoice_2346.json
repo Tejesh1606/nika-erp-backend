@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson, Ross and Ross",
+    "invoice_number": "INV-99795",
+    "date": "2025-12-24",
+    "items": [
+        {
+            "description": "Operative analyzing leverage",
+            "quantity": 10,
+            "unit_price": 259.22,
+            "total_price": 2592.2
+        },
+        {
+            "description": "Optional clear-thinking infrastructure",
+            "quantity": 1,
+            "unit_price": 441.93,
+            "total_price": 441.93
+        },
+        {
+            "description": "Horizontal didactic strategy",
+            "quantity": 3,
+            "unit_price": 296.21,
+            "total_price": 888.63
+        },
+        {
+            "description": "Progressive transitional help-desk",
+            "quantity": 6,
+            "unit_price": 173.8,
+            "total_price": 1042.8
+        }
+    ],
+    "amount": 4965.56
+}

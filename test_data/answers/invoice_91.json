@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Holland and Sons",
+    "invoice_number": "INV-75323",
+    "date": "2026-03-06",
+    "items": [
+        {
+            "description": "Universal explicit migration",
+            "quantity": 8,
+            "unit_price": 225.88,
+            "total_price": 1807.04
+        },
+        {
+            "description": "Triple-buffered encompassing instruction set",
+            "quantity": 5,
+            "unit_price": 414.5,
+            "total_price": 2072.5
+        }
+    ],
+    "amount": 3879.54
+}

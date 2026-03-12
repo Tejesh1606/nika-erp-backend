@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Carr, Wilson and Juarez",
+    "invoice_number": "INV-72026",
+    "date": "2025-08-29",
+    "items": [
+        {
+            "description": "Progressive fresh-thinking website",
+            "quantity": 8,
+            "unit_price": 222.23,
+            "total_price": 1777.84
+        },
+        {
+            "description": "Grass-roots holistic database",
+            "quantity": 10,
+            "unit_price": 458.55,
+            "total_price": 4585.5
+        },
+        {
+            "description": "Re-contextualized user-facing projection",
+            "quantity": 4,
+            "unit_price": 118.82,
+            "total_price": 475.28
+        },
+        {
+            "description": "Automated uniform hardware",
+            "quantity": 1,
+            "unit_price": 99.65,
+            "total_price": 99.65
+        }
+    ],
+    "amount": 6938.27
+}

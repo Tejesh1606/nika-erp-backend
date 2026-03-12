@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Martin, Moore and Ross",
+    "invoice_number": "INV-28615",
+    "date": "2025-04-14",
+    "items": [
+        {
+            "description": "Persistent zero-defect standardization",
+            "quantity": 7,
+            "unit_price": 293.02,
+            "total_price": 2051.14
+        }
+    ],
+    "amount": 2051.14
+}

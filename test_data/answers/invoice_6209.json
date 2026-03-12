@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Pollard-Freeman",
+    "invoice_number": "INV-77738",
+    "date": "2025-12-14",
+    "items": [
+        {
+            "description": "Fundamental client-driven emulation",
+            "quantity": 4,
+            "unit_price": 21.78,
+            "total_price": 87.12
+        }
+    ],
+    "amount": 87.12
+}

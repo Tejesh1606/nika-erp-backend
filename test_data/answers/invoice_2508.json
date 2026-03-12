@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Huff, Mahoney and Reilly",
+    "invoice_number": "INV-40876",
+    "date": "2025-04-29",
+    "items": [
+        {
+            "description": "Persevering uniform circuit",
+            "quantity": 2,
+            "unit_price": 493.64,
+            "total_price": 987.28
+        },
+        {
+            "description": "Face-to-face solution-oriented leverage",
+            "quantity": 7,
+            "unit_price": 88.46,
+            "total_price": 619.22
+        },
+        {
+            "description": "Decentralized local process improvement",
+            "quantity": 8,
+            "unit_price": 316.95,
+            "total_price": 2535.6
+        },
+        {
+            "description": "Profit-focused optimal algorithm",
+            "quantity": 5,
+            "unit_price": 103.93,
+            "total_price": 519.65
+        }
+    ],
+    "amount": 4661.75
+}

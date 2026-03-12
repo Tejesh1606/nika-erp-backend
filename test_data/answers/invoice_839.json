@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Williamson Group",
+    "invoice_number": "INV-40554",
+    "date": "2026-02-07",
+    "items": [
+        {
+            "description": "Right-sized zero tolerance protocol",
+            "quantity": 10,
+            "unit_price": 47.53,
+            "total_price": 475.3
+        }
+    ],
+    "amount": 475.3
+}

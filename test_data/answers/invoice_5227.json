@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mason-Guerrero",
+    "invoice_number": "INV-84774",
+    "date": "2025-10-31",
+    "items": [
+        {
+            "description": "Self-enabling real-time software",
+            "quantity": 5,
+            "unit_price": 185.0,
+            "total_price": 925.0
+        },
+        {
+            "description": "Seamless web-enabled architecture",
+            "quantity": 2,
+            "unit_price": 67.56,
+            "total_price": 135.12
+        },
+        {
+            "description": "Optional optimizing hardware",
+            "quantity": 6,
+            "unit_price": 401.4,
+            "total_price": 2408.4
+        }
+    ],
+    "amount": 3468.52
+}

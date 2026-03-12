@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Perkins Group",
+    "invoice_number": "INV-30400",
+    "date": "2025-08-29",
+    "items": [
+        {
+            "description": "Focused upward-trending success",
+            "quantity": 4,
+            "unit_price": 179.83,
+            "total_price": 719.32
+        },
+        {
+            "description": "Optional holistic circuit",
+            "quantity": 8,
+            "unit_price": 284.68,
+            "total_price": 2277.44
+        }
+    ],
+    "amount": 2996.76
+}

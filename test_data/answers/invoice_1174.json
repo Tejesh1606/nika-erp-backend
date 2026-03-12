@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Oconnor-Beard",
+    "invoice_number": "INV-57432",
+    "date": "2025-04-08",
+    "items": [
+        {
+            "description": "Multi-channeled next generation middleware",
+            "quantity": 4,
+            "unit_price": 365.17,
+            "total_price": 1460.68
+        },
+        {
+            "description": "Compatible high-level projection",
+            "quantity": 7,
+            "unit_price": 40.49,
+            "total_price": 283.43
+        },
+        {
+            "description": "Polarized real-time emulation",
+            "quantity": 2,
+            "unit_price": 59.37,
+            "total_price": 118.74
+        }
+    ],
+    "amount": 1862.85
+}

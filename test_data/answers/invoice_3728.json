@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Clark, Lyons and Robinson",
+    "invoice_number": "INV-40046",
+    "date": "2026-01-21",
+    "items": [
+        {
+            "description": "Sharable logistical core",
+            "quantity": 10,
+            "unit_price": 115.37,
+            "total_price": 1153.7
+        },
+        {
+            "description": "Upgradable zero tolerance challenge",
+            "quantity": 6,
+            "unit_price": 65.35,
+            "total_price": 392.1
+        },
+        {
+            "description": "Universal leadingedge model",
+            "quantity": 9,
+            "unit_price": 215.34,
+            "total_price": 1938.06
+        },
+        {
+            "description": "Extended real-time instruction set",
+            "quantity": 2,
+            "unit_price": 381.22,
+            "total_price": 762.44
+        }
+    ],
+    "amount": 4246.3
+}

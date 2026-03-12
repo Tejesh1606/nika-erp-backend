@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Garcia, Walker and Koch",
+    "invoice_number": "INV-81739",
+    "date": "2025-07-11",
+    "items": [
+        {
+            "description": "Business-focused needs-based array",
+            "quantity": 3,
+            "unit_price": 365.36,
+            "total_price": 1096.08
+        },
+        {
+            "description": "Self-enabling empowering core",
+            "quantity": 4,
+            "unit_price": 70.53,
+            "total_price": 282.12
+        },
+        {
+            "description": "Enterprise-wide contextually-based strategy",
+            "quantity": 2,
+            "unit_price": 196.26,
+            "total_price": 392.52
+        }
+    ],
+    "amount": 1770.72
+}

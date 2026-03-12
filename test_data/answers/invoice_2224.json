@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Howard LLC",
+    "invoice_number": "INV-10195",
+    "date": "2026-02-13",
+    "items": [
+        {
+            "description": "Expanded well-modulated data-warehouse",
+            "quantity": 8,
+            "unit_price": 385.92,
+            "total_price": 3087.36
+        },
+        {
+            "description": "Adaptive analyzing adapter",
+            "quantity": 9,
+            "unit_price": 165.24,
+            "total_price": 1487.16
+        },
+        {
+            "description": "Ameliorated neutral model",
+            "quantity": 4,
+            "unit_price": 111.1,
+            "total_price": 444.4
+        },
+        {
+            "description": "Multi-tiered dynamic utilization",
+            "quantity": 10,
+            "unit_price": 284.17,
+            "total_price": 2841.7
+        }
+    ],
+    "amount": 7860.62
+}

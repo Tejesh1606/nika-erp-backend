@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wright, Shields and Miller",
+    "invoice_number": "INV-65565",
+    "date": "2025-07-30",
+    "items": [
+        {
+            "description": "Vision-oriented logistical challenge",
+            "quantity": 7,
+            "unit_price": 108.89,
+            "total_price": 762.23
+        },
+        {
+            "description": "Seamless upward-trending success",
+            "quantity": 9,
+            "unit_price": 386.52,
+            "total_price": 3478.68
+        }
+    ],
+    "amount": 4240.91
+}

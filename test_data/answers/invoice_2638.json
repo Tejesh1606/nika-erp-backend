@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lopez Inc",
+    "invoice_number": "INV-64786",
+    "date": "2025-04-14",
+    "items": [
+        {
+            "description": "Synchronized optimal application",
+            "quantity": 8,
+            "unit_price": 157.47,
+            "total_price": 1259.76
+        },
+        {
+            "description": "Customer-focused object-oriented encoding",
+            "quantity": 2,
+            "unit_price": 227.82,
+            "total_price": 455.64
+        },
+        {
+            "description": "Stand-alone dynamic data-warehouse",
+            "quantity": 9,
+            "unit_price": 199.53,
+            "total_price": 1795.77
+        }
+    ],
+    "amount": 3511.17
+}

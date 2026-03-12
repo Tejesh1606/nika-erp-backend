@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cochran and Sons",
+    "invoice_number": "INV-34587",
+    "date": "2025-06-27",
+    "items": [
+        {
+            "description": "Re-contextualized systematic knowledgebase",
+            "quantity": 4,
+            "unit_price": 135.12,
+            "total_price": 540.48
+        },
+        {
+            "description": "Universal bandwidth-monitored throughput",
+            "quantity": 4,
+            "unit_price": 449.11,
+            "total_price": 1796.44
+        }
+    ],
+    "amount": 2336.92
+}

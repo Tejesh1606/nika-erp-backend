@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ruiz-Coleman",
+    "invoice_number": "INV-22190",
+    "date": "2025-09-23",
+    "items": [
+        {
+            "description": "Stand-alone well-modulated project",
+            "quantity": 1,
+            "unit_price": 317.16,
+            "total_price": 317.16
+        }
+    ],
+    "amount": 317.16
+}

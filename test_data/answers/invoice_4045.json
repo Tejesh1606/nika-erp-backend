@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Thompson, Smith and Logan",
+    "invoice_number": "INV-76538",
+    "date": "2025-11-24",
+    "items": [
+        {
+            "description": "Reactive asynchronous help-desk",
+            "quantity": 10,
+            "unit_price": 176.09,
+            "total_price": 1760.9
+        },
+        {
+            "description": "Streamlined contextually-based application",
+            "quantity": 10,
+            "unit_price": 49.71,
+            "total_price": 497.1
+        },
+        {
+            "description": "Profound optimizing software",
+            "quantity": 7,
+            "unit_price": 48.16,
+            "total_price": 337.12
+        }
+    ],
+    "amount": 2595.12
+}

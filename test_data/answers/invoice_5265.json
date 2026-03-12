@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Stewart Ltd",
+    "invoice_number": "INV-77058",
+    "date": "2025-12-27",
+    "items": [
+        {
+            "description": "Profound national secured line",
+            "quantity": 1,
+            "unit_price": 125.63,
+            "total_price": 125.63
+        },
+        {
+            "description": "Object-based exuding implementation",
+            "quantity": 7,
+            "unit_price": 464.84,
+            "total_price": 3253.88
+        }
+    ],
+    "amount": 3379.51
+}

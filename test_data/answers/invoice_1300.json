@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith, Diaz and Romero",
+    "invoice_number": "INV-77740",
+    "date": "2025-08-13",
+    "items": [
+        {
+            "description": "Polarized regional concept",
+            "quantity": 3,
+            "unit_price": 370.26,
+            "total_price": 1110.78
+        }
+    ],
+    "amount": 1110.78
+}

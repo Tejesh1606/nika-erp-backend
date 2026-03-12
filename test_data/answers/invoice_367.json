@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Evans-Rodriguez",
+    "invoice_number": "INV-18367",
+    "date": "2025-07-17",
+    "items": [
+        {
+            "description": "Grass-roots scalable Graphic Interface",
+            "quantity": 6,
+            "unit_price": 287.55,
+            "total_price": 1725.3
+        }
+    ],
+    "amount": 1725.3
+}

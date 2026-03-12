@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cowan PLC",
+    "invoice_number": "INV-36784",
+    "date": "2026-01-19",
+    "items": [
+        {
+            "description": "Compatible impactful complexity",
+            "quantity": 3,
+            "unit_price": 170.09,
+            "total_price": 510.27
+        },
+        {
+            "description": "Multi-channeled 6thgeneration groupware",
+            "quantity": 8,
+            "unit_price": 262.93,
+            "total_price": 2103.44
+        }
+    ],
+    "amount": 2613.71
+}

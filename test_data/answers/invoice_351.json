@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hernandez, Avery and Cole",
+    "invoice_number": "INV-31910",
+    "date": "2025-05-30",
+    "items": [
+        {
+            "description": "Ergonomic clear-thinking analyzer",
+            "quantity": 5,
+            "unit_price": 265.36,
+            "total_price": 1326.8
+        },
+        {
+            "description": "Optimized attitude-oriented software",
+            "quantity": 8,
+            "unit_price": 19.56,
+            "total_price": 156.48
+        },
+        {
+            "description": "Optional dedicated product",
+            "quantity": 7,
+            "unit_price": 51.49,
+            "total_price": 360.43
+        },
+        {
+            "description": "Digitized radical firmware",
+            "quantity": 6,
+            "unit_price": 175.73,
+            "total_price": 1054.38
+        }
+    ],
+    "amount": 2898.09
+}

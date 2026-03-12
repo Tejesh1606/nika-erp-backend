@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Espinoza-Escobar",
+    "invoice_number": "INV-69500",
+    "date": "2025-09-15",
+    "items": [
+        {
+            "description": "Optimized methodical support",
+            "quantity": 3,
+            "unit_price": 55.94,
+            "total_price": 167.82
+        }
+    ],
+    "amount": 167.82
+}

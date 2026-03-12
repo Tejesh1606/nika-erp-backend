@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Brock and Sons",
+    "invoice_number": "INV-71822",
+    "date": "2026-03-03",
+    "items": [
+        {
+            "description": "Right-sized intermediate array",
+            "quantity": 9,
+            "unit_price": 206.16,
+            "total_price": 1855.44
+        },
+        {
+            "description": "Cloned empowering definition",
+            "quantity": 4,
+            "unit_price": 301.46,
+            "total_price": 1205.84
+        }
+    ],
+    "amount": 3061.28
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Foster-Taylor",
+    "invoice_number": "INV-68128",
+    "date": "2025-08-19",
+    "items": [
+        {
+            "description": "Centralized attitude-oriented core",
+            "quantity": 7,
+            "unit_price": 450.35,
+            "total_price": 3152.45
+        },
+        {
+            "description": "Progressive 6thgeneration standardization",
+            "quantity": 9,
+            "unit_price": 50.83,
+            "total_price": 457.47
+        },
+        {
+            "description": "Phased real-time groupware",
+            "quantity": 9,
+            "unit_price": 413.57,
+            "total_price": 3722.13
+        },
+        {
+            "description": "User-centric attitude-oriented array",
+            "quantity": 4,
+            "unit_price": 213.96,
+            "total_price": 855.84
+        }
+    ],
+    "amount": 8187.89
+}

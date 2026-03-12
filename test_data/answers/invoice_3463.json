@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Maxwell, Schneider and Murillo",
+    "invoice_number": "INV-66477",
+    "date": "2025-10-16",
+    "items": [
+        {
+            "description": "Down-sized stable task-force",
+            "quantity": 10,
+            "unit_price": 396.52,
+            "total_price": 3965.2
+        },
+        {
+            "description": "Automated impactful initiative",
+            "quantity": 9,
+            "unit_price": 165.62,
+            "total_price": 1490.58
+        },
+        {
+            "description": "Switchable hybrid alliance",
+            "quantity": 5,
+            "unit_price": 121.97,
+            "total_price": 609.85
+        }
+    ],
+    "amount": 6065.63
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Riley-James",
+    "invoice_number": "INV-58323",
+    "date": "2025-11-06",
+    "items": [
+        {
+            "description": "Networked solution-oriented Local Area Network",
+            "quantity": 6,
+            "unit_price": 487.58,
+            "total_price": 2925.48
+        }
+    ],
+    "amount": 2925.48
+}

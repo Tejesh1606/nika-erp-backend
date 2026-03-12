@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hahn LLC",
+    "invoice_number": "INV-80294",
+    "date": "2025-11-02",
+    "items": [
+        {
+            "description": "Optimized mission-critical neural-net",
+            "quantity": 3,
+            "unit_price": 434.35,
+            "total_price": 1303.05
+        },
+        {
+            "description": "Universal 3rdgeneration open architecture",
+            "quantity": 9,
+            "unit_price": 165.36,
+            "total_price": 1488.24
+        },
+        {
+            "description": "Devolved human-resource superstructure",
+            "quantity": 4,
+            "unit_price": 185.69,
+            "total_price": 742.76
+        },
+        {
+            "description": "Grass-roots object-oriented database",
+            "quantity": 9,
+            "unit_price": 365.63,
+            "total_price": 3290.67
+        }
+    ],
+    "amount": 6824.72
+}

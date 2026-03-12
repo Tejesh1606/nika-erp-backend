@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gill, White and Williams",
+    "invoice_number": "INV-53715",
+    "date": "2026-01-26",
+    "items": [
+        {
+            "description": "Secured value-added paradigm",
+            "quantity": 3,
+            "unit_price": 437.27,
+            "total_price": 1311.81
+        },
+        {
+            "description": "Right-sized uniform archive",
+            "quantity": 8,
+            "unit_price": 125.42,
+            "total_price": 1003.36
+        },
+        {
+            "description": "Reverse-engineered dedicated model",
+            "quantity": 8,
+            "unit_price": 201.43,
+            "total_price": 1611.44
+        },
+        {
+            "description": "Polarized content-based database",
+            "quantity": 4,
+            "unit_price": 53.98,
+            "total_price": 215.92
+        }
+    ],
+    "amount": 4142.53
+}

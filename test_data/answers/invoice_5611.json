@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Park-Hoover",
+    "invoice_number": "INV-28257",
+    "date": "2025-10-25",
+    "items": [
+        {
+            "description": "Self-enabling coherent alliance",
+            "quantity": 3,
+            "unit_price": 179.28,
+            "total_price": 537.84
+        },
+        {
+            "description": "Persistent coherent circuit",
+            "quantity": 5,
+            "unit_price": 271.38,
+            "total_price": 1356.9
+        },
+        {
+            "description": "Exclusive 6thgeneration utilization",
+            "quantity": 2,
+            "unit_price": 431.01,
+            "total_price": 862.02
+        }
+    ],
+    "amount": 2756.76
+}

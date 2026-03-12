@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mitchell Ltd",
+    "invoice_number": "INV-32852",
+    "date": "2025-08-06",
+    "items": [
+        {
+            "description": "Function-based cohesive hub",
+            "quantity": 5,
+            "unit_price": 358.21,
+            "total_price": 1791.05
+        },
+        {
+            "description": "User-centric 3rdgeneration Internet solution",
+            "quantity": 5,
+            "unit_price": 379.27,
+            "total_price": 1896.35
+        }
+    ],
+    "amount": 3687.4
+}

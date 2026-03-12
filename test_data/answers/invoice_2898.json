@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Thomas, Holloway and Buckley",
+    "invoice_number": "INV-29915",
+    "date": "2025-11-30",
+    "items": [
+        {
+            "description": "Configurable scalable workforce",
+            "quantity": 3,
+            "unit_price": 81.68,
+            "total_price": 245.04
+        },
+        {
+            "description": "Proactive heuristic productivity",
+            "quantity": 2,
+            "unit_price": 350.11,
+            "total_price": 700.22
+        },
+        {
+            "description": "Open-architected composite projection",
+            "quantity": 8,
+            "unit_price": 465.09,
+            "total_price": 3720.72
+        },
+        {
+            "description": "Multi-tiered regional open system",
+            "quantity": 7,
+            "unit_price": 122.88,
+            "total_price": 860.16
+        }
+    ],
+    "amount": 5526.14
+}

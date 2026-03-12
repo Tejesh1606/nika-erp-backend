@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hernandez, Duarte and Smith",
+    "invoice_number": "INV-91667",
+    "date": "2025-11-15",
+    "items": [
+        {
+            "description": "Polarized mobile structure",
+            "quantity": 2,
+            "unit_price": 305.18,
+            "total_price": 610.36
+        },
+        {
+            "description": "Synergized optimizing standardization",
+            "quantity": 6,
+            "unit_price": 257.76,
+            "total_price": 1546.56
+        },
+        {
+            "description": "Inverse tangible matrices",
+            "quantity": 2,
+            "unit_price": 17.27,
+            "total_price": 34.54
+        },
+        {
+            "description": "Enhanced executive ability",
+            "quantity": 3,
+            "unit_price": 15.95,
+            "total_price": 47.85
+        }
+    ],
+    "amount": 2239.31
+}

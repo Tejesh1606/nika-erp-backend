@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rowland PLC",
+    "invoice_number": "INV-27766",
+    "date": "2025-06-02",
+    "items": [
+        {
+            "description": "Synergistic systematic superstructure",
+            "quantity": 7,
+            "unit_price": 117.27,
+            "total_price": 820.89
+        },
+        {
+            "description": "Adaptive 24/7 open architecture",
+            "quantity": 3,
+            "unit_price": 261.89,
+            "total_price": 785.67
+        },
+        {
+            "description": "Extended directional framework",
+            "quantity": 9,
+            "unit_price": 474.07,
+            "total_price": 4266.63
+        },
+        {
+            "description": "Decentralized national matrices",
+            "quantity": 5,
+            "unit_price": 467.92,
+            "total_price": 2339.6
+        }
+    ],
+    "amount": 8212.79
+}

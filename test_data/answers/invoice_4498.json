@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Nicholson-Santana",
+    "invoice_number": "INV-84652",
+    "date": "2026-02-16",
+    "items": [
+        {
+            "description": "Customer-focused 6thgeneration synergy",
+            "quantity": 2,
+            "unit_price": 433.51,
+            "total_price": 867.02
+        },
+        {
+            "description": "Organized analyzing product",
+            "quantity": 1,
+            "unit_price": 60.09,
+            "total_price": 60.09
+        }
+    ],
+    "amount": 927.11
+}

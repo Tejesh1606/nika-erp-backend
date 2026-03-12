@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hall, Bates and Walters",
+    "invoice_number": "INV-93040",
+    "date": "2025-07-23",
+    "items": [
+        {
+            "description": "Proactive clear-thinking task-force",
+            "quantity": 7,
+            "unit_price": 224.16,
+            "total_price": 1569.12
+        }
+    ],
+    "amount": 1569.12
+}

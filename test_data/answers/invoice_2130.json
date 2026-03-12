@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Roberts-Smith",
+    "invoice_number": "INV-89289",
+    "date": "2025-05-12",
+    "items": [
+        {
+            "description": "Switchable scalable migration",
+            "quantity": 3,
+            "unit_price": 93.56,
+            "total_price": 280.68
+        },
+        {
+            "description": "Object-based 24/7 Graphic Interface",
+            "quantity": 9,
+            "unit_price": 435.22,
+            "total_price": 3916.98
+        },
+        {
+            "description": "Down-sized bottom-line alliance",
+            "quantity": 1,
+            "unit_price": 270.69,
+            "total_price": 270.69
+        }
+    ],
+    "amount": 4468.35
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Cain-Patterson",
+    "invoice_number": "INV-43641",
+    "date": "2025-04-26",
+    "items": [
+        {
+            "description": "Business-focused scalable structure",
+            "quantity": 9,
+            "unit_price": 429.32,
+            "total_price": 3863.88
+        },
+        {
+            "description": "Total zero tolerance budgetary management",
+            "quantity": 4,
+            "unit_price": 319.53,
+            "total_price": 1278.12
+        },
+        {
+            "description": "Upgradable zero administration array",
+            "quantity": 2,
+            "unit_price": 368.98,
+            "total_price": 737.96
+        },
+        {
+            "description": "Proactive well-modulated solution",
+            "quantity": 7,
+            "unit_price": 330.55,
+            "total_price": 2313.85
+        }
+    ],
+    "amount": 8193.81
+}

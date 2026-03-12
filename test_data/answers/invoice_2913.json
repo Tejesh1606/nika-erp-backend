@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hudson, Parker and Lawrence",
+    "invoice_number": "INV-25995",
+    "date": "2025-06-17",
+    "items": [
+        {
+            "description": "Persevering non-volatile superstructure",
+            "quantity": 3,
+            "unit_price": 387.48,
+            "total_price": 1162.44
+        },
+        {
+            "description": "Business-focused high-level emulation",
+            "quantity": 2,
+            "unit_price": 425.01,
+            "total_price": 850.02
+        },
+        {
+            "description": "Integrated leadingedge capacity",
+            "quantity": 1,
+            "unit_price": 217.21,
+            "total_price": 217.21
+        }
+    ],
+    "amount": 2229.67
+}

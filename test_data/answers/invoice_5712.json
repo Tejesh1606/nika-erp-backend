@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Brown, Williams and Thompson",
+    "invoice_number": "INV-66480",
+    "date": "2025-03-19",
+    "items": [
+        {
+            "description": "Phased disintermediate forecast",
+            "quantity": 10,
+            "unit_price": 49.97,
+            "total_price": 499.7
+        }
+    ],
+    "amount": 499.7
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Garza, Gray and Holland",
+    "invoice_number": "INV-31932",
+    "date": "2025-04-21",
+    "items": [
+        {
+            "description": "Multi-lateral encompassing architecture",
+            "quantity": 2,
+            "unit_price": 352.87,
+            "total_price": 705.74
+        },
+        {
+            "description": "Monitored tangible architecture",
+            "quantity": 1,
+            "unit_price": 83.91,
+            "total_price": 83.91
+        },
+        {
+            "description": "Reduced next generation approach",
+            "quantity": 5,
+            "unit_price": 477.02,
+            "total_price": 2385.1
+        }
+    ],
+    "amount": 3174.75
+}

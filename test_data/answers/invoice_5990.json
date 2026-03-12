@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Davis, Williams and White",
+    "invoice_number": "INV-46232",
+    "date": "2025-08-22",
+    "items": [
+        {
+            "description": "Persevering next generation instruction set",
+            "quantity": 3,
+            "unit_price": 380.27,
+            "total_price": 1140.81
+        },
+        {
+            "description": "Exclusive 6thgeneration throughput",
+            "quantity": 8,
+            "unit_price": 108.64,
+            "total_price": 869.12
+        },
+        {
+            "description": "Face-to-face needs-based architecture",
+            "quantity": 5,
+            "unit_price": 117.1,
+            "total_price": 585.5
+        }
+    ],
+    "amount": 2595.43
+}

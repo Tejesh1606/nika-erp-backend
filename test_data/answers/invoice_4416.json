@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rodriguez, Acevedo and Carr",
+    "invoice_number": "INV-92200",
+    "date": "2025-08-13",
+    "items": [
+        {
+            "description": "Centralized coherent matrices",
+            "quantity": 2,
+            "unit_price": 450.43,
+            "total_price": 900.86
+        },
+        {
+            "description": "Open-architected radical time-frame",
+            "quantity": 3,
+            "unit_price": 440.18,
+            "total_price": 1320.54
+        },
+        {
+            "description": "Ergonomic tangible focus group",
+            "quantity": 5,
+            "unit_price": 73.56,
+            "total_price": 367.8
+        },
+        {
+            "description": "Versatile modular matrix",
+            "quantity": 3,
+            "unit_price": 60.87,
+            "total_price": 182.61
+        }
+    ],
+    "amount": 2771.81
+}

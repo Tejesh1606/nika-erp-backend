@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Garcia-Robertson",
+    "invoice_number": "INV-77251",
+    "date": "2025-11-25",
+    "items": [
+        {
+            "description": "Secured static groupware",
+            "quantity": 7,
+            "unit_price": 67.18,
+            "total_price": 470.26
+        },
+        {
+            "description": "Optional dedicated monitoring",
+            "quantity": 1,
+            "unit_price": 258.52,
+            "total_price": 258.52
+        },
+        {
+            "description": "Ergonomic interactive matrix",
+            "quantity": 4,
+            "unit_price": 293.82,
+            "total_price": 1175.28
+        }
+    ],
+    "amount": 1904.06
+}

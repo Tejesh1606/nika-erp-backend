@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Medina-Orozco",
+    "invoice_number": "INV-27797",
+    "date": "2026-01-31",
+    "items": [
+        {
+            "description": "Pre-emptive bottom-line knowledgebase",
+            "quantity": 9,
+            "unit_price": 329.76,
+            "total_price": 2967.84
+        }
+    ],
+    "amount": 2967.84
+}

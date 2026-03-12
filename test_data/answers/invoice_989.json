@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Dawson, Snow and Malone",
+    "invoice_number": "INV-83445",
+    "date": "2025-07-21",
+    "items": [
+        {
+            "description": "Multi-lateral local product",
+            "quantity": 7,
+            "unit_price": 282.89,
+            "total_price": 1980.23
+        },
+        {
+            "description": "Universal bottom-line Internet solution",
+            "quantity": 7,
+            "unit_price": 463.26,
+            "total_price": 3242.82
+        },
+        {
+            "description": "Cloned mission-critical instruction set",
+            "quantity": 10,
+            "unit_price": 148.27,
+            "total_price": 1482.7
+        },
+        {
+            "description": "Progressive motivating utilization",
+            "quantity": 10,
+            "unit_price": 424.85,
+            "total_price": 4248.5
+        }
+    ],
+    "amount": 10954.25
+}

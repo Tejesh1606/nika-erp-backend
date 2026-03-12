@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Colon, Tucker and Vasquez",
+    "invoice_number": "INV-44078",
+    "date": "2025-06-15",
+    "items": [
+        {
+            "description": "Proactive intermediate artificial intelligence",
+            "quantity": 2,
+            "unit_price": 409.94,
+            "total_price": 819.88
+        },
+        {
+            "description": "Reverse-engineered didactic knowledge user",
+            "quantity": 9,
+            "unit_price": 242.42,
+            "total_price": 2181.78
+        }
+    ],
+    "amount": 3001.66
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Miles, Barnes and Cole",
+    "invoice_number": "INV-46463",
+    "date": "2026-01-17",
+    "items": [
+        {
+            "description": "Adaptive well-modulated workforce",
+            "quantity": 2,
+            "unit_price": 480.95,
+            "total_price": 961.9
+        },
+        {
+            "description": "Diverse tangible interface",
+            "quantity": 1,
+            "unit_price": 199.63,
+            "total_price": 199.63
+        },
+        {
+            "description": "Mandatory even-keeled collaboration",
+            "quantity": 7,
+            "unit_price": 476.83,
+            "total_price": 3337.81
+        }
+    ],
+    "amount": 4499.34
+}

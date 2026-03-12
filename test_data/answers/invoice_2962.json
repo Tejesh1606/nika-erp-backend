@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Adams, Richmond and Gonzalez",
+    "invoice_number": "INV-97498",
+    "date": "2025-03-13",
+    "items": [
+        {
+            "description": "Synchronized actuating knowledgebase",
+            "quantity": 3,
+            "unit_price": 13.18,
+            "total_price": 39.54
+        }
+    ],
+    "amount": 39.54
+}

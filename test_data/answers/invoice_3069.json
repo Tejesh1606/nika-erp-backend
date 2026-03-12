@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Chen Group",
+    "invoice_number": "INV-37627",
+    "date": "2025-07-23",
+    "items": [
+        {
+            "description": "Operative executive adapter",
+            "quantity": 4,
+            "unit_price": 491.97,
+            "total_price": 1967.88
+        },
+        {
+            "description": "Persistent multi-state definition",
+            "quantity": 3,
+            "unit_price": 428.02,
+            "total_price": 1284.06
+        },
+        {
+            "description": "Upgradable uniform structure",
+            "quantity": 2,
+            "unit_price": 482.31,
+            "total_price": 964.62
+        },
+        {
+            "description": "Vision-oriented 4thgeneration monitoring",
+            "quantity": 5,
+            "unit_price": 97.68,
+            "total_price": 488.4
+        }
+    ],
+    "amount": 4704.96
+}

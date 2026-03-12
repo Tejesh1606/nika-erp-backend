@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Torres, Fitzgerald and Roberts",
+    "invoice_number": "INV-17779",
+    "date": "2025-07-16",
+    "items": [
+        {
+            "description": "Extended exuding firmware",
+            "quantity": 4,
+            "unit_price": 438.26,
+            "total_price": 1753.04
+        },
+        {
+            "description": "Versatile scalable matrices",
+            "quantity": 7,
+            "unit_price": 435.73,
+            "total_price": 3050.11
+        },
+        {
+            "description": "Mandatory heuristic adapter",
+            "quantity": 1,
+            "unit_price": 176.61,
+            "total_price": 176.61
+        },
+        {
+            "description": "Profound client-server emulation",
+            "quantity": 5,
+            "unit_price": 51.65,
+            "total_price": 258.25
+        }
+    ],
+    "amount": 5238.01
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Downs, Morris and Maddox",
+    "invoice_number": "INV-51436",
+    "date": "2025-05-06",
+    "items": [
+        {
+            "description": "Organic asymmetric leverage",
+            "quantity": 9,
+            "unit_price": 354.22,
+            "total_price": 3187.98
+        },
+        {
+            "description": "Organic responsive framework",
+            "quantity": 10,
+            "unit_price": 111.9,
+            "total_price": 1119.0
+        }
+    ],
+    "amount": 4306.98
+}

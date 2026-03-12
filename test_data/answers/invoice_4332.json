@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cowan, Carlson and Griffin",
+    "invoice_number": "INV-58808",
+    "date": "2025-04-19",
+    "items": [
+        {
+            "description": "Secured discrete archive",
+            "quantity": 2,
+            "unit_price": 457.14,
+            "total_price": 914.28
+        },
+        {
+            "description": "Organized needs-based framework",
+            "quantity": 4,
+            "unit_price": 346.4,
+            "total_price": 1385.6
+        },
+        {
+            "description": "Future-proofed transitional policy",
+            "quantity": 6,
+            "unit_price": 404.37,
+            "total_price": 2426.22
+        }
+    ],
+    "amount": 4726.1
+}

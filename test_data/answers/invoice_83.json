@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Lyons-Bender",
+    "invoice_number": "INV-75597",
+    "date": "2025-10-04",
+    "items": [
+        {
+            "description": "Proactive leadingedge artificial intelligence",
+            "quantity": 3,
+            "unit_price": 61.06,
+            "total_price": 183.18
+        },
+        {
+            "description": "Right-sized 6thgeneration Internet solution",
+            "quantity": 1,
+            "unit_price": 387.79,
+            "total_price": 387.79
+        }
+    ],
+    "amount": 570.97
+}

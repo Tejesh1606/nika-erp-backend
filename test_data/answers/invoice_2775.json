@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mejia LLC",
+    "invoice_number": "INV-27944",
+    "date": "2025-10-14",
+    "items": [
+        {
+            "description": "Profound systemic knowledge user",
+            "quantity": 8,
+            "unit_price": 138.68,
+            "total_price": 1109.44
+        },
+        {
+            "description": "Pre-emptive 24hour intranet",
+            "quantity": 10,
+            "unit_price": 494.22,
+            "total_price": 4942.2
+        },
+        {
+            "description": "Stand-alone explicit hardware",
+            "quantity": 6,
+            "unit_price": 248.34,
+            "total_price": 1490.04
+        },
+        {
+            "description": "Right-sized user-facing process improvement",
+            "quantity": 2,
+            "unit_price": 299.54,
+            "total_price": 599.08
+        }
+    ],
+    "amount": 8140.76
+}

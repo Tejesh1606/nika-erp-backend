@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Ramirez-Oconnor",
+    "invoice_number": "INV-89434",
+    "date": "2025-09-13",
+    "items": [
+        {
+            "description": "Universal background software",
+            "quantity": 1,
+            "unit_price": 479.65,
+            "total_price": 479.65
+        },
+        {
+            "description": "Synergized 6thgeneration application",
+            "quantity": 7,
+            "unit_price": 472.82,
+            "total_price": 3309.74
+        },
+        {
+            "description": "Cross-group leadingedge access",
+            "quantity": 4,
+            "unit_price": 131.98,
+            "total_price": 527.92
+        },
+        {
+            "description": "Persistent next generation benchmark",
+            "quantity": 6,
+            "unit_price": 32.99,
+            "total_price": 197.94
+        }
+    ],
+    "amount": 4515.25
+}

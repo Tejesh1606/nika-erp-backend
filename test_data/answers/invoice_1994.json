@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Burke, Fleming and Baker",
+    "invoice_number": "INV-36347",
+    "date": "2025-10-12",
+    "items": [
+        {
+            "description": "Mandatory disintermediate challenge",
+            "quantity": 6,
+            "unit_price": 259.01,
+            "total_price": 1554.06
+        }
+    ],
+    "amount": 1554.06
+}

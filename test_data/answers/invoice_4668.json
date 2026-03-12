@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ramirez Inc",
+    "invoice_number": "INV-95790",
+    "date": "2025-04-09",
+    "items": [
+        {
+            "description": "Open-architected executive matrix",
+            "quantity": 10,
+            "unit_price": 257.89,
+            "total_price": 2578.9
+        },
+        {
+            "description": "Open-source eco-centric paradigm",
+            "quantity": 8,
+            "unit_price": 47.04,
+            "total_price": 376.32
+        }
+    ],
+    "amount": 2955.22
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Stewart and Sons",
+    "invoice_number": "INV-40774",
+    "date": "2025-08-14",
+    "items": [
+        {
+            "description": "Automated bandwidth-monitored service-desk",
+            "quantity": 3,
+            "unit_price": 402.5,
+            "total_price": 1207.5
+        },
+        {
+            "description": "Advanced optimal support",
+            "quantity": 7,
+            "unit_price": 11.09,
+            "total_price": 77.63
+        },
+        {
+            "description": "Streamlined reciprocal orchestration",
+            "quantity": 3,
+            "unit_price": 181.04,
+            "total_price": 543.12
+        }
+    ],
+    "amount": 1828.25
+}

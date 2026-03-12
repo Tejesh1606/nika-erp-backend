@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Russell-Moore",
+    "invoice_number": "INV-41813",
+    "date": "2026-02-13",
+    "items": [
+        {
+            "description": "Operative web-enabled structure",
+            "quantity": 2,
+            "unit_price": 113.08,
+            "total_price": 226.16
+        },
+        {
+            "description": "De-engineered holistic success",
+            "quantity": 7,
+            "unit_price": 120.45,
+            "total_price": 843.15
+        },
+        {
+            "description": "Up-sized multi-tasking Internet solution",
+            "quantity": 1,
+            "unit_price": 465.64,
+            "total_price": 465.64
+        }
+    ],
+    "amount": 1534.95
+}

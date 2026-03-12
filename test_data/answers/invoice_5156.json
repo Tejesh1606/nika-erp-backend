@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Reed-Wilson",
+    "invoice_number": "INV-82962",
+    "date": "2025-08-18",
+    "items": [
+        {
+            "description": "Re-engineered systemic attitude",
+            "quantity": 1,
+            "unit_price": 355.74,
+            "total_price": 355.74
+        },
+        {
+            "description": "Versatile non-volatile protocol",
+            "quantity": 8,
+            "unit_price": 389.7,
+            "total_price": 3117.6
+        },
+        {
+            "description": "Stand-alone multimedia artificial intelligence",
+            "quantity": 7,
+            "unit_price": 496.09,
+            "total_price": 3472.63
+        },
+        {
+            "description": "Optimized value-added conglomeration",
+            "quantity": 6,
+            "unit_price": 229.45,
+            "total_price": 1376.7
+        }
+    ],
+    "amount": 8322.67
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jones Ltd",
+    "invoice_number": "INV-82844",
+    "date": "2025-11-23",
+    "items": [
+        {
+            "description": "Integrated demand-driven superstructure",
+            "quantity": 5,
+            "unit_price": 292.24,
+            "total_price": 1461.2
+        },
+        {
+            "description": "Seamless radical architecture",
+            "quantity": 5,
+            "unit_price": 420.63,
+            "total_price": 2103.15
+        },
+        {
+            "description": "Centralized web-enabled installation",
+            "quantity": 2,
+            "unit_price": 206.0,
+            "total_price": 412.0
+        }
+    ],
+    "amount": 3976.35
+}

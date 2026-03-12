@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brooks-Chang",
+    "invoice_number": "INV-94983",
+    "date": "2025-03-30",
+    "items": [
+        {
+            "description": "Intuitive fresh-thinking matrices",
+            "quantity": 8,
+            "unit_price": 71.04,
+            "total_price": 568.32
+        },
+        {
+            "description": "Team-oriented stable methodology",
+            "quantity": 8,
+            "unit_price": 113.3,
+            "total_price": 906.4
+        },
+        {
+            "description": "Up-sized mission-critical time-frame",
+            "quantity": 3,
+            "unit_price": 163.75,
+            "total_price": 491.25
+        }
+    ],
+    "amount": 1965.97
+}

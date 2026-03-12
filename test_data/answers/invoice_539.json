@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lin-Smith",
+    "invoice_number": "INV-95119",
+    "date": "2025-08-06",
+    "items": [
+        {
+            "description": "Focused homogeneous migration",
+            "quantity": 8,
+            "unit_price": 272.01,
+            "total_price": 2176.08
+        },
+        {
+            "description": "Triple-buffered bandwidth-monitored functionalities",
+            "quantity": 5,
+            "unit_price": 427.04,
+            "total_price": 2135.2
+        },
+        {
+            "description": "Pre-emptive radical monitoring",
+            "quantity": 4,
+            "unit_price": 270.07,
+            "total_price": 1080.28
+        },
+        {
+            "description": "Cross-group contextually-based customer loyalty",
+            "quantity": 3,
+            "unit_price": 433.02,
+            "total_price": 1299.06
+        }
+    ],
+    "amount": 6690.62
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cain Group",
+    "invoice_number": "INV-10152",
+    "date": "2025-05-14",
+    "items": [
+        {
+            "description": "Stand-alone intangible secured line",
+            "quantity": 10,
+            "unit_price": 390.37,
+            "total_price": 3903.7
+        },
+        {
+            "description": "Polarized bottom-line portal",
+            "quantity": 3,
+            "unit_price": 410.28,
+            "total_price": 1230.84
+        }
+    ],
+    "amount": 5134.54
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Davis, Mckay and Macdonald",
+    "invoice_number": "INV-23735",
+    "date": "2025-04-25",
+    "items": [
+        {
+            "description": "Diverse human-resource help-desk",
+            "quantity": 6,
+            "unit_price": 353.35,
+            "total_price": 2120.1
+        }
+    ],
+    "amount": 2120.1
+}

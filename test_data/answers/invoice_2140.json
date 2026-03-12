@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Nelson LLC",
+    "invoice_number": "INV-49716",
+    "date": "2025-06-14",
+    "items": [
+        {
+            "description": "De-engineered radical policy",
+            "quantity": 1,
+            "unit_price": 236.17,
+            "total_price": 236.17
+        },
+        {
+            "description": "Balanced hybrid matrices",
+            "quantity": 2,
+            "unit_price": 479.54,
+            "total_price": 959.08
+        },
+        {
+            "description": "Grass-roots static Graphical User Interface",
+            "quantity": 7,
+            "unit_price": 316.08,
+            "total_price": 2212.56
+        },
+        {
+            "description": "Optimized next generation initiative",
+            "quantity": 5,
+            "unit_price": 432.84,
+            "total_price": 2164.2
+        }
+    ],
+    "amount": 5572.01
+}

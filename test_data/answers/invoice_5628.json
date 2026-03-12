@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Garcia, Morgan and Barton",
+    "invoice_number": "INV-98356",
+    "date": "2026-02-06",
+    "items": [
+        {
+            "description": "Mandatory systemic capability",
+            "quantity": 2,
+            "unit_price": 13.59,
+            "total_price": 27.18
+        }
+    ],
+    "amount": 27.18
+}

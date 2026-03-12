@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Meyer-Elliott",
+    "invoice_number": "INV-68170",
+    "date": "2025-07-11",
+    "items": [
+        {
+            "description": "Configurable incremental customer loyalty",
+            "quantity": 9,
+            "unit_price": 353.08,
+            "total_price": 3177.72
+        },
+        {
+            "description": "Quality-focused 24hour initiative",
+            "quantity": 10,
+            "unit_price": 117.34,
+            "total_price": 1173.4
+        },
+        {
+            "description": "Optimized contextually-based initiative",
+            "quantity": 5,
+            "unit_price": 153.42,
+            "total_price": 767.1
+        }
+    ],
+    "amount": 5118.22
+}

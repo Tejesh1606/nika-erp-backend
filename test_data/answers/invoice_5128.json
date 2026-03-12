@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Cain Group",
+    "invoice_number": "INV-57788",
+    "date": "2025-03-14",
+    "items": [
+        {
+            "description": "Seamless dedicated solution",
+            "quantity": 9,
+            "unit_price": 274.5,
+            "total_price": 2470.5
+        },
+        {
+            "description": "Open-source stable adapter",
+            "quantity": 4,
+            "unit_price": 255.87,
+            "total_price": 1023.48
+        },
+        {
+            "description": "Grass-roots methodical ability",
+            "quantity": 8,
+            "unit_price": 488.66,
+            "total_price": 3909.28
+        },
+        {
+            "description": "Secured coherent open architecture",
+            "quantity": 2,
+            "unit_price": 201.65,
+            "total_price": 403.3
+        }
+    ],
+    "amount": 7806.56
+}

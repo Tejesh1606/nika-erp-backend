@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Gonzalez, Baker and Mills",
+    "invoice_number": "INV-36433",
+    "date": "2025-07-26",
+    "items": [
+        {
+            "description": "Triple-buffered incremental frame",
+            "quantity": 7,
+            "unit_price": 498.4,
+            "total_price": 3488.8
+        },
+        {
+            "description": "Diverse 6thgeneration neural-net",
+            "quantity": 2,
+            "unit_price": 359.1,
+            "total_price": 718.2
+        },
+        {
+            "description": "Proactive demand-driven solution",
+            "quantity": 2,
+            "unit_price": 42.2,
+            "total_price": 84.4
+        }
+    ],
+    "amount": 4291.4
+}

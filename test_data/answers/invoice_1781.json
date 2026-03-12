@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Huff and Sons",
+    "invoice_number": "INV-36238",
+    "date": "2025-10-30",
+    "items": [
+        {
+            "description": "Digitized secondary ability",
+            "quantity": 1,
+            "unit_price": 496.04,
+            "total_price": 496.04
+        },
+        {
+            "description": "Self-enabling fault-tolerant process improvement",
+            "quantity": 6,
+            "unit_price": 327.05,
+            "total_price": 1962.3
+        },
+        {
+            "description": "Cross-group analyzing implementation",
+            "quantity": 9,
+            "unit_price": 435.05,
+            "total_price": 3915.45
+        }
+    ],
+    "amount": 6373.79
+}

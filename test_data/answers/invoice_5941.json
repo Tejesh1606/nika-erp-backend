@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lin-Jackson",
+    "invoice_number": "INV-48785",
+    "date": "2025-10-10",
+    "items": [
+        {
+            "description": "Versatile local model",
+            "quantity": 8,
+            "unit_price": 191.69,
+            "total_price": 1533.52
+        },
+        {
+            "description": "Horizontal scalable analyzer",
+            "quantity": 4,
+            "unit_price": 207.22,
+            "total_price": 828.88
+        },
+        {
+            "description": "Integrated bi-directional throughput",
+            "quantity": 9,
+            "unit_price": 173.55,
+            "total_price": 1561.95
+        },
+        {
+            "description": "Integrated modular benchmark",
+            "quantity": 2,
+            "unit_price": 307.18,
+            "total_price": 614.36
+        }
+    ],
+    "amount": 4538.71
+}

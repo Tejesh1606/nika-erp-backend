@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Warren, Fowler and Lopez",
+    "invoice_number": "INV-80954",
+    "date": "2025-04-24",
+    "items": [
+        {
+            "description": "Reactive clear-thinking superstructure",
+            "quantity": 5,
+            "unit_price": 408.62,
+            "total_price": 2043.1
+        },
+        {
+            "description": "Customizable mobile superstructure",
+            "quantity": 6,
+            "unit_price": 206.0,
+            "total_price": 1236.0
+        }
+    ],
+    "amount": 3279.1
+}

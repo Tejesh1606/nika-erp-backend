@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Smith, Arnold and Atkins",
+    "invoice_number": "INV-53412",
+    "date": "2025-07-27",
+    "items": [
+        {
+            "description": "User-centric high-level synergy",
+            "quantity": 4,
+            "unit_price": 31.15,
+            "total_price": 124.6
+        },
+        {
+            "description": "Vision-oriented optimizing moderator",
+            "quantity": 4,
+            "unit_price": 417.85,
+            "total_price": 1671.4
+        },
+        {
+            "description": "Robust holistic encoding",
+            "quantity": 10,
+            "unit_price": 488.27,
+            "total_price": 4882.7
+        },
+        {
+            "description": "Streamlined even-keeled database",
+            "quantity": 10,
+            "unit_price": 53.5,
+            "total_price": 535.0
+        }
+    ],
+    "amount": 7213.7
+}

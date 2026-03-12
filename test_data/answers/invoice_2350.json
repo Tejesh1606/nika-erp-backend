@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Tapia-Shannon",
+    "invoice_number": "INV-14147",
+    "date": "2025-08-19",
+    "items": [
+        {
+            "description": "Team-oriented demand-driven utilization",
+            "quantity": 4,
+            "unit_price": 193.34,
+            "total_price": 773.36
+        }
+    ],
+    "amount": 773.36
+}

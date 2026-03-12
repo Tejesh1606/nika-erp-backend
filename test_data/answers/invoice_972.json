@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Evans-Patterson",
+    "invoice_number": "INV-33878",
+    "date": "2025-10-03",
+    "items": [
+        {
+            "description": "Future-proofed bi-directional intranet",
+            "quantity": 6,
+            "unit_price": 321.8,
+            "total_price": 1930.8
+        },
+        {
+            "description": "Switchable leadingedge complexity",
+            "quantity": 3,
+            "unit_price": 68.45,
+            "total_price": 205.35
+        },
+        {
+            "description": "Devolved heuristic synergy",
+            "quantity": 7,
+            "unit_price": 156.51,
+            "total_price": 1095.57
+        }
+    ],
+    "amount": 3231.72
+}

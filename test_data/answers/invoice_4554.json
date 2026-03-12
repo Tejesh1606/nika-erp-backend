@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jordan, Thompson and Downs",
+    "invoice_number": "INV-75827",
+    "date": "2025-05-20",
+    "items": [
+        {
+            "description": "Total discrete access",
+            "quantity": 9,
+            "unit_price": 435.5,
+            "total_price": 3919.5
+        },
+        {
+            "description": "Vision-oriented 5thgeneration open system",
+            "quantity": 7,
+            "unit_price": 404.68,
+            "total_price": 2832.76
+        },
+        {
+            "description": "Universal leadingedge architecture",
+            "quantity": 4,
+            "unit_price": 327.24,
+            "total_price": 1308.96
+        }
+    ],
+    "amount": 8061.22
+}

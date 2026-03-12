@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Peters, Lopez and Holmes",
+    "invoice_number": "INV-22368",
+    "date": "2025-05-31",
+    "items": [
+        {
+            "description": "Customizable tertiary artificial intelligence",
+            "quantity": 1,
+            "unit_price": 358.05,
+            "total_price": 358.05
+        },
+        {
+            "description": "Total exuding migration",
+            "quantity": 1,
+            "unit_price": 405.65,
+            "total_price": 405.65
+        },
+        {
+            "description": "Enhanced fault-tolerant product",
+            "quantity": 8,
+            "unit_price": 46.34,
+            "total_price": 370.72
+        }
+    ],
+    "amount": 1134.42
+}

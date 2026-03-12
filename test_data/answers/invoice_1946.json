@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Glover-Mccullough",
+    "invoice_number": "INV-56837",
+    "date": "2026-02-10",
+    "items": [
+        {
+            "description": "Centralized 24/7 complexity",
+            "quantity": 10,
+            "unit_price": 465.56,
+            "total_price": 4655.6
+        },
+        {
+            "description": "Operative well-modulated workforce",
+            "quantity": 4,
+            "unit_price": 340.76,
+            "total_price": 1363.04
+        }
+    ],
+    "amount": 6018.64
+}

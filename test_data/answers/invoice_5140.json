@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Li-Smith",
+    "invoice_number": "INV-54698",
+    "date": "2026-01-24",
+    "items": [
+        {
+            "description": "Persistent fresh-thinking collaboration",
+            "quantity": 10,
+            "unit_price": 265.2,
+            "total_price": 2652.0
+        }
+    ],
+    "amount": 2652.0
+}

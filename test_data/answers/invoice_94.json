@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cantu-Kane",
+    "invoice_number": "INV-41300",
+    "date": "2025-10-17",
+    "items": [
+        {
+            "description": "Networked discrete time-frame",
+            "quantity": 5,
+            "unit_price": 289.8,
+            "total_price": 1449.0
+        }
+    ],
+    "amount": 1449.0
+}

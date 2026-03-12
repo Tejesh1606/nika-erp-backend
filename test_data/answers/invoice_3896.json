@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Sosa, Fuller and Cruz",
+    "invoice_number": "INV-11173",
+    "date": "2025-08-20",
+    "items": [
+        {
+            "description": "Compatible zero administration flexibility",
+            "quantity": 5,
+            "unit_price": 411.96,
+            "total_price": 2059.8
+        },
+        {
+            "description": "Organic attitude-oriented hardware",
+            "quantity": 1,
+            "unit_price": 178.39,
+            "total_price": 178.39
+        },
+        {
+            "description": "Reduced 24/7 benchmark",
+            "quantity": 3,
+            "unit_price": 475.83,
+            "total_price": 1427.49
+        },
+        {
+            "description": "Customer-focused composite functionalities",
+            "quantity": 6,
+            "unit_price": 253.38,
+            "total_price": 1520.28
+        }
+    ],
+    "amount": 5185.96
+}

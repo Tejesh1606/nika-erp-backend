@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Williams and Sons",
+    "invoice_number": "INV-88250",
+    "date": "2025-10-22",
+    "items": [
+        {
+            "description": "Front-line modular migration",
+            "quantity": 1,
+            "unit_price": 252.68,
+            "total_price": 252.68
+        },
+        {
+            "description": "Versatile motivating info-mediaries",
+            "quantity": 7,
+            "unit_price": 431.26,
+            "total_price": 3018.82
+        },
+        {
+            "description": "Customizable encompassing approach",
+            "quantity": 7,
+            "unit_price": 218.22,
+            "total_price": 1527.54
+        }
+    ],
+    "amount": 4799.04
+}

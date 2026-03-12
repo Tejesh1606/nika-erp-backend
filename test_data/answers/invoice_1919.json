@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cruz-Lopez",
+    "invoice_number": "INV-19781",
+    "date": "2025-04-15",
+    "items": [
+        {
+            "description": "Quality-focused systematic website",
+            "quantity": 1,
+            "unit_price": 125.56,
+            "total_price": 125.56
+        },
+        {
+            "description": "Stand-alone neutral circuit",
+            "quantity": 2,
+            "unit_price": 210.5,
+            "total_price": 421.0
+        }
+    ],
+    "amount": 546.56
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lewis-Dennis",
+    "invoice_number": "INV-91271",
+    "date": "2025-06-01",
+    "items": [
+        {
+            "description": "Total secondary installation",
+            "quantity": 2,
+            "unit_price": 177.39,
+            "total_price": 354.78
+        }
+    ],
+    "amount": 354.78
+}

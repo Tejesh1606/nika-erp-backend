@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Collins, Moore and Davis",
+    "invoice_number": "INV-45094",
+    "date": "2025-06-16",
+    "items": [
+        {
+            "description": "Inverse local infrastructure",
+            "quantity": 7,
+            "unit_price": 363.83,
+            "total_price": 2546.81
+        },
+        {
+            "description": "Multi-tiered attitude-oriented instruction set",
+            "quantity": 4,
+            "unit_price": 195.6,
+            "total_price": 782.4
+        },
+        {
+            "description": "Universal static conglomeration",
+            "quantity": 8,
+            "unit_price": 206.72,
+            "total_price": 1653.76
+        },
+        {
+            "description": "Re-engineered transitional throughput",
+            "quantity": 6,
+            "unit_price": 33.66,
+            "total_price": 201.96
+        }
+    ],
+    "amount": 5184.93
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gregory-Brown",
+    "invoice_number": "INV-52636",
+    "date": "2025-05-18",
+    "items": [
+        {
+            "description": "Assimilated transitional approach",
+            "quantity": 10,
+            "unit_price": 17.13,
+            "total_price": 171.3
+        }
+    ],
+    "amount": 171.3
+}

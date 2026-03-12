@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Myers Group",
+    "invoice_number": "INV-53216",
+    "date": "2025-06-19",
+    "items": [
+        {
+            "description": "Customizable discrete time-frame",
+            "quantity": 9,
+            "unit_price": 94.15,
+            "total_price": 847.35
+        },
+        {
+            "description": "Enterprise-wide human-resource core",
+            "quantity": 3,
+            "unit_price": 460.91,
+            "total_price": 1382.73
+        },
+        {
+            "description": "Universal tertiary ability",
+            "quantity": 8,
+            "unit_price": 140.01,
+            "total_price": 1120.08
+        }
+    ],
+    "amount": 3350.16
+}

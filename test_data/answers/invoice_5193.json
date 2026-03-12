@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ortega-Carroll",
+    "invoice_number": "INV-38801",
+    "date": "2025-04-04",
+    "items": [
+        {
+            "description": "Progressive homogeneous Local Area Network",
+            "quantity": 9,
+            "unit_price": 421.06,
+            "total_price": 3789.54
+        },
+        {
+            "description": "Sharable static model",
+            "quantity": 3,
+            "unit_price": 393.31,
+            "total_price": 1179.93
+        },
+        {
+            "description": "Customizable systematic artificial intelligence",
+            "quantity": 6,
+            "unit_price": 175.17,
+            "total_price": 1051.02
+        }
+    ],
+    "amount": 6020.49
+}

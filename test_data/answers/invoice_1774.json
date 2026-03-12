@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Cobb-Skinner",
+    "invoice_number": "INV-47753",
+    "date": "2025-05-17",
+    "items": [
+        {
+            "description": "Profit-focused clear-thinking framework",
+            "quantity": 5,
+            "unit_price": 204.26,
+            "total_price": 1021.3
+        },
+        {
+            "description": "Seamless bottom-line artificial intelligence",
+            "quantity": 2,
+            "unit_price": 76.02,
+            "total_price": 152.04
+        },
+        {
+            "description": "Team-oriented interactive groupware",
+            "quantity": 8,
+            "unit_price": 483.7,
+            "total_price": 3869.6
+        },
+        {
+            "description": "Assimilated client-driven ability",
+            "quantity": 7,
+            "unit_price": 183.41,
+            "total_price": 1283.87
+        }
+    ],
+    "amount": 6326.81
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mccarthy and Sons",
+    "invoice_number": "INV-14203",
+    "date": "2025-05-05",
+    "items": [
+        {
+            "description": "Future-proofed context-sensitive infrastructure",
+            "quantity": 3,
+            "unit_price": 416.89,
+            "total_price": 1250.67
+        },
+        {
+            "description": "Synergized empowering installation",
+            "quantity": 1,
+            "unit_price": 331.49,
+            "total_price": 331.49
+        }
+    ],
+    "amount": 1582.16
+}

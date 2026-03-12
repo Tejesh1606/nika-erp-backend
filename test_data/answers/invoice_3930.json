@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Howard Ltd",
+    "invoice_number": "INV-24554",
+    "date": "2025-04-19",
+    "items": [
+        {
+            "description": "Business-focused client-driven implementation",
+            "quantity": 8,
+            "unit_price": 44.33,
+            "total_price": 354.64
+        },
+        {
+            "description": "Secured demand-driven orchestration",
+            "quantity": 1,
+            "unit_price": 73.19,
+            "total_price": 73.19
+        }
+    ],
+    "amount": 427.83
+}

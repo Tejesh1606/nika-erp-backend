@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Davis, Johnson and Whitney",
+    "invoice_number": "INV-91739",
+    "date": "2025-07-21",
+    "items": [
+        {
+            "description": "Centralized exuding encoding",
+            "quantity": 5,
+            "unit_price": 218.98,
+            "total_price": 1094.9
+        },
+        {
+            "description": "Profit-focused non-volatile service-desk",
+            "quantity": 7,
+            "unit_price": 456.49,
+            "total_price": 3195.43
+        },
+        {
+            "description": "Versatile hybrid frame",
+            "quantity": 3,
+            "unit_price": 156.55,
+            "total_price": 469.65
+        },
+        {
+            "description": "Streamlined bandwidth-monitored infrastructure",
+            "quantity": 8,
+            "unit_price": 138.43,
+            "total_price": 1107.44
+        }
+    ],
+    "amount": 5867.42
+}

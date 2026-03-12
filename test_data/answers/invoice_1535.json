@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mclean, Jacobs and Guerrero",
+    "invoice_number": "INV-85233",
+    "date": "2025-05-01",
+    "items": [
+        {
+            "description": "Phased global array",
+            "quantity": 7,
+            "unit_price": 313.59,
+            "total_price": 2195.13
+        },
+        {
+            "description": "Team-oriented mobile Graphical User Interface",
+            "quantity": 2,
+            "unit_price": 288.91,
+            "total_price": 577.82
+        }
+    ],
+    "amount": 2772.95
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bell, Cole and Evans",
+    "invoice_number": "INV-88066",
+    "date": "2025-11-29",
+    "items": [
+        {
+            "description": "Synergized grid-enabled projection",
+            "quantity": 8,
+            "unit_price": 113.01,
+            "total_price": 904.08
+        },
+        {
+            "description": "Multi-lateral local budgetary management",
+            "quantity": 4,
+            "unit_price": 245.63,
+            "total_price": 982.52
+        }
+    ],
+    "amount": 1886.6
+}

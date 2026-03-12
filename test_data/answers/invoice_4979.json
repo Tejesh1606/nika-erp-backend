@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Davies-Taylor",
+    "invoice_number": "INV-63009",
+    "date": "2026-01-11",
+    "items": [
+        {
+            "description": "Managed directional contingency",
+            "quantity": 3,
+            "unit_price": 134.48,
+            "total_price": 403.44
+        }
+    ],
+    "amount": 403.44
+}

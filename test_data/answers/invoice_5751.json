@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jensen and Sons",
+    "invoice_number": "INV-62815",
+    "date": "2025-12-21",
+    "items": [
+        {
+            "description": "Grass-roots fresh-thinking knowledgebase",
+            "quantity": 10,
+            "unit_price": 147.61,
+            "total_price": 1476.1
+        }
+    ],
+    "amount": 1476.1
+}

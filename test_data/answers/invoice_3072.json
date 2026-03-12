@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cole-Jones",
+    "invoice_number": "INV-83555",
+    "date": "2025-07-18",
+    "items": [
+        {
+            "description": "Virtual mobile attitude",
+            "quantity": 10,
+            "unit_price": 196.35,
+            "total_price": 1963.5
+        },
+        {
+            "description": "Configurable interactive framework",
+            "quantity": 5,
+            "unit_price": 288.59,
+            "total_price": 1442.95
+        }
+    ],
+    "amount": 3406.45
+}

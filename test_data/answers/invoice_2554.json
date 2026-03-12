@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Garcia Ltd",
+    "invoice_number": "INV-80243",
+    "date": "2025-09-11",
+    "items": [
+        {
+            "description": "Fully-configurable attitude-oriented function",
+            "quantity": 3,
+            "unit_price": 454.93,
+            "total_price": 1364.79
+        }
+    ],
+    "amount": 1364.79
+}

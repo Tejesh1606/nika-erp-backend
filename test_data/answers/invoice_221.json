@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Durham, Todd and Pham",
+    "invoice_number": "INV-38627",
+    "date": "2025-12-29",
+    "items": [
+        {
+            "description": "Fully-configurable systemic system engine",
+            "quantity": 1,
+            "unit_price": 354.5,
+            "total_price": 354.5
+        },
+        {
+            "description": "Right-sized zero tolerance artificial intelligence",
+            "quantity": 5,
+            "unit_price": 392.6,
+            "total_price": 1963.0
+        },
+        {
+            "description": "Progressive local moderator",
+            "quantity": 3,
+            "unit_price": 396.82,
+            "total_price": 1190.46
+        }
+    ],
+    "amount": 3507.96
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gibbs LLC",
+    "invoice_number": "INV-80373",
+    "date": "2025-10-25",
+    "items": [
+        {
+            "description": "Sharable attitude-oriented benchmark",
+            "quantity": 7,
+            "unit_price": 208.75,
+            "total_price": 1461.25
+        }
+    ],
+    "amount": 1461.25
+}

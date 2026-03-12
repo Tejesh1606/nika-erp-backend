@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Harris Group",
+    "invoice_number": "INV-84563",
+    "date": "2026-01-18",
+    "items": [
+        {
+            "description": "User-friendly didactic support",
+            "quantity": 2,
+            "unit_price": 328.09,
+            "total_price": 656.18
+        },
+        {
+            "description": "Proactive responsive leverage",
+            "quantity": 9,
+            "unit_price": 114.52,
+            "total_price": 1030.68
+        }
+    ],
+    "amount": 1686.86
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Goodwin, Morton and Herrera",
+    "invoice_number": "INV-16000",
+    "date": "2026-01-14",
+    "items": [
+        {
+            "description": "Advanced uniform encryption",
+            "quantity": 9,
+            "unit_price": 174.96,
+            "total_price": 1574.64
+        },
+        {
+            "description": "Centralized asynchronous approach",
+            "quantity": 4,
+            "unit_price": 382.05,
+            "total_price": 1528.2
+        },
+        {
+            "description": "De-engineered leadingedge contingency",
+            "quantity": 2,
+            "unit_price": 436.08,
+            "total_price": 872.16
+        }
+    ],
+    "amount": 3975.0
+}

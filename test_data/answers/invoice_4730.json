@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Garrison LLC",
+    "invoice_number": "INV-13392",
+    "date": "2025-06-29",
+    "items": [
+        {
+            "description": "Sharable heuristic initiative",
+            "quantity": 6,
+            "unit_price": 466.09,
+            "total_price": 2796.54
+        },
+        {
+            "description": "Progressive interactive process improvement",
+            "quantity": 5,
+            "unit_price": 362.67,
+            "total_price": 1813.35
+        }
+    ],
+    "amount": 4609.89
+}

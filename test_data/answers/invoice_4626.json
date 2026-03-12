@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Frey-Quinn",
+    "invoice_number": "INV-98325",
+    "date": "2025-08-23",
+    "items": [
+        {
+            "description": "Monitored interactive monitoring",
+            "quantity": 7,
+            "unit_price": 370.09,
+            "total_price": 2590.63
+        },
+        {
+            "description": "User-friendly scalable open architecture",
+            "quantity": 6,
+            "unit_price": 477.25,
+            "total_price": 2863.5
+        }
+    ],
+    "amount": 5454.13
+}

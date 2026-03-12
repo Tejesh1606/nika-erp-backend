@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith LLC",
+    "invoice_number": "INV-39840",
+    "date": "2025-07-15",
+    "items": [
+        {
+            "description": "Exclusive zero administration array",
+            "quantity": 4,
+            "unit_price": 35.48,
+            "total_price": 141.92
+        },
+        {
+            "description": "Ergonomic uniform capability",
+            "quantity": 2,
+            "unit_price": 381.19,
+            "total_price": 762.38
+        },
+        {
+            "description": "Profound encompassing hub",
+            "quantity": 9,
+            "unit_price": 351.77,
+            "total_price": 3165.93
+        }
+    ],
+    "amount": 4070.23
+}

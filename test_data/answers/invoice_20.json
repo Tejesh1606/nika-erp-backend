@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Davis Group",
+    "invoice_number": "INV-56438",
+    "date": "2025-08-20",
+    "items": [
+        {
+            "description": "Open-source maximized superstructure",
+            "quantity": 1,
+            "unit_price": 295.37,
+            "total_price": 295.37
+        },
+        {
+            "description": "Business-focused systematic projection",
+            "quantity": 3,
+            "unit_price": 426.72,
+            "total_price": 1280.16
+        },
+        {
+            "description": "Stand-alone bandwidth-monitored approach",
+            "quantity": 7,
+            "unit_price": 236.65,
+            "total_price": 1656.55
+        }
+    ],
+    "amount": 3232.08
+}

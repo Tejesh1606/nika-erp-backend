@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gibson, Hughes and Taylor",
+    "invoice_number": "INV-35448",
+    "date": "2025-11-09",
+    "items": [
+        {
+            "description": "Multi-channeled encompassing customer loyalty",
+            "quantity": 1,
+            "unit_price": 215.97,
+            "total_price": 215.97
+        }
+    ],
+    "amount": 215.97
+}

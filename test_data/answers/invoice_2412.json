@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hansen-Oliver",
+    "invoice_number": "INV-26397",
+    "date": "2026-02-27",
+    "items": [
+        {
+            "description": "Re-contextualized zero-defect moratorium",
+            "quantity": 7,
+            "unit_price": 189.89,
+            "total_price": 1329.23
+        },
+        {
+            "description": "Automated solution-oriented hub",
+            "quantity": 3,
+            "unit_price": 458.15,
+            "total_price": 1374.45
+        },
+        {
+            "description": "Open-architected national capacity",
+            "quantity": 10,
+            "unit_price": 162.66,
+            "total_price": 1626.6
+        }
+    ],
+    "amount": 4330.28
+}

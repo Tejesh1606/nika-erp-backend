@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Harris Inc",
+    "invoice_number": "INV-54113",
+    "date": "2025-06-17",
+    "items": [
+        {
+            "description": "Customer-focused scalable architecture",
+            "quantity": 8,
+            "unit_price": 132.67,
+            "total_price": 1061.36
+        },
+        {
+            "description": "Customizable optimizing algorithm",
+            "quantity": 4,
+            "unit_price": 441.62,
+            "total_price": 1766.48
+        }
+    ],
+    "amount": 2827.84
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Pruitt-Day",
+    "invoice_number": "INV-20653",
+    "date": "2025-11-02",
+    "items": [
+        {
+            "description": "Ameliorated zero administration migration",
+            "quantity": 1,
+            "unit_price": 367.94,
+            "total_price": 367.94
+        },
+        {
+            "description": "Organized multimedia project",
+            "quantity": 4,
+            "unit_price": 191.42,
+            "total_price": 765.68
+        }
+    ],
+    "amount": 1133.62
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Garrett Inc",
+    "invoice_number": "INV-13653",
+    "date": "2025-09-11",
+    "items": [
+        {
+            "description": "Optional 4thgeneration parallelism",
+            "quantity": 9,
+            "unit_price": 396.66,
+            "total_price": 3569.94
+        }
+    ],
+    "amount": 3569.94
+}

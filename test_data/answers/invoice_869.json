@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Medina, Nguyen and Johnson",
+    "invoice_number": "INV-14221",
+    "date": "2026-03-02",
+    "items": [
+        {
+            "description": "Devolved coherent groupware",
+            "quantity": 2,
+            "unit_price": 244.1,
+            "total_price": 488.2
+        },
+        {
+            "description": "Re-contextualized responsive website",
+            "quantity": 5,
+            "unit_price": 146.34,
+            "total_price": 731.7
+        },
+        {
+            "description": "Robust real-time orchestration",
+            "quantity": 3,
+            "unit_price": 145.09,
+            "total_price": 435.27
+        }
+    ],
+    "amount": 1655.17
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Stanley and Sons",
+    "invoice_number": "INV-48361",
+    "date": "2025-03-29",
+    "items": [
+        {
+            "description": "Multi-layered analyzing intranet",
+            "quantity": 2,
+            "unit_price": 303.31,
+            "total_price": 606.62
+        },
+        {
+            "description": "Up-sized incremental firmware",
+            "quantity": 7,
+            "unit_price": 183.43,
+            "total_price": 1284.01
+        },
+        {
+            "description": "Switchable needs-based Local Area Network",
+            "quantity": 7,
+            "unit_price": 193.85,
+            "total_price": 1356.95
+        },
+        {
+            "description": "Upgradable zero-defect benchmark",
+            "quantity": 7,
+            "unit_price": 483.34,
+            "total_price": 3383.38
+        }
+    ],
+    "amount": 6630.96
+}

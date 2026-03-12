@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Miller-Gonzalez",
+    "invoice_number": "INV-66392",
+    "date": "2025-12-13",
+    "items": [
+        {
+            "description": "Distributed background database",
+            "quantity": 2,
+            "unit_price": 31.2,
+            "total_price": 62.4
+        }
+    ],
+    "amount": 62.4
+}

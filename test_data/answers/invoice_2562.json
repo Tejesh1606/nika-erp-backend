@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Johnson LLC",
+    "invoice_number": "INV-40422",
+    "date": "2026-02-09",
+    "items": [
+        {
+            "description": "Reverse-engineered clear-thinking contingency",
+            "quantity": 9,
+            "unit_price": 312.18,
+            "total_price": 2809.62
+        },
+        {
+            "description": "Synchronized context-sensitive application",
+            "quantity": 7,
+            "unit_price": 262.33,
+            "total_price": 1836.31
+        }
+    ],
+    "amount": 4645.93
+}

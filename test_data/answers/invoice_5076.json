@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Bell Ltd",
+    "invoice_number": "INV-87548",
+    "date": "2025-08-25",
+    "items": [
+        {
+            "description": "Stand-alone zero-defect function",
+            "quantity": 4,
+            "unit_price": 290.26,
+            "total_price": 1161.04
+        },
+        {
+            "description": "Compatible asymmetric data-warehouse",
+            "quantity": 3,
+            "unit_price": 79.61,
+            "total_price": 238.83
+        },
+        {
+            "description": "Monitored 24/7 knowledge user",
+            "quantity": 2,
+            "unit_price": 451.23,
+            "total_price": 902.46
+        },
+        {
+            "description": "Team-oriented intermediate toolset",
+            "quantity": 9,
+            "unit_price": 422.15,
+            "total_price": 3799.35
+        }
+    ],
+    "amount": 6101.68
+}

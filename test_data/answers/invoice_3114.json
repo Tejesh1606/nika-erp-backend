@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Robbins-Bernard",
+    "invoice_number": "INV-90402",
+    "date": "2025-09-10",
+    "items": [
+        {
+            "description": "Stand-alone logistical encoding",
+            "quantity": 8,
+            "unit_price": 77.88,
+            "total_price": 623.04
+        }
+    ],
+    "amount": 623.04
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Garrett-Lopez",
+    "invoice_number": "INV-16285",
+    "date": "2025-12-02",
+    "items": [
+        {
+            "description": "Triple-buffered optimizing task-force",
+            "quantity": 1,
+            "unit_price": 354.57,
+            "total_price": 354.57
+        },
+        {
+            "description": "Profit-focused 5thgeneration hardware",
+            "quantity": 10,
+            "unit_price": 407.69,
+            "total_price": 4076.9
+        }
+    ],
+    "amount": 4431.47
+}

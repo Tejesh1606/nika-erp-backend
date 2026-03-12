@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Phelps-Cuevas",
+    "invoice_number": "INV-33469",
+    "date": "2025-09-18",
+    "items": [
+        {
+            "description": "Pre-emptive non-volatile instruction set",
+            "quantity": 10,
+            "unit_price": 325.31,
+            "total_price": 3253.1
+        },
+        {
+            "description": "Centralized incremental secured line",
+            "quantity": 10,
+            "unit_price": 268.68,
+            "total_price": 2686.8
+        },
+        {
+            "description": "Quality-focused motivating utilization",
+            "quantity": 3,
+            "unit_price": 380.2,
+            "total_price": 1140.6
+        },
+        {
+            "description": "Programmable static implementation",
+            "quantity": 10,
+            "unit_price": 476.54,
+            "total_price": 4765.4
+        }
+    ],
+    "amount": 11845.9
+}

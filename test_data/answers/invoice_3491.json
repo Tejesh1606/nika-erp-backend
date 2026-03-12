@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Burke-Turner",
+    "invoice_number": "INV-78794",
+    "date": "2025-03-25",
+    "items": [
+        {
+            "description": "Total even-keeled workforce",
+            "quantity": 10,
+            "unit_price": 203.06,
+            "total_price": 2030.6
+        },
+        {
+            "description": "Vision-oriented 4thgeneration leverage",
+            "quantity": 1,
+            "unit_price": 416.93,
+            "total_price": 416.93
+        }
+    ],
+    "amount": 2447.53
+}

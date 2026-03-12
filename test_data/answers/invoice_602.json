@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jacobs-Lane",
+    "invoice_number": "INV-41031",
+    "date": "2025-12-10",
+    "items": [
+        {
+            "description": "Profit-focused encompassing installation",
+            "quantity": 10,
+            "unit_price": 15.31,
+            "total_price": 153.1
+        },
+        {
+            "description": "Quality-focused object-oriented hierarchy",
+            "quantity": 4,
+            "unit_price": 315.29,
+            "total_price": 1261.16
+        },
+        {
+            "description": "Automated 5thgeneration open system",
+            "quantity": 5,
+            "unit_price": 356.18,
+            "total_price": 1780.9
+        },
+        {
+            "description": "Polarized tertiary hub",
+            "quantity": 3,
+            "unit_price": 484.27,
+            "total_price": 1452.81
+        }
+    ],
+    "amount": 4647.97
+}

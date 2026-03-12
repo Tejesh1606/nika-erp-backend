@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Martin-Jones",
+    "invoice_number": "INV-97981",
+    "date": "2025-12-03",
+    "items": [
+        {
+            "description": "Open-architected heuristic system engine",
+            "quantity": 10,
+            "unit_price": 11.03,
+            "total_price": 110.3
+        }
+    ],
+    "amount": 110.3
+}

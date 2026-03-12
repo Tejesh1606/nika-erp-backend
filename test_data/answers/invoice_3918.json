@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Brown and Sons",
+    "invoice_number": "INV-97133",
+    "date": "2025-09-25",
+    "items": [
+        {
+            "description": "Mandatory encompassing alliance",
+            "quantity": 2,
+            "unit_price": 496.38,
+            "total_price": 992.76
+        },
+        {
+            "description": "Organic 24hour approach",
+            "quantity": 6,
+            "unit_price": 486.94,
+            "total_price": 2921.64
+        }
+    ],
+    "amount": 3914.4
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hicks-Calderon",
+    "invoice_number": "INV-62059",
+    "date": "2025-05-30",
+    "items": [
+        {
+            "description": "Distributed national ability",
+            "quantity": 3,
+            "unit_price": 439.01,
+            "total_price": 1317.03
+        },
+        {
+            "description": "Self-enabling value-added process improvement",
+            "quantity": 6,
+            "unit_price": 275.53,
+            "total_price": 1653.18
+        }
+    ],
+    "amount": 2970.21
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Luna-Fuentes",
+    "invoice_number": "INV-29358",
+    "date": "2025-06-08",
+    "items": [
+        {
+            "description": "Customer-focused client-server extranet",
+            "quantity": 5,
+            "unit_price": 210.68,
+            "total_price": 1053.4
+        },
+        {
+            "description": "Exclusive context-sensitive portal",
+            "quantity": 1,
+            "unit_price": 122.7,
+            "total_price": 122.7
+        }
+    ],
+    "amount": 1176.1
+}

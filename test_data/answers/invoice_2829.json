@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bell-Kline",
+    "invoice_number": "INV-21909",
+    "date": "2025-04-23",
+    "items": [
+        {
+            "description": "Synchronized user-facing migration",
+            "quantity": 8,
+            "unit_price": 134.88,
+            "total_price": 1079.04
+        },
+        {
+            "description": "Optimized stable architecture",
+            "quantity": 2,
+            "unit_price": 69.12,
+            "total_price": 138.24
+        },
+        {
+            "description": "Mandatory intangible focus group",
+            "quantity": 7,
+            "unit_price": 35.42,
+            "total_price": 247.94
+        }
+    ],
+    "amount": 1465.22
+}

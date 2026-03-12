@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Harrison, Lynch and Leonard",
+    "invoice_number": "INV-23619",
+    "date": "2025-10-25",
+    "items": [
+        {
+            "description": "Re-engineered executive installation",
+            "quantity": 5,
+            "unit_price": 244.68,
+            "total_price": 1223.4
+        }
+    ],
+    "amount": 1223.4
+}

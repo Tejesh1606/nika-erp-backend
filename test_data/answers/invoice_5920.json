@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wiggins-Ortiz",
+    "invoice_number": "INV-55994",
+    "date": "2025-04-10",
+    "items": [
+        {
+            "description": "Triple-buffered encompassing parallelism",
+            "quantity": 10,
+            "unit_price": 416.6,
+            "total_price": 4166.0
+        },
+        {
+            "description": "Robust local Graphical User Interface",
+            "quantity": 2,
+            "unit_price": 276.72,
+            "total_price": 553.44
+        }
+    ],
+    "amount": 4719.44
+}

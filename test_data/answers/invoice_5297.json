@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Moore-Madden",
+    "invoice_number": "INV-67276",
+    "date": "2025-08-20",
+    "items": [
+        {
+            "description": "Organized human-resource synergy",
+            "quantity": 8,
+            "unit_price": 85.27,
+            "total_price": 682.16
+        },
+        {
+            "description": "De-engineered composite installation",
+            "quantity": 7,
+            "unit_price": 481.67,
+            "total_price": 3371.69
+        },
+        {
+            "description": "Total mission-critical info-mediaries",
+            "quantity": 5,
+            "unit_price": 347.32,
+            "total_price": 1736.6
+        },
+        {
+            "description": "Compatible modular framework",
+            "quantity": 8,
+            "unit_price": 399.41,
+            "total_price": 3195.28
+        }
+    ],
+    "amount": 8985.73
+}

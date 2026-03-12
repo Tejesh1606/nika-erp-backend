@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith-Lee",
+    "invoice_number": "INV-33953",
+    "date": "2025-10-05",
+    "items": [
+        {
+            "description": "Realigned motivating ability",
+            "quantity": 3,
+            "unit_price": 473.87,
+            "total_price": 1421.61
+        },
+        {
+            "description": "Phased 24hour adapter",
+            "quantity": 1,
+            "unit_price": 277.98,
+            "total_price": 277.98
+        },
+        {
+            "description": "Inverse attitude-oriented standardization",
+            "quantity": 1,
+            "unit_price": 118.86,
+            "total_price": 118.86
+        }
+    ],
+    "amount": 1818.45
+}

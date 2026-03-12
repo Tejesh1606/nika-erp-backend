@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hahn, Cook and Matthews",
+    "invoice_number": "INV-68887",
+    "date": "2025-03-29",
+    "items": [
+        {
+            "description": "Triple-buffered empowering success",
+            "quantity": 10,
+            "unit_price": 31.04,
+            "total_price": 310.4
+        },
+        {
+            "description": "Upgradable high-level flexibility",
+            "quantity": 6,
+            "unit_price": 95.02,
+            "total_price": 570.12
+        }
+    ],
+    "amount": 880.52
+}

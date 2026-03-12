@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Fry Group",
+    "invoice_number": "INV-56936",
+    "date": "2025-08-26",
+    "items": [
+        {
+            "description": "Grass-roots tertiary Graphical User Interface",
+            "quantity": 4,
+            "unit_price": 35.85,
+            "total_price": 143.4
+        },
+        {
+            "description": "Synergized even-keeled task-force",
+            "quantity": 4,
+            "unit_price": 256.82,
+            "total_price": 1027.28
+        },
+        {
+            "description": "Multi-layered solution-oriented capability",
+            "quantity": 3,
+            "unit_price": 136.39,
+            "total_price": 409.17
+        },
+        {
+            "description": "Organic well-modulated emulation",
+            "quantity": 10,
+            "unit_price": 386.57,
+            "total_price": 3865.7
+        }
+    ],
+    "amount": 5445.55
+}

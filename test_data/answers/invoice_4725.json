@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Cannon Group",
+    "invoice_number": "INV-37214",
+    "date": "2026-01-10",
+    "items": [
+        {
+            "description": "Public-key bottom-line encoding",
+            "quantity": 10,
+            "unit_price": 348.92,
+            "total_price": 3489.2
+        },
+        {
+            "description": "Advanced dedicated circuit",
+            "quantity": 2,
+            "unit_price": 240.69,
+            "total_price": 481.38
+        },
+        {
+            "description": "User-friendly incremental capacity",
+            "quantity": 8,
+            "unit_price": 348.44,
+            "total_price": 2787.52
+        },
+        {
+            "description": "Innovative systemic pricing structure",
+            "quantity": 3,
+            "unit_price": 444.92,
+            "total_price": 1334.76
+        }
+    ],
+    "amount": 8092.86
+}

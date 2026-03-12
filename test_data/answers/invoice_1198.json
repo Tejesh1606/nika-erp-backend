@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hart LLC",
+    "invoice_number": "INV-44289",
+    "date": "2025-11-26",
+    "items": [
+        {
+            "description": "Intuitive incremental infrastructure",
+            "quantity": 4,
+            "unit_price": 481.73,
+            "total_price": 1926.92
+        }
+    ],
+    "amount": 1926.92
+}

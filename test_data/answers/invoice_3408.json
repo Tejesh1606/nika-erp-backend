@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Webb PLC",
+    "invoice_number": "INV-11503",
+    "date": "2025-11-13",
+    "items": [
+        {
+            "description": "Integrated reciprocal circuit",
+            "quantity": 5,
+            "unit_price": 81.84,
+            "total_price": 409.2
+        }
+    ],
+    "amount": 409.2
+}

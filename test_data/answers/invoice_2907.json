@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Shaw, Chandler and Wagner",
+    "invoice_number": "INV-67101",
+    "date": "2025-08-08",
+    "items": [
+        {
+            "description": "Team-oriented empowering database",
+            "quantity": 5,
+            "unit_price": 278.65,
+            "total_price": 1393.25
+        },
+        {
+            "description": "Automated bandwidth-monitored info-mediaries",
+            "quantity": 5,
+            "unit_price": 312.58,
+            "total_price": 1562.9
+        }
+    ],
+    "amount": 2956.15
+}

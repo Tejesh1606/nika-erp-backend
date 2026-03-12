@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Rodriguez-Moore",
+    "invoice_number": "INV-20069",
+    "date": "2025-05-25",
+    "items": [
+        {
+            "description": "Polarized mobile encryption",
+            "quantity": 5,
+            "unit_price": 468.4,
+            "total_price": 2342.0
+        },
+        {
+            "description": "Adaptive human-resource time-frame",
+            "quantity": 7,
+            "unit_price": 445.89,
+            "total_price": 3121.23
+        },
+        {
+            "description": "User-friendly solution-oriented conglomeration",
+            "quantity": 2,
+            "unit_price": 263.65,
+            "total_price": 527.3
+        }
+    ],
+    "amount": 5990.53
+}

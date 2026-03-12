@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Patrick, Liu and Smith",
+    "invoice_number": "INV-46007",
+    "date": "2025-12-17",
+    "items": [
+        {
+            "description": "Stand-alone fresh-thinking analyzer",
+            "quantity": 2,
+            "unit_price": 498.75,
+            "total_price": 997.5
+        },
+        {
+            "description": "Digitized dynamic conglomeration",
+            "quantity": 2,
+            "unit_price": 177.78,
+            "total_price": 355.56
+        },
+        {
+            "description": "Re-contextualized 24/7 capacity",
+            "quantity": 5,
+            "unit_price": 433.07,
+            "total_price": 2165.35
+        },
+        {
+            "description": "Programmable coherent challenge",
+            "quantity": 3,
+            "unit_price": 475.72,
+            "total_price": 1427.16
+        }
+    ],
+    "amount": 4945.57
+}

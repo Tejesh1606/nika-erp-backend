@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Vaughn, Lopez and Phillips",
+    "invoice_number": "INV-53652",
+    "date": "2026-02-23",
+    "items": [
+        {
+            "description": "Focused web-enabled pricing structure",
+            "quantity": 9,
+            "unit_price": 86.74,
+            "total_price": 780.66
+        },
+        {
+            "description": "Horizontal neutral projection",
+            "quantity": 7,
+            "unit_price": 155.28,
+            "total_price": 1086.96
+        },
+        {
+            "description": "Advanced zero-defect Local Area Network",
+            "quantity": 3,
+            "unit_price": 431.5,
+            "total_price": 1294.5
+        }
+    ],
+    "amount": 3162.12
+}

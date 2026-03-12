@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Shaw, Smith and Mason",
+    "invoice_number": "INV-33914",
+    "date": "2025-05-14",
+    "items": [
+        {
+            "description": "Automated optimal capacity",
+            "quantity": 7,
+            "unit_price": 494.49,
+            "total_price": 3461.43
+        },
+        {
+            "description": "Multi-channeled context-sensitive product",
+            "quantity": 10,
+            "unit_price": 49.19,
+            "total_price": 491.9
+        }
+    ],
+    "amount": 3953.33
+}

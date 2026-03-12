@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ortiz-Williams",
+    "invoice_number": "INV-40448",
+    "date": "2026-02-13",
+    "items": [
+        {
+            "description": "Universal bifurcated success",
+            "quantity": 3,
+            "unit_price": 333.73,
+            "total_price": 1001.19
+        },
+        {
+            "description": "Balanced 4thgeneration artificial intelligence",
+            "quantity": 10,
+            "unit_price": 499.68,
+            "total_price": 4996.8
+        },
+        {
+            "description": "Organized non-volatile leverage",
+            "quantity": 8,
+            "unit_price": 304.1,
+            "total_price": 2432.8
+        }
+    ],
+    "amount": 8430.79
+}

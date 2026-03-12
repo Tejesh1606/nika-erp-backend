@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Garcia-Evans",
+    "invoice_number": "INV-89891",
+    "date": "2025-05-29",
+    "items": [
+        {
+            "description": "Re-engineered systematic collaboration",
+            "quantity": 4,
+            "unit_price": 381.07,
+            "total_price": 1524.28
+        }
+    ],
+    "amount": 1524.28
+}

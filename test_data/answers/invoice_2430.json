@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gordon PLC",
+    "invoice_number": "INV-17002",
+    "date": "2025-12-29",
+    "items": [
+        {
+            "description": "Visionary intermediate matrix",
+            "quantity": 9,
+            "unit_price": 466.7,
+            "total_price": 4200.3
+        },
+        {
+            "description": "Balanced motivating success",
+            "quantity": 2,
+            "unit_price": 215.18,
+            "total_price": 430.36
+        },
+        {
+            "description": "Robust next generation matrices",
+            "quantity": 1,
+            "unit_price": 70.12,
+            "total_price": 70.12
+        },
+        {
+            "description": "Balanced radical concept",
+            "quantity": 7,
+            "unit_price": 331.81,
+            "total_price": 2322.67
+        }
+    ],
+    "amount": 7023.45
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wright, Scott and Evans",
+    "invoice_number": "INV-84774",
+    "date": "2025-08-11",
+    "items": [
+        {
+            "description": "Re-contextualized didactic superstructure",
+            "quantity": 6,
+            "unit_price": 28.6,
+            "total_price": 171.6
+        },
+        {
+            "description": "Compatible uniform Graphic Interface",
+            "quantity": 1,
+            "unit_price": 110.32,
+            "total_price": 110.32
+        }
+    ],
+    "amount": 281.92
+}

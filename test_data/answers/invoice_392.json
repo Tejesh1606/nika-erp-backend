@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Barber, Jarvis and Richard",
+    "invoice_number": "INV-23593",
+    "date": "2025-08-17",
+    "items": [
+        {
+            "description": "Reverse-engineered mission-critical website",
+            "quantity": 7,
+            "unit_price": 179.38,
+            "total_price": 1255.66
+        },
+        {
+            "description": "Re-contextualized systematic intranet",
+            "quantity": 2,
+            "unit_price": 241.84,
+            "total_price": 483.68
+        },
+        {
+            "description": "Enterprise-wide reciprocal implementation",
+            "quantity": 6,
+            "unit_price": 357.3,
+            "total_price": 2143.8
+        }
+    ],
+    "amount": 3883.14
+}

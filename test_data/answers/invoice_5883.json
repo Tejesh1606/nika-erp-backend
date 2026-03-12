@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Robinson, Horn and Thompson",
+    "invoice_number": "INV-82816",
+    "date": "2026-02-14",
+    "items": [
+        {
+            "description": "Persevering global core",
+            "quantity": 8,
+            "unit_price": 146.13,
+            "total_price": 1169.04
+        },
+        {
+            "description": "Synergized bi-directional time-frame",
+            "quantity": 7,
+            "unit_price": 52.27,
+            "total_price": 365.89
+        }
+    ],
+    "amount": 1534.93
+}

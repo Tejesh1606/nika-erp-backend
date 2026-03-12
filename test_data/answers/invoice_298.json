@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Smith LLC",
+    "invoice_number": "INV-25806",
+    "date": "2026-02-06",
+    "items": [
+        {
+            "description": "Optimized system-worthy capacity",
+            "quantity": 2,
+            "unit_price": 420.45,
+            "total_price": 840.9
+        },
+        {
+            "description": "Polarized asynchronous emulation",
+            "quantity": 2,
+            "unit_price": 407.66,
+            "total_price": 815.32
+        }
+    ],
+    "amount": 1656.22
+}

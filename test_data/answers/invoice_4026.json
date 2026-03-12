@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Contreras-Pitts",
+    "invoice_number": "INV-11189",
+    "date": "2025-07-06",
+    "items": [
+        {
+            "description": "Organized optimal system engine",
+            "quantity": 5,
+            "unit_price": 127.77,
+            "total_price": 638.85
+        },
+        {
+            "description": "Quality-focused homogeneous hierarchy",
+            "quantity": 5,
+            "unit_price": 493.73,
+            "total_price": 2468.65
+        }
+    ],
+    "amount": 3107.5
+}

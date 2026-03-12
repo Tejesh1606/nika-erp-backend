@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Adams Group",
+    "invoice_number": "INV-96038",
+    "date": "2025-08-02",
+    "items": [
+        {
+            "description": "Optional executive success",
+            "quantity": 5,
+            "unit_price": 37.26,
+            "total_price": 186.3
+        },
+        {
+            "description": "Sharable scalable Graphical User Interface",
+            "quantity": 4,
+            "unit_price": 178.98,
+            "total_price": 715.92
+        },
+        {
+            "description": "Synchronized didactic info-mediaries",
+            "quantity": 4,
+            "unit_price": 388.58,
+            "total_price": 1554.32
+        },
+        {
+            "description": "Distributed object-oriented capacity",
+            "quantity": 2,
+            "unit_price": 468.26,
+            "total_price": 936.52
+        }
+    ],
+    "amount": 3393.06
+}

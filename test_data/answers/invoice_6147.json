@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Benson, Campbell and Ewing",
+    "invoice_number": "INV-20548",
+    "date": "2025-05-05",
+    "items": [
+        {
+            "description": "Front-line executive open system",
+            "quantity": 6,
+            "unit_price": 162.16,
+            "total_price": 972.96
+        },
+        {
+            "description": "Multi-tiered 5thgeneration hardware",
+            "quantity": 7,
+            "unit_price": 127.59,
+            "total_price": 893.13
+        }
+    ],
+    "amount": 1866.09
+}

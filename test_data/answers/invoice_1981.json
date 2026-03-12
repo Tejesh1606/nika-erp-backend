@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Watson and Sons",
+    "invoice_number": "INV-15430",
+    "date": "2026-02-20",
+    "items": [
+        {
+            "description": "Vision-oriented well-modulated capacity",
+            "quantity": 5,
+            "unit_price": 131.47,
+            "total_price": 657.35
+        }
+    ],
+    "amount": 657.35
+}

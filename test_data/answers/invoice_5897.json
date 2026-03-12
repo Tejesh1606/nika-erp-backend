@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Roberson PLC",
+    "invoice_number": "INV-99341",
+    "date": "2025-10-19",
+    "items": [
+        {
+            "description": "Extended uniform approach",
+            "quantity": 10,
+            "unit_price": 220.85,
+            "total_price": 2208.5
+        }
+    ],
+    "amount": 2208.5
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hill-Smith",
+    "invoice_number": "INV-62424",
+    "date": "2025-04-04",
+    "items": [
+        {
+            "description": "Horizontal scalable secured line",
+            "quantity": 8,
+            "unit_price": 488.66,
+            "total_price": 3909.28
+        },
+        {
+            "description": "Visionary heuristic framework",
+            "quantity": 5,
+            "unit_price": 239.63,
+            "total_price": 1198.15
+        }
+    ],
+    "amount": 5107.43
+}

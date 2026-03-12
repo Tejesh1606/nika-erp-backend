@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Williams, Madden and Brown",
+    "invoice_number": "INV-42088",
+    "date": "2025-12-05",
+    "items": [
+        {
+            "description": "Realigned 24/7 collaboration",
+            "quantity": 2,
+            "unit_price": 342.86,
+            "total_price": 685.72
+        },
+        {
+            "description": "Customer-focused explicit implementation",
+            "quantity": 3,
+            "unit_price": 94.44,
+            "total_price": 283.32
+        },
+        {
+            "description": "Diverse non-volatile initiative",
+            "quantity": 6,
+            "unit_price": 324.56,
+            "total_price": 1947.36
+        },
+        {
+            "description": "Compatible directional info-mediaries",
+            "quantity": 2,
+            "unit_price": 265.63,
+            "total_price": 531.26
+        }
+    ],
+    "amount": 3447.66
+}

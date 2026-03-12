@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Banks Ltd",
+    "invoice_number": "INV-50191",
+    "date": "2025-06-19",
+    "items": [
+        {
+            "description": "Organized intermediate Graphical User Interface",
+            "quantity": 8,
+            "unit_price": 234.42,
+            "total_price": 1875.36
+        },
+        {
+            "description": "Balanced encompassing synergy",
+            "quantity": 8,
+            "unit_price": 156.26,
+            "total_price": 1250.08
+        },
+        {
+            "description": "Virtual stable knowledgebase",
+            "quantity": 8,
+            "unit_price": 312.29,
+            "total_price": 2498.32
+        }
+    ],
+    "amount": 5623.76
+}

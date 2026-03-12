@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Robinson LLC",
+    "invoice_number": "INV-94715",
+    "date": "2025-07-12",
+    "items": [
+        {
+            "description": "Diverse motivating system engine",
+            "quantity": 9,
+            "unit_price": 337.41,
+            "total_price": 3036.69
+        },
+        {
+            "description": "Programmable contextually-based core",
+            "quantity": 9,
+            "unit_price": 217.92,
+            "total_price": 1961.28
+        },
+        {
+            "description": "Customizable demand-driven collaboration",
+            "quantity": 10,
+            "unit_price": 328.37,
+            "total_price": 3283.7
+        }
+    ],
+    "amount": 8281.67
+}

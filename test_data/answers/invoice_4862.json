@@ -1,0 +1,14 @@
+{
+    "vendor_name": "House-Howell",
+    "invoice_number": "INV-80484",
+    "date": "2025-12-30",
+    "items": [
+        {
+            "description": "Organic interactive orchestration",
+            "quantity": 4,
+            "unit_price": 383.84,
+            "total_price": 1535.36
+        }
+    ],
+    "amount": 1535.36
+}

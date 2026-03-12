@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Woods-Mccarthy",
+    "invoice_number": "INV-43709",
+    "date": "2025-11-08",
+    "items": [
+        {
+            "description": "Visionary tangible array",
+            "quantity": 5,
+            "unit_price": 290.42,
+            "total_price": 1452.1
+        },
+        {
+            "description": "Cross-group 3rdgeneration middleware",
+            "quantity": 4,
+            "unit_price": 399.79,
+            "total_price": 1599.16
+        },
+        {
+            "description": "Balanced actuating product",
+            "quantity": 3,
+            "unit_price": 172.11,
+            "total_price": 516.33
+        },
+        {
+            "description": "Enhanced secondary infrastructure",
+            "quantity": 6,
+            "unit_price": 451.5,
+            "total_price": 2709.0
+        }
+    ],
+    "amount": 6276.59
+}

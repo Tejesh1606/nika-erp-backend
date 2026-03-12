@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Sharp Group",
+    "invoice_number": "INV-69803",
+    "date": "2025-07-14",
+    "items": [
+        {
+            "description": "Seamless reciprocal application",
+            "quantity": 4,
+            "unit_price": 126.97,
+            "total_price": 507.88
+        },
+        {
+            "description": "Devolved grid-enabled time-frame",
+            "quantity": 2,
+            "unit_price": 201.96,
+            "total_price": 403.92
+        }
+    ],
+    "amount": 911.8
+}

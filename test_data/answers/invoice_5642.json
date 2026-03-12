@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gross, Bond and Collins",
+    "invoice_number": "INV-80578",
+    "date": "2025-11-25",
+    "items": [
+        {
+            "description": "Devolved secondary algorithm",
+            "quantity": 3,
+            "unit_price": 493.1,
+            "total_price": 1479.3
+        },
+        {
+            "description": "Right-sized multi-state matrix",
+            "quantity": 6,
+            "unit_price": 19.54,
+            "total_price": 117.24
+        }
+    ],
+    "amount": 1596.54
+}

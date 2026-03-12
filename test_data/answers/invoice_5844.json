@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Austin-Pham",
+    "invoice_number": "INV-12803",
+    "date": "2025-12-27",
+    "items": [
+        {
+            "description": "Customer-focused client-server functionalities",
+            "quantity": 10,
+            "unit_price": 28.45,
+            "total_price": 284.5
+        }
+    ],
+    "amount": 284.5
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wilson-Jackson",
+    "invoice_number": "INV-80571",
+    "date": "2025-07-13",
+    "items": [
+        {
+            "description": "Automated logistical protocol",
+            "quantity": 3,
+            "unit_price": 351.37,
+            "total_price": 1054.11
+        }
+    ],
+    "amount": 1054.11
+}

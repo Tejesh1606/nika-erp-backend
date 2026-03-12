@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Chaney-Fletcher",
+    "invoice_number": "INV-92509",
+    "date": "2025-07-29",
+    "items": [
+        {
+            "description": "Phased intermediate support",
+            "quantity": 1,
+            "unit_price": 276.97,
+            "total_price": 276.97
+        },
+        {
+            "description": "Networked optimal system engine",
+            "quantity": 10,
+            "unit_price": 49.49,
+            "total_price": 494.9
+        }
+    ],
+    "amount": 771.87
+}

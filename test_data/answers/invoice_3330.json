@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ali, Hess and Johnson",
+    "invoice_number": "INV-65046",
+    "date": "2025-05-15",
+    "items": [
+        {
+            "description": "Pre-emptive object-oriented groupware",
+            "quantity": 3,
+            "unit_price": 321.99,
+            "total_price": 965.97
+        },
+        {
+            "description": "Universal stable orchestration",
+            "quantity": 5,
+            "unit_price": 96.56,
+            "total_price": 482.8
+        },
+        {
+            "description": "Managed tertiary capability",
+            "quantity": 8,
+            "unit_price": 164.33,
+            "total_price": 1314.64
+        }
+    ],
+    "amount": 2763.41
+}

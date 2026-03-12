@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Barrett, Pacheco and Matthews",
+    "invoice_number": "INV-48794",
+    "date": "2025-05-04",
+    "items": [
+        {
+            "description": "Operative analyzing productivity",
+            "quantity": 4,
+            "unit_price": 237.1,
+            "total_price": 948.4
+        }
+    ],
+    "amount": 948.4
+}

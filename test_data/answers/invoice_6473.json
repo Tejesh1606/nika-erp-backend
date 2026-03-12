@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson-Ward",
+    "invoice_number": "INV-50156",
+    "date": "2025-11-10",
+    "items": [
+        {
+            "description": "Reduced didactic adapter",
+            "quantity": 3,
+            "unit_price": 358.83,
+            "total_price": 1076.49
+        },
+        {
+            "description": "Secured interactive installation",
+            "quantity": 7,
+            "unit_price": 138.29,
+            "total_price": 968.03
+        },
+        {
+            "description": "Optional dedicated function",
+            "quantity": 8,
+            "unit_price": 135.16,
+            "total_price": 1081.28
+        },
+        {
+            "description": "Robust bottom-line instruction set",
+            "quantity": 9,
+            "unit_price": 346.38,
+            "total_price": 3117.42
+        }
+    ],
+    "amount": 6243.22
+}

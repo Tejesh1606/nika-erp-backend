@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Williams, Davidson and Juarez",
+    "invoice_number": "INV-57278",
+    "date": "2026-03-02",
+    "items": [
+        {
+            "description": "Horizontal context-sensitive interface",
+            "quantity": 3,
+            "unit_price": 450.19,
+            "total_price": 1350.57
+        }
+    ],
+    "amount": 1350.57
+}

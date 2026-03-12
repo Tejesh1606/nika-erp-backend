@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brady, Hale and Burch",
+    "invoice_number": "INV-21366",
+    "date": "2025-12-21",
+    "items": [
+        {
+            "description": "Vision-oriented asymmetric functionalities",
+            "quantity": 7,
+            "unit_price": 104.19,
+            "total_price": 729.33
+        },
+        {
+            "description": "Front-line next generation definition",
+            "quantity": 4,
+            "unit_price": 329.34,
+            "total_price": 1317.36
+        },
+        {
+            "description": "Face-to-face homogeneous info-mediaries",
+            "quantity": 6,
+            "unit_price": 57.42,
+            "total_price": 344.52
+        }
+    ],
+    "amount": 2391.21
+}

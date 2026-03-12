@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Vaughn Inc",
+    "invoice_number": "INV-38241",
+    "date": "2026-01-19",
+    "items": [
+        {
+            "description": "Function-based methodical product",
+            "quantity": 1,
+            "unit_price": 397.47,
+            "total_price": 397.47
+        },
+        {
+            "description": "Cross-platform local synergy",
+            "quantity": 2,
+            "unit_price": 102.06,
+            "total_price": 204.12
+        }
+    ],
+    "amount": 601.59
+}

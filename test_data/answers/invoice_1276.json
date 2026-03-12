@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Sandoval-Hill",
+    "invoice_number": "INV-70613",
+    "date": "2025-10-27",
+    "items": [
+        {
+            "description": "Sharable foreground attitude",
+            "quantity": 2,
+            "unit_price": 21.65,
+            "total_price": 43.3
+        }
+    ],
+    "amount": 43.3
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Rogers and Sons",
+    "invoice_number": "INV-33848",
+    "date": "2025-08-29",
+    "items": [
+        {
+            "description": "Organized empowering projection",
+            "quantity": 3,
+            "unit_price": 209.57,
+            "total_price": 628.71
+        },
+        {
+            "description": "Object-based scalable paradigm",
+            "quantity": 1,
+            "unit_price": 70.26,
+            "total_price": 70.26
+        },
+        {
+            "description": "Adaptive content-based emulation",
+            "quantity": 3,
+            "unit_price": 378.96,
+            "total_price": 1136.88
+        }
+    ],
+    "amount": 1835.85
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "David PLC",
+    "invoice_number": "INV-59688",
+    "date": "2026-01-23",
+    "items": [
+        {
+            "description": "Open-source optimal intranet",
+            "quantity": 5,
+            "unit_price": 378.0,
+            "total_price": 1890.0
+        },
+        {
+            "description": "Open-architected analyzing support",
+            "quantity": 5,
+            "unit_price": 34.7,
+            "total_price": 173.5
+        },
+        {
+            "description": "Enterprise-wide client-driven customer loyalty",
+            "quantity": 8,
+            "unit_price": 299.72,
+            "total_price": 2397.76
+        }
+    ],
+    "amount": 4461.26
+}

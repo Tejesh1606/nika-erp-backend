@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Phillips-Aguirre",
+    "invoice_number": "INV-60224",
+    "date": "2026-02-12",
+    "items": [
+        {
+            "description": "Multi-tiered transitional standardization",
+            "quantity": 8,
+            "unit_price": 262.31,
+            "total_price": 2098.48
+        },
+        {
+            "description": "Future-proofed demand-driven alliance",
+            "quantity": 8,
+            "unit_price": 110.69,
+            "total_price": 885.52
+        },
+        {
+            "description": "Reactive homogeneous algorithm",
+            "quantity": 3,
+            "unit_price": 311.54,
+            "total_price": 934.62
+        },
+        {
+            "description": "Implemented client-server open architecture",
+            "quantity": 2,
+            "unit_price": 26.09,
+            "total_price": 52.18
+        }
+    ],
+    "amount": 3970.8
+}

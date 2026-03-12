@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ford PLC",
+    "invoice_number": "INV-60842",
+    "date": "2025-04-14",
+    "items": [
+        {
+            "description": "Right-sized systemic adapter",
+            "quantity": 1,
+            "unit_price": 316.68,
+            "total_price": 316.68
+        },
+        {
+            "description": "Digitized full-range workforce",
+            "quantity": 2,
+            "unit_price": 375.39,
+            "total_price": 750.78
+        }
+    ],
+    "amount": 1067.46
+}

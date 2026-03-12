@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Clark, Kennedy and Johnson",
+    "invoice_number": "INV-30516",
+    "date": "2025-08-07",
+    "items": [
+        {
+            "description": "Ergonomic grid-enabled architecture",
+            "quantity": 8,
+            "unit_price": 224.67,
+            "total_price": 1797.36
+        }
+    ],
+    "amount": 1797.36
+}

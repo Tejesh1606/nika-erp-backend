@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mccarthy-Roberts",
+    "invoice_number": "INV-10407",
+    "date": "2025-04-14",
+    "items": [
+        {
+            "description": "Enterprise-wide motivating standardization",
+            "quantity": 5,
+            "unit_price": 74.54,
+            "total_price": 372.7
+        },
+        {
+            "description": "Secured mission-critical support",
+            "quantity": 3,
+            "unit_price": 236.8,
+            "total_price": 710.4
+        },
+        {
+            "description": "Integrated system-worthy encoding",
+            "quantity": 10,
+            "unit_price": 58.52,
+            "total_price": 585.2
+        }
+    ],
+    "amount": 1668.3
+}

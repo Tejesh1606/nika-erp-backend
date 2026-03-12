@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Miller-Graves",
+    "invoice_number": "INV-60967",
+    "date": "2025-08-28",
+    "items": [
+        {
+            "description": "Synchronized methodical architecture",
+            "quantity": 8,
+            "unit_price": 96.19,
+            "total_price": 769.52
+        },
+        {
+            "description": "Persevering tertiary knowledgebase",
+            "quantity": 1,
+            "unit_price": 81.93,
+            "total_price": 81.93
+        },
+        {
+            "description": "Intuitive contextually-based policy",
+            "quantity": 6,
+            "unit_price": 287.03,
+            "total_price": 1722.18
+        }
+    ],
+    "amount": 2573.63
+}

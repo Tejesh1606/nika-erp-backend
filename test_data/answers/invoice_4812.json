@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cannon, Rios and Johnson",
+    "invoice_number": "INV-23083",
+    "date": "2025-06-30",
+    "items": [
+        {
+            "description": "Synergistic zero-defect Local Area Network",
+            "quantity": 8,
+            "unit_price": 452.0,
+            "total_price": 3616.0
+        },
+        {
+            "description": "Face-to-face non-volatile project",
+            "quantity": 8,
+            "unit_price": 292.62,
+            "total_price": 2340.96
+        },
+        {
+            "description": "Switchable systemic artificial intelligence",
+            "quantity": 5,
+            "unit_price": 239.48,
+            "total_price": 1197.4
+        }
+    ],
+    "amount": 7154.36
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Price-Parsons",
+    "invoice_number": "INV-89050",
+    "date": "2025-06-11",
+    "items": [
+        {
+            "description": "Advanced zero administration website",
+            "quantity": 2,
+            "unit_price": 95.54,
+            "total_price": 191.08
+        },
+        {
+            "description": "Phased radical initiative",
+            "quantity": 2,
+            "unit_price": 100.73,
+            "total_price": 201.46
+        },
+        {
+            "description": "Programmable stable support",
+            "quantity": 3,
+            "unit_price": 321.53,
+            "total_price": 964.59
+        },
+        {
+            "description": "Mandatory zero-defect process improvement",
+            "quantity": 7,
+            "unit_price": 26.73,
+            "total_price": 187.11
+        }
+    ],
+    "amount": 1544.24
+}

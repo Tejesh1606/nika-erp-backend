@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Roberts, Mills and Wilson",
+    "invoice_number": "INV-49967",
+    "date": "2025-08-01",
+    "items": [
+        {
+            "description": "Innovative explicit matrix",
+            "quantity": 2,
+            "unit_price": 328.73,
+            "total_price": 657.46
+        },
+        {
+            "description": "Assimilated client-server circuit",
+            "quantity": 6,
+            "unit_price": 62.34,
+            "total_price": 374.04
+        },
+        {
+            "description": "Reverse-engineered intangible application",
+            "quantity": 5,
+            "unit_price": 470.67,
+            "total_price": 2353.35
+        }
+    ],
+    "amount": 3384.85
+}

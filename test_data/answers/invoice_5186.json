@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Williamson, King and Choi",
+    "invoice_number": "INV-74819",
+    "date": "2025-07-20",
+    "items": [
+        {
+            "description": "Polarized tangible throughput",
+            "quantity": 4,
+            "unit_price": 83.28,
+            "total_price": 333.12
+        },
+        {
+            "description": "Implemented foreground implementation",
+            "quantity": 10,
+            "unit_price": 19.14,
+            "total_price": 191.4
+        }
+    ],
+    "amount": 524.52
+}

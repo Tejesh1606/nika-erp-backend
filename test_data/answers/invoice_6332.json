@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Warner, Sherman and Clark",
+    "invoice_number": "INV-47211",
+    "date": "2025-09-10",
+    "items": [
+        {
+            "description": "Multi-tiered homogeneous utilization",
+            "quantity": 6,
+            "unit_price": 235.86,
+            "total_price": 1415.16
+        }
+    ],
+    "amount": 1415.16
+}

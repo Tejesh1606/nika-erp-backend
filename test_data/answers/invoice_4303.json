@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Calhoun-Henderson",
+    "invoice_number": "INV-51759",
+    "date": "2025-05-05",
+    "items": [
+        {
+            "description": "Cloned web-enabled methodology",
+            "quantity": 7,
+            "unit_price": 290.78,
+            "total_price": 2035.46
+        }
+    ],
+    "amount": 2035.46
+}

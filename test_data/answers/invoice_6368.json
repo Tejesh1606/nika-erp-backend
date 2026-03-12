@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Nicholson-Brown",
+    "invoice_number": "INV-16535",
+    "date": "2025-05-07",
+    "items": [
+        {
+            "description": "Decentralized 5thgeneration parallelism",
+            "quantity": 9,
+            "unit_price": 417.42,
+            "total_price": 3756.78
+        },
+        {
+            "description": "Cross-platform human-resource toolset",
+            "quantity": 4,
+            "unit_price": 471.81,
+            "total_price": 1887.24
+        },
+        {
+            "description": "Enterprise-wide intermediate pricing structure",
+            "quantity": 1,
+            "unit_price": 271.63,
+            "total_price": 271.63
+        }
+    ],
+    "amount": 5915.65
+}

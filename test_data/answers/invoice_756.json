@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Castillo, Fuller and Adams",
+    "invoice_number": "INV-96246",
+    "date": "2025-03-11",
+    "items": [
+        {
+            "description": "Managed 6thgeneration projection",
+            "quantity": 4,
+            "unit_price": 179.44,
+            "total_price": 717.76
+        },
+        {
+            "description": "Secured local Graphic Interface",
+            "quantity": 9,
+            "unit_price": 486.41,
+            "total_price": 4377.69
+        },
+        {
+            "description": "Upgradable upward-trending website",
+            "quantity": 8,
+            "unit_price": 324.06,
+            "total_price": 2592.48
+        },
+        {
+            "description": "Re-contextualized clear-thinking data-warehouse",
+            "quantity": 9,
+            "unit_price": 59.79,
+            "total_price": 538.11
+        }
+    ],
+    "amount": 8226.04
+}

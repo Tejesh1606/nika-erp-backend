@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Davenport, Reed and Rivera",
+    "invoice_number": "INV-38039",
+    "date": "2025-06-10",
+    "items": [
+        {
+            "description": "Visionary methodical strategy",
+            "quantity": 3,
+            "unit_price": 106.86,
+            "total_price": 320.58
+        },
+        {
+            "description": "Polarized mission-critical utilization",
+            "quantity": 1,
+            "unit_price": 243.75,
+            "total_price": 243.75
+        },
+        {
+            "description": "Front-line 3rdgeneration service-desk",
+            "quantity": 10,
+            "unit_price": 224.45,
+            "total_price": 2244.5
+        }
+    ],
+    "amount": 2808.83
+}

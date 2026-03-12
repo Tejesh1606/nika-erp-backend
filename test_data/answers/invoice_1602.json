@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Tucker LLC",
+    "invoice_number": "INV-29420",
+    "date": "2025-03-25",
+    "items": [
+        {
+            "description": "Devolved disintermediate migration",
+            "quantity": 8,
+            "unit_price": 44.98,
+            "total_price": 359.84
+        }
+    ],
+    "amount": 359.84
+}

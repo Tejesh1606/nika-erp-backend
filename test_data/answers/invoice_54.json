@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Perry-Clark",
+    "invoice_number": "INV-65069",
+    "date": "2025-08-07",
+    "items": [
+        {
+            "description": "Visionary optimal standardization",
+            "quantity": 9,
+            "unit_price": 457.03,
+            "total_price": 4113.27
+        }
+    ],
+    "amount": 4113.27
+}

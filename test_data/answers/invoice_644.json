@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Nguyen Inc",
+    "invoice_number": "INV-41079",
+    "date": "2025-12-20",
+    "items": [
+        {
+            "description": "Open-source dedicated implementation",
+            "quantity": 2,
+            "unit_price": 320.96,
+            "total_price": 641.92
+        },
+        {
+            "description": "Face-to-face asynchronous leverage",
+            "quantity": 4,
+            "unit_price": 122.17,
+            "total_price": 488.68
+        },
+        {
+            "description": "Reduced mobile application",
+            "quantity": 4,
+            "unit_price": 14.73,
+            "total_price": 58.92
+        },
+        {
+            "description": "Optional client-server data-warehouse",
+            "quantity": 5,
+            "unit_price": 400.6,
+            "total_price": 2003.0
+        }
+    ],
+    "amount": 3192.52
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Warner and Sons",
+    "invoice_number": "INV-74740",
+    "date": "2026-02-04",
+    "items": [
+        {
+            "description": "Intuitive multi-tasking moratorium",
+            "quantity": 1,
+            "unit_price": 336.95,
+            "total_price": 336.95
+        }
+    ],
+    "amount": 336.95
+}

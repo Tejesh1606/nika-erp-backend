@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Rodriguez Group",
+    "invoice_number": "INV-71252",
+    "date": "2025-10-14",
+    "items": [
+        {
+            "description": "Monitored uniform frame",
+            "quantity": 3,
+            "unit_price": 18.54,
+            "total_price": 55.62
+        },
+        {
+            "description": "Down-sized multi-tasking synergy",
+            "quantity": 6,
+            "unit_price": 92.55,
+            "total_price": 555.3
+        }
+    ],
+    "amount": 610.92
+}

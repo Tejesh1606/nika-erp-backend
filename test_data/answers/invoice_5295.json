@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rhodes and Sons",
+    "invoice_number": "INV-29976",
+    "date": "2025-10-18",
+    "items": [
+        {
+            "description": "Diverse fresh-thinking forecast",
+            "quantity": 4,
+            "unit_price": 449.85,
+            "total_price": 1799.4
+        },
+        {
+            "description": "Object-based global system engine",
+            "quantity": 7,
+            "unit_price": 128.15,
+            "total_price": 897.05
+        },
+        {
+            "description": "Triple-buffered systematic focus group",
+            "quantity": 4,
+            "unit_price": 431.82,
+            "total_price": 1727.28
+        },
+        {
+            "description": "Proactive homogeneous definition",
+            "quantity": 10,
+            "unit_price": 477.14,
+            "total_price": 4771.4
+        }
+    ],
+    "amount": 9195.13
+}

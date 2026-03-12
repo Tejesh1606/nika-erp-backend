@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson LLC",
+    "invoice_number": "INV-61060",
+    "date": "2025-05-20",
+    "items": [
+        {
+            "description": "Proactive maximized protocol",
+            "quantity": 8,
+            "unit_price": 430.95,
+            "total_price": 3447.6
+        },
+        {
+            "description": "Object-based zero tolerance strategy",
+            "quantity": 5,
+            "unit_price": 454.49,
+            "total_price": 2272.45
+        },
+        {
+            "description": "Inverse local challenge",
+            "quantity": 8,
+            "unit_price": 156.6,
+            "total_price": 1252.8
+        },
+        {
+            "description": "Inverse value-added strategy",
+            "quantity": 10,
+            "unit_price": 310.61,
+            "total_price": 3106.1
+        }
+    ],
+    "amount": 10078.95
+}

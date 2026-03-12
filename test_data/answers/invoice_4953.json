@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ramirez-Bass",
+    "invoice_number": "INV-22265",
+    "date": "2025-04-24",
+    "items": [
+        {
+            "description": "Visionary mission-critical Internet solution",
+            "quantity": 10,
+            "unit_price": 330.26,
+            "total_price": 3302.6
+        }
+    ],
+    "amount": 3302.6
+}

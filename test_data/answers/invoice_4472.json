@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Glenn, Wood and Stephens",
+    "invoice_number": "INV-44899",
+    "date": "2025-08-02",
+    "items": [
+        {
+            "description": "Inverse motivating adapter",
+            "quantity": 6,
+            "unit_price": 346.54,
+            "total_price": 2079.24
+        },
+        {
+            "description": "Optimized needs-based time-frame",
+            "quantity": 5,
+            "unit_price": 465.09,
+            "total_price": 2325.45
+        },
+        {
+            "description": "Compatible systematic knowledge user",
+            "quantity": 10,
+            "unit_price": 55.63,
+            "total_price": 556.3
+        },
+        {
+            "description": "Right-sized client-driven complexity",
+            "quantity": 10,
+            "unit_price": 80.33,
+            "total_price": 803.3
+        }
+    ],
+    "amount": 5764.29
+}

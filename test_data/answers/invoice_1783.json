@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mccarthy, Ortega and Thompson",
+    "invoice_number": "INV-33680",
+    "date": "2026-02-21",
+    "items": [
+        {
+            "description": "Monitored mission-critical Local Area Network",
+            "quantity": 3,
+            "unit_price": 318.41,
+            "total_price": 955.23
+        }
+    ],
+    "amount": 955.23
+}

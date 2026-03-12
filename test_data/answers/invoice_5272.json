@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Williams, Jordan and Martin",
+    "invoice_number": "INV-88087",
+    "date": "2026-02-28",
+    "items": [
+        {
+            "description": "Robust next generation protocol",
+            "quantity": 2,
+            "unit_price": 290.25,
+            "total_price": 580.5
+        },
+        {
+            "description": "Self-enabling next generation matrix",
+            "quantity": 4,
+            "unit_price": 384.29,
+            "total_price": 1537.16
+        }
+    ],
+    "amount": 2117.66
+}

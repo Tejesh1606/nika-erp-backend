@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Nichols and Sons",
+    "invoice_number": "INV-78217",
+    "date": "2025-09-26",
+    "items": [
+        {
+            "description": "Cloned homogeneous moratorium",
+            "quantity": 4,
+            "unit_price": 100.38,
+            "total_price": 401.52
+        }
+    ],
+    "amount": 401.52
+}

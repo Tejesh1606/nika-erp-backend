@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bolton, Hill and Whitney",
+    "invoice_number": "INV-17518",
+    "date": "2025-04-07",
+    "items": [
+        {
+            "description": "Synchronized scalable initiative",
+            "quantity": 7,
+            "unit_price": 278.47,
+            "total_price": 1949.29
+        },
+        {
+            "description": "Multi-lateral multimedia website",
+            "quantity": 6,
+            "unit_price": 311.49,
+            "total_price": 1868.94
+        },
+        {
+            "description": "User-friendly systematic complexity",
+            "quantity": 8,
+            "unit_price": 329.63,
+            "total_price": 2637.04
+        }
+    ],
+    "amount": 6455.27
+}

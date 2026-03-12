@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Welch Ltd",
+    "invoice_number": "INV-40893",
+    "date": "2025-11-12",
+    "items": [
+        {
+            "description": "Switchable methodical core",
+            "quantity": 10,
+            "unit_price": 143.47,
+            "total_price": 1434.7
+        }
+    ],
+    "amount": 1434.7
+}

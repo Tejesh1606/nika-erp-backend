@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Sanchez, Long and Swanson",
+    "invoice_number": "INV-10738",
+    "date": "2025-10-24",
+    "items": [
+        {
+            "description": "User-friendly global flexibility",
+            "quantity": 7,
+            "unit_price": 143.96,
+            "total_price": 1007.72
+        }
+    ],
+    "amount": 1007.72
+}

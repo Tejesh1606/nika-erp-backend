@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Golden and Sons",
+    "invoice_number": "INV-17553",
+    "date": "2025-06-13",
+    "items": [
+        {
+            "description": "Automated logistical application",
+            "quantity": 3,
+            "unit_price": 406.96,
+            "total_price": 1220.88
+        }
+    ],
+    "amount": 1220.88
+}

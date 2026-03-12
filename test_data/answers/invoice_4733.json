@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Castillo Ltd",
+    "invoice_number": "INV-84792",
+    "date": "2025-12-22",
+    "items": [
+        {
+            "description": "Exclusive disintermediate definition",
+            "quantity": 1,
+            "unit_price": 376.85,
+            "total_price": 376.85
+        },
+        {
+            "description": "Front-line full-range Internet solution",
+            "quantity": 7,
+            "unit_price": 186.22,
+            "total_price": 1303.54
+        }
+    ],
+    "amount": 1680.39
+}

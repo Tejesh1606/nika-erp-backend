@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Thornton PLC",
+    "invoice_number": "INV-37176",
+    "date": "2025-10-12",
+    "items": [
+        {
+            "description": "Inverse stable matrices",
+            "quantity": 3,
+            "unit_price": 286.68,
+            "total_price": 860.04
+        }
+    ],
+    "amount": 860.04
+}

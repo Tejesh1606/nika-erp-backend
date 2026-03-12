@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ross, Barton and Evans",
+    "invoice_number": "INV-68027",
+    "date": "2025-08-22",
+    "items": [
+        {
+            "description": "Adaptive context-sensitive firmware",
+            "quantity": 5,
+            "unit_price": 10.81,
+            "total_price": 54.05
+        },
+        {
+            "description": "Reduced multimedia Internet solution",
+            "quantity": 6,
+            "unit_price": 75.18,
+            "total_price": 451.08
+        }
+    ],
+    "amount": 505.13
+}

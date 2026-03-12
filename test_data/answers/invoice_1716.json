@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Davis-Boyd",
+    "invoice_number": "INV-29029",
+    "date": "2025-10-02",
+    "items": [
+        {
+            "description": "Multi-lateral optimal info-mediaries",
+            "quantity": 6,
+            "unit_price": 255.87,
+            "total_price": 1535.22
+        },
+        {
+            "description": "Sharable non-volatile encryption",
+            "quantity": 1,
+            "unit_price": 161.95,
+            "total_price": 161.95
+        },
+        {
+            "description": "Digitized full-range open system",
+            "quantity": 7,
+            "unit_price": 407.44,
+            "total_price": 2852.08
+        }
+    ],
+    "amount": 4549.25
+}

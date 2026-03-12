@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Davis-Green",
+    "invoice_number": "INV-84099",
+    "date": "2025-05-22",
+    "items": [
+        {
+            "description": "Organic needs-based secured line",
+            "quantity": 7,
+            "unit_price": 251.89,
+            "total_price": 1763.23
+        }
+    ],
+    "amount": 1763.23
+}

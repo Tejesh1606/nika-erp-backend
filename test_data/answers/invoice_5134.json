@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ferguson, Cummings and Baker",
+    "invoice_number": "INV-91916",
+    "date": "2025-05-28",
+    "items": [
+        {
+            "description": "Focused hybrid success",
+            "quantity": 9,
+            "unit_price": 140.71,
+            "total_price": 1266.39
+        },
+        {
+            "description": "Enhanced leadingedge circuit",
+            "quantity": 1,
+            "unit_price": 391.75,
+            "total_price": 391.75
+        },
+        {
+            "description": "Future-proofed zero-defect framework",
+            "quantity": 7,
+            "unit_price": 96.66,
+            "total_price": 676.62
+        }
+    ],
+    "amount": 2334.76
+}

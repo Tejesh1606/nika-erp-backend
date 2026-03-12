@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Dunn, Travis and Bailey",
+    "invoice_number": "INV-75610",
+    "date": "2025-11-07",
+    "items": [
+        {
+            "description": "Triple-buffered uniform matrix",
+            "quantity": 3,
+            "unit_price": 217.62,
+            "total_price": 652.86
+        }
+    ],
+    "amount": 652.86
+}

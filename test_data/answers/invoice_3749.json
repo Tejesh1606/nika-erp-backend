@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Santiago, Boyd and Thomas",
+    "invoice_number": "INV-43905",
+    "date": "2025-06-12",
+    "items": [
+        {
+            "description": "Organic needs-based access",
+            "quantity": 2,
+            "unit_price": 33.8,
+            "total_price": 67.6
+        },
+        {
+            "description": "Future-proofed leadingedge ability",
+            "quantity": 9,
+            "unit_price": 350.41,
+            "total_price": 3153.69
+        }
+    ],
+    "amount": 3221.29
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Kim, Yang and Hall",
+    "invoice_number": "INV-26161",
+    "date": "2025-04-15",
+    "items": [
+        {
+            "description": "Face-to-face demand-driven knowledge user",
+            "quantity": 10,
+            "unit_price": 472.74,
+            "total_price": 4727.4
+        }
+    ],
+    "amount": 4727.4
+}

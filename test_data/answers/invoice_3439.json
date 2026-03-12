@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Liu-Olson",
+    "invoice_number": "INV-81302",
+    "date": "2025-05-06",
+    "items": [
+        {
+            "description": "Team-oriented exuding analyzer",
+            "quantity": 8,
+            "unit_price": 29.36,
+            "total_price": 234.88
+        },
+        {
+            "description": "Versatile coherent attitude",
+            "quantity": 2,
+            "unit_price": 349.94,
+            "total_price": 699.88
+        }
+    ],
+    "amount": 934.76
+}

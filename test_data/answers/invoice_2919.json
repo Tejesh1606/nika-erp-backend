@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wells, Thomas and Hall",
+    "invoice_number": "INV-93385",
+    "date": "2025-05-25",
+    "items": [
+        {
+            "description": "Configurable mission-critical Graphic Interface",
+            "quantity": 9,
+            "unit_price": 423.08,
+            "total_price": 3807.72
+        },
+        {
+            "description": "Monitored systemic toolset",
+            "quantity": 4,
+            "unit_price": 67.97,
+            "total_price": 271.88
+        }
+    ],
+    "amount": 4079.6
+}

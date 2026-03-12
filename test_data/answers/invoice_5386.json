@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lopez LLC",
+    "invoice_number": "INV-13044",
+    "date": "2025-09-02",
+    "items": [
+        {
+            "description": "Up-sized homogeneous interface",
+            "quantity": 2,
+            "unit_price": 430.61,
+            "total_price": 861.22
+        },
+        {
+            "description": "Optimized 6thgeneration info-mediaries",
+            "quantity": 2,
+            "unit_price": 121.06,
+            "total_price": 242.12
+        },
+        {
+            "description": "Re-engineered secondary service-desk",
+            "quantity": 3,
+            "unit_price": 331.36,
+            "total_price": 994.08
+        }
+    ],
+    "amount": 2097.42
+}

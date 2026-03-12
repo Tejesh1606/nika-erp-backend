@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Carson, Gomez and Sawyer",
+    "invoice_number": "INV-36034",
+    "date": "2025-11-22",
+    "items": [
+        {
+            "description": "User-friendly encompassing middleware",
+            "quantity": 3,
+            "unit_price": 482.21,
+            "total_price": 1446.63
+        },
+        {
+            "description": "Exclusive zero tolerance frame",
+            "quantity": 2,
+            "unit_price": 498.75,
+            "total_price": 997.5
+        }
+    ],
+    "amount": 2444.13
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Lee LLC",
+    "invoice_number": "INV-60435",
+    "date": "2025-04-20",
+    "items": [
+        {
+            "description": "Sharable background leverage",
+            "quantity": 2,
+            "unit_price": 76.85,
+            "total_price": 153.7
+        },
+        {
+            "description": "Front-line explicit array",
+            "quantity": 10,
+            "unit_price": 244.11,
+            "total_price": 2441.1
+        }
+    ],
+    "amount": 2594.8
+}

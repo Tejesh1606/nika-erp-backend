@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Perez, Martinez and Ray",
+    "invoice_number": "INV-80243",
+    "date": "2026-01-16",
+    "items": [
+        {
+            "description": "Function-based asymmetric toolset",
+            "quantity": 10,
+            "unit_price": 34.59,
+            "total_price": 345.9
+        },
+        {
+            "description": "Managed dynamic array",
+            "quantity": 8,
+            "unit_price": 184.78,
+            "total_price": 1478.24
+        },
+        {
+            "description": "Synergistic asymmetric strategy",
+            "quantity": 10,
+            "unit_price": 418.35,
+            "total_price": 4183.5
+        }
+    ],
+    "amount": 6007.64
+}

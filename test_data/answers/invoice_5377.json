@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gonzales, Raymond and Duffy",
+    "invoice_number": "INV-14735",
+    "date": "2026-01-24",
+    "items": [
+        {
+            "description": "Networked homogeneous pricing structure",
+            "quantity": 8,
+            "unit_price": 146.61,
+            "total_price": 1172.88
+        },
+        {
+            "description": "Reverse-engineered bi-directional software",
+            "quantity": 4,
+            "unit_price": 477.33,
+            "total_price": 1909.32
+        },
+        {
+            "description": "Stand-alone clear-thinking superstructure",
+            "quantity": 8,
+            "unit_price": 155.55,
+            "total_price": 1244.4
+        },
+        {
+            "description": "Quality-focused foreground support",
+            "quantity": 3,
+            "unit_price": 157.92,
+            "total_price": 473.76
+        }
+    ],
+    "amount": 4800.36
+}

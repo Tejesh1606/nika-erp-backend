@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Thornton, Armstrong and Pittman",
+    "invoice_number": "INV-55346",
+    "date": "2025-11-21",
+    "items": [
+        {
+            "description": "Intuitive local superstructure",
+            "quantity": 9,
+            "unit_price": 438.68,
+            "total_price": 3948.12
+        }
+    ],
+    "amount": 3948.12
+}

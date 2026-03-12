@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Williams-Meadows",
+    "invoice_number": "INV-28258",
+    "date": "2025-09-06",
+    "items": [
+        {
+            "description": "Up-sized logistical focus group",
+            "quantity": 4,
+            "unit_price": 187.9,
+            "total_price": 751.6
+        },
+        {
+            "description": "Advanced cohesive help-desk",
+            "quantity": 2,
+            "unit_price": 460.8,
+            "total_price": 921.6
+        }
+    ],
+    "amount": 1673.2
+}

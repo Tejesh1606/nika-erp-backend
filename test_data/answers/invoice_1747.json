@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jones, Curtis and Giles",
+    "invoice_number": "INV-19535",
+    "date": "2025-10-16",
+    "items": [
+        {
+            "description": "Devolved fresh-thinking open system",
+            "quantity": 7,
+            "unit_price": 302.59,
+            "total_price": 2118.13
+        },
+        {
+            "description": "Object-based logistical system engine",
+            "quantity": 3,
+            "unit_price": 382.48,
+            "total_price": 1147.44
+        },
+        {
+            "description": "Right-sized 6thgeneration open architecture",
+            "quantity": 5,
+            "unit_price": 450.84,
+            "total_price": 2254.2
+        }
+    ],
+    "amount": 5519.77
+}

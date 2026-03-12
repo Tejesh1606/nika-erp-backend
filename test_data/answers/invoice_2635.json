@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Johnson Inc",
+    "invoice_number": "INV-63381",
+    "date": "2025-09-05",
+    "items": [
+        {
+            "description": "Quality-focused zero administration conglomeration",
+            "quantity": 2,
+            "unit_price": 58.4,
+            "total_price": 116.8
+        },
+        {
+            "description": "Decentralized heuristic software",
+            "quantity": 10,
+            "unit_price": 430.19,
+            "total_price": 4301.9
+        }
+    ],
+    "amount": 4418.7
+}

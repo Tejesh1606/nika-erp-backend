@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Valdez and Sons",
+    "invoice_number": "INV-44432",
+    "date": "2025-05-04",
+    "items": [
+        {
+            "description": "Automated fault-tolerant product",
+            "quantity": 9,
+            "unit_price": 485.31,
+            "total_price": 4367.79
+        }
+    ],
+    "amount": 4367.79
+}

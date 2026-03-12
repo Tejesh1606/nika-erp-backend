@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Dixon, Jones and Bowen",
+    "invoice_number": "INV-46495",
+    "date": "2026-02-11",
+    "items": [
+        {
+            "description": "Horizontal mobile Local Area Network",
+            "quantity": 1,
+            "unit_price": 278.28,
+            "total_price": 278.28
+        },
+        {
+            "description": "Streamlined optimizing contingency",
+            "quantity": 6,
+            "unit_price": 458.47,
+            "total_price": 2750.82
+        }
+    ],
+    "amount": 3029.1
+}

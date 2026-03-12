@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Koch-Rodriguez",
+    "invoice_number": "INV-31282",
+    "date": "2025-03-20",
+    "items": [
+        {
+            "description": "Proactive demand-driven function",
+            "quantity": 5,
+            "unit_price": 489.43,
+            "total_price": 2447.15
+        },
+        {
+            "description": "Open-architected responsive hub",
+            "quantity": 9,
+            "unit_price": 42.65,
+            "total_price": 383.85
+        },
+        {
+            "description": "Fundamental regional Graphic Interface",
+            "quantity": 4,
+            "unit_price": 455.39,
+            "total_price": 1821.56
+        }
+    ],
+    "amount": 4652.56
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Contreras Inc",
+    "invoice_number": "INV-39087",
+    "date": "2026-01-22",
+    "items": [
+        {
+            "description": "Switchable regional success",
+            "quantity": 4,
+            "unit_price": 10.69,
+            "total_price": 42.76
+        },
+        {
+            "description": "Universal leadingedge extranet",
+            "quantity": 2,
+            "unit_price": 79.56,
+            "total_price": 159.12
+        }
+    ],
+    "amount": 201.88
+}

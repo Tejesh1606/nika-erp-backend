@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Patterson PLC",
+    "invoice_number": "INV-29081",
+    "date": "2025-06-30",
+    "items": [
+        {
+            "description": "Inverse radical secured line",
+            "quantity": 8,
+            "unit_price": 461.61,
+            "total_price": 3692.88
+        }
+    ],
+    "amount": 3692.88
+}

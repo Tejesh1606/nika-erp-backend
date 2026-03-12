@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hanson-Brown",
+    "invoice_number": "INV-88551",
+    "date": "2025-12-02",
+    "items": [
+        {
+            "description": "Distributed tertiary moderator",
+            "quantity": 3,
+            "unit_price": 243.86,
+            "total_price": 731.58
+        }
+    ],
+    "amount": 731.58
+}

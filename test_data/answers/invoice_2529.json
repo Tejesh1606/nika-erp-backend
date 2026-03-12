@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Diaz-Mccarthy",
+    "invoice_number": "INV-30993",
+    "date": "2025-10-28",
+    "items": [
+        {
+            "description": "Triple-buffered static circuit",
+            "quantity": 10,
+            "unit_price": 120.66,
+            "total_price": 1206.6
+        }
+    ],
+    "amount": 1206.6
+}

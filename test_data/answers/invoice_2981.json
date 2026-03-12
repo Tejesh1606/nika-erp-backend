@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wright, Valenzuela and Chandler",
+    "invoice_number": "INV-54686",
+    "date": "2025-05-14",
+    "items": [
+        {
+            "description": "Open-architected 24hour challenge",
+            "quantity": 2,
+            "unit_price": 46.91,
+            "total_price": 93.82
+        },
+        {
+            "description": "Enhanced bifurcated interface",
+            "quantity": 2,
+            "unit_price": 136.96,
+            "total_price": 273.92
+        },
+        {
+            "description": "Re-engineered user-facing system engine",
+            "quantity": 2,
+            "unit_price": 193.92,
+            "total_price": 387.84
+        }
+    ],
+    "amount": 755.58
+}

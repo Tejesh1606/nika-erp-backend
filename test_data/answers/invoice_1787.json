@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Thompson-Bryant",
+    "invoice_number": "INV-38189",
+    "date": "2025-05-25",
+    "items": [
+        {
+            "description": "Organic zero tolerance structure",
+            "quantity": 3,
+            "unit_price": 316.13,
+            "total_price": 948.39
+        }
+    ],
+    "amount": 948.39
+}

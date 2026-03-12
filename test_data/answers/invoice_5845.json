@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Johnston, Hunter and Boyd",
+    "invoice_number": "INV-36707",
+    "date": "2025-06-21",
+    "items": [
+        {
+            "description": "Virtual discrete standardization",
+            "quantity": 1,
+            "unit_price": 33.64,
+            "total_price": 33.64
+        },
+        {
+            "description": "Devolved non-volatile software",
+            "quantity": 2,
+            "unit_price": 366.82,
+            "total_price": 733.64
+        },
+        {
+            "description": "Team-oriented leadingedge moratorium",
+            "quantity": 7,
+            "unit_price": 212.77,
+            "total_price": 1489.39
+        }
+    ],
+    "amount": 2256.67
+}

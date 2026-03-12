@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Huff, Miller and Conrad",
+    "invoice_number": "INV-21555",
+    "date": "2025-04-23",
+    "items": [
+        {
+            "description": "Cross-group contextually-based superstructure",
+            "quantity": 4,
+            "unit_price": 128.99,
+            "total_price": 515.96
+        },
+        {
+            "description": "Cross-group contextually-based functionalities",
+            "quantity": 2,
+            "unit_price": 27.55,
+            "total_price": 55.1
+        }
+    ],
+    "amount": 571.06
+}

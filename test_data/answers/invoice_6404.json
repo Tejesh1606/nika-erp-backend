@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Peterson PLC",
+    "invoice_number": "INV-50229",
+    "date": "2025-08-27",
+    "items": [
+        {
+            "description": "Exclusive coherent firmware",
+            "quantity": 6,
+            "unit_price": 73.93,
+            "total_price": 443.58
+        },
+        {
+            "description": "Distributed analyzing solution",
+            "quantity": 9,
+            "unit_price": 398.09,
+            "total_price": 3582.81
+        }
+    ],
+    "amount": 4026.39
+}

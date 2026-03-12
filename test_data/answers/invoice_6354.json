@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mahoney-Ross",
+    "invoice_number": "INV-94562",
+    "date": "2025-04-07",
+    "items": [
+        {
+            "description": "Open-source 24hour policy",
+            "quantity": 1,
+            "unit_price": 228.49,
+            "total_price": 228.49
+        }
+    ],
+    "amount": 228.49
+}

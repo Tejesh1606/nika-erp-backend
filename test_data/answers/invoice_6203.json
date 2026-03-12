@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Chavez, Conway and Hickman",
+    "invoice_number": "INV-45985",
+    "date": "2025-03-16",
+    "items": [
+        {
+            "description": "Adaptive local intranet",
+            "quantity": 8,
+            "unit_price": 85.79,
+            "total_price": 686.32
+        },
+        {
+            "description": "Compatible systemic projection",
+            "quantity": 7,
+            "unit_price": 127.43,
+            "total_price": 892.01
+        },
+        {
+            "description": "Operative responsive approach",
+            "quantity": 7,
+            "unit_price": 276.52,
+            "total_price": 1935.64
+        }
+    ],
+    "amount": 3513.97
+}

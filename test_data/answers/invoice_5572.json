@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lopez, Rivera and Boyd",
+    "invoice_number": "INV-36713",
+    "date": "2025-06-16",
+    "items": [
+        {
+            "description": "Diverse content-based attitude",
+            "quantity": 6,
+            "unit_price": 63.13,
+            "total_price": 378.78
+        },
+        {
+            "description": "Fundamental non-volatile focus group",
+            "quantity": 7,
+            "unit_price": 84.16,
+            "total_price": 589.12
+        },
+        {
+            "description": "Visionary full-range concept",
+            "quantity": 7,
+            "unit_price": 191.75,
+            "total_price": 1342.25
+        },
+        {
+            "description": "User-centric bandwidth-monitored concept",
+            "quantity": 5,
+            "unit_price": 106.98,
+            "total_price": 534.9
+        }
+    ],
+    "amount": 2845.05
+}

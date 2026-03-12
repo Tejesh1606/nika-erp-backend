@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Dalton, Adkins and Jones",
+    "invoice_number": "INV-57173",
+    "date": "2025-10-19",
+    "items": [
+        {
+            "description": "Robust tertiary customer loyalty",
+            "quantity": 6,
+            "unit_price": 451.9,
+            "total_price": 2711.4
+        }
+    ],
+    "amount": 2711.4
+}

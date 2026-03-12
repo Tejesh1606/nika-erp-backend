@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Frazier-Hernandez",
+    "invoice_number": "INV-47144",
+    "date": "2025-05-04",
+    "items": [
+        {
+            "description": "User-friendly static website",
+            "quantity": 1,
+            "unit_price": 126.04,
+            "total_price": 126.04
+        },
+        {
+            "description": "Total 5thgeneration policy",
+            "quantity": 10,
+            "unit_price": 391.8,
+            "total_price": 3918.0
+        },
+        {
+            "description": "Intuitive fault-tolerant middleware",
+            "quantity": 8,
+            "unit_price": 166.7,
+            "total_price": 1333.6
+        }
+    ],
+    "amount": 5377.64
+}

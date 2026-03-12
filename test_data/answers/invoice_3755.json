@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wilson, Young and Thornton",
+    "invoice_number": "INV-33806",
+    "date": "2025-07-19",
+    "items": [
+        {
+            "description": "Vision-oriented human-resource implementation",
+            "quantity": 1,
+            "unit_price": 456.63,
+            "total_price": 456.63
+        }
+    ],
+    "amount": 456.63
+}

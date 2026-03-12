@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Taylor, Clark and Clark",
+    "invoice_number": "INV-17780",
+    "date": "2025-10-16",
+    "items": [
+        {
+            "description": "Monitored national focus group",
+            "quantity": 1,
+            "unit_price": 375.23,
+            "total_price": 375.23
+        },
+        {
+            "description": "Right-sized national concept",
+            "quantity": 1,
+            "unit_price": 278.28,
+            "total_price": 278.28
+        }
+    ],
+    "amount": 653.51
+}

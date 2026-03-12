@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Glover LLC",
+    "invoice_number": "INV-49801",
+    "date": "2025-06-16",
+    "items": [
+        {
+            "description": "Face-to-face upward-trending structure",
+            "quantity": 2,
+            "unit_price": 375.96,
+            "total_price": 751.92
+        }
+    ],
+    "amount": 751.92
+}

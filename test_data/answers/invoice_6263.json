@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Massey PLC",
+    "invoice_number": "INV-82463",
+    "date": "2025-06-18",
+    "items": [
+        {
+            "description": "Centralized systematic software",
+            "quantity": 3,
+            "unit_price": 84.25,
+            "total_price": 252.75
+        },
+        {
+            "description": "Synergized logistical algorithm",
+            "quantity": 4,
+            "unit_price": 489.14,
+            "total_price": 1956.56
+        },
+        {
+            "description": "Up-sized fresh-thinking framework",
+            "quantity": 9,
+            "unit_price": 88.32,
+            "total_price": 794.88
+        }
+    ],
+    "amount": 3004.19
+}

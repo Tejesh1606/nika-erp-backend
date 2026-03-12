@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Brock, Smith and Smith",
+    "invoice_number": "INV-71347",
+    "date": "2025-10-22",
+    "items": [
+        {
+            "description": "Triple-buffered 24/7 portal",
+            "quantity": 10,
+            "unit_price": 188.86,
+            "total_price": 1888.6
+        }
+    ],
+    "amount": 1888.6
+}

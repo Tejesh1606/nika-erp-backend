@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Cardenas Inc",
+    "invoice_number": "INV-95672",
+    "date": "2025-05-31",
+    "items": [
+        {
+            "description": "Diverse even-keeled leverage",
+            "quantity": 10,
+            "unit_price": 310.72,
+            "total_price": 3107.2
+        },
+        {
+            "description": "Business-focused mission-critical core",
+            "quantity": 2,
+            "unit_price": 136.24,
+            "total_price": 272.48
+        },
+        {
+            "description": "Centralized multimedia attitude",
+            "quantity": 6,
+            "unit_price": 145.14,
+            "total_price": 870.84
+        },
+        {
+            "description": "Implemented attitude-oriented focus group",
+            "quantity": 4,
+            "unit_price": 212.89,
+            "total_price": 851.56
+        }
+    ],
+    "amount": 5102.08
+}

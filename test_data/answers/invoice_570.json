@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Garrett-Wilson",
+    "invoice_number": "INV-37175",
+    "date": "2026-01-13",
+    "items": [
+        {
+            "description": "Seamless intangible installation",
+            "quantity": 9,
+            "unit_price": 444.3,
+            "total_price": 3998.7
+        },
+        {
+            "description": "Balanced full-range hardware",
+            "quantity": 2,
+            "unit_price": 441.81,
+            "total_price": 883.62
+        }
+    ],
+    "amount": 4882.32
+}

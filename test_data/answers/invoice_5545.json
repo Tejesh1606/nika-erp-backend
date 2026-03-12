@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Webster-Gibson",
+    "invoice_number": "INV-83911",
+    "date": "2025-09-21",
+    "items": [
+        {
+            "description": "Progressive transitional product",
+            "quantity": 5,
+            "unit_price": 57.56,
+            "total_price": 287.8
+        },
+        {
+            "description": "Focused regional interface",
+            "quantity": 3,
+            "unit_price": 483.22,
+            "total_price": 1449.66
+        },
+        {
+            "description": "Programmable dedicated open architecture",
+            "quantity": 8,
+            "unit_price": 87.12,
+            "total_price": 696.96
+        },
+        {
+            "description": "Team-oriented clear-thinking hierarchy",
+            "quantity": 9,
+            "unit_price": 118.29,
+            "total_price": 1064.61
+        }
+    ],
+    "amount": 3499.03
+}

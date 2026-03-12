@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hayes, Anderson and Moore",
+    "invoice_number": "INV-72890",
+    "date": "2025-04-26",
+    "items": [
+        {
+            "description": "Programmable content-based adapter",
+            "quantity": 3,
+            "unit_price": 339.7,
+            "total_price": 1019.1
+        },
+        {
+            "description": "Cross-group national budgetary management",
+            "quantity": 2,
+            "unit_price": 155.47,
+            "total_price": 310.94
+        },
+        {
+            "description": "Organized tangible paradigm",
+            "quantity": 4,
+            "unit_price": 389.82,
+            "total_price": 1559.28
+        }
+    ],
+    "amount": 2889.32
+}

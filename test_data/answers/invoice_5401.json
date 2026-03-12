@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mitchell and Sons",
+    "invoice_number": "INV-53744",
+    "date": "2025-03-18",
+    "items": [
+        {
+            "description": "Ergonomic dedicated forecast",
+            "quantity": 4,
+            "unit_price": 484.51,
+            "total_price": 1938.04
+        },
+        {
+            "description": "Open-architected 24/7 structure",
+            "quantity": 2,
+            "unit_price": 232.39,
+            "total_price": 464.78
+        },
+        {
+            "description": "Phased fault-tolerant parallelism",
+            "quantity": 7,
+            "unit_price": 188.26,
+            "total_price": 1317.82
+        }
+    ],
+    "amount": 3720.64
+}

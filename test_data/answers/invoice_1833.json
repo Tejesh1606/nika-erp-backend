@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Odonnell-Moses",
+    "invoice_number": "INV-29456",
+    "date": "2025-05-31",
+    "items": [
+        {
+            "description": "Pre-emptive executive application",
+            "quantity": 5,
+            "unit_price": 410.99,
+            "total_price": 2054.95
+        },
+        {
+            "description": "Pre-emptive mission-critical orchestration",
+            "quantity": 1,
+            "unit_price": 173.35,
+            "total_price": 173.35
+        },
+        {
+            "description": "Future-proofed dynamic emulation",
+            "quantity": 10,
+            "unit_price": 497.38,
+            "total_price": 4973.8
+        },
+        {
+            "description": "Enhanced well-modulated Graphic Interface",
+            "quantity": 7,
+            "unit_price": 230.41,
+            "total_price": 1612.87
+        }
+    ],
+    "amount": 8814.97
+}

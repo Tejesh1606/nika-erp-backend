@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Fitzpatrick Group",
+    "invoice_number": "INV-53273",
+    "date": "2025-11-20",
+    "items": [
+        {
+            "description": "Universal leadingedge superstructure",
+            "quantity": 3,
+            "unit_price": 216.97,
+            "total_price": 650.91
+        }
+    ],
+    "amount": 650.91
+}

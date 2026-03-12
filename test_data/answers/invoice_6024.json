@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Owens and Sons",
+    "invoice_number": "INV-32259",
+    "date": "2025-11-03",
+    "items": [
+        {
+            "description": "Up-sized bifurcated methodology",
+            "quantity": 10,
+            "unit_price": 303.43,
+            "total_price": 3034.3
+        }
+    ],
+    "amount": 3034.3
+}

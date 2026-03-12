@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Thomas and Sons",
+    "invoice_number": "INV-41780",
+    "date": "2025-08-07",
+    "items": [
+        {
+            "description": "Diverse secondary instruction set",
+            "quantity": 3,
+            "unit_price": 219.5,
+            "total_price": 658.5
+        },
+        {
+            "description": "Object-based optimizing core",
+            "quantity": 5,
+            "unit_price": 149.9,
+            "total_price": 749.5
+        },
+        {
+            "description": "Fully-configurable grid-enabled archive",
+            "quantity": 9,
+            "unit_price": 48.08,
+            "total_price": 432.72
+        }
+    ],
+    "amount": 1840.72
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ford-Rangel",
+    "invoice_number": "INV-97528",
+    "date": "2026-02-20",
+    "items": [
+        {
+            "description": "Implemented heuristic methodology",
+            "quantity": 4,
+            "unit_price": 431.88,
+            "total_price": 1727.52
+        }
+    ],
+    "amount": 1727.52
+}

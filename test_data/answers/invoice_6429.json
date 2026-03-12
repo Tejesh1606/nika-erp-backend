@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Watts Inc",
+    "invoice_number": "INV-79343",
+    "date": "2025-09-11",
+    "items": [
+        {
+            "description": "Multi-channeled content-based Graphical User Interface",
+            "quantity": 10,
+            "unit_price": 397.36,
+            "total_price": 3973.6
+        },
+        {
+            "description": "Public-key solution-oriented open system",
+            "quantity": 4,
+            "unit_price": 293.33,
+            "total_price": 1173.32
+        },
+        {
+            "description": "Realigned demand-driven complexity",
+            "quantity": 4,
+            "unit_price": 417.97,
+            "total_price": 1671.88
+        }
+    ],
+    "amount": 6818.8
+}

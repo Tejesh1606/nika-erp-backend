@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Garza-Boone",
+    "invoice_number": "INV-80713",
+    "date": "2025-03-20",
+    "items": [
+        {
+            "description": "Cross-group context-sensitive secured line",
+            "quantity": 8,
+            "unit_price": 98.33,
+            "total_price": 786.64
+        },
+        {
+            "description": "Vision-oriented composite Graphical User Interface",
+            "quantity": 5,
+            "unit_price": 308.62,
+            "total_price": 1543.1
+        },
+        {
+            "description": "Versatile impactful website",
+            "quantity": 1,
+            "unit_price": 291.38,
+            "total_price": 291.38
+        }
+    ],
+    "amount": 2621.12
+}

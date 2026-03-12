@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bartlett, Green and Harris",
+    "invoice_number": "INV-55085",
+    "date": "2026-02-06",
+    "items": [
+        {
+            "description": "Expanded non-volatile Local Area Network",
+            "quantity": 3,
+            "unit_price": 385.84,
+            "total_price": 1157.52
+        },
+        {
+            "description": "Ergonomic zero administration function",
+            "quantity": 10,
+            "unit_price": 452.95,
+            "total_price": 4529.5
+        },
+        {
+            "description": "Multi-layered bandwidth-monitored core",
+            "quantity": 2,
+            "unit_price": 88.69,
+            "total_price": 177.38
+        }
+    ],
+    "amount": 5864.4
+}

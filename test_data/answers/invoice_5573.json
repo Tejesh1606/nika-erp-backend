@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mann-Sanford",
+    "invoice_number": "INV-81855",
+    "date": "2025-08-24",
+    "items": [
+        {
+            "description": "Balanced interactive challenge",
+            "quantity": 5,
+            "unit_price": 365.9,
+            "total_price": 1829.5
+        },
+        {
+            "description": "Stand-alone well-modulated ability",
+            "quantity": 5,
+            "unit_price": 406.34,
+            "total_price": 2031.7
+        },
+        {
+            "description": "Versatile regional migration",
+            "quantity": 2,
+            "unit_price": 465.03,
+            "total_price": 930.06
+        }
+    ],
+    "amount": 4791.26
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Perez-Baldwin",
+    "invoice_number": "INV-38631",
+    "date": "2025-05-13",
+    "items": [
+        {
+            "description": "Fundamental discrete matrix",
+            "quantity": 2,
+            "unit_price": 109.62,
+            "total_price": 219.24
+        },
+        {
+            "description": "Versatile 6thgeneration core",
+            "quantity": 2,
+            "unit_price": 197.01,
+            "total_price": 394.02
+        },
+        {
+            "description": "Synergistic scalable pricing structure",
+            "quantity": 8,
+            "unit_price": 366.96,
+            "total_price": 2935.68
+        }
+    ],
+    "amount": 3548.94
+}

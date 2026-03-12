@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Preston Inc",
+    "invoice_number": "INV-12948",
+    "date": "2025-06-30",
+    "items": [
+        {
+            "description": "Universal incremental extranet",
+            "quantity": 6,
+            "unit_price": 274.76,
+            "total_price": 1648.56
+        },
+        {
+            "description": "Multi-channeled eco-centric process improvement",
+            "quantity": 7,
+            "unit_price": 379.05,
+            "total_price": 2653.35
+        },
+        {
+            "description": "Persistent human-resource moderator",
+            "quantity": 5,
+            "unit_price": 307.92,
+            "total_price": 1539.6
+        }
+    ],
+    "amount": 5841.51
+}

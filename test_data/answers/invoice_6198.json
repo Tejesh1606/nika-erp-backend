@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Curry, Lara and Hill",
+    "invoice_number": "INV-18258",
+    "date": "2025-10-16",
+    "items": [
+        {
+            "description": "Streamlined zero administration extranet",
+            "quantity": 9,
+            "unit_price": 359.83,
+            "total_price": 3238.47
+        },
+        {
+            "description": "Vision-oriented disintermediate intranet",
+            "quantity": 1,
+            "unit_price": 250.65,
+            "total_price": 250.65
+        },
+        {
+            "description": "Exclusive disintermediate data-warehouse",
+            "quantity": 7,
+            "unit_price": 44.13,
+            "total_price": 308.91
+        },
+        {
+            "description": "Cloned context-sensitive pricing structure",
+            "quantity": 6,
+            "unit_price": 464.62,
+            "total_price": 2787.72
+        }
+    ],
+    "amount": 6585.75
+}

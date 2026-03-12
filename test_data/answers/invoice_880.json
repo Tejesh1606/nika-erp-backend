@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ross, Lee and Johnson",
+    "invoice_number": "INV-42847",
+    "date": "2025-04-22",
+    "items": [
+        {
+            "description": "Triple-buffered client-driven Graphic Interface",
+            "quantity": 4,
+            "unit_price": 422.0,
+            "total_price": 1688.0
+        }
+    ],
+    "amount": 1688.0
+}

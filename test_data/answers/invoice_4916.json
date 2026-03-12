@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ford, Graham and Santos",
+    "invoice_number": "INV-97554",
+    "date": "2025-08-04",
+    "items": [
+        {
+            "description": "Implemented executive complexity",
+            "quantity": 9,
+            "unit_price": 167.81,
+            "total_price": 1510.29
+        },
+        {
+            "description": "Profit-focused incremental product",
+            "quantity": 8,
+            "unit_price": 221.5,
+            "total_price": 1772.0
+        }
+    ],
+    "amount": 3282.29
+}

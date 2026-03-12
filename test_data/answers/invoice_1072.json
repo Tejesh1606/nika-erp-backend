@@ -1,0 +1,32 @@
+{
+    "vendor_name": "White LLC",
+    "invoice_number": "INV-66280",
+    "date": "2026-01-10",
+    "items": [
+        {
+            "description": "Enterprise-wide heuristic encryption",
+            "quantity": 4,
+            "unit_price": 77.65,
+            "total_price": 310.6
+        },
+        {
+            "description": "Compatible didactic protocol",
+            "quantity": 7,
+            "unit_price": 125.93,
+            "total_price": 881.51
+        },
+        {
+            "description": "Multi-layered holistic circuit",
+            "quantity": 9,
+            "unit_price": 369.48,
+            "total_price": 3325.32
+        },
+        {
+            "description": "Vision-oriented foreground capability",
+            "quantity": 2,
+            "unit_price": 242.95,
+            "total_price": 485.9
+        }
+    ],
+    "amount": 5003.33
+}

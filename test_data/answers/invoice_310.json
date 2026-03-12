@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith and Sons",
+    "invoice_number": "INV-11487",
+    "date": "2025-05-11",
+    "items": [
+        {
+            "description": "Proactive grid-enabled model",
+            "quantity": 2,
+            "unit_price": 127.53,
+            "total_price": 255.06
+        },
+        {
+            "description": "Programmable zero tolerance success",
+            "quantity": 7,
+            "unit_price": 216.37,
+            "total_price": 1514.59
+        },
+        {
+            "description": "Fundamental composite hub",
+            "quantity": 9,
+            "unit_price": 80.45,
+            "total_price": 724.05
+        }
+    ],
+    "amount": 2493.7
+}

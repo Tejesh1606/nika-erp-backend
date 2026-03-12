@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Young-Allen",
+    "invoice_number": "INV-71474",
+    "date": "2026-02-23",
+    "items": [
+        {
+            "description": "Ergonomic holistic service-desk",
+            "quantity": 5,
+            "unit_price": 121.57,
+            "total_price": 607.85
+        }
+    ],
+    "amount": 607.85
+}

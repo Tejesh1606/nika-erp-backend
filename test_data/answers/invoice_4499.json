@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Shelton, Powell and Velez",
+    "invoice_number": "INV-25459",
+    "date": "2026-01-19",
+    "items": [
+        {
+            "description": "Proactive background data-warehouse",
+            "quantity": 2,
+            "unit_price": 190.31,
+            "total_price": 380.62
+        },
+        {
+            "description": "Synchronized eco-centric ability",
+            "quantity": 2,
+            "unit_price": 31.79,
+            "total_price": 63.58
+        }
+    ],
+    "amount": 444.2
+}

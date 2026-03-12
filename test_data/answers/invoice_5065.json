@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Aguilar-Hendricks",
+    "invoice_number": "INV-55852",
+    "date": "2025-12-21",
+    "items": [
+        {
+            "description": "Persevering object-oriented migration",
+            "quantity": 1,
+            "unit_price": 38.19,
+            "total_price": 38.19
+        },
+        {
+            "description": "User-friendly value-added artificial intelligence",
+            "quantity": 4,
+            "unit_price": 488.3,
+            "total_price": 1953.2
+        }
+    ],
+    "amount": 1991.39
+}

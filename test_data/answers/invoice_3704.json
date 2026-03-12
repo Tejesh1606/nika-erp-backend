@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Conner-Miller",
+    "invoice_number": "INV-46072",
+    "date": "2026-02-02",
+    "items": [
+        {
+            "description": "Managed foreground database",
+            "quantity": 2,
+            "unit_price": 303.28,
+            "total_price": 606.56
+        },
+        {
+            "description": "Organic well-modulated time-frame",
+            "quantity": 2,
+            "unit_price": 260.92,
+            "total_price": 521.84
+        }
+    ],
+    "amount": 1128.4
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mccormick, Santos and Kelly",
+    "invoice_number": "INV-70204",
+    "date": "2025-10-16",
+    "items": [
+        {
+            "description": "Sharable 24/7 synergy",
+            "quantity": 10,
+            "unit_price": 23.25,
+            "total_price": 232.5
+        }
+    ],
+    "amount": 232.5
+}

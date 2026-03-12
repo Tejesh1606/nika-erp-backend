@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Brown Group",
+    "invoice_number": "INV-78179",
+    "date": "2025-11-17",
+    "items": [
+        {
+            "description": "Programmable contextually-based complexity",
+            "quantity": 2,
+            "unit_price": 307.4,
+            "total_price": 614.8
+        }
+    ],
+    "amount": 614.8
+}

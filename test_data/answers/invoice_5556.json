@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gomez, Jacobs and Clark",
+    "invoice_number": "INV-65406",
+    "date": "2025-10-03",
+    "items": [
+        {
+            "description": "Innovative contextually-based customer loyalty",
+            "quantity": 3,
+            "unit_price": 481.25,
+            "total_price": 1443.75
+        },
+        {
+            "description": "Enhanced tertiary software",
+            "quantity": 2,
+            "unit_price": 161.27,
+            "total_price": 322.54
+        },
+        {
+            "description": "Object-based content-based Graphical User Interface",
+            "quantity": 6,
+            "unit_price": 278.22,
+            "total_price": 1669.32
+        },
+        {
+            "description": "Multi-channeled encompassing instruction set",
+            "quantity": 1,
+            "unit_price": 280.04,
+            "total_price": 280.04
+        }
+    ],
+    "amount": 3715.65
+}

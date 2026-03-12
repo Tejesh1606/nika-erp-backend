@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Collins, Diaz and Torres",
+    "invoice_number": "INV-64587",
+    "date": "2025-08-26",
+    "items": [
+        {
+            "description": "Extended asynchronous service-desk",
+            "quantity": 9,
+            "unit_price": 388.08,
+            "total_price": 3492.72
+        },
+        {
+            "description": "Expanded leadingedge archive",
+            "quantity": 8,
+            "unit_price": 385.36,
+            "total_price": 3082.88
+        }
+    ],
+    "amount": 6575.6
+}

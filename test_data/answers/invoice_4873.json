@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hernandez-Jackson",
+    "invoice_number": "INV-14657",
+    "date": "2026-02-18",
+    "items": [
+        {
+            "description": "Intuitive uniform hierarchy",
+            "quantity": 4,
+            "unit_price": 28.1,
+            "total_price": 112.4
+        },
+        {
+            "description": "Front-line 6thgeneration task-force",
+            "quantity": 2,
+            "unit_price": 497.75,
+            "total_price": 995.5
+        },
+        {
+            "description": "Open-architected asynchronous budgetary management",
+            "quantity": 7,
+            "unit_price": 107.37,
+            "total_price": 751.59
+        },
+        {
+            "description": "Face-to-face reciprocal adapter",
+            "quantity": 9,
+            "unit_price": 106.18,
+            "total_price": 955.62
+        }
+    ],
+    "amount": 2815.11
+}

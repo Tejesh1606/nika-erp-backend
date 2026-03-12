@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Horton-Dunn",
+    "invoice_number": "INV-50844",
+    "date": "2026-03-05",
+    "items": [
+        {
+            "description": "Profit-focused homogeneous open system",
+            "quantity": 10,
+            "unit_price": 175.7,
+            "total_price": 1757.0
+        },
+        {
+            "description": "Integrated system-worthy array",
+            "quantity": 2,
+            "unit_price": 160.71,
+            "total_price": 321.42
+        }
+    ],
+    "amount": 2078.42
+}

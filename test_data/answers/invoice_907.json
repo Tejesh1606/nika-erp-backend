@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mann, Johnson and Wade",
+    "invoice_number": "INV-29383",
+    "date": "2025-06-18",
+    "items": [
+        {
+            "description": "Robust logistical software",
+            "quantity": 1,
+            "unit_price": 58.35,
+            "total_price": 58.35
+        },
+        {
+            "description": "Digitized eco-centric encryption",
+            "quantity": 9,
+            "unit_price": 487.01,
+            "total_price": 4383.09
+        }
+    ],
+    "amount": 4441.44
+}

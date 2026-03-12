@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Perez LLC",
+    "invoice_number": "INV-16151",
+    "date": "2025-05-11",
+    "items": [
+        {
+            "description": "Diverse next generation pricing structure",
+            "quantity": 9,
+            "unit_price": 447.27,
+            "total_price": 4025.43
+        },
+        {
+            "description": "Grass-roots interactive infrastructure",
+            "quantity": 1,
+            "unit_price": 310.57,
+            "total_price": 310.57
+        }
+    ],
+    "amount": 4336.0
+}

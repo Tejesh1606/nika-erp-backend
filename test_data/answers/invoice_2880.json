@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Baker, Garcia and Conrad",
+    "invoice_number": "INV-98106",
+    "date": "2025-05-12",
+    "items": [
+        {
+            "description": "Up-sized directional toolset",
+            "quantity": 6,
+            "unit_price": 397.95,
+            "total_price": 2387.7
+        }
+    ],
+    "amount": 2387.7
+}

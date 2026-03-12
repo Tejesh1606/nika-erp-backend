@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Rodriguez, Mitchell and Potter",
+    "invoice_number": "INV-42364",
+    "date": "2025-12-11",
+    "items": [
+        {
+            "description": "Future-proofed intangible Internet solution",
+            "quantity": 2,
+            "unit_price": 413.5,
+            "total_price": 827.0
+        },
+        {
+            "description": "Re-engineered exuding extranet",
+            "quantity": 3,
+            "unit_price": 218.48,
+            "total_price": 655.44
+        }
+    ],
+    "amount": 1482.44
+}

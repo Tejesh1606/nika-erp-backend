@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gutierrez Group",
+    "invoice_number": "INV-35886",
+    "date": "2025-04-11",
+    "items": [
+        {
+            "description": "Multi-layered exuding data-warehouse",
+            "quantity": 10,
+            "unit_price": 292.35,
+            "total_price": 2923.5
+        }
+    ],
+    "amount": 2923.5
+}

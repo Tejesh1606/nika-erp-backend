@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Schultz-Gamble",
+    "invoice_number": "INV-98724",
+    "date": "2025-12-06",
+    "items": [
+        {
+            "description": "Focused foreground installation",
+            "quantity": 3,
+            "unit_price": 299.19,
+            "total_price": 897.57
+        },
+        {
+            "description": "Multi-channeled multi-state monitoring",
+            "quantity": 3,
+            "unit_price": 283.77,
+            "total_price": 851.31
+        },
+        {
+            "description": "Advanced tangible firmware",
+            "quantity": 7,
+            "unit_price": 47.51,
+            "total_price": 332.57
+        }
+    ],
+    "amount": 2081.45
+}

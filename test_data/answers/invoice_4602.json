@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Trevino-Klein",
+    "invoice_number": "INV-74795",
+    "date": "2025-09-17",
+    "items": [
+        {
+            "description": "Operative didactic open architecture",
+            "quantity": 9,
+            "unit_price": 416.51,
+            "total_price": 3748.59
+        },
+        {
+            "description": "Face-to-face zero-defect archive",
+            "quantity": 1,
+            "unit_price": 270.54,
+            "total_price": 270.54
+        },
+        {
+            "description": "Universal optimizing archive",
+            "quantity": 1,
+            "unit_price": 51.16,
+            "total_price": 51.16
+        }
+    ],
+    "amount": 4070.29
+}

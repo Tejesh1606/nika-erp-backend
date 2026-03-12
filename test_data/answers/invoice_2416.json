@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jefferson-Davis",
+    "invoice_number": "INV-16793",
+    "date": "2025-09-17",
+    "items": [
+        {
+            "description": "Pre-emptive modular customer loyalty",
+            "quantity": 4,
+            "unit_price": 473.47,
+            "total_price": 1893.88
+        },
+        {
+            "description": "Stand-alone composite archive",
+            "quantity": 10,
+            "unit_price": 325.73,
+            "total_price": 3257.3
+        },
+        {
+            "description": "Proactive grid-enabled approach",
+            "quantity": 3,
+            "unit_price": 235.53,
+            "total_price": 706.59
+        },
+        {
+            "description": "Face-to-face intangible array",
+            "quantity": 2,
+            "unit_price": 105.12,
+            "total_price": 210.24
+        }
+    ],
+    "amount": 6068.01
+}

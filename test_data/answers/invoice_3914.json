@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ellis-Walker",
+    "invoice_number": "INV-43031",
+    "date": "2025-10-12",
+    "items": [
+        {
+            "description": "User-friendly upward-trending help-desk",
+            "quantity": 9,
+            "unit_price": 36.51,
+            "total_price": 328.59
+        },
+        {
+            "description": "Upgradable value-added collaboration",
+            "quantity": 4,
+            "unit_price": 262.08,
+            "total_price": 1048.32
+        }
+    ],
+    "amount": 1376.91
+}

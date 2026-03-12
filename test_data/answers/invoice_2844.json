@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Yates, Peterson and Taylor",
+    "invoice_number": "INV-76670",
+    "date": "2025-09-01",
+    "items": [
+        {
+            "description": "Extended even-keeled forecast",
+            "quantity": 2,
+            "unit_price": 452.47,
+            "total_price": 904.94
+        },
+        {
+            "description": "User-centric upward-trending pricing structure",
+            "quantity": 3,
+            "unit_price": 115.73,
+            "total_price": 347.19
+        },
+        {
+            "description": "Stand-alone impactful secured line",
+            "quantity": 3,
+            "unit_price": 248.0,
+            "total_price": 744.0
+        },
+        {
+            "description": "Multi-tiered multi-state Internet solution",
+            "quantity": 5,
+            "unit_price": 465.75,
+            "total_price": 2328.75
+        }
+    ],
+    "amount": 4324.88
+}

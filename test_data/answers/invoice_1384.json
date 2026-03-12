@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Contreras LLC",
+    "invoice_number": "INV-13454",
+    "date": "2025-09-17",
+    "items": [
+        {
+            "description": "Face-to-face system-worthy definition",
+            "quantity": 2,
+            "unit_price": 69.04,
+            "total_price": 138.08
+        },
+        {
+            "description": "Fully-configurable directional intranet",
+            "quantity": 1,
+            "unit_price": 114.81,
+            "total_price": 114.81
+        },
+        {
+            "description": "Stand-alone didactic circuit",
+            "quantity": 2,
+            "unit_price": 348.96,
+            "total_price": 697.92
+        }
+    ],
+    "amount": 950.81
+}

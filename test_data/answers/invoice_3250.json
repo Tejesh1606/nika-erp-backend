@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bailey, Wilson and Eaton",
+    "invoice_number": "INV-57204",
+    "date": "2025-08-15",
+    "items": [
+        {
+            "description": "Reactive impactful challenge",
+            "quantity": 2,
+            "unit_price": 17.83,
+            "total_price": 35.66
+        },
+        {
+            "description": "Triple-buffered clear-thinking standardization",
+            "quantity": 10,
+            "unit_price": 341.23,
+            "total_price": 3412.3
+        },
+        {
+            "description": "Front-line analyzing workforce",
+            "quantity": 10,
+            "unit_price": 55.52,
+            "total_price": 555.2
+        }
+    ],
+    "amount": 4003.16
+}

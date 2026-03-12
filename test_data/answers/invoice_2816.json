@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Singh, Morris and Gilmore",
+    "invoice_number": "INV-18751",
+    "date": "2025-11-08",
+    "items": [
+        {
+            "description": "User-centric eco-centric methodology",
+            "quantity": 1,
+            "unit_price": 465.6,
+            "total_price": 465.6
+        },
+        {
+            "description": "Operative context-sensitive benchmark",
+            "quantity": 4,
+            "unit_price": 118.26,
+            "total_price": 473.04
+        },
+        {
+            "description": "Triple-buffered contextually-based strategy",
+            "quantity": 3,
+            "unit_price": 212.93,
+            "total_price": 638.79
+        }
+    ],
+    "amount": 1577.43
+}

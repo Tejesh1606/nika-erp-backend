@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Sanchez, Fisher and Morris",
+    "invoice_number": "INV-64521",
+    "date": "2025-11-12",
+    "items": [
+        {
+            "description": "Intuitive next generation knowledge user",
+            "quantity": 2,
+            "unit_price": 103.08,
+            "total_price": 206.16
+        },
+        {
+            "description": "De-engineered multi-tasking access",
+            "quantity": 8,
+            "unit_price": 141.5,
+            "total_price": 1132.0
+        }
+    ],
+    "amount": 1338.16
+}

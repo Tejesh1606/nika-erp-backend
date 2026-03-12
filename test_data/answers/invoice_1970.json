@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jackson, Gomez and Lozano",
+    "invoice_number": "INV-26317",
+    "date": "2025-09-27",
+    "items": [
+        {
+            "description": "Re-engineered mobile success",
+            "quantity": 5,
+            "unit_price": 11.33,
+            "total_price": 56.65
+        },
+        {
+            "description": "Adaptive systemic hierarchy",
+            "quantity": 6,
+            "unit_price": 53.4,
+            "total_price": 320.4
+        }
+    ],
+    "amount": 377.05
+}

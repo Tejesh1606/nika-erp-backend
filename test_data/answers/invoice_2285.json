@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Arnold LLC",
+    "invoice_number": "INV-24570",
+    "date": "2025-05-01",
+    "items": [
+        {
+            "description": "Quality-focused zero administration archive",
+            "quantity": 6,
+            "unit_price": 368.71,
+            "total_price": 2212.26
+        }
+    ],
+    "amount": 2212.26
+}

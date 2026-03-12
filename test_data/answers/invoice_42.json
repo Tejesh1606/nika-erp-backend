@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mclaughlin, Gonzalez and Reynolds",
+    "invoice_number": "INV-97062",
+    "date": "2026-03-01",
+    "items": [
+        {
+            "description": "Managed regional functionalities",
+            "quantity": 1,
+            "unit_price": 13.2,
+            "total_price": 13.2
+        },
+        {
+            "description": "Switchable bottom-line success",
+            "quantity": 1,
+            "unit_price": 149.85,
+            "total_price": 149.85
+        },
+        {
+            "description": "Innovative motivating function",
+            "quantity": 1,
+            "unit_price": 94.23,
+            "total_price": 94.23
+        }
+    ],
+    "amount": 257.28
+}

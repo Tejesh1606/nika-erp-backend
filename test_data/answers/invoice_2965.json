@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Shields, Mills and Patterson",
+    "invoice_number": "INV-86450",
+    "date": "2025-04-18",
+    "items": [
+        {
+            "description": "Cross-group clear-thinking service-desk",
+            "quantity": 3,
+            "unit_price": 45.97,
+            "total_price": 137.91
+        },
+        {
+            "description": "De-engineered dedicated utilization",
+            "quantity": 9,
+            "unit_price": 179.05,
+            "total_price": 1611.45
+        },
+        {
+            "description": "Down-sized asynchronous firmware",
+            "quantity": 4,
+            "unit_price": 387.66,
+            "total_price": 1550.64
+        },
+        {
+            "description": "Self-enabling stable concept",
+            "quantity": 7,
+            "unit_price": 465.59,
+            "total_price": 3259.13
+        }
+    ],
+    "amount": 6559.13
+}

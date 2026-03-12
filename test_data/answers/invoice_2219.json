@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Green-Dixon",
+    "invoice_number": "INV-40241",
+    "date": "2025-08-26",
+    "items": [
+        {
+            "description": "Switchable next generation array",
+            "quantity": 10,
+            "unit_price": 443.47,
+            "total_price": 4434.7
+        },
+        {
+            "description": "Re-contextualized bifurcated orchestration",
+            "quantity": 2,
+            "unit_price": 287.4,
+            "total_price": 574.8
+        },
+        {
+            "description": "Automated mobile frame",
+            "quantity": 4,
+            "unit_price": 249.94,
+            "total_price": 999.76
+        },
+        {
+            "description": "Secured non-volatile capacity",
+            "quantity": 9,
+            "unit_price": 205.38,
+            "total_price": 1848.42
+        }
+    ],
+    "amount": 7857.68
+}

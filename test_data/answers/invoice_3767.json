@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Prince, Montoya and Moore",
+    "invoice_number": "INV-51162",
+    "date": "2025-10-13",
+    "items": [
+        {
+            "description": "Assimilated 24/7 Local Area Network",
+            "quantity": 9,
+            "unit_price": 342.51,
+            "total_price": 3082.59
+        },
+        {
+            "description": "Total bottom-line data-warehouse",
+            "quantity": 9,
+            "unit_price": 389.19,
+            "total_price": 3502.71
+        }
+    ],
+    "amount": 6585.3
+}

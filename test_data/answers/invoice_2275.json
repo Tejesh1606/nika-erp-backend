@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Harvey-Wilson",
+    "invoice_number": "INV-85768",
+    "date": "2026-02-01",
+    "items": [
+        {
+            "description": "Multi-lateral tangible synergy",
+            "quantity": 3,
+            "unit_price": 179.76,
+            "total_price": 539.28
+        },
+        {
+            "description": "Digitized background Graphic Interface",
+            "quantity": 6,
+            "unit_price": 288.45,
+            "total_price": 1730.7
+        }
+    ],
+    "amount": 2269.98
+}

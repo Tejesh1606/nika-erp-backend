@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wood LLC",
+    "invoice_number": "INV-53178",
+    "date": "2025-12-22",
+    "items": [
+        {
+            "description": "Reverse-engineered homogeneous intranet",
+            "quantity": 1,
+            "unit_price": 76.44,
+            "total_price": 76.44
+        },
+        {
+            "description": "Compatible full-range adapter",
+            "quantity": 3,
+            "unit_price": 15.15,
+            "total_price": 45.45
+        }
+    ],
+    "amount": 121.89
+}

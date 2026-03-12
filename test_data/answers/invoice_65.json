@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith-Fisher",
+    "invoice_number": "INV-74251",
+    "date": "2025-04-18",
+    "items": [
+        {
+            "description": "Optional high-level productivity",
+            "quantity": 9,
+            "unit_price": 183.8,
+            "total_price": 1654.2
+        }
+    ],
+    "amount": 1654.2
+}

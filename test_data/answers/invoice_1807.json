@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Blair, Johnson and Armstrong",
+    "invoice_number": "INV-66550",
+    "date": "2025-08-03",
+    "items": [
+        {
+            "description": "Mandatory demand-driven monitoring",
+            "quantity": 9,
+            "unit_price": 450.55,
+            "total_price": 4054.95
+        },
+        {
+            "description": "Advanced stable conglomeration",
+            "quantity": 7,
+            "unit_price": 356.59,
+            "total_price": 2496.13
+        },
+        {
+            "description": "Persevering solution-oriented secured line",
+            "quantity": 8,
+            "unit_price": 296.23,
+            "total_price": 2369.84
+        }
+    ],
+    "amount": 8920.92
+}

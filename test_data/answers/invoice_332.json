@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wang-Key",
+    "invoice_number": "INV-30922",
+    "date": "2025-04-16",
+    "items": [
+        {
+            "description": "Fully-configurable stable encoding",
+            "quantity": 10,
+            "unit_price": 418.52,
+            "total_price": 4185.2
+        },
+        {
+            "description": "Future-proofed national utilization",
+            "quantity": 4,
+            "unit_price": 248.08,
+            "total_price": 992.32
+        },
+        {
+            "description": "User-centric analyzing task-force",
+            "quantity": 9,
+            "unit_price": 49.94,
+            "total_price": 449.46
+        }
+    ],
+    "amount": 5626.98
+}

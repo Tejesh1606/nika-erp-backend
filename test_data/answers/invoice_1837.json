@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Burton, Davis and Galvan",
+    "invoice_number": "INV-81532",
+    "date": "2026-01-13",
+    "items": [
+        {
+            "description": "Configurable disintermediate hub",
+            "quantity": 8,
+            "unit_price": 160.99,
+            "total_price": 1287.92
+        },
+        {
+            "description": "Synergized tangible system engine",
+            "quantity": 8,
+            "unit_price": 277.58,
+            "total_price": 2220.64
+        }
+    ],
+    "amount": 3508.56
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Nelson, Thomas and Fuentes",
+    "invoice_number": "INV-45999",
+    "date": "2025-05-24",
+    "items": [
+        {
+            "description": "Persevering full-range workforce",
+            "quantity": 7,
+            "unit_price": 26.36,
+            "total_price": 184.52
+        },
+        {
+            "description": "Expanded object-oriented budgetary management",
+            "quantity": 6,
+            "unit_price": 168.55,
+            "total_price": 1011.3
+        }
+    ],
+    "amount": 1195.82
+}

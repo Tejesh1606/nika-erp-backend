@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Logan, Hanson and Fischer",
+    "invoice_number": "INV-42191",
+    "date": "2025-05-22",
+    "items": [
+        {
+            "description": "Diverse explicit encryption",
+            "quantity": 4,
+            "unit_price": 278.48,
+            "total_price": 1113.92
+        },
+        {
+            "description": "Object-based cohesive parallelism",
+            "quantity": 10,
+            "unit_price": 11.55,
+            "total_price": 115.5
+        }
+    ],
+    "amount": 1229.42
+}

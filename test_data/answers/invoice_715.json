@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Crawford Inc",
+    "invoice_number": "INV-80232",
+    "date": "2025-05-31",
+    "items": [
+        {
+            "description": "Horizontal empowering application",
+            "quantity": 5,
+            "unit_price": 116.25,
+            "total_price": 581.25
+        },
+        {
+            "description": "Innovative object-oriented initiative",
+            "quantity": 2,
+            "unit_price": 174.3,
+            "total_price": 348.6
+        }
+    ],
+    "amount": 929.85
+}

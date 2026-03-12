@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cobb Ltd",
+    "invoice_number": "INV-95362",
+    "date": "2025-04-08",
+    "items": [
+        {
+            "description": "Public-key 4thgeneration secured line",
+            "quantity": 3,
+            "unit_price": 163.35,
+            "total_price": 490.05
+        }
+    ],
+    "amount": 490.05
+}

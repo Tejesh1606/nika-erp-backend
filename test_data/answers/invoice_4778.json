@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Medina LLC",
+    "invoice_number": "INV-51394",
+    "date": "2026-01-28",
+    "items": [
+        {
+            "description": "Extended content-based firmware",
+            "quantity": 1,
+            "unit_price": 48.77,
+            "total_price": 48.77
+        },
+        {
+            "description": "Extended 4thgeneration firmware",
+            "quantity": 9,
+            "unit_price": 75.83,
+            "total_price": 682.47
+        }
+    ],
+    "amount": 731.24
+}

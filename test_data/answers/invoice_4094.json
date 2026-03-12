@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Graham Inc",
+    "invoice_number": "INV-61220",
+    "date": "2025-12-03",
+    "items": [
+        {
+            "description": "Customer-focused foreground strategy",
+            "quantity": 10,
+            "unit_price": 486.93,
+            "total_price": 4869.3
+        },
+        {
+            "description": "Total grid-enabled alliance",
+            "quantity": 7,
+            "unit_price": 271.24,
+            "total_price": 1898.68
+        },
+        {
+            "description": "Switchable contextually-based infrastructure",
+            "quantity": 3,
+            "unit_price": 367.01,
+            "total_price": 1101.03
+        },
+        {
+            "description": "Cloned disintermediate extranet",
+            "quantity": 5,
+            "unit_price": 237.27,
+            "total_price": 1186.35
+        }
+    ],
+    "amount": 9055.36
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Patterson PLC",
+    "invoice_number": "INV-83504",
+    "date": "2026-02-24",
+    "items": [
+        {
+            "description": "Expanded neutral strategy",
+            "quantity": 5,
+            "unit_price": 222.04,
+            "total_price": 1110.2
+        },
+        {
+            "description": "Pre-emptive dedicated infrastructure",
+            "quantity": 10,
+            "unit_price": 141.4,
+            "total_price": 1414.0
+        }
+    ],
+    "amount": 2524.2
+}

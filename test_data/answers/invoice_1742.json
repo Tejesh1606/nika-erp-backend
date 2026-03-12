@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Charles and Sons",
+    "invoice_number": "INV-81239",
+    "date": "2025-11-28",
+    "items": [
+        {
+            "description": "Intuitive incremental algorithm",
+            "quantity": 5,
+            "unit_price": 20.23,
+            "total_price": 101.15
+        },
+        {
+            "description": "Mandatory discrete orchestration",
+            "quantity": 1,
+            "unit_price": 356.48,
+            "total_price": 356.48
+        },
+        {
+            "description": "Versatile local support",
+            "quantity": 7,
+            "unit_price": 214.01,
+            "total_price": 1498.07
+        },
+        {
+            "description": "Ameliorated modular toolset",
+            "quantity": 4,
+            "unit_price": 243.15,
+            "total_price": 972.6
+        }
+    ],
+    "amount": 2928.3
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hill Ltd",
+    "invoice_number": "INV-52407",
+    "date": "2025-07-15",
+    "items": [
+        {
+            "description": "Organic real-time pricing structure",
+            "quantity": 4,
+            "unit_price": 211.71,
+            "total_price": 846.84
+        },
+        {
+            "description": "Right-sized 4thgeneration analyzer",
+            "quantity": 3,
+            "unit_price": 353.8,
+            "total_price": 1061.4
+        },
+        {
+            "description": "Phased contextually-based Graphical User Interface",
+            "quantity": 7,
+            "unit_price": 27.33,
+            "total_price": 191.31
+        },
+        {
+            "description": "Open-architected human-resource toolset",
+            "quantity": 3,
+            "unit_price": 385.77,
+            "total_price": 1157.31
+        }
+    ],
+    "amount": 3256.86
+}

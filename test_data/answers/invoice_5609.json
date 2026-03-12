@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lee Ltd",
+    "invoice_number": "INV-39173",
+    "date": "2025-06-27",
+    "items": [
+        {
+            "description": "User-centric value-added matrices",
+            "quantity": 3,
+            "unit_price": 351.02,
+            "total_price": 1053.06
+        },
+        {
+            "description": "User-centric upward-trending task-force",
+            "quantity": 2,
+            "unit_price": 74.44,
+            "total_price": 148.88
+        },
+        {
+            "description": "User-centric asynchronous artificial intelligence",
+            "quantity": 10,
+            "unit_price": 99.0,
+            "total_price": 990.0
+        },
+        {
+            "description": "Enterprise-wide actuating challenge",
+            "quantity": 1,
+            "unit_price": 11.74,
+            "total_price": 11.74
+        }
+    ],
+    "amount": 2203.68
+}

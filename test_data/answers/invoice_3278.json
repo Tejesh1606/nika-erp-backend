@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Nunez, Potts and Diaz",
+    "invoice_number": "INV-38633",
+    "date": "2025-05-28",
+    "items": [
+        {
+            "description": "Persevering even-keeled workforce",
+            "quantity": 3,
+            "unit_price": 241.5,
+            "total_price": 724.5
+        },
+        {
+            "description": "Exclusive fresh-thinking initiative",
+            "quantity": 4,
+            "unit_price": 472.8,
+            "total_price": 1891.2
+        },
+        {
+            "description": "Persevering 3rdgeneration capacity",
+            "quantity": 9,
+            "unit_price": 110.32,
+            "total_price": 992.88
+        },
+        {
+            "description": "Sharable solution-oriented knowledge user",
+            "quantity": 6,
+            "unit_price": 26.96,
+            "total_price": 161.76
+        }
+    ],
+    "amount": 3770.34
+}

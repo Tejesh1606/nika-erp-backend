@@ -1,0 +1,32 @@
+{
+    "vendor_name": "May-Clark",
+    "invoice_number": "INV-20255",
+    "date": "2026-03-09",
+    "items": [
+        {
+            "description": "Enhanced discrete support",
+            "quantity": 9,
+            "unit_price": 13.98,
+            "total_price": 125.82
+        },
+        {
+            "description": "Reduced next generation throughput",
+            "quantity": 9,
+            "unit_price": 128.22,
+            "total_price": 1153.98
+        },
+        {
+            "description": "Fundamental mobile concept",
+            "quantity": 1,
+            "unit_price": 57.82,
+            "total_price": 57.82
+        },
+        {
+            "description": "Front-line 4thgeneration data-warehouse",
+            "quantity": 6,
+            "unit_price": 233.4,
+            "total_price": 1400.4
+        }
+    ],
+    "amount": 2738.02
+}

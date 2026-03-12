@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Leon, Hale and Winters",
+    "invoice_number": "INV-52183",
+    "date": "2026-01-06",
+    "items": [
+        {
+            "description": "Self-enabling object-oriented emulation",
+            "quantity": 4,
+            "unit_price": 141.23,
+            "total_price": 564.92
+        }
+    ],
+    "amount": 564.92
+}

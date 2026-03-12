@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Weaver, Mccormick and Rivers",
+    "invoice_number": "INV-77035",
+    "date": "2025-06-05",
+    "items": [
+        {
+            "description": "Sharable client-driven budgetary management",
+            "quantity": 2,
+            "unit_price": 25.33,
+            "total_price": 50.66
+        },
+        {
+            "description": "Enhanced analyzing neural-net",
+            "quantity": 9,
+            "unit_price": 387.14,
+            "total_price": 3484.26
+        },
+        {
+            "description": "Object-based attitude-oriented firmware",
+            "quantity": 10,
+            "unit_price": 41.81,
+            "total_price": 418.1
+        },
+        {
+            "description": "User-friendly tangible pricing structure",
+            "quantity": 3,
+            "unit_price": 381.1,
+            "total_price": 1143.3
+        }
+    ],
+    "amount": 5096.32
+}

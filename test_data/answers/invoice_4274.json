@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Chavez, Shelton and Maynard",
+    "invoice_number": "INV-52988",
+    "date": "2025-06-16",
+    "items": [
+        {
+            "description": "Automated bifurcated frame",
+            "quantity": 6,
+            "unit_price": 155.17,
+            "total_price": 931.02
+        },
+        {
+            "description": "Reverse-engineered static service-desk",
+            "quantity": 7,
+            "unit_price": 143.38,
+            "total_price": 1003.66
+        },
+        {
+            "description": "Fully-configurable neutral software",
+            "quantity": 9,
+            "unit_price": 229.76,
+            "total_price": 2067.84
+        },
+        {
+            "description": "Implemented mobile throughput",
+            "quantity": 8,
+            "unit_price": 177.75,
+            "total_price": 1422.0
+        }
+    ],
+    "amount": 5424.52
+}

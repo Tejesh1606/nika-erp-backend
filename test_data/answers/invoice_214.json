@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Morrison, Hebert and Rogers",
+    "invoice_number": "INV-69552",
+    "date": "2025-11-13",
+    "items": [
+        {
+            "description": "Quality-focused multi-tasking methodology",
+            "quantity": 6,
+            "unit_price": 129.84,
+            "total_price": 779.04
+        }
+    ],
+    "amount": 779.04
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Miller PLC",
+    "invoice_number": "INV-70753",
+    "date": "2025-09-16",
+    "items": [
+        {
+            "description": "Profit-focused object-oriented help-desk",
+            "quantity": 4,
+            "unit_price": 418.89,
+            "total_price": 1675.56
+        },
+        {
+            "description": "Customer-focused interactive initiative",
+            "quantity": 5,
+            "unit_price": 440.79,
+            "total_price": 2203.95
+        },
+        {
+            "description": "Multi-channeled analyzing benchmark",
+            "quantity": 6,
+            "unit_price": 280.24,
+            "total_price": 1681.44
+        }
+    ],
+    "amount": 5560.95
+}

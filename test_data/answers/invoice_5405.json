@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Whitehead-Hicks",
+    "invoice_number": "INV-74173",
+    "date": "2025-09-07",
+    "items": [
+        {
+            "description": "Grass-roots 6thgeneration time-frame",
+            "quantity": 6,
+            "unit_price": 133.66,
+            "total_price": 801.96
+        }
+    ],
+    "amount": 801.96
+}

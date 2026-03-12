@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Serrano-Jacobs",
+    "invoice_number": "INV-33255",
+    "date": "2025-09-09",
+    "items": [
+        {
+            "description": "Seamless radical alliance",
+            "quantity": 7,
+            "unit_price": 281.03,
+            "total_price": 1967.21
+        },
+        {
+            "description": "Public-key motivating system engine",
+            "quantity": 1,
+            "unit_price": 152.19,
+            "total_price": 152.19
+        }
+    ],
+    "amount": 2119.4
+}

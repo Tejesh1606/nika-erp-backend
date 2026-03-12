@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Martinez-Wilson",
+    "invoice_number": "INV-17859",
+    "date": "2025-09-03",
+    "items": [
+        {
+            "description": "Diverse real-time algorithm",
+            "quantity": 5,
+            "unit_price": 77.91,
+            "total_price": 389.55
+        }
+    ],
+    "amount": 389.55
+}

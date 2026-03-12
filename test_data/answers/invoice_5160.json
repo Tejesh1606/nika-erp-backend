@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Haynes-Webb",
+    "invoice_number": "INV-64736",
+    "date": "2025-10-30",
+    "items": [
+        {
+            "description": "Versatile holistic encoding",
+            "quantity": 6,
+            "unit_price": 437.68,
+            "total_price": 2626.08
+        },
+        {
+            "description": "Compatible context-sensitive benchmark",
+            "quantity": 6,
+            "unit_price": 262.79,
+            "total_price": 1576.74
+        },
+        {
+            "description": "Persevering multi-tasking throughput",
+            "quantity": 5,
+            "unit_price": 283.22,
+            "total_price": 1416.1
+        }
+    ],
+    "amount": 5618.92
+}

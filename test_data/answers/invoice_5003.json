@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Brown-Gilbert",
+    "invoice_number": "INV-44017",
+    "date": "2026-01-21",
+    "items": [
+        {
+            "description": "Public-key well-modulated ability",
+            "quantity": 8,
+            "unit_price": 386.3,
+            "total_price": 3090.4
+        },
+        {
+            "description": "Innovative tangible interface",
+            "quantity": 7,
+            "unit_price": 495.44,
+            "total_price": 3468.08
+        }
+    ],
+    "amount": 6558.48
+}

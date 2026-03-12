@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Carter-Neal",
+    "invoice_number": "INV-74357",
+    "date": "2025-10-18",
+    "items": [
+        {
+            "description": "Fully-configurable fresh-thinking implementation",
+            "quantity": 9,
+            "unit_price": 16.96,
+            "total_price": 152.64
+        },
+        {
+            "description": "Grass-roots zero tolerance infrastructure",
+            "quantity": 9,
+            "unit_price": 343.77,
+            "total_price": 3093.93
+        },
+        {
+            "description": "Multi-lateral bifurcated open system",
+            "quantity": 4,
+            "unit_price": 409.04,
+            "total_price": 1636.16
+        },
+        {
+            "description": "Exclusive optimizing moratorium",
+            "quantity": 4,
+            "unit_price": 179.34,
+            "total_price": 717.36
+        }
+    ],
+    "amount": 5600.09
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Sanchez Group",
+    "invoice_number": "INV-49038",
+    "date": "2025-10-07",
+    "items": [
+        {
+            "description": "Multi-layered transitional array",
+            "quantity": 8,
+            "unit_price": 409.49,
+            "total_price": 3275.92
+        },
+        {
+            "description": "Synergistic 5thgeneration analyzer",
+            "quantity": 8,
+            "unit_price": 431.35,
+            "total_price": 3450.8
+        }
+    ],
+    "amount": 6726.72
+}

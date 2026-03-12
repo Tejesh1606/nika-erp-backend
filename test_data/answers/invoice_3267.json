@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wang, Brown and Rivera",
+    "invoice_number": "INV-54519",
+    "date": "2025-10-01",
+    "items": [
+        {
+            "description": "Multi-channeled tertiary paradigm",
+            "quantity": 7,
+            "unit_price": 292.4,
+            "total_price": 2046.8
+        },
+        {
+            "description": "Phased didactic approach",
+            "quantity": 10,
+            "unit_price": 478.54,
+            "total_price": 4785.4
+        },
+        {
+            "description": "De-engineered zero-defect Local Area Network",
+            "quantity": 9,
+            "unit_price": 76.05,
+            "total_price": 684.45
+        },
+        {
+            "description": "Face-to-face value-added productivity",
+            "quantity": 4,
+            "unit_price": 485.51,
+            "total_price": 1942.04
+        }
+    ],
+    "amount": 9458.69
+}

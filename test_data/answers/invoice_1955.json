@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wolf-Sanchez",
+    "invoice_number": "INV-58994",
+    "date": "2025-11-30",
+    "items": [
+        {
+            "description": "Re-contextualized global circuit",
+            "quantity": 2,
+            "unit_price": 49.03,
+            "total_price": 98.06
+        },
+        {
+            "description": "Balanced high-level info-mediaries",
+            "quantity": 2,
+            "unit_price": 406.87,
+            "total_price": 813.74
+        },
+        {
+            "description": "Compatible 5thgeneration approach",
+            "quantity": 3,
+            "unit_price": 278.8,
+            "total_price": 836.4
+        }
+    ],
+    "amount": 1748.2
+}

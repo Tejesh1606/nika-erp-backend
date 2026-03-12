@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Harding-Simmons",
+    "invoice_number": "INV-41267",
+    "date": "2025-03-10",
+    "items": [
+        {
+            "description": "Quality-focused maximized core",
+            "quantity": 1,
+            "unit_price": 22.7,
+            "total_price": 22.7
+        }
+    ],
+    "amount": 22.7
+}

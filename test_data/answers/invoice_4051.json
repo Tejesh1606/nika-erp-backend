@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Roberts Group",
+    "invoice_number": "INV-95899",
+    "date": "2025-06-12",
+    "items": [
+        {
+            "description": "De-engineered optimizing projection",
+            "quantity": 3,
+            "unit_price": 63.33,
+            "total_price": 189.99
+        },
+        {
+            "description": "Balanced multimedia functionalities",
+            "quantity": 6,
+            "unit_price": 376.75,
+            "total_price": 2260.5
+        },
+        {
+            "description": "Ameliorated full-range approach",
+            "quantity": 5,
+            "unit_price": 135.54,
+            "total_price": 677.7
+        }
+    ],
+    "amount": 3128.19
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Harris-Combs",
+    "invoice_number": "INV-19139",
+    "date": "2025-08-12",
+    "items": [
+        {
+            "description": "Virtual cohesive orchestration",
+            "quantity": 1,
+            "unit_price": 152.9,
+            "total_price": 152.9
+        },
+        {
+            "description": "Synergistic 24/7 leverage",
+            "quantity": 5,
+            "unit_price": 134.01,
+            "total_price": 670.05
+        }
+    ],
+    "amount": 822.95
+}

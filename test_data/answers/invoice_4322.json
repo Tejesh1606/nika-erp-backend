@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Williams-Villarreal",
+    "invoice_number": "INV-53160",
+    "date": "2025-10-15",
+    "items": [
+        {
+            "description": "Devolved stable utilization",
+            "quantity": 7,
+            "unit_price": 217.53,
+            "total_price": 1522.71
+        },
+        {
+            "description": "Managed directional project",
+            "quantity": 8,
+            "unit_price": 456.69,
+            "total_price": 3653.52
+        }
+    ],
+    "amount": 5176.23
+}

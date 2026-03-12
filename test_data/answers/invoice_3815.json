@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Barrett, Maynard and Pena",
+    "invoice_number": "INV-41631",
+    "date": "2025-06-29",
+    "items": [
+        {
+            "description": "Grass-roots intangible productivity",
+            "quantity": 5,
+            "unit_price": 228.16,
+            "total_price": 1140.8
+        },
+        {
+            "description": "Extended directional contingency",
+            "quantity": 9,
+            "unit_price": 211.09,
+            "total_price": 1899.81
+        },
+        {
+            "description": "Universal executive implementation",
+            "quantity": 6,
+            "unit_price": 203.38,
+            "total_price": 1220.28
+        }
+    ],
+    "amount": 4260.89
+}

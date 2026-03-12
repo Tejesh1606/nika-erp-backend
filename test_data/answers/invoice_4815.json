@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Campbell-Freeman",
+    "invoice_number": "INV-43083",
+    "date": "2025-03-14",
+    "items": [
+        {
+            "description": "Progressive 24hour protocol",
+            "quantity": 3,
+            "unit_price": 57.86,
+            "total_price": 173.58
+        }
+    ],
+    "amount": 173.58
+}

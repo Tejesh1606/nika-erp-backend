@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Rush PLC",
+    "invoice_number": "INV-86960",
+    "date": "2025-05-01",
+    "items": [
+        {
+            "description": "De-engineered responsive matrices",
+            "quantity": 4,
+            "unit_price": 119.99,
+            "total_price": 479.96
+        }
+    ],
+    "amount": 479.96
+}

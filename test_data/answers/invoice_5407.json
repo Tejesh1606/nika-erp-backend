@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Barnes, Hart and Patterson",
+    "invoice_number": "INV-38723",
+    "date": "2025-10-06",
+    "items": [
+        {
+            "description": "Pre-emptive encompassing frame",
+            "quantity": 6,
+            "unit_price": 263.04,
+            "total_price": 1578.24
+        }
+    ],
+    "amount": 1578.24
+}

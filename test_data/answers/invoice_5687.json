@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cisneros, Davis and Reed",
+    "invoice_number": "INV-34063",
+    "date": "2025-11-23",
+    "items": [
+        {
+            "description": "Programmable mobile database",
+            "quantity": 4,
+            "unit_price": 116.22,
+            "total_price": 464.88
+        },
+        {
+            "description": "Inverse bi-directional array",
+            "quantity": 1,
+            "unit_price": 254.78,
+            "total_price": 254.78
+        }
+    ],
+    "amount": 719.66
+}

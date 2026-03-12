@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Patrick, Olsen and Davis",
+    "invoice_number": "INV-72809",
+    "date": "2026-01-05",
+    "items": [
+        {
+            "description": "Polarized asymmetric model",
+            "quantity": 6,
+            "unit_price": 219.65,
+            "total_price": 1317.9
+        }
+    ],
+    "amount": 1317.9
+}

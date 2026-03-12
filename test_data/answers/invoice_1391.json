@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Padilla-Bender",
+    "invoice_number": "INV-61936",
+    "date": "2025-05-31",
+    "items": [
+        {
+            "description": "Switchable local function",
+            "quantity": 6,
+            "unit_price": 160.7,
+            "total_price": 964.2
+        },
+        {
+            "description": "Public-key tangible service-desk",
+            "quantity": 3,
+            "unit_price": 395.72,
+            "total_price": 1187.16
+        },
+        {
+            "description": "Innovative full-range emulation",
+            "quantity": 5,
+            "unit_price": 234.42,
+            "total_price": 1172.1
+        },
+        {
+            "description": "Re-contextualized multimedia installation",
+            "quantity": 1,
+            "unit_price": 84.26,
+            "total_price": 84.26
+        }
+    ],
+    "amount": 3407.72
+}

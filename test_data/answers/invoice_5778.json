@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Spence, Booth and Craig",
+    "invoice_number": "INV-98482",
+    "date": "2026-01-28",
+    "items": [
+        {
+            "description": "Profit-focused scalable interface",
+            "quantity": 2,
+            "unit_price": 391.88,
+            "total_price": 783.76
+        }
+    ],
+    "amount": 783.76
+}

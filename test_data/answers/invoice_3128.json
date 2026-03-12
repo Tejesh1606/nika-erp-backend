@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Collier-Weber",
+    "invoice_number": "INV-99181",
+    "date": "2025-11-30",
+    "items": [
+        {
+            "description": "Triple-buffered next generation initiative",
+            "quantity": 3,
+            "unit_price": 321.31,
+            "total_price": 963.93
+        },
+        {
+            "description": "Polarized clear-thinking customer loyalty",
+            "quantity": 8,
+            "unit_price": 439.09,
+            "total_price": 3512.72
+        },
+        {
+            "description": "Synergistic didactic archive",
+            "quantity": 6,
+            "unit_price": 279.99,
+            "total_price": 1679.94
+        },
+        {
+            "description": "Centralized empowering secured line",
+            "quantity": 8,
+            "unit_price": 170.08,
+            "total_price": 1360.64
+        }
+    ],
+    "amount": 7517.23
+}

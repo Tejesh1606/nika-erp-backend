@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rodriguez LLC",
+    "invoice_number": "INV-64640",
+    "date": "2025-12-30",
+    "items": [
+        {
+            "description": "Cross-group hybrid focus group",
+            "quantity": 1,
+            "unit_price": 370.36,
+            "total_price": 370.36
+        },
+        {
+            "description": "Synergized homogeneous archive",
+            "quantity": 6,
+            "unit_price": 172.97,
+            "total_price": 1037.82
+        },
+        {
+            "description": "Intuitive coherent standardization",
+            "quantity": 2,
+            "unit_price": 498.22,
+            "total_price": 996.44
+        },
+        {
+            "description": "Optional zero administration groupware",
+            "quantity": 2,
+            "unit_price": 200.31,
+            "total_price": 400.62
+        }
+    ],
+    "amount": 2805.24
+}

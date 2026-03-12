@@ -1,0 +1,14 @@
+{
+    "vendor_name": "White, Jennings and Bennett",
+    "invoice_number": "INV-44433",
+    "date": "2026-01-18",
+    "items": [
+        {
+            "description": "Cross-group exuding portal",
+            "quantity": 1,
+            "unit_price": 140.63,
+            "total_price": 140.63
+        }
+    ],
+    "amount": 140.63
+}

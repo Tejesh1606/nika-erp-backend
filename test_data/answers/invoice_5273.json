@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Clark-Blanchard",
+    "invoice_number": "INV-30879",
+    "date": "2025-04-15",
+    "items": [
+        {
+            "description": "Adaptive multi-tasking Graphical User Interface",
+            "quantity": 5,
+            "unit_price": 50.86,
+            "total_price": 254.3
+        }
+    ],
+    "amount": 254.3
+}

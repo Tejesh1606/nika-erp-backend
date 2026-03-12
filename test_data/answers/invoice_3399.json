@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Lewis Group",
+    "invoice_number": "INV-44020",
+    "date": "2025-08-27",
+    "items": [
+        {
+            "description": "Grass-roots logistical Internet solution",
+            "quantity": 5,
+            "unit_price": 321.18,
+            "total_price": 1605.9
+        },
+        {
+            "description": "User-centric optimal capability",
+            "quantity": 2,
+            "unit_price": 483.6,
+            "total_price": 967.2
+        }
+    ],
+    "amount": 2573.1
+}

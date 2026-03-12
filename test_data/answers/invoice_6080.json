@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Coleman Inc",
+    "invoice_number": "INV-90361",
+    "date": "2026-02-18",
+    "items": [
+        {
+            "description": "Multi-channeled context-sensitive core",
+            "quantity": 3,
+            "unit_price": 166.39,
+            "total_price": 499.17
+        }
+    ],
+    "amount": 499.17
+}

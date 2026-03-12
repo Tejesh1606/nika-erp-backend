@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Delgado PLC",
+    "invoice_number": "INV-80956",
+    "date": "2025-11-29",
+    "items": [
+        {
+            "description": "Exclusive client-driven function",
+            "quantity": 6,
+            "unit_price": 367.41,
+            "total_price": 2204.46
+        },
+        {
+            "description": "Team-oriented tertiary moderator",
+            "quantity": 3,
+            "unit_price": 239.2,
+            "total_price": 717.6
+        },
+        {
+            "description": "Devolved intermediate throughput",
+            "quantity": 6,
+            "unit_price": 91.09,
+            "total_price": 546.54
+        }
+    ],
+    "amount": 3468.6
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Perry-Larsen",
+    "invoice_number": "INV-74054",
+    "date": "2025-05-12",
+    "items": [
+        {
+            "description": "Configurable non-volatile algorithm",
+            "quantity": 8,
+            "unit_price": 345.9,
+            "total_price": 2767.2
+        },
+        {
+            "description": "Virtual directional frame",
+            "quantity": 4,
+            "unit_price": 409.36,
+            "total_price": 1637.44
+        },
+        {
+            "description": "Automated even-keeled definition",
+            "quantity": 6,
+            "unit_price": 169.49,
+            "total_price": 1016.94
+        }
+    ],
+    "amount": 5421.58
+}

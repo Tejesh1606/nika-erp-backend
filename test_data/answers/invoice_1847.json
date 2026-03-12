@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Gomez-Maxwell",
+    "invoice_number": "INV-70324",
+    "date": "2025-10-20",
+    "items": [
+        {
+            "description": "Switchable static project",
+            "quantity": 3,
+            "unit_price": 171.81,
+            "total_price": 515.43
+        },
+        {
+            "description": "Object-based contextually-based frame",
+            "quantity": 4,
+            "unit_price": 107.91,
+            "total_price": 431.64
+        },
+        {
+            "description": "Sharable 6thgeneration portal",
+            "quantity": 6,
+            "unit_price": 435.47,
+            "total_price": 2612.82
+        }
+    ],
+    "amount": 3559.89
+}

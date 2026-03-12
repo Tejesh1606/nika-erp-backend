@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Morrison Group",
+    "invoice_number": "INV-60330",
+    "date": "2025-03-17",
+    "items": [
+        {
+            "description": "Customizable 24/7 task-force",
+            "quantity": 1,
+            "unit_price": 329.06,
+            "total_price": 329.06
+        },
+        {
+            "description": "Stand-alone 6thgeneration capacity",
+            "quantity": 3,
+            "unit_price": 385.22,
+            "total_price": 1155.66
+        },
+        {
+            "description": "Fully-configurable zero administration artificial intelligence",
+            "quantity": 7,
+            "unit_price": 359.38,
+            "total_price": 2515.66
+        }
+    ],
+    "amount": 4000.38
+}

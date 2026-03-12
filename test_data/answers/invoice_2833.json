@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Flores-Adams",
+    "invoice_number": "INV-85747",
+    "date": "2025-10-25",
+    "items": [
+        {
+            "description": "Enhanced 5thgeneration productivity",
+            "quantity": 8,
+            "unit_price": 466.36,
+            "total_price": 3730.88
+        }
+    ],
+    "amount": 3730.88
+}

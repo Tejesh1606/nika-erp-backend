@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jackson, Jackson and Perry",
+    "invoice_number": "INV-24114",
+    "date": "2026-01-19",
+    "items": [
+        {
+            "description": "Inverse fresh-thinking open architecture",
+            "quantity": 6,
+            "unit_price": 84.27,
+            "total_price": 505.62
+        }
+    ],
+    "amount": 505.62
+}

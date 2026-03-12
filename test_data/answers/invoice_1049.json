@@ -1,0 +1,20 @@
+{
+    "vendor_name": "James-Bruce",
+    "invoice_number": "INV-99165",
+    "date": "2025-08-25",
+    "items": [
+        {
+            "description": "Sharable executive standardization",
+            "quantity": 5,
+            "unit_price": 224.29,
+            "total_price": 1121.45
+        },
+        {
+            "description": "Secured bandwidth-monitored array",
+            "quantity": 7,
+            "unit_price": 483.81,
+            "total_price": 3386.67
+        }
+    ],
+    "amount": 4508.12
+}

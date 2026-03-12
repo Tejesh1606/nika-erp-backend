@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Young Group",
+    "invoice_number": "INV-56296",
+    "date": "2025-04-01",
+    "items": [
+        {
+            "description": "Implemented hybrid alliance",
+            "quantity": 2,
+            "unit_price": 144.53,
+            "total_price": 289.06
+        },
+        {
+            "description": "Digitized incremental projection",
+            "quantity": 2,
+            "unit_price": 307.95,
+            "total_price": 615.9
+        },
+        {
+            "description": "Enhanced client-server function",
+            "quantity": 10,
+            "unit_price": 82.71,
+            "total_price": 827.1
+        },
+        {
+            "description": "Proactive neutral productivity",
+            "quantity": 9,
+            "unit_price": 318.77,
+            "total_price": 2868.93
+        }
+    ],
+    "amount": 4600.99
+}

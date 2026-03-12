@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Knight-Rodriguez",
+    "invoice_number": "INV-78049",
+    "date": "2025-07-03",
+    "items": [
+        {
+            "description": "Multi-lateral even-keeled flexibility",
+            "quantity": 8,
+            "unit_price": 350.71,
+            "total_price": 2805.68
+        },
+        {
+            "description": "Customer-focused systematic workforce",
+            "quantity": 8,
+            "unit_price": 405.46,
+            "total_price": 3243.68
+        },
+        {
+            "description": "Reverse-engineered needs-based service-desk",
+            "quantity": 1,
+            "unit_price": 446.71,
+            "total_price": 446.71
+        }
+    ],
+    "amount": 6496.07
+}

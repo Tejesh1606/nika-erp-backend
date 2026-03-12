@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Green-Smith",
+    "invoice_number": "INV-61489",
+    "date": "2025-11-16",
+    "items": [
+        {
+            "description": "Optional reciprocal interface",
+            "quantity": 4,
+            "unit_price": 198.53,
+            "total_price": 794.12
+        },
+        {
+            "description": "Self-enabling zero-defect service-desk",
+            "quantity": 2,
+            "unit_price": 124.66,
+            "total_price": 249.32
+        },
+        {
+            "description": "Polarized mobile middleware",
+            "quantity": 3,
+            "unit_price": 44.44,
+            "total_price": 133.32
+        },
+        {
+            "description": "Self-enabling bandwidth-monitored database",
+            "quantity": 8,
+            "unit_price": 385.48,
+            "total_price": 3083.84
+        }
+    ],
+    "amount": 4260.6
+}

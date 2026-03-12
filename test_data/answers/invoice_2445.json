@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Morris, Shepherd and Jarvis",
+    "invoice_number": "INV-87402",
+    "date": "2025-05-01",
+    "items": [
+        {
+            "description": "Balanced foreground forecast",
+            "quantity": 10,
+            "unit_price": 229.96,
+            "total_price": 2299.6
+        },
+        {
+            "description": "User-friendly next generation portal",
+            "quantity": 8,
+            "unit_price": 130.57,
+            "total_price": 1044.56
+        }
+    ],
+    "amount": 3344.16
+}

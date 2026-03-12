@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Perez, Smith and Rivas",
+    "invoice_number": "INV-27980",
+    "date": "2025-06-28",
+    "items": [
+        {
+            "description": "Managed upward-trending hardware",
+            "quantity": 3,
+            "unit_price": 35.45,
+            "total_price": 106.35
+        },
+        {
+            "description": "Extended bi-directional concept",
+            "quantity": 5,
+            "unit_price": 15.88,
+            "total_price": 79.4
+        }
+    ],
+    "amount": 185.75
+}

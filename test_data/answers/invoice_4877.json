@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Williams LLC",
+    "invoice_number": "INV-57129",
+    "date": "2025-09-14",
+    "items": [
+        {
+            "description": "Universal demand-driven customer loyalty",
+            "quantity": 1,
+            "unit_price": 251.51,
+            "total_price": 251.51
+        },
+        {
+            "description": "Progressive 24hour knowledgebase",
+            "quantity": 6,
+            "unit_price": 129.76,
+            "total_price": 778.56
+        },
+        {
+            "description": "Secured user-facing capacity",
+            "quantity": 2,
+            "unit_price": 154.31,
+            "total_price": 308.62
+        },
+        {
+            "description": "Open-architected responsive info-mediaries",
+            "quantity": 6,
+            "unit_price": 402.07,
+            "total_price": 2412.42
+        }
+    ],
+    "amount": 3751.11
+}

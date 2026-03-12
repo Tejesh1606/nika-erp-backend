@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Boyer PLC",
+    "invoice_number": "INV-57728",
+    "date": "2025-07-26",
+    "items": [
+        {
+            "description": "Team-oriented user-facing software",
+            "quantity": 5,
+            "unit_price": 350.49,
+            "total_price": 1752.45
+        }
+    ],
+    "amount": 1752.45
+}

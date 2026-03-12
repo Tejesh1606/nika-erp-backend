@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnston Group",
+    "invoice_number": "INV-56504",
+    "date": "2026-03-07",
+    "items": [
+        {
+            "description": "Enhanced context-sensitive encoding",
+            "quantity": 8,
+            "unit_price": 427.47,
+            "total_price": 3419.76
+        },
+        {
+            "description": "Reverse-engineered foreground workforce",
+            "quantity": 4,
+            "unit_price": 107.44,
+            "total_price": 429.76
+        },
+        {
+            "description": "User-centric tangible help-desk",
+            "quantity": 7,
+            "unit_price": 62.63,
+            "total_price": 438.41
+        },
+        {
+            "description": "Reverse-engineered 4thgeneration strategy",
+            "quantity": 5,
+            "unit_price": 15.92,
+            "total_price": 79.6
+        }
+    ],
+    "amount": 4367.53
+}

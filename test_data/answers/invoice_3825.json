@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ward and Sons",
+    "invoice_number": "INV-50815",
+    "date": "2026-02-18",
+    "items": [
+        {
+            "description": "Synchronized content-based portal",
+            "quantity": 10,
+            "unit_price": 227.02,
+            "total_price": 2270.2
+        },
+        {
+            "description": "Distributed composite portal",
+            "quantity": 9,
+            "unit_price": 363.92,
+            "total_price": 3275.28
+        },
+        {
+            "description": "Sharable holistic alliance",
+            "quantity": 10,
+            "unit_price": 67.26,
+            "total_price": 672.6
+        }
+    ],
+    "amount": 6218.08
+}

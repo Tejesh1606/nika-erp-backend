@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Brown, Hoover and Salazar",
+    "invoice_number": "INV-11019",
+    "date": "2025-07-04",
+    "items": [
+        {
+            "description": "User-friendly optimal array",
+            "quantity": 10,
+            "unit_price": 157.67,
+            "total_price": 1576.7
+        },
+        {
+            "description": "Assimilated motivating instruction set",
+            "quantity": 1,
+            "unit_price": 300.73,
+            "total_price": 300.73
+        },
+        {
+            "description": "Virtual transitional application",
+            "quantity": 5,
+            "unit_price": 59.29,
+            "total_price": 296.45
+        },
+        {
+            "description": "Implemented dedicated artificial intelligence",
+            "quantity": 4,
+            "unit_price": 152.72,
+            "total_price": 610.88
+        }
+    ],
+    "amount": 2784.76
+}

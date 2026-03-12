@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ferguson, Vargas and Sullivan",
+    "invoice_number": "INV-40329",
+    "date": "2025-09-08",
+    "items": [
+        {
+            "description": "Sharable uniform adapter",
+            "quantity": 2,
+            "unit_price": 452.65,
+            "total_price": 905.3
+        },
+        {
+            "description": "Advanced needs-based project",
+            "quantity": 8,
+            "unit_price": 326.04,
+            "total_price": 2608.32
+        },
+        {
+            "description": "Programmable real-time flexibility",
+            "quantity": 2,
+            "unit_price": 322.76,
+            "total_price": 645.52
+        }
+    ],
+    "amount": 4159.14
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Clark-Lyons",
+    "invoice_number": "INV-76029",
+    "date": "2025-10-09",
+    "items": [
+        {
+            "description": "User-friendly encompassing array",
+            "quantity": 4,
+            "unit_price": 316.17,
+            "total_price": 1264.68
+        },
+        {
+            "description": "Profound zero administration database",
+            "quantity": 10,
+            "unit_price": 394.6,
+            "total_price": 3946.0
+        },
+        {
+            "description": "Fundamental didactic Local Area Network",
+            "quantity": 3,
+            "unit_price": 345.51,
+            "total_price": 1036.53
+        },
+        {
+            "description": "Fundamental 5thgeneration budgetary management",
+            "quantity": 10,
+            "unit_price": 381.69,
+            "total_price": 3816.9
+        }
+    ],
+    "amount": 10064.11
+}

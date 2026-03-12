@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Moore-Young",
+    "invoice_number": "INV-88112",
+    "date": "2025-04-16",
+    "items": [
+        {
+            "description": "Face-to-face zero-defect Internet solution",
+            "quantity": 5,
+            "unit_price": 117.71,
+            "total_price": 588.55
+        }
+    ],
+    "amount": 588.55
+}

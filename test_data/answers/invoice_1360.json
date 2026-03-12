@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lee, Larsen and Walker",
+    "invoice_number": "INV-12191",
+    "date": "2025-05-25",
+    "items": [
+        {
+            "description": "Upgradable value-added help-desk",
+            "quantity": 6,
+            "unit_price": 89.67,
+            "total_price": 538.02
+        },
+        {
+            "description": "Progressive radical time-frame",
+            "quantity": 3,
+            "unit_price": 169.52,
+            "total_price": 508.56
+        },
+        {
+            "description": "Distributed non-volatile moderator",
+            "quantity": 2,
+            "unit_price": 346.95,
+            "total_price": 693.9
+        },
+        {
+            "description": "Progressive actuating website",
+            "quantity": 4,
+            "unit_price": 414.74,
+            "total_price": 1658.96
+        }
+    ],
+    "amount": 3399.44
+}

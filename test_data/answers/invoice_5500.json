@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Grimes-Brown",
+    "invoice_number": "INV-22128",
+    "date": "2026-02-03",
+    "items": [
+        {
+            "description": "Intuitive encompassing definition",
+            "quantity": 8,
+            "unit_price": 129.69,
+            "total_price": 1037.52
+        },
+        {
+            "description": "Synergized needs-based solution",
+            "quantity": 6,
+            "unit_price": 356.32,
+            "total_price": 2137.92
+        }
+    ],
+    "amount": 3175.44
+}

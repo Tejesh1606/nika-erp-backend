@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Warren, Vargas and Williams",
+    "invoice_number": "INV-21979",
+    "date": "2025-09-02",
+    "items": [
+        {
+            "description": "Compatible content-based alliance",
+            "quantity": 2,
+            "unit_price": 339.9,
+            "total_price": 679.8
+        },
+        {
+            "description": "Versatile dynamic strategy",
+            "quantity": 6,
+            "unit_price": 148.15,
+            "total_price": 888.9
+        }
+    ],
+    "amount": 1568.7
+}

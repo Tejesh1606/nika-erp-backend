@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Clarke-Johnson",
+    "invoice_number": "INV-31934",
+    "date": "2025-05-24",
+    "items": [
+        {
+            "description": "Advanced neutral moderator",
+            "quantity": 2,
+            "unit_price": 354.2,
+            "total_price": 708.4
+        }
+    ],
+    "amount": 708.4
+}

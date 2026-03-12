@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Andrade-Williams",
+    "invoice_number": "INV-67478",
+    "date": "2025-09-04",
+    "items": [
+        {
+            "description": "Versatile explicit function",
+            "quantity": 5,
+            "unit_price": 396.49,
+            "total_price": 1982.45
+        },
+        {
+            "description": "Object-based 3rdgeneration moratorium",
+            "quantity": 2,
+            "unit_price": 108.84,
+            "total_price": 217.68
+        }
+    ],
+    "amount": 2200.13
+}

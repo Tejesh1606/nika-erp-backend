@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith, Cruz and Oconnor",
+    "invoice_number": "INV-31802",
+    "date": "2026-02-15",
+    "items": [
+        {
+            "description": "Open-source modular implementation",
+            "quantity": 1,
+            "unit_price": 491.25,
+            "total_price": 491.25
+        },
+        {
+            "description": "Monitored needs-based implementation",
+            "quantity": 8,
+            "unit_price": 325.26,
+            "total_price": 2602.08
+        },
+        {
+            "description": "Cross-platform mission-critical toolset",
+            "quantity": 4,
+            "unit_price": 54.84,
+            "total_price": 219.36
+        }
+    ],
+    "amount": 3312.69
+}

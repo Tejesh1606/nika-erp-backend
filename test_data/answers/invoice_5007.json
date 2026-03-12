@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lewis-Randolph",
+    "invoice_number": "INV-21246",
+    "date": "2025-06-08",
+    "items": [
+        {
+            "description": "User-centric multi-tasking success",
+            "quantity": 7,
+            "unit_price": 377.07,
+            "total_price": 2639.49
+        },
+        {
+            "description": "Proactive dedicated architecture",
+            "quantity": 10,
+            "unit_price": 91.77,
+            "total_price": 917.7
+        },
+        {
+            "description": "Implemented 3rdgeneration standardization",
+            "quantity": 9,
+            "unit_price": 150.05,
+            "total_price": 1350.45
+        },
+        {
+            "description": "Sharable didactic archive",
+            "quantity": 3,
+            "unit_price": 361.83,
+            "total_price": 1085.49
+        }
+    ],
+    "amount": 5993.13
+}

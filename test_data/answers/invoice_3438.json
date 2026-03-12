@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Aguirre PLC",
+    "invoice_number": "INV-73632",
+    "date": "2025-09-23",
+    "items": [
+        {
+            "description": "Face-to-face empowering solution",
+            "quantity": 9,
+            "unit_price": 289.36,
+            "total_price": 2604.24
+        },
+        {
+            "description": "Exclusive systemic productivity",
+            "quantity": 5,
+            "unit_price": 290.38,
+            "total_price": 1451.9
+        }
+    ],
+    "amount": 4056.14
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Smith, Caldwell and Griffin",
+    "invoice_number": "INV-94182",
+    "date": "2025-11-02",
+    "items": [
+        {
+            "description": "Secured dynamic analyzer",
+            "quantity": 4,
+            "unit_price": 28.86,
+            "total_price": 115.44
+        },
+        {
+            "description": "Synergized fresh-thinking implementation",
+            "quantity": 5,
+            "unit_price": 288.7,
+            "total_price": 1443.5
+        }
+    ],
+    "amount": 1558.94
+}

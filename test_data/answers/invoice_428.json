@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Richards, Haynes and Jones",
+    "invoice_number": "INV-75907",
+    "date": "2025-04-19",
+    "items": [
+        {
+            "description": "Implemented zero tolerance software",
+            "quantity": 9,
+            "unit_price": 171.47,
+            "total_price": 1543.23
+        },
+        {
+            "description": "Innovative real-time array",
+            "quantity": 5,
+            "unit_price": 85.93,
+            "total_price": 429.65
+        },
+        {
+            "description": "Horizontal well-modulated intranet",
+            "quantity": 6,
+            "unit_price": 335.08,
+            "total_price": 2010.48
+        },
+        {
+            "description": "Multi-tiered hybrid protocol",
+            "quantity": 7,
+            "unit_price": 89.76,
+            "total_price": 628.32
+        }
+    ],
+    "amount": 4611.68
+}

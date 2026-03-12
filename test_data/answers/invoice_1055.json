@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Beltran, Lee and Newman",
+    "invoice_number": "INV-16760",
+    "date": "2026-01-14",
+    "items": [
+        {
+            "description": "Re-engineered interactive capacity",
+            "quantity": 9,
+            "unit_price": 114.18,
+            "total_price": 1027.62
+        },
+        {
+            "description": "Sharable human-resource superstructure",
+            "quantity": 9,
+            "unit_price": 70.31,
+            "total_price": 632.79
+        }
+    ],
+    "amount": 1660.41
+}

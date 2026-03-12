@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Yoder PLC",
+    "invoice_number": "INV-62965",
+    "date": "2025-11-20",
+    "items": [
+        {
+            "description": "Intuitive systemic challenge",
+            "quantity": 7,
+            "unit_price": 436.97,
+            "total_price": 3058.79
+        }
+    ],
+    "amount": 3058.79
+}

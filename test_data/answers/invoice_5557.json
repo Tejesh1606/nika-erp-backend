@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Becker, Clark and Love",
+    "invoice_number": "INV-83745",
+    "date": "2025-12-08",
+    "items": [
+        {
+            "description": "Ergonomic background alliance",
+            "quantity": 10,
+            "unit_price": 276.62,
+            "total_price": 2766.2
+        },
+        {
+            "description": "Mandatory leadingedge artificial intelligence",
+            "quantity": 2,
+            "unit_price": 57.93,
+            "total_price": 115.86
+        }
+    ],
+    "amount": 2882.06
+}

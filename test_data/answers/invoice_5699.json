@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Gray and Sons",
+    "invoice_number": "INV-28294",
+    "date": "2025-03-11",
+    "items": [
+        {
+            "description": "Enterprise-wide cohesive website",
+            "quantity": 8,
+            "unit_price": 238.34,
+            "total_price": 1906.72
+        },
+        {
+            "description": "Persistent transitional capability",
+            "quantity": 7,
+            "unit_price": 130.06,
+            "total_price": 910.42
+        },
+        {
+            "description": "Configurable didactic projection",
+            "quantity": 5,
+            "unit_price": 234.0,
+            "total_price": 1170.0
+        }
+    ],
+    "amount": 3987.14
+}

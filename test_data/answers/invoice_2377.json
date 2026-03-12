@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Henderson, Rivas and Bishop",
+    "invoice_number": "INV-32494",
+    "date": "2025-08-13",
+    "items": [
+        {
+            "description": "Reverse-engineered explicit complexity",
+            "quantity": 1,
+            "unit_price": 146.67,
+            "total_price": 146.67
+        }
+    ],
+    "amount": 146.67
+}

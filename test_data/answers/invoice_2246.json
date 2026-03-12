@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Reyes-Burch",
+    "invoice_number": "INV-24034",
+    "date": "2025-11-05",
+    "items": [
+        {
+            "description": "Cross-group full-range encoding",
+            "quantity": 1,
+            "unit_price": 28.85,
+            "total_price": 28.85
+        },
+        {
+            "description": "Adaptive high-level methodology",
+            "quantity": 3,
+            "unit_price": 359.16,
+            "total_price": 1077.48
+        },
+        {
+            "description": "Up-sized value-added website",
+            "quantity": 10,
+            "unit_price": 92.55,
+            "total_price": 925.5
+        }
+    ],
+    "amount": 2031.83
+}

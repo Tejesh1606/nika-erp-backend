@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Anderson-Moss",
+    "invoice_number": "INV-74345",
+    "date": "2025-12-16",
+    "items": [
+        {
+            "description": "Innovative well-modulated projection",
+            "quantity": 6,
+            "unit_price": 404.84,
+            "total_price": 2429.04
+        },
+        {
+            "description": "Team-oriented cohesive website",
+            "quantity": 2,
+            "unit_price": 237.83,
+            "total_price": 475.66
+        }
+    ],
+    "amount": 2904.7
+}

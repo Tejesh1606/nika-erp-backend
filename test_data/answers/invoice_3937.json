@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Herrera PLC",
+    "invoice_number": "INV-83313",
+    "date": "2025-10-29",
+    "items": [
+        {
+            "description": "Configurable optimizing secured line",
+            "quantity": 9,
+            "unit_price": 191.63,
+            "total_price": 1724.67
+        },
+        {
+            "description": "Universal optimizing framework",
+            "quantity": 2,
+            "unit_price": 463.46,
+            "total_price": 926.92
+        }
+    ],
+    "amount": 2651.59
+}

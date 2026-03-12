@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Arroyo, Peterson and Parker",
+    "invoice_number": "INV-39400",
+    "date": "2025-05-06",
+    "items": [
+        {
+            "description": "Grass-roots real-time time-frame",
+            "quantity": 6,
+            "unit_price": 82.66,
+            "total_price": 495.96
+        }
+    ],
+    "amount": 495.96
+}

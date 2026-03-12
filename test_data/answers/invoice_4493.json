@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jones-Jacobs",
+    "invoice_number": "INV-14752",
+    "date": "2025-10-15",
+    "items": [
+        {
+            "description": "Configurable 24hour application",
+            "quantity": 8,
+            "unit_price": 422.69,
+            "total_price": 3381.52
+        }
+    ],
+    "amount": 3381.52
+}

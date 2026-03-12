@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Allen-Williamson",
+    "invoice_number": "INV-47493",
+    "date": "2025-09-19",
+    "items": [
+        {
+            "description": "Innovative clear-thinking portal",
+            "quantity": 7,
+            "unit_price": 68.89,
+            "total_price": 482.23
+        }
+    ],
+    "amount": 482.23
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hardy, Valdez and Glover",
+    "invoice_number": "INV-67273",
+    "date": "2026-01-16",
+    "items": [
+        {
+            "description": "Focused directional firmware",
+            "quantity": 1,
+            "unit_price": 51.13,
+            "total_price": 51.13
+        },
+        {
+            "description": "Customizable explicit array",
+            "quantity": 3,
+            "unit_price": 106.36,
+            "total_price": 319.08
+        },
+        {
+            "description": "Customizable background Graphical User Interface",
+            "quantity": 5,
+            "unit_price": 181.61,
+            "total_price": 908.05
+        }
+    ],
+    "amount": 1278.26
+}

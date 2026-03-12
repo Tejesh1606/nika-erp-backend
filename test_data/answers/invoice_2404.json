@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hendricks-Hamilton",
+    "invoice_number": "INV-49466",
+    "date": "2025-04-25",
+    "items": [
+        {
+            "description": "Fully-configurable eco-centric moderator",
+            "quantity": 10,
+            "unit_price": 238.35,
+            "total_price": 2383.5
+        },
+        {
+            "description": "Enhanced actuating model",
+            "quantity": 6,
+            "unit_price": 136.94,
+            "total_price": 821.64
+        },
+        {
+            "description": "Function-based real-time encryption",
+            "quantity": 4,
+            "unit_price": 338.42,
+            "total_price": 1353.68
+        }
+    ],
+    "amount": 4558.82
+}

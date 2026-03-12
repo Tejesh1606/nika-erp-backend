@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hardy, Patterson and Hall",
+    "invoice_number": "INV-46668",
+    "date": "2025-08-21",
+    "items": [
+        {
+            "description": "Progressive executive hub",
+            "quantity": 5,
+            "unit_price": 186.96,
+            "total_price": 934.8
+        },
+        {
+            "description": "Profound didactic strategy",
+            "quantity": 3,
+            "unit_price": 248.44,
+            "total_price": 745.32
+        },
+        {
+            "description": "Cross-platform 24/7 website",
+            "quantity": 6,
+            "unit_price": 76.42,
+            "total_price": 458.52
+        }
+    ],
+    "amount": 2138.64
+}

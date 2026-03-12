@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith-Gutierrez",
+    "invoice_number": "INV-61338",
+    "date": "2025-07-21",
+    "items": [
+        {
+            "description": "Inverse multi-state policy",
+            "quantity": 2,
+            "unit_price": 174.52,
+            "total_price": 349.04
+        },
+        {
+            "description": "Virtual reciprocal productivity",
+            "quantity": 9,
+            "unit_price": 310.69,
+            "total_price": 2796.21
+        },
+        {
+            "description": "User-friendly 5thgeneration project",
+            "quantity": 8,
+            "unit_price": 366.67,
+            "total_price": 2933.36
+        }
+    ],
+    "amount": 6078.61
+}

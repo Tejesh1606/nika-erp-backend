@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Trujillo, Clark and Ayala",
+    "invoice_number": "INV-23470",
+    "date": "2025-10-13",
+    "items": [
+        {
+            "description": "Advanced incremental knowledge user",
+            "quantity": 1,
+            "unit_price": 487.03,
+            "total_price": 487.03
+        },
+        {
+            "description": "Self-enabling stable archive",
+            "quantity": 3,
+            "unit_price": 136.34,
+            "total_price": 409.02
+        }
+    ],
+    "amount": 896.05
+}

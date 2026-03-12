@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Solomon, Johnson and Torres",
+    "invoice_number": "INV-93085",
+    "date": "2025-05-06",
+    "items": [
+        {
+            "description": "Extended stable focus group",
+            "quantity": 9,
+            "unit_price": 335.22,
+            "total_price": 3016.98
+        }
+    ],
+    "amount": 3016.98
+}

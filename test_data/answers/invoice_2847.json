@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Richmond and Sons",
+    "invoice_number": "INV-78629",
+    "date": "2025-06-18",
+    "items": [
+        {
+            "description": "Universal local benchmark",
+            "quantity": 5,
+            "unit_price": 360.01,
+            "total_price": 1800.05
+        }
+    ],
+    "amount": 1800.05
+}

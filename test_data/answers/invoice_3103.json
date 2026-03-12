@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Booker, Mendez and Davis",
+    "invoice_number": "INV-92585",
+    "date": "2025-08-13",
+    "items": [
+        {
+            "description": "Innovative asynchronous ability",
+            "quantity": 3,
+            "unit_price": 452.95,
+            "total_price": 1358.85
+        }
+    ],
+    "amount": 1358.85
+}

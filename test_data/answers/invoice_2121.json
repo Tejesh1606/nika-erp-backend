@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Lawson-Huber",
+    "invoice_number": "INV-25306",
+    "date": "2025-09-03",
+    "items": [
+        {
+            "description": "Profit-focused system-worthy budgetary management",
+            "quantity": 6,
+            "unit_price": 479.73,
+            "total_price": 2878.38
+        },
+        {
+            "description": "Multi-channeled optimizing instruction set",
+            "quantity": 6,
+            "unit_price": 87.64,
+            "total_price": 525.84
+        }
+    ],
+    "amount": 3404.22
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wilson-Richmond",
+    "invoice_number": "INV-71112",
+    "date": "2025-07-09",
+    "items": [
+        {
+            "description": "Decentralized real-time implementation",
+            "quantity": 8,
+            "unit_price": 232.41,
+            "total_price": 1859.28
+        }
+    ],
+    "amount": 1859.28
+}

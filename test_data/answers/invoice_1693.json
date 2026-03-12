@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mcdaniel-Brown",
+    "invoice_number": "INV-48191",
+    "date": "2025-06-09",
+    "items": [
+        {
+            "description": "Expanded didactic database",
+            "quantity": 8,
+            "unit_price": 187.97,
+            "total_price": 1503.76
+        },
+        {
+            "description": "Virtual heuristic core",
+            "quantity": 6,
+            "unit_price": 257.61,
+            "total_price": 1545.66
+        }
+    ],
+    "amount": 3049.42
+}

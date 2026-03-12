@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Ruiz Ltd",
+    "invoice_number": "INV-80702",
+    "date": "2025-03-29",
+    "items": [
+        {
+            "description": "Monitored directional projection",
+            "quantity": 3,
+            "unit_price": 313.68,
+            "total_price": 941.04
+        },
+        {
+            "description": "Cloned zero-defect projection",
+            "quantity": 8,
+            "unit_price": 108.35,
+            "total_price": 866.8
+        },
+        {
+            "description": "Balanced web-enabled algorithm",
+            "quantity": 4,
+            "unit_price": 70.64,
+            "total_price": 282.56
+        },
+        {
+            "description": "Fully-configurable dedicated adapter",
+            "quantity": 9,
+            "unit_price": 474.26,
+            "total_price": 4268.34
+        }
+    ],
+    "amount": 6358.74
+}

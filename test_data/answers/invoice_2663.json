@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson, Alexander and Strickland",
+    "invoice_number": "INV-43738",
+    "date": "2025-11-29",
+    "items": [
+        {
+            "description": "Future-proofed client-driven archive",
+            "quantity": 5,
+            "unit_price": 448.15,
+            "total_price": 2240.75
+        },
+        {
+            "description": "De-engineered object-oriented budgetary management",
+            "quantity": 5,
+            "unit_price": 457.2,
+            "total_price": 2286.0
+        },
+        {
+            "description": "Innovative intermediate toolset",
+            "quantity": 3,
+            "unit_price": 256.16,
+            "total_price": 768.48
+        },
+        {
+            "description": "Switchable holistic ability",
+            "quantity": 3,
+            "unit_price": 67.47,
+            "total_price": 202.41
+        }
+    ],
+    "amount": 5497.64
+}

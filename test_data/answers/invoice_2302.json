@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Garcia-Juarez",
+    "invoice_number": "INV-70920",
+    "date": "2026-01-25",
+    "items": [
+        {
+            "description": "Multi-layered solution-oriented matrix",
+            "quantity": 10,
+            "unit_price": 367.97,
+            "total_price": 3679.7
+        },
+        {
+            "description": "Optimized real-time capability",
+            "quantity": 5,
+            "unit_price": 413.79,
+            "total_price": 2068.95
+        },
+        {
+            "description": "Pre-emptive bi-directional interface",
+            "quantity": 9,
+            "unit_price": 148.88,
+            "total_price": 1339.92
+        },
+        {
+            "description": "Down-sized analyzing time-frame",
+            "quantity": 9,
+            "unit_price": 465.23,
+            "total_price": 4187.07
+        }
+    ],
+    "amount": 11275.64
+}

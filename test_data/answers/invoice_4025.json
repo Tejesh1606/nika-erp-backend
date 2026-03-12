@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Barron, Hendricks and Miller",
+    "invoice_number": "INV-10471",
+    "date": "2025-03-28",
+    "items": [
+        {
+            "description": "Focused grid-enabled initiative",
+            "quantity": 8,
+            "unit_price": 137.58,
+            "total_price": 1100.64
+        },
+        {
+            "description": "Face-to-face 4thgeneration customer loyalty",
+            "quantity": 10,
+            "unit_price": 176.76,
+            "total_price": 1767.6
+        },
+        {
+            "description": "Diverse motivating collaboration",
+            "quantity": 3,
+            "unit_price": 340.73,
+            "total_price": 1022.19
+        },
+        {
+            "description": "Optional methodical core",
+            "quantity": 6,
+            "unit_price": 47.75,
+            "total_price": 286.5
+        }
+    ],
+    "amount": 4176.93
+}

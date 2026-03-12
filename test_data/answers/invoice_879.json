@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Miranda, Nguyen and Hayes",
+    "invoice_number": "INV-43130",
+    "date": "2025-05-28",
+    "items": [
+        {
+            "description": "Profit-focused 6thgeneration Local Area Network",
+            "quantity": 6,
+            "unit_price": 140.39,
+            "total_price": 842.34
+        },
+        {
+            "description": "Assimilated asynchronous productivity",
+            "quantity": 9,
+            "unit_price": 178.54,
+            "total_price": 1606.86
+        },
+        {
+            "description": "Team-oriented systematic synergy",
+            "quantity": 2,
+            "unit_price": 383.13,
+            "total_price": 766.26
+        },
+        {
+            "description": "Persistent homogeneous Graphical User Interface",
+            "quantity": 10,
+            "unit_price": 479.0,
+            "total_price": 4790.0
+        }
+    ],
+    "amount": 8005.46
+}

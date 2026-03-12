@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Pierce, Sanders and Yoder",
+    "invoice_number": "INV-52239",
+    "date": "2025-08-27",
+    "items": [
+        {
+            "description": "Extended systematic knowledgebase",
+            "quantity": 3,
+            "unit_price": 294.87,
+            "total_price": 884.61
+        },
+        {
+            "description": "Optional zero-defect matrices",
+            "quantity": 10,
+            "unit_price": 103.53,
+            "total_price": 1035.3
+        }
+    ],
+    "amount": 1919.91
+}

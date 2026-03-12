@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Baker-Ross",
+    "invoice_number": "INV-87872",
+    "date": "2025-10-11",
+    "items": [
+        {
+            "description": "Face-to-face systemic process improvement",
+            "quantity": 1,
+            "unit_price": 63.45,
+            "total_price": 63.45
+        },
+        {
+            "description": "Sharable needs-based hardware",
+            "quantity": 7,
+            "unit_price": 497.59,
+            "total_price": 3483.13
+        },
+        {
+            "description": "Re-engineered solution-oriented analyzer",
+            "quantity": 10,
+            "unit_price": 234.97,
+            "total_price": 2349.7
+        },
+        {
+            "description": "Pre-emptive empowering circuit",
+            "quantity": 1,
+            "unit_price": 365.38,
+            "total_price": 365.38
+        }
+    ],
+    "amount": 6261.66
+}

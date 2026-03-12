@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Robinson, Cunningham and Aguilar",
+    "invoice_number": "INV-34398",
+    "date": "2026-01-28",
+    "items": [
+        {
+            "description": "Assimilated fresh-thinking contingency",
+            "quantity": 9,
+            "unit_price": 462.3,
+            "total_price": 4160.7
+        },
+        {
+            "description": "Enhanced coherent orchestration",
+            "quantity": 7,
+            "unit_price": 388.57,
+            "total_price": 2719.99
+        },
+        {
+            "description": "Re-contextualized reciprocal data-warehouse",
+            "quantity": 10,
+            "unit_price": 319.33,
+            "total_price": 3193.3
+        }
+    ],
+    "amount": 10073.99
+}

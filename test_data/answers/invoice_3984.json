@@ -1,0 +1,20 @@
+{
+    "vendor_name": "House Ltd",
+    "invoice_number": "INV-38136",
+    "date": "2025-10-08",
+    "items": [
+        {
+            "description": "Reactive bandwidth-monitored architecture",
+            "quantity": 6,
+            "unit_price": 455.38,
+            "total_price": 2732.28
+        },
+        {
+            "description": "Diverse 24/7 task-force",
+            "quantity": 6,
+            "unit_price": 156.75,
+            "total_price": 940.5
+        }
+    ],
+    "amount": 3672.78
+}

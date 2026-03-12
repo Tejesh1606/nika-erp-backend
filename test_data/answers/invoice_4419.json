@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mason, Sherman and Deleon",
+    "invoice_number": "INV-74490",
+    "date": "2025-07-18",
+    "items": [
+        {
+            "description": "Fundamental bi-directional support",
+            "quantity": 6,
+            "unit_price": 475.34,
+            "total_price": 2852.04
+        },
+        {
+            "description": "Programmable cohesive methodology",
+            "quantity": 9,
+            "unit_price": 134.58,
+            "total_price": 1211.22
+        },
+        {
+            "description": "Vision-oriented modular benchmark",
+            "quantity": 9,
+            "unit_price": 169.08,
+            "total_price": 1521.72
+        }
+    ],
+    "amount": 5584.98
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Espinoza and Sons",
+    "invoice_number": "INV-59734",
+    "date": "2025-10-28",
+    "items": [
+        {
+            "description": "Phased 4thgeneration software",
+            "quantity": 4,
+            "unit_price": 203.54,
+            "total_price": 814.16
+        },
+        {
+            "description": "Re-contextualized dynamic project",
+            "quantity": 9,
+            "unit_price": 324.34,
+            "total_price": 2919.06
+        }
+    ],
+    "amount": 3733.22
+}

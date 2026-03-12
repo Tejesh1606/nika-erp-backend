@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Garcia Inc",
+    "invoice_number": "INV-25691",
+    "date": "2026-02-25",
+    "items": [
+        {
+            "description": "Monitored encompassing orchestration",
+            "quantity": 1,
+            "unit_price": 454.28,
+            "total_price": 454.28
+        },
+        {
+            "description": "Managed regional product",
+            "quantity": 10,
+            "unit_price": 203.92,
+            "total_price": 2039.2
+        },
+        {
+            "description": "User-centric solution-oriented project",
+            "quantity": 9,
+            "unit_price": 254.2,
+            "total_price": 2287.8
+        }
+    ],
+    "amount": 4781.28
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Dominguez, Adams and Hernandez",
+    "invoice_number": "INV-99021",
+    "date": "2025-09-24",
+    "items": [
+        {
+            "description": "Profound scalable analyzer",
+            "quantity": 6,
+            "unit_price": 413.14,
+            "total_price": 2478.84
+        },
+        {
+            "description": "Public-key user-facing methodology",
+            "quantity": 5,
+            "unit_price": 173.79,
+            "total_price": 868.95
+        }
+    ],
+    "amount": 3347.79
+}

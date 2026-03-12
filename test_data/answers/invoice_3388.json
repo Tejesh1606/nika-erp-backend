@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Harrison, Howard and Cox",
+    "invoice_number": "INV-46620",
+    "date": "2025-04-13",
+    "items": [
+        {
+            "description": "Polarized intermediate utilization",
+            "quantity": 8,
+            "unit_price": 142.01,
+            "total_price": 1136.08
+        }
+    ],
+    "amount": 1136.08
+}

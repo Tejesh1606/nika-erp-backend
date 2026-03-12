@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Taylor, Walton and Brewer",
+    "invoice_number": "INV-34707",
+    "date": "2025-11-04",
+    "items": [
+        {
+            "description": "Optimized intangible hierarchy",
+            "quantity": 6,
+            "unit_price": 281.22,
+            "total_price": 1687.32
+        }
+    ],
+    "amount": 1687.32
+}

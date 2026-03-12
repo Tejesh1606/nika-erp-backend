@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Nichols, Smith and Brooks",
+    "invoice_number": "INV-82813",
+    "date": "2026-02-24",
+    "items": [
+        {
+            "description": "Organized 24hour data-warehouse",
+            "quantity": 10,
+            "unit_price": 303.41,
+            "total_price": 3034.1
+        }
+    ],
+    "amount": 3034.1
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jensen, Nguyen and Ramirez",
+    "invoice_number": "INV-33352",
+    "date": "2025-10-18",
+    "items": [
+        {
+            "description": "Progressive bi-directional secured line",
+            "quantity": 3,
+            "unit_price": 414.95,
+            "total_price": 1244.85
+        },
+        {
+            "description": "Ergonomic dynamic project",
+            "quantity": 10,
+            "unit_price": 70.4,
+            "total_price": 704.0
+        },
+        {
+            "description": "Distributed executive archive",
+            "quantity": 1,
+            "unit_price": 207.66,
+            "total_price": 207.66
+        }
+    ],
+    "amount": 2156.51
+}

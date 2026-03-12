@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Norton-Moore",
+    "invoice_number": "INV-57014",
+    "date": "2025-10-15",
+    "items": [
+        {
+            "description": "Distributed 3rdgeneration instruction set",
+            "quantity": 5,
+            "unit_price": 326.1,
+            "total_price": 1630.5
+        },
+        {
+            "description": "Configurable impactful hardware",
+            "quantity": 6,
+            "unit_price": 242.46,
+            "total_price": 1454.76
+        },
+        {
+            "description": "Quality-focused attitude-oriented circuit",
+            "quantity": 5,
+            "unit_price": 467.03,
+            "total_price": 2335.15
+        },
+        {
+            "description": "Robust client-driven algorithm",
+            "quantity": 6,
+            "unit_price": 415.21,
+            "total_price": 2491.26
+        }
+    ],
+    "amount": 7911.67
+}

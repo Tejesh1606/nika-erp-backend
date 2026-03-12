@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Walker, Bradshaw and Martin",
+    "invoice_number": "INV-37574",
+    "date": "2025-09-05",
+    "items": [
+        {
+            "description": "Proactive full-range analyzer",
+            "quantity": 7,
+            "unit_price": 176.83,
+            "total_price": 1237.81
+        },
+        {
+            "description": "Future-proofed executive utilization",
+            "quantity": 2,
+            "unit_price": 123.54,
+            "total_price": 247.08
+        }
+    ],
+    "amount": 1484.89
+}

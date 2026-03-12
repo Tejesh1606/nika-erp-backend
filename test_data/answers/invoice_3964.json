@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wagner-Mercer",
+    "invoice_number": "INV-28184",
+    "date": "2025-11-20",
+    "items": [
+        {
+            "description": "Cloned next generation groupware",
+            "quantity": 9,
+            "unit_price": 226.07,
+            "total_price": 2034.63
+        }
+    ],
+    "amount": 2034.63
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "York LLC",
+    "invoice_number": "INV-14239",
+    "date": "2025-09-02",
+    "items": [
+        {
+            "description": "Mandatory bottom-line synergy",
+            "quantity": 2,
+            "unit_price": 12.6,
+            "total_price": 25.2
+        },
+        {
+            "description": "Reduced cohesive info-mediaries",
+            "quantity": 9,
+            "unit_price": 150.15,
+            "total_price": 1351.35
+        },
+        {
+            "description": "Persistent methodical productivity",
+            "quantity": 4,
+            "unit_price": 16.17,
+            "total_price": 64.68
+        }
+    ],
+    "amount": 1441.23
+}

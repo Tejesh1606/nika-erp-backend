@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Patterson-Adams",
+    "invoice_number": "INV-50596",
+    "date": "2025-11-02",
+    "items": [
+        {
+            "description": "Stand-alone bi-directional moderator",
+            "quantity": 1,
+            "unit_price": 18.4,
+            "total_price": 18.4
+        },
+        {
+            "description": "Stand-alone hybrid attitude",
+            "quantity": 4,
+            "unit_price": 495.93,
+            "total_price": 1983.72
+        },
+        {
+            "description": "Integrated human-resource complexity",
+            "quantity": 2,
+            "unit_price": 227.69,
+            "total_price": 455.38
+        }
+    ],
+    "amount": 2457.5
+}

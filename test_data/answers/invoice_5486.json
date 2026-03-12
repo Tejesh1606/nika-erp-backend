@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Castro and Sons",
+    "invoice_number": "INV-24003",
+    "date": "2025-10-16",
+    "items": [
+        {
+            "description": "Cross-platform coherent projection",
+            "quantity": 5,
+            "unit_price": 468.43,
+            "total_price": 2342.15
+        },
+        {
+            "description": "Open-source actuating firmware",
+            "quantity": 1,
+            "unit_price": 413.8,
+            "total_price": 413.8
+        },
+        {
+            "description": "Total upward-trending moratorium",
+            "quantity": 6,
+            "unit_price": 393.07,
+            "total_price": 2358.42
+        },
+        {
+            "description": "Multi-channeled value-added moderator",
+            "quantity": 7,
+            "unit_price": 91.98,
+            "total_price": 643.86
+        }
+    ],
+    "amount": 5758.23
+}

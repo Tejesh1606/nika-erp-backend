@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Phillips Inc",
+    "invoice_number": "INV-83272",
+    "date": "2025-08-21",
+    "items": [
+        {
+            "description": "Phased content-based circuit",
+            "quantity": 1,
+            "unit_price": 46.74,
+            "total_price": 46.74
+        },
+        {
+            "description": "Inverse multi-state infrastructure",
+            "quantity": 2,
+            "unit_price": 119.01,
+            "total_price": 238.02
+        },
+        {
+            "description": "Profit-focused encompassing model",
+            "quantity": 5,
+            "unit_price": 220.05,
+            "total_price": 1100.25
+        },
+        {
+            "description": "Compatible 4thgeneration implementation",
+            "quantity": 8,
+            "unit_price": 322.22,
+            "total_price": 2577.76
+        }
+    ],
+    "amount": 3962.77
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hernandez PLC",
+    "invoice_number": "INV-75915",
+    "date": "2025-06-26",
+    "items": [
+        {
+            "description": "Reduced object-oriented customer loyalty",
+            "quantity": 3,
+            "unit_price": 79.63,
+            "total_price": 238.89
+        },
+        {
+            "description": "Reduced coherent utilization",
+            "quantity": 7,
+            "unit_price": 141.99,
+            "total_price": 993.93
+        }
+    ],
+    "amount": 1232.82
+}

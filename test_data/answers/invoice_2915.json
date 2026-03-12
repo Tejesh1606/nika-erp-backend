@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Long, Smith and Hawkins",
+    "invoice_number": "INV-76916",
+    "date": "2025-12-28",
+    "items": [
+        {
+            "description": "Programmable impactful product",
+            "quantity": 8,
+            "unit_price": 376.09,
+            "total_price": 3008.72
+        },
+        {
+            "description": "Progressive value-added throughput",
+            "quantity": 10,
+            "unit_price": 240.06,
+            "total_price": 2400.6
+        },
+        {
+            "description": "Open-source full-range implementation",
+            "quantity": 9,
+            "unit_price": 180.16,
+            "total_price": 1621.44
+        },
+        {
+            "description": "Team-oriented stable collaboration",
+            "quantity": 10,
+            "unit_price": 124.09,
+            "total_price": 1240.9
+        }
+    ],
+    "amount": 8271.66
+}

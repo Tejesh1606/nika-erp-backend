@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Byrd Ltd",
+    "invoice_number": "INV-43951",
+    "date": "2025-06-16",
+    "items": [
+        {
+            "description": "Robust value-added adapter",
+            "quantity": 6,
+            "unit_price": 228.93,
+            "total_price": 1373.58
+        },
+        {
+            "description": "Devolved bottom-line project",
+            "quantity": 5,
+            "unit_price": 482.19,
+            "total_price": 2410.95
+        },
+        {
+            "description": "Open-source interactive infrastructure",
+            "quantity": 8,
+            "unit_price": 298.05,
+            "total_price": 2384.4
+        },
+        {
+            "description": "Pre-emptive actuating moderator",
+            "quantity": 7,
+            "unit_price": 241.68,
+            "total_price": 1691.76
+        }
+    ],
+    "amount": 7860.69
+}

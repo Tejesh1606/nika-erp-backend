@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wallace, Stevens and Martin",
+    "invoice_number": "INV-44170",
+    "date": "2025-12-07",
+    "items": [
+        {
+            "description": "Devolved 4thgeneration analyzer",
+            "quantity": 6,
+            "unit_price": 199.2,
+            "total_price": 1195.2
+        },
+        {
+            "description": "Switchable scalable hardware",
+            "quantity": 2,
+            "unit_price": 215.7,
+            "total_price": 431.4
+        }
+    ],
+    "amount": 1626.6
+}

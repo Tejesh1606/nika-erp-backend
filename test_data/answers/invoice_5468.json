@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Daugherty, Newman and Walter",
+    "invoice_number": "INV-51027",
+    "date": "2025-12-02",
+    "items": [
+        {
+            "description": "Ameliorated fresh-thinking architecture",
+            "quantity": 9,
+            "unit_price": 58.38,
+            "total_price": 525.42
+        },
+        {
+            "description": "Future-proofed reciprocal algorithm",
+            "quantity": 10,
+            "unit_price": 489.02,
+            "total_price": 4890.2
+        },
+        {
+            "description": "Integrated motivating system engine",
+            "quantity": 3,
+            "unit_price": 217.37,
+            "total_price": 652.11
+        }
+    ],
+    "amount": 6067.73
+}

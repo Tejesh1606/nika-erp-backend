@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Williams-Green",
+    "invoice_number": "INV-51187",
+    "date": "2025-03-13",
+    "items": [
+        {
+            "description": "Triple-buffered systematic moderator",
+            "quantity": 8,
+            "unit_price": 341.15,
+            "total_price": 2729.2
+        },
+        {
+            "description": "Visionary value-added orchestration",
+            "quantity": 1,
+            "unit_price": 298.11,
+            "total_price": 298.11
+        },
+        {
+            "description": "Up-sized non-volatile definition",
+            "quantity": 9,
+            "unit_price": 223.77,
+            "total_price": 2013.93
+        }
+    ],
+    "amount": 5041.24
+}

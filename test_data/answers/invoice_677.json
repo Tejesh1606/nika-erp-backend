@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Roberts-Henry",
+    "invoice_number": "INV-49582",
+    "date": "2026-01-27",
+    "items": [
+        {
+            "description": "Reduced exuding methodology",
+            "quantity": 6,
+            "unit_price": 105.92,
+            "total_price": 635.52
+        },
+        {
+            "description": "Realigned user-facing Local Area Network",
+            "quantity": 3,
+            "unit_price": 407.94,
+            "total_price": 1223.82
+        }
+    ],
+    "amount": 1859.34
+}

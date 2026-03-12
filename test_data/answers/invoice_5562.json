@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hurley-Esparza",
+    "invoice_number": "INV-84645",
+    "date": "2025-10-16",
+    "items": [
+        {
+            "description": "Robust non-volatile data-warehouse",
+            "quantity": 10,
+            "unit_price": 284.43,
+            "total_price": 2844.3
+        },
+        {
+            "description": "Synchronized multi-tasking benchmark",
+            "quantity": 6,
+            "unit_price": 188.61,
+            "total_price": 1131.66
+        }
+    ],
+    "amount": 3975.96
+}

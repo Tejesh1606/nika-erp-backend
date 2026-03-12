@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Velazquez, Ortiz and Davis",
+    "invoice_number": "INV-59557",
+    "date": "2026-02-18",
+    "items": [
+        {
+            "description": "Optimized foreground middleware",
+            "quantity": 10,
+            "unit_price": 478.41,
+            "total_price": 4784.1
+        },
+        {
+            "description": "Secured local middleware",
+            "quantity": 1,
+            "unit_price": 152.82,
+            "total_price": 152.82
+        },
+        {
+            "description": "Synergistic cohesive strategy",
+            "quantity": 3,
+            "unit_price": 330.69,
+            "total_price": 992.07
+        }
+    ],
+    "amount": 5928.99
+}

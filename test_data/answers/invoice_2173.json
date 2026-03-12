@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mccoy, Jackson and Garcia",
+    "invoice_number": "INV-71343",
+    "date": "2025-10-19",
+    "items": [
+        {
+            "description": "Business-focused holistic functionalities",
+            "quantity": 3,
+            "unit_price": 381.79,
+            "total_price": 1145.37
+        },
+        {
+            "description": "Digitized next generation interface",
+            "quantity": 1,
+            "unit_price": 90.85,
+            "total_price": 90.85
+        },
+        {
+            "description": "Optimized optimal database",
+            "quantity": 7,
+            "unit_price": 243.98,
+            "total_price": 1707.86
+        },
+        {
+            "description": "Face-to-face holistic array",
+            "quantity": 10,
+            "unit_price": 234.1,
+            "total_price": 2341.0
+        }
+    ],
+    "amount": 5285.08
+}

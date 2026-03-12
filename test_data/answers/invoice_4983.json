@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Braun, Manning and Reed",
+    "invoice_number": "INV-21398",
+    "date": "2025-09-22",
+    "items": [
+        {
+            "description": "Expanded dedicated time-frame",
+            "quantity": 7,
+            "unit_price": 198.71,
+            "total_price": 1390.97
+        },
+        {
+            "description": "Proactive next generation model",
+            "quantity": 5,
+            "unit_price": 150.9,
+            "total_price": 754.5
+        },
+        {
+            "description": "Customer-focused exuding projection",
+            "quantity": 2,
+            "unit_price": 175.11,
+            "total_price": 350.22
+        },
+        {
+            "description": "Pre-emptive web-enabled strategy",
+            "quantity": 6,
+            "unit_price": 436.22,
+            "total_price": 2617.32
+        }
+    ],
+    "amount": 5113.01
+}

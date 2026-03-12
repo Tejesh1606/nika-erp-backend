@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Norris Inc",
+    "invoice_number": "INV-43962",
+    "date": "2025-06-13",
+    "items": [
+        {
+            "description": "Mandatory optimal projection",
+            "quantity": 7,
+            "unit_price": 328.56,
+            "total_price": 2299.92
+        },
+        {
+            "description": "Profound demand-driven pricing structure",
+            "quantity": 10,
+            "unit_price": 306.58,
+            "total_price": 3065.8
+        },
+        {
+            "description": "Programmable full-range product",
+            "quantity": 5,
+            "unit_price": 455.94,
+            "total_price": 2279.7
+        }
+    ],
+    "amount": 7645.42
+}

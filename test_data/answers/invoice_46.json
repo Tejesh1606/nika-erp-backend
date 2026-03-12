@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Davis-Crane",
+    "invoice_number": "INV-40784",
+    "date": "2025-11-25",
+    "items": [
+        {
+            "description": "Integrated directional workforce",
+            "quantity": 7,
+            "unit_price": 344.32,
+            "total_price": 2410.24
+        },
+        {
+            "description": "Exclusive client-server algorithm",
+            "quantity": 6,
+            "unit_price": 127.1,
+            "total_price": 762.6
+        }
+    ],
+    "amount": 3172.84
+}

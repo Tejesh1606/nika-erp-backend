@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Estrada and Sons",
+    "invoice_number": "INV-46201",
+    "date": "2025-08-05",
+    "items": [
+        {
+            "description": "Networked analyzing website",
+            "quantity": 8,
+            "unit_price": 401.42,
+            "total_price": 3211.36
+        },
+        {
+            "description": "Secured global firmware",
+            "quantity": 7,
+            "unit_price": 490.69,
+            "total_price": 3434.83
+        },
+        {
+            "description": "Phased systemic application",
+            "quantity": 4,
+            "unit_price": 284.67,
+            "total_price": 1138.68
+        },
+        {
+            "description": "Up-sized stable application",
+            "quantity": 10,
+            "unit_price": 491.36,
+            "total_price": 4913.6
+        }
+    ],
+    "amount": 12698.47
+}

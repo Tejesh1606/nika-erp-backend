@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Sheppard, Berg and Barnett",
+    "invoice_number": "INV-65080",
+    "date": "2025-03-22",
+    "items": [
+        {
+            "description": "Progressive object-oriented model",
+            "quantity": 9,
+            "unit_price": 322.99,
+            "total_price": 2906.91
+        },
+        {
+            "description": "Profit-focused needs-based hardware",
+            "quantity": 4,
+            "unit_price": 351.01,
+            "total_price": 1404.04
+        }
+    ],
+    "amount": 4310.95
+}

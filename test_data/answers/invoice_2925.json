@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Murphy, Alvarez and Fowler",
+    "invoice_number": "INV-32616",
+    "date": "2026-03-02",
+    "items": [
+        {
+            "description": "Grass-roots client-server capacity",
+            "quantity": 10,
+            "unit_price": 239.3,
+            "total_price": 2393.0
+        },
+        {
+            "description": "Progressive even-keeled task-force",
+            "quantity": 7,
+            "unit_price": 396.66,
+            "total_price": 2776.62
+        },
+        {
+            "description": "Quality-focused value-added data-warehouse",
+            "quantity": 4,
+            "unit_price": 117.8,
+            "total_price": 471.2
+        }
+    ],
+    "amount": 5640.82
+}

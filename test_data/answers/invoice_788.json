@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Keller Ltd",
+    "invoice_number": "INV-29785",
+    "date": "2026-02-22",
+    "items": [
+        {
+            "description": "Re-engineered analyzing product",
+            "quantity": 3,
+            "unit_price": 486.29,
+            "total_price": 1458.87
+        },
+        {
+            "description": "Universal stable model",
+            "quantity": 2,
+            "unit_price": 247.59,
+            "total_price": 495.18
+        },
+        {
+            "description": "Implemented intangible initiative",
+            "quantity": 1,
+            "unit_price": 217.82,
+            "total_price": 217.82
+        }
+    ],
+    "amount": 2171.87
+}

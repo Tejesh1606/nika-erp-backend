@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Bauer PLC",
+    "invoice_number": "INV-19232",
+    "date": "2025-10-18",
+    "items": [
+        {
+            "description": "Focused empowering installation",
+            "quantity": 8,
+            "unit_price": 445.45,
+            "total_price": 3563.6
+        }
+    ],
+    "amount": 3563.6
+}

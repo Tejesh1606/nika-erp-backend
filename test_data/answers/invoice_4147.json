@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Shelton-Hudson",
+    "invoice_number": "INV-72742",
+    "date": "2025-10-10",
+    "items": [
+        {
+            "description": "Self-enabling responsive collaboration",
+            "quantity": 4,
+            "unit_price": 333.22,
+            "total_price": 1332.88
+        },
+        {
+            "description": "Devolved 3rdgeneration analyzer",
+            "quantity": 10,
+            "unit_price": 110.83,
+            "total_price": 1108.3
+        },
+        {
+            "description": "Reactive transitional project",
+            "quantity": 4,
+            "unit_price": 470.59,
+            "total_price": 1882.36
+        },
+        {
+            "description": "Decentralized 3rdgeneration toolset",
+            "quantity": 2,
+            "unit_price": 42.93,
+            "total_price": 85.86
+        }
+    ],
+    "amount": 4409.4
+}

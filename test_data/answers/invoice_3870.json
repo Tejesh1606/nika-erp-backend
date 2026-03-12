@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Case PLC",
+    "invoice_number": "INV-96198",
+    "date": "2025-09-27",
+    "items": [
+        {
+            "description": "Decentralized object-oriented approach",
+            "quantity": 6,
+            "unit_price": 117.15,
+            "total_price": 702.9
+        },
+        {
+            "description": "Decentralized bandwidth-monitored system engine",
+            "quantity": 9,
+            "unit_price": 372.68,
+            "total_price": 3354.12
+        },
+        {
+            "description": "Grass-roots full-range standardization",
+            "quantity": 1,
+            "unit_price": 130.33,
+            "total_price": 130.33
+        }
+    ],
+    "amount": 4187.35
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Johnson Ltd",
+    "invoice_number": "INV-56771",
+    "date": "2026-02-06",
+    "items": [
+        {
+            "description": "Inverse methodical Local Area Network",
+            "quantity": 7,
+            "unit_price": 193.31,
+            "total_price": 1353.17
+        },
+        {
+            "description": "Quality-focused encompassing neural-net",
+            "quantity": 6,
+            "unit_price": 385.13,
+            "total_price": 2310.78
+        },
+        {
+            "description": "Organic client-driven standardization",
+            "quantity": 1,
+            "unit_price": 250.17,
+            "total_price": 250.17
+        }
+    ],
+    "amount": 3914.12
+}

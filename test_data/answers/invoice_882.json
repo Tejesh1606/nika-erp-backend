@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Martinez-Figueroa",
+    "invoice_number": "INV-32079",
+    "date": "2025-04-08",
+    "items": [
+        {
+            "description": "Synchronized well-modulated access",
+            "quantity": 5,
+            "unit_price": 326.54,
+            "total_price": 1632.7
+        },
+        {
+            "description": "Synergistic encompassing collaboration",
+            "quantity": 3,
+            "unit_price": 467.34,
+            "total_price": 1402.02
+        },
+        {
+            "description": "Organic heuristic conglomeration",
+            "quantity": 3,
+            "unit_price": 148.43,
+            "total_price": 445.29
+        }
+    ],
+    "amount": 3480.01
+}

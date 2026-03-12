@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Baker and Sons",
+    "invoice_number": "INV-25771",
+    "date": "2026-03-01",
+    "items": [
+        {
+            "description": "Sharable value-added software",
+            "quantity": 6,
+            "unit_price": 277.12,
+            "total_price": 1662.72
+        }
+    ],
+    "amount": 1662.72
+}

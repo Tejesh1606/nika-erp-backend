@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hayden Group",
+    "invoice_number": "INV-98740",
+    "date": "2025-09-22",
+    "items": [
+        {
+            "description": "Upgradable client-driven matrices",
+            "quantity": 8,
+            "unit_price": 107.41,
+            "total_price": 859.28
+        },
+        {
+            "description": "Proactive multimedia software",
+            "quantity": 10,
+            "unit_price": 61.57,
+            "total_price": 615.7
+        }
+    ],
+    "amount": 1474.98
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Haas LLC",
+    "invoice_number": "INV-98663",
+    "date": "2025-09-20",
+    "items": [
+        {
+            "description": "Multi-tiered multi-tasking structure",
+            "quantity": 1,
+            "unit_price": 52.57,
+            "total_price": 52.57
+        }
+    ],
+    "amount": 52.57
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hoffman, Brown and Hicks",
+    "invoice_number": "INV-92663",
+    "date": "2025-09-27",
+    "items": [
+        {
+            "description": "Multi-layered 4thgeneration knowledge user",
+            "quantity": 4,
+            "unit_price": 91.99,
+            "total_price": 367.96
+        }
+    ],
+    "amount": 367.96
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jones, Mendoza and Ramos",
+    "invoice_number": "INV-72394",
+    "date": "2025-05-24",
+    "items": [
+        {
+            "description": "Cross-platform needs-based parallelism",
+            "quantity": 1,
+            "unit_price": 394.72,
+            "total_price": 394.72
+        },
+        {
+            "description": "Extended radical matrix",
+            "quantity": 7,
+            "unit_price": 122.29,
+            "total_price": 856.03
+        },
+        {
+            "description": "Innovative non-volatile access",
+            "quantity": 1,
+            "unit_price": 140.38,
+            "total_price": 140.38
+        },
+        {
+            "description": "Reduced intermediate budgetary management",
+            "quantity": 8,
+            "unit_price": 245.86,
+            "total_price": 1966.88
+        }
+    ],
+    "amount": 3358.01
+}

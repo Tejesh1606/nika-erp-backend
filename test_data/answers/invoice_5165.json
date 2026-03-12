@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Little LLC",
+    "invoice_number": "INV-42343",
+    "date": "2026-02-12",
+    "items": [
+        {
+            "description": "Decentralized local groupware",
+            "quantity": 2,
+            "unit_price": 307.16,
+            "total_price": 614.32
+        },
+        {
+            "description": "Inverse 24hour firmware",
+            "quantity": 2,
+            "unit_price": 169.83,
+            "total_price": 339.66
+        }
+    ],
+    "amount": 953.98
+}

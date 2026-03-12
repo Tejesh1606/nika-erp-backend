@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Ramos Group",
+    "invoice_number": "INV-68620",
+    "date": "2025-08-29",
+    "items": [
+        {
+            "description": "Managed full-range ability",
+            "quantity": 7,
+            "unit_price": 31.94,
+            "total_price": 223.58
+        },
+        {
+            "description": "Automated zero-defect Graphic Interface",
+            "quantity": 4,
+            "unit_price": 177.75,
+            "total_price": 711.0
+        },
+        {
+            "description": "Ergonomic value-added functionalities",
+            "quantity": 2,
+            "unit_price": 358.83,
+            "total_price": 717.66
+        },
+        {
+            "description": "Polarized scalable product",
+            "quantity": 9,
+            "unit_price": 372.29,
+            "total_price": 3350.61
+        }
+    ],
+    "amount": 5002.85
+}

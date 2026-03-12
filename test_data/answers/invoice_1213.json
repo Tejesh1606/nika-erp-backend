@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Massey, Mills and Franco",
+    "invoice_number": "INV-40465",
+    "date": "2025-03-31",
+    "items": [
+        {
+            "description": "Visionary modular extranet",
+            "quantity": 8,
+            "unit_price": 80.44,
+            "total_price": 643.52
+        }
+    ],
+    "amount": 643.52
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cook-Johnson",
+    "invoice_number": "INV-97540",
+    "date": "2026-01-09",
+    "items": [
+        {
+            "description": "Balanced even-keeled core",
+            "quantity": 10,
+            "unit_price": 316.03,
+            "total_price": 3160.3
+        },
+        {
+            "description": "Proactive global project",
+            "quantity": 7,
+            "unit_price": 292.35,
+            "total_price": 2046.45
+        },
+        {
+            "description": "Exclusive user-facing benchmark",
+            "quantity": 6,
+            "unit_price": 63.91,
+            "total_price": 383.46
+        }
+    ],
+    "amount": 5590.21
+}

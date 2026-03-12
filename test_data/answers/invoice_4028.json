@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brown-Butler",
+    "invoice_number": "INV-80765",
+    "date": "2025-08-14",
+    "items": [
+        {
+            "description": "Public-key foreground info-mediaries",
+            "quantity": 7,
+            "unit_price": 372.95,
+            "total_price": 2610.65
+        },
+        {
+            "description": "Implemented responsive database",
+            "quantity": 9,
+            "unit_price": 366.94,
+            "total_price": 3302.46
+        },
+        {
+            "description": "Innovative leadingedge info-mediaries",
+            "quantity": 1,
+            "unit_price": 47.62,
+            "total_price": 47.62
+        }
+    ],
+    "amount": 5960.73
+}

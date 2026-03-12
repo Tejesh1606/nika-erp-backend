@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Vasquez, Kemp and Rodgers",
+    "invoice_number": "INV-77534",
+    "date": "2025-03-29",
+    "items": [
+        {
+            "description": "Front-line 3rdgeneration workforce",
+            "quantity": 2,
+            "unit_price": 37.48,
+            "total_price": 74.96
+        }
+    ],
+    "amount": 74.96
+}

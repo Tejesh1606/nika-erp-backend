@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Harris, Evans and Graham",
+    "invoice_number": "INV-90614",
+    "date": "2025-07-31",
+    "items": [
+        {
+            "description": "Face-to-face attitude-oriented alliance",
+            "quantity": 4,
+            "unit_price": 146.98,
+            "total_price": 587.92
+        }
+    ],
+    "amount": 587.92
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mccarthy Inc",
+    "invoice_number": "INV-10705",
+    "date": "2025-07-22",
+    "items": [
+        {
+            "description": "Exclusive value-added complexity",
+            "quantity": 1,
+            "unit_price": 164.24,
+            "total_price": 164.24
+        },
+        {
+            "description": "Quality-focused global core",
+            "quantity": 2,
+            "unit_price": 13.78,
+            "total_price": 27.56
+        },
+        {
+            "description": "Quality-focused hybrid core",
+            "quantity": 9,
+            "unit_price": 322.68,
+            "total_price": 2904.12
+        }
+    ],
+    "amount": 3095.92
+}

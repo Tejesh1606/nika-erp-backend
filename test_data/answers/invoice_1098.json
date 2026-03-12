@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wade Group",
+    "invoice_number": "INV-53785",
+    "date": "2025-03-17",
+    "items": [
+        {
+            "description": "Enhanced empowering archive",
+            "quantity": 6,
+            "unit_price": 378.85,
+            "total_price": 2273.1
+        }
+    ],
+    "amount": 2273.1
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Massey, King and Quinn",
+    "invoice_number": "INV-75580",
+    "date": "2025-07-18",
+    "items": [
+        {
+            "description": "Down-sized empowering knowledgebase",
+            "quantity": 2,
+            "unit_price": 222.64,
+            "total_price": 445.28
+        },
+        {
+            "description": "Innovative exuding capacity",
+            "quantity": 2,
+            "unit_price": 414.58,
+            "total_price": 829.16
+        },
+        {
+            "description": "Adaptive content-based Graphic Interface",
+            "quantity": 6,
+            "unit_price": 237.38,
+            "total_price": 1424.28
+        }
+    ],
+    "amount": 2698.72
+}

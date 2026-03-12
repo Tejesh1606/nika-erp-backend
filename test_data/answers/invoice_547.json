@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jensen, Obrien and Salazar",
+    "invoice_number": "INV-88166",
+    "date": "2025-06-07",
+    "items": [
+        {
+            "description": "Focused systemic algorithm",
+            "quantity": 1,
+            "unit_price": 389.77,
+            "total_price": 389.77
+        },
+        {
+            "description": "Multi-channeled attitude-oriented solution",
+            "quantity": 7,
+            "unit_price": 356.59,
+            "total_price": 2496.13
+        }
+    ],
+    "amount": 2885.9
+}

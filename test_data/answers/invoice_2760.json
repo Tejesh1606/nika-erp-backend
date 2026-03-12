@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Scott-Garcia",
+    "invoice_number": "INV-65615",
+    "date": "2025-03-20",
+    "items": [
+        {
+            "description": "Profound eco-centric moderator",
+            "quantity": 3,
+            "unit_price": 345.52,
+            "total_price": 1036.56
+        }
+    ],
+    "amount": 1036.56
+}

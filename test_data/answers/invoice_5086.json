@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Murray-Arnold",
+    "invoice_number": "INV-55402",
+    "date": "2026-02-07",
+    "items": [
+        {
+            "description": "Assimilated multi-state secured line",
+            "quantity": 5,
+            "unit_price": 98.12,
+            "total_price": 490.6
+        },
+        {
+            "description": "Ameliorated heuristic project",
+            "quantity": 6,
+            "unit_price": 40.9,
+            "total_price": 245.4
+        },
+        {
+            "description": "Team-oriented logistical product",
+            "quantity": 4,
+            "unit_price": 279.04,
+            "total_price": 1116.16
+        },
+        {
+            "description": "Cloned asymmetric methodology",
+            "quantity": 6,
+            "unit_price": 293.91,
+            "total_price": 1763.46
+        }
+    ],
+    "amount": 3615.62
+}

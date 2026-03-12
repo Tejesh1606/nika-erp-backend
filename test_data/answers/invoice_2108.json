@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Griffin, Bryan and Sullivan",
+    "invoice_number": "INV-89876",
+    "date": "2025-10-25",
+    "items": [
+        {
+            "description": "Seamless even-keeled orchestration",
+            "quantity": 5,
+            "unit_price": 43.71,
+            "total_price": 218.55
+        },
+        {
+            "description": "Team-oriented multi-tasking attitude",
+            "quantity": 8,
+            "unit_price": 167.76,
+            "total_price": 1342.08
+        }
+    ],
+    "amount": 1560.63
+}

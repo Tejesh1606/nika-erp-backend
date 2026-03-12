@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Dixon-Sanchez",
+    "invoice_number": "INV-29853",
+    "date": "2026-02-16",
+    "items": [
+        {
+            "description": "Customizable background info-mediaries",
+            "quantity": 6,
+            "unit_price": 105.7,
+            "total_price": 634.2
+        },
+        {
+            "description": "Object-based leadingedge definition",
+            "quantity": 10,
+            "unit_price": 187.65,
+            "total_price": 1876.5
+        },
+        {
+            "description": "Devolved reciprocal ability",
+            "quantity": 4,
+            "unit_price": 472.71,
+            "total_price": 1890.84
+        },
+        {
+            "description": "Horizontal systematic groupware",
+            "quantity": 9,
+            "unit_price": 213.56,
+            "total_price": 1922.04
+        }
+    ],
+    "amount": 6323.58
+}

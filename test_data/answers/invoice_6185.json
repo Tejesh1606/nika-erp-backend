@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rose and Sons",
+    "invoice_number": "INV-55100",
+    "date": "2026-03-01",
+    "items": [
+        {
+            "description": "Reverse-engineered scalable conglomeration",
+            "quantity": 6,
+            "unit_price": 419.35,
+            "total_price": 2516.1
+        },
+        {
+            "description": "Extended actuating info-mediaries",
+            "quantity": 8,
+            "unit_price": 41.26,
+            "total_price": 330.08
+        },
+        {
+            "description": "Monitored bandwidth-monitored budgetary management",
+            "quantity": 7,
+            "unit_price": 451.88,
+            "total_price": 3163.16
+        },
+        {
+            "description": "Polarized incremental open architecture",
+            "quantity": 8,
+            "unit_price": 324.87,
+            "total_price": 2598.96
+        }
+    ],
+    "amount": 8608.3
+}

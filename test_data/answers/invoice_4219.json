@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Martin-Nichols",
+    "invoice_number": "INV-65779",
+    "date": "2025-07-17",
+    "items": [
+        {
+            "description": "Synchronized incremental analyzer",
+            "quantity": 1,
+            "unit_price": 168.41,
+            "total_price": 168.41
+        },
+        {
+            "description": "Open-architected methodical matrices",
+            "quantity": 8,
+            "unit_price": 380.57,
+            "total_price": 3044.56
+        },
+        {
+            "description": "Multi-layered grid-enabled open system",
+            "quantity": 9,
+            "unit_price": 75.54,
+            "total_price": 679.86
+        }
+    ],
+    "amount": 3892.83
+}

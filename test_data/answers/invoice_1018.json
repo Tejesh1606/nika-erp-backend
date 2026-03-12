@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Rush, Harrison and Sharp",
+    "invoice_number": "INV-68192",
+    "date": "2026-01-06",
+    "items": [
+        {
+            "description": "Stand-alone system-worthy access",
+            "quantity": 7,
+            "unit_price": 108.27,
+            "total_price": 757.89
+        }
+    ],
+    "amount": 757.89
+}

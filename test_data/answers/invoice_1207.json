@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ellison, Davis and Chapman",
+    "invoice_number": "INV-61265",
+    "date": "2025-05-23",
+    "items": [
+        {
+            "description": "Robust fault-tolerant toolset",
+            "quantity": 2,
+            "unit_price": 165.65,
+            "total_price": 331.3
+        },
+        {
+            "description": "Inverse interactive migration",
+            "quantity": 8,
+            "unit_price": 206.62,
+            "total_price": 1652.96
+        },
+        {
+            "description": "User-friendly 3rdgeneration framework",
+            "quantity": 5,
+            "unit_price": 444.06,
+            "total_price": 2220.3
+        }
+    ],
+    "amount": 4204.56
+}

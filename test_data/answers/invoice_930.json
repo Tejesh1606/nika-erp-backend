@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Flores-Diaz",
+    "invoice_number": "INV-99037",
+    "date": "2026-03-06",
+    "items": [
+        {
+            "description": "De-engineered multi-state protocol",
+            "quantity": 7,
+            "unit_price": 93.07,
+            "total_price": 651.49
+        }
+    ],
+    "amount": 651.49
+}

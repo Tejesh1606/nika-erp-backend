@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Atkins, Snyder and Porter",
+    "invoice_number": "INV-14225",
+    "date": "2025-12-31",
+    "items": [
+        {
+            "description": "Configurable systematic capability",
+            "quantity": 5,
+            "unit_price": 146.18,
+            "total_price": 730.9
+        }
+    ],
+    "amount": 730.9
+}

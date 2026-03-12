@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Howard Group",
+    "invoice_number": "INV-23432",
+    "date": "2025-11-03",
+    "items": [
+        {
+            "description": "Synergistic user-facing open architecture",
+            "quantity": 8,
+            "unit_price": 433.49,
+            "total_price": 3467.92
+        }
+    ],
+    "amount": 3467.92
+}

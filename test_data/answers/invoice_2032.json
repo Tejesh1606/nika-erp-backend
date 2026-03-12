@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hicks LLC",
+    "invoice_number": "INV-97027",
+    "date": "2025-08-11",
+    "items": [
+        {
+            "description": "Focused object-oriented success",
+            "quantity": 8,
+            "unit_price": 96.11,
+            "total_price": 768.88
+        }
+    ],
+    "amount": 768.88
+}

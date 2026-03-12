@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hall-Haney",
+    "invoice_number": "INV-26976",
+    "date": "2025-05-06",
+    "items": [
+        {
+            "description": "Public-key heuristic standardization",
+            "quantity": 8,
+            "unit_price": 416.54,
+            "total_price": 3332.32
+        },
+        {
+            "description": "Open-architected cohesive throughput",
+            "quantity": 7,
+            "unit_price": 272.68,
+            "total_price": 1908.76
+        },
+        {
+            "description": "Visionary multi-state emulation",
+            "quantity": 5,
+            "unit_price": 62.68,
+            "total_price": 313.4
+        }
+    ],
+    "amount": 5554.48
+}

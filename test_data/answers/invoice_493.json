@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Thompson, Harper and Welch",
+    "invoice_number": "INV-93342",
+    "date": "2026-02-12",
+    "items": [
+        {
+            "description": "Re-contextualized intermediate moderator",
+            "quantity": 2,
+            "unit_price": 109.99,
+            "total_price": 219.98
+        },
+        {
+            "description": "Sharable scalable monitoring",
+            "quantity": 10,
+            "unit_price": 242.29,
+            "total_price": 2422.9
+        },
+        {
+            "description": "Integrated grid-enabled matrices",
+            "quantity": 2,
+            "unit_price": 170.98,
+            "total_price": 341.96
+        }
+    ],
+    "amount": 2984.84
+}

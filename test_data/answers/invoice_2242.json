@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ellis Inc",
+    "invoice_number": "INV-21761",
+    "date": "2025-12-14",
+    "items": [
+        {
+            "description": "User-friendly context-sensitive customer loyalty",
+            "quantity": 6,
+            "unit_price": 28.91,
+            "total_price": 173.46
+        }
+    ],
+    "amount": 173.46
+}

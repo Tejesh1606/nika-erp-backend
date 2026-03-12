@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Costa, Walsh and Johns",
+    "invoice_number": "INV-96736",
+    "date": "2026-01-21",
+    "items": [
+        {
+            "description": "Horizontal attitude-oriented data-warehouse",
+            "quantity": 9,
+            "unit_price": 230.24,
+            "total_price": 2072.16
+        }
+    ],
+    "amount": 2072.16
+}

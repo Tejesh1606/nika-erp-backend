@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Davis-Woods",
+    "invoice_number": "INV-49903",
+    "date": "2025-07-20",
+    "items": [
+        {
+            "description": "Multi-channeled foreground system engine",
+            "quantity": 4,
+            "unit_price": 462.51,
+            "total_price": 1850.04
+        },
+        {
+            "description": "Synergized directional solution",
+            "quantity": 4,
+            "unit_price": 437.25,
+            "total_price": 1749.0
+        },
+        {
+            "description": "Persevering tangible alliance",
+            "quantity": 10,
+            "unit_price": 135.61,
+            "total_price": 1356.1
+        }
+    ],
+    "amount": 4955.14
+}

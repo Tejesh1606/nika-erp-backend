@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Carr LLC",
+    "invoice_number": "INV-82410",
+    "date": "2025-06-25",
+    "items": [
+        {
+            "description": "User-centric heuristic focus group",
+            "quantity": 8,
+            "unit_price": 188.25,
+            "total_price": 1506.0
+        },
+        {
+            "description": "User-friendly composite complexity",
+            "quantity": 7,
+            "unit_price": 67.5,
+            "total_price": 472.5
+        },
+        {
+            "description": "Multi-layered optimal groupware",
+            "quantity": 1,
+            "unit_price": 15.56,
+            "total_price": 15.56
+        }
+    ],
+    "amount": 1994.06
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Ryan-Lewis",
+    "invoice_number": "INV-96018",
+    "date": "2025-07-01",
+    "items": [
+        {
+            "description": "Versatile modular initiative",
+            "quantity": 9,
+            "unit_price": 296.58,
+            "total_price": 2669.22
+        },
+        {
+            "description": "Persevering systemic process improvement",
+            "quantity": 9,
+            "unit_price": 282.97,
+            "total_price": 2546.73
+        },
+        {
+            "description": "Assimilated actuating intranet",
+            "quantity": 7,
+            "unit_price": 275.34,
+            "total_price": 1927.38
+        },
+        {
+            "description": "Profit-focused coherent function",
+            "quantity": 2,
+            "unit_price": 49.61,
+            "total_price": 99.22
+        }
+    ],
+    "amount": 7242.55
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hopkins, White and Nguyen",
+    "invoice_number": "INV-39557",
+    "date": "2025-08-10",
+    "items": [
+        {
+            "description": "Sharable composite collaboration",
+            "quantity": 3,
+            "unit_price": 389.95,
+            "total_price": 1169.85
+        },
+        {
+            "description": "Ergonomic needs-based projection",
+            "quantity": 5,
+            "unit_price": 494.61,
+            "total_price": 2473.05
+        }
+    ],
+    "amount": 3642.9
+}

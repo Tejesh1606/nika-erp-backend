@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Perry Ltd",
+    "invoice_number": "INV-38371",
+    "date": "2025-04-05",
+    "items": [
+        {
+            "description": "Upgradable disintermediate parallelism",
+            "quantity": 10,
+            "unit_price": 217.43,
+            "total_price": 2174.3
+        },
+        {
+            "description": "Managed reciprocal projection",
+            "quantity": 3,
+            "unit_price": 462.35,
+            "total_price": 1387.05
+        },
+        {
+            "description": "Implemented disintermediate Graphic Interface",
+            "quantity": 10,
+            "unit_price": 35.74,
+            "total_price": 357.4
+        }
+    ],
+    "amount": 3918.75
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hawkins Inc",
+    "invoice_number": "INV-28972",
+    "date": "2025-10-31",
+    "items": [
+        {
+            "description": "Monitored background frame",
+            "quantity": 4,
+            "unit_price": 203.44,
+            "total_price": 813.76
+        },
+        {
+            "description": "Managed contextually-based structure",
+            "quantity": 4,
+            "unit_price": 90.33,
+            "total_price": 361.32
+        }
+    ],
+    "amount": 1175.08
+}

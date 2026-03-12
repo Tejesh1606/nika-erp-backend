@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Rodriguez, Lewis and Mclean",
+    "invoice_number": "INV-95936",
+    "date": "2025-11-05",
+    "items": [
+        {
+            "description": "Down-sized encompassing hierarchy",
+            "quantity": 8,
+            "unit_price": 171.71,
+            "total_price": 1373.68
+        },
+        {
+            "description": "Customizable intangible methodology",
+            "quantity": 9,
+            "unit_price": 62.34,
+            "total_price": 561.06
+        },
+        {
+            "description": "Re-engineered background methodology",
+            "quantity": 2,
+            "unit_price": 341.66,
+            "total_price": 683.32
+        }
+    ],
+    "amount": 2618.06
+}

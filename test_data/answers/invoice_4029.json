@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jennings PLC",
+    "invoice_number": "INV-80551",
+    "date": "2025-05-15",
+    "items": [
+        {
+            "description": "Expanded 3rdgeneration orchestration",
+            "quantity": 2,
+            "unit_price": 120.07,
+            "total_price": 240.14
+        },
+        {
+            "description": "Down-sized high-level moratorium",
+            "quantity": 10,
+            "unit_price": 32.51,
+            "total_price": 325.1
+        },
+        {
+            "description": "Organic context-sensitive model",
+            "quantity": 8,
+            "unit_price": 306.24,
+            "total_price": 2449.92
+        },
+        {
+            "description": "Right-sized solution-oriented productivity",
+            "quantity": 10,
+            "unit_price": 288.29,
+            "total_price": 2882.9
+        }
+    ],
+    "amount": 5898.06
+}

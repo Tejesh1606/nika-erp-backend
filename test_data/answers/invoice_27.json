@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Miller, Sandoval and Cunningham",
+    "invoice_number": "INV-51467",
+    "date": "2026-03-07",
+    "items": [
+        {
+            "description": "Fundamental demand-driven secured line",
+            "quantity": 1,
+            "unit_price": 475.32,
+            "total_price": 475.32
+        },
+        {
+            "description": "Universal foreground encoding",
+            "quantity": 3,
+            "unit_price": 263.6,
+            "total_price": 790.8
+        },
+        {
+            "description": "Fundamental hybrid capacity",
+            "quantity": 2,
+            "unit_price": 391.42,
+            "total_price": 782.84
+        },
+        {
+            "description": "Synchronized secondary framework",
+            "quantity": 6,
+            "unit_price": 180.33,
+            "total_price": 1081.98
+        }
+    ],
+    "amount": 3130.94
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Taylor-Kirk",
+    "invoice_number": "INV-61442",
+    "date": "2025-10-07",
+    "items": [
+        {
+            "description": "Adaptive bottom-line complexity",
+            "quantity": 6,
+            "unit_price": 208.85,
+            "total_price": 1253.1
+        },
+        {
+            "description": "Operative real-time Internet solution",
+            "quantity": 5,
+            "unit_price": 266.03,
+            "total_price": 1330.15
+        },
+        {
+            "description": "Down-sized full-range analyzer",
+            "quantity": 1,
+            "unit_price": 281.89,
+            "total_price": 281.89
+        }
+    ],
+    "amount": 2865.14
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mcdonald-Parrish",
+    "invoice_number": "INV-27112",
+    "date": "2025-12-30",
+    "items": [
+        {
+            "description": "Pre-emptive foreground pricing structure",
+            "quantity": 3,
+            "unit_price": 338.45,
+            "total_price": 1015.35
+        }
+    ],
+    "amount": 1015.35
+}

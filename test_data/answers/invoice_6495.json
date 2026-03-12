@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Davis Ltd",
+    "invoice_number": "INV-32992",
+    "date": "2026-01-09",
+    "items": [
+        {
+            "description": "Pre-emptive eco-centric throughput",
+            "quantity": 1,
+            "unit_price": 354.05,
+            "total_price": 354.05
+        }
+    ],
+    "amount": 354.05
+}

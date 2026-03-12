@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Brown, Schneider and Moore",
+    "invoice_number": "INV-71510",
+    "date": "2026-02-02",
+    "items": [
+        {
+            "description": "Proactive composite archive",
+            "quantity": 3,
+            "unit_price": 317.26,
+            "total_price": 951.78
+        },
+        {
+            "description": "Versatile mobile Graphic Interface",
+            "quantity": 3,
+            "unit_price": 247.41,
+            "total_price": 742.23
+        }
+    ],
+    "amount": 1694.01
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Spears Inc",
+    "invoice_number": "INV-88997",
+    "date": "2025-03-16",
+    "items": [
+        {
+            "description": "Future-proofed global product",
+            "quantity": 5,
+            "unit_price": 66.04,
+            "total_price": 330.2
+        }
+    ],
+    "amount": 330.2
+}

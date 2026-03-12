@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Horne, Cameron and Smith",
+    "invoice_number": "INV-57108",
+    "date": "2025-08-04",
+    "items": [
+        {
+            "description": "Seamless bandwidth-monitored focus group",
+            "quantity": 6,
+            "unit_price": 407.65,
+            "total_price": 2445.9
+        },
+        {
+            "description": "Optional systematic benchmark",
+            "quantity": 6,
+            "unit_price": 274.5,
+            "total_price": 1647.0
+        },
+        {
+            "description": "Multi-tiered systemic framework",
+            "quantity": 7,
+            "unit_price": 29.37,
+            "total_price": 205.59
+        },
+        {
+            "description": "Compatible grid-enabled leverage",
+            "quantity": 2,
+            "unit_price": 200.74,
+            "total_price": 401.48
+        }
+    ],
+    "amount": 4699.97
+}

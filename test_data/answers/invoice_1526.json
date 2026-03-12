@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hall and Sons",
+    "invoice_number": "INV-49366",
+    "date": "2025-04-29",
+    "items": [
+        {
+            "description": "User-friendly tangible infrastructure",
+            "quantity": 2,
+            "unit_price": 40.58,
+            "total_price": 81.16
+        },
+        {
+            "description": "Advanced holistic approach",
+            "quantity": 3,
+            "unit_price": 203.93,
+            "total_price": 611.79
+        }
+    ],
+    "amount": 692.95
+}

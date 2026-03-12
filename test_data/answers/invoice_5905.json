@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Martin Ltd",
+    "invoice_number": "INV-48724",
+    "date": "2025-07-20",
+    "items": [
+        {
+            "description": "Synergized disintermediate firmware",
+            "quantity": 6,
+            "unit_price": 414.0,
+            "total_price": 2484.0
+        },
+        {
+            "description": "Persevering empowering paradigm",
+            "quantity": 3,
+            "unit_price": 270.41,
+            "total_price": 811.23
+        },
+        {
+            "description": "Triple-buffered systemic architecture",
+            "quantity": 1,
+            "unit_price": 47.63,
+            "total_price": 47.63
+        },
+        {
+            "description": "Compatible impactful alliance",
+            "quantity": 6,
+            "unit_price": 128.43,
+            "total_price": 770.58
+        }
+    ],
+    "amount": 4113.44
+}

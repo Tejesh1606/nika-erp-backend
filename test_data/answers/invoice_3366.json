@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mcclure, Smith and Schwartz",
+    "invoice_number": "INV-50919",
+    "date": "2025-05-03",
+    "items": [
+        {
+            "description": "Streamlined demand-driven extranet",
+            "quantity": 6,
+            "unit_price": 177.48,
+            "total_price": 1064.88
+        },
+        {
+            "description": "Automated demand-driven synergy",
+            "quantity": 8,
+            "unit_price": 39.42,
+            "total_price": 315.36
+        }
+    ],
+    "amount": 1380.24
+}

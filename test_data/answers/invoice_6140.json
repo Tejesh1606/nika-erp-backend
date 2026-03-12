@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Vega-Walker",
+    "invoice_number": "INV-21445",
+    "date": "2025-10-11",
+    "items": [
+        {
+            "description": "Re-contextualized bifurcated alliance",
+            "quantity": 8,
+            "unit_price": 407.78,
+            "total_price": 3262.24
+        },
+        {
+            "description": "Assimilated fault-tolerant project",
+            "quantity": 1,
+            "unit_price": 261.74,
+            "total_price": 261.74
+        }
+    ],
+    "amount": 3523.98
+}

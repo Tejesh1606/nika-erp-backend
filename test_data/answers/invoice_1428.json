@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Thomas-Stevens",
+    "invoice_number": "INV-80975",
+    "date": "2026-02-02",
+    "items": [
+        {
+            "description": "Focused impactful capacity",
+            "quantity": 3,
+            "unit_price": 207.13,
+            "total_price": 621.39
+        },
+        {
+            "description": "Self-enabling heuristic database",
+            "quantity": 10,
+            "unit_price": 71.35,
+            "total_price": 713.5
+        }
+    ],
+    "amount": 1334.89
+}

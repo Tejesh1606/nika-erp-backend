@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Weber, Thompson and Kennedy",
+    "invoice_number": "INV-40415",
+    "date": "2025-07-25",
+    "items": [
+        {
+            "description": "Open-architected zero-defect array",
+            "quantity": 10,
+            "unit_price": 474.42,
+            "total_price": 4744.2
+        },
+        {
+            "description": "Managed system-worthy conglomeration",
+            "quantity": 10,
+            "unit_price": 115.63,
+            "total_price": 1156.3
+        }
+    ],
+    "amount": 5900.5
+}

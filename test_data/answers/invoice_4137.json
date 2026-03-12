@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Williams-Carney",
+    "invoice_number": "INV-96293",
+    "date": "2026-01-15",
+    "items": [
+        {
+            "description": "Programmable multi-tasking hardware",
+            "quantity": 9,
+            "unit_price": 297.59,
+            "total_price": 2678.31
+        },
+        {
+            "description": "Enterprise-wide background attitude",
+            "quantity": 8,
+            "unit_price": 356.87,
+            "total_price": 2854.96
+        },
+        {
+            "description": "Horizontal multi-tasking function",
+            "quantity": 3,
+            "unit_price": 288.56,
+            "total_price": 865.68
+        }
+    ],
+    "amount": 6398.95
+}

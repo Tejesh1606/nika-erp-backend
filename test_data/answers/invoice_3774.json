@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Berry-Medina",
+    "invoice_number": "INV-74894",
+    "date": "2025-09-30",
+    "items": [
+        {
+            "description": "Devolved optimizing open architecture",
+            "quantity": 1,
+            "unit_price": 284.69,
+            "total_price": 284.69
+        },
+        {
+            "description": "Profit-focused mobile circuit",
+            "quantity": 4,
+            "unit_price": 395.04,
+            "total_price": 1580.16
+        }
+    ],
+    "amount": 1864.85
+}

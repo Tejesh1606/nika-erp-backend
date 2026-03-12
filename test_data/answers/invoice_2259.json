@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Pham and Sons",
+    "invoice_number": "INV-42392",
+    "date": "2026-02-07",
+    "items": [
+        {
+            "description": "Assimilated bottom-line strategy",
+            "quantity": 1,
+            "unit_price": 247.84,
+            "total_price": 247.84
+        },
+        {
+            "description": "Open-architected actuating function",
+            "quantity": 2,
+            "unit_price": 50.3,
+            "total_price": 100.6
+        },
+        {
+            "description": "Seamless value-added moderator",
+            "quantity": 10,
+            "unit_price": 354.28,
+            "total_price": 3542.8
+        }
+    ],
+    "amount": 3891.24
+}

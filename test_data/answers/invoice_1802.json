@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mcmahon, Curry and Beck",
+    "invoice_number": "INV-22120",
+    "date": "2025-07-04",
+    "items": [
+        {
+            "description": "Exclusive mission-critical focus group",
+            "quantity": 7,
+            "unit_price": 10.27,
+            "total_price": 71.89
+        },
+        {
+            "description": "Streamlined user-facing migration",
+            "quantity": 5,
+            "unit_price": 469.51,
+            "total_price": 2347.55
+        },
+        {
+            "description": "Ergonomic analyzing pricing structure",
+            "quantity": 3,
+            "unit_price": 299.11,
+            "total_price": 897.33
+        }
+    ],
+    "amount": 3316.77
+}

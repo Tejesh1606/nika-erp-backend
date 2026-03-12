@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Sutton Group",
+    "invoice_number": "INV-41704",
+    "date": "2026-01-12",
+    "items": [
+        {
+            "description": "Enhanced maximized middleware",
+            "quantity": 4,
+            "unit_price": 94.43,
+            "total_price": 377.72
+        },
+        {
+            "description": "Stand-alone bifurcated website",
+            "quantity": 6,
+            "unit_price": 320.9,
+            "total_price": 1925.4
+        }
+    ],
+    "amount": 2303.12
+}

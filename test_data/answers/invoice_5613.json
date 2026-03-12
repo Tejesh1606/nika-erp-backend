@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Duran, Harvey and Crawford",
+    "invoice_number": "INV-71550",
+    "date": "2026-03-01",
+    "items": [
+        {
+            "description": "Fully-configurable needs-based protocol",
+            "quantity": 10,
+            "unit_price": 254.86,
+            "total_price": 2548.6
+        },
+        {
+            "description": "Persevering real-time complexity",
+            "quantity": 2,
+            "unit_price": 81.25,
+            "total_price": 162.5
+        },
+        {
+            "description": "Organic neutral Local Area Network",
+            "quantity": 10,
+            "unit_price": 419.5,
+            "total_price": 4195.0
+        },
+        {
+            "description": "Networked leadingedge monitoring",
+            "quantity": 9,
+            "unit_price": 79.22,
+            "total_price": 712.98
+        }
+    ],
+    "amount": 7619.08
+}

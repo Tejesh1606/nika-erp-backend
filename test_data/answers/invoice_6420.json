@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lin-Mcpherson",
+    "invoice_number": "INV-53331",
+    "date": "2025-06-08",
+    "items": [
+        {
+            "description": "Profound well-modulated neural-net",
+            "quantity": 3,
+            "unit_price": 248.94,
+            "total_price": 746.82
+        }
+    ],
+    "amount": 746.82
+}

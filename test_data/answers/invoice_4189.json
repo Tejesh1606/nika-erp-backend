@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mendoza, Stout and Elliott",
+    "invoice_number": "INV-31475",
+    "date": "2025-10-26",
+    "items": [
+        {
+            "description": "Compatible encompassing help-desk",
+            "quantity": 7,
+            "unit_price": 22.9,
+            "total_price": 160.3
+        }
+    ],
+    "amount": 160.3
+}

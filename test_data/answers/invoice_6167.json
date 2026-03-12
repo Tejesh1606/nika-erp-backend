@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hoffman-Miller",
+    "invoice_number": "INV-81934",
+    "date": "2025-03-14",
+    "items": [
+        {
+            "description": "Team-oriented 3rdgeneration structure",
+            "quantity": 2,
+            "unit_price": 387.06,
+            "total_price": 774.12
+        },
+        {
+            "description": "Synergized didactic encryption",
+            "quantity": 6,
+            "unit_price": 334.95,
+            "total_price": 2009.7
+        }
+    ],
+    "amount": 2783.82
+}

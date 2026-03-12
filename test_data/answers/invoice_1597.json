@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Clark-Murray",
+    "invoice_number": "INV-30344",
+    "date": "2025-03-23",
+    "items": [
+        {
+            "description": "Configurable analyzing parallelism",
+            "quantity": 7,
+            "unit_price": 238.6,
+            "total_price": 1670.2
+        },
+        {
+            "description": "Decentralized client-server benchmark",
+            "quantity": 2,
+            "unit_price": 486.31,
+            "total_price": 972.62
+        },
+        {
+            "description": "Organized clear-thinking collaboration",
+            "quantity": 5,
+            "unit_price": 42.08,
+            "total_price": 210.4
+        },
+        {
+            "description": "Up-sized asynchronous forecast",
+            "quantity": 1,
+            "unit_price": 177.47,
+            "total_price": 177.47
+        }
+    ],
+    "amount": 3030.69
+}

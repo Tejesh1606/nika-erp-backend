@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hernandez, Diaz and Flores",
+    "invoice_number": "INV-82412",
+    "date": "2025-08-08",
+    "items": [
+        {
+            "description": "Open-source well-modulated monitoring",
+            "quantity": 6,
+            "unit_price": 437.53,
+            "total_price": 2625.18
+        },
+        {
+            "description": "Automated value-added protocol",
+            "quantity": 4,
+            "unit_price": 447.13,
+            "total_price": 1788.52
+        },
+        {
+            "description": "Managed neutral analyzer",
+            "quantity": 9,
+            "unit_price": 102.15,
+            "total_price": 919.35
+        }
+    ],
+    "amount": 5333.05
+}

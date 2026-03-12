@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ellison Ltd",
+    "invoice_number": "INV-59352",
+    "date": "2025-06-19",
+    "items": [
+        {
+            "description": "Quality-focused interactive pricing structure",
+            "quantity": 2,
+            "unit_price": 196.5,
+            "total_price": 393.0
+        },
+        {
+            "description": "Switchable national process improvement",
+            "quantity": 10,
+            "unit_price": 260.55,
+            "total_price": 2605.5
+        },
+        {
+            "description": "Fully-configurable tangible paradigm",
+            "quantity": 6,
+            "unit_price": 196.33,
+            "total_price": 1177.98
+        }
+    ],
+    "amount": 4176.48
+}

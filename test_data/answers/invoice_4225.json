@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hall LLC",
+    "invoice_number": "INV-12181",
+    "date": "2025-12-07",
+    "items": [
+        {
+            "description": "Grass-roots leadingedge protocol",
+            "quantity": 1,
+            "unit_price": 406.84,
+            "total_price": 406.84
+        },
+        {
+            "description": "Streamlined heuristic analyzer",
+            "quantity": 1,
+            "unit_price": 128.73,
+            "total_price": 128.73
+        },
+        {
+            "description": "Balanced 6thgeneration function",
+            "quantity": 10,
+            "unit_price": 370.7,
+            "total_price": 3707.0
+        },
+        {
+            "description": "Managed neutral framework",
+            "quantity": 4,
+            "unit_price": 355.81,
+            "total_price": 1423.24
+        }
+    ],
+    "amount": 5665.81
+}

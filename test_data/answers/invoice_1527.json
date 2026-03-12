@@ -1,0 +1,32 @@
+{
+    "vendor_name": "French, Rodriguez and Wade",
+    "invoice_number": "INV-86752",
+    "date": "2025-10-01",
+    "items": [
+        {
+            "description": "Advanced exuding workforce",
+            "quantity": 1,
+            "unit_price": 138.06,
+            "total_price": 138.06
+        },
+        {
+            "description": "Devolved foreground encryption",
+            "quantity": 10,
+            "unit_price": 265.04,
+            "total_price": 2650.4
+        },
+        {
+            "description": "Polarized didactic core",
+            "quantity": 5,
+            "unit_price": 87.94,
+            "total_price": 439.7
+        },
+        {
+            "description": "Switchable methodical matrices",
+            "quantity": 6,
+            "unit_price": 216.84,
+            "total_price": 1301.04
+        }
+    ],
+    "amount": 4529.2
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Robinson PLC",
+    "invoice_number": "INV-13663",
+    "date": "2025-08-05",
+    "items": [
+        {
+            "description": "Digitized mobile software",
+            "quantity": 10,
+            "unit_price": 20.03,
+            "total_price": 200.3
+        }
+    ],
+    "amount": 200.3
+}

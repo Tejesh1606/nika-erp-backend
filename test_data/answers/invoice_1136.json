@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Carroll-Lin",
+    "invoice_number": "INV-54657",
+    "date": "2025-05-19",
+    "items": [
+        {
+            "description": "Synergized upward-trending superstructure",
+            "quantity": 1,
+            "unit_price": 178.83,
+            "total_price": 178.83
+        },
+        {
+            "description": "Stand-alone multi-tasking methodology",
+            "quantity": 7,
+            "unit_price": 288.04,
+            "total_price": 2016.28
+        }
+    ],
+    "amount": 2195.11
+}

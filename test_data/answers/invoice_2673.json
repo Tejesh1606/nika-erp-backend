@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith-Rogers",
+    "invoice_number": "INV-98759",
+    "date": "2025-06-15",
+    "items": [
+        {
+            "description": "Robust executive Internet solution",
+            "quantity": 4,
+            "unit_price": 293.82,
+            "total_price": 1175.28
+        },
+        {
+            "description": "Right-sized client-driven algorithm",
+            "quantity": 2,
+            "unit_price": 476.68,
+            "total_price": 953.36
+        },
+        {
+            "description": "Realigned holistic instruction set",
+            "quantity": 6,
+            "unit_price": 334.75,
+            "total_price": 2008.5
+        }
+    ],
+    "amount": 4137.14
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Fisher-Hardy",
+    "invoice_number": "INV-68277",
+    "date": "2025-05-20",
+    "items": [
+        {
+            "description": "Fully-configurable client-driven website",
+            "quantity": 8,
+            "unit_price": 254.26,
+            "total_price": 2034.08
+        },
+        {
+            "description": "Balanced analyzing capacity",
+            "quantity": 1,
+            "unit_price": 40.09,
+            "total_price": 40.09
+        },
+        {
+            "description": "Integrated optimal Internet solution",
+            "quantity": 7,
+            "unit_price": 478.38,
+            "total_price": 3348.66
+        }
+    ],
+    "amount": 5422.83
+}

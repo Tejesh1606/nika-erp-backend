@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Simmons, Mcintosh and Rios",
+    "invoice_number": "INV-37728",
+    "date": "2025-05-28",
+    "items": [
+        {
+            "description": "Total 3rdgeneration utilization",
+            "quantity": 4,
+            "unit_price": 39.97,
+            "total_price": 159.88
+        },
+        {
+            "description": "Enterprise-wide cohesive hardware",
+            "quantity": 4,
+            "unit_price": 369.58,
+            "total_price": 1478.32
+        }
+    ],
+    "amount": 1638.2
+}

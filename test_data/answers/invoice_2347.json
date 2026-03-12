@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith LLC",
+    "invoice_number": "INV-39919",
+    "date": "2025-09-04",
+    "items": [
+        {
+            "description": "Enhanced dedicated flexibility",
+            "quantity": 2,
+            "unit_price": 271.53,
+            "total_price": 543.06
+        },
+        {
+            "description": "Optimized background intranet",
+            "quantity": 7,
+            "unit_price": 295.76,
+            "total_price": 2070.32
+        },
+        {
+            "description": "Optimized stable circuit",
+            "quantity": 2,
+            "unit_price": 257.05,
+            "total_price": 514.1
+        }
+    ],
+    "amount": 3127.48
+}

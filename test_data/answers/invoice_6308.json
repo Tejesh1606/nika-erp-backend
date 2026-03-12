@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lane-Gomez",
+    "invoice_number": "INV-80876",
+    "date": "2025-07-06",
+    "items": [
+        {
+            "description": "Cross-platform tertiary time-frame",
+            "quantity": 7,
+            "unit_price": 329.2,
+            "total_price": 2304.4
+        }
+    ],
+    "amount": 2304.4
+}

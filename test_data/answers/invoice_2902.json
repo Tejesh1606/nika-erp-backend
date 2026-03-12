@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ford, Bruce and Hansen",
+    "invoice_number": "INV-90699",
+    "date": "2025-09-16",
+    "items": [
+        {
+            "description": "User-centric clear-thinking extranet",
+            "quantity": 8,
+            "unit_price": 332.18,
+            "total_price": 2657.44
+        }
+    ],
+    "amount": 2657.44
+}

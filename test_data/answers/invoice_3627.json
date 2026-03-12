@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Anderson-Green",
+    "invoice_number": "INV-21194",
+    "date": "2025-12-21",
+    "items": [
+        {
+            "description": "Enhanced 24hour concept",
+            "quantity": 3,
+            "unit_price": 402.4,
+            "total_price": 1207.2
+        }
+    ],
+    "amount": 1207.2
+}

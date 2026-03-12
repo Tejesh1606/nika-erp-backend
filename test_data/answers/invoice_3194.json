@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Williams Inc",
+    "invoice_number": "INV-71638",
+    "date": "2025-06-14",
+    "items": [
+        {
+            "description": "Compatible content-based instruction set",
+            "quantity": 10,
+            "unit_price": 245.31,
+            "total_price": 2453.1
+        },
+        {
+            "description": "Integrated empowering utilization",
+            "quantity": 2,
+            "unit_price": 231.9,
+            "total_price": 463.8
+        }
+    ],
+    "amount": 2916.9
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mcdaniel-Lopez",
+    "invoice_number": "INV-28811",
+    "date": "2025-04-05",
+    "items": [
+        {
+            "description": "Optimized dynamic knowledgebase",
+            "quantity": 1,
+            "unit_price": 368.1,
+            "total_price": 368.1
+        },
+        {
+            "description": "Stand-alone impactful attitude",
+            "quantity": 10,
+            "unit_price": 282.79,
+            "total_price": 2827.9
+        },
+        {
+            "description": "Up-sized multi-tasking challenge",
+            "quantity": 9,
+            "unit_price": 161.73,
+            "total_price": 1455.57
+        },
+        {
+            "description": "Upgradable web-enabled workforce",
+            "quantity": 3,
+            "unit_price": 488.17,
+            "total_price": 1464.51
+        }
+    ],
+    "amount": 6116.08
+}

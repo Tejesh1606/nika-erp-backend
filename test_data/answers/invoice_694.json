@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wolfe-Lopez",
+    "invoice_number": "INV-98280",
+    "date": "2025-04-19",
+    "items": [
+        {
+            "description": "Enterprise-wide heuristic implementation",
+            "quantity": 6,
+            "unit_price": 233.12,
+            "total_price": 1398.72
+        },
+        {
+            "description": "Optimized didactic migration",
+            "quantity": 3,
+            "unit_price": 100.58,
+            "total_price": 301.74
+        }
+    ],
+    "amount": 1700.46
+}

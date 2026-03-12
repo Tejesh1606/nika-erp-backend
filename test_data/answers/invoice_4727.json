@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Walker-Phillips",
+    "invoice_number": "INV-42564",
+    "date": "2026-01-20",
+    "items": [
+        {
+            "description": "Function-based non-volatile projection",
+            "quantity": 2,
+            "unit_price": 355.34,
+            "total_price": 710.68
+        },
+        {
+            "description": "Mandatory executive benchmark",
+            "quantity": 9,
+            "unit_price": 449.16,
+            "total_price": 4042.44
+        },
+        {
+            "description": "De-engineered bi-directional projection",
+            "quantity": 4,
+            "unit_price": 369.24,
+            "total_price": 1476.96
+        },
+        {
+            "description": "Persistent homogeneous concept",
+            "quantity": 9,
+            "unit_price": 59.94,
+            "total_price": 539.46
+        }
+    ],
+    "amount": 6769.54
+}

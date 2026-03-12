@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Allen-Brewer",
+    "invoice_number": "INV-17152",
+    "date": "2025-05-06",
+    "items": [
+        {
+            "description": "Intuitive fault-tolerant installation",
+            "quantity": 10,
+            "unit_price": 364.55,
+            "total_price": 3645.5
+        },
+        {
+            "description": "Configurable intangible structure",
+            "quantity": 8,
+            "unit_price": 497.23,
+            "total_price": 3977.84
+        }
+    ],
+    "amount": 7623.34
+}

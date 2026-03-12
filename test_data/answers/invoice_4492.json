@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hensley-Wyatt",
+    "invoice_number": "INV-93453",
+    "date": "2026-01-24",
+    "items": [
+        {
+            "description": "Automated optimal website",
+            "quantity": 9,
+            "unit_price": 44.7,
+            "total_price": 402.3
+        }
+    ],
+    "amount": 402.3
+}

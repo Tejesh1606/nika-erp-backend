@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hernandez-Smith",
+    "invoice_number": "INV-27528",
+    "date": "2025-03-11",
+    "items": [
+        {
+            "description": "Cloned reciprocal knowledge user",
+            "quantity": 7,
+            "unit_price": 94.88,
+            "total_price": 664.16
+        },
+        {
+            "description": "Ameliorated neutral frame",
+            "quantity": 5,
+            "unit_price": 333.68,
+            "total_price": 1668.4
+        },
+        {
+            "description": "Devolved needs-based leverage",
+            "quantity": 1,
+            "unit_price": 21.07,
+            "total_price": 21.07
+        },
+        {
+            "description": "Function-based systematic architecture",
+            "quantity": 3,
+            "unit_price": 189.11,
+            "total_price": 567.33
+        }
+    ],
+    "amount": 2920.96
+}

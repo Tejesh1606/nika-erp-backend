@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Vasquez, Flores and Hernandez",
+    "invoice_number": "INV-80119",
+    "date": "2025-03-17",
+    "items": [
+        {
+            "description": "Enterprise-wide bi-directional forecast",
+            "quantity": 3,
+            "unit_price": 299.2,
+            "total_price": 897.6
+        },
+        {
+            "description": "Future-proofed clear-thinking structure",
+            "quantity": 8,
+            "unit_price": 123.96,
+            "total_price": 991.68
+        }
+    ],
+    "amount": 1889.28
+}

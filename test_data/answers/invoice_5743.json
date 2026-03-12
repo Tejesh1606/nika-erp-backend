@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wood-Ryan",
+    "invoice_number": "INV-65252",
+    "date": "2026-01-19",
+    "items": [
+        {
+            "description": "Optional attitude-oriented analyzer",
+            "quantity": 3,
+            "unit_price": 406.3,
+            "total_price": 1218.9
+        }
+    ],
+    "amount": 1218.9
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Smith, Miles and Salas",
+    "invoice_number": "INV-82107",
+    "date": "2026-02-09",
+    "items": [
+        {
+            "description": "Virtual needs-based website",
+            "quantity": 6,
+            "unit_price": 13.05,
+            "total_price": 78.3
+        },
+        {
+            "description": "User-centric intangible methodology",
+            "quantity": 1,
+            "unit_price": 165.28,
+            "total_price": 165.28
+        }
+    ],
+    "amount": 243.58
+}

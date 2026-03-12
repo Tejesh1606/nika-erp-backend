@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cameron, Young and Duncan",
+    "invoice_number": "INV-75568",
+    "date": "2026-03-06",
+    "items": [
+        {
+            "description": "Decentralized multi-state secured line",
+            "quantity": 6,
+            "unit_price": 286.23,
+            "total_price": 1717.38
+        }
+    ],
+    "amount": 1717.38
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Cooper-Payne",
+    "invoice_number": "INV-70299",
+    "date": "2026-01-30",
+    "items": [
+        {
+            "description": "Upgradable fault-tolerant data-warehouse",
+            "quantity": 2,
+            "unit_price": 427.62,
+            "total_price": 855.24
+        },
+        {
+            "description": "Realigned discrete collaboration",
+            "quantity": 2,
+            "unit_price": 374.54,
+            "total_price": 749.08
+        },
+        {
+            "description": "Total hybrid task-force",
+            "quantity": 3,
+            "unit_price": 69.61,
+            "total_price": 208.83
+        },
+        {
+            "description": "Diverse clear-thinking Graphical User Interface",
+            "quantity": 9,
+            "unit_price": 303.05,
+            "total_price": 2727.45
+        }
+    ],
+    "amount": 4540.6
+}

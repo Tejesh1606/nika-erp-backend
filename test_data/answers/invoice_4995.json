@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Humphrey, Chan and Schmidt",
+    "invoice_number": "INV-31414",
+    "date": "2025-08-18",
+    "items": [
+        {
+            "description": "Multi-channeled secondary throughput",
+            "quantity": 5,
+            "unit_price": 32.84,
+            "total_price": 164.2
+        },
+        {
+            "description": "Optional global contingency",
+            "quantity": 2,
+            "unit_price": 206.85,
+            "total_price": 413.7
+        }
+    ],
+    "amount": 577.9
+}

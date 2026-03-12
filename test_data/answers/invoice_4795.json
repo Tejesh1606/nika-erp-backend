@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Miller, Cortez and Daniel",
+    "invoice_number": "INV-62114",
+    "date": "2025-03-29",
+    "items": [
+        {
+            "description": "Switchable content-based algorithm",
+            "quantity": 1,
+            "unit_price": 265.13,
+            "total_price": 265.13
+        },
+        {
+            "description": "Re-engineered national approach",
+            "quantity": 8,
+            "unit_price": 279.23,
+            "total_price": 2233.84
+        },
+        {
+            "description": "Monitored attitude-oriented productivity",
+            "quantity": 6,
+            "unit_price": 180.1,
+            "total_price": 1080.6
+        },
+        {
+            "description": "Programmable didactic firmware",
+            "quantity": 3,
+            "unit_price": 97.74,
+            "total_price": 293.22
+        }
+    ],
+    "amount": 3872.79
+}

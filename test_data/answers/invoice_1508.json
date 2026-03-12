@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Bowman Group",
+    "invoice_number": "INV-30408",
+    "date": "2026-01-27",
+    "items": [
+        {
+            "description": "Team-oriented web-enabled core",
+            "quantity": 4,
+            "unit_price": 85.4,
+            "total_price": 341.6
+        },
+        {
+            "description": "Universal 24hour utilization",
+            "quantity": 1,
+            "unit_price": 466.05,
+            "total_price": 466.05
+        },
+        {
+            "description": "Profit-focused bi-directional methodology",
+            "quantity": 3,
+            "unit_price": 187.87,
+            "total_price": 563.61
+        },
+        {
+            "description": "Digitized asynchronous solution",
+            "quantity": 1,
+            "unit_price": 231.75,
+            "total_price": 231.75
+        }
+    ],
+    "amount": 1603.01
+}

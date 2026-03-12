@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Long-Moore",
+    "invoice_number": "INV-55453",
+    "date": "2025-11-29",
+    "items": [
+        {
+            "description": "Multi-channeled heuristic product",
+            "quantity": 1,
+            "unit_price": 239.74,
+            "total_price": 239.74
+        },
+        {
+            "description": "Innovative disintermediate middleware",
+            "quantity": 3,
+            "unit_price": 309.37,
+            "total_price": 928.11
+        },
+        {
+            "description": "Grass-roots analyzing product",
+            "quantity": 4,
+            "unit_price": 154.97,
+            "total_price": 619.88
+        },
+        {
+            "description": "Function-based human-resource algorithm",
+            "quantity": 1,
+            "unit_price": 452.59,
+            "total_price": 452.59
+        }
+    ],
+    "amount": 2240.32
+}

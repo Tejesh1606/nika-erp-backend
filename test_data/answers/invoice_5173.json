@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hanna Group",
+    "invoice_number": "INV-58616",
+    "date": "2026-02-06",
+    "items": [
+        {
+            "description": "Extended scalable Graphical User Interface",
+            "quantity": 10,
+            "unit_price": 255.44,
+            "total_price": 2554.4
+        },
+        {
+            "description": "Right-sized web-enabled groupware",
+            "quantity": 2,
+            "unit_price": 188.68,
+            "total_price": 377.36
+        }
+    ],
+    "amount": 2931.76
+}

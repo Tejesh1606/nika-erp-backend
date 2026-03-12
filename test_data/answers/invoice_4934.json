@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Garza, Mckee and Dean",
+    "invoice_number": "INV-56654",
+    "date": "2025-06-19",
+    "items": [
+        {
+            "description": "Sharable content-based framework",
+            "quantity": 3,
+            "unit_price": 177.91,
+            "total_price": 533.73
+        },
+        {
+            "description": "Triple-buffered full-range analyzer",
+            "quantity": 1,
+            "unit_price": 345.69,
+            "total_price": 345.69
+        }
+    ],
+    "amount": 879.42
+}

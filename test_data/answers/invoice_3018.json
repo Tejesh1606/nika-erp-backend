@@ -1,0 +1,14 @@
+{
+    "vendor_name": "White Group",
+    "invoice_number": "INV-50923",
+    "date": "2025-07-18",
+    "items": [
+        {
+            "description": "Synergized attitude-oriented collaboration",
+            "quantity": 4,
+            "unit_price": 430.13,
+            "total_price": 1720.52
+        }
+    ],
+    "amount": 1720.52
+}

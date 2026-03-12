@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Le LLC",
+    "invoice_number": "INV-19020",
+    "date": "2026-02-04",
+    "items": [
+        {
+            "description": "Vision-oriented solution-oriented architecture",
+            "quantity": 9,
+            "unit_price": 391.29,
+            "total_price": 3521.61
+        }
+    ],
+    "amount": 3521.61
+}

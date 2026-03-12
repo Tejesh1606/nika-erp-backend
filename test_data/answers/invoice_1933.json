@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Shepherd-Miller",
+    "invoice_number": "INV-19269",
+    "date": "2025-03-22",
+    "items": [
+        {
+            "description": "Fundamental full-range analyzer",
+            "quantity": 2,
+            "unit_price": 492.4,
+            "total_price": 984.8
+        }
+    ],
+    "amount": 984.8
+}

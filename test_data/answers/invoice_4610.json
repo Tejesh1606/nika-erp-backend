@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Anderson-Chavez",
+    "invoice_number": "INV-61936",
+    "date": "2025-04-12",
+    "items": [
+        {
+            "description": "Reactive non-volatile benchmark",
+            "quantity": 10,
+            "unit_price": 100.5,
+            "total_price": 1005.0
+        },
+        {
+            "description": "Advanced object-oriented hardware",
+            "quantity": 9,
+            "unit_price": 481.01,
+            "total_price": 4329.09
+        },
+        {
+            "description": "Face-to-face bandwidth-monitored analyzer",
+            "quantity": 3,
+            "unit_price": 234.77,
+            "total_price": 704.31
+        },
+        {
+            "description": "Ameliorated asymmetric knowledgebase",
+            "quantity": 10,
+            "unit_price": 409.63,
+            "total_price": 4096.3
+        }
+    ],
+    "amount": 10134.7
+}

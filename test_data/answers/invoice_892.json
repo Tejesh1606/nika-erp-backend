@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bush, Smith and Smith",
+    "invoice_number": "INV-26260",
+    "date": "2025-07-06",
+    "items": [
+        {
+            "description": "Front-line user-facing interface",
+            "quantity": 1,
+            "unit_price": 111.79,
+            "total_price": 111.79
+        },
+        {
+            "description": "Versatile dynamic process improvement",
+            "quantity": 8,
+            "unit_price": 424.72,
+            "total_price": 3397.76
+        }
+    ],
+    "amount": 3509.55
+}

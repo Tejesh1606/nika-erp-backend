@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Myers-Calderon",
+    "invoice_number": "INV-64897",
+    "date": "2025-08-23",
+    "items": [
+        {
+            "description": "Upgradable fresh-thinking ability",
+            "quantity": 10,
+            "unit_price": 418.65,
+            "total_price": 4186.5
+        },
+        {
+            "description": "Streamlined global archive",
+            "quantity": 5,
+            "unit_price": 390.71,
+            "total_price": 1953.55
+        }
+    ],
+    "amount": 6140.05
+}

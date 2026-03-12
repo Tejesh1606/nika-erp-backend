@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Butler PLC",
+    "invoice_number": "INV-19769",
+    "date": "2025-05-15",
+    "items": [
+        {
+            "description": "Progressive multimedia secured line",
+            "quantity": 6,
+            "unit_price": 278.38,
+            "total_price": 1670.28
+        }
+    ],
+    "amount": 1670.28
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jones, Brown and Wolf",
+    "invoice_number": "INV-14060",
+    "date": "2026-03-02",
+    "items": [
+        {
+            "description": "Assimilated composite extranet",
+            "quantity": 6,
+            "unit_price": 427.77,
+            "total_price": 2566.62
+        },
+        {
+            "description": "Enhanced 3rdgeneration utilization",
+            "quantity": 10,
+            "unit_price": 456.38,
+            "total_price": 4563.8
+        },
+        {
+            "description": "Compatible clear-thinking knowledge user",
+            "quantity": 1,
+            "unit_price": 14.65,
+            "total_price": 14.65
+        }
+    ],
+    "amount": 7145.07
+}

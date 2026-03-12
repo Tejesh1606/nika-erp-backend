@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Adams-Wong",
+    "invoice_number": "INV-14928",
+    "date": "2025-05-13",
+    "items": [
+        {
+            "description": "Up-sized homogeneous adapter",
+            "quantity": 9,
+            "unit_price": 287.66,
+            "total_price": 2588.94
+        }
+    ],
+    "amount": 2588.94
+}

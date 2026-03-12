@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jones-Young",
+    "invoice_number": "INV-97684",
+    "date": "2025-09-13",
+    "items": [
+        {
+            "description": "Extended needs-based capacity",
+            "quantity": 9,
+            "unit_price": 142.96,
+            "total_price": 1286.64
+        },
+        {
+            "description": "Up-sized object-oriented orchestration",
+            "quantity": 5,
+            "unit_price": 222.09,
+            "total_price": 1110.45
+        },
+        {
+            "description": "Phased dynamic toolset",
+            "quantity": 6,
+            "unit_price": 287.89,
+            "total_price": 1727.34
+        },
+        {
+            "description": "Phased incremental core",
+            "quantity": 10,
+            "unit_price": 159.27,
+            "total_price": 1592.7
+        }
+    ],
+    "amount": 5717.13
+}

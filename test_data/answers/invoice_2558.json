@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Pearson, Smith and Shields",
+    "invoice_number": "INV-85784",
+    "date": "2025-11-18",
+    "items": [
+        {
+            "description": "Exclusive dynamic workforce",
+            "quantity": 10,
+            "unit_price": 91.27,
+            "total_price": 912.7
+        },
+        {
+            "description": "Up-sized asynchronous hub",
+            "quantity": 6,
+            "unit_price": 50.16,
+            "total_price": 300.96
+        },
+        {
+            "description": "Fundamental context-sensitive strategy",
+            "quantity": 1,
+            "unit_price": 25.72,
+            "total_price": 25.72
+        },
+        {
+            "description": "User-friendly dedicated access",
+            "quantity": 1,
+            "unit_price": 112.85,
+            "total_price": 112.85
+        }
+    ],
+    "amount": 1352.23
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Young and Sons",
+    "invoice_number": "INV-69323",
+    "date": "2026-01-14",
+    "items": [
+        {
+            "description": "Cross-group empowering circuit",
+            "quantity": 6,
+            "unit_price": 102.59,
+            "total_price": 615.54
+        },
+        {
+            "description": "Synergized bifurcated data-warehouse",
+            "quantity": 10,
+            "unit_price": 291.95,
+            "total_price": 2919.5
+        },
+        {
+            "description": "Phased executive knowledge user",
+            "quantity": 6,
+            "unit_price": 404.86,
+            "total_price": 2429.16
+        },
+        {
+            "description": "Enhanced modular open system",
+            "quantity": 9,
+            "unit_price": 233.75,
+            "total_price": 2103.75
+        }
+    ],
+    "amount": 8067.95
+}

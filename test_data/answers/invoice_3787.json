@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Baker Group",
+    "invoice_number": "INV-89004",
+    "date": "2025-07-06",
+    "items": [
+        {
+            "description": "Sharable methodical instruction set",
+            "quantity": 8,
+            "unit_price": 25.86,
+            "total_price": 206.88
+        },
+        {
+            "description": "Triple-buffered composite parallelism",
+            "quantity": 1,
+            "unit_price": 219.92,
+            "total_price": 219.92
+        },
+        {
+            "description": "Exclusive hybrid website",
+            "quantity": 9,
+            "unit_price": 114.94,
+            "total_price": 1034.46
+        }
+    ],
+    "amount": 1461.26
+}

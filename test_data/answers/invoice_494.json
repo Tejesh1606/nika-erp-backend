@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Perez, Davis and Parker",
+    "invoice_number": "INV-64028",
+    "date": "2025-06-17",
+    "items": [
+        {
+            "description": "Distributed exuding access",
+            "quantity": 1,
+            "unit_price": 433.15,
+            "total_price": 433.15
+        }
+    ],
+    "amount": 433.15
+}

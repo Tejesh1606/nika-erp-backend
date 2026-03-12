@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Erickson Group",
+    "invoice_number": "INV-89358",
+    "date": "2025-12-08",
+    "items": [
+        {
+            "description": "Enterprise-wide methodical forecast",
+            "quantity": 3,
+            "unit_price": 183.97,
+            "total_price": 551.91
+        }
+    ],
+    "amount": 551.91
+}

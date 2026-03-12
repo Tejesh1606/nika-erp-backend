@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hendrix Inc",
+    "invoice_number": "INV-99484",
+    "date": "2025-07-31",
+    "items": [
+        {
+            "description": "Cross-platform composite ability",
+            "quantity": 6,
+            "unit_price": 245.45,
+            "total_price": 1472.7
+        },
+        {
+            "description": "Progressive 24/7 ability",
+            "quantity": 3,
+            "unit_price": 146.98,
+            "total_price": 440.94
+        },
+        {
+            "description": "Inverse human-resource function",
+            "quantity": 6,
+            "unit_price": 462.62,
+            "total_price": 2775.72
+        }
+    ],
+    "amount": 4689.36
+}

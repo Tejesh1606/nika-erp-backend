@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Barnett-Boyd",
+    "invoice_number": "INV-41525",
+    "date": "2025-10-19",
+    "items": [
+        {
+            "description": "Polarized stable matrix",
+            "quantity": 6,
+            "unit_price": 387.99,
+            "total_price": 2327.94
+        },
+        {
+            "description": "Grass-roots fresh-thinking throughput",
+            "quantity": 5,
+            "unit_price": 334.94,
+            "total_price": 1674.7
+        },
+        {
+            "description": "Upgradable mission-critical definition",
+            "quantity": 7,
+            "unit_price": 34.18,
+            "total_price": 239.26
+        }
+    ],
+    "amount": 4241.9
+}

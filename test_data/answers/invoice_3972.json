@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brown Group",
+    "invoice_number": "INV-75709",
+    "date": "2025-09-01",
+    "items": [
+        {
+            "description": "Realigned analyzing knowledgebase",
+            "quantity": 3,
+            "unit_price": 129.85,
+            "total_price": 389.55
+        },
+        {
+            "description": "Cloned clear-thinking standardization",
+            "quantity": 1,
+            "unit_price": 486.43,
+            "total_price": 486.43
+        },
+        {
+            "description": "Visionary hybrid groupware",
+            "quantity": 10,
+            "unit_price": 361.32,
+            "total_price": 3613.2
+        }
+    ],
+    "amount": 4489.18
+}

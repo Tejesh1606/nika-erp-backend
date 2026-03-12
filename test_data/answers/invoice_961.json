@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Franklin, Mann and White",
+    "invoice_number": "INV-56399",
+    "date": "2026-01-13",
+    "items": [
+        {
+            "description": "Persistent motivating forecast",
+            "quantity": 4,
+            "unit_price": 290.57,
+            "total_price": 1162.28
+        },
+        {
+            "description": "Grass-roots interactive model",
+            "quantity": 7,
+            "unit_price": 356.59,
+            "total_price": 2496.13
+        }
+    ],
+    "amount": 3658.41
+}

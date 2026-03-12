@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wheeler-Cortez",
+    "invoice_number": "INV-68143",
+    "date": "2025-09-25",
+    "items": [
+        {
+            "description": "Ergonomic client-server database",
+            "quantity": 5,
+            "unit_price": 349.12,
+            "total_price": 1745.6
+        }
+    ],
+    "amount": 1745.6
+}

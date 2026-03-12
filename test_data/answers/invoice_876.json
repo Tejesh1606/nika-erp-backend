@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ibarra, Bryant and Graves",
+    "invoice_number": "INV-48987",
+    "date": "2025-08-07",
+    "items": [
+        {
+            "description": "Seamless context-sensitive instruction set",
+            "quantity": 1,
+            "unit_price": 22.91,
+            "total_price": 22.91
+        }
+    ],
+    "amount": 22.91
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Norris-Blackwell",
+    "invoice_number": "INV-44550",
+    "date": "2026-01-05",
+    "items": [
+        {
+            "description": "Organized multi-tasking Internet solution",
+            "quantity": 3,
+            "unit_price": 451.41,
+            "total_price": 1354.23
+        },
+        {
+            "description": "Progressive local customer loyalty",
+            "quantity": 3,
+            "unit_price": 18.3,
+            "total_price": 54.9
+        },
+        {
+            "description": "De-engineered 24hour knowledgebase",
+            "quantity": 5,
+            "unit_price": 427.6,
+            "total_price": 2138.0
+        }
+    ],
+    "amount": 3547.13
+}

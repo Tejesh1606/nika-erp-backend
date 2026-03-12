@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Alvarado and Sons",
+    "invoice_number": "INV-53078",
+    "date": "2025-07-25",
+    "items": [
+        {
+            "description": "Organic regional flexibility",
+            "quantity": 1,
+            "unit_price": 370.52,
+            "total_price": 370.52
+        }
+    ],
+    "amount": 370.52
+}

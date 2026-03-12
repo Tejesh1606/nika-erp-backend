@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Terry Group",
+    "invoice_number": "INV-56248",
+    "date": "2025-07-17",
+    "items": [
+        {
+            "description": "Open-architected zero-defect neural-net",
+            "quantity": 9,
+            "unit_price": 162.69,
+            "total_price": 1464.21
+        }
+    ],
+    "amount": 1464.21
+}

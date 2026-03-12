@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Watson, Brown and Brown",
+    "invoice_number": "INV-28152",
+    "date": "2025-06-25",
+    "items": [
+        {
+            "description": "Cloned directional adapter",
+            "quantity": 6,
+            "unit_price": 223.01,
+            "total_price": 1338.06
+        }
+    ],
+    "amount": 1338.06
+}

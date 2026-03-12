@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Huang, Stevens and Garcia",
+    "invoice_number": "INV-19052",
+    "date": "2025-04-30",
+    "items": [
+        {
+            "description": "Right-sized zero-defect website",
+            "quantity": 2,
+            "unit_price": 404.48,
+            "total_price": 808.96
+        }
+    ],
+    "amount": 808.96
+}

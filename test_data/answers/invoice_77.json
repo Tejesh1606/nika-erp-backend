@@ -1,0 +1,14 @@
+{
+    "vendor_name": "James, Kerr and Evans",
+    "invoice_number": "INV-87139",
+    "date": "2025-08-22",
+    "items": [
+        {
+            "description": "Integrated non-volatile process improvement",
+            "quantity": 10,
+            "unit_price": 141.04,
+            "total_price": 1410.4
+        }
+    ],
+    "amount": 1410.4
+}

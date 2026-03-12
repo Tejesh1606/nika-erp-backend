@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Dillon-George",
+    "invoice_number": "INV-82682",
+    "date": "2025-05-10",
+    "items": [
+        {
+            "description": "Cloned multi-tasking collaboration",
+            "quantity": 2,
+            "unit_price": 423.62,
+            "total_price": 847.24
+        },
+        {
+            "description": "Organized explicit firmware",
+            "quantity": 2,
+            "unit_price": 390.17,
+            "total_price": 780.34
+        },
+        {
+            "description": "Quality-focused high-level knowledgebase",
+            "quantity": 3,
+            "unit_price": 241.06,
+            "total_price": 723.18
+        }
+    ],
+    "amount": 2350.76
+}

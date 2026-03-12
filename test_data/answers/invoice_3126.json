@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lee-Scott",
+    "invoice_number": "INV-43079",
+    "date": "2026-01-02",
+    "items": [
+        {
+            "description": "User-friendly regional product",
+            "quantity": 8,
+            "unit_price": 55.42,
+            "total_price": 443.36
+        },
+        {
+            "description": "Profound attitude-oriented challenge",
+            "quantity": 3,
+            "unit_price": 469.19,
+            "total_price": 1407.57
+        },
+        {
+            "description": "Cross-group discrete ability",
+            "quantity": 8,
+            "unit_price": 67.06,
+            "total_price": 536.48
+        }
+    ],
+    "amount": 2387.41
+}

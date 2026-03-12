@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Snyder-Soto",
+    "invoice_number": "INV-79472",
+    "date": "2025-10-04",
+    "items": [
+        {
+            "description": "Centralized tangible hardware",
+            "quantity": 4,
+            "unit_price": 473.18,
+            "total_price": 1892.72
+        },
+        {
+            "description": "Balanced asymmetric groupware",
+            "quantity": 7,
+            "unit_price": 317.7,
+            "total_price": 2223.9
+        },
+        {
+            "description": "Decentralized discrete intranet",
+            "quantity": 9,
+            "unit_price": 297.42,
+            "total_price": 2676.78
+        }
+    ],
+    "amount": 6793.4
+}

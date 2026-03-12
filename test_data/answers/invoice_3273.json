@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Reynolds, Reese and Clark",
+    "invoice_number": "INV-33372",
+    "date": "2025-11-06",
+    "items": [
+        {
+            "description": "Compatible system-worthy complexity",
+            "quantity": 7,
+            "unit_price": 131.36,
+            "total_price": 919.52
+        },
+        {
+            "description": "Horizontal needs-based portal",
+            "quantity": 6,
+            "unit_price": 250.05,
+            "total_price": 1500.3
+        },
+        {
+            "description": "Managed heuristic monitoring",
+            "quantity": 1,
+            "unit_price": 59.51,
+            "total_price": 59.51
+        }
+    ],
+    "amount": 2479.33
+}

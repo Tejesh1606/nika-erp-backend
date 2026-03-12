@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hunter-Patterson",
+    "invoice_number": "INV-65082",
+    "date": "2025-05-01",
+    "items": [
+        {
+            "description": "Multi-layered non-volatile ability",
+            "quantity": 3,
+            "unit_price": 263.38,
+            "total_price": 790.14
+        }
+    ],
+    "amount": 790.14
+}

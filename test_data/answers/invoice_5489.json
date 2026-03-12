@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson-Ross",
+    "invoice_number": "INV-30077",
+    "date": "2025-06-04",
+    "items": [
+        {
+            "description": "Assimilated zero tolerance superstructure",
+            "quantity": 4,
+            "unit_price": 264.27,
+            "total_price": 1057.08
+        },
+        {
+            "description": "Business-focused holistic infrastructure",
+            "quantity": 7,
+            "unit_price": 114.87,
+            "total_price": 804.09
+        },
+        {
+            "description": "Adaptive optimal projection",
+            "quantity": 3,
+            "unit_price": 245.01,
+            "total_price": 735.03
+        },
+        {
+            "description": "Integrated encompassing product",
+            "quantity": 10,
+            "unit_price": 125.13,
+            "total_price": 1251.3
+        }
+    ],
+    "amount": 3847.5
+}

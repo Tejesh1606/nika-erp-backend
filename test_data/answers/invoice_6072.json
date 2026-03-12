@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Coleman and Sons",
+    "invoice_number": "INV-49856",
+    "date": "2025-09-30",
+    "items": [
+        {
+            "description": "Expanded logistical encoding",
+            "quantity": 5,
+            "unit_price": 233.06,
+            "total_price": 1165.3
+        },
+        {
+            "description": "User-friendly systemic support",
+            "quantity": 1,
+            "unit_price": 163.62,
+            "total_price": 163.62
+        },
+        {
+            "description": "Devolved discrete ability",
+            "quantity": 10,
+            "unit_price": 44.42,
+            "total_price": 444.2
+        }
+    ],
+    "amount": 1773.12
+}

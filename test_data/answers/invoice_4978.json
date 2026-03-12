@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Morrison-Johnson",
+    "invoice_number": "INV-25702",
+    "date": "2025-06-16",
+    "items": [
+        {
+            "description": "Implemented real-time moderator",
+            "quantity": 8,
+            "unit_price": 445.61,
+            "total_price": 3564.88
+        }
+    ],
+    "amount": 3564.88
+}

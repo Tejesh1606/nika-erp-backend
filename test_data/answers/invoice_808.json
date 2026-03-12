@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Rivers LLC",
+    "invoice_number": "INV-36975",
+    "date": "2025-06-12",
+    "items": [
+        {
+            "description": "Triple-buffered optimal intranet",
+            "quantity": 4,
+            "unit_price": 463.54,
+            "total_price": 1854.16
+        }
+    ],
+    "amount": 1854.16
+}

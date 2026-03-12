@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hudson Group",
+    "invoice_number": "INV-30656",
+    "date": "2025-09-08",
+    "items": [
+        {
+            "description": "Secured user-facing moratorium",
+            "quantity": 5,
+            "unit_price": 63.19,
+            "total_price": 315.95
+        }
+    ],
+    "amount": 315.95
+}

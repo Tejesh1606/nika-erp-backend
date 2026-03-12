@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mills PLC",
+    "invoice_number": "INV-61629",
+    "date": "2025-11-15",
+    "items": [
+        {
+            "description": "Decentralized dedicated monitoring",
+            "quantity": 3,
+            "unit_price": 39.51,
+            "total_price": 118.53
+        },
+        {
+            "description": "Stand-alone leadingedge hierarchy",
+            "quantity": 5,
+            "unit_price": 423.4,
+            "total_price": 2117.0
+        }
+    ],
+    "amount": 2235.53
+}

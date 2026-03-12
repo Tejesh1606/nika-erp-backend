@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Johnson-Carlson",
+    "invoice_number": "INV-55309",
+    "date": "2025-12-16",
+    "items": [
+        {
+            "description": "Intuitive intermediate portal",
+            "quantity": 2,
+            "unit_price": 31.99,
+            "total_price": 63.98
+        },
+        {
+            "description": "Profound bifurcated info-mediaries",
+            "quantity": 5,
+            "unit_price": 421.34,
+            "total_price": 2106.7
+        },
+        {
+            "description": "Re-engineered content-based extranet",
+            "quantity": 4,
+            "unit_price": 344.47,
+            "total_price": 1377.88
+        }
+    ],
+    "amount": 3548.56
+}

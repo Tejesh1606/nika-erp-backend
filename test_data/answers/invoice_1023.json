@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Campbell PLC",
+    "invoice_number": "INV-23954",
+    "date": "2025-04-03",
+    "items": [
+        {
+            "description": "Extended radical access",
+            "quantity": 4,
+            "unit_price": 364.07,
+            "total_price": 1456.28
+        },
+        {
+            "description": "Versatile fault-tolerant core",
+            "quantity": 2,
+            "unit_price": 98.13,
+            "total_price": 196.26
+        },
+        {
+            "description": "Reactive dedicated productivity",
+            "quantity": 1,
+            "unit_price": 440.31,
+            "total_price": 440.31
+        }
+    ],
+    "amount": 2092.85
+}

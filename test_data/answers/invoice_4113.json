@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Payne LLC",
+    "invoice_number": "INV-12107",
+    "date": "2025-05-22",
+    "items": [
+        {
+            "description": "Extended executive structure",
+            "quantity": 4,
+            "unit_price": 79.57,
+            "total_price": 318.28
+        },
+        {
+            "description": "Assimilated global alliance",
+            "quantity": 2,
+            "unit_price": 358.21,
+            "total_price": 716.42
+        },
+        {
+            "description": "Reactive user-facing budgetary management",
+            "quantity": 7,
+            "unit_price": 193.6,
+            "total_price": 1355.2
+        }
+    ],
+    "amount": 2389.9
+}

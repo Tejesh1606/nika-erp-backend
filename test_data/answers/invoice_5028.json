@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Sharp Group",
+    "invoice_number": "INV-77221",
+    "date": "2025-03-22",
+    "items": [
+        {
+            "description": "Front-line 5thgeneration function",
+            "quantity": 2,
+            "unit_price": 17.75,
+            "total_price": 35.5
+        },
+        {
+            "description": "Upgradable 4thgeneration ability",
+            "quantity": 9,
+            "unit_price": 419.63,
+            "total_price": 3776.67
+        },
+        {
+            "description": "Inverse systemic standardization",
+            "quantity": 2,
+            "unit_price": 65.05,
+            "total_price": 130.1
+        },
+        {
+            "description": "Future-proofed intangible model",
+            "quantity": 3,
+            "unit_price": 451.9,
+            "total_price": 1355.7
+        }
+    ],
+    "amount": 5297.97
+}

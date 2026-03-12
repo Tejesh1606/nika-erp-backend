@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Fernandez-Williams",
+    "invoice_number": "INV-33331",
+    "date": "2025-12-02",
+    "items": [
+        {
+            "description": "Innovative object-oriented info-mediaries",
+            "quantity": 10,
+            "unit_price": 125.3,
+            "total_price": 1253.0
+        },
+        {
+            "description": "Object-based multi-state pricing structure",
+            "quantity": 9,
+            "unit_price": 482.3,
+            "total_price": 4340.7
+        },
+        {
+            "description": "Re-engineered tertiary concept",
+            "quantity": 9,
+            "unit_price": 261.62,
+            "total_price": 2354.58
+        }
+    ],
+    "amount": 7948.28
+}

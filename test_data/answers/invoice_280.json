@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mcbride, Sellers and Lawrence",
+    "invoice_number": "INV-98094",
+    "date": "2025-04-30",
+    "items": [
+        {
+            "description": "Intuitive bottom-line encoding",
+            "quantity": 2,
+            "unit_price": 20.71,
+            "total_price": 41.42
+        }
+    ],
+    "amount": 41.42
+}

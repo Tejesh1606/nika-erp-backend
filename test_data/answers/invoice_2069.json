@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Brown-Baker",
+    "invoice_number": "INV-14920",
+    "date": "2025-07-04",
+    "items": [
+        {
+            "description": "Expanded foreground approach",
+            "quantity": 1,
+            "unit_price": 131.44,
+            "total_price": 131.44
+        }
+    ],
+    "amount": 131.44
+}

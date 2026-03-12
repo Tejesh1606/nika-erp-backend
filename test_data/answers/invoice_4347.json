@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Martinez-Reynolds",
+    "invoice_number": "INV-45391",
+    "date": "2026-03-05",
+    "items": [
+        {
+            "description": "Polarized dynamic circuit",
+            "quantity": 6,
+            "unit_price": 176.72,
+            "total_price": 1060.32
+        },
+        {
+            "description": "Multi-lateral fresh-thinking approach",
+            "quantity": 7,
+            "unit_price": 446.41,
+            "total_price": 3124.87
+        }
+    ],
+    "amount": 4185.19
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Smith-Steele",
+    "invoice_number": "INV-72683",
+    "date": "2025-11-24",
+    "items": [
+        {
+            "description": "Fully-configurable intangible application",
+            "quantity": 10,
+            "unit_price": 228.4,
+            "total_price": 2284.0
+        },
+        {
+            "description": "Virtual bifurcated groupware",
+            "quantity": 6,
+            "unit_price": 188.57,
+            "total_price": 1131.42
+        }
+    ],
+    "amount": 3415.42
+}

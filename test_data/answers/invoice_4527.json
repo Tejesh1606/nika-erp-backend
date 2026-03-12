@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Martin-Mcfarland",
+    "invoice_number": "INV-68501",
+    "date": "2026-02-02",
+    "items": [
+        {
+            "description": "Quality-focused user-facing methodology",
+            "quantity": 4,
+            "unit_price": 390.71,
+            "total_price": 1562.84
+        },
+        {
+            "description": "Cross-platform high-level project",
+            "quantity": 4,
+            "unit_price": 59.32,
+            "total_price": 237.28
+        }
+    ],
+    "amount": 1800.12
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Spencer PLC",
+    "invoice_number": "INV-11522",
+    "date": "2025-03-11",
+    "items": [
+        {
+            "description": "Versatile full-range installation",
+            "quantity": 1,
+            "unit_price": 339.43,
+            "total_price": 339.43
+        },
+        {
+            "description": "Visionary leadingedge website",
+            "quantity": 7,
+            "unit_price": 128.59,
+            "total_price": 900.13
+        },
+        {
+            "description": "Focused scalable help-desk",
+            "quantity": 6,
+            "unit_price": 243.88,
+            "total_price": 1463.28
+        }
+    ],
+    "amount": 2702.84
+}

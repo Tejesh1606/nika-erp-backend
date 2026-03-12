@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wilson-Flores",
+    "invoice_number": "INV-29398",
+    "date": "2025-12-26",
+    "items": [
+        {
+            "description": "Reduced incremental productivity",
+            "quantity": 4,
+            "unit_price": 466.28,
+            "total_price": 1865.12
+        }
+    ],
+    "amount": 1865.12
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Alvarado-Cross",
+    "invoice_number": "INV-54884",
+    "date": "2025-08-01",
+    "items": [
+        {
+            "description": "Diverse discrete open system",
+            "quantity": 3,
+            "unit_price": 476.99,
+            "total_price": 1430.97
+        },
+        {
+            "description": "Customer-focused mission-critical time-frame",
+            "quantity": 8,
+            "unit_price": 495.28,
+            "total_price": 3962.24
+        },
+        {
+            "description": "Synergized 4thgeneration data-warehouse",
+            "quantity": 2,
+            "unit_price": 229.82,
+            "total_price": 459.64
+        }
+    ],
+    "amount": 5852.85
+}

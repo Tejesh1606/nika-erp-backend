@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Greene Inc",
+    "invoice_number": "INV-94437",
+    "date": "2025-12-07",
+    "items": [
+        {
+            "description": "User-friendly actuating emulation",
+            "quantity": 7,
+            "unit_price": 370.31,
+            "total_price": 2592.17
+        },
+        {
+            "description": "Multi-lateral content-based definition",
+            "quantity": 1,
+            "unit_price": 446.84,
+            "total_price": 446.84
+        }
+    ],
+    "amount": 3039.01
+}

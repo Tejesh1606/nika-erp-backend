@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hall PLC",
+    "invoice_number": "INV-53253",
+    "date": "2025-06-07",
+    "items": [
+        {
+            "description": "Integrated neutral array",
+            "quantity": 3,
+            "unit_price": 181.14,
+            "total_price": 543.42
+        }
+    ],
+    "amount": 543.42
+}

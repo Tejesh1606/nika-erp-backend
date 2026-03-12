@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Trujillo, King and Martinez",
+    "invoice_number": "INV-66827",
+    "date": "2025-04-10",
+    "items": [
+        {
+            "description": "Sharable zero-defect infrastructure",
+            "quantity": 5,
+            "unit_price": 172.15,
+            "total_price": 860.75
+        },
+        {
+            "description": "Operative stable instruction set",
+            "quantity": 1,
+            "unit_price": 374.43,
+            "total_price": 374.43
+        },
+        {
+            "description": "Grass-roots mission-critical architecture",
+            "quantity": 1,
+            "unit_price": 117.62,
+            "total_price": 117.62
+        }
+    ],
+    "amount": 1352.8
+}

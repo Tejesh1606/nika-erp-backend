@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Watts-Riley",
+    "invoice_number": "INV-73123",
+    "date": "2025-08-25",
+    "items": [
+        {
+            "description": "Open-source bottom-line project",
+            "quantity": 1,
+            "unit_price": 268.49,
+            "total_price": 268.49
+        },
+        {
+            "description": "Synchronized static neural-net",
+            "quantity": 1,
+            "unit_price": 463.09,
+            "total_price": 463.09
+        },
+        {
+            "description": "Upgradable optimizing framework",
+            "quantity": 6,
+            "unit_price": 495.83,
+            "total_price": 2974.98
+        }
+    ],
+    "amount": 3706.56
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Griffin, Alexander and Roman",
+    "invoice_number": "INV-66692",
+    "date": "2025-08-21",
+    "items": [
+        {
+            "description": "Team-oriented impactful system engine",
+            "quantity": 4,
+            "unit_price": 240.97,
+            "total_price": 963.88
+        }
+    ],
+    "amount": 963.88
+}

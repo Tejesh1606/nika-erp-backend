@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Guerra PLC",
+    "invoice_number": "INV-31697",
+    "date": "2025-12-14",
+    "items": [
+        {
+            "description": "Organic 6thgeneration installation",
+            "quantity": 3,
+            "unit_price": 382.82,
+            "total_price": 1148.46
+        }
+    ],
+    "amount": 1148.46
+}

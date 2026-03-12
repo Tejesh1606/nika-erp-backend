@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jones and Sons",
+    "invoice_number": "INV-67372",
+    "date": "2025-08-20",
+    "items": [
+        {
+            "description": "Reactive directional instruction set",
+            "quantity": 9,
+            "unit_price": 219.57,
+            "total_price": 1976.13
+        }
+    ],
+    "amount": 1976.13
+}

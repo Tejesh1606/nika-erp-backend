@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Le, Ballard and Schroeder",
+    "invoice_number": "INV-67272",
+    "date": "2026-01-30",
+    "items": [
+        {
+            "description": "Multi-lateral next generation collaboration",
+            "quantity": 5,
+            "unit_price": 498.9,
+            "total_price": 2494.5
+        }
+    ],
+    "amount": 2494.5
+}

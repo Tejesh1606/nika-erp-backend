@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Reyes and Sons",
+    "invoice_number": "INV-83744",
+    "date": "2025-05-15",
+    "items": [
+        {
+            "description": "Managed empowering throughput",
+            "quantity": 2,
+            "unit_price": 322.76,
+            "total_price": 645.52
+        },
+        {
+            "description": "Versatile hybrid software",
+            "quantity": 9,
+            "unit_price": 119.28,
+            "total_price": 1073.52
+        }
+    ],
+    "amount": 1719.04
+}

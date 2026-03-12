@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Donaldson and Sons",
+    "invoice_number": "INV-31706",
+    "date": "2025-09-06",
+    "items": [
+        {
+            "description": "Automated holistic installation",
+            "quantity": 9,
+            "unit_price": 307.65,
+            "total_price": 2768.85
+        },
+        {
+            "description": "Customer-focused eco-centric Internet solution",
+            "quantity": 10,
+            "unit_price": 142.38,
+            "total_price": 1423.8
+        },
+        {
+            "description": "Multi-channeled content-based extranet",
+            "quantity": 8,
+            "unit_price": 329.31,
+            "total_price": 2634.48
+        },
+        {
+            "description": "Function-based context-sensitive analyzer",
+            "quantity": 6,
+            "unit_price": 383.63,
+            "total_price": 2301.78
+        }
+    ],
+    "amount": 9128.91
+}

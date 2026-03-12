@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bond Group",
+    "invoice_number": "INV-38289",
+    "date": "2025-08-24",
+    "items": [
+        {
+            "description": "Object-based exuding model",
+            "quantity": 7,
+            "unit_price": 126.1,
+            "total_price": 882.7
+        },
+        {
+            "description": "Intuitive disintermediate collaboration",
+            "quantity": 3,
+            "unit_price": 14.24,
+            "total_price": 42.72
+        },
+        {
+            "description": "Assimilated stable workforce",
+            "quantity": 4,
+            "unit_price": 44.54,
+            "total_price": 178.16
+        }
+    ],
+    "amount": 1103.58
+}

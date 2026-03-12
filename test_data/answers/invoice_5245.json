@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Zamora-Rice",
+    "invoice_number": "INV-10356",
+    "date": "2025-04-21",
+    "items": [
+        {
+            "description": "Realigned multi-state array",
+            "quantity": 1,
+            "unit_price": 306.18,
+            "total_price": 306.18
+        },
+        {
+            "description": "Self-enabling zero tolerance protocol",
+            "quantity": 2,
+            "unit_price": 235.56,
+            "total_price": 471.12
+        },
+        {
+            "description": "Team-oriented tertiary software",
+            "quantity": 3,
+            "unit_price": 401.75,
+            "total_price": 1205.25
+        },
+        {
+            "description": "Cross-group bottom-line success",
+            "quantity": 8,
+            "unit_price": 178.45,
+            "total_price": 1427.6
+        }
+    ],
+    "amount": 3410.15
+}

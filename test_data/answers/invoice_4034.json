@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Zimmerman, Garrison and Frazier",
+    "invoice_number": "INV-39981",
+    "date": "2025-04-14",
+    "items": [
+        {
+            "description": "Centralized transitional solution",
+            "quantity": 4,
+            "unit_price": 230.51,
+            "total_price": 922.04
+        },
+        {
+            "description": "Cross-platform human-resource installation",
+            "quantity": 1,
+            "unit_price": 314.81,
+            "total_price": 314.81
+        },
+        {
+            "description": "Front-line zero administration implementation",
+            "quantity": 7,
+            "unit_price": 367.03,
+            "total_price": 2569.21
+        }
+    ],
+    "amount": 3806.06
+}

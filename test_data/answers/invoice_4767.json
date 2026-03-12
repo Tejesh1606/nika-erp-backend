@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mann, Stephens and Rodriguez",
+    "invoice_number": "INV-99743",
+    "date": "2026-02-21",
+    "items": [
+        {
+            "description": "Virtual web-enabled core",
+            "quantity": 1,
+            "unit_price": 236.32,
+            "total_price": 236.32
+        },
+        {
+            "description": "Advanced solution-oriented ability",
+            "quantity": 9,
+            "unit_price": 281.09,
+            "total_price": 2529.81
+        },
+        {
+            "description": "Compatible user-facing info-mediaries",
+            "quantity": 3,
+            "unit_price": 386.82,
+            "total_price": 1160.46
+        }
+    ],
+    "amount": 3926.59
+}

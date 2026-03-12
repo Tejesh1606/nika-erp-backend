@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jordan, Swanson and Franklin",
+    "invoice_number": "INV-83812",
+    "date": "2025-10-06",
+    "items": [
+        {
+            "description": "Extended homogeneous throughput",
+            "quantity": 6,
+            "unit_price": 356.72,
+            "total_price": 2140.32
+        },
+        {
+            "description": "Reactive value-added extranet",
+            "quantity": 6,
+            "unit_price": 228.48,
+            "total_price": 1370.88
+        },
+        {
+            "description": "Multi-lateral local knowledge user",
+            "quantity": 1,
+            "unit_price": 290.83,
+            "total_price": 290.83
+        },
+        {
+            "description": "Object-based 24hour success",
+            "quantity": 10,
+            "unit_price": 118.9,
+            "total_price": 1189.0
+        }
+    ],
+    "amount": 4991.03
+}

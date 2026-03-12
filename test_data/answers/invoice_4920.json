@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hale Ltd",
+    "invoice_number": "INV-19356",
+    "date": "2025-12-18",
+    "items": [
+        {
+            "description": "Implemented non-volatile conglomeration",
+            "quantity": 7,
+            "unit_price": 199.7,
+            "total_price": 1397.9
+        }
+    ],
+    "amount": 1397.9
+}

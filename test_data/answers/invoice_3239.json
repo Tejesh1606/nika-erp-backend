@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Porter and Sons",
+    "invoice_number": "INV-16857",
+    "date": "2026-01-20",
+    "items": [
+        {
+            "description": "Switchable logistical success",
+            "quantity": 9,
+            "unit_price": 283.16,
+            "total_price": 2548.44
+        },
+        {
+            "description": "Team-oriented dedicated projection",
+            "quantity": 9,
+            "unit_price": 144.83,
+            "total_price": 1303.47
+        },
+        {
+            "description": "Grass-roots system-worthy monitoring",
+            "quantity": 10,
+            "unit_price": 456.57,
+            "total_price": 4565.7
+        }
+    ],
+    "amount": 8417.61
+}

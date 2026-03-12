@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Moore, Grimes and Carpenter",
+    "invoice_number": "INV-87002",
+    "date": "2026-01-31",
+    "items": [
+        {
+            "description": "Reduced 24/7 concept",
+            "quantity": 10,
+            "unit_price": 348.28,
+            "total_price": 3482.8
+        }
+    ],
+    "amount": 3482.8
+}

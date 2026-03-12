@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jarvis-Haas",
+    "invoice_number": "INV-68040",
+    "date": "2026-01-24",
+    "items": [
+        {
+            "description": "Reduced homogeneous protocol",
+            "quantity": 7,
+            "unit_price": 224.85,
+            "total_price": 1573.95
+        },
+        {
+            "description": "Assimilated systemic initiative",
+            "quantity": 4,
+            "unit_price": 52.8,
+            "total_price": 211.2
+        },
+        {
+            "description": "Cross-group static interface",
+            "quantity": 4,
+            "unit_price": 120.71,
+            "total_price": 482.84
+        },
+        {
+            "description": "Reverse-engineered even-keeled budgetary management",
+            "quantity": 3,
+            "unit_price": 460.5,
+            "total_price": 1381.5
+        }
+    ],
+    "amount": 3649.49
+}

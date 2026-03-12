@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lawrence, Lara and Gonzalez",
+    "invoice_number": "INV-25043",
+    "date": "2025-10-06",
+    "items": [
+        {
+            "description": "Face-to-face secondary collaboration",
+            "quantity": 3,
+            "unit_price": 169.53,
+            "total_price": 508.59
+        }
+    ],
+    "amount": 508.59
+}

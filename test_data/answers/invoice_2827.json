@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jackson-Hodges",
+    "invoice_number": "INV-82449",
+    "date": "2026-02-10",
+    "items": [
+        {
+            "description": "Future-proofed coherent secured line",
+            "quantity": 3,
+            "unit_price": 204.21,
+            "total_price": 612.63
+        },
+        {
+            "description": "Synchronized 4thgeneration complexity",
+            "quantity": 4,
+            "unit_price": 141.22,
+            "total_price": 564.88
+        }
+    ],
+    "amount": 1177.51
+}

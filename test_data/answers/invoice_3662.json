@@ -1,0 +1,14 @@
+{
+    "vendor_name": "York, Flores and Taylor",
+    "invoice_number": "INV-25729",
+    "date": "2025-04-05",
+    "items": [
+        {
+            "description": "Diverse leadingedge synergy",
+            "quantity": 5,
+            "unit_price": 401.63,
+            "total_price": 2008.15
+        }
+    ],
+    "amount": 2008.15
+}

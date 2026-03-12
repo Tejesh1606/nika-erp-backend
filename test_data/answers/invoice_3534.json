@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Escobar-Walsh",
+    "invoice_number": "INV-16478",
+    "date": "2025-03-30",
+    "items": [
+        {
+            "description": "Mandatory executive hierarchy",
+            "quantity": 3,
+            "unit_price": 158.72,
+            "total_price": 476.16
+        },
+        {
+            "description": "Mandatory next generation encoding",
+            "quantity": 1,
+            "unit_price": 482.89,
+            "total_price": 482.89
+        }
+    ],
+    "amount": 959.05
+}

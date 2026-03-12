@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hoffman-Webb",
+    "invoice_number": "INV-79888",
+    "date": "2025-09-21",
+    "items": [
+        {
+            "description": "Fully-configurable homogeneous adapter",
+            "quantity": 1,
+            "unit_price": 453.76,
+            "total_price": 453.76
+        }
+    ],
+    "amount": 453.76
+}

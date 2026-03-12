@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Bradford Inc",
+    "invoice_number": "INV-67872",
+    "date": "2025-12-30",
+    "items": [
+        {
+            "description": "Multi-layered real-time product",
+            "quantity": 3,
+            "unit_price": 408.7,
+            "total_price": 1226.1
+        },
+        {
+            "description": "Assimilated context-sensitive Graphic Interface",
+            "quantity": 2,
+            "unit_price": 381.7,
+            "total_price": 763.4
+        },
+        {
+            "description": "Customer-focused tangible knowledge user",
+            "quantity": 5,
+            "unit_price": 422.16,
+            "total_price": 2110.8
+        },
+        {
+            "description": "Multi-tiered client-driven productivity",
+            "quantity": 8,
+            "unit_price": 474.67,
+            "total_price": 3797.36
+        }
+    ],
+    "amount": 7897.66
+}

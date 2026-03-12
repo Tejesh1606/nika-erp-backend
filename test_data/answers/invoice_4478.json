@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jimenez, Peters and Wilkinson",
+    "invoice_number": "INV-37741",
+    "date": "2025-08-28",
+    "items": [
+        {
+            "description": "Progressive context-sensitive project",
+            "quantity": 7,
+            "unit_price": 24.45,
+            "total_price": 171.15
+        },
+        {
+            "description": "Vision-oriented full-range strategy",
+            "quantity": 3,
+            "unit_price": 81.7,
+            "total_price": 245.1
+        },
+        {
+            "description": "Front-line leadingedge benchmark",
+            "quantity": 3,
+            "unit_price": 326.14,
+            "total_price": 978.42
+        }
+    ],
+    "amount": 1394.67
+}

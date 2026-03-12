@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith, Roberts and Wilson",
+    "invoice_number": "INV-47520",
+    "date": "2025-04-11",
+    "items": [
+        {
+            "description": "Multi-layered analyzing utilization",
+            "quantity": 2,
+            "unit_price": 467.44,
+            "total_price": 934.88
+        },
+        {
+            "description": "Persistent user-facing task-force",
+            "quantity": 2,
+            "unit_price": 74.56,
+            "total_price": 149.12
+        },
+        {
+            "description": "Innovative optimal encryption",
+            "quantity": 4,
+            "unit_price": 29.27,
+            "total_price": 117.08
+        }
+    ],
+    "amount": 1201.08
+}

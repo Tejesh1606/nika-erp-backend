@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Burton, Crawford and Dixon",
+    "invoice_number": "INV-17266",
+    "date": "2025-09-19",
+    "items": [
+        {
+            "description": "Re-contextualized composite hub",
+            "quantity": 2,
+            "unit_price": 367.05,
+            "total_price": 734.1
+        },
+        {
+            "description": "Diverse eco-centric throughput",
+            "quantity": 6,
+            "unit_price": 495.36,
+            "total_price": 2972.16
+        },
+        {
+            "description": "Customer-focused object-oriented service-desk",
+            "quantity": 1,
+            "unit_price": 189.9,
+            "total_price": 189.9
+        }
+    ],
+    "amount": 3896.16
+}

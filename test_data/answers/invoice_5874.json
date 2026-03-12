@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lester-Myers",
+    "invoice_number": "INV-62732",
+    "date": "2025-09-13",
+    "items": [
+        {
+            "description": "Multi-channeled tangible collaboration",
+            "quantity": 1,
+            "unit_price": 172.99,
+            "total_price": 172.99
+        },
+        {
+            "description": "Function-based secondary framework",
+            "quantity": 2,
+            "unit_price": 251.99,
+            "total_price": 503.98
+        },
+        {
+            "description": "Enterprise-wide 24/7 encoding",
+            "quantity": 2,
+            "unit_price": 142.09,
+            "total_price": 284.18
+        },
+        {
+            "description": "Customer-focused zero administration Graphic Interface",
+            "quantity": 9,
+            "unit_price": 352.17,
+            "total_price": 3169.53
+        }
+    ],
+    "amount": 4130.68
+}

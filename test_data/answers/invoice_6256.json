@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Galloway Group",
+    "invoice_number": "INV-94063",
+    "date": "2026-03-01",
+    "items": [
+        {
+            "description": "Reduced stable middleware",
+            "quantity": 5,
+            "unit_price": 287.75,
+            "total_price": 1438.75
+        },
+        {
+            "description": "Up-sized uniform monitoring",
+            "quantity": 10,
+            "unit_price": 485.91,
+            "total_price": 4859.1
+        },
+        {
+            "description": "Synergized impactful capability",
+            "quantity": 10,
+            "unit_price": 385.11,
+            "total_price": 3851.1
+        }
+    ],
+    "amount": 10148.95
+}

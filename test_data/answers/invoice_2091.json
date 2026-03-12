@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Torres PLC",
+    "invoice_number": "INV-75417",
+    "date": "2025-09-22",
+    "items": [
+        {
+            "description": "Right-sized optimal groupware",
+            "quantity": 3,
+            "unit_price": 210.2,
+            "total_price": 630.6
+        },
+        {
+            "description": "Advanced encompassing Local Area Network",
+            "quantity": 2,
+            "unit_price": 62.74,
+            "total_price": 125.48
+        },
+        {
+            "description": "Ameliorated composite access",
+            "quantity": 8,
+            "unit_price": 196.39,
+            "total_price": 1571.12
+        },
+        {
+            "description": "Multi-layered reciprocal software",
+            "quantity": 2,
+            "unit_price": 40.49,
+            "total_price": 80.98
+        }
+    ],
+    "amount": 2408.18
+}

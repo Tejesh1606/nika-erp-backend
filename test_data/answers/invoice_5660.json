@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Guzman, Smith and Myers",
+    "invoice_number": "INV-61764",
+    "date": "2025-10-29",
+    "items": [
+        {
+            "description": "Cloned zero-defect policy",
+            "quantity": 8,
+            "unit_price": 463.69,
+            "total_price": 3709.52
+        }
+    ],
+    "amount": 3709.52
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bryant-Jackson",
+    "invoice_number": "INV-31075",
+    "date": "2025-12-10",
+    "items": [
+        {
+            "description": "Public-key executive contingency",
+            "quantity": 7,
+            "unit_price": 296.56,
+            "total_price": 2075.92
+        },
+        {
+            "description": "Enhanced tertiary solution",
+            "quantity": 3,
+            "unit_price": 63.34,
+            "total_price": 190.02
+        }
+    ],
+    "amount": 2265.94
+}

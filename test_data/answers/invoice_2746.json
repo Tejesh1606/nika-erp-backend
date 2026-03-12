@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Tyler, Flores and Brown",
+    "invoice_number": "INV-14178",
+    "date": "2025-10-26",
+    "items": [
+        {
+            "description": "Enhanced national flexibility",
+            "quantity": 4,
+            "unit_price": 80.79,
+            "total_price": 323.16
+        }
+    ],
+    "amount": 323.16
+}

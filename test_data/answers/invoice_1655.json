@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Esparza Ltd",
+    "invoice_number": "INV-87152",
+    "date": "2026-02-17",
+    "items": [
+        {
+            "description": "Organized demand-driven array",
+            "quantity": 10,
+            "unit_price": 178.85,
+            "total_price": 1788.5
+        },
+        {
+            "description": "Mandatory disintermediate pricing structure",
+            "quantity": 10,
+            "unit_price": 319.8,
+            "total_price": 3198.0
+        },
+        {
+            "description": "Decentralized background workforce",
+            "quantity": 9,
+            "unit_price": 276.15,
+            "total_price": 2485.35
+        }
+    ],
+    "amount": 7471.85
+}

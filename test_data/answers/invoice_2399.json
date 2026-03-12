@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hernandez-Gonzalez",
+    "invoice_number": "INV-26668",
+    "date": "2025-06-06",
+    "items": [
+        {
+            "description": "Optimized 5thgeneration implementation",
+            "quantity": 5,
+            "unit_price": 292.75,
+            "total_price": 1463.75
+        },
+        {
+            "description": "Open-architected maximized portal",
+            "quantity": 5,
+            "unit_price": 207.73,
+            "total_price": 1038.65
+        },
+        {
+            "description": "Vision-oriented regional moderator",
+            "quantity": 8,
+            "unit_price": 142.18,
+            "total_price": 1137.44
+        }
+    ],
+    "amount": 3639.84
+}

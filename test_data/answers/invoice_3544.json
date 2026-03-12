@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Williams, Browning and Wade",
+    "invoice_number": "INV-40959",
+    "date": "2025-10-06",
+    "items": [
+        {
+            "description": "Realigned scalable knowledge user",
+            "quantity": 10,
+            "unit_price": 275.01,
+            "total_price": 2750.1
+        },
+        {
+            "description": "Programmable composite projection",
+            "quantity": 4,
+            "unit_price": 47.92,
+            "total_price": 191.68
+        },
+        {
+            "description": "Cloned next generation monitoring",
+            "quantity": 6,
+            "unit_price": 391.34,
+            "total_price": 2348.04
+        },
+        {
+            "description": "Seamless didactic moderator",
+            "quantity": 10,
+            "unit_price": 59.66,
+            "total_price": 596.6
+        }
+    ],
+    "amount": 5886.42
+}

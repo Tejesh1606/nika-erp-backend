@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Burch, Rodriguez and Walker",
+    "invoice_number": "INV-71072",
+    "date": "2025-12-02",
+    "items": [
+        {
+            "description": "Implemented human-resource artificial intelligence",
+            "quantity": 3,
+            "unit_price": 463.1,
+            "total_price": 1389.3
+        },
+        {
+            "description": "Optional bandwidth-monitored interface",
+            "quantity": 2,
+            "unit_price": 245.44,
+            "total_price": 490.88
+        },
+        {
+            "description": "Advanced foreground flexibility",
+            "quantity": 7,
+            "unit_price": 46.44,
+            "total_price": 325.08
+        },
+        {
+            "description": "Front-line directional knowledge user",
+            "quantity": 3,
+            "unit_price": 283.38,
+            "total_price": 850.14
+        }
+    ],
+    "amount": 3055.4
+}

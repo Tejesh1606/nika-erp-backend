@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Evans, Burch and Jackson",
+    "invoice_number": "INV-96266",
+    "date": "2025-03-09",
+    "items": [
+        {
+            "description": "Fully-configurable exuding analyzer",
+            "quantity": 2,
+            "unit_price": 25.67,
+            "total_price": 51.34
+        },
+        {
+            "description": "Programmable zero tolerance frame",
+            "quantity": 5,
+            "unit_price": 416.68,
+            "total_price": 2083.4
+        },
+        {
+            "description": "Switchable national intranet",
+            "quantity": 1,
+            "unit_price": 383.92,
+            "total_price": 383.92
+        }
+    ],
+    "amount": 2518.66
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Atkins, Vega and Ruiz",
+    "invoice_number": "INV-91765",
+    "date": "2026-01-12",
+    "items": [
+        {
+            "description": "Adaptive executive forecast",
+            "quantity": 3,
+            "unit_price": 400.67,
+            "total_price": 1202.01
+        },
+        {
+            "description": "Persistent reciprocal application",
+            "quantity": 8,
+            "unit_price": 215.36,
+            "total_price": 1722.88
+        }
+    ],
+    "amount": 2924.89
+}

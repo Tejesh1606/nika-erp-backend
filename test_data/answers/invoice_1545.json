@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ward Inc",
+    "invoice_number": "INV-15378",
+    "date": "2026-02-01",
+    "items": [
+        {
+            "description": "Cloned even-keeled benchmark",
+            "quantity": 2,
+            "unit_price": 371.5,
+            "total_price": 743.0
+        }
+    ],
+    "amount": 743.0
+}

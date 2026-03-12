@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Dyer, Mills and Gordon",
+    "invoice_number": "INV-42535",
+    "date": "2026-01-10",
+    "items": [
+        {
+            "description": "Multi-tiered interactive standardization",
+            "quantity": 6,
+            "unit_price": 224.51,
+            "total_price": 1347.06
+        }
+    ],
+    "amount": 1347.06
+}

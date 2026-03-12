@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Ruiz, Guerrero and Evans",
+    "invoice_number": "INV-26366",
+    "date": "2025-10-05",
+    "items": [
+        {
+            "description": "User-friendly reciprocal knowledgebase",
+            "quantity": 2,
+            "unit_price": 480.51,
+            "total_price": 961.02
+        },
+        {
+            "description": "Distributed asynchronous system engine",
+            "quantity": 5,
+            "unit_price": 337.63,
+            "total_price": 1688.15
+        },
+        {
+            "description": "Up-sized global flexibility",
+            "quantity": 4,
+            "unit_price": 497.39,
+            "total_price": 1989.56
+        },
+        {
+            "description": "Balanced homogeneous extranet",
+            "quantity": 1,
+            "unit_price": 135.87,
+            "total_price": 135.87
+        }
+    ],
+    "amount": 4774.6
+}

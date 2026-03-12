@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Perry-Bullock",
+    "invoice_number": "INV-36750",
+    "date": "2025-12-17",
+    "items": [
+        {
+            "description": "Diverse high-level attitude",
+            "quantity": 5,
+            "unit_price": 98.26,
+            "total_price": 491.3
+        },
+        {
+            "description": "Virtual executive function",
+            "quantity": 6,
+            "unit_price": 364.33,
+            "total_price": 2185.98
+        },
+        {
+            "description": "Quality-focused system-worthy neural-net",
+            "quantity": 8,
+            "unit_price": 330.76,
+            "total_price": 2646.08
+        }
+    ],
+    "amount": 5323.36
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wilson-Ryan",
+    "invoice_number": "INV-19964",
+    "date": "2025-08-14",
+    "items": [
+        {
+            "description": "Cloned multi-tasking concept",
+            "quantity": 9,
+            "unit_price": 191.26,
+            "total_price": 1721.34
+        },
+        {
+            "description": "User-centric mobile structure",
+            "quantity": 2,
+            "unit_price": 102.97,
+            "total_price": 205.94
+        },
+        {
+            "description": "Organic secondary definition",
+            "quantity": 5,
+            "unit_price": 66.66,
+            "total_price": 333.3
+        },
+        {
+            "description": "Implemented local Local Area Network",
+            "quantity": 7,
+            "unit_price": 66.53,
+            "total_price": 465.71
+        }
+    ],
+    "amount": 2726.29
+}

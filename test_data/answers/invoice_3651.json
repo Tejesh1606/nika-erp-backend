@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jones Inc",
+    "invoice_number": "INV-65886",
+    "date": "2025-11-28",
+    "items": [
+        {
+            "description": "Reduced optimizing contingency",
+            "quantity": 6,
+            "unit_price": 373.21,
+            "total_price": 2239.26
+        },
+        {
+            "description": "Synergistic attitude-oriented projection",
+            "quantity": 5,
+            "unit_price": 140.91,
+            "total_price": 704.55
+        },
+        {
+            "description": "Ergonomic foreground encryption",
+            "quantity": 9,
+            "unit_price": 174.39,
+            "total_price": 1569.51
+        }
+    ],
+    "amount": 4513.32
+}

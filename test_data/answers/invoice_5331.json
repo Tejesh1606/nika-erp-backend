@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Fields-Williams",
+    "invoice_number": "INV-71158",
+    "date": "2025-07-21",
+    "items": [
+        {
+            "description": "Secured full-range ability",
+            "quantity": 2,
+            "unit_price": 112.87,
+            "total_price": 225.74
+        },
+        {
+            "description": "Down-sized explicit circuit",
+            "quantity": 3,
+            "unit_price": 191.19,
+            "total_price": 573.57
+        },
+        {
+            "description": "Function-based solution-oriented throughput",
+            "quantity": 1,
+            "unit_price": 359.42,
+            "total_price": 359.42
+        }
+    ],
+    "amount": 1158.73
+}

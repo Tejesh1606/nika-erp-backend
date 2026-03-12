@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Harris and Sons",
+    "invoice_number": "INV-27987",
+    "date": "2025-12-30",
+    "items": [
+        {
+            "description": "Function-based explicit Graphic Interface",
+            "quantity": 6,
+            "unit_price": 63.07,
+            "total_price": 378.42
+        },
+        {
+            "description": "Decentralized 24hour methodology",
+            "quantity": 8,
+            "unit_price": 143.94,
+            "total_price": 1151.52
+        }
+    ],
+    "amount": 1529.94
+}

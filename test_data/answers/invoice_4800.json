@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Harris, Myers and Young",
+    "invoice_number": "INV-49562",
+    "date": "2025-09-27",
+    "items": [
+        {
+            "description": "Polarized 4thgeneration portal",
+            "quantity": 9,
+            "unit_price": 186.09,
+            "total_price": 1674.81
+        }
+    ],
+    "amount": 1674.81
+}

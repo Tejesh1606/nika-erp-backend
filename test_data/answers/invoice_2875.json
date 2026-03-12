@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mcclure, Erickson and Smith",
+    "invoice_number": "INV-58872",
+    "date": "2025-12-10",
+    "items": [
+        {
+            "description": "Devolved holistic initiative",
+            "quantity": 5,
+            "unit_price": 489.53,
+            "total_price": 2447.65
+        },
+        {
+            "description": "Mandatory radical parallelism",
+            "quantity": 3,
+            "unit_price": 229.89,
+            "total_price": 689.67
+        },
+        {
+            "description": "Multi-layered 3rdgeneration moderator",
+            "quantity": 9,
+            "unit_price": 335.21,
+            "total_price": 3016.89
+        },
+        {
+            "description": "Stand-alone regional architecture",
+            "quantity": 8,
+            "unit_price": 211.51,
+            "total_price": 1692.08
+        }
+    ],
+    "amount": 7846.29
+}

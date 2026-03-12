@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Thornton, Hoffman and Rodriguez",
+    "invoice_number": "INV-29536",
+    "date": "2025-10-06",
+    "items": [
+        {
+            "description": "Automated holistic paradigm",
+            "quantity": 7,
+            "unit_price": 283.31,
+            "total_price": 1983.17
+        },
+        {
+            "description": "Reactive client-server Internet solution",
+            "quantity": 2,
+            "unit_price": 434.11,
+            "total_price": 868.22
+        }
+    ],
+    "amount": 2851.39
+}

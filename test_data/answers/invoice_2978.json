@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson, Cunningham and Mckinney",
+    "invoice_number": "INV-73772",
+    "date": "2025-11-14",
+    "items": [
+        {
+            "description": "Advanced discrete framework",
+            "quantity": 6,
+            "unit_price": 244.09,
+            "total_price": 1464.54
+        },
+        {
+            "description": "De-engineered global protocol",
+            "quantity": 7,
+            "unit_price": 275.19,
+            "total_price": 1926.33
+        },
+        {
+            "description": "Customizable tertiary policy",
+            "quantity": 3,
+            "unit_price": 372.55,
+            "total_price": 1117.65
+        },
+        {
+            "description": "Organized systemic application",
+            "quantity": 4,
+            "unit_price": 418.53,
+            "total_price": 1674.12
+        }
+    ],
+    "amount": 6182.64
+}

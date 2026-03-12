@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Valentine-Moore",
+    "invoice_number": "INV-97266",
+    "date": "2025-04-01",
+    "items": [
+        {
+            "description": "Multi-channeled bi-directional architecture",
+            "quantity": 6,
+            "unit_price": 46.47,
+            "total_price": 278.82
+        },
+        {
+            "description": "Inverse tertiary matrices",
+            "quantity": 2,
+            "unit_price": 124.59,
+            "total_price": 249.18
+        },
+        {
+            "description": "Robust explicit circuit",
+            "quantity": 1,
+            "unit_price": 417.85,
+            "total_price": 417.85
+        },
+        {
+            "description": "Front-line multi-state methodology",
+            "quantity": 9,
+            "unit_price": 166.0,
+            "total_price": 1494.0
+        }
+    ],
+    "amount": 2439.85
+}

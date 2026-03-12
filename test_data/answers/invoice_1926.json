@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Green, Chavez and Davis",
+    "invoice_number": "INV-65008",
+    "date": "2025-04-06",
+    "items": [
+        {
+            "description": "Networked needs-based utilization",
+            "quantity": 8,
+            "unit_price": 296.58,
+            "total_price": 2372.64
+        },
+        {
+            "description": "Visionary holistic ability",
+            "quantity": 4,
+            "unit_price": 400.64,
+            "total_price": 1602.56
+        },
+        {
+            "description": "Polarized asymmetric approach",
+            "quantity": 10,
+            "unit_price": 206.26,
+            "total_price": 2062.6
+        }
+    ],
+    "amount": 6037.8
+}

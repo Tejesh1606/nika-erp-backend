@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Herrera and Sons",
+    "invoice_number": "INV-43619",
+    "date": "2025-11-28",
+    "items": [
+        {
+            "description": "Universal system-worthy infrastructure",
+            "quantity": 9,
+            "unit_price": 307.99,
+            "total_price": 2771.91
+        },
+        {
+            "description": "Horizontal national forecast",
+            "quantity": 1,
+            "unit_price": 457.47,
+            "total_price": 457.47
+        },
+        {
+            "description": "Horizontal non-volatile firmware",
+            "quantity": 7,
+            "unit_price": 167.04,
+            "total_price": 1169.28
+        }
+    ],
+    "amount": 4398.66
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Peters, Flores and Allen",
+    "invoice_number": "INV-60486",
+    "date": "2025-10-11",
+    "items": [
+        {
+            "description": "Fundamental bifurcated system engine",
+            "quantity": 3,
+            "unit_price": 323.88,
+            "total_price": 971.64
+        }
+    ],
+    "amount": 971.64
+}

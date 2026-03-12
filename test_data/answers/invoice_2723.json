@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Miller Ltd",
+    "invoice_number": "INV-61971",
+    "date": "2026-02-13",
+    "items": [
+        {
+            "description": "Vision-oriented zero tolerance productivity",
+            "quantity": 2,
+            "unit_price": 419.18,
+            "total_price": 838.36
+        }
+    ],
+    "amount": 838.36
+}

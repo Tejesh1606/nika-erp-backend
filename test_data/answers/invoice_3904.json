@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hubbard, Gordon and Watkins",
+    "invoice_number": "INV-13763",
+    "date": "2025-07-19",
+    "items": [
+        {
+            "description": "Intuitive modular matrices",
+            "quantity": 8,
+            "unit_price": 458.94,
+            "total_price": 3671.52
+        },
+        {
+            "description": "Re-engineered methodical protocol",
+            "quantity": 8,
+            "unit_price": 116.19,
+            "total_price": 929.52
+        }
+    ],
+    "amount": 4601.04
+}

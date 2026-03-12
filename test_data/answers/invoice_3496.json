@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Rodriguez-Wheeler",
+    "invoice_number": "INV-17036",
+    "date": "2025-12-09",
+    "items": [
+        {
+            "description": "Virtual object-oriented forecast",
+            "quantity": 3,
+            "unit_price": 491.65,
+            "total_price": 1474.95
+        },
+        {
+            "description": "Cloned actuating array",
+            "quantity": 1,
+            "unit_price": 409.92,
+            "total_price": 409.92
+        }
+    ],
+    "amount": 1884.87
+}

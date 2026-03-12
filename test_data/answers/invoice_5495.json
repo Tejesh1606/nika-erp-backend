@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lopez-Lowe",
+    "invoice_number": "INV-39868",
+    "date": "2025-05-13",
+    "items": [
+        {
+            "description": "Configurable bandwidth-monitored archive",
+            "quantity": 3,
+            "unit_price": 464.29,
+            "total_price": 1392.87
+        },
+        {
+            "description": "Self-enabling optimal application",
+            "quantity": 1,
+            "unit_price": 247.65,
+            "total_price": 247.65
+        },
+        {
+            "description": "De-engineered intermediate project",
+            "quantity": 2,
+            "unit_price": 95.93,
+            "total_price": 191.86
+        }
+    ],
+    "amount": 1832.38
+}

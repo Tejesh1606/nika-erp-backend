@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Conner-Smith",
+    "invoice_number": "INV-66203",
+    "date": "2026-03-08",
+    "items": [
+        {
+            "description": "Enhanced contextually-based algorithm",
+            "quantity": 10,
+            "unit_price": 398.44,
+            "total_price": 3984.4
+        },
+        {
+            "description": "Innovative content-based protocol",
+            "quantity": 9,
+            "unit_price": 297.86,
+            "total_price": 2680.74
+        }
+    ],
+    "amount": 6665.14
+}

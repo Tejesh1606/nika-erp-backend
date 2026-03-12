@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Fritz, Jones and Martin",
+    "invoice_number": "INV-92174",
+    "date": "2025-12-26",
+    "items": [
+        {
+            "description": "Open-source responsive hierarchy",
+            "quantity": 1,
+            "unit_price": 389.72,
+            "total_price": 389.72
+        },
+        {
+            "description": "Face-to-face empowering installation",
+            "quantity": 3,
+            "unit_price": 207.68,
+            "total_price": 623.04
+        },
+        {
+            "description": "Centralized web-enabled Internet solution",
+            "quantity": 3,
+            "unit_price": 406.49,
+            "total_price": 1219.47
+        }
+    ],
+    "amount": 2232.23
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Harrison-Ramsey",
+    "invoice_number": "INV-65233",
+    "date": "2025-04-04",
+    "items": [
+        {
+            "description": "Pre-emptive value-added time-frame",
+            "quantity": 10,
+            "unit_price": 262.64,
+            "total_price": 2626.4
+        }
+    ],
+    "amount": 2626.4
+}

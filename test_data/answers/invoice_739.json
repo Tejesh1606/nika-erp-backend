@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Salazar, Perez and Davis",
+    "invoice_number": "INV-70610",
+    "date": "2025-05-24",
+    "items": [
+        {
+            "description": "Fundamental tangible concept",
+            "quantity": 6,
+            "unit_price": 281.55,
+            "total_price": 1689.3
+        },
+        {
+            "description": "Business-focused impactful process improvement",
+            "quantity": 10,
+            "unit_price": 294.49,
+            "total_price": 2944.9
+        },
+        {
+            "description": "Optimized radical firmware",
+            "quantity": 3,
+            "unit_price": 356.65,
+            "total_price": 1069.95
+        }
+    ],
+    "amount": 5704.15
+}

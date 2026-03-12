@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Welch-Nguyen",
+    "invoice_number": "INV-30394",
+    "date": "2025-11-23",
+    "items": [
+        {
+            "description": "Synergized transitional parallelism",
+            "quantity": 8,
+            "unit_price": 218.4,
+            "total_price": 1747.2
+        }
+    ],
+    "amount": 1747.2
+}

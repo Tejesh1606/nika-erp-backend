@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hess, Hardy and Dillon",
+    "invoice_number": "INV-60439",
+    "date": "2025-08-15",
+    "items": [
+        {
+            "description": "Assimilated non-volatile methodology",
+            "quantity": 1,
+            "unit_price": 119.86,
+            "total_price": 119.86
+        },
+        {
+            "description": "Switchable non-volatile methodology",
+            "quantity": 1,
+            "unit_price": 109.37,
+            "total_price": 109.37
+        },
+        {
+            "description": "Profit-focused fresh-thinking groupware",
+            "quantity": 10,
+            "unit_price": 361.38,
+            "total_price": 3613.8
+        },
+        {
+            "description": "Advanced web-enabled approach",
+            "quantity": 8,
+            "unit_price": 301.43,
+            "total_price": 2411.44
+        }
+    ],
+    "amount": 6254.47
+}

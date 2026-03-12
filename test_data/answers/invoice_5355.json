@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Taylor Group",
+    "invoice_number": "INV-39528",
+    "date": "2025-05-01",
+    "items": [
+        {
+            "description": "Versatile 24/7 service-desk",
+            "quantity": 3,
+            "unit_price": 480.93,
+            "total_price": 1442.79
+        }
+    ],
+    "amount": 1442.79
+}

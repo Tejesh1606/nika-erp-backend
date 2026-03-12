@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Phillips, Williams and Huff",
+    "invoice_number": "INV-64832",
+    "date": "2025-03-11",
+    "items": [
+        {
+            "description": "Organic explicit budgetary management",
+            "quantity": 4,
+            "unit_price": 221.4,
+            "total_price": 885.6
+        }
+    ],
+    "amount": 885.6
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wood, Lyons and Lozano",
+    "invoice_number": "INV-22930",
+    "date": "2025-09-02",
+    "items": [
+        {
+            "description": "Enterprise-wide directional structure",
+            "quantity": 7,
+            "unit_price": 143.28,
+            "total_price": 1002.96
+        },
+        {
+            "description": "Intuitive asynchronous structure",
+            "quantity": 4,
+            "unit_price": 296.52,
+            "total_price": 1186.08
+        },
+        {
+            "description": "Expanded modular database",
+            "quantity": 9,
+            "unit_price": 428.9,
+            "total_price": 3860.1
+        }
+    ],
+    "amount": 6049.14
+}

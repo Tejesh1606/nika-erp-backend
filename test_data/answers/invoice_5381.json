@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Thomas Ltd",
+    "invoice_number": "INV-21661",
+    "date": "2025-08-22",
+    "items": [
+        {
+            "description": "Multi-channeled impactful array",
+            "quantity": 3,
+            "unit_price": 390.58,
+            "total_price": 1171.74
+        },
+        {
+            "description": "Exclusive system-worthy approach",
+            "quantity": 6,
+            "unit_price": 147.25,
+            "total_price": 883.5
+        },
+        {
+            "description": "Organic user-facing workforce",
+            "quantity": 4,
+            "unit_price": 93.48,
+            "total_price": 373.92
+        }
+    ],
+    "amount": 2429.16
+}

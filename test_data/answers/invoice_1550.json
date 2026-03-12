@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Stevens and Sons",
+    "invoice_number": "INV-32746",
+    "date": "2026-02-28",
+    "items": [
+        {
+            "description": "Face-to-face even-keeled benchmark",
+            "quantity": 7,
+            "unit_price": 213.83,
+            "total_price": 1496.81
+        },
+        {
+            "description": "Adaptive disintermediate secured line",
+            "quantity": 2,
+            "unit_price": 29.42,
+            "total_price": 58.84
+        },
+        {
+            "description": "Integrated intermediate paradigm",
+            "quantity": 7,
+            "unit_price": 498.86,
+            "total_price": 3492.02
+        }
+    ],
+    "amount": 5047.67
+}

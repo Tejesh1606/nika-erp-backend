@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Park, Strickland and Lopez",
+    "invoice_number": "INV-28877",
+    "date": "2025-09-30",
+    "items": [
+        {
+            "description": "Persistent user-facing implementation",
+            "quantity": 8,
+            "unit_price": 348.24,
+            "total_price": 2785.92
+        },
+        {
+            "description": "Assimilated uniform encryption",
+            "quantity": 6,
+            "unit_price": 443.0,
+            "total_price": 2658.0
+        },
+        {
+            "description": "Distributed 24hour middleware",
+            "quantity": 1,
+            "unit_price": 267.5,
+            "total_price": 267.5
+        },
+        {
+            "description": "Polarized local open architecture",
+            "quantity": 4,
+            "unit_price": 486.75,
+            "total_price": 1947.0
+        }
+    ],
+    "amount": 7658.42
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Reynolds Inc",
+    "invoice_number": "INV-48914",
+    "date": "2025-07-30",
+    "items": [
+        {
+            "description": "Multi-channeled radical application",
+            "quantity": 1,
+            "unit_price": 455.21,
+            "total_price": 455.21
+        },
+        {
+            "description": "Expanded human-resource Graphical User Interface",
+            "quantity": 4,
+            "unit_price": 132.85,
+            "total_price": 531.4
+        },
+        {
+            "description": "Face-to-face heuristic synergy",
+            "quantity": 4,
+            "unit_price": 34.41,
+            "total_price": 137.64
+        },
+        {
+            "description": "Horizontal cohesive database",
+            "quantity": 9,
+            "unit_price": 246.12,
+            "total_price": 2215.08
+        }
+    ],
+    "amount": 3339.33
+}

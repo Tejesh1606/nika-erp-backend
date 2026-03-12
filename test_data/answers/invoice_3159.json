@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Sanders, Martinez and Larsen",
+    "invoice_number": "INV-65872",
+    "date": "2025-11-01",
+    "items": [
+        {
+            "description": "Networked next generation leverage",
+            "quantity": 6,
+            "unit_price": 64.84,
+            "total_price": 389.04
+        },
+        {
+            "description": "Upgradable systematic function",
+            "quantity": 10,
+            "unit_price": 141.75,
+            "total_price": 1417.5
+        },
+        {
+            "description": "Advanced dynamic database",
+            "quantity": 9,
+            "unit_price": 156.44,
+            "total_price": 1407.96
+        },
+        {
+            "description": "Adaptive eco-centric hub",
+            "quantity": 6,
+            "unit_price": 249.79,
+            "total_price": 1498.74
+        }
+    ],
+    "amount": 4713.24
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Bradley, Williams and Black",
+    "invoice_number": "INV-99841",
+    "date": "2025-04-09",
+    "items": [
+        {
+            "description": "Digitized client-driven alliance",
+            "quantity": 8,
+            "unit_price": 281.11,
+            "total_price": 2248.88
+        },
+        {
+            "description": "Enterprise-wide web-enabled archive",
+            "quantity": 9,
+            "unit_price": 496.29,
+            "total_price": 4466.61
+        },
+        {
+            "description": "Mandatory solution-oriented attitude",
+            "quantity": 8,
+            "unit_price": 476.54,
+            "total_price": 3812.32
+        },
+        {
+            "description": "Devolved secondary software",
+            "quantity": 2,
+            "unit_price": 76.86,
+            "total_price": 153.72
+        }
+    ],
+    "amount": 10681.53
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hart, Watkins and Marshall",
+    "invoice_number": "INV-32423",
+    "date": "2025-06-01",
+    "items": [
+        {
+            "description": "Organic bi-directional adapter",
+            "quantity": 8,
+            "unit_price": 420.7,
+            "total_price": 3365.6
+        }
+    ],
+    "amount": 3365.6
+}

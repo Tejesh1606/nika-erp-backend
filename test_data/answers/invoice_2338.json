@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Torres-Robinson",
+    "invoice_number": "INV-93577",
+    "date": "2026-02-11",
+    "items": [
+        {
+            "description": "Intuitive user-facing hub",
+            "quantity": 4,
+            "unit_price": 134.16,
+            "total_price": 536.64
+        },
+        {
+            "description": "Configurable zero tolerance paradigm",
+            "quantity": 8,
+            "unit_price": 375.6,
+            "total_price": 3004.8
+        }
+    ],
+    "amount": 3541.44
+}

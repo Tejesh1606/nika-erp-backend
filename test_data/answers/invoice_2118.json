@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Simon, Walker and Hurst",
+    "invoice_number": "INV-70435",
+    "date": "2025-12-20",
+    "items": [
+        {
+            "description": "Right-sized upward-trending architecture",
+            "quantity": 4,
+            "unit_price": 14.88,
+            "total_price": 59.52
+        }
+    ],
+    "amount": 59.52
+}

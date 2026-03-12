@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hancock PLC",
+    "invoice_number": "INV-29638",
+    "date": "2025-06-30",
+    "items": [
+        {
+            "description": "Adaptive mission-critical function",
+            "quantity": 9,
+            "unit_price": 434.0,
+            "total_price": 3906.0
+        },
+        {
+            "description": "Cross-group scalable customer loyalty",
+            "quantity": 4,
+            "unit_price": 45.39,
+            "total_price": 181.56
+        }
+    ],
+    "amount": 4087.56
+}

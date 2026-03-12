@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Byrd Inc",
+    "invoice_number": "INV-58797",
+    "date": "2025-03-17",
+    "items": [
+        {
+            "description": "Front-line composite attitude",
+            "quantity": 1,
+            "unit_price": 322.04,
+            "total_price": 322.04
+        },
+        {
+            "description": "Right-sized multimedia hub",
+            "quantity": 1,
+            "unit_price": 498.96,
+            "total_price": 498.96
+        },
+        {
+            "description": "Versatile optimal service-desk",
+            "quantity": 1,
+            "unit_price": 33.15,
+            "total_price": 33.15
+        },
+        {
+            "description": "Operative grid-enabled website",
+            "quantity": 2,
+            "unit_price": 333.36,
+            "total_price": 666.72
+        }
+    ],
+    "amount": 1520.87
+}

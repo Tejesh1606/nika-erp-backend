@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jones-Sherman",
+    "invoice_number": "INV-19344",
+    "date": "2026-01-08",
+    "items": [
+        {
+            "description": "Phased responsive alliance",
+            "quantity": 2,
+            "unit_price": 333.61,
+            "total_price": 667.22
+        }
+    ],
+    "amount": 667.22
+}

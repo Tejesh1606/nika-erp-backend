@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Price, Andrews and Williams",
+    "invoice_number": "INV-97986",
+    "date": "2025-05-10",
+    "items": [
+        {
+            "description": "Networked exuding projection",
+            "quantity": 8,
+            "unit_price": 240.89,
+            "total_price": 1927.12
+        },
+        {
+            "description": "Managed impactful extranet",
+            "quantity": 7,
+            "unit_price": 349.98,
+            "total_price": 2449.86
+        }
+    ],
+    "amount": 4376.98
+}

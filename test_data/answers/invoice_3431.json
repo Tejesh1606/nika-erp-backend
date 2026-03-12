@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cuevas, Leonard and Webb",
+    "invoice_number": "INV-16025",
+    "date": "2025-04-26",
+    "items": [
+        {
+            "description": "Object-based holistic implementation",
+            "quantity": 9,
+            "unit_price": 251.41,
+            "total_price": 2262.69
+        },
+        {
+            "description": "Diverse modular synergy",
+            "quantity": 7,
+            "unit_price": 314.98,
+            "total_price": 2204.86
+        },
+        {
+            "description": "Pre-emptive systemic frame",
+            "quantity": 9,
+            "unit_price": 46.99,
+            "total_price": 422.91
+        }
+    ],
+    "amount": 4890.46
+}

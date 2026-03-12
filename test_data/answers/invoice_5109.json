@@ -1,0 +1,26 @@
+{
+    "vendor_name": "King-Velazquez",
+    "invoice_number": "INV-88309",
+    "date": "2026-02-10",
+    "items": [
+        {
+            "description": "Managed motivating open system",
+            "quantity": 5,
+            "unit_price": 493.72,
+            "total_price": 2468.6
+        },
+        {
+            "description": "Ergonomic upward-trending initiative",
+            "quantity": 4,
+            "unit_price": 130.67,
+            "total_price": 522.68
+        },
+        {
+            "description": "Pre-emptive explicit concept",
+            "quantity": 2,
+            "unit_price": 95.36,
+            "total_price": 190.72
+        }
+    ],
+    "amount": 3182.0
+}

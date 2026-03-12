@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Clark PLC",
+    "invoice_number": "INV-24526",
+    "date": "2025-11-02",
+    "items": [
+        {
+            "description": "Managed tangible extranet",
+            "quantity": 4,
+            "unit_price": 101.9,
+            "total_price": 407.6
+        }
+    ],
+    "amount": 407.6
+}

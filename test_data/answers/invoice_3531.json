@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Simmons-Gonzalez",
+    "invoice_number": "INV-83877",
+    "date": "2025-07-19",
+    "items": [
+        {
+            "description": "Operative stable matrix",
+            "quantity": 2,
+            "unit_price": 19.07,
+            "total_price": 38.14
+        },
+        {
+            "description": "Decentralized coherent groupware",
+            "quantity": 9,
+            "unit_price": 213.09,
+            "total_price": 1917.81
+        },
+        {
+            "description": "Multi-lateral optimizing definition",
+            "quantity": 6,
+            "unit_price": 48.94,
+            "total_price": 293.64
+        },
+        {
+            "description": "Mandatory 4thgeneration concept",
+            "quantity": 5,
+            "unit_price": 169.05,
+            "total_price": 845.25
+        }
+    ],
+    "amount": 3094.84
+}

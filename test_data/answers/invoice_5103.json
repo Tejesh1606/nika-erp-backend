@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wright-Meadows",
+    "invoice_number": "INV-19462",
+    "date": "2025-04-18",
+    "items": [
+        {
+            "description": "User-friendly 4thgeneration website",
+            "quantity": 1,
+            "unit_price": 259.28,
+            "total_price": 259.28
+        },
+        {
+            "description": "Automated systematic concept",
+            "quantity": 1,
+            "unit_price": 471.43,
+            "total_price": 471.43
+        }
+    ],
+    "amount": 730.71
+}

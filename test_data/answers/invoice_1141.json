@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ruiz, Lowery and Baker",
+    "invoice_number": "INV-13929",
+    "date": "2025-03-21",
+    "items": [
+        {
+            "description": "Mandatory intangible firmware",
+            "quantity": 9,
+            "unit_price": 176.71,
+            "total_price": 1590.39
+        },
+        {
+            "description": "Exclusive full-range task-force",
+            "quantity": 9,
+            "unit_price": 267.4,
+            "total_price": 2406.6
+        },
+        {
+            "description": "Centralized client-driven database",
+            "quantity": 10,
+            "unit_price": 270.74,
+            "total_price": 2707.4
+        }
+    ],
+    "amount": 6704.39
+}

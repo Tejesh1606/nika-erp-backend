@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Morris, Wright and Davis",
+    "invoice_number": "INV-98381",
+    "date": "2026-01-27",
+    "items": [
+        {
+            "description": "Re-engineered optimizing adapter",
+            "quantity": 6,
+            "unit_price": 356.2,
+            "total_price": 2137.2
+        }
+    ],
+    "amount": 2137.2
+}

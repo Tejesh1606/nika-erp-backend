@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Henry PLC",
+    "invoice_number": "INV-25816",
+    "date": "2025-09-05",
+    "items": [
+        {
+            "description": "User-centric interactive capacity",
+            "quantity": 7,
+            "unit_price": 284.77,
+            "total_price": 1993.39
+        },
+        {
+            "description": "Fully-configurable transitional conglomeration",
+            "quantity": 10,
+            "unit_price": 91.01,
+            "total_price": 910.1
+        }
+    ],
+    "amount": 2903.49
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ramirez, Rogers and Haynes",
+    "invoice_number": "INV-75611",
+    "date": "2025-12-23",
+    "items": [
+        {
+            "description": "Optional asynchronous Local Area Network",
+            "quantity": 4,
+            "unit_price": 204.61,
+            "total_price": 818.44
+        },
+        {
+            "description": "Reactive static access",
+            "quantity": 7,
+            "unit_price": 492.79,
+            "total_price": 3449.53
+        },
+        {
+            "description": "Multi-lateral neutral architecture",
+            "quantity": 6,
+            "unit_price": 145.93,
+            "total_price": 875.58
+        }
+    ],
+    "amount": 5143.55
+}

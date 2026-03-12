@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Welch-Davis",
+    "invoice_number": "INV-79002",
+    "date": "2025-11-22",
+    "items": [
+        {
+            "description": "Polarized logistical info-mediaries",
+            "quantity": 9,
+            "unit_price": 381.38,
+            "total_price": 3432.42
+        }
+    ],
+    "amount": 3432.42
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bass and Sons",
+    "invoice_number": "INV-97586",
+    "date": "2025-12-15",
+    "items": [
+        {
+            "description": "Diverse methodical database",
+            "quantity": 8,
+            "unit_price": 47.62,
+            "total_price": 380.96
+        },
+        {
+            "description": "Mandatory zero-defect methodology",
+            "quantity": 9,
+            "unit_price": 108.22,
+            "total_price": 973.98
+        }
+    ],
+    "amount": 1354.94
+}

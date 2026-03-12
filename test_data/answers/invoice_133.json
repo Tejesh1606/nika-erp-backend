@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jones-Figueroa",
+    "invoice_number": "INV-14018",
+    "date": "2025-04-13",
+    "items": [
+        {
+            "description": "User-friendly multi-tasking data-warehouse",
+            "quantity": 8,
+            "unit_price": 370.05,
+            "total_price": 2960.4
+        },
+        {
+            "description": "Multi-tiered intangible knowledgebase",
+            "quantity": 1,
+            "unit_price": 402.83,
+            "total_price": 402.83
+        },
+        {
+            "description": "Mandatory cohesive hub",
+            "quantity": 6,
+            "unit_price": 88.03,
+            "total_price": 528.18
+        }
+    ],
+    "amount": 3891.41
+}

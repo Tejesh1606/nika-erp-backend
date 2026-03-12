@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ramirez, Carter and Obrien",
+    "invoice_number": "INV-52125",
+    "date": "2025-03-30",
+    "items": [
+        {
+            "description": "Persevering incremental time-frame",
+            "quantity": 4,
+            "unit_price": 112.62,
+            "total_price": 450.48
+        },
+        {
+            "description": "Enhanced responsive model",
+            "quantity": 7,
+            "unit_price": 336.98,
+            "total_price": 2358.86
+        },
+        {
+            "description": "Exclusive optimal intranet",
+            "quantity": 2,
+            "unit_price": 164.73,
+            "total_price": 329.46
+        }
+    ],
+    "amount": 3138.8
+}

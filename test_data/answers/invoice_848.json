@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gibson Inc",
+    "invoice_number": "INV-75002",
+    "date": "2025-06-02",
+    "items": [
+        {
+            "description": "Adaptive scalable definition",
+            "quantity": 8,
+            "unit_price": 269.16,
+            "total_price": 2153.28
+        }
+    ],
+    "amount": 2153.28
+}

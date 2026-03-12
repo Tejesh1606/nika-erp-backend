@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Vazquez, Wilson and Coleman",
+    "invoice_number": "INV-25766",
+    "date": "2025-08-20",
+    "items": [
+        {
+            "description": "Down-sized fault-tolerant synergy",
+            "quantity": 9,
+            "unit_price": 306.97,
+            "total_price": 2762.73
+        },
+        {
+            "description": "Synergistic stable infrastructure",
+            "quantity": 2,
+            "unit_price": 368.51,
+            "total_price": 737.02
+        }
+    ],
+    "amount": 3499.75
+}

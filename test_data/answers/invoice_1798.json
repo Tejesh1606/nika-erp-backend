@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gordon, Boyer and Gonzales",
+    "invoice_number": "INV-99600",
+    "date": "2025-05-29",
+    "items": [
+        {
+            "description": "Team-oriented user-facing success",
+            "quantity": 1,
+            "unit_price": 209.68,
+            "total_price": 209.68
+        },
+        {
+            "description": "Triple-buffered holistic secured line",
+            "quantity": 8,
+            "unit_price": 324.2,
+            "total_price": 2593.6
+        }
+    ],
+    "amount": 2803.28
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Johnson-Cantu",
+    "invoice_number": "INV-64129",
+    "date": "2025-10-26",
+    "items": [
+        {
+            "description": "Multi-lateral grid-enabled toolset",
+            "quantity": 1,
+            "unit_price": 442.08,
+            "total_price": 442.08
+        },
+        {
+            "description": "Multi-channeled radical standardization",
+            "quantity": 5,
+            "unit_price": 431.56,
+            "total_price": 2157.8
+        },
+        {
+            "description": "Vision-oriented demand-driven hub",
+            "quantity": 8,
+            "unit_price": 462.7,
+            "total_price": 3701.6
+        }
+    ],
+    "amount": 6301.48
+}

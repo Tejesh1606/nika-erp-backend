@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Bright, Jones and Mueller",
+    "invoice_number": "INV-15543",
+    "date": "2025-06-16",
+    "items": [
+        {
+            "description": "Seamless real-time middleware",
+            "quantity": 2,
+            "unit_price": 129.89,
+            "total_price": 259.78
+        },
+        {
+            "description": "Automated optimizing framework",
+            "quantity": 8,
+            "unit_price": 315.83,
+            "total_price": 2526.64
+        },
+        {
+            "description": "Stand-alone radical methodology",
+            "quantity": 3,
+            "unit_price": 111.89,
+            "total_price": 335.67
+        },
+        {
+            "description": "Object-based zero tolerance portal",
+            "quantity": 3,
+            "unit_price": 488.61,
+            "total_price": 1465.83
+        }
+    ],
+    "amount": 4587.92
+}

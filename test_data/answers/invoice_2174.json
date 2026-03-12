@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Calderon, Edwards and Wagner",
+    "invoice_number": "INV-12708",
+    "date": "2025-12-27",
+    "items": [
+        {
+            "description": "Up-sized maximized synergy",
+            "quantity": 3,
+            "unit_price": 269.16,
+            "total_price": 807.48
+        },
+        {
+            "description": "Advanced zero administration secured line",
+            "quantity": 1,
+            "unit_price": 458.1,
+            "total_price": 458.1
+        },
+        {
+            "description": "Intuitive content-based capacity",
+            "quantity": 1,
+            "unit_price": 297.29,
+            "total_price": 297.29
+        }
+    ],
+    "amount": 1562.87
+}

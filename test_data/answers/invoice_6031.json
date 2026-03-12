@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Nguyen-Harris",
+    "invoice_number": "INV-94542",
+    "date": "2025-04-07",
+    "items": [
+        {
+            "description": "Versatile eco-centric knowledge user",
+            "quantity": 2,
+            "unit_price": 327.32,
+            "total_price": 654.64
+        },
+        {
+            "description": "Synergized optimizing infrastructure",
+            "quantity": 4,
+            "unit_price": 341.72,
+            "total_price": 1366.88
+        },
+        {
+            "description": "Customer-focused zero administration conglomeration",
+            "quantity": 8,
+            "unit_price": 160.37,
+            "total_price": 1282.96
+        }
+    ],
+    "amount": 3304.48
+}

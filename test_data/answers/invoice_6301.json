@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Williams-Mason",
+    "invoice_number": "INV-52349",
+    "date": "2025-06-18",
+    "items": [
+        {
+            "description": "Quality-focused multi-state groupware",
+            "quantity": 7,
+            "unit_price": 275.8,
+            "total_price": 1930.6
+        },
+        {
+            "description": "Right-sized multimedia product",
+            "quantity": 9,
+            "unit_price": 60.93,
+            "total_price": 548.37
+        }
+    ],
+    "amount": 2478.97
+}

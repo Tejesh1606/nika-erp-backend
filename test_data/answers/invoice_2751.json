@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Norris Ltd",
+    "invoice_number": "INV-10637",
+    "date": "2025-07-03",
+    "items": [
+        {
+            "description": "Mandatory 3rdgeneration protocol",
+            "quantity": 3,
+            "unit_price": 83.26,
+            "total_price": 249.78
+        },
+        {
+            "description": "Enterprise-wide next generation attitude",
+            "quantity": 6,
+            "unit_price": 287.4,
+            "total_price": 1724.4
+        },
+        {
+            "description": "Integrated demand-driven Graphical User Interface",
+            "quantity": 7,
+            "unit_price": 67.41,
+            "total_price": 471.87
+        },
+        {
+            "description": "Focused asymmetric challenge",
+            "quantity": 8,
+            "unit_price": 203.2,
+            "total_price": 1625.6
+        }
+    ],
+    "amount": 4071.65
+}

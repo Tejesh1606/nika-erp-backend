@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Foster-Garcia",
+    "invoice_number": "INV-55500",
+    "date": "2026-01-02",
+    "items": [
+        {
+            "description": "Multi-channeled high-level website",
+            "quantity": 10,
+            "unit_price": 64.47,
+            "total_price": 644.7
+        },
+        {
+            "description": "Cross-platform 6thgeneration methodology",
+            "quantity": 7,
+            "unit_price": 73.1,
+            "total_price": 511.7
+        },
+        {
+            "description": "Innovative radical product",
+            "quantity": 6,
+            "unit_price": 287.63,
+            "total_price": 1725.78
+        }
+    ],
+    "amount": 2882.18
+}

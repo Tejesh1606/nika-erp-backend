@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Harris-Villa",
+    "invoice_number": "INV-75073",
+    "date": "2025-03-09",
+    "items": [
+        {
+            "description": "Programmable bi-directional concept",
+            "quantity": 6,
+            "unit_price": 76.15,
+            "total_price": 456.9
+        }
+    ],
+    "amount": 456.9
+}

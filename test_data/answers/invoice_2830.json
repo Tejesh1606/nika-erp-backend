@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Salazar PLC",
+    "invoice_number": "INV-47356",
+    "date": "2025-04-18",
+    "items": [
+        {
+            "description": "Integrated modular hardware",
+            "quantity": 5,
+            "unit_price": 151.04,
+            "total_price": 755.2
+        },
+        {
+            "description": "Ergonomic regional moratorium",
+            "quantity": 1,
+            "unit_price": 300.3,
+            "total_price": 300.3
+        },
+        {
+            "description": "Secured tertiary architecture",
+            "quantity": 3,
+            "unit_price": 400.58,
+            "total_price": 1201.74
+        }
+    ],
+    "amount": 2257.24
+}

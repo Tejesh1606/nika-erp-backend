@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Ramsey Ltd",
+    "invoice_number": "INV-18017",
+    "date": "2025-12-19",
+    "items": [
+        {
+            "description": "Optional leadingedge hierarchy",
+            "quantity": 2,
+            "unit_price": 260.59,
+            "total_price": 521.18
+        },
+        {
+            "description": "Future-proofed object-oriented definition",
+            "quantity": 9,
+            "unit_price": 468.28,
+            "total_price": 4214.52
+        },
+        {
+            "description": "Secured dedicated function",
+            "quantity": 9,
+            "unit_price": 455.67,
+            "total_price": 4101.03
+        },
+        {
+            "description": "Focused systemic orchestration",
+            "quantity": 3,
+            "unit_price": 158.03,
+            "total_price": 474.09
+        }
+    ],
+    "amount": 9310.82
+}

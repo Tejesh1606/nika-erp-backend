@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Craig-Howard",
+    "invoice_number": "INV-23305",
+    "date": "2026-01-25",
+    "items": [
+        {
+            "description": "Synergized foreground process improvement",
+            "quantity": 8,
+            "unit_price": 28.22,
+            "total_price": 225.76
+        },
+        {
+            "description": "Compatible asynchronous leverage",
+            "quantity": 9,
+            "unit_price": 139.19,
+            "total_price": 1252.71
+        },
+        {
+            "description": "Mandatory solution-oriented data-warehouse",
+            "quantity": 4,
+            "unit_price": 140.89,
+            "total_price": 563.56
+        }
+    ],
+    "amount": 2042.03
+}

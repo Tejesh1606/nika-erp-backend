@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Poole, Clark and Sanders",
+    "invoice_number": "INV-53030",
+    "date": "2025-11-05",
+    "items": [
+        {
+            "description": "Virtual leadingedge function",
+            "quantity": 8,
+            "unit_price": 401.95,
+            "total_price": 3215.6
+        },
+        {
+            "description": "Pre-emptive 6thgeneration product",
+            "quantity": 8,
+            "unit_price": 126.65,
+            "total_price": 1013.2
+        },
+        {
+            "description": "Reverse-engineered bi-directional frame",
+            "quantity": 8,
+            "unit_price": 189.44,
+            "total_price": 1515.52
+        },
+        {
+            "description": "Profound maximized support",
+            "quantity": 5,
+            "unit_price": 50.0,
+            "total_price": 250.0
+        }
+    ],
+    "amount": 5994.32
+}

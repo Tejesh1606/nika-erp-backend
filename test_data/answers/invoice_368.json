@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Green-Dawson",
+    "invoice_number": "INV-95389",
+    "date": "2025-07-03",
+    "items": [
+        {
+            "description": "Ergonomic coherent model",
+            "quantity": 7,
+            "unit_price": 214.13,
+            "total_price": 1498.91
+        }
+    ],
+    "amount": 1498.91
+}

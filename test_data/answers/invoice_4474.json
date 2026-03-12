@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hansen-Smith",
+    "invoice_number": "INV-81574",
+    "date": "2026-02-27",
+    "items": [
+        {
+            "description": "Monitored uniform firmware",
+            "quantity": 4,
+            "unit_price": 371.65,
+            "total_price": 1486.6
+        },
+        {
+            "description": "Function-based multi-tasking knowledgebase",
+            "quantity": 8,
+            "unit_price": 106.54,
+            "total_price": 852.32
+        }
+    ],
+    "amount": 2338.92
+}

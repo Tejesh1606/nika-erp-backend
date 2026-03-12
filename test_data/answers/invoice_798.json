@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Miller-Rhodes",
+    "invoice_number": "INV-62789",
+    "date": "2025-10-23",
+    "items": [
+        {
+            "description": "Realigned multi-state time-frame",
+            "quantity": 1,
+            "unit_price": 14.74,
+            "total_price": 14.74
+        },
+        {
+            "description": "Object-based empowering paradigm",
+            "quantity": 3,
+            "unit_price": 93.69,
+            "total_price": 281.07
+        },
+        {
+            "description": "Proactive scalable interface",
+            "quantity": 2,
+            "unit_price": 88.58,
+            "total_price": 177.16
+        }
+    ],
+    "amount": 472.97
+}

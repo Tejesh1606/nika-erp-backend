@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Figueroa, Perez and Case",
+    "invoice_number": "INV-56291",
+    "date": "2025-11-18",
+    "items": [
+        {
+            "description": "Reactive interactive product",
+            "quantity": 4,
+            "unit_price": 378.37,
+            "total_price": 1513.48
+        }
+    ],
+    "amount": 1513.48
+}

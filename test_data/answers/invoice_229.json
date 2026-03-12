@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Stephens, Patel and Morrow",
+    "invoice_number": "INV-42441",
+    "date": "2025-09-03",
+    "items": [
+        {
+            "description": "Monitored coherent focus group",
+            "quantity": 9,
+            "unit_price": 179.65,
+            "total_price": 1616.85
+        }
+    ],
+    "amount": 1616.85
+}

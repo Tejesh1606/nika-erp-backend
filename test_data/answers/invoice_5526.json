@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Moreno-Mathews",
+    "invoice_number": "INV-32269",
+    "date": "2025-05-23",
+    "items": [
+        {
+            "description": "Streamlined 3rdgeneration policy",
+            "quantity": 3,
+            "unit_price": 376.62,
+            "total_price": 1129.86
+        },
+        {
+            "description": "Robust 5thgeneration knowledgebase",
+            "quantity": 5,
+            "unit_price": 399.57,
+            "total_price": 1997.85
+        },
+        {
+            "description": "Ameliorated zero tolerance function",
+            "quantity": 4,
+            "unit_price": 294.3,
+            "total_price": 1177.2
+        }
+    ],
+    "amount": 4304.91
+}

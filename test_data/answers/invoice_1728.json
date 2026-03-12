@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jones Ltd",
+    "invoice_number": "INV-35340",
+    "date": "2026-01-19",
+    "items": [
+        {
+            "description": "Seamless full-range algorithm",
+            "quantity": 3,
+            "unit_price": 443.97,
+            "total_price": 1331.91
+        },
+        {
+            "description": "Business-focused asymmetric implementation",
+            "quantity": 2,
+            "unit_price": 472.25,
+            "total_price": 944.5
+        },
+        {
+            "description": "Progressive analyzing pricing structure",
+            "quantity": 3,
+            "unit_price": 63.94,
+            "total_price": 191.82
+        }
+    ],
+    "amount": 2468.23
+}

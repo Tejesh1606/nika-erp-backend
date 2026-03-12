@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Robinson-Garcia",
+    "invoice_number": "INV-78650",
+    "date": "2026-01-14",
+    "items": [
+        {
+            "description": "Triple-buffered secondary product",
+            "quantity": 9,
+            "unit_price": 29.77,
+            "total_price": 267.93
+        },
+        {
+            "description": "Multi-layered web-enabled software",
+            "quantity": 6,
+            "unit_price": 462.25,
+            "total_price": 2773.5
+        },
+        {
+            "description": "Synergistic bifurcated matrices",
+            "quantity": 4,
+            "unit_price": 135.47,
+            "total_price": 541.88
+        }
+    ],
+    "amount": 3583.31
+}

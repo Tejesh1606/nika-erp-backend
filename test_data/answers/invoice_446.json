@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Shaw and Sons",
+    "invoice_number": "INV-67658",
+    "date": "2025-05-12",
+    "items": [
+        {
+            "description": "Focused asynchronous migration",
+            "quantity": 7,
+            "unit_price": 101.52,
+            "total_price": 710.64
+        },
+        {
+            "description": "Stand-alone even-keeled data-warehouse",
+            "quantity": 3,
+            "unit_price": 450.38,
+            "total_price": 1351.14
+        }
+    ],
+    "amount": 2061.78
+}

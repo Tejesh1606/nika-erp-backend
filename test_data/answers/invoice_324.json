@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Davis Ltd",
+    "invoice_number": "INV-49874",
+    "date": "2026-01-23",
+    "items": [
+        {
+            "description": "Triple-buffered tangible portal",
+            "quantity": 5,
+            "unit_price": 104.98,
+            "total_price": 524.9
+        },
+        {
+            "description": "Balanced didactic Graphic Interface",
+            "quantity": 6,
+            "unit_price": 334.01,
+            "total_price": 2004.06
+        },
+        {
+            "description": "Digitized background structure",
+            "quantity": 5,
+            "unit_price": 104.73,
+            "total_price": 523.65
+        }
+    ],
+    "amount": 3052.61
+}

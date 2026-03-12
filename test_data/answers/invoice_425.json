@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Medina Ltd",
+    "invoice_number": "INV-67047",
+    "date": "2025-11-15",
+    "items": [
+        {
+            "description": "Compatible value-added software",
+            "quantity": 8,
+            "unit_price": 92.48,
+            "total_price": 739.84
+        },
+        {
+            "description": "Distributed 4thgeneration knowledgebase",
+            "quantity": 4,
+            "unit_price": 97.75,
+            "total_price": 391.0
+        },
+        {
+            "description": "Universal full-range alliance",
+            "quantity": 4,
+            "unit_price": 247.84,
+            "total_price": 991.36
+        },
+        {
+            "description": "Cross-group asynchronous application",
+            "quantity": 6,
+            "unit_price": 307.22,
+            "total_price": 1843.32
+        }
+    ],
+    "amount": 3965.52
+}

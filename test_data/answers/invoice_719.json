@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Black, Lopez and Porter",
+    "invoice_number": "INV-96613",
+    "date": "2026-01-22",
+    "items": [
+        {
+            "description": "User-friendly maximized flexibility",
+            "quantity": 4,
+            "unit_price": 269.15,
+            "total_price": 1076.6
+        },
+        {
+            "description": "Sharable national workforce",
+            "quantity": 4,
+            "unit_price": 294.09,
+            "total_price": 1176.36
+        }
+    ],
+    "amount": 2252.96
+}

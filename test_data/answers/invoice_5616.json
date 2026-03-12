@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bennett, Stevens and Gonzalez",
+    "invoice_number": "INV-62813",
+    "date": "2025-05-08",
+    "items": [
+        {
+            "description": "Ameliorated homogeneous moderator",
+            "quantity": 6,
+            "unit_price": 355.91,
+            "total_price": 2135.46
+        },
+        {
+            "description": "Cloned fault-tolerant service-desk",
+            "quantity": 6,
+            "unit_price": 54.99,
+            "total_price": 329.94
+        }
+    ],
+    "amount": 2465.4
+}

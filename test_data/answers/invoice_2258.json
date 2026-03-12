@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Sullivan-Cline",
+    "invoice_number": "INV-12396",
+    "date": "2025-07-21",
+    "items": [
+        {
+            "description": "Cross-platform bandwidth-monitored analyzer",
+            "quantity": 2,
+            "unit_price": 216.92,
+            "total_price": 433.84
+        },
+        {
+            "description": "Enterprise-wide background complexity",
+            "quantity": 3,
+            "unit_price": 456.47,
+            "total_price": 1369.41
+        },
+        {
+            "description": "Multi-layered fault-tolerant customer loyalty",
+            "quantity": 10,
+            "unit_price": 199.36,
+            "total_price": 1993.6
+        },
+        {
+            "description": "Switchable value-added focus group",
+            "quantity": 6,
+            "unit_price": 70.97,
+            "total_price": 425.82
+        }
+    ],
+    "amount": 4222.67
+}

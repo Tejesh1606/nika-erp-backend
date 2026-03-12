@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lewis Ltd",
+    "invoice_number": "INV-52844",
+    "date": "2025-05-01",
+    "items": [
+        {
+            "description": "Reduced next generation model",
+            "quantity": 3,
+            "unit_price": 162.14,
+            "total_price": 486.42
+        }
+    ],
+    "amount": 486.42
+}

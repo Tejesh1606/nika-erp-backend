@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Adams Group",
+    "invoice_number": "INV-19808",
+    "date": "2025-06-30",
+    "items": [
+        {
+            "description": "Optimized reciprocal groupware",
+            "quantity": 5,
+            "unit_price": 234.25,
+            "total_price": 1171.25
+        }
+    ],
+    "amount": 1171.25
+}

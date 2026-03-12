@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Clark and Sons",
+    "invoice_number": "INV-19728",
+    "date": "2025-12-30",
+    "items": [
+        {
+            "description": "Ergonomic even-keeled orchestration",
+            "quantity": 7,
+            "unit_price": 238.36,
+            "total_price": 1668.52
+        },
+        {
+            "description": "Multi-channeled cohesive challenge",
+            "quantity": 8,
+            "unit_price": 197.93,
+            "total_price": 1583.44
+        },
+        {
+            "description": "Balanced non-volatile throughput",
+            "quantity": 4,
+            "unit_price": 108.86,
+            "total_price": 435.44
+        },
+        {
+            "description": "Fundamental 6thgeneration secured line",
+            "quantity": 10,
+            "unit_price": 69.19,
+            "total_price": 691.9
+        }
+    ],
+    "amount": 4379.3
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Moreno PLC",
+    "invoice_number": "INV-78925",
+    "date": "2025-05-05",
+    "items": [
+        {
+            "description": "Exclusive content-based analyzer",
+            "quantity": 3,
+            "unit_price": 442.83,
+            "total_price": 1328.49
+        },
+        {
+            "description": "Re-contextualized logistical algorithm",
+            "quantity": 4,
+            "unit_price": 52.76,
+            "total_price": 211.04
+        },
+        {
+            "description": "Cross-group real-time website",
+            "quantity": 4,
+            "unit_price": 245.85,
+            "total_price": 983.4
+        },
+        {
+            "description": "Reduced needs-based concept",
+            "quantity": 7,
+            "unit_price": 56.2,
+            "total_price": 393.4
+        }
+    ],
+    "amount": 2916.33
+}

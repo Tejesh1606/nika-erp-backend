@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Bell-Clayton",
+    "invoice_number": "INV-65816",
+    "date": "2025-09-28",
+    "items": [
+        {
+            "description": "Virtual full-range budgetary management",
+            "quantity": 9,
+            "unit_price": 495.26,
+            "total_price": 4457.34
+        },
+        {
+            "description": "Enhanced logistical interface",
+            "quantity": 3,
+            "unit_price": 272.34,
+            "total_price": 817.02
+        },
+        {
+            "description": "Multi-layered context-sensitive neural-net",
+            "quantity": 3,
+            "unit_price": 58.37,
+            "total_price": 175.11
+        },
+        {
+            "description": "Right-sized cohesive moratorium",
+            "quantity": 8,
+            "unit_price": 83.44,
+            "total_price": 667.52
+        }
+    ],
+    "amount": 6116.99
+}

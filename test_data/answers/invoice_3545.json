@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Campbell-Crosby",
+    "invoice_number": "INV-78122",
+    "date": "2025-04-16",
+    "items": [
+        {
+            "description": "Versatile web-enabled installation",
+            "quantity": 8,
+            "unit_price": 233.14,
+            "total_price": 1865.12
+        },
+        {
+            "description": "Visionary local Internet solution",
+            "quantity": 2,
+            "unit_price": 20.68,
+            "total_price": 41.36
+        },
+        {
+            "description": "Open-architected dynamic synergy",
+            "quantity": 9,
+            "unit_price": 163.14,
+            "total_price": 1468.26
+        }
+    ],
+    "amount": 3374.74
+}

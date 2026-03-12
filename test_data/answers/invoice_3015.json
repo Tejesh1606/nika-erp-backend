@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Shepherd, Knight and Frank",
+    "invoice_number": "INV-30903",
+    "date": "2026-03-01",
+    "items": [
+        {
+            "description": "Programmable modular customer loyalty",
+            "quantity": 9,
+            "unit_price": 105.21,
+            "total_price": 946.89
+        },
+        {
+            "description": "Total asynchronous extranet",
+            "quantity": 8,
+            "unit_price": 280.56,
+            "total_price": 2244.48
+        },
+        {
+            "description": "Diverse fault-tolerant open system",
+            "quantity": 10,
+            "unit_price": 224.45,
+            "total_price": 2244.5
+        }
+    ],
+    "amount": 5435.87
+}

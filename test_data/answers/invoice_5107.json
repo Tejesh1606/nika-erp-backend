@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Avery Ltd",
+    "invoice_number": "INV-37760",
+    "date": "2025-06-22",
+    "items": [
+        {
+            "description": "Enhanced context-sensitive alliance",
+            "quantity": 1,
+            "unit_price": 433.79,
+            "total_price": 433.79
+        },
+        {
+            "description": "Proactive 6thgeneration forecast",
+            "quantity": 6,
+            "unit_price": 193.22,
+            "total_price": 1159.32
+        }
+    ],
+    "amount": 1593.11
+}

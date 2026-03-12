@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Walker PLC",
+    "invoice_number": "INV-55574",
+    "date": "2025-04-15",
+    "items": [
+        {
+            "description": "Self-enabling tangible Graphical User Interface",
+            "quantity": 10,
+            "unit_price": 355.65,
+            "total_price": 3556.5
+        },
+        {
+            "description": "Seamless coherent encoding",
+            "quantity": 6,
+            "unit_price": 164.08,
+            "total_price": 984.48
+        }
+    ],
+    "amount": 4540.98
+}

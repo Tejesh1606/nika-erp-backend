@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Fernandez, Obrien and Lane",
+    "invoice_number": "INV-91470",
+    "date": "2025-11-12",
+    "items": [
+        {
+            "description": "Quality-focused exuding throughput",
+            "quantity": 10,
+            "unit_price": 203.08,
+            "total_price": 2030.8
+        },
+        {
+            "description": "Grass-roots 24hour infrastructure",
+            "quantity": 4,
+            "unit_price": 51.54,
+            "total_price": 206.16
+        },
+        {
+            "description": "Automated client-server toolset",
+            "quantity": 1,
+            "unit_price": 53.75,
+            "total_price": 53.75
+        }
+    ],
+    "amount": 2290.71
+}

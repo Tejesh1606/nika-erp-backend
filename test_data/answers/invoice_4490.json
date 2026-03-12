@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hansen LLC",
+    "invoice_number": "INV-36315",
+    "date": "2025-09-15",
+    "items": [
+        {
+            "description": "Streamlined attitude-oriented strategy",
+            "quantity": 7,
+            "unit_price": 441.07,
+            "total_price": 3087.49
+        },
+        {
+            "description": "Integrated zero administration paradigm",
+            "quantity": 4,
+            "unit_price": 418.2,
+            "total_price": 1672.8
+        },
+        {
+            "description": "Diverse incremental circuit",
+            "quantity": 2,
+            "unit_price": 160.83,
+            "total_price": 321.66
+        }
+    ],
+    "amount": 5081.95
+}

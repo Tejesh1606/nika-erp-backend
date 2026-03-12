@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Johnson-Strickland",
+    "invoice_number": "INV-30825",
+    "date": "2025-12-23",
+    "items": [
+        {
+            "description": "Synchronized system-worthy matrix",
+            "quantity": 4,
+            "unit_price": 310.05,
+            "total_price": 1240.2
+        }
+    ],
+    "amount": 1240.2
+}

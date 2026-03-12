@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Sullivan, Trujillo and Reed",
+    "invoice_number": "INV-61978",
+    "date": "2026-03-02",
+    "items": [
+        {
+            "description": "User-friendly content-based info-mediaries",
+            "quantity": 2,
+            "unit_price": 232.47,
+            "total_price": 464.94
+        },
+        {
+            "description": "Business-focused clear-thinking time-frame",
+            "quantity": 9,
+            "unit_price": 493.93,
+            "total_price": 4445.37
+        },
+        {
+            "description": "Multi-lateral dynamic implementation",
+            "quantity": 6,
+            "unit_price": 97.53,
+            "total_price": 585.18
+        }
+    ],
+    "amount": 5495.49
+}

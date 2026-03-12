@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wood-Barton",
+    "invoice_number": "INV-70414",
+    "date": "2025-07-14",
+    "items": [
+        {
+            "description": "Cross-platform system-worthy data-warehouse",
+            "quantity": 1,
+            "unit_price": 340.48,
+            "total_price": 340.48
+        },
+        {
+            "description": "Customizable multimedia task-force",
+            "quantity": 5,
+            "unit_price": 24.85,
+            "total_price": 124.25
+        },
+        {
+            "description": "Face-to-face user-facing success",
+            "quantity": 2,
+            "unit_price": 18.43,
+            "total_price": 36.86
+        },
+        {
+            "description": "Reactive client-driven core",
+            "quantity": 1,
+            "unit_price": 93.18,
+            "total_price": 93.18
+        }
+    ],
+    "amount": 594.77
+}

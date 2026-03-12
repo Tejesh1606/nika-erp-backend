@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Williams Group",
+    "invoice_number": "INV-89122",
+    "date": "2025-08-28",
+    "items": [
+        {
+            "description": "Programmable well-modulated policy",
+            "quantity": 8,
+            "unit_price": 53.31,
+            "total_price": 426.48
+        },
+        {
+            "description": "Reduced responsive open system",
+            "quantity": 2,
+            "unit_price": 251.8,
+            "total_price": 503.6
+        },
+        {
+            "description": "Multi-layered bi-directional project",
+            "quantity": 6,
+            "unit_price": 197.4,
+            "total_price": 1184.4
+        },
+        {
+            "description": "Function-based grid-enabled forecast",
+            "quantity": 9,
+            "unit_price": 74.43,
+            "total_price": 669.87
+        }
+    ],
+    "amount": 2784.35
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hamilton LLC",
+    "invoice_number": "INV-90847",
+    "date": "2026-01-15",
+    "items": [
+        {
+            "description": "Virtual logistical analyzer",
+            "quantity": 10,
+            "unit_price": 42.75,
+            "total_price": 427.5
+        },
+        {
+            "description": "Customer-focused user-facing application",
+            "quantity": 6,
+            "unit_price": 165.09,
+            "total_price": 990.54
+        }
+    ],
+    "amount": 1418.04
+}

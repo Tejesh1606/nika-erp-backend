@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Vega-Meadows",
+    "invoice_number": "INV-14344",
+    "date": "2025-10-06",
+    "items": [
+        {
+            "description": "Customizable asymmetric core",
+            "quantity": 5,
+            "unit_price": 460.62,
+            "total_price": 2303.1
+        },
+        {
+            "description": "Open-source system-worthy utilization",
+            "quantity": 1,
+            "unit_price": 330.65,
+            "total_price": 330.65
+        },
+        {
+            "description": "Fundamental web-enabled time-frame",
+            "quantity": 6,
+            "unit_price": 431.59,
+            "total_price": 2589.54
+        }
+    ],
+    "amount": 5223.29
+}

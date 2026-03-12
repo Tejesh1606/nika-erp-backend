@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Bryant and Sons",
+    "invoice_number": "INV-87469",
+    "date": "2025-04-02",
+    "items": [
+        {
+            "description": "Customer-focused bifurcated methodology",
+            "quantity": 9,
+            "unit_price": 64.2,
+            "total_price": 577.8
+        },
+        {
+            "description": "Right-sized reciprocal definition",
+            "quantity": 8,
+            "unit_price": 102.14,
+            "total_price": 817.12
+        },
+        {
+            "description": "Cloned dedicated interface",
+            "quantity": 4,
+            "unit_price": 83.93,
+            "total_price": 335.72
+        },
+        {
+            "description": "Mandatory user-facing service-desk",
+            "quantity": 8,
+            "unit_price": 10.33,
+            "total_price": 82.64
+        }
+    ],
+    "amount": 1813.28
+}

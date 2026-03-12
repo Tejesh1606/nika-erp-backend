@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Williams-Bailey",
+    "invoice_number": "INV-95879",
+    "date": "2026-02-17",
+    "items": [
+        {
+            "description": "Fully-configurable explicit capacity",
+            "quantity": 3,
+            "unit_price": 73.17,
+            "total_price": 219.51
+        },
+        {
+            "description": "Robust hybrid matrices",
+            "quantity": 4,
+            "unit_price": 81.35,
+            "total_price": 325.4
+        },
+        {
+            "description": "Switchable bottom-line protocol",
+            "quantity": 2,
+            "unit_price": 375.78,
+            "total_price": 751.56
+        }
+    ],
+    "amount": 1296.47
+}

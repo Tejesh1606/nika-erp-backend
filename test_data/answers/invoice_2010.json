@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ramirez, Kemp and Hamilton",
+    "invoice_number": "INV-76255",
+    "date": "2026-01-12",
+    "items": [
+        {
+            "description": "Persevering empowering flexibility",
+            "quantity": 5,
+            "unit_price": 479.09,
+            "total_price": 2395.45
+        }
+    ],
+    "amount": 2395.45
+}

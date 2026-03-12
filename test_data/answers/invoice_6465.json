@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Montgomery, Peterson and Edwards",
+    "invoice_number": "INV-23811",
+    "date": "2025-06-30",
+    "items": [
+        {
+            "description": "Fully-configurable intangible application",
+            "quantity": 1,
+            "unit_price": 18.42,
+            "total_price": 18.42
+        },
+        {
+            "description": "Horizontal disintermediate neural-net",
+            "quantity": 9,
+            "unit_price": 191.72,
+            "total_price": 1725.48
+        },
+        {
+            "description": "Proactive clear-thinking forecast",
+            "quantity": 3,
+            "unit_price": 344.9,
+            "total_price": 1034.7
+        },
+        {
+            "description": "Front-line 24hour moratorium",
+            "quantity": 7,
+            "unit_price": 141.9,
+            "total_price": 993.3
+        }
+    ],
+    "amount": 3771.9
+}

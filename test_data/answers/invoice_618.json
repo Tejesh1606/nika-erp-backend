@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Sampson Ltd",
+    "invoice_number": "INV-25963",
+    "date": "2025-12-08",
+    "items": [
+        {
+            "description": "Decentralized background portal",
+            "quantity": 3,
+            "unit_price": 125.66,
+            "total_price": 376.98
+        },
+        {
+            "description": "De-engineered homogeneous protocol",
+            "quantity": 7,
+            "unit_price": 496.63,
+            "total_price": 3476.41
+        },
+        {
+            "description": "Virtual secondary open system",
+            "quantity": 9,
+            "unit_price": 65.44,
+            "total_price": 588.96
+        }
+    ],
+    "amount": 4442.35
+}

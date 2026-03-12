@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hall Inc",
+    "invoice_number": "INV-36864",
+    "date": "2025-09-06",
+    "items": [
+        {
+            "description": "Open-source national support",
+            "quantity": 3,
+            "unit_price": 474.24,
+            "total_price": 1422.72
+        },
+        {
+            "description": "Compatible bi-directional software",
+            "quantity": 4,
+            "unit_price": 497.86,
+            "total_price": 1991.44
+        },
+        {
+            "description": "Reactive leadingedge structure",
+            "quantity": 8,
+            "unit_price": 368.98,
+            "total_price": 2951.84
+        },
+        {
+            "description": "Devolved directional support",
+            "quantity": 4,
+            "unit_price": 44.72,
+            "total_price": 178.88
+        }
+    ],
+    "amount": 6544.88
+}

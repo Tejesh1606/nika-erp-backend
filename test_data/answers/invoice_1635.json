@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lee-Rose",
+    "invoice_number": "INV-55123",
+    "date": "2025-04-30",
+    "items": [
+        {
+            "description": "Open-architected optimizing installation",
+            "quantity": 3,
+            "unit_price": 189.76,
+            "total_price": 569.28
+        }
+    ],
+    "amount": 569.28
+}

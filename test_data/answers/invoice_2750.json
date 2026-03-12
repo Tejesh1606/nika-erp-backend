@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Fuller, Jennings and Allen",
+    "invoice_number": "INV-13745",
+    "date": "2025-04-02",
+    "items": [
+        {
+            "description": "Operative client-driven groupware",
+            "quantity": 9,
+            "unit_price": 494.25,
+            "total_price": 4448.25
+        },
+        {
+            "description": "Realigned grid-enabled budgetary management",
+            "quantity": 4,
+            "unit_price": 117.41,
+            "total_price": 469.64
+        },
+        {
+            "description": "Multi-channeled 5thgeneration service-desk",
+            "quantity": 3,
+            "unit_price": 197.73,
+            "total_price": 593.19
+        }
+    ],
+    "amount": 5511.08
+}

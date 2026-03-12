@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Massey, Fields and Lopez",
+    "invoice_number": "INV-22295",
+    "date": "2025-09-18",
+    "items": [
+        {
+            "description": "Digitized 6thgeneration forecast",
+            "quantity": 4,
+            "unit_price": 59.74,
+            "total_price": 238.96
+        },
+        {
+            "description": "Quality-focused multi-tasking model",
+            "quantity": 6,
+            "unit_price": 131.12,
+            "total_price": 786.72
+        },
+        {
+            "description": "Object-based next generation application",
+            "quantity": 3,
+            "unit_price": 62.44,
+            "total_price": 187.32
+        },
+        {
+            "description": "Switchable exuding benchmark",
+            "quantity": 8,
+            "unit_price": 46.64,
+            "total_price": 373.12
+        }
+    ],
+    "amount": 1586.12
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Kemp-Caldwell",
+    "invoice_number": "INV-99241",
+    "date": "2025-10-21",
+    "items": [
+        {
+            "description": "Configurable analyzing hardware",
+            "quantity": 9,
+            "unit_price": 312.79,
+            "total_price": 2815.11
+        },
+        {
+            "description": "Grass-roots national throughput",
+            "quantity": 5,
+            "unit_price": 116.14,
+            "total_price": 580.7
+        },
+        {
+            "description": "Vision-oriented context-sensitive groupware",
+            "quantity": 9,
+            "unit_price": 72.89,
+            "total_price": 656.01
+        }
+    ],
+    "amount": 4051.82
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Schultz and Sons",
+    "invoice_number": "INV-36863",
+    "date": "2025-12-11",
+    "items": [
+        {
+            "description": "Face-to-face object-oriented paradigm",
+            "quantity": 8,
+            "unit_price": 95.73,
+            "total_price": 765.84
+        }
+    ],
+    "amount": 765.84
+}

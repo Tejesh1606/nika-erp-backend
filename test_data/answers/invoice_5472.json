@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Avila LLC",
+    "invoice_number": "INV-41714",
+    "date": "2025-06-09",
+    "items": [
+        {
+            "description": "Automated 24/7 circuit",
+            "quantity": 3,
+            "unit_price": 348.07,
+            "total_price": 1044.21
+        }
+    ],
+    "amount": 1044.21
+}

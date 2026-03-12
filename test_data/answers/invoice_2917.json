@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rose and Sons",
+    "invoice_number": "INV-42174",
+    "date": "2025-08-01",
+    "items": [
+        {
+            "description": "Expanded 6thgeneration Internet solution",
+            "quantity": 7,
+            "unit_price": 415.28,
+            "total_price": 2906.96
+        },
+        {
+            "description": "Profound multimedia Graphical User Interface",
+            "quantity": 1,
+            "unit_price": 359.26,
+            "total_price": 359.26
+        },
+        {
+            "description": "Optimized national superstructure",
+            "quantity": 5,
+            "unit_price": 375.37,
+            "total_price": 1876.85
+        },
+        {
+            "description": "Innovative systemic interface",
+            "quantity": 6,
+            "unit_price": 252.35,
+            "total_price": 1514.1
+        }
+    ],
+    "amount": 6657.17
+}

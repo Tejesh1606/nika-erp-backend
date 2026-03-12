@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Taylor-Barnes",
+    "invoice_number": "INV-89107",
+    "date": "2025-10-17",
+    "items": [
+        {
+            "description": "Business-focused tertiary budgetary management",
+            "quantity": 3,
+            "unit_price": 339.59,
+            "total_price": 1018.77
+        },
+        {
+            "description": "Programmable high-level benchmark",
+            "quantity": 5,
+            "unit_price": 357.75,
+            "total_price": 1788.75
+        }
+    ],
+    "amount": 2807.52
+}

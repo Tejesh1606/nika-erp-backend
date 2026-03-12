@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hansen-Williams",
+    "invoice_number": "INV-71290",
+    "date": "2025-05-15",
+    "items": [
+        {
+            "description": "Exclusive multi-state Internet solution",
+            "quantity": 7,
+            "unit_price": 253.98,
+            "total_price": 1777.86
+        },
+        {
+            "description": "Upgradable tertiary flexibility",
+            "quantity": 1,
+            "unit_price": 85.99,
+            "total_price": 85.99
+        }
+    ],
+    "amount": 1863.85
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lewis Group",
+    "invoice_number": "INV-34408",
+    "date": "2025-05-11",
+    "items": [
+        {
+            "description": "Decentralized hybrid paradigm",
+            "quantity": 4,
+            "unit_price": 38.9,
+            "total_price": 155.6
+        }
+    ],
+    "amount": 155.6
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Stone-Welch",
+    "invoice_number": "INV-74553",
+    "date": "2026-01-16",
+    "items": [
+        {
+            "description": "Enterprise-wide reciprocal emulation",
+            "quantity": 8,
+            "unit_price": 409.3,
+            "total_price": 3274.4
+        },
+        {
+            "description": "Triple-buffered explicit core",
+            "quantity": 10,
+            "unit_price": 237.79,
+            "total_price": 2377.9
+        },
+        {
+            "description": "Adaptive bottom-line algorithm",
+            "quantity": 5,
+            "unit_price": 441.36,
+            "total_price": 2206.8
+        }
+    ],
+    "amount": 7859.1
+}

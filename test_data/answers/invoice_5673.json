@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Barnes, Freeman and Pham",
+    "invoice_number": "INV-97201",
+    "date": "2025-05-21",
+    "items": [
+        {
+            "description": "Centralized zero tolerance leverage",
+            "quantity": 3,
+            "unit_price": 83.5,
+            "total_price": 250.5
+        },
+        {
+            "description": "Re-contextualized 24hour orchestration",
+            "quantity": 8,
+            "unit_price": 54.94,
+            "total_price": 439.52
+        }
+    ],
+    "amount": 690.02
+}

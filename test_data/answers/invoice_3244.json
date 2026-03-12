@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Olson PLC",
+    "invoice_number": "INV-43039",
+    "date": "2025-11-28",
+    "items": [
+        {
+            "description": "Phased contextually-based artificial intelligence",
+            "quantity": 2,
+            "unit_price": 266.03,
+            "total_price": 532.06
+        },
+        {
+            "description": "Fundamental intermediate artificial intelligence",
+            "quantity": 7,
+            "unit_price": 348.16,
+            "total_price": 2437.12
+        },
+        {
+            "description": "Persevering contextually-based methodology",
+            "quantity": 6,
+            "unit_price": 75.93,
+            "total_price": 455.58
+        }
+    ],
+    "amount": 3424.76
+}

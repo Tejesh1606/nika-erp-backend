@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Garza Ltd",
+    "invoice_number": "INV-54660",
+    "date": "2025-08-24",
+    "items": [
+        {
+            "description": "Organized grid-enabled protocol",
+            "quantity": 7,
+            "unit_price": 163.41,
+            "total_price": 1143.87
+        },
+        {
+            "description": "Open-architected demand-driven hierarchy",
+            "quantity": 6,
+            "unit_price": 308.07,
+            "total_price": 1848.42
+        },
+        {
+            "description": "Multi-lateral zero-defect middleware",
+            "quantity": 2,
+            "unit_price": 337.94,
+            "total_price": 675.88
+        }
+    ],
+    "amount": 3668.17
+}

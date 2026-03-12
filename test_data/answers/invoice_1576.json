@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hamilton-Palmer",
+    "invoice_number": "INV-97335",
+    "date": "2026-01-05",
+    "items": [
+        {
+            "description": "Reactive upward-trending synergy",
+            "quantity": 1,
+            "unit_price": 279.95,
+            "total_price": 279.95
+        },
+        {
+            "description": "Re-contextualized motivating architecture",
+            "quantity": 7,
+            "unit_price": 336.9,
+            "total_price": 2358.3
+        }
+    ],
+    "amount": 2638.25
+}

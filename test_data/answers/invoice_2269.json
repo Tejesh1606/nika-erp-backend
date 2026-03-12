@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Harrison, Davenport and Anderson",
+    "invoice_number": "INV-36581",
+    "date": "2025-11-26",
+    "items": [
+        {
+            "description": "Right-sized well-modulated parallelism",
+            "quantity": 6,
+            "unit_price": 178.09,
+            "total_price": 1068.54
+        },
+        {
+            "description": "Sharable human-resource extranet",
+            "quantity": 8,
+            "unit_price": 425.3,
+            "total_price": 3402.4
+        },
+        {
+            "description": "Polarized mobile time-frame",
+            "quantity": 10,
+            "unit_price": 137.72,
+            "total_price": 1377.2
+        },
+        {
+            "description": "Decentralized national customer loyalty",
+            "quantity": 1,
+            "unit_price": 376.11,
+            "total_price": 376.11
+        }
+    ],
+    "amount": 6224.25
+}

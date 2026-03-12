@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Tran Inc",
+    "invoice_number": "INV-57266",
+    "date": "2025-05-04",
+    "items": [
+        {
+            "description": "Compatible motivating help-desk",
+            "quantity": 10,
+            "unit_price": 444.26,
+            "total_price": 4442.6
+        },
+        {
+            "description": "Business-focused fresh-thinking info-mediaries",
+            "quantity": 9,
+            "unit_price": 352.07,
+            "total_price": 3168.63
+        }
+    ],
+    "amount": 7611.23
+}

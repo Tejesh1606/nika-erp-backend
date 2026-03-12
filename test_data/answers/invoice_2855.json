@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Holmes LLC",
+    "invoice_number": "INV-85100",
+    "date": "2025-06-11",
+    "items": [
+        {
+            "description": "Virtual value-added installation",
+            "quantity": 10,
+            "unit_price": 114.38,
+            "total_price": 1143.8
+        },
+        {
+            "description": "Realigned actuating secured line",
+            "quantity": 5,
+            "unit_price": 459.87,
+            "total_price": 2299.35
+        },
+        {
+            "description": "Networked dedicated Graphic Interface",
+            "quantity": 4,
+            "unit_price": 372.39,
+            "total_price": 1489.56
+        }
+    ],
+    "amount": 4932.71
+}

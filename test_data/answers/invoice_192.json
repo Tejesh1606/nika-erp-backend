@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Barnes, Estes and Barrera",
+    "invoice_number": "INV-52917",
+    "date": "2026-03-06",
+    "items": [
+        {
+            "description": "Re-engineered uniform functionalities",
+            "quantity": 3,
+            "unit_price": 148.87,
+            "total_price": 446.61
+        },
+        {
+            "description": "Ergonomic well-modulated complexity",
+            "quantity": 3,
+            "unit_price": 362.98,
+            "total_price": 1088.94
+        },
+        {
+            "description": "Proactive multimedia Local Area Network",
+            "quantity": 5,
+            "unit_price": 306.18,
+            "total_price": 1530.9
+        },
+        {
+            "description": "Proactive fault-tolerant methodology",
+            "quantity": 2,
+            "unit_price": 35.89,
+            "total_price": 71.78
+        }
+    ],
+    "amount": 3138.23
+}

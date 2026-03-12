@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gill-Anderson",
+    "invoice_number": "INV-73564",
+    "date": "2025-08-30",
+    "items": [
+        {
+            "description": "Ergonomic responsive neural-net",
+            "quantity": 10,
+            "unit_price": 124.16,
+            "total_price": 1241.6
+        },
+        {
+            "description": "Customer-focused zero tolerance definition",
+            "quantity": 9,
+            "unit_price": 10.64,
+            "total_price": 95.76
+        },
+        {
+            "description": "Fully-configurable 24hour pricing structure",
+            "quantity": 9,
+            "unit_price": 41.84,
+            "total_price": 376.56
+        },
+        {
+            "description": "Public-key dynamic attitude",
+            "quantity": 3,
+            "unit_price": 93.11,
+            "total_price": 279.33
+        }
+    ],
+    "amount": 1993.25
+}

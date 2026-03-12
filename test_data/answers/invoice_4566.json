@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ortiz Group",
+    "invoice_number": "INV-16573",
+    "date": "2025-10-11",
+    "items": [
+        {
+            "description": "Assimilated global support",
+            "quantity": 1,
+            "unit_price": 35.75,
+            "total_price": 35.75
+        },
+        {
+            "description": "Programmable value-added hardware",
+            "quantity": 3,
+            "unit_price": 318.9,
+            "total_price": 956.7
+        }
+    ],
+    "amount": 992.45
+}

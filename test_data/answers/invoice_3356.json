@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Alexander-Simmons",
+    "invoice_number": "INV-61795",
+    "date": "2025-07-26",
+    "items": [
+        {
+            "description": "Synergistic even-keeled array",
+            "quantity": 8,
+            "unit_price": 146.66,
+            "total_price": 1173.28
+        },
+        {
+            "description": "Visionary radical migration",
+            "quantity": 7,
+            "unit_price": 131.57,
+            "total_price": 920.99
+        },
+        {
+            "description": "Diverse motivating benchmark",
+            "quantity": 1,
+            "unit_price": 96.67,
+            "total_price": 96.67
+        },
+        {
+            "description": "Organized optimizing flexibility",
+            "quantity": 7,
+            "unit_price": 114.56,
+            "total_price": 801.92
+        }
+    ],
+    "amount": 2992.86
+}

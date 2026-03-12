@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Fischer PLC",
+    "invoice_number": "INV-75878",
+    "date": "2025-08-22",
+    "items": [
+        {
+            "description": "Public-key bottom-line approach",
+            "quantity": 9,
+            "unit_price": 144.89,
+            "total_price": 1304.01
+        }
+    ],
+    "amount": 1304.01
+}

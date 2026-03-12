@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Valencia, Miller and Watkins",
+    "invoice_number": "INV-87803",
+    "date": "2026-01-02",
+    "items": [
+        {
+            "description": "Optimized fault-tolerant concept",
+            "quantity": 6,
+            "unit_price": 187.38,
+            "total_price": 1124.28
+        },
+        {
+            "description": "Object-based 6thgeneration emulation",
+            "quantity": 5,
+            "unit_price": 482.08,
+            "total_price": 2410.4
+        },
+        {
+            "description": "Front-line intangible secured line",
+            "quantity": 8,
+            "unit_price": 39.54,
+            "total_price": 316.32
+        },
+        {
+            "description": "Enhanced 24/7 solution",
+            "quantity": 1,
+            "unit_price": 202.23,
+            "total_price": 202.23
+        }
+    ],
+    "amount": 4053.23
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gonzalez, Young and Hamilton",
+    "invoice_number": "INV-69767",
+    "date": "2025-12-24",
+    "items": [
+        {
+            "description": "Visionary dedicated standardization",
+            "quantity": 5,
+            "unit_price": 318.27,
+            "total_price": 1591.35
+        },
+        {
+            "description": "Open-architected asymmetric framework",
+            "quantity": 1,
+            "unit_price": 302.15,
+            "total_price": 302.15
+        }
+    ],
+    "amount": 1893.5
+}

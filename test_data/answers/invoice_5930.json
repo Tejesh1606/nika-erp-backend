@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Clark Inc",
+    "invoice_number": "INV-45110",
+    "date": "2025-09-25",
+    "items": [
+        {
+            "description": "Enhanced contextually-based capability",
+            "quantity": 8,
+            "unit_price": 13.08,
+            "total_price": 104.64
+        },
+        {
+            "description": "Compatible regional superstructure",
+            "quantity": 4,
+            "unit_price": 178.18,
+            "total_price": 712.72
+        }
+    ],
+    "amount": 817.36
+}

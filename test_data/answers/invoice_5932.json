@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Larsen, Suarez and Bell",
+    "invoice_number": "INV-10104",
+    "date": "2025-05-07",
+    "items": [
+        {
+            "description": "Networked radical forecast",
+            "quantity": 4,
+            "unit_price": 421.53,
+            "total_price": 1686.12
+        }
+    ],
+    "amount": 1686.12
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hicks, Baird and Smith",
+    "invoice_number": "INV-45359",
+    "date": "2025-09-30",
+    "items": [
+        {
+            "description": "Team-oriented bi-directional concept",
+            "quantity": 1,
+            "unit_price": 150.29,
+            "total_price": 150.29
+        },
+        {
+            "description": "Reduced uniform intranet",
+            "quantity": 7,
+            "unit_price": 402.26,
+            "total_price": 2815.82
+        },
+        {
+            "description": "Compatible reciprocal open architecture",
+            "quantity": 7,
+            "unit_price": 234.07,
+            "total_price": 1638.49
+        },
+        {
+            "description": "Public-key encompassing analyzer",
+            "quantity": 4,
+            "unit_price": 54.64,
+            "total_price": 218.56
+        }
+    ],
+    "amount": 4823.16
+}

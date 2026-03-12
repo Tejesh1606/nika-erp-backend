@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Foster-Bridges",
+    "invoice_number": "INV-22009",
+    "date": "2026-01-18",
+    "items": [
+        {
+            "description": "Face-to-face mission-critical approach",
+            "quantity": 6,
+            "unit_price": 140.03,
+            "total_price": 840.18
+        },
+        {
+            "description": "Team-oriented 6thgeneration success",
+            "quantity": 3,
+            "unit_price": 190.85,
+            "total_price": 572.55
+        }
+    ],
+    "amount": 1412.73
+}

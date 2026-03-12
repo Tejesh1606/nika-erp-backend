@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Summers-Walker",
+    "invoice_number": "INV-35448",
+    "date": "2025-07-06",
+    "items": [
+        {
+            "description": "Self-enabling regional capability",
+            "quantity": 7,
+            "unit_price": 434.07,
+            "total_price": 3038.49
+        },
+        {
+            "description": "Synergistic multimedia orchestration",
+            "quantity": 10,
+            "unit_price": 123.63,
+            "total_price": 1236.3
+        },
+        {
+            "description": "Compatible bifurcated matrices",
+            "quantity": 9,
+            "unit_price": 381.86,
+            "total_price": 3436.74
+        },
+        {
+            "description": "Right-sized mission-critical concept",
+            "quantity": 4,
+            "unit_price": 371.02,
+            "total_price": 1484.08
+        }
+    ],
+    "amount": 9195.61
+}

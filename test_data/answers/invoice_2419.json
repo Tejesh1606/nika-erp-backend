@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wallace PLC",
+    "invoice_number": "INV-64523",
+    "date": "2026-02-08",
+    "items": [
+        {
+            "description": "De-engineered zero-defect definition",
+            "quantity": 8,
+            "unit_price": 30.41,
+            "total_price": 243.28
+        },
+        {
+            "description": "Intuitive asymmetric ability",
+            "quantity": 8,
+            "unit_price": 25.81,
+            "total_price": 206.48
+        },
+        {
+            "description": "Team-oriented methodical installation",
+            "quantity": 6,
+            "unit_price": 11.39,
+            "total_price": 68.34
+        }
+    ],
+    "amount": 518.1
+}

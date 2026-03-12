@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Sanchez Ltd",
+    "invoice_number": "INV-80976",
+    "date": "2025-12-29",
+    "items": [
+        {
+            "description": "Open-source global open system",
+            "quantity": 9,
+            "unit_price": 237.36,
+            "total_price": 2136.24
+        },
+        {
+            "description": "Decentralized national task-force",
+            "quantity": 5,
+            "unit_price": 485.3,
+            "total_price": 2426.5
+        },
+        {
+            "description": "Decentralized non-volatile utilization",
+            "quantity": 7,
+            "unit_price": 41.7,
+            "total_price": 291.9
+        }
+    ],
+    "amount": 4854.64
+}

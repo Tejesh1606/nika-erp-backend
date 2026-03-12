@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Sanchez-Berger",
+    "invoice_number": "INV-90611",
+    "date": "2025-09-02",
+    "items": [
+        {
+            "description": "Vision-oriented user-facing data-warehouse",
+            "quantity": 4,
+            "unit_price": 356.12,
+            "total_price": 1424.48
+        },
+        {
+            "description": "Reduced systematic application",
+            "quantity": 8,
+            "unit_price": 396.37,
+            "total_price": 3170.96
+        }
+    ],
+    "amount": 4595.44
+}

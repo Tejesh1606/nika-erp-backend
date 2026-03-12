@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Floyd PLC",
+    "invoice_number": "INV-55071",
+    "date": "2026-02-12",
+    "items": [
+        {
+            "description": "Open-source empowering info-mediaries",
+            "quantity": 7,
+            "unit_price": 194.35,
+            "total_price": 1360.45
+        },
+        {
+            "description": "Streamlined mobile orchestration",
+            "quantity": 5,
+            "unit_price": 377.26,
+            "total_price": 1886.3
+        },
+        {
+            "description": "Robust methodical alliance",
+            "quantity": 7,
+            "unit_price": 202.24,
+            "total_price": 1415.68
+        }
+    ],
+    "amount": 4662.43
+}

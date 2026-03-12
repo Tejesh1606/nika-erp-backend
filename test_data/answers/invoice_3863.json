@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Miller and Sons",
+    "invoice_number": "INV-67916",
+    "date": "2025-05-12",
+    "items": [
+        {
+            "description": "Persevering secondary policy",
+            "quantity": 2,
+            "unit_price": 52.1,
+            "total_price": 104.2
+        },
+        {
+            "description": "Organic dynamic success",
+            "quantity": 8,
+            "unit_price": 305.73,
+            "total_price": 2445.84
+        },
+        {
+            "description": "Devolved neutral contingency",
+            "quantity": 2,
+            "unit_price": 152.68,
+            "total_price": 305.36
+        }
+    ],
+    "amount": 2855.4
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Baker Group",
+    "invoice_number": "INV-57004",
+    "date": "2026-02-01",
+    "items": [
+        {
+            "description": "Innovative mission-critical firmware",
+            "quantity": 10,
+            "unit_price": 367.6,
+            "total_price": 3676.0
+        }
+    ],
+    "amount": 3676.0
+}

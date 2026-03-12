@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Taylor, Rivas and Garcia",
+    "invoice_number": "INV-90962",
+    "date": "2025-04-23",
+    "items": [
+        {
+            "description": "Horizontal bifurcated toolset",
+            "quantity": 2,
+            "unit_price": 226.74,
+            "total_price": 453.48
+        },
+        {
+            "description": "Customer-focused modular customer loyalty",
+            "quantity": 1,
+            "unit_price": 378.24,
+            "total_price": 378.24
+        }
+    ],
+    "amount": 831.72
+}

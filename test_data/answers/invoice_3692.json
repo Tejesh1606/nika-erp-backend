@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hopkins-Barton",
+    "invoice_number": "INV-84225",
+    "date": "2025-11-02",
+    "items": [
+        {
+            "description": "Polarized stable extranet",
+            "quantity": 4,
+            "unit_price": 115.63,
+            "total_price": 462.52
+        }
+    ],
+    "amount": 462.52
+}

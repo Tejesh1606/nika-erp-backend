@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Fletcher-Munoz",
+    "invoice_number": "INV-10599",
+    "date": "2026-02-25",
+    "items": [
+        {
+            "description": "Synergized full-range emulation",
+            "quantity": 6,
+            "unit_price": 348.53,
+            "total_price": 2091.18
+        },
+        {
+            "description": "Open-architected solution-oriented interface",
+            "quantity": 4,
+            "unit_price": 492.19,
+            "total_price": 1968.76
+        },
+        {
+            "description": "Organic secondary middleware",
+            "quantity": 4,
+            "unit_price": 137.39,
+            "total_price": 549.56
+        }
+    ],
+    "amount": 4609.5
+}

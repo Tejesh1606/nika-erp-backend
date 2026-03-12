@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mcconnell, Pittman and Wright",
+    "invoice_number": "INV-72072",
+    "date": "2025-06-09",
+    "items": [
+        {
+            "description": "Mandatory actuating groupware",
+            "quantity": 7,
+            "unit_price": 16.93,
+            "total_price": 118.51
+        },
+        {
+            "description": "Programmable disintermediate archive",
+            "quantity": 7,
+            "unit_price": 240.12,
+            "total_price": 1680.84
+        },
+        {
+            "description": "Vision-oriented radical process improvement",
+            "quantity": 3,
+            "unit_price": 110.88,
+            "total_price": 332.64
+        }
+    ],
+    "amount": 2131.99
+}

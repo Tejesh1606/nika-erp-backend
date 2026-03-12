@@ -1,0 +1,20 @@
+{
+    "vendor_name": "King PLC",
+    "invoice_number": "INV-14346",
+    "date": "2025-09-02",
+    "items": [
+        {
+            "description": "Optional radical leverage",
+            "quantity": 4,
+            "unit_price": 212.22,
+            "total_price": 848.88
+        },
+        {
+            "description": "Diverse bifurcated implementation",
+            "quantity": 9,
+            "unit_price": 17.82,
+            "total_price": 160.38
+        }
+    ],
+    "amount": 1009.26
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Reed, Drake and Perkins",
+    "invoice_number": "INV-38063",
+    "date": "2025-12-03",
+    "items": [
+        {
+            "description": "Function-based actuating attitude",
+            "quantity": 2,
+            "unit_price": 120.66,
+            "total_price": 241.32
+        }
+    ],
+    "amount": 241.32
+}

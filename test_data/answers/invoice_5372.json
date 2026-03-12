@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ellis Inc",
+    "invoice_number": "INV-40275",
+    "date": "2025-07-12",
+    "items": [
+        {
+            "description": "Synergized real-time data-warehouse",
+            "quantity": 9,
+            "unit_price": 61.55,
+            "total_price": 553.95
+        }
+    ],
+    "amount": 553.95
+}

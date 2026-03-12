@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Sanchez, Wilson and Ramirez",
+    "invoice_number": "INV-18745",
+    "date": "2025-10-27",
+    "items": [
+        {
+            "description": "User-friendly high-level paradigm",
+            "quantity": 1,
+            "unit_price": 286.52,
+            "total_price": 286.52
+        },
+        {
+            "description": "Polarized non-volatile Internet solution",
+            "quantity": 4,
+            "unit_price": 443.5,
+            "total_price": 1774.0
+        },
+        {
+            "description": "Fundamental responsive software",
+            "quantity": 1,
+            "unit_price": 245.11,
+            "total_price": 245.11
+        }
+    ],
+    "amount": 2305.63
+}

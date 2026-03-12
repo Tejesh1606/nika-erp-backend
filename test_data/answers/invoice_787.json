@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Robbins PLC",
+    "invoice_number": "INV-19120",
+    "date": "2025-04-10",
+    "items": [
+        {
+            "description": "Mandatory foreground initiative",
+            "quantity": 6,
+            "unit_price": 343.0,
+            "total_price": 2058.0
+        },
+        {
+            "description": "Visionary composite Internet solution",
+            "quantity": 8,
+            "unit_price": 239.57,
+            "total_price": 1916.56
+        },
+        {
+            "description": "Centralized hybrid task-force",
+            "quantity": 2,
+            "unit_price": 334.2,
+            "total_price": 668.4
+        }
+    ],
+    "amount": 4642.96
+}

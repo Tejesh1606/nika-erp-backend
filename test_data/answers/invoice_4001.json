@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Guerra-Skinner",
+    "invoice_number": "INV-78627",
+    "date": "2025-10-19",
+    "items": [
+        {
+            "description": "Intuitive asynchronous customer loyalty",
+            "quantity": 4,
+            "unit_price": 132.22,
+            "total_price": 528.88
+        },
+        {
+            "description": "Vision-oriented fault-tolerant adapter",
+            "quantity": 3,
+            "unit_price": 472.31,
+            "total_price": 1416.93
+        },
+        {
+            "description": "Stand-alone didactic open system",
+            "quantity": 4,
+            "unit_price": 262.35,
+            "total_price": 1049.4
+        }
+    ],
+    "amount": 2995.21
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Baker-Miller",
+    "invoice_number": "INV-15832",
+    "date": "2025-12-28",
+    "items": [
+        {
+            "description": "Fundamental dedicated matrix",
+            "quantity": 7,
+            "unit_price": 35.2,
+            "total_price": 246.4
+        },
+        {
+            "description": "Persistent 5thgeneration concept",
+            "quantity": 8,
+            "unit_price": 60.35,
+            "total_price": 482.8
+        },
+        {
+            "description": "Secured stable instruction set",
+            "quantity": 5,
+            "unit_price": 414.65,
+            "total_price": 2073.25
+        }
+    ],
+    "amount": 2802.45
+}

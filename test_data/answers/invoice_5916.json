@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Pittman, Clark and Hull",
+    "invoice_number": "INV-52003",
+    "date": "2025-03-14",
+    "items": [
+        {
+            "description": "Organic disintermediate process improvement",
+            "quantity": 10,
+            "unit_price": 229.77,
+            "total_price": 2297.7
+        }
+    ],
+    "amount": 2297.7
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Foster-Fitzpatrick",
+    "invoice_number": "INV-97081",
+    "date": "2025-05-30",
+    "items": [
+        {
+            "description": "Object-based demand-driven archive",
+            "quantity": 3,
+            "unit_price": 355.67,
+            "total_price": 1067.01
+        },
+        {
+            "description": "Object-based dedicated encryption",
+            "quantity": 8,
+            "unit_price": 31.81,
+            "total_price": 254.48
+        }
+    ],
+    "amount": 1321.49
+}

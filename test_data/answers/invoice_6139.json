@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Frazier, Phelps and Bradford",
+    "invoice_number": "INV-75726",
+    "date": "2025-10-14",
+    "items": [
+        {
+            "description": "Stand-alone zero-defect data-warehouse",
+            "quantity": 10,
+            "unit_price": 167.47,
+            "total_price": 1674.7
+        },
+        {
+            "description": "Streamlined logistical algorithm",
+            "quantity": 9,
+            "unit_price": 96.24,
+            "total_price": 866.16
+        },
+        {
+            "description": "Realigned bifurcated application",
+            "quantity": 4,
+            "unit_price": 15.95,
+            "total_price": 63.8
+        },
+        {
+            "description": "User-friendly disintermediate hardware",
+            "quantity": 1,
+            "unit_price": 93.62,
+            "total_price": 93.62
+        }
+    ],
+    "amount": 2698.28
+}

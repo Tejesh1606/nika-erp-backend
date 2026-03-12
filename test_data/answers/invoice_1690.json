@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Chung Ltd",
+    "invoice_number": "INV-13049",
+    "date": "2025-11-23",
+    "items": [
+        {
+            "description": "Configurable methodical implementation",
+            "quantity": 6,
+            "unit_price": 78.63,
+            "total_price": 471.78
+        },
+        {
+            "description": "Integrated incremental utilization",
+            "quantity": 5,
+            "unit_price": 175.63,
+            "total_price": 878.15
+        },
+        {
+            "description": "Grass-roots explicit migration",
+            "quantity": 5,
+            "unit_price": 267.7,
+            "total_price": 1338.5
+        },
+        {
+            "description": "Re-engineered multi-tasking middleware",
+            "quantity": 3,
+            "unit_price": 239.86,
+            "total_price": 719.58
+        }
+    ],
+    "amount": 3408.01
+}

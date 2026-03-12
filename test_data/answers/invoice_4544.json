@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Reese-Khan",
+    "invoice_number": "INV-28254",
+    "date": "2025-10-23",
+    "items": [
+        {
+            "description": "Stand-alone mission-critical matrices",
+            "quantity": 5,
+            "unit_price": 416.61,
+            "total_price": 2083.05
+        },
+        {
+            "description": "Innovative attitude-oriented task-force",
+            "quantity": 9,
+            "unit_price": 327.19,
+            "total_price": 2944.71
+        }
+    ],
+    "amount": 5027.76
+}

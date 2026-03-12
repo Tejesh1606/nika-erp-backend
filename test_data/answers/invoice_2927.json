@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Fuller, Miranda and Graham",
+    "invoice_number": "INV-16463",
+    "date": "2025-04-10",
+    "items": [
+        {
+            "description": "Sharable motivating alliance",
+            "quantity": 4,
+            "unit_price": 476.48,
+            "total_price": 1905.92
+        },
+        {
+            "description": "Grass-roots 24/7 utilization",
+            "quantity": 2,
+            "unit_price": 363.77,
+            "total_price": 727.54
+        },
+        {
+            "description": "Expanded dedicated framework",
+            "quantity": 6,
+            "unit_price": 168.33,
+            "total_price": 1009.98
+        },
+        {
+            "description": "Reactive 24hour archive",
+            "quantity": 3,
+            "unit_price": 232.11,
+            "total_price": 696.33
+        }
+    ],
+    "amount": 4339.77
+}

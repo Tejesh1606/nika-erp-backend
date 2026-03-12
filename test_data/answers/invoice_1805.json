@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Taylor, Wilson and Wise",
+    "invoice_number": "INV-98268",
+    "date": "2025-04-12",
+    "items": [
+        {
+            "description": "Customizable bifurcated implementation",
+            "quantity": 7,
+            "unit_price": 412.03,
+            "total_price": 2884.21
+        },
+        {
+            "description": "Open-architected bi-directional capacity",
+            "quantity": 6,
+            "unit_price": 89.74,
+            "total_price": 538.44
+        },
+        {
+            "description": "Enterprise-wide 6thgeneration capability",
+            "quantity": 10,
+            "unit_price": 130.13,
+            "total_price": 1301.3
+        }
+    ],
+    "amount": 4723.95
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mosley-Gordon",
+    "invoice_number": "INV-75821",
+    "date": "2026-01-16",
+    "items": [
+        {
+            "description": "Vision-oriented coherent algorithm",
+            "quantity": 3,
+            "unit_price": 160.72,
+            "total_price": 482.16
+        },
+        {
+            "description": "Reverse-engineered homogeneous matrices",
+            "quantity": 3,
+            "unit_price": 62.15,
+            "total_price": 186.45
+        },
+        {
+            "description": "Reverse-engineered 5thgeneration frame",
+            "quantity": 4,
+            "unit_price": 295.27,
+            "total_price": 1181.08
+        }
+    ],
+    "amount": 1849.69
+}

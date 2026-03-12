@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Schaefer-Jones",
+    "invoice_number": "INV-81641",
+    "date": "2025-11-04",
+    "items": [
+        {
+            "description": "Mandatory exuding success",
+            "quantity": 5,
+            "unit_price": 205.79,
+            "total_price": 1028.95
+        }
+    ],
+    "amount": 1028.95
+}

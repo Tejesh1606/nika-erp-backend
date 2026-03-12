@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Frederick Group",
+    "invoice_number": "INV-36473",
+    "date": "2026-01-24",
+    "items": [
+        {
+            "description": "Streamlined local budgetary management",
+            "quantity": 5,
+            "unit_price": 262.48,
+            "total_price": 1312.4
+        },
+        {
+            "description": "Compatible 24/7 knowledge user",
+            "quantity": 10,
+            "unit_price": 439.41,
+            "total_price": 4394.1
+        },
+        {
+            "description": "Virtual 24hour infrastructure",
+            "quantity": 6,
+            "unit_price": 88.71,
+            "total_price": 532.26
+        }
+    ],
+    "amount": 6238.76
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Coleman PLC",
+    "invoice_number": "INV-42632",
+    "date": "2025-07-04",
+    "items": [
+        {
+            "description": "Horizontal object-oriented knowledge user",
+            "quantity": 9,
+            "unit_price": 420.44,
+            "total_price": 3783.96
+        }
+    ],
+    "amount": 3783.96
+}

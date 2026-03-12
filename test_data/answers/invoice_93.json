@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Adams, Smith and Barber",
+    "invoice_number": "INV-86931",
+    "date": "2025-10-20",
+    "items": [
+        {
+            "description": "Switchable mobile collaboration",
+            "quantity": 10,
+            "unit_price": 434.83,
+            "total_price": 4348.3
+        },
+        {
+            "description": "Organized national matrices",
+            "quantity": 3,
+            "unit_price": 107.17,
+            "total_price": 321.51
+        },
+        {
+            "description": "Monitored full-range neural-net",
+            "quantity": 8,
+            "unit_price": 427.85,
+            "total_price": 3422.8
+        },
+        {
+            "description": "Virtual needs-based implementation",
+            "quantity": 10,
+            "unit_price": 471.86,
+            "total_price": 4718.6
+        }
+    ],
+    "amount": 12811.21
+}

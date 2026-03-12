@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cruz, Smith and Reyes",
+    "invoice_number": "INV-68198",
+    "date": "2025-03-26",
+    "items": [
+        {
+            "description": "Face-to-face demand-driven implementation",
+            "quantity": 8,
+            "unit_price": 278.71,
+            "total_price": 2229.68
+        }
+    ],
+    "amount": 2229.68
+}

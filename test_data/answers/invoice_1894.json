@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rodriguez, May and Curtis",
+    "invoice_number": "INV-97755",
+    "date": "2025-07-11",
+    "items": [
+        {
+            "description": "Front-line secondary policy",
+            "quantity": 8,
+            "unit_price": 350.72,
+            "total_price": 2805.76
+        },
+        {
+            "description": "Decentralized client-server monitoring",
+            "quantity": 1,
+            "unit_price": 279.68,
+            "total_price": 279.68
+        },
+        {
+            "description": "Persevering motivating migration",
+            "quantity": 8,
+            "unit_price": 111.95,
+            "total_price": 895.6
+        },
+        {
+            "description": "Switchable eco-centric monitoring",
+            "quantity": 6,
+            "unit_price": 98.69,
+            "total_price": 592.14
+        }
+    ],
+    "amount": 4573.18
+}

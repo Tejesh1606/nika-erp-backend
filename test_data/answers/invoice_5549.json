@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Stanton LLC",
+    "invoice_number": "INV-71632",
+    "date": "2025-04-17",
+    "items": [
+        {
+            "description": "Multi-channeled methodical time-frame",
+            "quantity": 4,
+            "unit_price": 91.16,
+            "total_price": 364.64
+        },
+        {
+            "description": "Inverse intangible benchmark",
+            "quantity": 4,
+            "unit_price": 460.85,
+            "total_price": 1843.4
+        }
+    ],
+    "amount": 2208.04
+}

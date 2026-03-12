@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Powell-Bryant",
+    "invoice_number": "INV-68232",
+    "date": "2026-01-16",
+    "items": [
+        {
+            "description": "Vision-oriented national installation",
+            "quantity": 4,
+            "unit_price": 49.08,
+            "total_price": 196.32
+        }
+    ],
+    "amount": 196.32
+}

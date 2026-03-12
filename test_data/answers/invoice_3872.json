@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Ross, Johnson and Webb",
+    "invoice_number": "INV-84480",
+    "date": "2025-05-07",
+    "items": [
+        {
+            "description": "Cross-platform local interface",
+            "quantity": 4,
+            "unit_price": 108.61,
+            "total_price": 434.44
+        },
+        {
+            "description": "Integrated full-range archive",
+            "quantity": 8,
+            "unit_price": 308.57,
+            "total_price": 2468.56
+        },
+        {
+            "description": "Polarized maximized task-force",
+            "quantity": 5,
+            "unit_price": 115.74,
+            "total_price": 578.7
+        },
+        {
+            "description": "Balanced clear-thinking collaboration",
+            "quantity": 9,
+            "unit_price": 163.91,
+            "total_price": 1475.19
+        }
+    ],
+    "amount": 4956.89
+}

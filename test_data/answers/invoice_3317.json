@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Castillo-Johnson",
+    "invoice_number": "INV-44098",
+    "date": "2025-07-26",
+    "items": [
+        {
+            "description": "Profound exuding ability",
+            "quantity": 7,
+            "unit_price": 380.49,
+            "total_price": 2663.43
+        }
+    ],
+    "amount": 2663.43
+}

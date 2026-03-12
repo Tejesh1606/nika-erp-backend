@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Williams, Martin and Ross",
+    "invoice_number": "INV-34441",
+    "date": "2025-11-19",
+    "items": [
+        {
+            "description": "Decentralized bifurcated policy",
+            "quantity": 9,
+            "unit_price": 76.73,
+            "total_price": 690.57
+        },
+        {
+            "description": "Streamlined impactful alliance",
+            "quantity": 1,
+            "unit_price": 434.12,
+            "total_price": 434.12
+        },
+        {
+            "description": "Implemented logistical website",
+            "quantity": 9,
+            "unit_price": 332.18,
+            "total_price": 2989.62
+        },
+        {
+            "description": "Synergized systematic complexity",
+            "quantity": 6,
+            "unit_price": 346.87,
+            "total_price": 2081.22
+        }
+    ],
+    "amount": 6195.53
+}

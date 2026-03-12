@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Marsh-Dougherty",
+    "invoice_number": "INV-18601",
+    "date": "2025-05-21",
+    "items": [
+        {
+            "description": "Persevering background artificial intelligence",
+            "quantity": 5,
+            "unit_price": 97.8,
+            "total_price": 489.0
+        },
+        {
+            "description": "Object-based context-sensitive forecast",
+            "quantity": 8,
+            "unit_price": 84.27,
+            "total_price": 674.16
+        },
+        {
+            "description": "Compatible bi-directional concept",
+            "quantity": 4,
+            "unit_price": 370.37,
+            "total_price": 1481.48
+        },
+        {
+            "description": "Grass-roots bifurcated standardization",
+            "quantity": 4,
+            "unit_price": 240.58,
+            "total_price": 962.32
+        }
+    ],
+    "amount": 3606.96
+}

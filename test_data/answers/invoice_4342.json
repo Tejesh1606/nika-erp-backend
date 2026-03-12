@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cannon and Sons",
+    "invoice_number": "INV-21876",
+    "date": "2025-04-16",
+    "items": [
+        {
+            "description": "Re-engineered zero tolerance architecture",
+            "quantity": 5,
+            "unit_price": 385.8,
+            "total_price": 1929.0
+        },
+        {
+            "description": "Universal intermediate standardization",
+            "quantity": 6,
+            "unit_price": 345.79,
+            "total_price": 2074.74
+        }
+    ],
+    "amount": 4003.74
+}

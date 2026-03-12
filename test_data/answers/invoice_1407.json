@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Morris Group",
+    "invoice_number": "INV-89909",
+    "date": "2025-08-06",
+    "items": [
+        {
+            "description": "Integrated modular toolset",
+            "quantity": 1,
+            "unit_price": 31.79,
+            "total_price": 31.79
+        },
+        {
+            "description": "Visionary executive throughput",
+            "quantity": 8,
+            "unit_price": 436.51,
+            "total_price": 3492.08
+        }
+    ],
+    "amount": 3523.87
+}

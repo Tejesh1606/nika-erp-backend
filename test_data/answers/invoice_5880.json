@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Harris and Sons",
+    "invoice_number": "INV-94363",
+    "date": "2025-11-07",
+    "items": [
+        {
+            "description": "Centralized actuating concept",
+            "quantity": 7,
+            "unit_price": 78.3,
+            "total_price": 548.1
+        }
+    ],
+    "amount": 548.1
+}

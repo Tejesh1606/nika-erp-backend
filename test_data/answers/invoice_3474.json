@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Glenn-Johnson",
+    "invoice_number": "INV-19829",
+    "date": "2025-04-09",
+    "items": [
+        {
+            "description": "Face-to-face reciprocal benchmark",
+            "quantity": 4,
+            "unit_price": 323.72,
+            "total_price": 1294.88
+        },
+        {
+            "description": "Managed fault-tolerant moderator",
+            "quantity": 3,
+            "unit_price": 370.54,
+            "total_price": 1111.62
+        },
+        {
+            "description": "Adaptive fault-tolerant forecast",
+            "quantity": 1,
+            "unit_price": 236.19,
+            "total_price": 236.19
+        },
+        {
+            "description": "Enterprise-wide value-added customer loyalty",
+            "quantity": 6,
+            "unit_price": 407.33,
+            "total_price": 2443.98
+        }
+    ],
+    "amount": 5086.67
+}

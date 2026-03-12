@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Anderson Inc",
+    "invoice_number": "INV-47417",
+    "date": "2025-08-10",
+    "items": [
+        {
+            "description": "Exclusive optimizing throughput",
+            "quantity": 4,
+            "unit_price": 309.17,
+            "total_price": 1236.68
+        }
+    ],
+    "amount": 1236.68
+}

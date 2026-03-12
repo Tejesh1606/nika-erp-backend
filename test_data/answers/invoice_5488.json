@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gomez-Parker",
+    "invoice_number": "INV-19094",
+    "date": "2025-11-05",
+    "items": [
+        {
+            "description": "Visionary contextually-based methodology",
+            "quantity": 9,
+            "unit_price": 254.87,
+            "total_price": 2293.83
+        },
+        {
+            "description": "Stand-alone actuating software",
+            "quantity": 4,
+            "unit_price": 58.73,
+            "total_price": 234.92
+        },
+        {
+            "description": "Multi-layered eco-centric migration",
+            "quantity": 2,
+            "unit_price": 469.14,
+            "total_price": 938.28
+        },
+        {
+            "description": "Persevering fault-tolerant moderator",
+            "quantity": 4,
+            "unit_price": 328.8,
+            "total_price": 1315.2
+        }
+    ],
+    "amount": 4782.23
+}

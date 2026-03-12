@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith, Lane and Lopez",
+    "invoice_number": "INV-78760",
+    "date": "2026-02-02",
+    "items": [
+        {
+            "description": "Inverse needs-based solution",
+            "quantity": 1,
+            "unit_price": 77.73,
+            "total_price": 77.73
+        },
+        {
+            "description": "Digitized systemic hub",
+            "quantity": 8,
+            "unit_price": 201.32,
+            "total_price": 1610.56
+        },
+        {
+            "description": "Reactive global synergy",
+            "quantity": 9,
+            "unit_price": 67.2,
+            "total_price": 604.8
+        }
+    ],
+    "amount": 2293.09
+}

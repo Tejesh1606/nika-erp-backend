@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Paul-Cole",
+    "invoice_number": "INV-34441",
+    "date": "2025-05-20",
+    "items": [
+        {
+            "description": "Quality-focused 4thgeneration orchestration",
+            "quantity": 7,
+            "unit_price": 223.74,
+            "total_price": 1566.18
+        },
+        {
+            "description": "Monitored exuding architecture",
+            "quantity": 9,
+            "unit_price": 488.73,
+            "total_price": 4398.57
+        }
+    ],
+    "amount": 5964.75
+}

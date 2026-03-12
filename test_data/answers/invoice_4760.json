@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Pruitt, Tanner and Pollard",
+    "invoice_number": "INV-37283",
+    "date": "2025-10-20",
+    "items": [
+        {
+            "description": "Ameliorated responsive initiative",
+            "quantity": 7,
+            "unit_price": 32.93,
+            "total_price": 230.51
+        },
+        {
+            "description": "Fundamental national extranet",
+            "quantity": 1,
+            "unit_price": 455.31,
+            "total_price": 455.31
+        }
+    ],
+    "amount": 685.82
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ward, Meyer and Simmons",
+    "invoice_number": "INV-52468",
+    "date": "2025-08-17",
+    "items": [
+        {
+            "description": "Cross-group discrete secured line",
+            "quantity": 5,
+            "unit_price": 60.64,
+            "total_price": 303.2
+        }
+    ],
+    "amount": 303.2
+}

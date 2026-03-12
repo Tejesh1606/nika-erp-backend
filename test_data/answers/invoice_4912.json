@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jordan LLC",
+    "invoice_number": "INV-39480",
+    "date": "2025-05-02",
+    "items": [
+        {
+            "description": "Open-source scalable architecture",
+            "quantity": 9,
+            "unit_price": 216.96,
+            "total_price": 1952.64
+        },
+        {
+            "description": "Implemented directional framework",
+            "quantity": 8,
+            "unit_price": 354.99,
+            "total_price": 2839.92
+        }
+    ],
+    "amount": 4792.56
+}

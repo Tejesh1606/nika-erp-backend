@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Collins Inc",
+    "invoice_number": "INV-77905",
+    "date": "2025-06-02",
+    "items": [
+        {
+            "description": "Multi-layered encompassing productivity",
+            "quantity": 8,
+            "unit_price": 382.36,
+            "total_price": 3058.88
+        },
+        {
+            "description": "Grass-roots client-server service-desk",
+            "quantity": 4,
+            "unit_price": 465.49,
+            "total_price": 1861.96
+        },
+        {
+            "description": "Sharable methodical migration",
+            "quantity": 5,
+            "unit_price": 57.39,
+            "total_price": 286.95
+        }
+    ],
+    "amount": 5207.79
+}

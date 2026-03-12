@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ferguson, Flores and Kramer",
+    "invoice_number": "INV-26011",
+    "date": "2026-02-27",
+    "items": [
+        {
+            "description": "Polarized executive concept",
+            "quantity": 4,
+            "unit_price": 217.09,
+            "total_price": 868.36
+        }
+    ],
+    "amount": 868.36
+}

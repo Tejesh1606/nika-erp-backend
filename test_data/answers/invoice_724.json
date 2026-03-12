@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson LLC",
+    "invoice_number": "INV-96333",
+    "date": "2025-10-08",
+    "items": [
+        {
+            "description": "Enhanced secondary analyzer",
+            "quantity": 8,
+            "unit_price": 242.18,
+            "total_price": 1937.44
+        },
+        {
+            "description": "Up-sized mobile toolset",
+            "quantity": 9,
+            "unit_price": 179.88,
+            "total_price": 1618.92
+        },
+        {
+            "description": "Ameliorated analyzing artificial intelligence",
+            "quantity": 9,
+            "unit_price": 116.4,
+            "total_price": 1047.6
+        },
+        {
+            "description": "Intuitive real-time framework",
+            "quantity": 3,
+            "unit_price": 446.62,
+            "total_price": 1339.86
+        }
+    ],
+    "amount": 5943.82
+}

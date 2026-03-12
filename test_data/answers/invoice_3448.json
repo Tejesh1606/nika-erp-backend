@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Edwards-Jones",
+    "invoice_number": "INV-38199",
+    "date": "2025-12-12",
+    "items": [
+        {
+            "description": "Networked next generation hierarchy",
+            "quantity": 6,
+            "unit_price": 354.38,
+            "total_price": 2126.28
+        },
+        {
+            "description": "Robust content-based benchmark",
+            "quantity": 2,
+            "unit_price": 40.11,
+            "total_price": 80.22
+        }
+    ],
+    "amount": 2206.5
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hawkins-Herrera",
+    "invoice_number": "INV-79479",
+    "date": "2025-09-14",
+    "items": [
+        {
+            "description": "Cloned multi-state paradigm",
+            "quantity": 3,
+            "unit_price": 126.05,
+            "total_price": 378.15
+        }
+    ],
+    "amount": 378.15
+}

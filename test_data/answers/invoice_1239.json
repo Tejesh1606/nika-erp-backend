@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Monroe-Caldwell",
+    "invoice_number": "INV-18513",
+    "date": "2025-05-22",
+    "items": [
+        {
+            "description": "Virtual motivating circuit",
+            "quantity": 6,
+            "unit_price": 231.43,
+            "total_price": 1388.58
+        },
+        {
+            "description": "Upgradable encompassing artificial intelligence",
+            "quantity": 3,
+            "unit_price": 45.89,
+            "total_price": 137.67
+        },
+        {
+            "description": "Enhanced leadingedge analyzer",
+            "quantity": 5,
+            "unit_price": 57.33,
+            "total_price": 286.65
+        },
+        {
+            "description": "Grass-roots real-time customer loyalty",
+            "quantity": 6,
+            "unit_price": 469.99,
+            "total_price": 2819.94
+        }
+    ],
+    "amount": 4632.84
+}

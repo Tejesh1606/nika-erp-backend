@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Barnes and Sons",
+    "invoice_number": "INV-42839",
+    "date": "2025-09-01",
+    "items": [
+        {
+            "description": "Inverse full-range Graphical User Interface",
+            "quantity": 6,
+            "unit_price": 123.78,
+            "total_price": 742.68
+        }
+    ],
+    "amount": 742.68
+}

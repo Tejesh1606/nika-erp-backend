@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Brown and Sons",
+    "invoice_number": "INV-64387",
+    "date": "2025-04-15",
+    "items": [
+        {
+            "description": "User-friendly 24/7 open architecture",
+            "quantity": 8,
+            "unit_price": 362.39,
+            "total_price": 2899.12
+        },
+        {
+            "description": "Quality-focused 5thgeneration collaboration",
+            "quantity": 9,
+            "unit_price": 41.57,
+            "total_price": 374.13
+        },
+        {
+            "description": "Multi-channeled mobile protocol",
+            "quantity": 6,
+            "unit_price": 150.66,
+            "total_price": 903.96
+        },
+        {
+            "description": "Automated asymmetric initiative",
+            "quantity": 1,
+            "unit_price": 388.63,
+            "total_price": 388.63
+        }
+    ],
+    "amount": 4565.84
+}

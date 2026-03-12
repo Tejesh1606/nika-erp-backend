@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Fitzgerald, Bell and Dawson",
+    "invoice_number": "INV-60381",
+    "date": "2025-05-10",
+    "items": [
+        {
+            "description": "Multi-lateral client-server projection",
+            "quantity": 10,
+            "unit_price": 279.69,
+            "total_price": 2796.9
+        },
+        {
+            "description": "Balanced cohesive array",
+            "quantity": 9,
+            "unit_price": 457.33,
+            "total_price": 4115.97
+        }
+    ],
+    "amount": 6912.87
+}

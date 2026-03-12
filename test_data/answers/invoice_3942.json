@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Goodman PLC",
+    "invoice_number": "INV-99007",
+    "date": "2025-12-26",
+    "items": [
+        {
+            "description": "Focused interactive matrix",
+            "quantity": 5,
+            "unit_price": 142.87,
+            "total_price": 714.35
+        },
+        {
+            "description": "Digitized well-modulated project",
+            "quantity": 4,
+            "unit_price": 268.3,
+            "total_price": 1073.2
+        },
+        {
+            "description": "Mandatory 6thgeneration synergy",
+            "quantity": 4,
+            "unit_price": 340.53,
+            "total_price": 1362.12
+        },
+        {
+            "description": "De-engineered motivating standardization",
+            "quantity": 3,
+            "unit_price": 360.83,
+            "total_price": 1082.49
+        }
+    ],
+    "amount": 4232.16
+}

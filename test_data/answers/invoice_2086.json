@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mendez, Caldwell and Macdonald",
+    "invoice_number": "INV-19690",
+    "date": "2025-09-01",
+    "items": [
+        {
+            "description": "Business-focused mobile frame",
+            "quantity": 1,
+            "unit_price": 198.84,
+            "total_price": 198.84
+        }
+    ],
+    "amount": 198.84
+}

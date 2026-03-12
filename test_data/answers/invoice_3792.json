@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Barker-Hernandez",
+    "invoice_number": "INV-22301",
+    "date": "2025-08-07",
+    "items": [
+        {
+            "description": "Mandatory interactive installation",
+            "quantity": 2,
+            "unit_price": 47.84,
+            "total_price": 95.68
+        },
+        {
+            "description": "Extended responsive utilization",
+            "quantity": 7,
+            "unit_price": 91.2,
+            "total_price": 638.4
+        },
+        {
+            "description": "Front-line real-time data-warehouse",
+            "quantity": 4,
+            "unit_price": 339.34,
+            "total_price": 1357.36
+        }
+    ],
+    "amount": 2091.44
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Logan, Scott and Cox",
+    "invoice_number": "INV-50765",
+    "date": "2026-02-23",
+    "items": [
+        {
+            "description": "Digitized multi-tasking website",
+            "quantity": 2,
+            "unit_price": 486.12,
+            "total_price": 972.24
+        },
+        {
+            "description": "Adaptive fresh-thinking encryption",
+            "quantity": 1,
+            "unit_price": 461.21,
+            "total_price": 461.21
+        }
+    ],
+    "amount": 1433.45
+}

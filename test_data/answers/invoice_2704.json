@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Browning-Harper",
+    "invoice_number": "INV-82916",
+    "date": "2026-02-28",
+    "items": [
+        {
+            "description": "Expanded directional functionalities",
+            "quantity": 2,
+            "unit_price": 50.98,
+            "total_price": 101.96
+        }
+    ],
+    "amount": 101.96
+}

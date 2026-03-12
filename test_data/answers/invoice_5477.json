@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Delacruz Ltd",
+    "invoice_number": "INV-30548",
+    "date": "2026-02-07",
+    "items": [
+        {
+            "description": "Digitized empowering extranet",
+            "quantity": 4,
+            "unit_price": 130.41,
+            "total_price": 521.64
+        },
+        {
+            "description": "Intuitive heuristic Internet solution",
+            "quantity": 4,
+            "unit_price": 70.36,
+            "total_price": 281.44
+        },
+        {
+            "description": "Mandatory contextually-based data-warehouse",
+            "quantity": 6,
+            "unit_price": 29.23,
+            "total_price": 175.38
+        }
+    ],
+    "amount": 978.46
+}

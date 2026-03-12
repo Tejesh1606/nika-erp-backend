@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lee-Woods",
+    "invoice_number": "INV-85327",
+    "date": "2025-11-08",
+    "items": [
+        {
+            "description": "Operative bi-directional synergy",
+            "quantity": 4,
+            "unit_price": 301.23,
+            "total_price": 1204.92
+        },
+        {
+            "description": "Pre-emptive grid-enabled installation",
+            "quantity": 9,
+            "unit_price": 43.37,
+            "total_price": 390.33
+        },
+        {
+            "description": "Mandatory leadingedge matrix",
+            "quantity": 6,
+            "unit_price": 260.74,
+            "total_price": 1564.44
+        },
+        {
+            "description": "Reverse-engineered object-oriented workforce",
+            "quantity": 2,
+            "unit_price": 183.89,
+            "total_price": 367.78
+        }
+    ],
+    "amount": 3527.47
+}

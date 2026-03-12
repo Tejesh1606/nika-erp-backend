@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jones, Neal and Burke",
+    "invoice_number": "INV-11330",
+    "date": "2025-08-18",
+    "items": [
+        {
+            "description": "De-engineered content-based software",
+            "quantity": 5,
+            "unit_price": 15.24,
+            "total_price": 76.2
+        },
+        {
+            "description": "Switchable solution-oriented artificial intelligence",
+            "quantity": 8,
+            "unit_price": 25.04,
+            "total_price": 200.32
+        },
+        {
+            "description": "Monitored user-facing forecast",
+            "quantity": 9,
+            "unit_price": 43.86,
+            "total_price": 394.74
+        }
+    ],
+    "amount": 671.26
+}

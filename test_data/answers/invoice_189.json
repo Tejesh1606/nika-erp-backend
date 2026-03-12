@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Montgomery-Johnson",
+    "invoice_number": "INV-92203",
+    "date": "2025-10-06",
+    "items": [
+        {
+            "description": "Implemented secondary framework",
+            "quantity": 4,
+            "unit_price": 203.57,
+            "total_price": 814.28
+        },
+        {
+            "description": "Polarized dynamic workforce",
+            "quantity": 8,
+            "unit_price": 125.56,
+            "total_price": 1004.48
+        },
+        {
+            "description": "Synergized impactful framework",
+            "quantity": 5,
+            "unit_price": 406.89,
+            "total_price": 2034.45
+        },
+        {
+            "description": "Persevering asynchronous solution",
+            "quantity": 9,
+            "unit_price": 102.81,
+            "total_price": 925.29
+        }
+    ],
+    "amount": 4778.5
+}

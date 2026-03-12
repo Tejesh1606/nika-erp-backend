@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Palmer LLC",
+    "invoice_number": "INV-56386",
+    "date": "2025-10-27",
+    "items": [
+        {
+            "description": "Integrated 24hour superstructure",
+            "quantity": 2,
+            "unit_price": 208.6,
+            "total_price": 417.2
+        },
+        {
+            "description": "Organized optimal process improvement",
+            "quantity": 10,
+            "unit_price": 236.82,
+            "total_price": 2368.2
+        },
+        {
+            "description": "Digitized discrete ability",
+            "quantity": 9,
+            "unit_price": 28.69,
+            "total_price": 258.21
+        }
+    ],
+    "amount": 3043.61
+}

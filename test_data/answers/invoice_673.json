@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mitchell LLC",
+    "invoice_number": "INV-50381",
+    "date": "2025-08-29",
+    "items": [
+        {
+            "description": "Realigned background data-warehouse",
+            "quantity": 3,
+            "unit_price": 463.0,
+            "total_price": 1389.0
+        },
+        {
+            "description": "Upgradable leadingedge support",
+            "quantity": 6,
+            "unit_price": 392.68,
+            "total_price": 2356.08
+        },
+        {
+            "description": "Operative leadingedge forecast",
+            "quantity": 9,
+            "unit_price": 498.34,
+            "total_price": 4485.06
+        }
+    ],
+    "amount": 8230.14
+}

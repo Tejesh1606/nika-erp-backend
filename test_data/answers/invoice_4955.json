@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cardenas-Gomez",
+    "invoice_number": "INV-97139",
+    "date": "2026-02-05",
+    "items": [
+        {
+            "description": "De-engineered context-sensitive process improvement",
+            "quantity": 1,
+            "unit_price": 259.96,
+            "total_price": 259.96
+        },
+        {
+            "description": "Inverse actuating structure",
+            "quantity": 6,
+            "unit_price": 358.77,
+            "total_price": 2152.62
+        }
+    ],
+    "amount": 2412.58
+}

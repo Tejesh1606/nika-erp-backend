@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Vasquez, Walton and Barnes",
+    "invoice_number": "INV-97114",
+    "date": "2025-06-04",
+    "items": [
+        {
+            "description": "Face-to-face full-range hierarchy",
+            "quantity": 9,
+            "unit_price": 469.72,
+            "total_price": 4227.48
+        },
+        {
+            "description": "Multi-channeled impactful encoding",
+            "quantity": 3,
+            "unit_price": 308.28,
+            "total_price": 924.84
+        },
+        {
+            "description": "Profound holistic parallelism",
+            "quantity": 1,
+            "unit_price": 450.55,
+            "total_price": 450.55
+        }
+    ],
+    "amount": 5602.87
+}

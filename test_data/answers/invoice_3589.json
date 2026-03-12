@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Allen, Gallagher and Jones",
+    "invoice_number": "INV-17498",
+    "date": "2025-11-30",
+    "items": [
+        {
+            "description": "Monitored uniform hierarchy",
+            "quantity": 8,
+            "unit_price": 145.33,
+            "total_price": 1162.64
+        },
+        {
+            "description": "Reverse-engineered attitude-oriented time-frame",
+            "quantity": 9,
+            "unit_price": 365.77,
+            "total_price": 3291.93
+        },
+        {
+            "description": "Multi-tiered real-time throughput",
+            "quantity": 9,
+            "unit_price": 358.88,
+            "total_price": 3229.92
+        }
+    ],
+    "amount": 7684.49
+}

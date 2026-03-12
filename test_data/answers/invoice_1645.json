@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Franco-Stuart",
+    "invoice_number": "INV-45342",
+    "date": "2025-05-10",
+    "items": [
+        {
+            "description": "Polarized directional intranet",
+            "quantity": 7,
+            "unit_price": 100.52,
+            "total_price": 703.64
+        }
+    ],
+    "amount": 703.64
+}

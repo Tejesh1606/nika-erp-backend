@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Case LLC",
+    "invoice_number": "INV-57638",
+    "date": "2025-09-17",
+    "items": [
+        {
+            "description": "Expanded logistical attitude",
+            "quantity": 8,
+            "unit_price": 182.41,
+            "total_price": 1459.28
+        },
+        {
+            "description": "Exclusive needs-based moderator",
+            "quantity": 7,
+            "unit_price": 288.22,
+            "total_price": 2017.54
+        },
+        {
+            "description": "Polarized value-added forecast",
+            "quantity": 1,
+            "unit_price": 46.57,
+            "total_price": 46.57
+        },
+        {
+            "description": "Balanced composite superstructure",
+            "quantity": 8,
+            "unit_price": 485.58,
+            "total_price": 3884.64
+        }
+    ],
+    "amount": 7408.03
+}

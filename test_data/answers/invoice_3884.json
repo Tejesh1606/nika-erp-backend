@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Pitts-Villa",
+    "invoice_number": "INV-21016",
+    "date": "2025-04-08",
+    "items": [
+        {
+            "description": "Customer-focused maximized Graphical User Interface",
+            "quantity": 5,
+            "unit_price": 24.7,
+            "total_price": 123.5
+        },
+        {
+            "description": "Fundamental object-oriented firmware",
+            "quantity": 7,
+            "unit_price": 206.33,
+            "total_price": 1444.31
+        },
+        {
+            "description": "Implemented non-volatile groupware",
+            "quantity": 4,
+            "unit_price": 422.58,
+            "total_price": 1690.32
+        },
+        {
+            "description": "Polarized secondary forecast",
+            "quantity": 4,
+            "unit_price": 381.22,
+            "total_price": 1524.88
+        }
+    ],
+    "amount": 4783.01
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Tyler and Sons",
+    "invoice_number": "INV-65765",
+    "date": "2025-09-17",
+    "items": [
+        {
+            "description": "Virtual cohesive model",
+            "quantity": 3,
+            "unit_price": 427.0,
+            "total_price": 1281.0
+        },
+        {
+            "description": "Object-based multi-state benchmark",
+            "quantity": 3,
+            "unit_price": 72.01,
+            "total_price": 216.03
+        },
+        {
+            "description": "Configurable contextually-based success",
+            "quantity": 4,
+            "unit_price": 344.99,
+            "total_price": 1379.96
+        },
+        {
+            "description": "Extended scalable algorithm",
+            "quantity": 10,
+            "unit_price": 55.83,
+            "total_price": 558.3
+        }
+    ],
+    "amount": 3435.29
+}

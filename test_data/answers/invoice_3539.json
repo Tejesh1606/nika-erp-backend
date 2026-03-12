@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Davis Ltd",
+    "invoice_number": "INV-85901",
+    "date": "2025-09-02",
+    "items": [
+        {
+            "description": "Reduced discrete definition",
+            "quantity": 6,
+            "unit_price": 12.28,
+            "total_price": 73.68
+        },
+        {
+            "description": "Object-based next generation info-mediaries",
+            "quantity": 8,
+            "unit_price": 218.48,
+            "total_price": 1747.84
+        },
+        {
+            "description": "Balanced zero-defect pricing structure",
+            "quantity": 9,
+            "unit_price": 175.58,
+            "total_price": 1580.22
+        }
+    ],
+    "amount": 3401.74
+}

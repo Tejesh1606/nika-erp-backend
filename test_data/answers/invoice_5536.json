@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Franklin Inc",
+    "invoice_number": "INV-36229",
+    "date": "2025-08-24",
+    "items": [
+        {
+            "description": "Multi-lateral intangible function",
+            "quantity": 8,
+            "unit_price": 174.83,
+            "total_price": 1398.64
+        }
+    ],
+    "amount": 1398.64
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brady and Sons",
+    "invoice_number": "INV-43993",
+    "date": "2026-02-22",
+    "items": [
+        {
+            "description": "Open-source leadingedge product",
+            "quantity": 10,
+            "unit_price": 257.68,
+            "total_price": 2576.8
+        },
+        {
+            "description": "Secured bi-directional productivity",
+            "quantity": 7,
+            "unit_price": 419.25,
+            "total_price": 2934.75
+        },
+        {
+            "description": "Down-sized attitude-oriented frame",
+            "quantity": 6,
+            "unit_price": 55.51,
+            "total_price": 333.06
+        }
+    ],
+    "amount": 5844.61
+}

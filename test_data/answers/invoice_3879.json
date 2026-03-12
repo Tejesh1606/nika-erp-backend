@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Reed, Mckinney and Morrison",
+    "invoice_number": "INV-82492",
+    "date": "2025-12-18",
+    "items": [
+        {
+            "description": "Reactive intangible protocol",
+            "quantity": 8,
+            "unit_price": 404.44,
+            "total_price": 3235.52
+        },
+        {
+            "description": "Persevering impactful concept",
+            "quantity": 1,
+            "unit_price": 449.01,
+            "total_price": 449.01
+        },
+        {
+            "description": "Distributed methodical encryption",
+            "quantity": 9,
+            "unit_price": 251.91,
+            "total_price": 2267.19
+        }
+    ],
+    "amount": 5951.72
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Ramirez-Holmes",
+    "invoice_number": "INV-31917",
+    "date": "2025-05-17",
+    "items": [
+        {
+            "description": "Profound value-added matrix",
+            "quantity": 4,
+            "unit_price": 24.48,
+            "total_price": 97.92
+        },
+        {
+            "description": "Reactive 24/7 methodology",
+            "quantity": 7,
+            "unit_price": 391.09,
+            "total_price": 2737.63
+        },
+        {
+            "description": "Ergonomic reciprocal approach",
+            "quantity": 2,
+            "unit_price": 496.56,
+            "total_price": 993.12
+        },
+        {
+            "description": "Balanced exuding pricing structure",
+            "quantity": 7,
+            "unit_price": 25.65,
+            "total_price": 179.55
+        }
+    ],
+    "amount": 4008.22
+}

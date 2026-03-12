@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Macdonald, Richardson and Alvarado",
+    "invoice_number": "INV-96825",
+    "date": "2025-10-02",
+    "items": [
+        {
+            "description": "Switchable contextually-based complexity",
+            "quantity": 9,
+            "unit_price": 186.0,
+            "total_price": 1674.0
+        },
+        {
+            "description": "Progressive composite structure",
+            "quantity": 1,
+            "unit_price": 34.68,
+            "total_price": 34.68
+        },
+        {
+            "description": "Public-key 24hour task-force",
+            "quantity": 4,
+            "unit_price": 222.61,
+            "total_price": 890.44
+        }
+    ],
+    "amount": 2599.12
+}

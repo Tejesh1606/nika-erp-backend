@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith-Lyons",
+    "invoice_number": "INV-33914",
+    "date": "2025-11-30",
+    "items": [
+        {
+            "description": "Organized intermediate support",
+            "quantity": 8,
+            "unit_price": 457.75,
+            "total_price": 3662.0
+        },
+        {
+            "description": "Total cohesive challenge",
+            "quantity": 8,
+            "unit_price": 354.29,
+            "total_price": 2834.32
+        },
+        {
+            "description": "Ergonomic optimizing moderator",
+            "quantity": 7,
+            "unit_price": 235.51,
+            "total_price": 1648.57
+        }
+    ],
+    "amount": 8144.89
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Allen, Johnson and Bradley",
+    "invoice_number": "INV-96283",
+    "date": "2025-11-18",
+    "items": [
+        {
+            "description": "Synchronized mission-critical infrastructure",
+            "quantity": 10,
+            "unit_price": 49.31,
+            "total_price": 493.1
+        },
+        {
+            "description": "Polarized didactic system engine",
+            "quantity": 6,
+            "unit_price": 232.98,
+            "total_price": 1397.88
+        },
+        {
+            "description": "Open-source 3rdgeneration time-frame",
+            "quantity": 3,
+            "unit_price": 49.99,
+            "total_price": 149.97
+        },
+        {
+            "description": "Progressive intangible emulation",
+            "quantity": 7,
+            "unit_price": 264.75,
+            "total_price": 1853.25
+        }
+    ],
+    "amount": 3894.2
+}

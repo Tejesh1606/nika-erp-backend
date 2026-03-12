@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Morrison-Carter",
+    "invoice_number": "INV-11059",
+    "date": "2025-09-26",
+    "items": [
+        {
+            "description": "Reverse-engineered stable service-desk",
+            "quantity": 7,
+            "unit_price": 20.72,
+            "total_price": 145.04
+        },
+        {
+            "description": "Digitized analyzing encoding",
+            "quantity": 5,
+            "unit_price": 11.74,
+            "total_price": 58.7
+        },
+        {
+            "description": "Profit-focused next generation application",
+            "quantity": 3,
+            "unit_price": 288.94,
+            "total_price": 866.82
+        }
+    ],
+    "amount": 1070.56
+}

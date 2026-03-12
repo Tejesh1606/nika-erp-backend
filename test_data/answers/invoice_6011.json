@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Camacho LLC",
+    "invoice_number": "INV-27386",
+    "date": "2025-03-31",
+    "items": [
+        {
+            "description": "Balanced empowering encryption",
+            "quantity": 5,
+            "unit_price": 427.96,
+            "total_price": 2139.8
+        },
+        {
+            "description": "Enterprise-wide 6thgeneration open system",
+            "quantity": 8,
+            "unit_price": 442.85,
+            "total_price": 3542.8
+        },
+        {
+            "description": "Cloned needs-based complexity",
+            "quantity": 2,
+            "unit_price": 469.35,
+            "total_price": 938.7
+        },
+        {
+            "description": "Profit-focused well-modulated projection",
+            "quantity": 7,
+            "unit_price": 412.33,
+            "total_price": 2886.31
+        }
+    ],
+    "amount": 9507.61
+}

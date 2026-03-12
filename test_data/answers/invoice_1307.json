@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Davis-Lee",
+    "invoice_number": "INV-18345",
+    "date": "2026-02-23",
+    "items": [
+        {
+            "description": "De-engineered multi-state framework",
+            "quantity": 6,
+            "unit_price": 365.57,
+            "total_price": 2193.42
+        },
+        {
+            "description": "Centralized demand-driven emulation",
+            "quantity": 10,
+            "unit_price": 463.04,
+            "total_price": 4630.4
+        }
+    ],
+    "amount": 6823.82
+}

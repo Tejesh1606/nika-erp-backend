@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Haynes Inc",
+    "invoice_number": "INV-43864",
+    "date": "2025-11-18",
+    "items": [
+        {
+            "description": "Total dynamic budgetary management",
+            "quantity": 6,
+            "unit_price": 492.53,
+            "total_price": 2955.18
+        },
+        {
+            "description": "Networked explicit array",
+            "quantity": 6,
+            "unit_price": 313.74,
+            "total_price": 1882.44
+        }
+    ],
+    "amount": 4837.62
+}

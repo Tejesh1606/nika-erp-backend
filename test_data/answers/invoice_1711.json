@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Leon Group",
+    "invoice_number": "INV-35437",
+    "date": "2025-07-20",
+    "items": [
+        {
+            "description": "Innovative disintermediate matrices",
+            "quantity": 1,
+            "unit_price": 452.92,
+            "total_price": 452.92
+        },
+        {
+            "description": "Synchronized neutral support",
+            "quantity": 4,
+            "unit_price": 415.93,
+            "total_price": 1663.72
+        },
+        {
+            "description": "Progressive client-driven installation",
+            "quantity": 4,
+            "unit_price": 193.46,
+            "total_price": 773.84
+        }
+    ],
+    "amount": 2890.48
+}

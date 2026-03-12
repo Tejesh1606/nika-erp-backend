@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Sandoval Ltd",
+    "invoice_number": "INV-29956",
+    "date": "2025-03-31",
+    "items": [
+        {
+            "description": "Digitized holistic portal",
+            "quantity": 1,
+            "unit_price": 452.9,
+            "total_price": 452.9
+        },
+        {
+            "description": "Fully-configurable impactful framework",
+            "quantity": 10,
+            "unit_price": 142.61,
+            "total_price": 1426.1
+        }
+    ],
+    "amount": 1879.0
+}

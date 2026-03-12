@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Nichols PLC",
+    "invoice_number": "INV-71853",
+    "date": "2025-04-26",
+    "items": [
+        {
+            "description": "Up-sized 24/7 productivity",
+            "quantity": 7,
+            "unit_price": 472.93,
+            "total_price": 3310.51
+        },
+        {
+            "description": "Persevering well-modulated definition",
+            "quantity": 10,
+            "unit_price": 359.33,
+            "total_price": 3593.3
+        }
+    ],
+    "amount": 6903.81
+}

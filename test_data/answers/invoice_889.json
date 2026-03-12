@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Turner-George",
+    "invoice_number": "INV-23344",
+    "date": "2025-12-10",
+    "items": [
+        {
+            "description": "Public-key non-volatile concept",
+            "quantity": 4,
+            "unit_price": 93.89,
+            "total_price": 375.56
+        },
+        {
+            "description": "Function-based bandwidth-monitored policy",
+            "quantity": 5,
+            "unit_price": 204.68,
+            "total_price": 1023.4
+        }
+    ],
+    "amount": 1398.96
+}

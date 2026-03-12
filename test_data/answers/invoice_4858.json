@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ponce-Stewart",
+    "invoice_number": "INV-98328",
+    "date": "2025-03-30",
+    "items": [
+        {
+            "description": "Quality-focused explicit core",
+            "quantity": 3,
+            "unit_price": 476.31,
+            "total_price": 1428.93
+        },
+        {
+            "description": "Configurable regional instruction set",
+            "quantity": 6,
+            "unit_price": 413.21,
+            "total_price": 2479.26
+        }
+    ],
+    "amount": 3908.19
+}

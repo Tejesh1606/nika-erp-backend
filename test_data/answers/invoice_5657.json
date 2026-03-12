@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Williams Group",
+    "invoice_number": "INV-65098",
+    "date": "2025-07-20",
+    "items": [
+        {
+            "description": "Reactive fault-tolerant support",
+            "quantity": 3,
+            "unit_price": 291.21,
+            "total_price": 873.63
+        },
+        {
+            "description": "Switchable non-volatile protocol",
+            "quantity": 1,
+            "unit_price": 252.1,
+            "total_price": 252.1
+        },
+        {
+            "description": "Ameliorated bi-directional framework",
+            "quantity": 9,
+            "unit_price": 131.31,
+            "total_price": 1181.79
+        }
+    ],
+    "amount": 2307.52
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Parsons PLC",
+    "invoice_number": "INV-59681",
+    "date": "2025-12-18",
+    "items": [
+        {
+            "description": "Enterprise-wide 3rdgeneration process improvement",
+            "quantity": 2,
+            "unit_price": 269.73,
+            "total_price": 539.46
+        }
+    ],
+    "amount": 539.46
+}

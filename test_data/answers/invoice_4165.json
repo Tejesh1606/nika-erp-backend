@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Santiago-Young",
+    "invoice_number": "INV-85118",
+    "date": "2025-08-09",
+    "items": [
+        {
+            "description": "Enhanced leadingedge groupware",
+            "quantity": 4,
+            "unit_price": 347.52,
+            "total_price": 1390.08
+        },
+        {
+            "description": "Object-based tangible framework",
+            "quantity": 9,
+            "unit_price": 173.03,
+            "total_price": 1557.27
+        },
+        {
+            "description": "Function-based directional paradigm",
+            "quantity": 6,
+            "unit_price": 287.75,
+            "total_price": 1726.5
+        },
+        {
+            "description": "Virtual 5thgeneration paradigm",
+            "quantity": 8,
+            "unit_price": 386.02,
+            "total_price": 3088.16
+        }
+    ],
+    "amount": 7762.01
+}

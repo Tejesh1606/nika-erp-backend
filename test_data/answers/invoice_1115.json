@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Fisher-Jenkins",
+    "invoice_number": "INV-13627",
+    "date": "2026-02-26",
+    "items": [
+        {
+            "description": "Realigned 4thgeneration throughput",
+            "quantity": 10,
+            "unit_price": 297.99,
+            "total_price": 2979.9
+        },
+        {
+            "description": "Operative background system engine",
+            "quantity": 3,
+            "unit_price": 390.62,
+            "total_price": 1171.86
+        },
+        {
+            "description": "Devolved reciprocal framework",
+            "quantity": 8,
+            "unit_price": 157.09,
+            "total_price": 1256.72
+        },
+        {
+            "description": "Fully-configurable optimal migration",
+            "quantity": 10,
+            "unit_price": 204.08,
+            "total_price": 2040.8
+        }
+    ],
+    "amount": 7449.28
+}

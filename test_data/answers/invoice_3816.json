@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wong-Stanton",
+    "invoice_number": "INV-97838",
+    "date": "2025-08-16",
+    "items": [
+        {
+            "description": "Progressive executive throughput",
+            "quantity": 7,
+            "unit_price": 475.49,
+            "total_price": 3328.43
+        }
+    ],
+    "amount": 3328.43
+}

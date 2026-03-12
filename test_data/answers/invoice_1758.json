@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cooper, Brooks and King",
+    "invoice_number": "INV-78627",
+    "date": "2025-08-08",
+    "items": [
+        {
+            "description": "Persevering optimizing infrastructure",
+            "quantity": 6,
+            "unit_price": 133.82,
+            "total_price": 802.92
+        },
+        {
+            "description": "Exclusive client-driven help-desk",
+            "quantity": 3,
+            "unit_price": 126.35,
+            "total_price": 379.05
+        }
+    ],
+    "amount": 1181.97
+}

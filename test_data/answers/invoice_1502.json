@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Fernandez, Flores and Fowler",
+    "invoice_number": "INV-63346",
+    "date": "2025-05-15",
+    "items": [
+        {
+            "description": "Reduced impactful hub",
+            "quantity": 1,
+            "unit_price": 339.3,
+            "total_price": 339.3
+        },
+        {
+            "description": "Persistent grid-enabled throughput",
+            "quantity": 9,
+            "unit_price": 354.47,
+            "total_price": 3190.23
+        },
+        {
+            "description": "Implemented client-server service-desk",
+            "quantity": 2,
+            "unit_price": 95.45,
+            "total_price": 190.9
+        },
+        {
+            "description": "Versatile modular service-desk",
+            "quantity": 7,
+            "unit_price": 254.93,
+            "total_price": 1784.51
+        }
+    ],
+    "amount": 5504.94
+}

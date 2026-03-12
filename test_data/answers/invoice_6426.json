@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Roberts-Johnston",
+    "invoice_number": "INV-33698",
+    "date": "2025-06-09",
+    "items": [
+        {
+            "description": "User-friendly 4thgeneration implementation",
+            "quantity": 6,
+            "unit_price": 254.91,
+            "total_price": 1529.46
+        },
+        {
+            "description": "Team-oriented interactive architecture",
+            "quantity": 5,
+            "unit_price": 76.95,
+            "total_price": 384.75
+        }
+    ],
+    "amount": 1914.21
+}

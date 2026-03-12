@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Santana-Faulkner",
+    "invoice_number": "INV-10110",
+    "date": "2025-12-07",
+    "items": [
+        {
+            "description": "Realigned heuristic budgetary management",
+            "quantity": 6,
+            "unit_price": 91.24,
+            "total_price": 547.44
+        }
+    ],
+    "amount": 547.44
+}

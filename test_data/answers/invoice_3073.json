@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jordan-Bell",
+    "invoice_number": "INV-89641",
+    "date": "2026-01-11",
+    "items": [
+        {
+            "description": "Multi-lateral impactful database",
+            "quantity": 9,
+            "unit_price": 33.45,
+            "total_price": 301.05
+        },
+        {
+            "description": "Innovative dynamic system engine",
+            "quantity": 9,
+            "unit_price": 349.93,
+            "total_price": 3149.37
+        },
+        {
+            "description": "Cross-group motivating application",
+            "quantity": 6,
+            "unit_price": 479.37,
+            "total_price": 2876.22
+        },
+        {
+            "description": "Self-enabling solution-oriented intranet",
+            "quantity": 8,
+            "unit_price": 254.41,
+            "total_price": 2035.28
+        }
+    ],
+    "amount": 8361.92
+}

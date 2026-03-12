@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Brooks-Pitts",
+    "invoice_number": "INV-22330",
+    "date": "2025-11-12",
+    "items": [
+        {
+            "description": "Down-sized intangible model",
+            "quantity": 9,
+            "unit_price": 89.86,
+            "total_price": 808.74
+        },
+        {
+            "description": "Cross-group discrete alliance",
+            "quantity": 3,
+            "unit_price": 159.23,
+            "total_price": 477.69
+        }
+    ],
+    "amount": 1286.43
+}

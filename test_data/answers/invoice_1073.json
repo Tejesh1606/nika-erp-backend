@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Flores Inc",
+    "invoice_number": "INV-53105",
+    "date": "2025-05-31",
+    "items": [
+        {
+            "description": "Persistent non-volatile utilization",
+            "quantity": 1,
+            "unit_price": 448.01,
+            "total_price": 448.01
+        }
+    ],
+    "amount": 448.01
+}

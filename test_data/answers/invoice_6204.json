@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Fitzgerald PLC",
+    "invoice_number": "INV-38890",
+    "date": "2026-01-04",
+    "items": [
+        {
+            "description": "Customizable leadingedge workforce",
+            "quantity": 5,
+            "unit_price": 404.27,
+            "total_price": 2021.35
+        },
+        {
+            "description": "Front-line fault-tolerant portal",
+            "quantity": 2,
+            "unit_price": 314.93,
+            "total_price": 629.86
+        }
+    ],
+    "amount": 2651.21
+}

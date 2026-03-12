@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Molina-Finley",
+    "invoice_number": "INV-49576",
+    "date": "2025-10-21",
+    "items": [
+        {
+            "description": "Up-sized object-oriented access",
+            "quantity": 1,
+            "unit_price": 373.03,
+            "total_price": 373.03
+        }
+    ],
+    "amount": 373.03
+}

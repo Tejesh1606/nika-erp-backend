@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Black PLC",
+    "invoice_number": "INV-71438",
+    "date": "2025-12-14",
+    "items": [
+        {
+            "description": "Persistent global utilization",
+            "quantity": 3,
+            "unit_price": 337.06,
+            "total_price": 1011.18
+        },
+        {
+            "description": "Configurable foreground core",
+            "quantity": 9,
+            "unit_price": 99.15,
+            "total_price": 892.35
+        }
+    ],
+    "amount": 1903.53
+}

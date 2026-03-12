@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Freeman-White",
+    "invoice_number": "INV-99277",
+    "date": "2025-11-16",
+    "items": [
+        {
+            "description": "Compatible user-facing infrastructure",
+            "quantity": 5,
+            "unit_price": 294.8,
+            "total_price": 1474.0
+        }
+    ],
+    "amount": 1474.0
+}

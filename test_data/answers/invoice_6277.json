@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Davis-Garcia",
+    "invoice_number": "INV-96452",
+    "date": "2025-08-19",
+    "items": [
+        {
+            "description": "Function-based interactive moratorium",
+            "quantity": 7,
+            "unit_price": 226.83,
+            "total_price": 1587.81
+        },
+        {
+            "description": "Seamless actuating info-mediaries",
+            "quantity": 6,
+            "unit_price": 426.33,
+            "total_price": 2557.98
+        },
+        {
+            "description": "Triple-buffered national moderator",
+            "quantity": 6,
+            "unit_price": 17.03,
+            "total_price": 102.18
+        }
+    ],
+    "amount": 4247.97
+}

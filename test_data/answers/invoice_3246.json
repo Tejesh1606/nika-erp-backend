@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Kaiser, Warren and Shepard",
+    "invoice_number": "INV-53338",
+    "date": "2025-06-30",
+    "items": [
+        {
+            "description": "Grass-roots full-range migration",
+            "quantity": 6,
+            "unit_price": 466.7,
+            "total_price": 2800.2
+        }
+    ],
+    "amount": 2800.2
+}

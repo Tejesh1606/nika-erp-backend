@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Payne LLC",
+    "invoice_number": "INV-35774",
+    "date": "2025-11-26",
+    "items": [
+        {
+            "description": "Managed eco-centric framework",
+            "quantity": 8,
+            "unit_price": 490.29,
+            "total_price": 3922.32
+        },
+        {
+            "description": "User-friendly zero administration software",
+            "quantity": 1,
+            "unit_price": 311.68,
+            "total_price": 311.68
+        },
+        {
+            "description": "Grass-roots content-based strategy",
+            "quantity": 7,
+            "unit_price": 50.17,
+            "total_price": 351.19
+        }
+    ],
+    "amount": 4585.19
+}

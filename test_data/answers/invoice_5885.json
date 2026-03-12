@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cox-Meyer",
+    "invoice_number": "INV-18274",
+    "date": "2025-08-02",
+    "items": [
+        {
+            "description": "Networked content-based projection",
+            "quantity": 2,
+            "unit_price": 58.36,
+            "total_price": 116.72
+        }
+    ],
+    "amount": 116.72
+}

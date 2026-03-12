@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jones PLC",
+    "invoice_number": "INV-36982",
+    "date": "2025-09-17",
+    "items": [
+        {
+            "description": "Triple-buffered user-facing help-desk",
+            "quantity": 6,
+            "unit_price": 72.84,
+            "total_price": 437.04
+        }
+    ],
+    "amount": 437.04
+}

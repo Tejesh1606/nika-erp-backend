@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Rhodes-Young",
+    "invoice_number": "INV-68222",
+    "date": "2025-11-01",
+    "items": [
+        {
+            "description": "Horizontal web-enabled synergy",
+            "quantity": 9,
+            "unit_price": 245.31,
+            "total_price": 2207.79
+        }
+    ],
+    "amount": 2207.79
+}

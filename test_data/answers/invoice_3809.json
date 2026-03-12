@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith LLC",
+    "invoice_number": "INV-42955",
+    "date": "2025-05-21",
+    "items": [
+        {
+            "description": "Object-based eco-centric data-warehouse",
+            "quantity": 1,
+            "unit_price": 413.02,
+            "total_price": 413.02
+        },
+        {
+            "description": "Object-based encompassing frame",
+            "quantity": 5,
+            "unit_price": 120.38,
+            "total_price": 601.9
+        },
+        {
+            "description": "Function-based demand-driven complexity",
+            "quantity": 9,
+            "unit_price": 338.05,
+            "total_price": 3042.45
+        }
+    ],
+    "amount": 4057.37
+}

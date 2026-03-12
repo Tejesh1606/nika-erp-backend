@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Evans and Sons",
+    "invoice_number": "INV-67520",
+    "date": "2025-11-09",
+    "items": [
+        {
+            "description": "Intuitive zero administration project",
+            "quantity": 4,
+            "unit_price": 231.74,
+            "total_price": 926.96
+        }
+    ],
+    "amount": 926.96
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wilkerson-Miller",
+    "invoice_number": "INV-50360",
+    "date": "2025-04-11",
+    "items": [
+        {
+            "description": "Down-sized global synergy",
+            "quantity": 8,
+            "unit_price": 227.83,
+            "total_price": 1822.64
+        },
+        {
+            "description": "Front-line secondary website",
+            "quantity": 5,
+            "unit_price": 259.28,
+            "total_price": 1296.4
+        },
+        {
+            "description": "Programmable tangible time-frame",
+            "quantity": 1,
+            "unit_price": 125.87,
+            "total_price": 125.87
+        }
+    ],
+    "amount": 3244.91
+}

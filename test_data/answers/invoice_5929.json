@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Brown-Alvarez",
+    "invoice_number": "INV-53025",
+    "date": "2026-02-27",
+    "items": [
+        {
+            "description": "Optional exuding frame",
+            "quantity": 8,
+            "unit_price": 24.65,
+            "total_price": 197.2
+        }
+    ],
+    "amount": 197.2
+}

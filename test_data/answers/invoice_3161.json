@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mitchell, Mccormick and Rivera",
+    "invoice_number": "INV-13600",
+    "date": "2025-04-16",
+    "items": [
+        {
+            "description": "Managed upward-trending projection",
+            "quantity": 7,
+            "unit_price": 329.04,
+            "total_price": 2303.28
+        },
+        {
+            "description": "Cross-platform mobile installation",
+            "quantity": 9,
+            "unit_price": 442.54,
+            "total_price": 3982.86
+        },
+        {
+            "description": "Innovative client-server paradigm",
+            "quantity": 8,
+            "unit_price": 307.93,
+            "total_price": 2463.44
+        },
+        {
+            "description": "Open-source system-worthy concept",
+            "quantity": 6,
+            "unit_price": 210.87,
+            "total_price": 1265.22
+        }
+    ],
+    "amount": 10014.8
+}

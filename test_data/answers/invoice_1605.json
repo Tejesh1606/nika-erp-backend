@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Clark LLC",
+    "invoice_number": "INV-99175",
+    "date": "2025-11-19",
+    "items": [
+        {
+            "description": "User-centric value-added middleware",
+            "quantity": 3,
+            "unit_price": 220.8,
+            "total_price": 662.4
+        },
+        {
+            "description": "Grass-roots multi-tasking infrastructure",
+            "quantity": 3,
+            "unit_price": 472.09,
+            "total_price": 1416.27
+        },
+        {
+            "description": "Progressive optimizing pricing structure",
+            "quantity": 3,
+            "unit_price": 454.86,
+            "total_price": 1364.58
+        },
+        {
+            "description": "Seamless dedicated Internet solution",
+            "quantity": 4,
+            "unit_price": 293.67,
+            "total_price": 1174.68
+        }
+    ],
+    "amount": 4617.93
+}

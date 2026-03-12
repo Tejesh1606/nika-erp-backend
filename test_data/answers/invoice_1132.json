@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Flynn, Garcia and Gilmore",
+    "invoice_number": "INV-60342",
+    "date": "2025-12-27",
+    "items": [
+        {
+            "description": "Operative asymmetric approach",
+            "quantity": 2,
+            "unit_price": 143.14,
+            "total_price": 286.28
+        },
+        {
+            "description": "Seamless eco-centric budgetary management",
+            "quantity": 6,
+            "unit_price": 168.81,
+            "total_price": 1012.86
+        }
+    ],
+    "amount": 1299.14
+}

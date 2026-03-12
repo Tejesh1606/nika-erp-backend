@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Barnes Inc",
+    "invoice_number": "INV-76049",
+    "date": "2025-03-21",
+    "items": [
+        {
+            "description": "Devolved impactful hardware",
+            "quantity": 9,
+            "unit_price": 139.52,
+            "total_price": 1255.68
+        },
+        {
+            "description": "Realigned object-oriented structure",
+            "quantity": 8,
+            "unit_price": 66.59,
+            "total_price": 532.72
+        },
+        {
+            "description": "Expanded static firmware",
+            "quantity": 8,
+            "unit_price": 51.33,
+            "total_price": 410.64
+        }
+    ],
+    "amount": 2199.04
+}

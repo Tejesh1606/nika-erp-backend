@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hardy LLC",
+    "invoice_number": "INV-35307",
+    "date": "2025-03-22",
+    "items": [
+        {
+            "description": "Assimilated regional array",
+            "quantity": 4,
+            "unit_price": 11.85,
+            "total_price": 47.4
+        },
+        {
+            "description": "Centralized radical protocol",
+            "quantity": 1,
+            "unit_price": 27.72,
+            "total_price": 27.72
+        }
+    ],
+    "amount": 75.12
+}

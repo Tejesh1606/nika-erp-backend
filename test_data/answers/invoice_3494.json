@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Macdonald Group",
+    "invoice_number": "INV-71247",
+    "date": "2025-06-26",
+    "items": [
+        {
+            "description": "Stand-alone interactive flexibility",
+            "quantity": 8,
+            "unit_price": 110.57,
+            "total_price": 884.56
+        }
+    ],
+    "amount": 884.56
+}

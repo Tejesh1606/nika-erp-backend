@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Graves-White",
+    "invoice_number": "INV-99973",
+    "date": "2026-01-21",
+    "items": [
+        {
+            "description": "Intuitive even-keeled forecast",
+            "quantity": 7,
+            "unit_price": 359.09,
+            "total_price": 2513.63
+        },
+        {
+            "description": "Compatible bifurcated model",
+            "quantity": 8,
+            "unit_price": 492.28,
+            "total_price": 3938.24
+        },
+        {
+            "description": "Cross-platform zero administration solution",
+            "quantity": 3,
+            "unit_price": 133.56,
+            "total_price": 400.68
+        },
+        {
+            "description": "Public-key static task-force",
+            "quantity": 10,
+            "unit_price": 427.95,
+            "total_price": 4279.5
+        }
+    ],
+    "amount": 11132.05
+}

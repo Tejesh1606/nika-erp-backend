@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Robinson Group",
+    "invoice_number": "INV-17768",
+    "date": "2025-03-20",
+    "items": [
+        {
+            "description": "Proactive bi-directional synergy",
+            "quantity": 8,
+            "unit_price": 467.26,
+            "total_price": 3738.08
+        },
+        {
+            "description": "Synergized foreground model",
+            "quantity": 9,
+            "unit_price": 469.64,
+            "total_price": 4226.76
+        },
+        {
+            "description": "Advanced zero tolerance algorithm",
+            "quantity": 6,
+            "unit_price": 55.86,
+            "total_price": 335.16
+        }
+    ],
+    "amount": 8300.0
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Williams LLC",
+    "invoice_number": "INV-58075",
+    "date": "2025-12-01",
+    "items": [
+        {
+            "description": "Polarized system-worthy flexibility",
+            "quantity": 7,
+            "unit_price": 13.83,
+            "total_price": 96.81
+        },
+        {
+            "description": "Decentralized responsive intranet",
+            "quantity": 5,
+            "unit_price": 47.36,
+            "total_price": 236.8
+        }
+    ],
+    "amount": 333.61
+}

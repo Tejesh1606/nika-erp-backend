@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hill and Sons",
+    "invoice_number": "INV-91034",
+    "date": "2025-10-31",
+    "items": [
+        {
+            "description": "Synergized system-worthy initiative",
+            "quantity": 9,
+            "unit_price": 238.49,
+            "total_price": 2146.41
+        },
+        {
+            "description": "Automated hybrid groupware",
+            "quantity": 8,
+            "unit_price": 349.43,
+            "total_price": 2795.44
+        },
+        {
+            "description": "Team-oriented disintermediate application",
+            "quantity": 7,
+            "unit_price": 76.72,
+            "total_price": 537.04
+        },
+        {
+            "description": "User-friendly methodical flexibility",
+            "quantity": 7,
+            "unit_price": 118.13,
+            "total_price": 826.91
+        }
+    ],
+    "amount": 6305.8
+}

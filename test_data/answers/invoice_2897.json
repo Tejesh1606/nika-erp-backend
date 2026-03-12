@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Gilbert, Smith and Woodard",
+    "invoice_number": "INV-79001",
+    "date": "2025-11-11",
+    "items": [
+        {
+            "description": "De-engineered cohesive secured line",
+            "quantity": 4,
+            "unit_price": 118.41,
+            "total_price": 473.64
+        },
+        {
+            "description": "Function-based client-driven website",
+            "quantity": 1,
+            "unit_price": 415.46,
+            "total_price": 415.46
+        },
+        {
+            "description": "User-centric bottom-line initiative",
+            "quantity": 2,
+            "unit_price": 219.02,
+            "total_price": 438.04
+        }
+    ],
+    "amount": 1327.14
+}

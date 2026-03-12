@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Davis-Myers",
+    "invoice_number": "INV-80892",
+    "date": "2026-01-17",
+    "items": [
+        {
+            "description": "Focused well-modulated productivity",
+            "quantity": 10,
+            "unit_price": 285.84,
+            "total_price": 2858.4
+        }
+    ],
+    "amount": 2858.4
+}

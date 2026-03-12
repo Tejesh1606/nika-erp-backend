@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Juarez PLC",
+    "invoice_number": "INV-58305",
+    "date": "2026-03-06",
+    "items": [
+        {
+            "description": "Devolved asynchronous toolset",
+            "quantity": 2,
+            "unit_price": 242.16,
+            "total_price": 484.32
+        },
+        {
+            "description": "Persistent high-level groupware",
+            "quantity": 9,
+            "unit_price": 379.98,
+            "total_price": 3419.82
+        },
+        {
+            "description": "Profound foreground capability",
+            "quantity": 9,
+            "unit_price": 355.96,
+            "total_price": 3203.64
+        }
+    ],
+    "amount": 7107.78
+}

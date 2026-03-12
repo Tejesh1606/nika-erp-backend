@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Long Ltd",
+    "invoice_number": "INV-90829",
+    "date": "2025-07-04",
+    "items": [
+        {
+            "description": "Polarized context-sensitive middleware",
+            "quantity": 3,
+            "unit_price": 49.74,
+            "total_price": 149.22
+        }
+    ],
+    "amount": 149.22
+}

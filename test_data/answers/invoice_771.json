@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Barrera Ltd",
+    "invoice_number": "INV-68361",
+    "date": "2025-09-13",
+    "items": [
+        {
+            "description": "Phased 3rdgeneration knowledge user",
+            "quantity": 5,
+            "unit_price": 281.26,
+            "total_price": 1406.3
+        },
+        {
+            "description": "Reduced dynamic customer loyalty",
+            "quantity": 9,
+            "unit_price": 306.61,
+            "total_price": 2759.49
+        },
+        {
+            "description": "Implemented non-volatile infrastructure",
+            "quantity": 5,
+            "unit_price": 133.17,
+            "total_price": 665.85
+        }
+    ],
+    "amount": 4831.64
+}

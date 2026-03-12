@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Armstrong, Daniel and Ray",
+    "invoice_number": "INV-65210",
+    "date": "2026-02-12",
+    "items": [
+        {
+            "description": "Pre-emptive human-resource installation",
+            "quantity": 7,
+            "unit_price": 42.75,
+            "total_price": 299.25
+        }
+    ],
+    "amount": 299.25
+}

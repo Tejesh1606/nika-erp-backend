@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Trevino, Ramirez and Campbell",
+    "invoice_number": "INV-50165",
+    "date": "2026-01-28",
+    "items": [
+        {
+            "description": "Proactive disintermediate encoding",
+            "quantity": 3,
+            "unit_price": 44.44,
+            "total_price": 133.32
+        },
+        {
+            "description": "Future-proofed tangible definition",
+            "quantity": 10,
+            "unit_price": 264.02,
+            "total_price": 2640.2
+        },
+        {
+            "description": "Multi-layered solution-oriented projection",
+            "quantity": 9,
+            "unit_price": 479.02,
+            "total_price": 4311.18
+        }
+    ],
+    "amount": 7084.7
+}

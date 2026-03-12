@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Phillips, Brown and Cardenas",
+    "invoice_number": "INV-32120",
+    "date": "2025-07-28",
+    "items": [
+        {
+            "description": "Balanced user-facing system engine",
+            "quantity": 1,
+            "unit_price": 146.1,
+            "total_price": 146.1
+        },
+        {
+            "description": "Down-sized mobile extranet",
+            "quantity": 1,
+            "unit_price": 249.72,
+            "total_price": 249.72
+        },
+        {
+            "description": "Right-sized hybrid collaboration",
+            "quantity": 3,
+            "unit_price": 449.23,
+            "total_price": 1347.69
+        },
+        {
+            "description": "Front-line next generation emulation",
+            "quantity": 1,
+            "unit_price": 40.18,
+            "total_price": 40.18
+        }
+    ],
+    "amount": 1783.69
+}

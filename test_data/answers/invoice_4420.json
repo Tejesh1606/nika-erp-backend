@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Evans PLC",
+    "invoice_number": "INV-22731",
+    "date": "2025-08-04",
+    "items": [
+        {
+            "description": "Centralized holistic open architecture",
+            "quantity": 7,
+            "unit_price": 324.89,
+            "total_price": 2274.23
+        },
+        {
+            "description": "Ameliorated asynchronous open system",
+            "quantity": 7,
+            "unit_price": 140.46,
+            "total_price": 983.22
+        },
+        {
+            "description": "Proactive static toolset",
+            "quantity": 10,
+            "unit_price": 92.74,
+            "total_price": 927.4
+        }
+    ],
+    "amount": 4184.85
+}

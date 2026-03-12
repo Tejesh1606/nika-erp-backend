@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lopez-Williams",
+    "invoice_number": "INV-67637",
+    "date": "2025-09-05",
+    "items": [
+        {
+            "description": "Fundamental directional flexibility",
+            "quantity": 7,
+            "unit_price": 392.37,
+            "total_price": 2746.59
+        },
+        {
+            "description": "Re-contextualized analyzing collaboration",
+            "quantity": 6,
+            "unit_price": 280.24,
+            "total_price": 1681.44
+        },
+        {
+            "description": "Versatile tangible secured line",
+            "quantity": 6,
+            "unit_price": 412.28,
+            "total_price": 2473.68
+        }
+    ],
+    "amount": 6901.71
+}

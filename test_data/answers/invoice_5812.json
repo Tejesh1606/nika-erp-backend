@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Irwin-Paul",
+    "invoice_number": "INV-28349",
+    "date": "2025-09-23",
+    "items": [
+        {
+            "description": "Visionary value-added throughput",
+            "quantity": 8,
+            "unit_price": 104.82,
+            "total_price": 838.56
+        },
+        {
+            "description": "Extended 24hour algorithm",
+            "quantity": 4,
+            "unit_price": 224.83,
+            "total_price": 899.32
+        },
+        {
+            "description": "Optimized context-sensitive encoding",
+            "quantity": 9,
+            "unit_price": 215.0,
+            "total_price": 1935.0
+        }
+    ],
+    "amount": 3672.88
+}

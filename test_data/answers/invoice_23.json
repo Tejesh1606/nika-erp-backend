@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Kidd, Huff and Novak",
+    "invoice_number": "INV-40982",
+    "date": "2025-05-12",
+    "items": [
+        {
+            "description": "Open-source mobile matrices",
+            "quantity": 4,
+            "unit_price": 199.7,
+            "total_price": 798.8
+        },
+        {
+            "description": "Extended impactful approach",
+            "quantity": 5,
+            "unit_price": 123.58,
+            "total_price": 617.9
+        },
+        {
+            "description": "Down-sized homogeneous ability",
+            "quantity": 2,
+            "unit_price": 471.41,
+            "total_price": 942.82
+        },
+        {
+            "description": "Networked empowering toolset",
+            "quantity": 6,
+            "unit_price": 194.75,
+            "total_price": 1168.5
+        }
+    ],
+    "amount": 3528.02
+}

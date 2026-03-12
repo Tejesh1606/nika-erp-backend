@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Chambers, Morrison and Thompson",
+    "invoice_number": "INV-87091",
+    "date": "2025-04-27",
+    "items": [
+        {
+            "description": "User-friendly asymmetric capacity",
+            "quantity": 8,
+            "unit_price": 443.54,
+            "total_price": 3548.32
+        },
+        {
+            "description": "Fundamental non-volatile emulation",
+            "quantity": 1,
+            "unit_price": 55.55,
+            "total_price": 55.55
+        }
+    ],
+    "amount": 3603.87
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Thompson, Scott and Webb",
+    "invoice_number": "INV-50880",
+    "date": "2026-01-06",
+    "items": [
+        {
+            "description": "Team-oriented asynchronous conglomeration",
+            "quantity": 8,
+            "unit_price": 386.57,
+            "total_price": 3092.56
+        },
+        {
+            "description": "Public-key static matrix",
+            "quantity": 5,
+            "unit_price": 488.2,
+            "total_price": 2441.0
+        },
+        {
+            "description": "Sharable incremental throughput",
+            "quantity": 7,
+            "unit_price": 254.9,
+            "total_price": 1784.3
+        },
+        {
+            "description": "Customer-focused client-driven system engine",
+            "quantity": 3,
+            "unit_price": 274.3,
+            "total_price": 822.9
+        }
+    ],
+    "amount": 8140.76
+}

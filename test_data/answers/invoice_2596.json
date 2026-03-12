@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Dillon, Martin and Cantu",
+    "invoice_number": "INV-82829",
+    "date": "2026-01-14",
+    "items": [
+        {
+            "description": "Streamlined background frame",
+            "quantity": 2,
+            "unit_price": 93.96,
+            "total_price": 187.92
+        },
+        {
+            "description": "Cross-group bottom-line capacity",
+            "quantity": 3,
+            "unit_price": 29.11,
+            "total_price": 87.33
+        }
+    ],
+    "amount": 275.25
+}

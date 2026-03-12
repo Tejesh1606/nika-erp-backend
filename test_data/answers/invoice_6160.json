@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Cochran, Wilkerson and Clark",
+    "invoice_number": "INV-17617",
+    "date": "2026-02-23",
+    "items": [
+        {
+            "description": "Horizontal web-enabled contingency",
+            "quantity": 9,
+            "unit_price": 146.18,
+            "total_price": 1315.62
+        },
+        {
+            "description": "Cross-platform analyzing emulation",
+            "quantity": 4,
+            "unit_price": 471.6,
+            "total_price": 1886.4
+        },
+        {
+            "description": "Pre-emptive radical synergy",
+            "quantity": 2,
+            "unit_price": 161.53,
+            "total_price": 323.06
+        },
+        {
+            "description": "Re-engineered neutral contingency",
+            "quantity": 3,
+            "unit_price": 498.68,
+            "total_price": 1496.04
+        }
+    ],
+    "amount": 5021.12
+}

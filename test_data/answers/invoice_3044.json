@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Marshall-Chan",
+    "invoice_number": "INV-62780",
+    "date": "2025-07-13",
+    "items": [
+        {
+            "description": "Advanced 6thgeneration success",
+            "quantity": 4,
+            "unit_price": 367.51,
+            "total_price": 1470.04
+        },
+        {
+            "description": "Exclusive client-server portal",
+            "quantity": 4,
+            "unit_price": 86.93,
+            "total_price": 347.72
+        },
+        {
+            "description": "Re-contextualized 3rdgeneration orchestration",
+            "quantity": 8,
+            "unit_price": 258.97,
+            "total_price": 2071.76
+        }
+    ],
+    "amount": 3889.52
+}

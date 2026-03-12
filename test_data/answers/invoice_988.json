@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mayo-Harris",
+    "invoice_number": "INV-30142",
+    "date": "2025-03-26",
+    "items": [
+        {
+            "description": "De-engineered content-based instruction set",
+            "quantity": 7,
+            "unit_price": 13.83,
+            "total_price": 96.81
+        }
+    ],
+    "amount": 96.81
+}

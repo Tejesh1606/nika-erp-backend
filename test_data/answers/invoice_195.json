@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Williams-Williams",
+    "invoice_number": "INV-83638",
+    "date": "2025-05-23",
+    "items": [
+        {
+            "description": "Multi-lateral neutral forecast",
+            "quantity": 8,
+            "unit_price": 124.71,
+            "total_price": 997.68
+        },
+        {
+            "description": "Compatible human-resource middleware",
+            "quantity": 3,
+            "unit_price": 334.67,
+            "total_price": 1004.01
+        },
+        {
+            "description": "Organized well-modulated neural-net",
+            "quantity": 6,
+            "unit_price": 306.26,
+            "total_price": 1837.56
+        },
+        {
+            "description": "Grass-roots regional software",
+            "quantity": 2,
+            "unit_price": 368.97,
+            "total_price": 737.94
+        }
+    ],
+    "amount": 4577.19
+}

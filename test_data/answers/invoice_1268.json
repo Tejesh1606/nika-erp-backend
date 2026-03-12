@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Martinez Group",
+    "invoice_number": "INV-70325",
+    "date": "2025-07-29",
+    "items": [
+        {
+            "description": "Business-focused radical software",
+            "quantity": 7,
+            "unit_price": 203.93,
+            "total_price": 1427.51
+        },
+        {
+            "description": "Multi-layered eco-centric interface",
+            "quantity": 10,
+            "unit_price": 99.79,
+            "total_price": 997.9
+        },
+        {
+            "description": "Mandatory systematic frame",
+            "quantity": 10,
+            "unit_price": 466.56,
+            "total_price": 4665.6
+        }
+    ],
+    "amount": 7091.01
+}

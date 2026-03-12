@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Davidson, Silva and Walker",
+    "invoice_number": "INV-46428",
+    "date": "2025-05-24",
+    "items": [
+        {
+            "description": "Ameliorated attitude-oriented monitoring",
+            "quantity": 2,
+            "unit_price": 63.6,
+            "total_price": 127.2
+        },
+        {
+            "description": "Organized systematic secured line",
+            "quantity": 5,
+            "unit_price": 192.64,
+            "total_price": 963.2
+        },
+        {
+            "description": "Cross-group multimedia infrastructure",
+            "quantity": 4,
+            "unit_price": 354.03,
+            "total_price": 1416.12
+        },
+        {
+            "description": "Ergonomic mobile functionalities",
+            "quantity": 6,
+            "unit_price": 397.12,
+            "total_price": 2382.72
+        }
+    ],
+    "amount": 4889.24
+}

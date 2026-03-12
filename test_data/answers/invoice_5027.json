@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Oneal-Norman",
+    "invoice_number": "INV-98809",
+    "date": "2025-07-29",
+    "items": [
+        {
+            "description": "Secured grid-enabled framework",
+            "quantity": 9,
+            "unit_price": 70.92,
+            "total_price": 638.28
+        },
+        {
+            "description": "Pre-emptive interactive artificial intelligence",
+            "quantity": 7,
+            "unit_price": 363.03,
+            "total_price": 2541.21
+        },
+        {
+            "description": "Optional next generation system engine",
+            "quantity": 2,
+            "unit_price": 265.24,
+            "total_price": 530.48
+        }
+    ],
+    "amount": 3709.97
+}

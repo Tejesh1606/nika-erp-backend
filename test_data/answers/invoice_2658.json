@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Rivers and Sons",
+    "invoice_number": "INV-74095",
+    "date": "2026-01-27",
+    "items": [
+        {
+            "description": "Multi-lateral systematic infrastructure",
+            "quantity": 9,
+            "unit_price": 139.27,
+            "total_price": 1253.43
+        },
+        {
+            "description": "Intuitive web-enabled info-mediaries",
+            "quantity": 9,
+            "unit_price": 83.13,
+            "total_price": 748.17
+        },
+        {
+            "description": "Seamless methodical installation",
+            "quantity": 1,
+            "unit_price": 457.38,
+            "total_price": 457.38
+        }
+    ],
+    "amount": 2458.98
+}

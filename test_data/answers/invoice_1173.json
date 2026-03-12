@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Sanchez-Saunders",
+    "invoice_number": "INV-57443",
+    "date": "2025-06-06",
+    "items": [
+        {
+            "description": "Persevering foreground synergy",
+            "quantity": 2,
+            "unit_price": 446.7,
+            "total_price": 893.4
+        },
+        {
+            "description": "Customizable system-worthy encoding",
+            "quantity": 7,
+            "unit_price": 149.93,
+            "total_price": 1049.51
+        }
+    ],
+    "amount": 1942.91
+}

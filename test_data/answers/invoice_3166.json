@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Parsons-Montoya",
+    "invoice_number": "INV-51856",
+    "date": "2025-09-21",
+    "items": [
+        {
+            "description": "Synergized intermediate contingency",
+            "quantity": 5,
+            "unit_price": 102.4,
+            "total_price": 512.0
+        },
+        {
+            "description": "Persistent local strategy",
+            "quantity": 8,
+            "unit_price": 271.57,
+            "total_price": 2172.56
+        },
+        {
+            "description": "Quality-focused neutral monitoring",
+            "quantity": 9,
+            "unit_price": 417.3,
+            "total_price": 3755.7
+        }
+    ],
+    "amount": 6440.26
+}

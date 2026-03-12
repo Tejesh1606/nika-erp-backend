@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Johnson Group",
+    "invoice_number": "INV-96248",
+    "date": "2026-02-01",
+    "items": [
+        {
+            "description": "Progressive dedicated model",
+            "quantity": 7,
+            "unit_price": 188.17,
+            "total_price": 1317.19
+        }
+    ],
+    "amount": 1317.19
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hanson PLC",
+    "invoice_number": "INV-25818",
+    "date": "2025-03-13",
+    "items": [
+        {
+            "description": "Extended optimizing analyzer",
+            "quantity": 7,
+            "unit_price": 181.75,
+            "total_price": 1272.25
+        },
+        {
+            "description": "Reverse-engineered bottom-line concept",
+            "quantity": 1,
+            "unit_price": 27.39,
+            "total_price": 27.39
+        },
+        {
+            "description": "Centralized user-facing encoding",
+            "quantity": 5,
+            "unit_price": 252.49,
+            "total_price": 1262.45
+        },
+        {
+            "description": "Sharable 4thgeneration circuit",
+            "quantity": 5,
+            "unit_price": 360.06,
+            "total_price": 1800.3
+        }
+    ],
+    "amount": 4362.39
+}

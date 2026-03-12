@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Sanchez Group",
+    "invoice_number": "INV-25202",
+    "date": "2025-09-01",
+    "items": [
+        {
+            "description": "Seamless real-time approach",
+            "quantity": 8,
+            "unit_price": 222.7,
+            "total_price": 1781.6
+        },
+        {
+            "description": "Integrated static support",
+            "quantity": 3,
+            "unit_price": 313.99,
+            "total_price": 941.97
+        },
+        {
+            "description": "Switchable user-facing conglomeration",
+            "quantity": 4,
+            "unit_price": 403.62,
+            "total_price": 1614.48
+        }
+    ],
+    "amount": 4338.05
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Sweeney-Welch",
+    "invoice_number": "INV-85669",
+    "date": "2025-10-12",
+    "items": [
+        {
+            "description": "Enterprise-wide homogeneous access",
+            "quantity": 8,
+            "unit_price": 258.01,
+            "total_price": 2064.08
+        },
+        {
+            "description": "Innovative attitude-oriented neural-net",
+            "quantity": 3,
+            "unit_price": 87.79,
+            "total_price": 263.37
+        }
+    ],
+    "amount": 2327.45
+}

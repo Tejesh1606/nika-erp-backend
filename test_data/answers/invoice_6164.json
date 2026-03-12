@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mitchell, Ware and Khan",
+    "invoice_number": "INV-10923",
+    "date": "2025-11-21",
+    "items": [
+        {
+            "description": "Reactive fresh-thinking application",
+            "quantity": 3,
+            "unit_price": 147.86,
+            "total_price": 443.58
+        }
+    ],
+    "amount": 443.58
+}

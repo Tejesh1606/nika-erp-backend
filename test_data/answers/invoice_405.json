@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mcconnell, Roberson and Webb",
+    "invoice_number": "INV-76628",
+    "date": "2026-01-06",
+    "items": [
+        {
+            "description": "Enhanced system-worthy paradigm",
+            "quantity": 7,
+            "unit_price": 391.92,
+            "total_price": 2743.44
+        },
+        {
+            "description": "Enhanced upward-trending capacity",
+            "quantity": 1,
+            "unit_price": 228.38,
+            "total_price": 228.38
+        },
+        {
+            "description": "Customer-focused human-resource protocol",
+            "quantity": 1,
+            "unit_price": 126.96,
+            "total_price": 126.96
+        }
+    ],
+    "amount": 3098.78
+}

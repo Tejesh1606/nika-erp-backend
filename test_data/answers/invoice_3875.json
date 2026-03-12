@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Adams, Elliott and Wells",
+    "invoice_number": "INV-40896",
+    "date": "2025-07-27",
+    "items": [
+        {
+            "description": "Triple-buffered motivating methodology",
+            "quantity": 4,
+            "unit_price": 265.8,
+            "total_price": 1063.2
+        },
+        {
+            "description": "Enhanced logistical concept",
+            "quantity": 2,
+            "unit_price": 353.37,
+            "total_price": 706.74
+        },
+        {
+            "description": "Secured real-time core",
+            "quantity": 7,
+            "unit_price": 385.88,
+            "total_price": 2701.16
+        }
+    ],
+    "amount": 4471.1
+}

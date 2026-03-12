@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Bennett, Dean and Ramirez",
+    "invoice_number": "INV-70194",
+    "date": "2025-08-19",
+    "items": [
+        {
+            "description": "Polarized explicit model",
+            "quantity": 7,
+            "unit_price": 186.75,
+            "total_price": 1307.25
+        },
+        {
+            "description": "Expanded bandwidth-monitored intranet",
+            "quantity": 1,
+            "unit_price": 89.2,
+            "total_price": 89.2
+        },
+        {
+            "description": "Ergonomic tangible ability",
+            "quantity": 5,
+            "unit_price": 476.74,
+            "total_price": 2383.7
+        },
+        {
+            "description": "Networked impactful contingency",
+            "quantity": 3,
+            "unit_price": 173.66,
+            "total_price": 520.98
+        }
+    ],
+    "amount": 4301.13
+}

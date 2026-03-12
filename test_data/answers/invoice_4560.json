@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hunt Inc",
+    "invoice_number": "INV-41628",
+    "date": "2025-08-04",
+    "items": [
+        {
+            "description": "Reduced 3rdgeneration algorithm",
+            "quantity": 8,
+            "unit_price": 38.3,
+            "total_price": 306.4
+        }
+    ],
+    "amount": 306.4
+}

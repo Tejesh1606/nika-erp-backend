@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Diaz-Peterson",
+    "invoice_number": "INV-33631",
+    "date": "2026-02-26",
+    "items": [
+        {
+            "description": "Exclusive systematic capacity",
+            "quantity": 6,
+            "unit_price": 413.28,
+            "total_price": 2479.68
+        },
+        {
+            "description": "Open-source intermediate alliance",
+            "quantity": 1,
+            "unit_price": 293.53,
+            "total_price": 293.53
+        }
+    ],
+    "amount": 2773.21
+}

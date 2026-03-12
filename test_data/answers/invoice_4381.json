@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Dunn, Kelly and Oconnor",
+    "invoice_number": "INV-97700",
+    "date": "2025-11-18",
+    "items": [
+        {
+            "description": "Phased human-resource system engine",
+            "quantity": 10,
+            "unit_price": 21.14,
+            "total_price": 211.4
+        },
+        {
+            "description": "Synergistic incremental database",
+            "quantity": 6,
+            "unit_price": 476.85,
+            "total_price": 2861.1
+        },
+        {
+            "description": "Front-line global solution",
+            "quantity": 1,
+            "unit_price": 391.68,
+            "total_price": 391.68
+        },
+        {
+            "description": "Future-proofed contextually-based ability",
+            "quantity": 7,
+            "unit_price": 339.92,
+            "total_price": 2379.44
+        }
+    ],
+    "amount": 5843.62
+}

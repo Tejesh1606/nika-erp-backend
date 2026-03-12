@@ -1,0 +1,20 @@
+{
+    "vendor_name": "York-Sharp",
+    "invoice_number": "INV-98003",
+    "date": "2025-08-29",
+    "items": [
+        {
+            "description": "Synergistic mobile data-warehouse",
+            "quantity": 3,
+            "unit_price": 204.54,
+            "total_price": 613.62
+        },
+        {
+            "description": "Distributed dynamic matrix",
+            "quantity": 7,
+            "unit_price": 70.61,
+            "total_price": 494.27
+        }
+    ],
+    "amount": 1107.89
+}

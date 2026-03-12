@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Alvarez-Hart",
+    "invoice_number": "INV-65452",
+    "date": "2025-04-13",
+    "items": [
+        {
+            "description": "Versatile interactive workforce",
+            "quantity": 4,
+            "unit_price": 401.75,
+            "total_price": 1607.0
+        }
+    ],
+    "amount": 1607.0
+}

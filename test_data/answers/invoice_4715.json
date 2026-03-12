@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Duncan-Blanchard",
+    "invoice_number": "INV-40873",
+    "date": "2025-11-26",
+    "items": [
+        {
+            "description": "Networked human-resource matrix",
+            "quantity": 5,
+            "unit_price": 473.51,
+            "total_price": 2367.55
+        },
+        {
+            "description": "Future-proofed zero administration moratorium",
+            "quantity": 7,
+            "unit_price": 379.62,
+            "total_price": 2657.34
+        },
+        {
+            "description": "Programmable interactive middleware",
+            "quantity": 2,
+            "unit_price": 225.29,
+            "total_price": 450.58
+        },
+        {
+            "description": "Robust optimal infrastructure",
+            "quantity": 8,
+            "unit_price": 453.12,
+            "total_price": 3624.96
+        }
+    ],
+    "amount": 9100.43
+}

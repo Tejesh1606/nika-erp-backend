@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Cox-Turner",
+    "invoice_number": "INV-49580",
+    "date": "2026-02-11",
+    "items": [
+        {
+            "description": "Pre-emptive didactic superstructure",
+            "quantity": 4,
+            "unit_price": 213.58,
+            "total_price": 854.32
+        },
+        {
+            "description": "Visionary static model",
+            "quantity": 5,
+            "unit_price": 487.46,
+            "total_price": 2437.3
+        },
+        {
+            "description": "Quality-focused solution-oriented task-force",
+            "quantity": 10,
+            "unit_price": 239.47,
+            "total_price": 2394.7
+        },
+        {
+            "description": "Mandatory tertiary contingency",
+            "quantity": 6,
+            "unit_price": 414.35,
+            "total_price": 2486.1
+        }
+    ],
+    "amount": 8172.42
+}

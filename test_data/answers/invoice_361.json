@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Bush-Hill",
+    "invoice_number": "INV-70846",
+    "date": "2025-09-21",
+    "items": [
+        {
+            "description": "Object-based scalable capability",
+            "quantity": 8,
+            "unit_price": 105.48,
+            "total_price": 843.84
+        }
+    ],
+    "amount": 843.84
+}

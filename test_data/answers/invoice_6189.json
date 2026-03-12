@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Daniels, Alexander and Mcfarland",
+    "invoice_number": "INV-60664",
+    "date": "2025-06-04",
+    "items": [
+        {
+            "description": "Diverse composite synergy",
+            "quantity": 2,
+            "unit_price": 362.3,
+            "total_price": 724.6
+        }
+    ],
+    "amount": 724.6
+}

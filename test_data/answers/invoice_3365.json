@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Potter-Clark",
+    "invoice_number": "INV-14632",
+    "date": "2025-06-07",
+    "items": [
+        {
+            "description": "Focused transitional leverage",
+            "quantity": 5,
+            "unit_price": 370.52,
+            "total_price": 1852.6
+        },
+        {
+            "description": "Visionary upward-trending standardization",
+            "quantity": 9,
+            "unit_price": 314.04,
+            "total_price": 2826.36
+        }
+    ],
+    "amount": 4678.96
+}

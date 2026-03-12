@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Delgado, Moore and Zavala",
+    "invoice_number": "INV-73413",
+    "date": "2025-09-12",
+    "items": [
+        {
+            "description": "Decentralized systematic project",
+            "quantity": 6,
+            "unit_price": 339.99,
+            "total_price": 2039.94
+        }
+    ],
+    "amount": 2039.94
+}

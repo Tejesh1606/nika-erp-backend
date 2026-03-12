@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Grimes, Roberts and Freeman",
+    "invoice_number": "INV-34023",
+    "date": "2026-01-12",
+    "items": [
+        {
+            "description": "Quality-focused contextually-based middleware",
+            "quantity": 1,
+            "unit_price": 401.27,
+            "total_price": 401.27
+        },
+        {
+            "description": "Function-based 4thgeneration success",
+            "quantity": 9,
+            "unit_price": 397.63,
+            "total_price": 3578.67
+        }
+    ],
+    "amount": 3979.94
+}

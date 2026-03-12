@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Ellison-Shaw",
+    "invoice_number": "INV-39794",
+    "date": "2025-08-20",
+    "items": [
+        {
+            "description": "Diverse encompassing array",
+            "quantity": 2,
+            "unit_price": 403.45,
+            "total_price": 806.9
+        },
+        {
+            "description": "Programmable homogeneous capacity",
+            "quantity": 2,
+            "unit_price": 428.99,
+            "total_price": 857.98
+        },
+        {
+            "description": "User-friendly didactic initiative",
+            "quantity": 9,
+            "unit_price": 121.3,
+            "total_price": 1091.7
+        },
+        {
+            "description": "Secured analyzing definition",
+            "quantity": 7,
+            "unit_price": 186.98,
+            "total_price": 1308.86
+        }
+    ],
+    "amount": 4065.44
+}

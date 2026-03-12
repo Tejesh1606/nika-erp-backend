@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Pacheco-Silva",
+    "invoice_number": "INV-91940",
+    "date": "2025-07-19",
+    "items": [
+        {
+            "description": "Multi-tiered bandwidth-monitored interface",
+            "quantity": 6,
+            "unit_price": 42.61,
+            "total_price": 255.66
+        },
+        {
+            "description": "Monitored heuristic installation",
+            "quantity": 7,
+            "unit_price": 370.95,
+            "total_price": 2596.65
+        },
+        {
+            "description": "Monitored analyzing protocol",
+            "quantity": 1,
+            "unit_price": 266.77,
+            "total_price": 266.77
+        }
+    ],
+    "amount": 3119.08
+}

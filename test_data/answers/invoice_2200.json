@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Collins, Blevins and Mclean",
+    "invoice_number": "INV-28900",
+    "date": "2025-12-25",
+    "items": [
+        {
+            "description": "Grass-roots needs-based Local Area Network",
+            "quantity": 1,
+            "unit_price": 14.88,
+            "total_price": 14.88
+        }
+    ],
+    "amount": 14.88
+}

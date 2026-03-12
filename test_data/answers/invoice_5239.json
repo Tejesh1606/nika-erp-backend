@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Montes, Washington and Mclaughlin",
+    "invoice_number": "INV-63638",
+    "date": "2025-10-21",
+    "items": [
+        {
+            "description": "Secured clear-thinking challenge",
+            "quantity": 3,
+            "unit_price": 360.6,
+            "total_price": 1081.8
+        }
+    ],
+    "amount": 1081.8
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Nolan-Harris",
+    "invoice_number": "INV-79417",
+    "date": "2025-07-11",
+    "items": [
+        {
+            "description": "Multi-layered non-volatile initiative",
+            "quantity": 3,
+            "unit_price": 46.37,
+            "total_price": 139.11
+        }
+    ],
+    "amount": 139.11
+}

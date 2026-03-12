@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Tucker-Carter",
+    "invoice_number": "INV-21824",
+    "date": "2025-11-24",
+    "items": [
+        {
+            "description": "User-friendly client-driven matrix",
+            "quantity": 10,
+            "unit_price": 27.86,
+            "total_price": 278.6
+        }
+    ],
+    "amount": 278.6
+}

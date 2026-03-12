@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Moss, Mitchell and Little",
+    "invoice_number": "INV-18028",
+    "date": "2025-06-26",
+    "items": [
+        {
+            "description": "Centralized encompassing encoding",
+            "quantity": 6,
+            "unit_price": 382.35,
+            "total_price": 2294.1
+        },
+        {
+            "description": "Cloned grid-enabled initiative",
+            "quantity": 4,
+            "unit_price": 211.3,
+            "total_price": 845.2
+        }
+    ],
+    "amount": 3139.3
+}

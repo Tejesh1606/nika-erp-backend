@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Zhang-Lewis",
+    "invoice_number": "INV-96676",
+    "date": "2025-10-09",
+    "items": [
+        {
+            "description": "Horizontal zero-defect budgetary management",
+            "quantity": 9,
+            "unit_price": 382.89,
+            "total_price": 3446.01
+        },
+        {
+            "description": "Front-line human-resource open architecture",
+            "quantity": 6,
+            "unit_price": 441.54,
+            "total_price": 2649.24
+        },
+        {
+            "description": "Up-sized full-range conglomeration",
+            "quantity": 4,
+            "unit_price": 114.6,
+            "total_price": 458.4
+        },
+        {
+            "description": "Quality-focused solution-oriented customer loyalty",
+            "quantity": 10,
+            "unit_price": 114.02,
+            "total_price": 1140.2
+        }
+    ],
+    "amount": 7693.85
+}

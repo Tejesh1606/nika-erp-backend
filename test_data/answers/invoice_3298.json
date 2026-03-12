@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Davis and Sons",
+    "invoice_number": "INV-40605",
+    "date": "2025-12-29",
+    "items": [
+        {
+            "description": "Optional responsive initiative",
+            "quantity": 5,
+            "unit_price": 451.45,
+            "total_price": 2257.25
+        }
+    ],
+    "amount": 2257.25
+}

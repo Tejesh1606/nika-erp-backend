@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gates PLC",
+    "invoice_number": "INV-59857",
+    "date": "2025-09-10",
+    "items": [
+        {
+            "description": "Adaptive heuristic framework",
+            "quantity": 6,
+            "unit_price": 330.41,
+            "total_price": 1982.46
+        },
+        {
+            "description": "Versatile human-resource instruction set",
+            "quantity": 2,
+            "unit_price": 315.57,
+            "total_price": 631.14
+        }
+    ],
+    "amount": 2613.6
+}

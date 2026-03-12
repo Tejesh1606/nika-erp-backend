@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Pierce-White",
+    "invoice_number": "INV-58207",
+    "date": "2025-05-25",
+    "items": [
+        {
+            "description": "Persistent background methodology",
+            "quantity": 3,
+            "unit_price": 24.57,
+            "total_price": 73.71
+        },
+        {
+            "description": "Devolved 5thgeneration software",
+            "quantity": 7,
+            "unit_price": 40.27,
+            "total_price": 281.89
+        },
+        {
+            "description": "Customizable fresh-thinking emulation",
+            "quantity": 3,
+            "unit_price": 104.81,
+            "total_price": 314.43
+        },
+        {
+            "description": "Front-line discrete algorithm",
+            "quantity": 10,
+            "unit_price": 496.47,
+            "total_price": 4964.7
+        }
+    ],
+    "amount": 5634.73
+}

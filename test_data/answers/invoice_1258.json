@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Pierce-Long",
+    "invoice_number": "INV-37851",
+    "date": "2026-02-26",
+    "items": [
+        {
+            "description": "Phased static implementation",
+            "quantity": 7,
+            "unit_price": 432.1,
+            "total_price": 3024.7
+        },
+        {
+            "description": "Persistent tertiary encryption",
+            "quantity": 2,
+            "unit_price": 268.81,
+            "total_price": 537.62
+        },
+        {
+            "description": "Virtual bandwidth-monitored info-mediaries",
+            "quantity": 2,
+            "unit_price": 82.82,
+            "total_price": 165.64
+        },
+        {
+            "description": "De-engineered foreground task-force",
+            "quantity": 6,
+            "unit_price": 466.4,
+            "total_price": 2798.4
+        }
+    ],
+    "amount": 6526.36
+}

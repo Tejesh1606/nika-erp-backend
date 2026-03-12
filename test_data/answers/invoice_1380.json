@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Edwards-Crawford",
+    "invoice_number": "INV-34404",
+    "date": "2025-12-27",
+    "items": [
+        {
+            "description": "Multi-tiered dedicated firmware",
+            "quantity": 7,
+            "unit_price": 409.61,
+            "total_price": 2867.27
+        },
+        {
+            "description": "Triple-buffered mobile hardware",
+            "quantity": 1,
+            "unit_price": 60.12,
+            "total_price": 60.12
+        },
+        {
+            "description": "Mandatory leadingedge hierarchy",
+            "quantity": 4,
+            "unit_price": 142.4,
+            "total_price": 569.6
+        },
+        {
+            "description": "Versatile cohesive concept",
+            "quantity": 2,
+            "unit_price": 235.67,
+            "total_price": 471.34
+        }
+    ],
+    "amount": 3968.33
+}

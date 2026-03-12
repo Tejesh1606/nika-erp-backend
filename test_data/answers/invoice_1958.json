@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Woodard, Ferrell and Mason",
+    "invoice_number": "INV-99157",
+    "date": "2025-04-26",
+    "items": [
+        {
+            "description": "Universal didactic protocol",
+            "quantity": 6,
+            "unit_price": 26.83,
+            "total_price": 160.98
+        },
+        {
+            "description": "Ergonomic non-volatile forecast",
+            "quantity": 10,
+            "unit_price": 20.99,
+            "total_price": 209.9
+        },
+        {
+            "description": "Integrated optimal standardization",
+            "quantity": 8,
+            "unit_price": 33.36,
+            "total_price": 266.88
+        }
+    ],
+    "amount": 637.76
+}

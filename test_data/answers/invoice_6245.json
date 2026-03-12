@@ -1,0 +1,32 @@
+{
+    "vendor_name": "White, Tate and Peterson",
+    "invoice_number": "INV-39340",
+    "date": "2025-08-27",
+    "items": [
+        {
+            "description": "Upgradable zero tolerance info-mediaries",
+            "quantity": 8,
+            "unit_price": 333.95,
+            "total_price": 2671.6
+        },
+        {
+            "description": "Reverse-engineered zero tolerance knowledgebase",
+            "quantity": 8,
+            "unit_price": 195.54,
+            "total_price": 1564.32
+        },
+        {
+            "description": "Right-sized bandwidth-monitored standardization",
+            "quantity": 9,
+            "unit_price": 353.39,
+            "total_price": 3180.51
+        },
+        {
+            "description": "Optional client-driven knowledgebase",
+            "quantity": 1,
+            "unit_price": 386.35,
+            "total_price": 386.35
+        }
+    ],
+    "amount": 7802.78
+}

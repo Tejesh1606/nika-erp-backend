@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Martinez, Lewis and Freeman",
+    "invoice_number": "INV-23732",
+    "date": "2025-04-01",
+    "items": [
+        {
+            "description": "Seamless actuating matrices",
+            "quantity": 8,
+            "unit_price": 452.71,
+            "total_price": 3621.68
+        }
+    ],
+    "amount": 3621.68
+}

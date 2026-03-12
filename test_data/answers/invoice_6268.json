@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hunt and Sons",
+    "invoice_number": "INV-42536",
+    "date": "2025-07-20",
+    "items": [
+        {
+            "description": "Intuitive contextually-based circuit",
+            "quantity": 9,
+            "unit_price": 257.08,
+            "total_price": 2313.72
+        },
+        {
+            "description": "Assimilated real-time function",
+            "quantity": 9,
+            "unit_price": 435.89,
+            "total_price": 3923.01
+        }
+    ],
+    "amount": 6236.73
+}

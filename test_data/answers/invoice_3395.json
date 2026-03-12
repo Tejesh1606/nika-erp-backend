@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Foster Ltd",
+    "invoice_number": "INV-52384",
+    "date": "2025-03-31",
+    "items": [
+        {
+            "description": "Distributed disintermediate analyzer",
+            "quantity": 5,
+            "unit_price": 202.76,
+            "total_price": 1013.8
+        },
+        {
+            "description": "Profound object-oriented project",
+            "quantity": 5,
+            "unit_price": 53.34,
+            "total_price": 266.7
+        }
+    ],
+    "amount": 1280.5
+}

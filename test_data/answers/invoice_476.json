@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Smith, Vincent and Rubio",
+    "invoice_number": "INV-73214",
+    "date": "2025-07-31",
+    "items": [
+        {
+            "description": "Secured foreground methodology",
+            "quantity": 6,
+            "unit_price": 416.57,
+            "total_price": 2499.42
+        },
+        {
+            "description": "Re-engineered even-keeled matrix",
+            "quantity": 4,
+            "unit_price": 236.57,
+            "total_price": 946.28
+        },
+        {
+            "description": "Enterprise-wide well-modulated migration",
+            "quantity": 7,
+            "unit_price": 292.55,
+            "total_price": 2047.85
+        },
+        {
+            "description": "Grass-roots hybrid definition",
+            "quantity": 9,
+            "unit_price": 242.28,
+            "total_price": 2180.52
+        }
+    ],
+    "amount": 7674.07
+}

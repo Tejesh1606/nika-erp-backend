@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Reed Group",
+    "invoice_number": "INV-96706",
+    "date": "2025-07-30",
+    "items": [
+        {
+            "description": "Cloned motivating project",
+            "quantity": 1,
+            "unit_price": 250.73,
+            "total_price": 250.73
+        }
+    ],
+    "amount": 250.73
+}

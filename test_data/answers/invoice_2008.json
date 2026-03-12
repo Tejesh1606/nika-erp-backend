@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gillespie-Thomas",
+    "invoice_number": "INV-25761",
+    "date": "2025-04-08",
+    "items": [
+        {
+            "description": "Multi-layered upward-trending neural-net",
+            "quantity": 6,
+            "unit_price": 266.06,
+            "total_price": 1596.36
+        }
+    ],
+    "amount": 1596.36
+}

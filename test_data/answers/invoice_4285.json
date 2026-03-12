@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cook Inc",
+    "invoice_number": "INV-89131",
+    "date": "2025-11-22",
+    "items": [
+        {
+            "description": "Sharable object-oriented hierarchy",
+            "quantity": 5,
+            "unit_price": 144.26,
+            "total_price": 721.3
+        }
+    ],
+    "amount": 721.3
+}

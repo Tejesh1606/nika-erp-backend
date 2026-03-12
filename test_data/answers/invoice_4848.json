@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brown LLC",
+    "invoice_number": "INV-56183",
+    "date": "2025-06-18",
+    "items": [
+        {
+            "description": "Open-architected secondary firmware",
+            "quantity": 7,
+            "unit_price": 31.08,
+            "total_price": 217.56
+        },
+        {
+            "description": "Mandatory dynamic encoding",
+            "quantity": 7,
+            "unit_price": 88.41,
+            "total_price": 618.87
+        },
+        {
+            "description": "Horizontal leadingedge process improvement",
+            "quantity": 4,
+            "unit_price": 330.18,
+            "total_price": 1320.72
+        }
+    ],
+    "amount": 2157.15
+}

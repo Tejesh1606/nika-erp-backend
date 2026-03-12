@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bush and Sons",
+    "invoice_number": "INV-55485",
+    "date": "2025-11-23",
+    "items": [
+        {
+            "description": "Assimilated zero-defect functionalities",
+            "quantity": 1,
+            "unit_price": 318.29,
+            "total_price": 318.29
+        },
+        {
+            "description": "Ergonomic foreground time-frame",
+            "quantity": 1,
+            "unit_price": 263.83,
+            "total_price": 263.83
+        }
+    ],
+    "amount": 582.12
+}

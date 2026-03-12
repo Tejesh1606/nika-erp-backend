@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Carrillo PLC",
+    "invoice_number": "INV-56484",
+    "date": "2026-02-18",
+    "items": [
+        {
+            "description": "Universal object-oriented collaboration",
+            "quantity": 1,
+            "unit_price": 211.06,
+            "total_price": 211.06
+        },
+        {
+            "description": "Ergonomic zero administration circuit",
+            "quantity": 10,
+            "unit_price": 233.86,
+            "total_price": 2338.6
+        }
+    ],
+    "amount": 2549.66
+}

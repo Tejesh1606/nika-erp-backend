@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Thompson and Sons",
+    "invoice_number": "INV-14731",
+    "date": "2026-01-30",
+    "items": [
+        {
+            "description": "Configurable reciprocal customer loyalty",
+            "quantity": 8,
+            "unit_price": 202.6,
+            "total_price": 1620.8
+        },
+        {
+            "description": "Centralized tangible implementation",
+            "quantity": 7,
+            "unit_price": 203.27,
+            "total_price": 1422.89
+        }
+    ],
+    "amount": 3043.69
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gordon Ltd",
+    "invoice_number": "INV-25733",
+    "date": "2025-10-25",
+    "items": [
+        {
+            "description": "Open-architected 24hour moderator",
+            "quantity": 1,
+            "unit_price": 151.62,
+            "total_price": 151.62
+        },
+        {
+            "description": "Pre-emptive next generation matrix",
+            "quantity": 1,
+            "unit_price": 402.85,
+            "total_price": 402.85
+        },
+        {
+            "description": "Virtual responsive Graphic Interface",
+            "quantity": 3,
+            "unit_price": 469.51,
+            "total_price": 1408.53
+        },
+        {
+            "description": "Sharable methodical middleware",
+            "quantity": 2,
+            "unit_price": 56.8,
+            "total_price": 113.6
+        }
+    ],
+    "amount": 2076.6
+}

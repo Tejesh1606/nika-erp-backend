@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wright, Alvarado and Moody",
+    "invoice_number": "INV-50773",
+    "date": "2025-08-29",
+    "items": [
+        {
+            "description": "Versatile methodical approach",
+            "quantity": 7,
+            "unit_price": 89.34,
+            "total_price": 625.38
+        },
+        {
+            "description": "Networked object-oriented standardization",
+            "quantity": 4,
+            "unit_price": 376.43,
+            "total_price": 1505.72
+        },
+        {
+            "description": "Up-sized dynamic software",
+            "quantity": 1,
+            "unit_price": 248.34,
+            "total_price": 248.34
+        },
+        {
+            "description": "Reverse-engineered context-sensitive moderator",
+            "quantity": 8,
+            "unit_price": 438.65,
+            "total_price": 3509.2
+        }
+    ],
+    "amount": 5888.64
+}

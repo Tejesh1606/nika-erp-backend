@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Lopez LLC",
+    "invoice_number": "INV-88908",
+    "date": "2025-12-12",
+    "items": [
+        {
+            "description": "Decentralized stable emulation",
+            "quantity": 7,
+            "unit_price": 232.93,
+            "total_price": 1630.51
+        },
+        {
+            "description": "Operative full-range success",
+            "quantity": 10,
+            "unit_price": 432.46,
+            "total_price": 4324.6
+        }
+    ],
+    "amount": 5955.11
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Garrett, Hernandez and Khan",
+    "invoice_number": "INV-13039",
+    "date": "2025-05-13",
+    "items": [
+        {
+            "description": "Multi-lateral empowering project",
+            "quantity": 8,
+            "unit_price": 67.62,
+            "total_price": 540.96
+        },
+        {
+            "description": "Assimilated object-oriented extranet",
+            "quantity": 9,
+            "unit_price": 420.39,
+            "total_price": 3783.51
+        },
+        {
+            "description": "Customer-focused attitude-oriented core",
+            "quantity": 8,
+            "unit_price": 193.04,
+            "total_price": 1544.32
+        }
+    ],
+    "amount": 5868.79
+}

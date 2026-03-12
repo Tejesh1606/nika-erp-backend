@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson, Pearson and Cole",
+    "invoice_number": "INV-27557",
+    "date": "2025-03-11",
+    "items": [
+        {
+            "description": "Future-proofed well-modulated focus group",
+            "quantity": 8,
+            "unit_price": 174.61,
+            "total_price": 1396.88
+        },
+        {
+            "description": "Cloned 3rdgeneration approach",
+            "quantity": 1,
+            "unit_price": 467.25,
+            "total_price": 467.25
+        },
+        {
+            "description": "Triple-buffered system-worthy methodology",
+            "quantity": 3,
+            "unit_price": 259.41,
+            "total_price": 778.23
+        },
+        {
+            "description": "Team-oriented optimizing strategy",
+            "quantity": 1,
+            "unit_price": 76.96,
+            "total_price": 76.96
+        }
+    ],
+    "amount": 2719.32
+}

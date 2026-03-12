@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Williamson-Morrow",
+    "invoice_number": "INV-64950",
+    "date": "2025-05-14",
+    "items": [
+        {
+            "description": "Enhanced multi-state collaboration",
+            "quantity": 6,
+            "unit_price": 264.84,
+            "total_price": 1589.04
+        },
+        {
+            "description": "User-centric static contingency",
+            "quantity": 2,
+            "unit_price": 127.51,
+            "total_price": 255.02
+        }
+    ],
+    "amount": 1844.06
+}

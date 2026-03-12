@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hunter, Tapia and Rivera",
+    "invoice_number": "INV-97229",
+    "date": "2026-03-03",
+    "items": [
+        {
+            "description": "Programmable impactful Graphic Interface",
+            "quantity": 6,
+            "unit_price": 230.58,
+            "total_price": 1383.48
+        },
+        {
+            "description": "Inverse web-enabled task-force",
+            "quantity": 9,
+            "unit_price": 492.61,
+            "total_price": 4433.49
+        },
+        {
+            "description": "Multi-channeled modular help-desk",
+            "quantity": 9,
+            "unit_price": 25.64,
+            "total_price": 230.76
+        }
+    ],
+    "amount": 6047.73
+}

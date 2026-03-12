@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Beasley-Smith",
+    "invoice_number": "INV-65681",
+    "date": "2026-01-16",
+    "items": [
+        {
+            "description": "Reactive next generation capability",
+            "quantity": 6,
+            "unit_price": 134.12,
+            "total_price": 804.72
+        }
+    ],
+    "amount": 804.72
+}

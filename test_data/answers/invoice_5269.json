@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Webb-Kidd",
+    "invoice_number": "INV-67841",
+    "date": "2025-12-20",
+    "items": [
+        {
+            "description": "Decentralized high-level extranet",
+            "quantity": 9,
+            "unit_price": 116.37,
+            "total_price": 1047.33
+        },
+        {
+            "description": "Distributed cohesive extranet",
+            "quantity": 6,
+            "unit_price": 292.15,
+            "total_price": 1752.9
+        },
+        {
+            "description": "Customizable composite functionalities",
+            "quantity": 7,
+            "unit_price": 213.78,
+            "total_price": 1496.46
+        },
+        {
+            "description": "Virtual 24hour structure",
+            "quantity": 1,
+            "unit_price": 349.72,
+            "total_price": 349.72
+        }
+    ],
+    "amount": 4646.41
+}

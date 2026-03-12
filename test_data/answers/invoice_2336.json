@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Floyd, Howard and Rose",
+    "invoice_number": "INV-35179",
+    "date": "2026-01-25",
+    "items": [
+        {
+            "description": "User-centric needs-based concept",
+            "quantity": 6,
+            "unit_price": 481.04,
+            "total_price": 2886.24
+        },
+        {
+            "description": "Vision-oriented fresh-thinking standardization",
+            "quantity": 3,
+            "unit_price": 276.7,
+            "total_price": 830.1
+        },
+        {
+            "description": "Optional tertiary utilization",
+            "quantity": 1,
+            "unit_price": 361.15,
+            "total_price": 361.15
+        },
+        {
+            "description": "Polarized client-driven initiative",
+            "quantity": 3,
+            "unit_price": 418.28,
+            "total_price": 1254.84
+        }
+    ],
+    "amount": 5332.33
+}

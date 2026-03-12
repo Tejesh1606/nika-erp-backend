@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Dean, Gaines and Walker",
+    "invoice_number": "INV-24224",
+    "date": "2025-08-22",
+    "items": [
+        {
+            "description": "Balanced bottom-line hardware",
+            "quantity": 8,
+            "unit_price": 358.7,
+            "total_price": 2869.6
+        }
+    ],
+    "amount": 2869.6
+}

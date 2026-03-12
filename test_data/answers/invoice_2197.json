@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Anderson, Anderson and Baker",
+    "invoice_number": "INV-31870",
+    "date": "2025-03-24",
+    "items": [
+        {
+            "description": "Fundamental asymmetric projection",
+            "quantity": 7,
+            "unit_price": 450.28,
+            "total_price": 3151.96
+        },
+        {
+            "description": "Down-sized discrete artificial intelligence",
+            "quantity": 3,
+            "unit_price": 241.89,
+            "total_price": 725.67
+        }
+    ],
+    "amount": 3877.63
+}

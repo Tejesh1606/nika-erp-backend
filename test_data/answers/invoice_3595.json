@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Banks, Lawrence and Richard",
+    "invoice_number": "INV-10457",
+    "date": "2026-01-19",
+    "items": [
+        {
+            "description": "Realigned asymmetric projection",
+            "quantity": 2,
+            "unit_price": 461.71,
+            "total_price": 923.42
+        },
+        {
+            "description": "Persistent actuating application",
+            "quantity": 4,
+            "unit_price": 305.86,
+            "total_price": 1223.44
+        }
+    ],
+    "amount": 2146.86
+}

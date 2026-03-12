@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Vazquez, Erickson and Brown",
+    "invoice_number": "INV-16394",
+    "date": "2025-06-01",
+    "items": [
+        {
+            "description": "Progressive upward-trending migration",
+            "quantity": 6,
+            "unit_price": 354.58,
+            "total_price": 2127.48
+        },
+        {
+            "description": "Re-engineered scalable system engine",
+            "quantity": 8,
+            "unit_price": 23.31,
+            "total_price": 186.48
+        }
+    ],
+    "amount": 2313.96
+}

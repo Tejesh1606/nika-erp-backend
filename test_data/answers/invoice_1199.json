@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Coleman-Green",
+    "invoice_number": "INV-17160",
+    "date": "2025-06-21",
+    "items": [
+        {
+            "description": "Pre-emptive upward-trending definition",
+            "quantity": 10,
+            "unit_price": 146.15,
+            "total_price": 1461.5
+        }
+    ],
+    "amount": 1461.5
+}

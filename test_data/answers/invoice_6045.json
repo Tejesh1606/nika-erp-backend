@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hernandez PLC",
+    "invoice_number": "INV-20803",
+    "date": "2025-03-09",
+    "items": [
+        {
+            "description": "Balanced 3rdgeneration database",
+            "quantity": 3,
+            "unit_price": 200.13,
+            "total_price": 600.39
+        },
+        {
+            "description": "Down-sized value-added instruction set",
+            "quantity": 9,
+            "unit_price": 136.59,
+            "total_price": 1229.31
+        }
+    ],
+    "amount": 1829.7
+}

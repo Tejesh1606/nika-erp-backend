@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jones PLC",
+    "invoice_number": "INV-79059",
+    "date": "2025-07-14",
+    "items": [
+        {
+            "description": "Future-proofed optimal alliance",
+            "quantity": 8,
+            "unit_price": 17.35,
+            "total_price": 138.8
+        },
+        {
+            "description": "Versatile 6thgeneration function",
+            "quantity": 2,
+            "unit_price": 92.87,
+            "total_price": 185.74
+        },
+        {
+            "description": "Team-oriented real-time approach",
+            "quantity": 9,
+            "unit_price": 436.43,
+            "total_price": 3927.87
+        },
+        {
+            "description": "Fully-configurable methodical service-desk",
+            "quantity": 4,
+            "unit_price": 253.48,
+            "total_price": 1013.92
+        }
+    ],
+    "amount": 5266.33
+}

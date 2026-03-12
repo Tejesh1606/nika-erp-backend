@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hernandez, Jarvis and Howell",
+    "invoice_number": "INV-17204",
+    "date": "2025-11-20",
+    "items": [
+        {
+            "description": "User-centric executive leverage",
+            "quantity": 7,
+            "unit_price": 485.18,
+            "total_price": 3396.26
+        },
+        {
+            "description": "Realigned uniform open system",
+            "quantity": 6,
+            "unit_price": 147.7,
+            "total_price": 886.2
+        },
+        {
+            "description": "Synchronized background customer loyalty",
+            "quantity": 9,
+            "unit_price": 33.28,
+            "total_price": 299.52
+        },
+        {
+            "description": "Optional mission-critical budgetary management",
+            "quantity": 10,
+            "unit_price": 327.72,
+            "total_price": 3277.2
+        }
+    ],
+    "amount": 7859.18
+}

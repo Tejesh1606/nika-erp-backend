@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Melton Ltd",
+    "invoice_number": "INV-22208",
+    "date": "2025-12-17",
+    "items": [
+        {
+            "description": "Persevering scalable secured line",
+            "quantity": 6,
+            "unit_price": 396.43,
+            "total_price": 2378.58
+        }
+    ],
+    "amount": 2378.58
+}

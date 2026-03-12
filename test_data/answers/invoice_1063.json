@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Clark Group",
+    "invoice_number": "INV-59185",
+    "date": "2026-02-17",
+    "items": [
+        {
+            "description": "Intuitive scalable knowledge user",
+            "quantity": 8,
+            "unit_price": 375.13,
+            "total_price": 3001.04
+        },
+        {
+            "description": "Diverse contextually-based framework",
+            "quantity": 10,
+            "unit_price": 181.95,
+            "total_price": 1819.5
+        }
+    ],
+    "amount": 4820.54
+}

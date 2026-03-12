@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mitchell, Rivera and Diaz",
+    "invoice_number": "INV-47251",
+    "date": "2025-10-07",
+    "items": [
+        {
+            "description": "Integrated non-volatile solution",
+            "quantity": 7,
+            "unit_price": 331.25,
+            "total_price": 2318.75
+        },
+        {
+            "description": "User-centric intangible Local Area Network",
+            "quantity": 6,
+            "unit_price": 146.92,
+            "total_price": 881.52
+        },
+        {
+            "description": "Fundamental uniform benchmark",
+            "quantity": 3,
+            "unit_price": 25.55,
+            "total_price": 76.65
+        }
+    ],
+    "amount": 3276.92
+}

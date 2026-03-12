@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Barry, Cox and Jordan",
+    "invoice_number": "INV-18329",
+    "date": "2025-04-27",
+    "items": [
+        {
+            "description": "Switchable analyzing definition",
+            "quantity": 2,
+            "unit_price": 450.79,
+            "total_price": 901.58
+        },
+        {
+            "description": "Virtual well-modulated moratorium",
+            "quantity": 7,
+            "unit_price": 101.63,
+            "total_price": 711.41
+        },
+        {
+            "description": "Grass-roots user-facing installation",
+            "quantity": 2,
+            "unit_price": 462.42,
+            "total_price": 924.84
+        },
+        {
+            "description": "Persevering systematic conglomeration",
+            "quantity": 8,
+            "unit_price": 342.79,
+            "total_price": 2742.32
+        }
+    ],
+    "amount": 5280.15
+}

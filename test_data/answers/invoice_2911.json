@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson, Davis and Davis",
+    "invoice_number": "INV-35366",
+    "date": "2025-10-10",
+    "items": [
+        {
+            "description": "Multi-tiered 24/7 focus group",
+            "quantity": 8,
+            "unit_price": 427.26,
+            "total_price": 3418.08
+        },
+        {
+            "description": "Polarized optimizing focus group",
+            "quantity": 4,
+            "unit_price": 140.69,
+            "total_price": 562.76
+        },
+        {
+            "description": "Synchronized web-enabled knowledge user",
+            "quantity": 10,
+            "unit_price": 87.65,
+            "total_price": 876.5
+        },
+        {
+            "description": "Configurable web-enabled orchestration",
+            "quantity": 3,
+            "unit_price": 406.61,
+            "total_price": 1219.83
+        }
+    ],
+    "amount": 6077.17
+}

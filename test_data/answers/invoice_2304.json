@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ray-Hall",
+    "invoice_number": "INV-59125",
+    "date": "2025-05-16",
+    "items": [
+        {
+            "description": "Customer-focused interactive paradigm",
+            "quantity": 8,
+            "unit_price": 482.39,
+            "total_price": 3859.12
+        },
+        {
+            "description": "Advanced demand-driven paradigm",
+            "quantity": 5,
+            "unit_price": 222.49,
+            "total_price": 1112.45
+        },
+        {
+            "description": "Enhanced contextually-based algorithm",
+            "quantity": 2,
+            "unit_price": 13.22,
+            "total_price": 26.44
+        }
+    ],
+    "amount": 4998.01
+}

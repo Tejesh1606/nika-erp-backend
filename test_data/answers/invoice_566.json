@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bridges-Brown",
+    "invoice_number": "INV-71710",
+    "date": "2025-04-30",
+    "items": [
+        {
+            "description": "Decentralized system-worthy focus group",
+            "quantity": 5,
+            "unit_price": 364.0,
+            "total_price": 1820.0
+        },
+        {
+            "description": "Managed multi-tasking installation",
+            "quantity": 4,
+            "unit_price": 233.16,
+            "total_price": 932.64
+        },
+        {
+            "description": "Progressive demand-driven standardization",
+            "quantity": 7,
+            "unit_price": 26.54,
+            "total_price": 185.78
+        }
+    ],
+    "amount": 2938.42
+}

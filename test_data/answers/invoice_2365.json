@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Parker, Williams and Gibson",
+    "invoice_number": "INV-83675",
+    "date": "2025-08-05",
+    "items": [
+        {
+            "description": "Ameliorated explicit encoding",
+            "quantity": 10,
+            "unit_price": 135.33,
+            "total_price": 1353.3
+        },
+        {
+            "description": "Multi-lateral incremental system engine",
+            "quantity": 9,
+            "unit_price": 334.56,
+            "total_price": 3011.04
+        },
+        {
+            "description": "Optimized 5thgeneration Graphical User Interface",
+            "quantity": 3,
+            "unit_price": 51.94,
+            "total_price": 155.82
+        }
+    ],
+    "amount": 4520.16
+}

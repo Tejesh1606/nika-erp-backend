@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Smith, Davis and Sanchez",
+    "invoice_number": "INV-44392",
+    "date": "2025-09-15",
+    "items": [
+        {
+            "description": "Diverse demand-driven structure",
+            "quantity": 10,
+            "unit_price": 54.66,
+            "total_price": 546.6
+        },
+        {
+            "description": "Reactive maximized hardware",
+            "quantity": 5,
+            "unit_price": 220.85,
+            "total_price": 1104.25
+        },
+        {
+            "description": "Assimilated national concept",
+            "quantity": 8,
+            "unit_price": 232.05,
+            "total_price": 1856.4
+        },
+        {
+            "description": "Visionary methodical initiative",
+            "quantity": 3,
+            "unit_price": 418.13,
+            "total_price": 1254.39
+        }
+    ],
+    "amount": 4761.64
+}

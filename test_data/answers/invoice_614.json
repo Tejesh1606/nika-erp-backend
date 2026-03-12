@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Bishop-Pearson",
+    "invoice_number": "INV-45728",
+    "date": "2025-07-17",
+    "items": [
+        {
+            "description": "Future-proofed encompassing website",
+            "quantity": 5,
+            "unit_price": 234.36,
+            "total_price": 1171.8
+        },
+        {
+            "description": "Cross-platform eco-centric projection",
+            "quantity": 2,
+            "unit_price": 170.03,
+            "total_price": 340.06
+        },
+        {
+            "description": "Reduced hybrid Local Area Network",
+            "quantity": 3,
+            "unit_price": 223.91,
+            "total_price": 671.73
+        },
+        {
+            "description": "Visionary systematic synergy",
+            "quantity": 7,
+            "unit_price": 202.87,
+            "total_price": 1420.09
+        }
+    ],
+    "amount": 3603.68
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Johnson, Soto and Perez",
+    "invoice_number": "INV-29798",
+    "date": "2025-07-23",
+    "items": [
+        {
+            "description": "Customer-focused optimizing process improvement",
+            "quantity": 2,
+            "unit_price": 315.42,
+            "total_price": 630.84
+        },
+        {
+            "description": "Secured eco-centric solution",
+            "quantity": 4,
+            "unit_price": 70.79,
+            "total_price": 283.16
+        },
+        {
+            "description": "Multi-channeled context-sensitive policy",
+            "quantity": 7,
+            "unit_price": 16.31,
+            "total_price": 114.17
+        }
+    ],
+    "amount": 1028.17
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lee, Suarez and Hansen",
+    "invoice_number": "INV-93985",
+    "date": "2025-10-18",
+    "items": [
+        {
+            "description": "Reverse-engineered transitional hierarchy",
+            "quantity": 4,
+            "unit_price": 417.39,
+            "total_price": 1669.56
+        },
+        {
+            "description": "Fully-configurable asymmetric conglomeration",
+            "quantity": 7,
+            "unit_price": 299.43,
+            "total_price": 2096.01
+        },
+        {
+            "description": "Business-focused 5thgeneration model",
+            "quantity": 3,
+            "unit_price": 498.03,
+            "total_price": 1494.09
+        }
+    ],
+    "amount": 5259.66
+}

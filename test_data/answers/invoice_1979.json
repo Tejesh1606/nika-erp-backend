@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith, Martinez and Burton",
+    "invoice_number": "INV-11709",
+    "date": "2025-04-27",
+    "items": [
+        {
+            "description": "Automated scalable database",
+            "quantity": 7,
+            "unit_price": 287.78,
+            "total_price": 2014.46
+        },
+        {
+            "description": "Business-focused even-keeled structure",
+            "quantity": 3,
+            "unit_price": 271.08,
+            "total_price": 813.24
+        },
+        {
+            "description": "Total coherent definition",
+            "quantity": 9,
+            "unit_price": 358.09,
+            "total_price": 3222.81
+        }
+    ],
+    "amount": 6050.51
+}

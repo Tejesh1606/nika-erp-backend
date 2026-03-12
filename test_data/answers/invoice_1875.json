@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Neal Ltd",
+    "invoice_number": "INV-65770",
+    "date": "2025-05-10",
+    "items": [
+        {
+            "description": "Enterprise-wide bottom-line conglomeration",
+            "quantity": 3,
+            "unit_price": 485.68,
+            "total_price": 1457.04
+        },
+        {
+            "description": "Distributed explicit contingency",
+            "quantity": 5,
+            "unit_price": 314.27,
+            "total_price": 1571.35
+        }
+    ],
+    "amount": 3028.39
+}

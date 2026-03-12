@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Patel-Griffith",
+    "invoice_number": "INV-81210",
+    "date": "2025-11-14",
+    "items": [
+        {
+            "description": "Optional intangible encryption",
+            "quantity": 2,
+            "unit_price": 27.72,
+            "total_price": 55.44
+        },
+        {
+            "description": "Customizable stable projection",
+            "quantity": 6,
+            "unit_price": 130.15,
+            "total_price": 780.9
+        },
+        {
+            "description": "Future-proofed static definition",
+            "quantity": 9,
+            "unit_price": 184.78,
+            "total_price": 1663.02
+        }
+    ],
+    "amount": 2499.36
+}

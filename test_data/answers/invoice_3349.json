@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Armstrong-Richards",
+    "invoice_number": "INV-90544",
+    "date": "2025-08-14",
+    "items": [
+        {
+            "description": "Synchronized impactful installation",
+            "quantity": 10,
+            "unit_price": 270.77,
+            "total_price": 2707.7
+        },
+        {
+            "description": "Upgradable 3rdgeneration circuit",
+            "quantity": 1,
+            "unit_price": 277.99,
+            "total_price": 277.99
+        },
+        {
+            "description": "Quality-focused intermediate hierarchy",
+            "quantity": 2,
+            "unit_price": 307.76,
+            "total_price": 615.52
+        }
+    ],
+    "amount": 3601.21
+}

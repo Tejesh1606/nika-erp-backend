@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Holland, Miller and Mcdonald",
+    "invoice_number": "INV-20378",
+    "date": "2026-02-24",
+    "items": [
+        {
+            "description": "Polarized exuding collaboration",
+            "quantity": 6,
+            "unit_price": 341.89,
+            "total_price": 2051.34
+        }
+    ],
+    "amount": 2051.34
+}

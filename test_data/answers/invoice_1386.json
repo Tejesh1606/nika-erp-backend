@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Oneal, Werner and Francis",
+    "invoice_number": "INV-57706",
+    "date": "2026-01-15",
+    "items": [
+        {
+            "description": "Fundamental intermediate hub",
+            "quantity": 9,
+            "unit_price": 210.75,
+            "total_price": 1896.75
+        },
+        {
+            "description": "Multi-lateral disintermediate functionalities",
+            "quantity": 1,
+            "unit_price": 328.49,
+            "total_price": 328.49
+        },
+        {
+            "description": "Quality-focused heuristic archive",
+            "quantity": 10,
+            "unit_price": 13.02,
+            "total_price": 130.2
+        }
+    ],
+    "amount": 2355.44
+}

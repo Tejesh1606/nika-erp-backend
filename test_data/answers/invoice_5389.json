@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Smith-Goodwin",
+    "invoice_number": "INV-44078",
+    "date": "2025-05-23",
+    "items": [
+        {
+            "description": "Re-contextualized intermediate model",
+            "quantity": 6,
+            "unit_price": 49.07,
+            "total_price": 294.42
+        },
+        {
+            "description": "Horizontal multimedia database",
+            "quantity": 9,
+            "unit_price": 417.14,
+            "total_price": 3754.26
+        },
+        {
+            "description": "Intuitive optimal toolset",
+            "quantity": 6,
+            "unit_price": 113.32,
+            "total_price": 679.92
+        },
+        {
+            "description": "Visionary human-resource application",
+            "quantity": 9,
+            "unit_price": 89.43,
+            "total_price": 804.87
+        }
+    ],
+    "amount": 5533.47
+}

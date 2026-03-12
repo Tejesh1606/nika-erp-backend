@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Carter-Lee",
+    "invoice_number": "INV-28764",
+    "date": "2026-02-09",
+    "items": [
+        {
+            "description": "Programmable object-oriented toolset",
+            "quantity": 10,
+            "unit_price": 27.51,
+            "total_price": 275.1
+        }
+    ],
+    "amount": 275.1
+}

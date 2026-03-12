@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Marshall Ltd",
+    "invoice_number": "INV-84511",
+    "date": "2026-01-18",
+    "items": [
+        {
+            "description": "Function-based heuristic extranet",
+            "quantity": 4,
+            "unit_price": 416.02,
+            "total_price": 1664.08
+        },
+        {
+            "description": "Reduced attitude-oriented throughput",
+            "quantity": 5,
+            "unit_price": 268.52,
+            "total_price": 1342.6
+        },
+        {
+            "description": "Profit-focused 3rdgeneration budgetary management",
+            "quantity": 2,
+            "unit_price": 308.14,
+            "total_price": 616.28
+        }
+    ],
+    "amount": 3622.96
+}

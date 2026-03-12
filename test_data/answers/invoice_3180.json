@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Joseph PLC",
+    "invoice_number": "INV-11121",
+    "date": "2025-11-14",
+    "items": [
+        {
+            "description": "Adaptive methodical encoding",
+            "quantity": 10,
+            "unit_price": 141.67,
+            "total_price": 1416.7
+        },
+        {
+            "description": "Proactive optimizing forecast",
+            "quantity": 10,
+            "unit_price": 120.72,
+            "total_price": 1207.2
+        },
+        {
+            "description": "Seamless optimal pricing structure",
+            "quantity": 5,
+            "unit_price": 120.87,
+            "total_price": 604.35
+        },
+        {
+            "description": "Upgradable solution-oriented framework",
+            "quantity": 2,
+            "unit_price": 242.19,
+            "total_price": 484.38
+        }
+    ],
+    "amount": 3712.63
+}

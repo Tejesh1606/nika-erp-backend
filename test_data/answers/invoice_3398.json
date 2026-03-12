@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Williams, Rivera and Collins",
+    "invoice_number": "INV-91513",
+    "date": "2025-06-29",
+    "items": [
+        {
+            "description": "Multi-tiered interactive ability",
+            "quantity": 3,
+            "unit_price": 388.6,
+            "total_price": 1165.8
+        },
+        {
+            "description": "Innovative optimizing website",
+            "quantity": 1,
+            "unit_price": 100.49,
+            "total_price": 100.49
+        }
+    ],
+    "amount": 1266.29
+}

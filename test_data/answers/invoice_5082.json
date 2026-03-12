@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Huffman, Hobbs and Ruiz",
+    "invoice_number": "INV-98894",
+    "date": "2025-07-06",
+    "items": [
+        {
+            "description": "Open-source optimal matrix",
+            "quantity": 5,
+            "unit_price": 280.61,
+            "total_price": 1403.05
+        },
+        {
+            "description": "Balanced mobile budgetary management",
+            "quantity": 7,
+            "unit_price": 264.98,
+            "total_price": 1854.86
+        },
+        {
+            "description": "Customizable real-time moderator",
+            "quantity": 4,
+            "unit_price": 123.72,
+            "total_price": 494.88
+        },
+        {
+            "description": "Universal optimal groupware",
+            "quantity": 5,
+            "unit_price": 315.1,
+            "total_price": 1575.5
+        }
+    ],
+    "amount": 5328.29
+}

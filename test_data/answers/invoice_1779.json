@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gutierrez, Burgess and Anderson",
+    "invoice_number": "INV-77543",
+    "date": "2025-12-20",
+    "items": [
+        {
+            "description": "Triple-buffered composite hub",
+            "quantity": 3,
+            "unit_price": 473.56,
+            "total_price": 1420.68
+        }
+    ],
+    "amount": 1420.68
+}

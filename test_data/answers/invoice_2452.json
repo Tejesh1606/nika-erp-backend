@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Walters, Davis and Crawford",
+    "invoice_number": "INV-22306",
+    "date": "2025-07-09",
+    "items": [
+        {
+            "description": "Optimized actuating hardware",
+            "quantity": 4,
+            "unit_price": 491.05,
+            "total_price": 1964.2
+        },
+        {
+            "description": "Progressive leadingedge orchestration",
+            "quantity": 4,
+            "unit_price": 206.75,
+            "total_price": 827.0
+        }
+    ],
+    "amount": 2791.2
+}

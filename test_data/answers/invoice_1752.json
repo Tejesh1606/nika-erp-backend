@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mclean-Young",
+    "invoice_number": "INV-81299",
+    "date": "2025-08-11",
+    "items": [
+        {
+            "description": "Organized human-resource matrices",
+            "quantity": 4,
+            "unit_price": 148.41,
+            "total_price": 593.64
+        },
+        {
+            "description": "Exclusive needs-based throughput",
+            "quantity": 4,
+            "unit_price": 228.48,
+            "total_price": 913.92
+        },
+        {
+            "description": "Switchable contextually-based algorithm",
+            "quantity": 9,
+            "unit_price": 399.59,
+            "total_price": 3596.31
+        },
+        {
+            "description": "Seamless local focus group",
+            "quantity": 2,
+            "unit_price": 91.77,
+            "total_price": 183.54
+        }
+    ],
+    "amount": 5287.41
+}

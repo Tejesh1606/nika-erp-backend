@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cole, Hill and Lee",
+    "invoice_number": "INV-89493",
+    "date": "2025-04-02",
+    "items": [
+        {
+            "description": "Public-key 6thgeneration conglomeration",
+            "quantity": 6,
+            "unit_price": 109.66,
+            "total_price": 657.96
+        },
+        {
+            "description": "Focused needs-based frame",
+            "quantity": 1,
+            "unit_price": 84.99,
+            "total_price": 84.99
+        },
+        {
+            "description": "Realigned leadingedge installation",
+            "quantity": 5,
+            "unit_price": 108.2,
+            "total_price": 541.0
+        }
+    ],
+    "amount": 1283.95
+}

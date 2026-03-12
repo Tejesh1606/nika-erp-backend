@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Murphy, Fox and Garcia",
+    "invoice_number": "INV-21094",
+    "date": "2025-10-03",
+    "items": [
+        {
+            "description": "Diverse mobile circuit",
+            "quantity": 7,
+            "unit_price": 258.64,
+            "total_price": 1810.48
+        },
+        {
+            "description": "Synergistic content-based task-force",
+            "quantity": 8,
+            "unit_price": 355.98,
+            "total_price": 2847.84
+        },
+        {
+            "description": "Profound client-driven Internet solution",
+            "quantity": 1,
+            "unit_price": 344.45,
+            "total_price": 344.45
+        },
+        {
+            "description": "Grass-roots clear-thinking parallelism",
+            "quantity": 3,
+            "unit_price": 112.34,
+            "total_price": 337.02
+        }
+    ],
+    "amount": 5339.79
+}

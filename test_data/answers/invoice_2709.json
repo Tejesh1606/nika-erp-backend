@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Baker-Small",
+    "invoice_number": "INV-31816",
+    "date": "2025-12-13",
+    "items": [
+        {
+            "description": "Proactive static capacity",
+            "quantity": 7,
+            "unit_price": 126.47,
+            "total_price": 885.29
+        },
+        {
+            "description": "Implemented 24hour analyzer",
+            "quantity": 2,
+            "unit_price": 58.76,
+            "total_price": 117.52
+        },
+        {
+            "description": "Automated system-worthy support",
+            "quantity": 5,
+            "unit_price": 356.37,
+            "total_price": 1781.85
+        }
+    ],
+    "amount": 2784.66
+}

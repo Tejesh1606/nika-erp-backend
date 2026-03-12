@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Manning Group",
+    "invoice_number": "INV-38888",
+    "date": "2025-04-06",
+    "items": [
+        {
+            "description": "Synchronized multimedia application",
+            "quantity": 1,
+            "unit_price": 303.2,
+            "total_price": 303.2
+        },
+        {
+            "description": "Digitized 3rdgeneration forecast",
+            "quantity": 7,
+            "unit_price": 473.64,
+            "total_price": 3315.48
+        },
+        {
+            "description": "Ameliorated empowering archive",
+            "quantity": 10,
+            "unit_price": 498.83,
+            "total_price": 4988.3
+        }
+    ],
+    "amount": 8606.98
+}

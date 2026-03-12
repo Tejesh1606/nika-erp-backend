@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Shannon PLC",
+    "invoice_number": "INV-24413",
+    "date": "2025-09-14",
+    "items": [
+        {
+            "description": "Versatile radical encryption",
+            "quantity": 8,
+            "unit_price": 338.51,
+            "total_price": 2708.08
+        }
+    ],
+    "amount": 2708.08
+}

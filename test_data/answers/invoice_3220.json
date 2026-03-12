@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hawkins LLC",
+    "invoice_number": "INV-41224",
+    "date": "2025-07-31",
+    "items": [
+        {
+            "description": "Synergistic systemic flexibility",
+            "quantity": 5,
+            "unit_price": 469.82,
+            "total_price": 2349.1
+        },
+        {
+            "description": "Configurable impactful utilization",
+            "quantity": 7,
+            "unit_price": 417.13,
+            "total_price": 2919.91
+        },
+        {
+            "description": "Ameliorated attitude-oriented orchestration",
+            "quantity": 6,
+            "unit_price": 174.68,
+            "total_price": 1048.08
+        }
+    ],
+    "amount": 6317.09
+}

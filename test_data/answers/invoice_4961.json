@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Shaw and Sons",
+    "invoice_number": "INV-43696",
+    "date": "2026-02-24",
+    "items": [
+        {
+            "description": "Cross-platform zero administration initiative",
+            "quantity": 5,
+            "unit_price": 495.64,
+            "total_price": 2478.2
+        },
+        {
+            "description": "Advanced radical software",
+            "quantity": 10,
+            "unit_price": 470.41,
+            "total_price": 4704.1
+        },
+        {
+            "description": "Seamless 4thgeneration orchestration",
+            "quantity": 3,
+            "unit_price": 189.58,
+            "total_price": 568.74
+        },
+        {
+            "description": "Persistent grid-enabled matrix",
+            "quantity": 4,
+            "unit_price": 97.72,
+            "total_price": 390.88
+        }
+    ],
+    "amount": 8141.92
+}

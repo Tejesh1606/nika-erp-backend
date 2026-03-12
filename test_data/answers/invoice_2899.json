@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Blevins-Johnson",
+    "invoice_number": "INV-35369",
+    "date": "2025-11-09",
+    "items": [
+        {
+            "description": "Future-proofed modular orchestration",
+            "quantity": 6,
+            "unit_price": 469.58,
+            "total_price": 2817.48
+        },
+        {
+            "description": "Triple-buffered background synergy",
+            "quantity": 9,
+            "unit_price": 467.4,
+            "total_price": 4206.6
+        },
+        {
+            "description": "Adaptive 24/7 hardware",
+            "quantity": 1,
+            "unit_price": 161.03,
+            "total_price": 161.03
+        }
+    ],
+    "amount": 7185.11
+}

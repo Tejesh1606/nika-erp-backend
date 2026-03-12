@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Harrison, Reynolds and Morrison",
+    "invoice_number": "INV-14512",
+    "date": "2025-04-14",
+    "items": [
+        {
+            "description": "Synchronized interactive middleware",
+            "quantity": 7,
+            "unit_price": 474.66,
+            "total_price": 3322.62
+        },
+        {
+            "description": "Visionary high-level collaboration",
+            "quantity": 10,
+            "unit_price": 169.46,
+            "total_price": 1694.6
+        }
+    ],
+    "amount": 5017.22
+}

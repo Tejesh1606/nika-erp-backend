@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Sullivan-Anderson",
+    "invoice_number": "INV-83068",
+    "date": "2025-03-21",
+    "items": [
+        {
+            "description": "Progressive client-driven adapter",
+            "quantity": 3,
+            "unit_price": 242.03,
+            "total_price": 726.09
+        }
+    ],
+    "amount": 726.09
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wolf, Andrews and Sanchez",
+    "invoice_number": "INV-36318",
+    "date": "2025-10-04",
+    "items": [
+        {
+            "description": "Secured context-sensitive challenge",
+            "quantity": 9,
+            "unit_price": 154.73,
+            "total_price": 1392.57
+        }
+    ],
+    "amount": 1392.57
+}

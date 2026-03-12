@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Bell-Moore",
+    "invoice_number": "INV-44260",
+    "date": "2025-05-18",
+    "items": [
+        {
+            "description": "Decentralized 4thgeneration info-mediaries",
+            "quantity": 2,
+            "unit_price": 145.45,
+            "total_price": 290.9
+        }
+    ],
+    "amount": 290.9
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Martinez, Stout and Edwards",
+    "invoice_number": "INV-29599",
+    "date": "2025-12-13",
+    "items": [
+        {
+            "description": "Customizable next generation projection",
+            "quantity": 5,
+            "unit_price": 323.84,
+            "total_price": 1619.2
+        },
+        {
+            "description": "Assimilated bandwidth-monitored attitude",
+            "quantity": 7,
+            "unit_price": 397.09,
+            "total_price": 2779.63
+        }
+    ],
+    "amount": 4398.83
+}

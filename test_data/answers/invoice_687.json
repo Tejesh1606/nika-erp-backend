@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mills, Cordova and Jackson",
+    "invoice_number": "INV-49935",
+    "date": "2025-03-20",
+    "items": [
+        {
+            "description": "User-friendly bottom-line definition",
+            "quantity": 6,
+            "unit_price": 206.04,
+            "total_price": 1236.24
+        }
+    ],
+    "amount": 1236.24
+}

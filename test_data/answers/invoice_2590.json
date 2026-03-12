@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Alvarado, Miller and Johnson",
+    "invoice_number": "INV-50835",
+    "date": "2025-11-18",
+    "items": [
+        {
+            "description": "Diverse 5thgeneration collaboration",
+            "quantity": 6,
+            "unit_price": 478.9,
+            "total_price": 2873.4
+        }
+    ],
+    "amount": 2873.4
+}

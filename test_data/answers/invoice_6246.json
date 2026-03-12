@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hernandez-Li",
+    "invoice_number": "INV-42071",
+    "date": "2025-10-18",
+    "items": [
+        {
+            "description": "Open-source stable application",
+            "quantity": 9,
+            "unit_price": 355.85,
+            "total_price": 3202.65
+        },
+        {
+            "description": "Versatile impactful definition",
+            "quantity": 1,
+            "unit_price": 482.5,
+            "total_price": 482.5
+        },
+        {
+            "description": "Automated 5thgeneration Local Area Network",
+            "quantity": 7,
+            "unit_price": 201.81,
+            "total_price": 1412.67
+        }
+    ],
+    "amount": 5097.82
+}

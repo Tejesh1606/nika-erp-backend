@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Black, Mckinney and Davis",
+    "invoice_number": "INV-26051",
+    "date": "2026-02-26",
+    "items": [
+        {
+            "description": "Cross-platform real-time process improvement",
+            "quantity": 4,
+            "unit_price": 314.25,
+            "total_price": 1257.0
+        },
+        {
+            "description": "Future-proofed contextually-based open architecture",
+            "quantity": 6,
+            "unit_price": 244.19,
+            "total_price": 1465.14
+        }
+    ],
+    "amount": 2722.14
+}

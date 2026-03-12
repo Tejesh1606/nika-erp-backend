@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Martin-Payne",
+    "invoice_number": "INV-12850",
+    "date": "2025-08-26",
+    "items": [
+        {
+            "description": "Seamless logistical parallelism",
+            "quantity": 1,
+            "unit_price": 331.27,
+            "total_price": 331.27
+        },
+        {
+            "description": "Re-engineered system-worthy Internet solution",
+            "quantity": 3,
+            "unit_price": 367.53,
+            "total_price": 1102.59
+        }
+    ],
+    "amount": 1433.86
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Banks, Jones and Henderson",
+    "invoice_number": "INV-85232",
+    "date": "2025-08-06",
+    "items": [
+        {
+            "description": "Advanced 24/7 implementation",
+            "quantity": 4,
+            "unit_price": 429.64,
+            "total_price": 1718.56
+        },
+        {
+            "description": "Vision-oriented impactful utilization",
+            "quantity": 4,
+            "unit_price": 244.07,
+            "total_price": 976.28
+        }
+    ],
+    "amount": 2694.84
+}

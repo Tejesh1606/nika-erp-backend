@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wolf Group",
+    "invoice_number": "INV-81611",
+    "date": "2025-06-01",
+    "items": [
+        {
+            "description": "Optimized bi-directional support",
+            "quantity": 2,
+            "unit_price": 340.75,
+            "total_price": 681.5
+        },
+        {
+            "description": "Streamlined web-enabled encryption",
+            "quantity": 4,
+            "unit_price": 497.0,
+            "total_price": 1988.0
+        },
+        {
+            "description": "Innovative 5thgeneration knowledge user",
+            "quantity": 8,
+            "unit_price": 184.9,
+            "total_price": 1479.2
+        },
+        {
+            "description": "Fundamental grid-enabled array",
+            "quantity": 7,
+            "unit_price": 190.94,
+            "total_price": 1336.58
+        }
+    ],
+    "amount": 5485.28
+}

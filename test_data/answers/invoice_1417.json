@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Juarez Group",
+    "invoice_number": "INV-36493",
+    "date": "2025-04-11",
+    "items": [
+        {
+            "description": "Realigned modular customer loyalty",
+            "quantity": 2,
+            "unit_price": 119.62,
+            "total_price": 239.24
+        },
+        {
+            "description": "De-engineered multi-state alliance",
+            "quantity": 9,
+            "unit_price": 51.12,
+            "total_price": 460.08
+        },
+        {
+            "description": "Phased mission-critical benchmark",
+            "quantity": 6,
+            "unit_price": 95.76,
+            "total_price": 574.56
+        }
+    ],
+    "amount": 1273.88
+}

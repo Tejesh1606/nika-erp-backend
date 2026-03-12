@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Henderson PLC",
+    "invoice_number": "INV-23428",
+    "date": "2025-06-19",
+    "items": [
+        {
+            "description": "Sharable empowering service-desk",
+            "quantity": 3,
+            "unit_price": 69.43,
+            "total_price": 208.29
+        },
+        {
+            "description": "Future-proofed logistical budgetary management",
+            "quantity": 1,
+            "unit_price": 438.95,
+            "total_price": 438.95
+        },
+        {
+            "description": "Progressive web-enabled paradigm",
+            "quantity": 3,
+            "unit_price": 17.69,
+            "total_price": 53.07
+        }
+    ],
+    "amount": 700.31
+}

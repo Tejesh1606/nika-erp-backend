@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Phillips Group",
+    "invoice_number": "INV-10254",
+    "date": "2025-04-03",
+    "items": [
+        {
+            "description": "Advanced responsive frame",
+            "quantity": 3,
+            "unit_price": 424.62,
+            "total_price": 1273.86
+        }
+    ],
+    "amount": 1273.86
+}

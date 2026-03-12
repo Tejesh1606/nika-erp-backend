@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Brady, Floyd and Copeland",
+    "invoice_number": "INV-73698",
+    "date": "2025-12-24",
+    "items": [
+        {
+            "description": "Right-sized exuding matrix",
+            "quantity": 4,
+            "unit_price": 266.61,
+            "total_price": 1066.44
+        },
+        {
+            "description": "Multi-lateral motivating attitude",
+            "quantity": 9,
+            "unit_price": 83.59,
+            "total_price": 752.31
+        }
+    ],
+    "amount": 1818.75
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Sanford Ltd",
+    "invoice_number": "INV-73442",
+    "date": "2025-12-21",
+    "items": [
+        {
+            "description": "Self-enabling content-based database",
+            "quantity": 7,
+            "unit_price": 445.18,
+            "total_price": 3116.26
+        },
+        {
+            "description": "Horizontal transitional software",
+            "quantity": 4,
+            "unit_price": 452.35,
+            "total_price": 1809.4
+        },
+        {
+            "description": "Streamlined discrete system engine",
+            "quantity": 6,
+            "unit_price": 358.73,
+            "total_price": 2152.38
+        }
+    ],
+    "amount": 7078.04
+}

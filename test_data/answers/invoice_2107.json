@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Campbell Group",
+    "invoice_number": "INV-76988",
+    "date": "2026-02-28",
+    "items": [
+        {
+            "description": "Re-contextualized zero administration standardization",
+            "quantity": 9,
+            "unit_price": 438.22,
+            "total_price": 3943.98
+        },
+        {
+            "description": "Customizable background leverage",
+            "quantity": 10,
+            "unit_price": 34.4,
+            "total_price": 344.0
+        }
+    ],
+    "amount": 4287.98
+}

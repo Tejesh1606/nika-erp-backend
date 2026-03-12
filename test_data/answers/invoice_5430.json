@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rowland Group",
+    "invoice_number": "INV-14195",
+    "date": "2025-05-31",
+    "items": [
+        {
+            "description": "Open-architected transitional extranet",
+            "quantity": 1,
+            "unit_price": 106.09,
+            "total_price": 106.09
+        },
+        {
+            "description": "Enterprise-wide dynamic website",
+            "quantity": 7,
+            "unit_price": 327.34,
+            "total_price": 2291.38
+        },
+        {
+            "description": "Pre-emptive uniform encryption",
+            "quantity": 8,
+            "unit_price": 240.61,
+            "total_price": 1924.88
+        },
+        {
+            "description": "Extended asynchronous database",
+            "quantity": 2,
+            "unit_price": 160.15,
+            "total_price": 320.3
+        }
+    ],
+    "amount": 4642.65
+}

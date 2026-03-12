@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Taylor, Green and Mitchell",
+    "invoice_number": "INV-51136",
+    "date": "2025-04-23",
+    "items": [
+        {
+            "description": "Configurable incremental instruction set",
+            "quantity": 6,
+            "unit_price": 116.92,
+            "total_price": 701.52
+        },
+        {
+            "description": "Profit-focused client-server orchestration",
+            "quantity": 10,
+            "unit_price": 279.88,
+            "total_price": 2798.8
+        }
+    ],
+    "amount": 3500.32
+}

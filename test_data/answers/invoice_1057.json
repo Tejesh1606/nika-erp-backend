@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Owen, Gordon and Welch",
+    "invoice_number": "INV-61381",
+    "date": "2026-01-30",
+    "items": [
+        {
+            "description": "Virtual responsive firmware",
+            "quantity": 8,
+            "unit_price": 264.49,
+            "total_price": 2115.92
+        },
+        {
+            "description": "Reactive cohesive Graphic Interface",
+            "quantity": 5,
+            "unit_price": 364.21,
+            "total_price": 1821.05
+        }
+    ],
+    "amount": 3936.97
+}

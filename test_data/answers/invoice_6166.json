@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Marks Group",
+    "invoice_number": "INV-85998",
+    "date": "2025-08-20",
+    "items": [
+        {
+            "description": "User-friendly fault-tolerant process improvement",
+            "quantity": 1,
+            "unit_price": 195.07,
+            "total_price": 195.07
+        },
+        {
+            "description": "Front-line needs-based circuit",
+            "quantity": 3,
+            "unit_price": 292.35,
+            "total_price": 877.05
+        }
+    ],
+    "amount": 1072.12
+}

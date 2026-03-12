@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Smith-Brown",
+    "invoice_number": "INV-74817",
+    "date": "2025-07-08",
+    "items": [
+        {
+            "description": "Intuitive radical system engine",
+            "quantity": 3,
+            "unit_price": 95.07,
+            "total_price": 285.21
+        },
+        {
+            "description": "Progressive executive architecture",
+            "quantity": 2,
+            "unit_price": 357.11,
+            "total_price": 714.22
+        }
+    ],
+    "amount": 999.43
+}

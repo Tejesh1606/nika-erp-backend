@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Garcia LLC",
+    "invoice_number": "INV-23659",
+    "date": "2025-06-05",
+    "items": [
+        {
+            "description": "Programmable cohesive intranet",
+            "quantity": 4,
+            "unit_price": 279.11,
+            "total_price": 1116.44
+        },
+        {
+            "description": "Universal discrete open architecture",
+            "quantity": 6,
+            "unit_price": 481.66,
+            "total_price": 2889.96
+        },
+        {
+            "description": "Open-source static monitoring",
+            "quantity": 1,
+            "unit_price": 479.57,
+            "total_price": 479.57
+        }
+    ],
+    "amount": 4485.97
+}

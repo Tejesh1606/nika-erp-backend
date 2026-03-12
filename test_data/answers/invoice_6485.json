@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Franklin, Gray and Herrera",
+    "invoice_number": "INV-62251",
+    "date": "2025-04-01",
+    "items": [
+        {
+            "description": "Customizable mobile emulation",
+            "quantity": 3,
+            "unit_price": 119.1,
+            "total_price": 357.3
+        },
+        {
+            "description": "Profit-focused heuristic Graphic Interface",
+            "quantity": 1,
+            "unit_price": 130.26,
+            "total_price": 130.26
+        }
+    ],
+    "amount": 487.56
+}

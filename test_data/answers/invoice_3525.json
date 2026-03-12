@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Pena LLC",
+    "invoice_number": "INV-63375",
+    "date": "2025-12-10",
+    "items": [
+        {
+            "description": "Implemented 6thgeneration encoding",
+            "quantity": 7,
+            "unit_price": 205.13,
+            "total_price": 1435.91
+        }
+    ],
+    "amount": 1435.91
+}

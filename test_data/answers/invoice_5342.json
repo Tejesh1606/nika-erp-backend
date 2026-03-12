@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Welch, Anderson and Callahan",
+    "invoice_number": "INV-87862",
+    "date": "2026-01-02",
+    "items": [
+        {
+            "description": "Implemented interactive solution",
+            "quantity": 2,
+            "unit_price": 164.56,
+            "total_price": 329.12
+        },
+        {
+            "description": "Integrated global product",
+            "quantity": 2,
+            "unit_price": 61.1,
+            "total_price": 122.2
+        }
+    ],
+    "amount": 451.32
+}

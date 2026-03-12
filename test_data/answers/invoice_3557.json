@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Weiss, Moon and Pollard",
+    "invoice_number": "INV-70342",
+    "date": "2025-09-20",
+    "items": [
+        {
+            "description": "Networked next generation service-desk",
+            "quantity": 10,
+            "unit_price": 314.78,
+            "total_price": 3147.8
+        },
+        {
+            "description": "Adaptive actuating help-desk",
+            "quantity": 9,
+            "unit_price": 164.66,
+            "total_price": 1481.94
+        }
+    ],
+    "amount": 4629.74
+}

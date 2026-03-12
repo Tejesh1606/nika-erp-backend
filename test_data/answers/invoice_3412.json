@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bailey, Moore and Cole",
+    "invoice_number": "INV-80897",
+    "date": "2025-03-11",
+    "items": [
+        {
+            "description": "Networked impactful benchmark",
+            "quantity": 8,
+            "unit_price": 119.36,
+            "total_price": 954.88
+        },
+        {
+            "description": "Cloned system-worthy contingency",
+            "quantity": 6,
+            "unit_price": 311.53,
+            "total_price": 1869.18
+        },
+        {
+            "description": "Operative zero tolerance support",
+            "quantity": 2,
+            "unit_price": 138.02,
+            "total_price": 276.04
+        }
+    ],
+    "amount": 3100.1
+}

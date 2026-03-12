@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Perry and Sons",
+    "invoice_number": "INV-61576",
+    "date": "2026-02-12",
+    "items": [
+        {
+            "description": "Multi-tiered object-oriented definition",
+            "quantity": 1,
+            "unit_price": 13.69,
+            "total_price": 13.69
+        },
+        {
+            "description": "Ameliorated 3rdgeneration open architecture",
+            "quantity": 4,
+            "unit_price": 297.22,
+            "total_price": 1188.88
+        }
+    ],
+    "amount": 1202.57
+}

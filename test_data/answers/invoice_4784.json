@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith, Torres and Hobbs",
+    "invoice_number": "INV-17874",
+    "date": "2025-08-10",
+    "items": [
+        {
+            "description": "Intuitive systemic time-frame",
+            "quantity": 7,
+            "unit_price": 239.75,
+            "total_price": 1678.25
+        },
+        {
+            "description": "Persistent mission-critical capacity",
+            "quantity": 2,
+            "unit_price": 286.51,
+            "total_price": 573.02
+        },
+        {
+            "description": "Cross-group bandwidth-monitored challenge",
+            "quantity": 4,
+            "unit_price": 258.39,
+            "total_price": 1033.56
+        }
+    ],
+    "amount": 3284.83
+}

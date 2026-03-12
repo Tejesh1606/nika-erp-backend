@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Garcia, Melton and Taylor",
+    "invoice_number": "INV-68079",
+    "date": "2026-01-03",
+    "items": [
+        {
+            "description": "Inverse encompassing superstructure",
+            "quantity": 1,
+            "unit_price": 135.44,
+            "total_price": 135.44
+        }
+    ],
+    "amount": 135.44
+}

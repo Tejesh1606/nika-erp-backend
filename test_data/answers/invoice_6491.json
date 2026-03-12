@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cooper-Walker",
+    "invoice_number": "INV-37311",
+    "date": "2025-09-17",
+    "items": [
+        {
+            "description": "Exclusive eco-centric core",
+            "quantity": 5,
+            "unit_price": 387.77,
+            "total_price": 1938.85
+        },
+        {
+            "description": "Integrated needs-based neural-net",
+            "quantity": 4,
+            "unit_price": 479.95,
+            "total_price": 1919.8
+        }
+    ],
+    "amount": 3858.65
+}

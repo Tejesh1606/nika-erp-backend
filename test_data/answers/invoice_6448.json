@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Clark-Robinson",
+    "invoice_number": "INV-11292",
+    "date": "2025-03-25",
+    "items": [
+        {
+            "description": "Face-to-face upward-trending ability",
+            "quantity": 6,
+            "unit_price": 29.88,
+            "total_price": 179.28
+        },
+        {
+            "description": "Future-proofed logistical attitude",
+            "quantity": 8,
+            "unit_price": 299.68,
+            "total_price": 2397.44
+        },
+        {
+            "description": "Multi-tiered static initiative",
+            "quantity": 2,
+            "unit_price": 419.0,
+            "total_price": 838.0
+        }
+    ],
+    "amount": 3414.72
+}

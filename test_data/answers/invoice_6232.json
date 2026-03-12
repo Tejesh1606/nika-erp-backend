@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Patel LLC",
+    "invoice_number": "INV-23773",
+    "date": "2025-11-12",
+    "items": [
+        {
+            "description": "Fundamental bi-directional parallelism",
+            "quantity": 3,
+            "unit_price": 334.94,
+            "total_price": 1004.82
+        }
+    ],
+    "amount": 1004.82
+}

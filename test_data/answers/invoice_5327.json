@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Santana, Cameron and Williams",
+    "invoice_number": "INV-24402",
+    "date": "2025-06-26",
+    "items": [
+        {
+            "description": "Seamless fault-tolerant artificial intelligence",
+            "quantity": 2,
+            "unit_price": 69.13,
+            "total_price": 138.26
+        },
+        {
+            "description": "Configurable zero-defect interface",
+            "quantity": 6,
+            "unit_price": 226.93,
+            "total_price": 1361.58
+        },
+        {
+            "description": "Focused context-sensitive open architecture",
+            "quantity": 2,
+            "unit_price": 150.97,
+            "total_price": 301.94
+        }
+    ],
+    "amount": 1801.78
+}

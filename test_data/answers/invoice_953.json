@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Rhodes-Bentley",
+    "invoice_number": "INV-28775",
+    "date": "2025-10-03",
+    "items": [
+        {
+            "description": "Expanded asynchronous product",
+            "quantity": 6,
+            "unit_price": 94.42,
+            "total_price": 566.52
+        }
+    ],
+    "amount": 566.52
+}

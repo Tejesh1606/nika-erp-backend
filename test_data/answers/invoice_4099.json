@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Walker Group",
+    "invoice_number": "INV-83127",
+    "date": "2025-12-28",
+    "items": [
+        {
+            "description": "Streamlined next generation info-mediaries",
+            "quantity": 5,
+            "unit_price": 200.86,
+            "total_price": 1004.3
+        },
+        {
+            "description": "Implemented heuristic groupware",
+            "quantity": 9,
+            "unit_price": 279.52,
+            "total_price": 2515.68
+        }
+    ],
+    "amount": 3519.98
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Tran PLC",
+    "invoice_number": "INV-96888",
+    "date": "2025-04-17",
+    "items": [
+        {
+            "description": "Advanced intermediate archive",
+            "quantity": 5,
+            "unit_price": 102.02,
+            "total_price": 510.1
+        }
+    ],
+    "amount": 510.1
+}

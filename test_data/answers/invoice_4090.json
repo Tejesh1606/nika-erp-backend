@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Rangel, Watts and Clark",
+    "invoice_number": "INV-81795",
+    "date": "2025-11-08",
+    "items": [
+        {
+            "description": "Cross-platform mobile success",
+            "quantity": 9,
+            "unit_price": 96.75,
+            "total_price": 870.75
+        }
+    ],
+    "amount": 870.75
+}

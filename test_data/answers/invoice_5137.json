@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Grimes, Lopez and Russo",
+    "invoice_number": "INV-84278",
+    "date": "2026-03-06",
+    "items": [
+        {
+            "description": "Organic eco-centric hierarchy",
+            "quantity": 3,
+            "unit_price": 53.08,
+            "total_price": 159.24
+        }
+    ],
+    "amount": 159.24
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Nielsen-Mendoza",
+    "invoice_number": "INV-72193",
+    "date": "2026-01-12",
+    "items": [
+        {
+            "description": "Automated secondary challenge",
+            "quantity": 7,
+            "unit_price": 111.48,
+            "total_price": 780.36
+        }
+    ],
+    "amount": 780.36
+}

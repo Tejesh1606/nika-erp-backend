@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mcintyre Inc",
+    "invoice_number": "INV-80710",
+    "date": "2025-08-02",
+    "items": [
+        {
+            "description": "Virtual radical success",
+            "quantity": 3,
+            "unit_price": 460.17,
+            "total_price": 1380.51
+        },
+        {
+            "description": "Progressive composite complexity",
+            "quantity": 1,
+            "unit_price": 365.7,
+            "total_price": 365.7
+        },
+        {
+            "description": "Cross-platform 24/7 hardware",
+            "quantity": 3,
+            "unit_price": 28.17,
+            "total_price": 84.51
+        },
+        {
+            "description": "Face-to-face background instruction set",
+            "quantity": 6,
+            "unit_price": 358.74,
+            "total_price": 2152.44
+        }
+    ],
+    "amount": 3983.16
+}

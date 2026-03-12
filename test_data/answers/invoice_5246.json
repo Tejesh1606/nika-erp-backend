@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hall Group",
+    "invoice_number": "INV-89967",
+    "date": "2025-07-13",
+    "items": [
+        {
+            "description": "Synchronized cohesive database",
+            "quantity": 1,
+            "unit_price": 481.55,
+            "total_price": 481.55
+        },
+        {
+            "description": "Exclusive bandwidth-monitored flexibility",
+            "quantity": 9,
+            "unit_price": 444.87,
+            "total_price": 4003.83
+        }
+    ],
+    "amount": 4485.38
+}

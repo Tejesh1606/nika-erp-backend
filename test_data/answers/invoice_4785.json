@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rodriguez-Sullivan",
+    "invoice_number": "INV-23854",
+    "date": "2025-03-09",
+    "items": [
+        {
+            "description": "Re-contextualized multi-tasking attitude",
+            "quantity": 1,
+            "unit_price": 454.6,
+            "total_price": 454.6
+        },
+        {
+            "description": "Switchable logistical instruction set",
+            "quantity": 9,
+            "unit_price": 123.7,
+            "total_price": 1113.3
+        },
+        {
+            "description": "Optimized discrete hub",
+            "quantity": 5,
+            "unit_price": 20.12,
+            "total_price": 100.6
+        },
+        {
+            "description": "De-engineered attitude-oriented groupware",
+            "quantity": 4,
+            "unit_price": 135.36,
+            "total_price": 541.44
+        }
+    ],
+    "amount": 2209.94
+}

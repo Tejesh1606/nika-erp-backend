@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Fisher-Mathews",
+    "invoice_number": "INV-51754",
+    "date": "2025-10-18",
+    "items": [
+        {
+            "description": "Customizable 4thgeneration product",
+            "quantity": 4,
+            "unit_price": 107.11,
+            "total_price": 428.44
+        },
+        {
+            "description": "Multi-layered solution-oriented Internet solution",
+            "quantity": 4,
+            "unit_price": 430.17,
+            "total_price": 1720.68
+        },
+        {
+            "description": "Upgradable zero tolerance data-warehouse",
+            "quantity": 5,
+            "unit_price": 344.63,
+            "total_price": 1723.15
+        }
+    ],
+    "amount": 3872.27
+}

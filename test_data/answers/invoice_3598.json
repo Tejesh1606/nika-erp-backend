@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Simmons-Douglas",
+    "invoice_number": "INV-88629",
+    "date": "2026-02-24",
+    "items": [
+        {
+            "description": "Open-architected fault-tolerant Internet solution",
+            "quantity": 3,
+            "unit_price": 14.94,
+            "total_price": 44.82
+        },
+        {
+            "description": "Assimilated mobile knowledge user",
+            "quantity": 3,
+            "unit_price": 412.08,
+            "total_price": 1236.24
+        }
+    ],
+    "amount": 1281.06
+}

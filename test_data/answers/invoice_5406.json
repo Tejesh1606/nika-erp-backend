@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Brown-Hammond",
+    "invoice_number": "INV-54622",
+    "date": "2025-04-03",
+    "items": [
+        {
+            "description": "Expanded fault-tolerant task-force",
+            "quantity": 6,
+            "unit_price": 118.3,
+            "total_price": 709.8
+        },
+        {
+            "description": "Synchronized homogeneous hub",
+            "quantity": 7,
+            "unit_price": 273.7,
+            "total_price": 1915.9
+        },
+        {
+            "description": "Business-focused needs-based strategy",
+            "quantity": 2,
+            "unit_price": 484.26,
+            "total_price": 968.52
+        },
+        {
+            "description": "Switchable intangible Graphic Interface",
+            "quantity": 7,
+            "unit_price": 70.79,
+            "total_price": 495.53
+        }
+    ],
+    "amount": 4089.75
+}

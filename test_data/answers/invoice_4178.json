@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Salazar, Garcia and Barber",
+    "invoice_number": "INV-35413",
+    "date": "2025-07-23",
+    "items": [
+        {
+            "description": "Right-sized solution-oriented installation",
+            "quantity": 2,
+            "unit_price": 24.24,
+            "total_price": 48.48
+        },
+        {
+            "description": "Innovative mobile complexity",
+            "quantity": 4,
+            "unit_price": 435.09,
+            "total_price": 1740.36
+        }
+    ],
+    "amount": 1788.84
+}

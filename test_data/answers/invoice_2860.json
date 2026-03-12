@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Romero-Harper",
+    "invoice_number": "INV-42060",
+    "date": "2025-06-07",
+    "items": [
+        {
+            "description": "Customer-focused national archive",
+            "quantity": 4,
+            "unit_price": 145.05,
+            "total_price": 580.2
+        },
+        {
+            "description": "Synergistic coherent customer loyalty",
+            "quantity": 1,
+            "unit_price": 13.39,
+            "total_price": 13.39
+        },
+        {
+            "description": "Face-to-face holistic intranet",
+            "quantity": 9,
+            "unit_price": 193.3,
+            "total_price": 1739.7
+        }
+    ],
+    "amount": 2333.29
+}

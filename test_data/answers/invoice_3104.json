@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith-Jackson",
+    "invoice_number": "INV-69103",
+    "date": "2025-07-23",
+    "items": [
+        {
+            "description": "Focused asymmetric standardization",
+            "quantity": 3,
+            "unit_price": 413.28,
+            "total_price": 1239.84
+        }
+    ],
+    "amount": 1239.84
+}

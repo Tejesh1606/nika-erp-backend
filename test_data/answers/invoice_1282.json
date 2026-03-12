@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Foster and Sons",
+    "invoice_number": "INV-24500",
+    "date": "2025-10-16",
+    "items": [
+        {
+            "description": "Implemented context-sensitive complexity",
+            "quantity": 6,
+            "unit_price": 179.01,
+            "total_price": 1074.06
+        }
+    ],
+    "amount": 1074.06
+}

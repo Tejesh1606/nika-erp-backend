@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Martin-Case",
+    "invoice_number": "INV-59522",
+    "date": "2025-05-03",
+    "items": [
+        {
+            "description": "Vision-oriented clear-thinking budgetary management",
+            "quantity": 9,
+            "unit_price": 163.5,
+            "total_price": 1471.5
+        }
+    ],
+    "amount": 1471.5
+}

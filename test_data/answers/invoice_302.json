@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Moody-Wright",
+    "invoice_number": "INV-94491",
+    "date": "2025-04-10",
+    "items": [
+        {
+            "description": "Fully-configurable neutral policy",
+            "quantity": 3,
+            "unit_price": 460.55,
+            "total_price": 1381.65
+        },
+        {
+            "description": "Right-sized uniform portal",
+            "quantity": 2,
+            "unit_price": 209.6,
+            "total_price": 419.2
+        },
+        {
+            "description": "Horizontal zero-defect solution",
+            "quantity": 8,
+            "unit_price": 32.68,
+            "total_price": 261.44
+        }
+    ],
+    "amount": 2062.29
+}

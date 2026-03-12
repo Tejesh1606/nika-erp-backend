@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wilson, Lucas and Garcia",
+    "invoice_number": "INV-58917",
+    "date": "2025-12-16",
+    "items": [
+        {
+            "description": "Phased neutral concept",
+            "quantity": 10,
+            "unit_price": 455.23,
+            "total_price": 4552.3
+        }
+    ],
+    "amount": 4552.3
+}

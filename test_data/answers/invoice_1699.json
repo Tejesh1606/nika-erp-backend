@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Glass, Sanchez and Bennett",
+    "invoice_number": "INV-71901",
+    "date": "2025-11-11",
+    "items": [
+        {
+            "description": "Total modular firmware",
+            "quantity": 9,
+            "unit_price": 310.26,
+            "total_price": 2792.34
+        },
+        {
+            "description": "Upgradable executive policy",
+            "quantity": 10,
+            "unit_price": 251.85,
+            "total_price": 2518.5
+        }
+    ],
+    "amount": 5310.84
+}

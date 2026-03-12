@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cooper Group",
+    "invoice_number": "INV-27321",
+    "date": "2025-05-25",
+    "items": [
+        {
+            "description": "Centralized content-based portal",
+            "quantity": 10,
+            "unit_price": 352.6,
+            "total_price": 3526.0
+        },
+        {
+            "description": "Persistent exuding firmware",
+            "quantity": 1,
+            "unit_price": 112.06,
+            "total_price": 112.06
+        }
+    ],
+    "amount": 3638.06
+}

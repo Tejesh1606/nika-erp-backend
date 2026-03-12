@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jones, Lawson and Carlson",
+    "invoice_number": "INV-85478",
+    "date": "2026-02-12",
+    "items": [
+        {
+            "description": "Pre-emptive client-driven flexibility",
+            "quantity": 10,
+            "unit_price": 496.32,
+            "total_price": 4963.2
+        },
+        {
+            "description": "Mandatory coherent open architecture",
+            "quantity": 1,
+            "unit_price": 312.29,
+            "total_price": 312.29
+        }
+    ],
+    "amount": 5275.49
+}

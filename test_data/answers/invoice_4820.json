@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Tate, Dixon and Smith",
+    "invoice_number": "INV-42431",
+    "date": "2025-03-09",
+    "items": [
+        {
+            "description": "Adaptive full-range core",
+            "quantity": 2,
+            "unit_price": 127.14,
+            "total_price": 254.28
+        }
+    ],
+    "amount": 254.28
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hampton-Wilson",
+    "invoice_number": "INV-17130",
+    "date": "2026-03-07",
+    "items": [
+        {
+            "description": "Right-sized coherent installation",
+            "quantity": 9,
+            "unit_price": 204.13,
+            "total_price": 1837.17
+        },
+        {
+            "description": "Self-enabling exuding analyzer",
+            "quantity": 7,
+            "unit_price": 230.66,
+            "total_price": 1614.62
+        },
+        {
+            "description": "Organized actuating database",
+            "quantity": 7,
+            "unit_price": 232.42,
+            "total_price": 1626.94
+        }
+    ],
+    "amount": 5078.73
+}

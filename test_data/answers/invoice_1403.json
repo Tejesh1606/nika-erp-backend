@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Raymond-Barnett",
+    "invoice_number": "INV-18580",
+    "date": "2025-07-18",
+    "items": [
+        {
+            "description": "Fully-configurable high-level circuit",
+            "quantity": 8,
+            "unit_price": 288.58,
+            "total_price": 2308.64
+        },
+        {
+            "description": "Front-line mobile core",
+            "quantity": 2,
+            "unit_price": 392.94,
+            "total_price": 785.88
+        },
+        {
+            "description": "Open-architected 6thgeneration help-desk",
+            "quantity": 5,
+            "unit_price": 71.04,
+            "total_price": 355.2
+        }
+    ],
+    "amount": 3449.72
+}

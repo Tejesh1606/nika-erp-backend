@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Miller-Beck",
+    "invoice_number": "INV-95054",
+    "date": "2025-05-12",
+    "items": [
+        {
+            "description": "Business-focused hybrid product",
+            "quantity": 3,
+            "unit_price": 130.89,
+            "total_price": 392.67
+        },
+        {
+            "description": "Integrated uniform standardization",
+            "quantity": 4,
+            "unit_price": 162.34,
+            "total_price": 649.36
+        }
+    ],
+    "amount": 1042.03
+}

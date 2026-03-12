@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mccarty-Vaughn",
+    "invoice_number": "INV-39109",
+    "date": "2025-08-20",
+    "items": [
+        {
+            "description": "Organized scalable toolset",
+            "quantity": 4,
+            "unit_price": 22.32,
+            "total_price": 89.28
+        },
+        {
+            "description": "Organic uniform frame",
+            "quantity": 4,
+            "unit_price": 437.1,
+            "total_price": 1748.4
+        }
+    ],
+    "amount": 1837.68
+}

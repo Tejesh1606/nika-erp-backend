@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Edwards, Rogers and Bradshaw",
+    "invoice_number": "INV-25753",
+    "date": "2025-06-14",
+    "items": [
+        {
+            "description": "Ergonomic zero-defect flexibility",
+            "quantity": 7,
+            "unit_price": 16.68,
+            "total_price": 116.76
+        },
+        {
+            "description": "Open-architected needs-based collaboration",
+            "quantity": 8,
+            "unit_price": 316.46,
+            "total_price": 2531.68
+        },
+        {
+            "description": "Front-line optimizing utilization",
+            "quantity": 4,
+            "unit_price": 16.53,
+            "total_price": 66.12
+        },
+        {
+            "description": "Visionary fault-tolerant migration",
+            "quantity": 3,
+            "unit_price": 368.51,
+            "total_price": 1105.53
+        }
+    ],
+    "amount": 3820.09
+}

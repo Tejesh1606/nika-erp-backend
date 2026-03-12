@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gardner-Robinson",
+    "invoice_number": "INV-51570",
+    "date": "2025-11-20",
+    "items": [
+        {
+            "description": "Grass-roots optimizing implementation",
+            "quantity": 5,
+            "unit_price": 339.84,
+            "total_price": 1699.2
+        },
+        {
+            "description": "Grass-roots static software",
+            "quantity": 7,
+            "unit_price": 306.03,
+            "total_price": 2142.21
+        }
+    ],
+    "amount": 3841.41
+}

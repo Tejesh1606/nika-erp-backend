@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hahn-May",
+    "invoice_number": "INV-17733",
+    "date": "2025-04-13",
+    "items": [
+        {
+            "description": "Customizable object-oriented hub",
+            "quantity": 7,
+            "unit_price": 154.91,
+            "total_price": 1084.37
+        },
+        {
+            "description": "Adaptive reciprocal conglomeration",
+            "quantity": 8,
+            "unit_price": 97.91,
+            "total_price": 783.28
+        }
+    ],
+    "amount": 1867.65
+}

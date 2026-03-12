@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Young and Sons",
+    "invoice_number": "INV-88988",
+    "date": "2025-12-10",
+    "items": [
+        {
+            "description": "Compatible asymmetric throughput",
+            "quantity": 9,
+            "unit_price": 237.97,
+            "total_price": 2141.73
+        }
+    ],
+    "amount": 2141.73
+}

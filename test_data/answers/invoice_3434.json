@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Johns-Chavez",
+    "invoice_number": "INV-24155",
+    "date": "2025-07-27",
+    "items": [
+        {
+            "description": "Centralized global throughput",
+            "quantity": 9,
+            "unit_price": 153.99,
+            "total_price": 1385.91
+        }
+    ],
+    "amount": 1385.91
+}

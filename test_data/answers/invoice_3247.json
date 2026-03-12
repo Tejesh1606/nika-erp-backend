@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Stephenson-Blake",
+    "invoice_number": "INV-19079",
+    "date": "2025-06-08",
+    "items": [
+        {
+            "description": "Grass-roots 24hour budgetary management",
+            "quantity": 4,
+            "unit_price": 47.29,
+            "total_price": 189.16
+        },
+        {
+            "description": "Seamless client-driven success",
+            "quantity": 9,
+            "unit_price": 195.73,
+            "total_price": 1761.57
+        },
+        {
+            "description": "Reduced system-worthy data-warehouse",
+            "quantity": 6,
+            "unit_price": 35.8,
+            "total_price": 214.8
+        },
+        {
+            "description": "Operative 24hour solution",
+            "quantity": 4,
+            "unit_price": 392.44,
+            "total_price": 1569.76
+        }
+    ],
+    "amount": 3735.29
+}

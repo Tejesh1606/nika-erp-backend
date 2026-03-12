@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lewis-Owen",
+    "invoice_number": "INV-51075",
+    "date": "2025-08-13",
+    "items": [
+        {
+            "description": "Fully-configurable bandwidth-monitored installation",
+            "quantity": 10,
+            "unit_price": 179.89,
+            "total_price": 1798.9
+        },
+        {
+            "description": "Exclusive bandwidth-monitored concept",
+            "quantity": 9,
+            "unit_price": 320.03,
+            "total_price": 2880.27
+        },
+        {
+            "description": "Right-sized maximized hierarchy",
+            "quantity": 10,
+            "unit_price": 131.31,
+            "total_price": 1313.1
+        },
+        {
+            "description": "Multi-channeled local conglomeration",
+            "quantity": 10,
+            "unit_price": 19.23,
+            "total_price": 192.3
+        }
+    ],
+    "amount": 6184.57
+}

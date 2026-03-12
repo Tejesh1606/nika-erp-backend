@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Camacho, Sellers and Strong",
+    "invoice_number": "INV-56447",
+    "date": "2025-04-27",
+    "items": [
+        {
+            "description": "Open-architected tangible open architecture",
+            "quantity": 1,
+            "unit_price": 422.11,
+            "total_price": 422.11
+        },
+        {
+            "description": "Front-line transitional frame",
+            "quantity": 3,
+            "unit_price": 379.49,
+            "total_price": 1138.47
+        },
+        {
+            "description": "Decentralized global Graphical User Interface",
+            "quantity": 7,
+            "unit_price": 315.11,
+            "total_price": 2205.77
+        }
+    ],
+    "amount": 3766.35
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Sims, Thomas and Boyd",
+    "invoice_number": "INV-91161",
+    "date": "2025-07-31",
+    "items": [
+        {
+            "description": "Automated zero administration knowledgebase",
+            "quantity": 5,
+            "unit_price": 421.13,
+            "total_price": 2105.65
+        },
+        {
+            "description": "User-centric tangible algorithm",
+            "quantity": 7,
+            "unit_price": 127.27,
+            "total_price": 890.89
+        },
+        {
+            "description": "Monitored attitude-oriented website",
+            "quantity": 10,
+            "unit_price": 398.98,
+            "total_price": 3989.8
+        },
+        {
+            "description": "Ergonomic 6thgeneration installation",
+            "quantity": 1,
+            "unit_price": 137.36,
+            "total_price": 137.36
+        }
+    ],
+    "amount": 7123.7
+}

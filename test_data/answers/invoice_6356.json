@@ -1,0 +1,20 @@
+{
+    "vendor_name": "James, Davis and Gates",
+    "invoice_number": "INV-92359",
+    "date": "2025-09-07",
+    "items": [
+        {
+            "description": "Focused 3rdgeneration knowledge user",
+            "quantity": 9,
+            "unit_price": 442.91,
+            "total_price": 3986.19
+        },
+        {
+            "description": "Implemented needs-based success",
+            "quantity": 1,
+            "unit_price": 141.44,
+            "total_price": 141.44
+        }
+    ],
+    "amount": 4127.63
+}

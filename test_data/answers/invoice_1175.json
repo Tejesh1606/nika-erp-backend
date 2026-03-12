@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hartman-Hall",
+    "invoice_number": "INV-26420",
+    "date": "2026-03-03",
+    "items": [
+        {
+            "description": "Public-key dynamic time-frame",
+            "quantity": 1,
+            "unit_price": 109.58,
+            "total_price": 109.58
+        },
+        {
+            "description": "Open-source systematic paradigm",
+            "quantity": 5,
+            "unit_price": 403.79,
+            "total_price": 2018.95
+        }
+    ],
+    "amount": 2128.53
+}

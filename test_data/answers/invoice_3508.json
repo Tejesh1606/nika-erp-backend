@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Anderson, Lopez and Brown",
+    "invoice_number": "INV-11296",
+    "date": "2025-05-21",
+    "items": [
+        {
+            "description": "Decentralized local neural-net",
+            "quantity": 5,
+            "unit_price": 468.09,
+            "total_price": 2340.45
+        },
+        {
+            "description": "Profit-focused dynamic utilization",
+            "quantity": 5,
+            "unit_price": 233.9,
+            "total_price": 1169.5
+        },
+        {
+            "description": "Switchable zero tolerance info-mediaries",
+            "quantity": 6,
+            "unit_price": 422.77,
+            "total_price": 2536.62
+        },
+        {
+            "description": "Function-based dynamic support",
+            "quantity": 7,
+            "unit_price": 46.64,
+            "total_price": 326.48
+        }
+    ],
+    "amount": 6373.05
+}

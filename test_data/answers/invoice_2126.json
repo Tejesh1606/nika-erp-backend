@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wallace Ltd",
+    "invoice_number": "INV-72282",
+    "date": "2025-05-03",
+    "items": [
+        {
+            "description": "Virtual regional installation",
+            "quantity": 2,
+            "unit_price": 441.57,
+            "total_price": 883.14
+        },
+        {
+            "description": "Optimized optimizing framework",
+            "quantity": 1,
+            "unit_price": 84.71,
+            "total_price": 84.71
+        },
+        {
+            "description": "Cloned well-modulated intranet",
+            "quantity": 10,
+            "unit_price": 98.22,
+            "total_price": 982.2
+        },
+        {
+            "description": "Re-engineered regional infrastructure",
+            "quantity": 10,
+            "unit_price": 280.47,
+            "total_price": 2804.7
+        }
+    ],
+    "amount": 4754.75
+}

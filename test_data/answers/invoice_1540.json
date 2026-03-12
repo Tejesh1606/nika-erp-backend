@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Little-Harris",
+    "invoice_number": "INV-93026",
+    "date": "2026-01-25",
+    "items": [
+        {
+            "description": "Mandatory contextually-based project",
+            "quantity": 1,
+            "unit_price": 353.98,
+            "total_price": 353.98
+        },
+        {
+            "description": "Proactive holistic encryption",
+            "quantity": 1,
+            "unit_price": 78.76,
+            "total_price": 78.76
+        }
+    ],
+    "amount": 432.74
+}

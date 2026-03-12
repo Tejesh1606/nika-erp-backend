@@ -1,0 +1,26 @@
+{
+    "vendor_name": "White LLC",
+    "invoice_number": "INV-49093",
+    "date": "2026-02-11",
+    "items": [
+        {
+            "description": "Monitored needs-based framework",
+            "quantity": 10,
+            "unit_price": 51.01,
+            "total_price": 510.1
+        },
+        {
+            "description": "Organic non-volatile secured line",
+            "quantity": 3,
+            "unit_price": 482.44,
+            "total_price": 1447.32
+        },
+        {
+            "description": "Multi-channeled background policy",
+            "quantity": 8,
+            "unit_price": 333.59,
+            "total_price": 2668.72
+        }
+    ],
+    "amount": 4626.14
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Brown PLC",
+    "invoice_number": "INV-83467",
+    "date": "2026-02-16",
+    "items": [
+        {
+            "description": "Decentralized responsive circuit",
+            "quantity": 10,
+            "unit_price": 395.13,
+            "total_price": 3951.3
+        }
+    ],
+    "amount": 3951.3
+}

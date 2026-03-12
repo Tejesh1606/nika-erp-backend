@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Harris, Thomas and Jones",
+    "invoice_number": "INV-99558",
+    "date": "2025-08-02",
+    "items": [
+        {
+            "description": "Down-sized zero tolerance initiative",
+            "quantity": 7,
+            "unit_price": 19.95,
+            "total_price": 139.65
+        },
+        {
+            "description": "Expanded didactic functionalities",
+            "quantity": 4,
+            "unit_price": 140.88,
+            "total_price": 563.52
+        },
+        {
+            "description": "Multi-channeled impactful focus group",
+            "quantity": 9,
+            "unit_price": 486.98,
+            "total_price": 4382.82
+        }
+    ],
+    "amount": 5085.99
+}

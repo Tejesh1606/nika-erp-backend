@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Lewis-Guerra",
+    "invoice_number": "INV-95193",
+    "date": "2025-05-01",
+    "items": [
+        {
+            "description": "Focused multi-tasking product",
+            "quantity": 6,
+            "unit_price": 342.54,
+            "total_price": 2055.24
+        },
+        {
+            "description": "Multi-lateral scalable orchestration",
+            "quantity": 2,
+            "unit_price": 266.04,
+            "total_price": 532.08
+        }
+    ],
+    "amount": 2587.32
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Anderson, Daniel and Rollins",
+    "invoice_number": "INV-78771",
+    "date": "2026-02-08",
+    "items": [
+        {
+            "description": "Persistent 5thgeneration service-desk",
+            "quantity": 3,
+            "unit_price": 421.24,
+            "total_price": 1263.72
+        },
+        {
+            "description": "Programmable radical focus group",
+            "quantity": 4,
+            "unit_price": 222.53,
+            "total_price": 890.12
+        }
+    ],
+    "amount": 2153.84
+}

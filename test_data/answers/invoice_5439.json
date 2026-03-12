@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Thompson PLC",
+    "invoice_number": "INV-87428",
+    "date": "2025-10-16",
+    "items": [
+        {
+            "description": "Ergonomic system-worthy projection",
+            "quantity": 10,
+            "unit_price": 282.61,
+            "total_price": 2826.1
+        },
+        {
+            "description": "Robust zero tolerance array",
+            "quantity": 4,
+            "unit_price": 342.56,
+            "total_price": 1370.24
+        },
+        {
+            "description": "Proactive homogeneous success",
+            "quantity": 8,
+            "unit_price": 114.4,
+            "total_price": 915.2
+        }
+    ],
+    "amount": 5111.54
+}

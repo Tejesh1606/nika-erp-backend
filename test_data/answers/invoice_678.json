@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson Inc",
+    "invoice_number": "INV-30188",
+    "date": "2025-06-19",
+    "items": [
+        {
+            "description": "Innovative scalable productivity",
+            "quantity": 4,
+            "unit_price": 497.12,
+            "total_price": 1988.48
+        },
+        {
+            "description": "Phased bottom-line projection",
+            "quantity": 5,
+            "unit_price": 214.6,
+            "total_price": 1073.0
+        },
+        {
+            "description": "Synchronized executive instruction set",
+            "quantity": 5,
+            "unit_price": 126.92,
+            "total_price": 634.6
+        },
+        {
+            "description": "Enhanced mobile solution",
+            "quantity": 9,
+            "unit_price": 349.74,
+            "total_price": 3147.66
+        }
+    ],
+    "amount": 6843.74
+}

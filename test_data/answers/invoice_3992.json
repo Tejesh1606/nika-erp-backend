@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rivera Inc",
+    "invoice_number": "INV-27904",
+    "date": "2025-10-24",
+    "items": [
+        {
+            "description": "Enhanced interactive instruction set",
+            "quantity": 7,
+            "unit_price": 178.76,
+            "total_price": 1251.32
+        },
+        {
+            "description": "De-engineered foreground flexibility",
+            "quantity": 6,
+            "unit_price": 484.25,
+            "total_price": 2905.5
+        },
+        {
+            "description": "Proactive zero-defect migration",
+            "quantity": 1,
+            "unit_price": 266.05,
+            "total_price": 266.05
+        },
+        {
+            "description": "Business-focused systemic alliance",
+            "quantity": 10,
+            "unit_price": 20.21,
+            "total_price": 202.1
+        }
+    ],
+    "amount": 4624.97
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Sullivan Inc",
+    "invoice_number": "INV-25927",
+    "date": "2025-12-04",
+    "items": [
+        {
+            "description": "Quality-focused hybrid emulation",
+            "quantity": 4,
+            "unit_price": 497.18,
+            "total_price": 1988.72
+        }
+    ],
+    "amount": 1988.72
+}

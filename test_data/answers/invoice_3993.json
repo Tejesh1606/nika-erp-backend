@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Murphy, Williams and Smith",
+    "invoice_number": "INV-21878",
+    "date": "2026-01-05",
+    "items": [
+        {
+            "description": "Implemented human-resource capability",
+            "quantity": 1,
+            "unit_price": 478.29,
+            "total_price": 478.29
+        },
+        {
+            "description": "Intuitive real-time toolset",
+            "quantity": 7,
+            "unit_price": 378.19,
+            "total_price": 2647.33
+        },
+        {
+            "description": "Persistent zero administration superstructure",
+            "quantity": 9,
+            "unit_price": 50.5,
+            "total_price": 454.5
+        },
+        {
+            "description": "Advanced 6thgeneration algorithm",
+            "quantity": 4,
+            "unit_price": 223.47,
+            "total_price": 893.88
+        }
+    ],
+    "amount": 4474.0
+}

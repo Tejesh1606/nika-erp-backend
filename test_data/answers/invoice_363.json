@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Cooper-Monroe",
+    "invoice_number": "INV-43903",
+    "date": "2025-12-24",
+    "items": [
+        {
+            "description": "Team-oriented background forecast",
+            "quantity": 10,
+            "unit_price": 346.3,
+            "total_price": 3463.0
+        },
+        {
+            "description": "Assimilated human-resource application",
+            "quantity": 9,
+            "unit_price": 475.29,
+            "total_price": 4277.61
+        },
+        {
+            "description": "Diverse object-oriented time-frame",
+            "quantity": 9,
+            "unit_price": 157.49,
+            "total_price": 1417.41
+        },
+        {
+            "description": "Extended directional project",
+            "quantity": 4,
+            "unit_price": 31.83,
+            "total_price": 127.32
+        }
+    ],
+    "amount": 9285.34
+}

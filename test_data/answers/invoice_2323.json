@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Velez-Carr",
+    "invoice_number": "INV-90581",
+    "date": "2025-04-30",
+    "items": [
+        {
+            "description": "Centralized bottom-line circuit",
+            "quantity": 6,
+            "unit_price": 420.63,
+            "total_price": 2523.78
+        },
+        {
+            "description": "Fully-configurable modular initiative",
+            "quantity": 9,
+            "unit_price": 321.98,
+            "total_price": 2897.82
+        },
+        {
+            "description": "Exclusive asynchronous matrices",
+            "quantity": 2,
+            "unit_price": 109.62,
+            "total_price": 219.24
+        }
+    ],
+    "amount": 5640.84
+}

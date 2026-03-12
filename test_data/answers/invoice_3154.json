@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Dyer-Johnson",
+    "invoice_number": "INV-25050",
+    "date": "2025-11-04",
+    "items": [
+        {
+            "description": "Innovative system-worthy monitoring",
+            "quantity": 8,
+            "unit_price": 144.2,
+            "total_price": 1153.6
+        },
+        {
+            "description": "Visionary eco-centric strategy",
+            "quantity": 2,
+            "unit_price": 123.61,
+            "total_price": 247.22
+        }
+    ],
+    "amount": 1400.82
+}

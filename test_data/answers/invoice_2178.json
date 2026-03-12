@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Martinez, Campbell and Brown",
+    "invoice_number": "INV-27777",
+    "date": "2025-07-03",
+    "items": [
+        {
+            "description": "Extended transitional Local Area Network",
+            "quantity": 7,
+            "unit_price": 477.2,
+            "total_price": 3340.4
+        },
+        {
+            "description": "Expanded impactful architecture",
+            "quantity": 5,
+            "unit_price": 344.55,
+            "total_price": 1722.75
+        }
+    ],
+    "amount": 5063.15
+}

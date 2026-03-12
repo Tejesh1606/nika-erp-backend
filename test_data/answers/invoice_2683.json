@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Serrano-Cruz",
+    "invoice_number": "INV-56694",
+    "date": "2025-10-19",
+    "items": [
+        {
+            "description": "User-centric transitional model",
+            "quantity": 9,
+            "unit_price": 386.38,
+            "total_price": 3477.42
+        },
+        {
+            "description": "Exclusive stable customer loyalty",
+            "quantity": 10,
+            "unit_price": 94.31,
+            "total_price": 943.1
+        },
+        {
+            "description": "Diverse incremental architecture",
+            "quantity": 6,
+            "unit_price": 103.65,
+            "total_price": 621.9
+        }
+    ],
+    "amount": 5042.42
+}

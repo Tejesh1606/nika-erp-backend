@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Santos and Sons",
+    "invoice_number": "INV-64282",
+    "date": "2026-02-01",
+    "items": [
+        {
+            "description": "Inverse optimal migration",
+            "quantity": 7,
+            "unit_price": 41.93,
+            "total_price": 293.51
+        },
+        {
+            "description": "Grass-roots global access",
+            "quantity": 4,
+            "unit_price": 58.26,
+            "total_price": 233.04
+        }
+    ],
+    "amount": 526.55
+}

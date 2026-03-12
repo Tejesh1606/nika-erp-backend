@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bell, Bradley and Thomas",
+    "invoice_number": "INV-34672",
+    "date": "2026-01-27",
+    "items": [
+        {
+            "description": "Proactive needs-based function",
+            "quantity": 4,
+            "unit_price": 332.4,
+            "total_price": 1329.6
+        },
+        {
+            "description": "Enhanced mobile alliance",
+            "quantity": 1,
+            "unit_price": 439.07,
+            "total_price": 439.07
+        }
+    ],
+    "amount": 1768.67
+}

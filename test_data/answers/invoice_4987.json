@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jones-White",
+    "invoice_number": "INV-43187",
+    "date": "2025-09-08",
+    "items": [
+        {
+            "description": "Grass-roots attitude-oriented help-desk",
+            "quantity": 8,
+            "unit_price": 462.94,
+            "total_price": 3703.52
+        },
+        {
+            "description": "Virtual background Internet solution",
+            "quantity": 1,
+            "unit_price": 365.75,
+            "total_price": 365.75
+        },
+        {
+            "description": "User-centric directional collaboration",
+            "quantity": 3,
+            "unit_price": 449.51,
+            "total_price": 1348.53
+        },
+        {
+            "description": "Seamless foreground Internet solution",
+            "quantity": 1,
+            "unit_price": 238.0,
+            "total_price": 238.0
+        }
+    ],
+    "amount": 5655.8
+}

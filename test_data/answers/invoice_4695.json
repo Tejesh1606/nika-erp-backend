@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mendez PLC",
+    "invoice_number": "INV-70623",
+    "date": "2026-02-28",
+    "items": [
+        {
+            "description": "Adaptive modular success",
+            "quantity": 3,
+            "unit_price": 138.16,
+            "total_price": 414.48
+        },
+        {
+            "description": "User-friendly motivating database",
+            "quantity": 3,
+            "unit_price": 404.84,
+            "total_price": 1214.52
+        },
+        {
+            "description": "Secured demand-driven service-desk",
+            "quantity": 1,
+            "unit_price": 432.07,
+            "total_price": 432.07
+        }
+    ],
+    "amount": 2061.07
+}

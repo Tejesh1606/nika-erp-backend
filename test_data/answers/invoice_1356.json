@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Baker, Gonzales and Mcgee",
+    "invoice_number": "INV-95912",
+    "date": "2026-01-01",
+    "items": [
+        {
+            "description": "Profound global Graphical User Interface",
+            "quantity": 8,
+            "unit_price": 494.39,
+            "total_price": 3955.12
+        }
+    ],
+    "amount": 3955.12
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Kent, Barker and Hernandez",
+    "invoice_number": "INV-28058",
+    "date": "2025-11-17",
+    "items": [
+        {
+            "description": "Face-to-face multimedia knowledge user",
+            "quantity": 10,
+            "unit_price": 456.98,
+            "total_price": 4569.8
+        },
+        {
+            "description": "Right-sized zero administration forecast",
+            "quantity": 2,
+            "unit_price": 405.67,
+            "total_price": 811.34
+        }
+    ],
+    "amount": 5381.14
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Adams PLC",
+    "invoice_number": "INV-61268",
+    "date": "2025-06-25",
+    "items": [
+        {
+            "description": "Phased radical customer loyalty",
+            "quantity": 8,
+            "unit_price": 359.43,
+            "total_price": 2875.44
+        },
+        {
+            "description": "Multi-lateral directional process improvement",
+            "quantity": 7,
+            "unit_price": 462.07,
+            "total_price": 3234.49
+        },
+        {
+            "description": "Triple-buffered global info-mediaries",
+            "quantity": 4,
+            "unit_price": 102.34,
+            "total_price": 409.36
+        }
+    ],
+    "amount": 6519.29
+}

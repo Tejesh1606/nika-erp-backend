@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wood-Huerta",
+    "invoice_number": "INV-92206",
+    "date": "2025-08-07",
+    "items": [
+        {
+            "description": "Down-sized impactful neural-net",
+            "quantity": 10,
+            "unit_price": 105.18,
+            "total_price": 1051.8
+        },
+        {
+            "description": "Expanded motivating firmware",
+            "quantity": 2,
+            "unit_price": 242.49,
+            "total_price": 484.98
+        },
+        {
+            "description": "Reactive multimedia intranet",
+            "quantity": 1,
+            "unit_price": 57.99,
+            "total_price": 57.99
+        }
+    ],
+    "amount": 1594.77
+}

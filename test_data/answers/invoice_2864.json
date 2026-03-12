@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Griffin Group",
+    "invoice_number": "INV-43259",
+    "date": "2026-02-13",
+    "items": [
+        {
+            "description": "Assimilated web-enabled toolset",
+            "quantity": 1,
+            "unit_price": 24.18,
+            "total_price": 24.18
+        },
+        {
+            "description": "Front-line methodical info-mediaries",
+            "quantity": 9,
+            "unit_price": 60.94,
+            "total_price": 548.46
+        },
+        {
+            "description": "Persistent intangible open architecture",
+            "quantity": 5,
+            "unit_price": 240.58,
+            "total_price": 1202.9
+        }
+    ],
+    "amount": 1775.54
+}

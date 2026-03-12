@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Baldwin Group",
+    "invoice_number": "INV-55739",
+    "date": "2025-06-24",
+    "items": [
+        {
+            "description": "Horizontal bifurcated synergy",
+            "quantity": 2,
+            "unit_price": 133.92,
+            "total_price": 267.84
+        },
+        {
+            "description": "Exclusive logistical conglomeration",
+            "quantity": 4,
+            "unit_price": 60.05,
+            "total_price": 240.2
+        },
+        {
+            "description": "Persistent methodical protocol",
+            "quantity": 7,
+            "unit_price": 107.34,
+            "total_price": 751.38
+        },
+        {
+            "description": "Networked multi-state hierarchy",
+            "quantity": 4,
+            "unit_price": 15.48,
+            "total_price": 61.92
+        }
+    ],
+    "amount": 1321.34
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Thomas Ltd",
+    "invoice_number": "INV-12743",
+    "date": "2025-05-21",
+    "items": [
+        {
+            "description": "Streamlined encompassing orchestration",
+            "quantity": 5,
+            "unit_price": 29.02,
+            "total_price": 145.1
+        }
+    ],
+    "amount": 145.1
+}

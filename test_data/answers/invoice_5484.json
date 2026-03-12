@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Anderson-Alexander",
+    "invoice_number": "INV-78084",
+    "date": "2025-10-21",
+    "items": [
+        {
+            "description": "Robust web-enabled paradigm",
+            "quantity": 8,
+            "unit_price": 271.3,
+            "total_price": 2170.4
+        },
+        {
+            "description": "Re-contextualized hybrid challenge",
+            "quantity": 10,
+            "unit_price": 107.86,
+            "total_price": 1078.6
+        },
+        {
+            "description": "Profit-focused object-oriented encoding",
+            "quantity": 8,
+            "unit_price": 493.63,
+            "total_price": 3949.04
+        },
+        {
+            "description": "Adaptive zero-defect project",
+            "quantity": 6,
+            "unit_price": 131.21,
+            "total_price": 787.26
+        }
+    ],
+    "amount": 7985.3
+}

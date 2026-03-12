@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Burns, Hart and Wells",
+    "invoice_number": "INV-12180",
+    "date": "2025-07-30",
+    "items": [
+        {
+            "description": "Managed systematic budgetary management",
+            "quantity": 2,
+            "unit_price": 55.54,
+            "total_price": 111.08
+        },
+        {
+            "description": "Operative optimal function",
+            "quantity": 8,
+            "unit_price": 184.52,
+            "total_price": 1476.16
+        },
+        {
+            "description": "Up-sized system-worthy product",
+            "quantity": 4,
+            "unit_price": 100.78,
+            "total_price": 403.12
+        },
+        {
+            "description": "Assimilated radical leverage",
+            "quantity": 8,
+            "unit_price": 158.23,
+            "total_price": 1265.84
+        }
+    ],
+    "amount": 3256.2
+}

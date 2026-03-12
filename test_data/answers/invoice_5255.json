@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Benitez Inc",
+    "invoice_number": "INV-54747",
+    "date": "2025-12-20",
+    "items": [
+        {
+            "description": "Synchronized methodical orchestration",
+            "quantity": 2,
+            "unit_price": 224.85,
+            "total_price": 449.7
+        }
+    ],
+    "amount": 449.7
+}

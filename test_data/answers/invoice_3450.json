@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Fuentes, Smith and Hughes",
+    "invoice_number": "INV-46354",
+    "date": "2026-03-02",
+    "items": [
+        {
+            "description": "Horizontal heuristic circuit",
+            "quantity": 8,
+            "unit_price": 255.93,
+            "total_price": 2047.44
+        }
+    ],
+    "amount": 2047.44
+}

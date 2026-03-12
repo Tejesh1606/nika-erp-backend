@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Castro, Ellison and Lopez",
+    "invoice_number": "INV-69491",
+    "date": "2025-11-25",
+    "items": [
+        {
+            "description": "Ergonomic secondary capacity",
+            "quantity": 9,
+            "unit_price": 329.26,
+            "total_price": 2963.34
+        },
+        {
+            "description": "Organic multi-tasking infrastructure",
+            "quantity": 1,
+            "unit_price": 198.53,
+            "total_price": 198.53
+        }
+    ],
+    "amount": 3161.87
+}

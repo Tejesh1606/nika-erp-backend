@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Smith-Hudson",
+    "invoice_number": "INV-56746",
+    "date": "2025-10-01",
+    "items": [
+        {
+            "description": "Re-engineered maximized alliance",
+            "quantity": 6,
+            "unit_price": 270.89,
+            "total_price": 1625.34
+        },
+        {
+            "description": "Versatile bi-directional hardware",
+            "quantity": 1,
+            "unit_price": 434.01,
+            "total_price": 434.01
+        },
+        {
+            "description": "Switchable composite contingency",
+            "quantity": 8,
+            "unit_price": 284.88,
+            "total_price": 2279.04
+        },
+        {
+            "description": "Customizable zero-defect database",
+            "quantity": 1,
+            "unit_price": 281.11,
+            "total_price": 281.11
+        }
+    ],
+    "amount": 4619.5
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Myers Group",
+    "invoice_number": "INV-20077",
+    "date": "2025-08-25",
+    "items": [
+        {
+            "description": "Triple-buffered incremental collaboration",
+            "quantity": 3,
+            "unit_price": 424.94,
+            "total_price": 1274.82
+        }
+    ],
+    "amount": 1274.82
+}

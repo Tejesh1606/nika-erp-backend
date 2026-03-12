@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bowman, Luna and Valentine",
+    "invoice_number": "INV-22493",
+    "date": "2025-09-09",
+    "items": [
+        {
+            "description": "De-engineered solution-oriented customer loyalty",
+            "quantity": 2,
+            "unit_price": 253.63,
+            "total_price": 507.26
+        },
+        {
+            "description": "Synchronized homogeneous middleware",
+            "quantity": 4,
+            "unit_price": 203.8,
+            "total_price": 815.2
+        },
+        {
+            "description": "Multi-lateral 6thgeneration firmware",
+            "quantity": 4,
+            "unit_price": 170.41,
+            "total_price": 681.64
+        }
+    ],
+    "amount": 2004.1
+}

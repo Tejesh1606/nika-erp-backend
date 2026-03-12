@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gonzalez and Sons",
+    "invoice_number": "INV-54127",
+    "date": "2025-08-04",
+    "items": [
+        {
+            "description": "Re-engineered intangible flexibility",
+            "quantity": 4,
+            "unit_price": 49.54,
+            "total_price": 198.16
+        }
+    ],
+    "amount": 198.16
+}

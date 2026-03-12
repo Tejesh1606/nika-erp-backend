@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Pace, Esparza and Barron",
+    "invoice_number": "INV-97604",
+    "date": "2025-05-18",
+    "items": [
+        {
+            "description": "Sharable incremental hub",
+            "quantity": 9,
+            "unit_price": 187.99,
+            "total_price": 1691.91
+        },
+        {
+            "description": "Devolved didactic extranet",
+            "quantity": 8,
+            "unit_price": 444.08,
+            "total_price": 3552.64
+        },
+        {
+            "description": "Sharable interactive hub",
+            "quantity": 4,
+            "unit_price": 471.63,
+            "total_price": 1886.52
+        }
+    ],
+    "amount": 7131.07
+}

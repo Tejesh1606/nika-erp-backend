@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mitchell-Smith",
+    "invoice_number": "INV-40711",
+    "date": "2025-12-19",
+    "items": [
+        {
+            "description": "Sharable context-sensitive focus group",
+            "quantity": 8,
+            "unit_price": 168.76,
+            "total_price": 1350.08
+        },
+        {
+            "description": "Diverse responsive projection",
+            "quantity": 1,
+            "unit_price": 491.59,
+            "total_price": 491.59
+        },
+        {
+            "description": "Customizable system-worthy installation",
+            "quantity": 9,
+            "unit_price": 27.02,
+            "total_price": 243.18
+        }
+    ],
+    "amount": 2084.85
+}

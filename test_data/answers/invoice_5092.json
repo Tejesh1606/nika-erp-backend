@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Martinez-Lewis",
+    "invoice_number": "INV-53925",
+    "date": "2025-06-24",
+    "items": [
+        {
+            "description": "Self-enabling zero administration productivity",
+            "quantity": 9,
+            "unit_price": 415.96,
+            "total_price": 3743.64
+        },
+        {
+            "description": "Multi-channeled global protocol",
+            "quantity": 4,
+            "unit_price": 80.95,
+            "total_price": 323.8
+        },
+        {
+            "description": "Organic radical knowledgebase",
+            "quantity": 9,
+            "unit_price": 60.0,
+            "total_price": 540.0
+        }
+    ],
+    "amount": 4607.44
+}

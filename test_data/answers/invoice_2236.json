@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hernandez Group",
+    "invoice_number": "INV-28446",
+    "date": "2025-03-22",
+    "items": [
+        {
+            "description": "Progressive grid-enabled middleware",
+            "quantity": 5,
+            "unit_price": 182.43,
+            "total_price": 912.15
+        },
+        {
+            "description": "Cloned modular firmware",
+            "quantity": 4,
+            "unit_price": 409.69,
+            "total_price": 1638.76
+        },
+        {
+            "description": "Team-oriented fresh-thinking challenge",
+            "quantity": 5,
+            "unit_price": 94.89,
+            "total_price": 474.45
+        }
+    ],
+    "amount": 3025.36
+}

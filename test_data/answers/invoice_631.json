@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Moss Group",
+    "invoice_number": "INV-95699",
+    "date": "2025-03-16",
+    "items": [
+        {
+            "description": "Phased regional analyzer",
+            "quantity": 10,
+            "unit_price": 223.74,
+            "total_price": 2237.4
+        },
+        {
+            "description": "Fully-configurable tangible projection",
+            "quantity": 10,
+            "unit_price": 336.42,
+            "total_price": 3364.2
+        },
+        {
+            "description": "De-engineered 24/7 conglomeration",
+            "quantity": 5,
+            "unit_price": 152.11,
+            "total_price": 760.55
+        },
+        {
+            "description": "Self-enabling actuating function",
+            "quantity": 2,
+            "unit_price": 220.63,
+            "total_price": 441.26
+        }
+    ],
+    "amount": 6803.41
+}

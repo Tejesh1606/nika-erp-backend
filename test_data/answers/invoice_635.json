@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Horton PLC",
+    "invoice_number": "INV-31627",
+    "date": "2025-08-26",
+    "items": [
+        {
+            "description": "Fully-configurable optimal analyzer",
+            "quantity": 7,
+            "unit_price": 285.93,
+            "total_price": 2001.51
+        },
+        {
+            "description": "Devolved bandwidth-monitored utilization",
+            "quantity": 5,
+            "unit_price": 352.12,
+            "total_price": 1760.6
+        },
+        {
+            "description": "Self-enabling reciprocal implementation",
+            "quantity": 3,
+            "unit_price": 58.43,
+            "total_price": 175.29
+        }
+    ],
+    "amount": 3937.4
+}

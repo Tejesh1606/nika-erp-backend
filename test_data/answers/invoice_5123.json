@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jones, Carlson and Raymond",
+    "invoice_number": "INV-29114",
+    "date": "2025-04-28",
+    "items": [
+        {
+            "description": "Robust client-server hardware",
+            "quantity": 10,
+            "unit_price": 431.23,
+            "total_price": 4312.3
+        },
+        {
+            "description": "Fully-configurable needs-based extranet",
+            "quantity": 1,
+            "unit_price": 490.23,
+            "total_price": 490.23
+        }
+    ],
+    "amount": 4802.53
+}

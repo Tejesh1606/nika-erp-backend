@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hale-Bradford",
+    "invoice_number": "INV-40884",
+    "date": "2025-06-06",
+    "items": [
+        {
+            "description": "Advanced zero-defect process improvement",
+            "quantity": 6,
+            "unit_price": 307.55,
+            "total_price": 1845.3
+        },
+        {
+            "description": "Team-oriented optimal function",
+            "quantity": 4,
+            "unit_price": 67.49,
+            "total_price": 269.96
+        },
+        {
+            "description": "Phased zero-defect project",
+            "quantity": 6,
+            "unit_price": 382.99,
+            "total_price": 2297.94
+        },
+        {
+            "description": "Right-sized bandwidth-monitored function",
+            "quantity": 9,
+            "unit_price": 108.79,
+            "total_price": 979.11
+        }
+    ],
+    "amount": 5392.31
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jackson Inc",
+    "invoice_number": "INV-32089",
+    "date": "2025-12-20",
+    "items": [
+        {
+            "description": "Horizontal executive access",
+            "quantity": 8,
+            "unit_price": 28.36,
+            "total_price": 226.88
+        },
+        {
+            "description": "User-centric tangible conglomeration",
+            "quantity": 8,
+            "unit_price": 238.52,
+            "total_price": 1908.16
+        },
+        {
+            "description": "Reduced dedicated throughput",
+            "quantity": 6,
+            "unit_price": 425.89,
+            "total_price": 2555.34
+        },
+        {
+            "description": "Optional discrete frame",
+            "quantity": 5,
+            "unit_price": 69.56,
+            "total_price": 347.8
+        }
+    ],
+    "amount": 5038.18
+}

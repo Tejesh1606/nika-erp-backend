@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Turner PLC",
+    "invoice_number": "INV-68455",
+    "date": "2025-10-13",
+    "items": [
+        {
+            "description": "Universal user-facing data-warehouse",
+            "quantity": 2,
+            "unit_price": 496.14,
+            "total_price": 992.28
+        },
+        {
+            "description": "Proactive uniform analyzer",
+            "quantity": 1,
+            "unit_price": 488.69,
+            "total_price": 488.69
+        },
+        {
+            "description": "Versatile background conglomeration",
+            "quantity": 6,
+            "unit_price": 316.19,
+            "total_price": 1897.14
+        }
+    ],
+    "amount": 3378.11
+}

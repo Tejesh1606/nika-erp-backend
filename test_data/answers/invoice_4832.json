@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hart PLC",
+    "invoice_number": "INV-25858",
+    "date": "2025-09-08",
+    "items": [
+        {
+            "description": "Self-enabling cohesive migration",
+            "quantity": 7,
+            "unit_price": 340.74,
+            "total_price": 2385.18
+        },
+        {
+            "description": "Grass-roots global toolset",
+            "quantity": 2,
+            "unit_price": 396.36,
+            "total_price": 792.72
+        },
+        {
+            "description": "Programmable exuding monitoring",
+            "quantity": 3,
+            "unit_price": 280.24,
+            "total_price": 840.72
+        },
+        {
+            "description": "User-centric mission-critical flexibility",
+            "quantity": 3,
+            "unit_price": 478.63,
+            "total_price": 1435.89
+        }
+    ],
+    "amount": 5454.51
+}

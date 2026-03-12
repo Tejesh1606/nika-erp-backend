@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hamilton, Larson and Long",
+    "invoice_number": "INV-67323",
+    "date": "2026-02-19",
+    "items": [
+        {
+            "description": "Grass-roots neutral architecture",
+            "quantity": 9,
+            "unit_price": 96.61,
+            "total_price": 869.49
+        }
+    ],
+    "amount": 869.49
+}

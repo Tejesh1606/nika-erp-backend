@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Kirk LLC",
+    "invoice_number": "INV-25580",
+    "date": "2025-07-11",
+    "items": [
+        {
+            "description": "Distributed motivating migration",
+            "quantity": 3,
+            "unit_price": 414.28,
+            "total_price": 1242.84
+        },
+        {
+            "description": "Assimilated 6thgeneration function",
+            "quantity": 7,
+            "unit_price": 27.91,
+            "total_price": 195.37
+        },
+        {
+            "description": "Robust intangible algorithm",
+            "quantity": 2,
+            "unit_price": 149.48,
+            "total_price": 298.96
+        },
+        {
+            "description": "Multi-lateral even-keeled instruction set",
+            "quantity": 9,
+            "unit_price": 332.28,
+            "total_price": 2990.52
+        }
+    ],
+    "amount": 4727.69
+}

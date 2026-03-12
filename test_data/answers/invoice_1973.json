@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Williams, Williams and Riddle",
+    "invoice_number": "INV-54521",
+    "date": "2026-02-28",
+    "items": [
+        {
+            "description": "Front-line mission-critical monitoring",
+            "quantity": 6,
+            "unit_price": 492.6,
+            "total_price": 2955.6
+        },
+        {
+            "description": "Virtual tangible portal",
+            "quantity": 7,
+            "unit_price": 292.46,
+            "total_price": 2047.22
+        }
+    ],
+    "amount": 5002.82
+}

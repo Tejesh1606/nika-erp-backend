@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Simpson-Patel",
+    "invoice_number": "INV-77303",
+    "date": "2025-04-07",
+    "items": [
+        {
+            "description": "Down-sized leadingedge system engine",
+            "quantity": 3,
+            "unit_price": 182.89,
+            "total_price": 548.67
+        },
+        {
+            "description": "Profound human-resource open architecture",
+            "quantity": 4,
+            "unit_price": 67.25,
+            "total_price": 269.0
+        }
+    ],
+    "amount": 817.67
+}

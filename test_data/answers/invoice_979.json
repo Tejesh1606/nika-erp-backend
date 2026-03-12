@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Haynes PLC",
+    "invoice_number": "INV-90098",
+    "date": "2025-05-18",
+    "items": [
+        {
+            "description": "Ergonomic optimizing product",
+            "quantity": 10,
+            "unit_price": 319.24,
+            "total_price": 3192.4
+        }
+    ],
+    "amount": 3192.4
+}

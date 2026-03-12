@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hicks, Shelton and Owens",
+    "invoice_number": "INV-99220",
+    "date": "2025-04-24",
+    "items": [
+        {
+            "description": "Realigned cohesive circuit",
+            "quantity": 4,
+            "unit_price": 336.79,
+            "total_price": 1347.16
+        },
+        {
+            "description": "Diverse didactic project",
+            "quantity": 5,
+            "unit_price": 415.85,
+            "total_price": 2079.25
+        },
+        {
+            "description": "Universal encompassing service-desk",
+            "quantity": 9,
+            "unit_price": 38.53,
+            "total_price": 346.77
+        }
+    ],
+    "amount": 3773.18
+}

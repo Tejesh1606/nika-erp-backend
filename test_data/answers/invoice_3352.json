@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Kennedy, Collier and Curry",
+    "invoice_number": "INV-12775",
+    "date": "2025-08-29",
+    "items": [
+        {
+            "description": "Balanced dynamic matrix",
+            "quantity": 6,
+            "unit_price": 365.37,
+            "total_price": 2192.22
+        },
+        {
+            "description": "Programmable zero-defect approach",
+            "quantity": 3,
+            "unit_price": 223.86,
+            "total_price": 671.58
+        },
+        {
+            "description": "Progressive responsive migration",
+            "quantity": 10,
+            "unit_price": 50.11,
+            "total_price": 501.1
+        }
+    ],
+    "amount": 3364.9
+}

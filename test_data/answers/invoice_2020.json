@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hernandez Ltd",
+    "invoice_number": "INV-68024",
+    "date": "2025-06-05",
+    "items": [
+        {
+            "description": "Total reciprocal core",
+            "quantity": 8,
+            "unit_price": 428.85,
+            "total_price": 3430.8
+        },
+        {
+            "description": "Programmable real-time portal",
+            "quantity": 3,
+            "unit_price": 409.39,
+            "total_price": 1228.17
+        },
+        {
+            "description": "Enhanced 24hour forecast",
+            "quantity": 4,
+            "unit_price": 480.13,
+            "total_price": 1920.52
+        },
+        {
+            "description": "Multi-lateral methodical solution",
+            "quantity": 1,
+            "unit_price": 221.25,
+            "total_price": 221.25
+        }
+    ],
+    "amount": 6800.74
+}

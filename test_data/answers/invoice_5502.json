@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Harvey-Ramsey",
+    "invoice_number": "INV-23975",
+    "date": "2026-01-13",
+    "items": [
+        {
+            "description": "Horizontal multi-tasking model",
+            "quantity": 5,
+            "unit_price": 11.74,
+            "total_price": 58.7
+        },
+        {
+            "description": "Customizable grid-enabled secured line",
+            "quantity": 9,
+            "unit_price": 36.78,
+            "total_price": 331.02
+        },
+        {
+            "description": "Versatile scalable toolset",
+            "quantity": 1,
+            "unit_price": 13.87,
+            "total_price": 13.87
+        }
+    ],
+    "amount": 403.59
+}

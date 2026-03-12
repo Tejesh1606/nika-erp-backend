@@ -1,0 +1,32 @@
+{
+    "vendor_name": "White, Rocha and Price",
+    "invoice_number": "INV-41317",
+    "date": "2025-09-12",
+    "items": [
+        {
+            "description": "Balanced eco-centric leverage",
+            "quantity": 1,
+            "unit_price": 103.9,
+            "total_price": 103.9
+        },
+        {
+            "description": "Open-source uniform middleware",
+            "quantity": 5,
+            "unit_price": 417.64,
+            "total_price": 2088.2
+        },
+        {
+            "description": "Centralized real-time neural-net",
+            "quantity": 2,
+            "unit_price": 222.93,
+            "total_price": 445.86
+        },
+        {
+            "description": "Multi-channeled hybrid neural-net",
+            "quantity": 7,
+            "unit_price": 407.14,
+            "total_price": 2849.98
+        }
+    ],
+    "amount": 5487.94
+}

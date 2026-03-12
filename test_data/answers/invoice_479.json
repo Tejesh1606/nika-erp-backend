@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lopez-Baker",
+    "invoice_number": "INV-45311",
+    "date": "2025-09-08",
+    "items": [
+        {
+            "description": "Seamless global hierarchy",
+            "quantity": 7,
+            "unit_price": 95.82,
+            "total_price": 670.74
+        },
+        {
+            "description": "Enterprise-wide modular interface",
+            "quantity": 5,
+            "unit_price": 232.22,
+            "total_price": 1161.1
+        },
+        {
+            "description": "Expanded intangible standardization",
+            "quantity": 3,
+            "unit_price": 408.75,
+            "total_price": 1226.25
+        }
+    ],
+    "amount": 3058.09
+}

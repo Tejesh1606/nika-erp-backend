@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Rodriguez, Gomez and Hall",
+    "invoice_number": "INV-53498",
+    "date": "2025-07-24",
+    "items": [
+        {
+            "description": "Advanced foreground attitude",
+            "quantity": 10,
+            "unit_price": 111.55,
+            "total_price": 1115.5
+        },
+        {
+            "description": "Future-proofed demand-driven success",
+            "quantity": 5,
+            "unit_price": 212.54,
+            "total_price": 1062.7
+        },
+        {
+            "description": "Visionary client-driven attitude",
+            "quantity": 9,
+            "unit_price": 390.47,
+            "total_price": 3514.23
+        }
+    ],
+    "amount": 5692.43
+}

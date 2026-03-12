@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Castillo and Sons",
+    "invoice_number": "INV-36605",
+    "date": "2026-01-09",
+    "items": [
+        {
+            "description": "Reduced attitude-oriented flexibility",
+            "quantity": 1,
+            "unit_price": 137.65,
+            "total_price": 137.65
+        },
+        {
+            "description": "Focused national capacity",
+            "quantity": 5,
+            "unit_price": 430.96,
+            "total_price": 2154.8
+        },
+        {
+            "description": "Organic impactful toolset",
+            "quantity": 2,
+            "unit_price": 265.88,
+            "total_price": 531.76
+        },
+        {
+            "description": "Horizontal stable infrastructure",
+            "quantity": 9,
+            "unit_price": 448.29,
+            "total_price": 4034.61
+        }
+    ],
+    "amount": 6858.82
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Conner, Cantrell and Lynch",
+    "invoice_number": "INV-68992",
+    "date": "2025-04-07",
+    "items": [
+        {
+            "description": "Team-oriented executive contingency",
+            "quantity": 1,
+            "unit_price": 44.87,
+            "total_price": 44.87
+        }
+    ],
+    "amount": 44.87
+}

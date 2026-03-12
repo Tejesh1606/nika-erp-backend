@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bennett and Sons",
+    "invoice_number": "INV-73214",
+    "date": "2025-04-10",
+    "items": [
+        {
+            "description": "Secured solution-oriented infrastructure",
+            "quantity": 7,
+            "unit_price": 311.35,
+            "total_price": 2179.45
+        },
+        {
+            "description": "Balanced system-worthy project",
+            "quantity": 3,
+            "unit_price": 287.58,
+            "total_price": 862.74
+        },
+        {
+            "description": "Ergonomic explicit system engine",
+            "quantity": 10,
+            "unit_price": 430.3,
+            "total_price": 4303.0
+        }
+    ],
+    "amount": 7345.19
+}

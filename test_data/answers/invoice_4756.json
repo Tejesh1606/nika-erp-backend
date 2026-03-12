@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Holt, Smith and Hayes",
+    "invoice_number": "INV-48316",
+    "date": "2025-07-19",
+    "items": [
+        {
+            "description": "Operative cohesive secured line",
+            "quantity": 6,
+            "unit_price": 57.46,
+            "total_price": 344.76
+        },
+        {
+            "description": "Intuitive systematic synergy",
+            "quantity": 10,
+            "unit_price": 372.84,
+            "total_price": 3728.4
+        }
+    ],
+    "amount": 4073.16
+}

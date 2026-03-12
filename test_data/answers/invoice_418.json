@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Singleton, Smith and Owens",
+    "invoice_number": "INV-30290",
+    "date": "2025-03-24",
+    "items": [
+        {
+            "description": "Distributed fresh-thinking policy",
+            "quantity": 10,
+            "unit_price": 133.48,
+            "total_price": 1334.8
+        },
+        {
+            "description": "Business-focused zero-defect product",
+            "quantity": 9,
+            "unit_price": 174.2,
+            "total_price": 1567.8
+        },
+        {
+            "description": "Seamless stable framework",
+            "quantity": 1,
+            "unit_price": 442.51,
+            "total_price": 442.51
+        },
+        {
+            "description": "Pre-emptive object-oriented neural-net",
+            "quantity": 8,
+            "unit_price": 235.96,
+            "total_price": 1887.68
+        }
+    ],
+    "amount": 5232.79
+}

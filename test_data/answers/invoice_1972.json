@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Pierce, Cross and Gilmore",
+    "invoice_number": "INV-84576",
+    "date": "2025-12-25",
+    "items": [
+        {
+            "description": "Persistent system-worthy leverage",
+            "quantity": 6,
+            "unit_price": 13.27,
+            "total_price": 79.62
+        },
+        {
+            "description": "Down-sized tertiary solution",
+            "quantity": 7,
+            "unit_price": 494.73,
+            "total_price": 3463.11
+        },
+        {
+            "description": "Cross-platform homogeneous open architecture",
+            "quantity": 5,
+            "unit_price": 188.17,
+            "total_price": 940.85
+        }
+    ],
+    "amount": 4483.58
+}

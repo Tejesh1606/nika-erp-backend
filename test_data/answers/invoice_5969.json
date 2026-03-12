@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mann, Miranda and Ross",
+    "invoice_number": "INV-29229",
+    "date": "2026-03-07",
+    "items": [
+        {
+            "description": "Customizable disintermediate project",
+            "quantity": 3,
+            "unit_price": 104.62,
+            "total_price": 313.86
+        },
+        {
+            "description": "Focused local system engine",
+            "quantity": 5,
+            "unit_price": 297.92,
+            "total_price": 1489.6
+        },
+        {
+            "description": "Team-oriented foreground structure",
+            "quantity": 5,
+            "unit_price": 382.41,
+            "total_price": 1912.05
+        }
+    ],
+    "amount": 3715.51
+}

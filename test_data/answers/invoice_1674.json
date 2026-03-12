@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Schmitt, Johnson and Hernandez",
+    "invoice_number": "INV-56312",
+    "date": "2025-07-08",
+    "items": [
+        {
+            "description": "Multi-tiered systematic budgetary management",
+            "quantity": 5,
+            "unit_price": 68.75,
+            "total_price": 343.75
+        },
+        {
+            "description": "Profit-focused secondary frame",
+            "quantity": 3,
+            "unit_price": 468.49,
+            "total_price": 1405.47
+        },
+        {
+            "description": "Versatile explicit firmware",
+            "quantity": 3,
+            "unit_price": 54.51,
+            "total_price": 163.53
+        }
+    ],
+    "amount": 1912.75
+}

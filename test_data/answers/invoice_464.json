@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Miller-Johnson",
+    "invoice_number": "INV-60374",
+    "date": "2026-03-05",
+    "items": [
+        {
+            "description": "Open-architected reciprocal projection",
+            "quantity": 3,
+            "unit_price": 309.33,
+            "total_price": 927.99
+        },
+        {
+            "description": "Programmable executive structure",
+            "quantity": 6,
+            "unit_price": 146.92,
+            "total_price": 881.52
+        },
+        {
+            "description": "Right-sized analyzing time-frame",
+            "quantity": 1,
+            "unit_price": 496.02,
+            "total_price": 496.02
+        }
+    ],
+    "amount": 2305.53
+}

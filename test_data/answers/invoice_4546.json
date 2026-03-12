@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hodges-Lopez",
+    "invoice_number": "INV-50713",
+    "date": "2025-12-07",
+    "items": [
+        {
+            "description": "Pre-emptive scalable adapter",
+            "quantity": 3,
+            "unit_price": 319.32,
+            "total_price": 957.96
+        },
+        {
+            "description": "Operative bandwidth-monitored implementation",
+            "quantity": 2,
+            "unit_price": 287.27,
+            "total_price": 574.54
+        },
+        {
+            "description": "Managed directional Local Area Network",
+            "quantity": 4,
+            "unit_price": 423.36,
+            "total_price": 1693.44
+        }
+    ],
+    "amount": 3225.94
+}

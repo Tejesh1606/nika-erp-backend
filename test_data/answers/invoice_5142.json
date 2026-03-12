@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wilson, Mckinney and Medina",
+    "invoice_number": "INV-62378",
+    "date": "2025-07-15",
+    "items": [
+        {
+            "description": "Multi-lateral actuating time-frame",
+            "quantity": 3,
+            "unit_price": 183.81,
+            "total_price": 551.43
+        },
+        {
+            "description": "Open-source didactic Internet solution",
+            "quantity": 6,
+            "unit_price": 272.14,
+            "total_price": 1632.84
+        },
+        {
+            "description": "Reduced system-worthy secured line",
+            "quantity": 2,
+            "unit_price": 205.87,
+            "total_price": 411.74
+        },
+        {
+            "description": "Profound global toolset",
+            "quantity": 10,
+            "unit_price": 292.54,
+            "total_price": 2925.4
+        }
+    ],
+    "amount": 5521.41
+}

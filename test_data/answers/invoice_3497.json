@@ -1,0 +1,32 @@
+{
+    "vendor_name": "White Group",
+    "invoice_number": "INV-67175",
+    "date": "2025-03-26",
+    "items": [
+        {
+            "description": "Polarized national budgetary management",
+            "quantity": 9,
+            "unit_price": 82.89,
+            "total_price": 746.01
+        },
+        {
+            "description": "Synergized radical Graphic Interface",
+            "quantity": 2,
+            "unit_price": 315.49,
+            "total_price": 630.98
+        },
+        {
+            "description": "Customizable hybrid framework",
+            "quantity": 9,
+            "unit_price": 232.26,
+            "total_price": 2090.34
+        },
+        {
+            "description": "Programmable empowering parallelism",
+            "quantity": 10,
+            "unit_price": 30.94,
+            "total_price": 309.4
+        }
+    ],
+    "amount": 3776.73
+}

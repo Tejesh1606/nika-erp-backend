@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Smith, Young and Frederick",
+    "invoice_number": "INV-94871",
+    "date": "2025-11-20",
+    "items": [
+        {
+            "description": "Implemented leadingedge utilization",
+            "quantity": 8,
+            "unit_price": 337.68,
+            "total_price": 2701.44
+        },
+        {
+            "description": "Assimilated empowering methodology",
+            "quantity": 3,
+            "unit_price": 107.42,
+            "total_price": 322.26
+        },
+        {
+            "description": "Integrated mission-critical info-mediaries",
+            "quantity": 6,
+            "unit_price": 372.04,
+            "total_price": 2232.24
+        },
+        {
+            "description": "Innovative needs-based forecast",
+            "quantity": 5,
+            "unit_price": 375.61,
+            "total_price": 1878.05
+        }
+    ],
+    "amount": 7133.99
+}

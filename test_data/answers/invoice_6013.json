@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Reese, Williams and Lynch",
+    "invoice_number": "INV-72334",
+    "date": "2025-07-23",
+    "items": [
+        {
+            "description": "Configurable didactic matrix",
+            "quantity": 7,
+            "unit_price": 439.93,
+            "total_price": 3079.51
+        },
+        {
+            "description": "Operative systemic monitoring",
+            "quantity": 8,
+            "unit_price": 21.9,
+            "total_price": 175.2
+        },
+        {
+            "description": "Fundamental multi-tasking budgetary management",
+            "quantity": 7,
+            "unit_price": 366.22,
+            "total_price": 2563.54
+        }
+    ],
+    "amount": 5818.25
+}

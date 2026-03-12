@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Reyes-Holmes",
+    "invoice_number": "INV-81053",
+    "date": "2025-03-17",
+    "items": [
+        {
+            "description": "Polarized optimizing hub",
+            "quantity": 3,
+            "unit_price": 470.11,
+            "total_price": 1410.33
+        },
+        {
+            "description": "Operative full-range encoding",
+            "quantity": 5,
+            "unit_price": 433.85,
+            "total_price": 2169.25
+        },
+        {
+            "description": "Business-focused 4thgeneration application",
+            "quantity": 10,
+            "unit_price": 308.76,
+            "total_price": 3087.6
+        }
+    ],
+    "amount": 6667.18
+}

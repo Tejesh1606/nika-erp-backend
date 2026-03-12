@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Howell, Williams and Gray",
+    "invoice_number": "INV-15293",
+    "date": "2025-09-21",
+    "items": [
+        {
+            "description": "Optional maximized algorithm",
+            "quantity": 7,
+            "unit_price": 174.94,
+            "total_price": 1224.58
+        },
+        {
+            "description": "Balanced radical application",
+            "quantity": 5,
+            "unit_price": 262.44,
+            "total_price": 1312.2
+        },
+        {
+            "description": "Adaptive stable firmware",
+            "quantity": 3,
+            "unit_price": 410.83,
+            "total_price": 1232.49
+        }
+    ],
+    "amount": 3769.27
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Yu, Snow and Fowler",
+    "invoice_number": "INV-67567",
+    "date": "2026-02-13",
+    "items": [
+        {
+            "description": "Focused client-server structure",
+            "quantity": 4,
+            "unit_price": 491.23,
+            "total_price": 1964.92
+        },
+        {
+            "description": "Diverse didactic challenge",
+            "quantity": 9,
+            "unit_price": 264.47,
+            "total_price": 2380.23
+        },
+        {
+            "description": "Devolved eco-centric complexity",
+            "quantity": 2,
+            "unit_price": 172.32,
+            "total_price": 344.64
+        },
+        {
+            "description": "Optional dedicated knowledge user",
+            "quantity": 7,
+            "unit_price": 222.42,
+            "total_price": 1556.94
+        }
+    ],
+    "amount": 6246.73
+}

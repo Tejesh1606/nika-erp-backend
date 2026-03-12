@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Patterson-Parker",
+    "invoice_number": "INV-38872",
+    "date": "2025-10-09",
+    "items": [
+        {
+            "description": "Proactive neutral leverage",
+            "quantity": 7,
+            "unit_price": 225.92,
+            "total_price": 1581.44
+        }
+    ],
+    "amount": 1581.44
+}

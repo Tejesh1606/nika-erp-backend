@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brown Group",
+    "invoice_number": "INV-50222",
+    "date": "2026-01-06",
+    "items": [
+        {
+            "description": "Vision-oriented object-oriented ability",
+            "quantity": 3,
+            "unit_price": 408.5,
+            "total_price": 1225.5
+        },
+        {
+            "description": "Re-engineered background project",
+            "quantity": 10,
+            "unit_price": 289.71,
+            "total_price": 2897.1
+        },
+        {
+            "description": "Distributed homogeneous benchmark",
+            "quantity": 3,
+            "unit_price": 112.75,
+            "total_price": 338.25
+        }
+    ],
+    "amount": 4460.85
+}

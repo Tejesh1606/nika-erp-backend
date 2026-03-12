@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Dunn, Jenkins and Snow",
+    "invoice_number": "INV-44106",
+    "date": "2025-08-06",
+    "items": [
+        {
+            "description": "Polarized empowering open system",
+            "quantity": 9,
+            "unit_price": 81.48,
+            "total_price": 733.32
+        },
+        {
+            "description": "Automated intermediate implementation",
+            "quantity": 3,
+            "unit_price": 72.38,
+            "total_price": 217.14
+        },
+        {
+            "description": "Progressive multimedia success",
+            "quantity": 2,
+            "unit_price": 159.84,
+            "total_price": 319.68
+        }
+    ],
+    "amount": 1270.14
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mckinney-Dawson",
+    "invoice_number": "INV-19192",
+    "date": "2025-11-11",
+    "items": [
+        {
+            "description": "Re-contextualized scalable analyzer",
+            "quantity": 6,
+            "unit_price": 152.78,
+            "total_price": 916.68
+        }
+    ],
+    "amount": 916.68
+}

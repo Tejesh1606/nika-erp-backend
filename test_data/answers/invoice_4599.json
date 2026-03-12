@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Aguilar, Leon and Smith",
+    "invoice_number": "INV-81883",
+    "date": "2026-02-17",
+    "items": [
+        {
+            "description": "Profound well-modulated task-force",
+            "quantity": 3,
+            "unit_price": 239.51,
+            "total_price": 718.53
+        },
+        {
+            "description": "Programmable human-resource task-force",
+            "quantity": 5,
+            "unit_price": 33.36,
+            "total_price": 166.8
+        },
+        {
+            "description": "Assimilated multi-tasking architecture",
+            "quantity": 8,
+            "unit_price": 457.81,
+            "total_price": 3662.48
+        }
+    ],
+    "amount": 4547.81
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lynch-Reed",
+    "invoice_number": "INV-51312",
+    "date": "2025-06-13",
+    "items": [
+        {
+            "description": "User-friendly analyzing conglomeration",
+            "quantity": 10,
+            "unit_price": 335.69,
+            "total_price": 3356.9
+        }
+    ],
+    "amount": 3356.9
+}

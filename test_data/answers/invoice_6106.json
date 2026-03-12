@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Nichols-Brown",
+    "invoice_number": "INV-27322",
+    "date": "2025-05-10",
+    "items": [
+        {
+            "description": "Organic uniform matrices",
+            "quantity": 2,
+            "unit_price": 255.76,
+            "total_price": 511.52
+        },
+        {
+            "description": "Multi-tiered systemic ability",
+            "quantity": 6,
+            "unit_price": 497.92,
+            "total_price": 2987.52
+        },
+        {
+            "description": "De-engineered bandwidth-monitored neural-net",
+            "quantity": 4,
+            "unit_price": 432.58,
+            "total_price": 1730.32
+        }
+    ],
+    "amount": 5229.36
+}

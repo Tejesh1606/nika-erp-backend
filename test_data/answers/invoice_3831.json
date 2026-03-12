@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Riley-Cook",
+    "invoice_number": "INV-92996",
+    "date": "2025-08-21",
+    "items": [
+        {
+            "description": "Down-sized object-oriented matrices",
+            "quantity": 7,
+            "unit_price": 196.56,
+            "total_price": 1375.92
+        }
+    ],
+    "amount": 1375.92
+}

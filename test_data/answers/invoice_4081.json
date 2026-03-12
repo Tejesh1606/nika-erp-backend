@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hoffman, Stanley and Rivera",
+    "invoice_number": "INV-50043",
+    "date": "2025-05-07",
+    "items": [
+        {
+            "description": "Persevering demand-driven synergy",
+            "quantity": 7,
+            "unit_price": 421.33,
+            "total_price": 2949.31
+        },
+        {
+            "description": "Future-proofed empowering parallelism",
+            "quantity": 7,
+            "unit_price": 360.06,
+            "total_price": 2520.42
+        }
+    ],
+    "amount": 5469.73
+}

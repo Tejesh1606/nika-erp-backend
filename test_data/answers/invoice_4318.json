@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Coleman Ltd",
+    "invoice_number": "INV-70357",
+    "date": "2025-12-05",
+    "items": [
+        {
+            "description": "Customizable empowering array",
+            "quantity": 2,
+            "unit_price": 412.42,
+            "total_price": 824.84
+        },
+        {
+            "description": "Ergonomic even-keeled utilization",
+            "quantity": 9,
+            "unit_price": 252.34,
+            "total_price": 2271.06
+        },
+        {
+            "description": "Enhanced modular projection",
+            "quantity": 10,
+            "unit_price": 148.2,
+            "total_price": 1482.0
+        },
+        {
+            "description": "Triple-buffered modular core",
+            "quantity": 8,
+            "unit_price": 279.53,
+            "total_price": 2236.24
+        }
+    ],
+    "amount": 6814.14
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Keith-Taylor",
+    "invoice_number": "INV-59400",
+    "date": "2026-01-18",
+    "items": [
+        {
+            "description": "Business-focused bifurcated neural-net",
+            "quantity": 5,
+            "unit_price": 387.58,
+            "total_price": 1937.9
+        },
+        {
+            "description": "Networked dynamic matrix",
+            "quantity": 1,
+            "unit_price": 425.03,
+            "total_price": 425.03
+        }
+    ],
+    "amount": 2362.93
+}

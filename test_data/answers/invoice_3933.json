@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Reynolds Group",
+    "invoice_number": "INV-11861",
+    "date": "2025-08-05",
+    "items": [
+        {
+            "description": "Organic executive structure",
+            "quantity": 10,
+            "unit_price": 13.7,
+            "total_price": 137.0
+        },
+        {
+            "description": "Customer-focused foreground product",
+            "quantity": 5,
+            "unit_price": 234.69,
+            "total_price": 1173.45
+        }
+    ],
+    "amount": 1310.45
+}

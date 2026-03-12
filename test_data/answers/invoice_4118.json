@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Richards-Vaughn",
+    "invoice_number": "INV-52078",
+    "date": "2025-10-27",
+    "items": [
+        {
+            "description": "Compatible context-sensitive info-mediaries",
+            "quantity": 10,
+            "unit_price": 320.12,
+            "total_price": 3201.2
+        },
+        {
+            "description": "Adaptive optimal collaboration",
+            "quantity": 9,
+            "unit_price": 295.65,
+            "total_price": 2660.85
+        },
+        {
+            "description": "Adaptive dynamic definition",
+            "quantity": 4,
+            "unit_price": 276.94,
+            "total_price": 1107.76
+        }
+    ],
+    "amount": 6969.81
+}

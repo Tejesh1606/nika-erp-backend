@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bird-Barry",
+    "invoice_number": "INV-46649",
+    "date": "2025-10-05",
+    "items": [
+        {
+            "description": "Self-enabling global superstructure",
+            "quantity": 3,
+            "unit_price": 31.28,
+            "total_price": 93.84
+        },
+        {
+            "description": "Reverse-engineered interactive hierarchy",
+            "quantity": 2,
+            "unit_price": 102.16,
+            "total_price": 204.32
+        }
+    ],
+    "amount": 298.16
+}

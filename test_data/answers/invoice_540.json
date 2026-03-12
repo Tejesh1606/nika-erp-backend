@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Rasmussen, Castro and Marquez",
+    "invoice_number": "INV-15210",
+    "date": "2025-06-13",
+    "items": [
+        {
+            "description": "Progressive fault-tolerant groupware",
+            "quantity": 2,
+            "unit_price": 268.27,
+            "total_price": 536.54
+        }
+    ],
+    "amount": 536.54
+}

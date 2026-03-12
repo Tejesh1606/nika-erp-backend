@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Avery, Garcia and Romero",
+    "invoice_number": "INV-54359",
+    "date": "2026-01-14",
+    "items": [
+        {
+            "description": "Reactive reciprocal standardization",
+            "quantity": 9,
+            "unit_price": 94.16,
+            "total_price": 847.44
+        },
+        {
+            "description": "Synergized tertiary application",
+            "quantity": 6,
+            "unit_price": 431.56,
+            "total_price": 2589.36
+        },
+        {
+            "description": "Diverse human-resource productivity",
+            "quantity": 10,
+            "unit_price": 175.78,
+            "total_price": 1757.8
+        }
+    ],
+    "amount": 5194.6
+}

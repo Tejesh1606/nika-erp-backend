@@ -4,9 +4,10 @@ import requests
 import json
 import logging
 from datetime import datetime
+from decimal import Decimal
 from typing import List
 
-from fastapi import FastAPI, UploadFile, File, HTTPException, Depends
+from fastapi import FastAPI, UploadFile, File, HTTPException, Depends, APIRouter, Request
 from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
@@ -16,10 +17,10 @@ from jwt import PyJWKClient
 from dotenv import load_dotenv
 from pydantic import BaseModel
 
-from sqlalchemy import create_engine, Column, Integer, String, Numeric, DateTime, ForeignKey
+from sqlalchemy import create_engine, Column, Integer, String, Numeric, DateTime, ForeignKey, text
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.exc import IntegrityError
-from sqlalchemy.orm import sessionmaker, relationship
+from sqlalchemy.orm import sessionmaker, relationship, Session
 
 # --- CONFIGURATION & ENV ---
 load_dotenv()
@@ -109,6 +110,9 @@ class InvoiceEditRequest(BaseModel):
     status: str
     items: List[InvoiceItemEdit] = []
 
+class QueryRequest(BaseModel):
+    query: str
+
 # --- FASTAPI APP ---
 app = FastAPI(title="AI ERP API")
 
@@ -158,6 +162,7 @@ def get_or_create_user_org(db, user_id: str):
     member = db.query(OrganizationMember).filter(OrganizationMember.user_id == user_id).first()
     return member.org_id
 
+
 # --- AI VISION ENGINE ---
 def process_invoice_with_vision(file_bytes: bytes, mime_type: str):
     base64_image = base64.b64encode(file_bytes).decode('utf-8')
@@ -174,30 +179,26 @@ def process_invoice_with_vision(file_bytes: bytes, mime_type: str):
     if response.status_code != 200: raise Exception(f"AI Error: {response.text}")
     return json.loads(response.json()['choices'][0]['message']['content'])
 
+
 # --- SECURED API ENDPOINTS ---
-# Notice the `user_id: str = Depends(get_current_user)` in the parameters! This locks the door.
 
 @app.post("/upload-invoice/")
 async def upload_invoice(file: UploadFile = File(...), user_id: str = Depends(get_current_user)):
     db = SessionLocal()
     try:
-        # 1. Identity & Quota Check
         org_id = get_or_create_user_org(db, user_id)
         org = db.query(Organization).filter(Organization.org_id == org_id).first()
         
         if org.api_credits <= 0:
             return JSONResponse(status_code=403, content={"error": "Out of API credits. Please upgrade your plan."})
         
-        # 2. Process Image
         file_bytes = await file.read()
         parsed_data = process_invoice_with_vision(file_bytes, file.content_type)
         
-        # 3. Deduct Credit
         org.api_credits -= 1
         
-        # 4. Save Securely to their specific Workspace
         new_invoice = Invoice(
-            org_id=org_id, # Locked to their tenant!
+            org_id=org_id, 
             vendor_name=parsed_data.get("vendor", {}).get("name") or "Unknown",
             invoice_number=str(parsed_data.get("invoice_details", {}).get("invoice_number") or f"UNK-{datetime.now().timestamp()}"),
             amount=float(parsed_data.get("financials", {}).get("grand_total") or 0.00),
@@ -225,8 +226,6 @@ async def get_historical_invoices(user_id: str = Depends(get_current_user)):
     db = SessionLocal()
     try:
         org_id = get_or_create_user_org(db, user_id)
-        
-        # Data Isolation: ONLY fetch invoices where org_id matches!
         invoices = db.query(Invoice).filter(Invoice.org_id == org_id).all()
         
         history = []
@@ -243,7 +242,6 @@ async def update_invoice(invoice_id: int, request: InvoiceEditRequest, user_id: 
     try:
         org_id = get_or_create_user_org(db, user_id)
         
-        # Security Check: Ensure the invoice they are trying to edit belongs to them!
         invoice = db.query(Invoice).filter(Invoice.invoice_id == invoice_id, Invoice.org_id == org_id).first()
         if not invoice:
             return JSONResponse(status_code=404, content={"error": "Invoice not found or access denied."})
@@ -262,6 +260,53 @@ async def update_invoice(invoice_id: int, request: InvoiceEditRequest, user_id: 
     except Exception as e:
         db.rollback()
         return JSONResponse(status_code=500, content={"error": str(e)})
+    finally:
+        db.close()
+
+@app.post("/api/inspector/query")
+async def run_sql_query(request: QueryRequest, user_id: str = Depends(get_current_user)):
+    db = SessionLocal()
+    try:
+        sql_query = request.query.strip()
+        
+        if not sql_query:
+            return JSONResponse(status_code=400, content={"error": "Query cannot be empty"})
+
+        is_admin = False 
+        
+        sql_upper = sql_query.upper()
+        forbidden_keywords = ["INSERT", "UPDATE", "DELETE", "DROP", "ALTER", "TRUNCATE", "GRANT", "CREATE"]
+        is_mutation = any(keyword in sql_upper for keyword in forbidden_keywords)
+        
+        if is_mutation and not is_admin:
+            return JSONResponse(
+                status_code=403, 
+                content={"error": "🔒 Permission Denied: You need Admin privileges to modify data."}
+            )
+        
+        result = db.execute(text(sql_query))
+        
+        if is_mutation:
+            db.commit()
+            return {"results": [{"Status": "Success", "Message": "Database modified successfully."}]}
+        else:
+            rows = result.mappings().all()
+            
+            formatted_rows = []
+            for row in rows:
+                row_dict = dict(row)
+                for key, value in row_dict.items():
+                    if isinstance(value, datetime):
+                        row_dict[key] = value.isoformat()
+                    elif isinstance(value, Decimal):
+                        row_dict[key] = float(value)
+                formatted_rows.append(row_dict)
+                
+            return {"results": formatted_rows}
+            
+    except Exception as e:
+        db.rollback()
+        return JSONResponse(status_code=400, content={"error": f"SQL Syntax Error: {str(e)}"})
     finally:
         db.close()
 

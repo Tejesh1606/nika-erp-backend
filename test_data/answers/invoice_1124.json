@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Thomas Ltd",
+    "invoice_number": "INV-96175",
+    "date": "2025-06-10",
+    "items": [
+        {
+            "description": "Down-sized multimedia support",
+            "quantity": 3,
+            "unit_price": 171.45,
+            "total_price": 514.35
+        },
+        {
+            "description": "Total needs-based customer loyalty",
+            "quantity": 2,
+            "unit_price": 215.47,
+            "total_price": 430.94
+        },
+        {
+            "description": "Phased mission-critical frame",
+            "quantity": 6,
+            "unit_price": 224.11,
+            "total_price": 1344.66
+        }
+    ],
+    "amount": 2289.95
+}

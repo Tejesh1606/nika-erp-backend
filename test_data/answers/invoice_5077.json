@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Montgomery-James",
+    "invoice_number": "INV-32006",
+    "date": "2025-12-06",
+    "items": [
+        {
+            "description": "Organized tertiary initiative",
+            "quantity": 2,
+            "unit_price": 19.24,
+            "total_price": 38.48
+        },
+        {
+            "description": "Ergonomic didactic open system",
+            "quantity": 5,
+            "unit_price": 359.4,
+            "total_price": 1797.0
+        },
+        {
+            "description": "Open-source motivating algorithm",
+            "quantity": 6,
+            "unit_price": 354.29,
+            "total_price": 2125.74
+        }
+    ],
+    "amount": 3961.22
+}

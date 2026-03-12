@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Smith, Wells and Black",
+    "invoice_number": "INV-61915",
+    "date": "2025-09-11",
+    "items": [
+        {
+            "description": "Universal modular open architecture",
+            "quantity": 2,
+            "unit_price": 110.21,
+            "total_price": 220.42
+        },
+        {
+            "description": "De-engineered dedicated artificial intelligence",
+            "quantity": 3,
+            "unit_price": 400.06,
+            "total_price": 1200.18
+        }
+    ],
+    "amount": 1420.6
+}

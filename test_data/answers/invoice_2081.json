@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Frost Inc",
+    "invoice_number": "INV-60635",
+    "date": "2025-07-26",
+    "items": [
+        {
+            "description": "Sharable needs-based emulation",
+            "quantity": 2,
+            "unit_price": 79.01,
+            "total_price": 158.02
+        },
+        {
+            "description": "Public-key leadingedge collaboration",
+            "quantity": 9,
+            "unit_price": 427.2,
+            "total_price": 3844.8
+        },
+        {
+            "description": "Synergistic methodical product",
+            "quantity": 2,
+            "unit_price": 460.35,
+            "total_price": 920.7
+        }
+    ],
+    "amount": 4923.52
+}

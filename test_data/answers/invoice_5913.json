@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Estes, Murray and Johnson",
+    "invoice_number": "INV-90155",
+    "date": "2025-11-01",
+    "items": [
+        {
+            "description": "Up-sized didactic extranet",
+            "quantity": 3,
+            "unit_price": 406.6,
+            "total_price": 1219.8
+        },
+        {
+            "description": "Open-architected next generation infrastructure",
+            "quantity": 4,
+            "unit_price": 61.15,
+            "total_price": 244.6
+        }
+    ],
+    "amount": 1464.4
+}

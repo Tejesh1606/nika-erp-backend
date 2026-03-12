@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Robertson-Trevino",
+    "invoice_number": "INV-20673",
+    "date": "2026-03-01",
+    "items": [
+        {
+            "description": "Customer-focused interactive standardization",
+            "quantity": 2,
+            "unit_price": 223.83,
+            "total_price": 447.66
+        }
+    ],
+    "amount": 447.66
+}

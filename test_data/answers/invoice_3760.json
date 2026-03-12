@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Bowers Ltd",
+    "invoice_number": "INV-87496",
+    "date": "2025-04-08",
+    "items": [
+        {
+            "description": "Upgradable stable matrix",
+            "quantity": 1,
+            "unit_price": 117.74,
+            "total_price": 117.74
+        }
+    ],
+    "amount": 117.74
+}

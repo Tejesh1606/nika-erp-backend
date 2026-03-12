@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Calderon-Rush",
+    "invoice_number": "INV-35499",
+    "date": "2026-02-04",
+    "items": [
+        {
+            "description": "Open-source even-keeled flexibility",
+            "quantity": 8,
+            "unit_price": 231.94,
+            "total_price": 1855.52
+        },
+        {
+            "description": "Proactive actuating concept",
+            "quantity": 2,
+            "unit_price": 420.06,
+            "total_price": 840.12
+        }
+    ],
+    "amount": 2695.64
+}

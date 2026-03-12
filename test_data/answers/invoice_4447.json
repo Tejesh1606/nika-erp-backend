@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Greer, Edwards and Spencer",
+    "invoice_number": "INV-41795",
+    "date": "2025-03-31",
+    "items": [
+        {
+            "description": "Fundamental methodical access",
+            "quantity": 4,
+            "unit_price": 409.69,
+            "total_price": 1638.76
+        },
+        {
+            "description": "De-engineered mobile projection",
+            "quantity": 6,
+            "unit_price": 246.36,
+            "total_price": 1478.16
+        },
+        {
+            "description": "Progressive object-oriented algorithm",
+            "quantity": 10,
+            "unit_price": 299.47,
+            "total_price": 2994.7
+        }
+    ],
+    "amount": 6111.62
+}

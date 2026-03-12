@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mcbride-Reyes",
+    "invoice_number": "INV-92656",
+    "date": "2026-02-02",
+    "items": [
+        {
+            "description": "Innovative impactful challenge",
+            "quantity": 1,
+            "unit_price": 438.12,
+            "total_price": 438.12
+        },
+        {
+            "description": "Quality-focused actuating groupware",
+            "quantity": 9,
+            "unit_price": 421.61,
+            "total_price": 3794.49
+        },
+        {
+            "description": "Managed actuating knowledge user",
+            "quantity": 1,
+            "unit_price": 197.02,
+            "total_price": 197.02
+        },
+        {
+            "description": "Organic even-keeled strategy",
+            "quantity": 10,
+            "unit_price": 341.26,
+            "total_price": 3412.6
+        }
+    ],
+    "amount": 7842.23
+}

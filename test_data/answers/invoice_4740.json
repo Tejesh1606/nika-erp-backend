@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Baker, White and Soto",
+    "invoice_number": "INV-66331",
+    "date": "2025-04-26",
+    "items": [
+        {
+            "description": "Public-key static interface",
+            "quantity": 3,
+            "unit_price": 427.44,
+            "total_price": 1282.32
+        },
+        {
+            "description": "User-friendly secondary ability",
+            "quantity": 1,
+            "unit_price": 90.05,
+            "total_price": 90.05
+        },
+        {
+            "description": "Proactive system-worthy migration",
+            "quantity": 5,
+            "unit_price": 136.28,
+            "total_price": 681.4
+        },
+        {
+            "description": "Configurable well-modulated encryption",
+            "quantity": 4,
+            "unit_price": 487.28,
+            "total_price": 1949.12
+        }
+    ],
+    "amount": 4002.89
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Morgan-Davis",
+    "invoice_number": "INV-50892",
+    "date": "2025-10-25",
+    "items": [
+        {
+            "description": "Multi-channeled transitional utilization",
+            "quantity": 6,
+            "unit_price": 344.92,
+            "total_price": 2069.52
+        },
+        {
+            "description": "Multi-layered composite process improvement",
+            "quantity": 6,
+            "unit_price": 27.39,
+            "total_price": 164.34
+        },
+        {
+            "description": "Optimized eco-centric encryption",
+            "quantity": 8,
+            "unit_price": 195.47,
+            "total_price": 1563.76
+        },
+        {
+            "description": "Self-enabling foreground challenge",
+            "quantity": 4,
+            "unit_price": 129.34,
+            "total_price": 517.36
+        }
+    ],
+    "amount": 4314.98
+}

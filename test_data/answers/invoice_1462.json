@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Gonzalez-Crawford",
+    "invoice_number": "INV-30750",
+    "date": "2025-07-04",
+    "items": [
+        {
+            "description": "Reactive even-keeled emulation",
+            "quantity": 10,
+            "unit_price": 454.82,
+            "total_price": 4548.2
+        },
+        {
+            "description": "Ergonomic mobile portal",
+            "quantity": 3,
+            "unit_price": 408.34,
+            "total_price": 1225.02
+        },
+        {
+            "description": "Up-sized modular Internet solution",
+            "quantity": 4,
+            "unit_price": 187.83,
+            "total_price": 751.32
+        }
+    ],
+    "amount": 6524.54
+}

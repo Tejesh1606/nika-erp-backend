@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wallace LLC",
+    "invoice_number": "INV-63555",
+    "date": "2025-07-13",
+    "items": [
+        {
+            "description": "Switchable didactic Graphic Interface",
+            "quantity": 5,
+            "unit_price": 76.07,
+            "total_price": 380.35
+        }
+    ],
+    "amount": 380.35
+}

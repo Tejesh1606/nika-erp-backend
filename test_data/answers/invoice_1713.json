@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Estrada Group",
+    "invoice_number": "INV-12366",
+    "date": "2025-10-30",
+    "items": [
+        {
+            "description": "Business-focused motivating hub",
+            "quantity": 1,
+            "unit_price": 107.08,
+            "total_price": 107.08
+        },
+        {
+            "description": "Re-contextualized optimal strategy",
+            "quantity": 7,
+            "unit_price": 58.69,
+            "total_price": 410.83
+        }
+    ],
+    "amount": 517.91
+}

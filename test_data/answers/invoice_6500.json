@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Williams-Bond",
+    "invoice_number": "INV-77366",
+    "date": "2025-05-10",
+    "items": [
+        {
+            "description": "Triple-buffered even-keeled concept",
+            "quantity": 1,
+            "unit_price": 252.44,
+            "total_price": 252.44
+        },
+        {
+            "description": "Reverse-engineered needs-based hierarchy",
+            "quantity": 6,
+            "unit_price": 386.8,
+            "total_price": 2320.8
+        },
+        {
+            "description": "User-friendly coherent methodology",
+            "quantity": 10,
+            "unit_price": 467.07,
+            "total_price": 4670.7
+        }
+    ],
+    "amount": 7243.94
+}

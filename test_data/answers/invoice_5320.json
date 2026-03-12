@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Arnold Group",
+    "invoice_number": "INV-40687",
+    "date": "2025-09-09",
+    "items": [
+        {
+            "description": "Extended scalable benchmark",
+            "quantity": 5,
+            "unit_price": 175.86,
+            "total_price": 879.3
+        },
+        {
+            "description": "Operative object-oriented utilization",
+            "quantity": 4,
+            "unit_price": 107.63,
+            "total_price": 430.52
+        },
+        {
+            "description": "Digitized local hardware",
+            "quantity": 9,
+            "unit_price": 21.19,
+            "total_price": 190.71
+        },
+        {
+            "description": "Seamless composite matrix",
+            "quantity": 7,
+            "unit_price": 442.49,
+            "total_price": 3097.43
+        }
+    ],
+    "amount": 4597.96
+}

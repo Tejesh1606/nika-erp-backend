@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Willis Group",
+    "invoice_number": "INV-35520",
+    "date": "2025-05-14",
+    "items": [
+        {
+            "description": "Up-sized cohesive data-warehouse",
+            "quantity": 7,
+            "unit_price": 166.2,
+            "total_price": 1163.4
+        },
+        {
+            "description": "Robust real-time middleware",
+            "quantity": 4,
+            "unit_price": 287.66,
+            "total_price": 1150.64
+        },
+        {
+            "description": "Digitized asynchronous encoding",
+            "quantity": 9,
+            "unit_price": 378.46,
+            "total_price": 3406.14
+        }
+    ],
+    "amount": 5720.18
+}

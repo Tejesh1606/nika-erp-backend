@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Schneider, Rivera and White",
+    "invoice_number": "INV-47751",
+    "date": "2026-01-18",
+    "items": [
+        {
+            "description": "Organized methodical core",
+            "quantity": 10,
+            "unit_price": 246.8,
+            "total_price": 2468.0
+        }
+    ],
+    "amount": 2468.0
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Palmer Inc",
+    "invoice_number": "INV-70822",
+    "date": "2025-08-27",
+    "items": [
+        {
+            "description": "Secured radical support",
+            "quantity": 7,
+            "unit_price": 27.04,
+            "total_price": 189.28
+        },
+        {
+            "description": "Profit-focused optimizing orchestration",
+            "quantity": 9,
+            "unit_price": 197.33,
+            "total_price": 1775.97
+        },
+        {
+            "description": "Digitized empowering initiative",
+            "quantity": 7,
+            "unit_price": 191.02,
+            "total_price": 1337.14
+        },
+        {
+            "description": "Re-engineered cohesive forecast",
+            "quantity": 2,
+            "unit_price": 439.62,
+            "total_price": 879.24
+        }
+    ],
+    "amount": 4181.63
+}

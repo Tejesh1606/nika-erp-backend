@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Pruitt-Oliver",
+    "invoice_number": "INV-71469",
+    "date": "2025-04-18",
+    "items": [
+        {
+            "description": "Synchronized web-enabled project",
+            "quantity": 1,
+            "unit_price": 414.19,
+            "total_price": 414.19
+        },
+        {
+            "description": "Multi-lateral high-level software",
+            "quantity": 8,
+            "unit_price": 214.91,
+            "total_price": 1719.28
+        },
+        {
+            "description": "Organic regional customer loyalty",
+            "quantity": 6,
+            "unit_price": 158.48,
+            "total_price": 950.88
+        },
+        {
+            "description": "Diverse zero administration matrix",
+            "quantity": 4,
+            "unit_price": 331.99,
+            "total_price": 1327.96
+        }
+    ],
+    "amount": 4412.31
+}

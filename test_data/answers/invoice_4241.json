@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wood Group",
+    "invoice_number": "INV-44240",
+    "date": "2025-06-27",
+    "items": [
+        {
+            "description": "Monitored systemic protocol",
+            "quantity": 5,
+            "unit_price": 391.66,
+            "total_price": 1958.3
+        }
+    ],
+    "amount": 1958.3
+}

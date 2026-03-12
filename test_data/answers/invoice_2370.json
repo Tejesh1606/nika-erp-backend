@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Harris-Frazier",
+    "invoice_number": "INV-32172",
+    "date": "2025-12-04",
+    "items": [
+        {
+            "description": "Profound system-worthy process improvement",
+            "quantity": 6,
+            "unit_price": 274.65,
+            "total_price": 1647.9
+        },
+        {
+            "description": "Profit-focused web-enabled matrices",
+            "quantity": 1,
+            "unit_price": 374.04,
+            "total_price": 374.04
+        },
+        {
+            "description": "Open-architected 4thgeneration support",
+            "quantity": 5,
+            "unit_price": 118.85,
+            "total_price": 594.25
+        },
+        {
+            "description": "Intuitive scalable Graphic Interface",
+            "quantity": 8,
+            "unit_price": 371.42,
+            "total_price": 2971.36
+        }
+    ],
+    "amount": 5587.55
+}

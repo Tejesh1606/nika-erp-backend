@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Matthews, Harper and Massey",
+    "invoice_number": "INV-90295",
+    "date": "2025-09-10",
+    "items": [
+        {
+            "description": "Robust dynamic protocol",
+            "quantity": 2,
+            "unit_price": 13.91,
+            "total_price": 27.82
+        },
+        {
+            "description": "Versatile zero tolerance toolset",
+            "quantity": 2,
+            "unit_price": 484.0,
+            "total_price": 968.0
+        },
+        {
+            "description": "Sharable directional system engine",
+            "quantity": 10,
+            "unit_price": 133.47,
+            "total_price": 1334.7
+        },
+        {
+            "description": "Seamless zero administration customer loyalty",
+            "quantity": 7,
+            "unit_price": 108.13,
+            "total_price": 756.91
+        }
+    ],
+    "amount": 3087.43
+}

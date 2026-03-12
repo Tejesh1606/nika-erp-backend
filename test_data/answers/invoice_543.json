@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Butler PLC",
+    "invoice_number": "INV-30021",
+    "date": "2025-08-21",
+    "items": [
+        {
+            "description": "Integrated real-time groupware",
+            "quantity": 5,
+            "unit_price": 412.57,
+            "total_price": 2062.85
+        },
+        {
+            "description": "Organized needs-based capacity",
+            "quantity": 4,
+            "unit_price": 297.72,
+            "total_price": 1190.88
+        }
+    ],
+    "amount": 3253.73
+}

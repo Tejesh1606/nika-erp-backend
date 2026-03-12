@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Alvarado Ltd",
+    "invoice_number": "INV-83922",
+    "date": "2025-10-05",
+    "items": [
+        {
+            "description": "Organized analyzing architecture",
+            "quantity": 8,
+            "unit_price": 206.02,
+            "total_price": 1648.16
+        },
+        {
+            "description": "Centralized reciprocal core",
+            "quantity": 8,
+            "unit_price": 132.22,
+            "total_price": 1057.76
+        }
+    ],
+    "amount": 2705.92
+}

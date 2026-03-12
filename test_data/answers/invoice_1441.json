@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Knight, Blackwell and Huerta",
+    "invoice_number": "INV-58492",
+    "date": "2025-04-04",
+    "items": [
+        {
+            "description": "Enhanced client-driven process improvement",
+            "quantity": 8,
+            "unit_price": 492.4,
+            "total_price": 3939.2
+        },
+        {
+            "description": "Innovative systematic infrastructure",
+            "quantity": 6,
+            "unit_price": 243.63,
+            "total_price": 1461.78
+        },
+        {
+            "description": "Distributed bifurcated utilization",
+            "quantity": 5,
+            "unit_price": 82.46,
+            "total_price": 412.3
+        }
+    ],
+    "amount": 5813.28
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Kelly, Velasquez and Boyd",
+    "invoice_number": "INV-70825",
+    "date": "2025-03-30",
+    "items": [
+        {
+            "description": "Visionary 24hour hardware",
+            "quantity": 10,
+            "unit_price": 399.15,
+            "total_price": 3991.5
+        },
+        {
+            "description": "Decentralized scalable capacity",
+            "quantity": 1,
+            "unit_price": 416.43,
+            "total_price": 416.43
+        },
+        {
+            "description": "Inverse discrete migration",
+            "quantity": 10,
+            "unit_price": 116.82,
+            "total_price": 1168.2
+        },
+        {
+            "description": "Streamlined actuating projection",
+            "quantity": 8,
+            "unit_price": 74.07,
+            "total_price": 592.56
+        }
+    ],
+    "amount": 6168.69
+}

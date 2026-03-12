@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Harper Group",
+    "invoice_number": "INV-42241",
+    "date": "2026-02-20",
+    "items": [
+        {
+            "description": "Front-line homogeneous approach",
+            "quantity": 5,
+            "unit_price": 487.83,
+            "total_price": 2439.15
+        },
+        {
+            "description": "De-engineered mobile core",
+            "quantity": 8,
+            "unit_price": 41.54,
+            "total_price": 332.32
+        },
+        {
+            "description": "Decentralized uniform groupware",
+            "quantity": 9,
+            "unit_price": 304.33,
+            "total_price": 2738.97
+        }
+    ],
+    "amount": 5510.44
+}

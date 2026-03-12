@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Weber Inc",
+    "invoice_number": "INV-85784",
+    "date": "2025-04-14",
+    "items": [
+        {
+            "description": "Reverse-engineered global flexibility",
+            "quantity": 10,
+            "unit_price": 490.34,
+            "total_price": 4903.4
+        },
+        {
+            "description": "Cloned non-volatile website",
+            "quantity": 9,
+            "unit_price": 34.72,
+            "total_price": 312.48
+        },
+        {
+            "description": "Progressive methodical interface",
+            "quantity": 5,
+            "unit_price": 184.35,
+            "total_price": 921.75
+        }
+    ],
+    "amount": 6137.63
+}

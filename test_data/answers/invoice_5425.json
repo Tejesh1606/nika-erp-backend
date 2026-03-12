@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Boyd Group",
+    "invoice_number": "INV-81138",
+    "date": "2025-08-28",
+    "items": [
+        {
+            "description": "Object-based asymmetric circuit",
+            "quantity": 5,
+            "unit_price": 172.31,
+            "total_price": 861.55
+        },
+        {
+            "description": "Team-oriented web-enabled open system",
+            "quantity": 8,
+            "unit_price": 224.6,
+            "total_price": 1796.8
+        }
+    ],
+    "amount": 2658.35
+}

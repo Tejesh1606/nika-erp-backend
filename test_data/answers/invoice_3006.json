@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Harris-Hall",
+    "invoice_number": "INV-99707",
+    "date": "2026-03-09",
+    "items": [
+        {
+            "description": "Vision-oriented disintermediate application",
+            "quantity": 7,
+            "unit_price": 209.3,
+            "total_price": 1465.1
+        },
+        {
+            "description": "Digitized didactic pricing structure",
+            "quantity": 10,
+            "unit_price": 177.26,
+            "total_price": 1772.6
+        },
+        {
+            "description": "Reverse-engineered discrete extranet",
+            "quantity": 3,
+            "unit_price": 277.83,
+            "total_price": 833.49
+        }
+    ],
+    "amount": 4071.19
+}

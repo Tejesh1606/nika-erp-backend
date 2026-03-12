@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Randolph, Mitchell and Ritter",
+    "invoice_number": "INV-80092",
+    "date": "2025-09-05",
+    "items": [
+        {
+            "description": "Optimized object-oriented success",
+            "quantity": 1,
+            "unit_price": 40.27,
+            "total_price": 40.27
+        },
+        {
+            "description": "Re-contextualized zero administration model",
+            "quantity": 5,
+            "unit_price": 54.75,
+            "total_price": 273.75
+        },
+        {
+            "description": "Fundamental cohesive implementation",
+            "quantity": 7,
+            "unit_price": 307.66,
+            "total_price": 2153.62
+        }
+    ],
+    "amount": 2467.64
+}

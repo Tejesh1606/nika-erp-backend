@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Carter, Hickman and Griffin",
+    "invoice_number": "INV-40498",
+    "date": "2026-01-06",
+    "items": [
+        {
+            "description": "Proactive motivating extranet",
+            "quantity": 8,
+            "unit_price": 382.42,
+            "total_price": 3059.36
+        }
+    ],
+    "amount": 3059.36
+}

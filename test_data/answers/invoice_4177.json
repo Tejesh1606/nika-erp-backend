@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Payne Ltd",
+    "invoice_number": "INV-33243",
+    "date": "2025-10-31",
+    "items": [
+        {
+            "description": "Face-to-face disintermediate help-desk",
+            "quantity": 8,
+            "unit_price": 389.39,
+            "total_price": 3115.12
+        },
+        {
+            "description": "Digitized needs-based intranet",
+            "quantity": 2,
+            "unit_price": 444.23,
+            "total_price": 888.46
+        }
+    ],
+    "amount": 4003.58
+}

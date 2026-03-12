@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Blackburn, Castillo and Huber",
+    "invoice_number": "INV-72752",
+    "date": "2025-11-19",
+    "items": [
+        {
+            "description": "Integrated human-resource matrices",
+            "quantity": 3,
+            "unit_price": 66.2,
+            "total_price": 198.6
+        },
+        {
+            "description": "Self-enabling contextually-based info-mediaries",
+            "quantity": 1,
+            "unit_price": 469.7,
+            "total_price": 469.7
+        },
+        {
+            "description": "Right-sized multimedia installation",
+            "quantity": 10,
+            "unit_price": 40.05,
+            "total_price": 400.5
+        }
+    ],
+    "amount": 1068.8
+}

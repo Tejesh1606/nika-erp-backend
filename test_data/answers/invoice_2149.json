@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jackson-Silva",
+    "invoice_number": "INV-50012",
+    "date": "2025-05-14",
+    "items": [
+        {
+            "description": "Synergized grid-enabled challenge",
+            "quantity": 3,
+            "unit_price": 345.47,
+            "total_price": 1036.41
+        },
+        {
+            "description": "Universal foreground attitude",
+            "quantity": 10,
+            "unit_price": 44.81,
+            "total_price": 448.1
+        },
+        {
+            "description": "Open-architected bifurcated middleware",
+            "quantity": 8,
+            "unit_price": 14.02,
+            "total_price": 112.16
+        }
+    ],
+    "amount": 1596.67
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Watkins-Mclean",
+    "invoice_number": "INV-21668",
+    "date": "2025-08-19",
+    "items": [
+        {
+            "description": "Exclusive human-resource hardware",
+            "quantity": 4,
+            "unit_price": 129.58,
+            "total_price": 518.32
+        }
+    ],
+    "amount": 518.32
+}

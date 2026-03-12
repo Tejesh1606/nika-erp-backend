@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lee and Sons",
+    "invoice_number": "INV-50703",
+    "date": "2025-09-05",
+    "items": [
+        {
+            "description": "Pre-emptive next generation Internet solution",
+            "quantity": 8,
+            "unit_price": 468.21,
+            "total_price": 3745.68
+        },
+        {
+            "description": "Optimized secondary alliance",
+            "quantity": 1,
+            "unit_price": 176.96,
+            "total_price": 176.96
+        },
+        {
+            "description": "Exclusive cohesive flexibility",
+            "quantity": 4,
+            "unit_price": 62.78,
+            "total_price": 251.12
+        }
+    ],
+    "amount": 4173.76
+}

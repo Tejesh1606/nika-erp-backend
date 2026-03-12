@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hale, Rose and Williams",
+    "invoice_number": "INV-21689",
+    "date": "2025-07-06",
+    "items": [
+        {
+            "description": "Reverse-engineered value-added orchestration",
+            "quantity": 4,
+            "unit_price": 251.26,
+            "total_price": 1005.04
+        }
+    ],
+    "amount": 1005.04
+}

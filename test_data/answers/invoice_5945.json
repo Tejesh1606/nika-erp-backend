@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mckee Ltd",
+    "invoice_number": "INV-85555",
+    "date": "2025-05-20",
+    "items": [
+        {
+            "description": "Visionary motivating framework",
+            "quantity": 6,
+            "unit_price": 364.89,
+            "total_price": 2189.34
+        },
+        {
+            "description": "Devolved maximized implementation",
+            "quantity": 8,
+            "unit_price": 287.08,
+            "total_price": 2296.64
+        },
+        {
+            "description": "Pre-emptive logistical focus group",
+            "quantity": 6,
+            "unit_price": 330.6,
+            "total_price": 1983.6
+        },
+        {
+            "description": "Customer-focused intermediate Graphical User Interface",
+            "quantity": 4,
+            "unit_price": 152.86,
+            "total_price": 611.44
+        }
+    ],
+    "amount": 7081.02
+}

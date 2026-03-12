@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Kim, Hart and Gates",
+    "invoice_number": "INV-15072",
+    "date": "2026-02-20",
+    "items": [
+        {
+            "description": "Intuitive bi-directional extranet",
+            "quantity": 2,
+            "unit_price": 126.92,
+            "total_price": 253.84
+        }
+    ],
+    "amount": 253.84
+}

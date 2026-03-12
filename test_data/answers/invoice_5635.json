@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Parker Ltd",
+    "invoice_number": "INV-68146",
+    "date": "2025-12-24",
+    "items": [
+        {
+            "description": "Balanced grid-enabled array",
+            "quantity": 4,
+            "unit_price": 154.12,
+            "total_price": 616.48
+        },
+        {
+            "description": "Advanced secondary task-force",
+            "quantity": 7,
+            "unit_price": 339.39,
+            "total_price": 2375.73
+        },
+        {
+            "description": "User-centric transitional extranet",
+            "quantity": 8,
+            "unit_price": 236.98,
+            "total_price": 1895.84
+        },
+        {
+            "description": "Phased discrete ability",
+            "quantity": 9,
+            "unit_price": 108.91,
+            "total_price": 980.19
+        }
+    ],
+    "amount": 5868.24
+}

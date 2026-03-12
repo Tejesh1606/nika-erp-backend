@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Robles LLC",
+    "invoice_number": "INV-62898",
+    "date": "2025-09-25",
+    "items": [
+        {
+            "description": "Function-based optimal methodology",
+            "quantity": 6,
+            "unit_price": 143.43,
+            "total_price": 860.58
+        },
+        {
+            "description": "Synergistic multi-tasking Graphic Interface",
+            "quantity": 8,
+            "unit_price": 267.79,
+            "total_price": 2142.32
+        },
+        {
+            "description": "Centralized system-worthy knowledge user",
+            "quantity": 9,
+            "unit_price": 178.71,
+            "total_price": 1608.39
+        },
+        {
+            "description": "Programmable secondary Internet solution",
+            "quantity": 2,
+            "unit_price": 436.37,
+            "total_price": 872.74
+        }
+    ],
+    "amount": 5484.03
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mason, Hickman and Nolan",
+    "invoice_number": "INV-63838",
+    "date": "2025-12-09",
+    "items": [
+        {
+            "description": "Expanded contextually-based matrix",
+            "quantity": 8,
+            "unit_price": 347.68,
+            "total_price": 2781.44
+        },
+        {
+            "description": "Synchronized optimizing solution",
+            "quantity": 3,
+            "unit_price": 27.88,
+            "total_price": 83.64
+        },
+        {
+            "description": "Universal actuating time-frame",
+            "quantity": 10,
+            "unit_price": 372.63,
+            "total_price": 3726.3
+        },
+        {
+            "description": "Grass-roots clear-thinking database",
+            "quantity": 2,
+            "unit_price": 240.09,
+            "total_price": 480.18
+        }
+    ],
+    "amount": 7071.56
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Taylor-Goodwin",
+    "invoice_number": "INV-34895",
+    "date": "2025-05-30",
+    "items": [
+        {
+            "description": "Progressive 4thgeneration budgetary management",
+            "quantity": 5,
+            "unit_price": 353.65,
+            "total_price": 1768.25
+        },
+        {
+            "description": "Synchronized actuating task-force",
+            "quantity": 3,
+            "unit_price": 146.18,
+            "total_price": 438.54
+        }
+    ],
+    "amount": 2206.79
+}

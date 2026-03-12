@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Ortiz-Harvey",
+    "invoice_number": "INV-99205",
+    "date": "2025-04-28",
+    "items": [
+        {
+            "description": "Organic high-level migration",
+            "quantity": 4,
+            "unit_price": 106.72,
+            "total_price": 426.88
+        },
+        {
+            "description": "Secured foreground hub",
+            "quantity": 9,
+            "unit_price": 333.46,
+            "total_price": 3001.14
+        },
+        {
+            "description": "Configurable systemic installation",
+            "quantity": 1,
+            "unit_price": 148.22,
+            "total_price": 148.22
+        },
+        {
+            "description": "Profit-focused local firmware",
+            "quantity": 8,
+            "unit_price": 390.57,
+            "total_price": 3124.56
+        }
+    ],
+    "amount": 6700.8
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Webb-Thomas",
+    "invoice_number": "INV-15337",
+    "date": "2025-06-20",
+    "items": [
+        {
+            "description": "Networked tangible Graphical User Interface",
+            "quantity": 3,
+            "unit_price": 418.2,
+            "total_price": 1254.6
+        },
+        {
+            "description": "Profit-focused directional infrastructure",
+            "quantity": 10,
+            "unit_price": 334.11,
+            "total_price": 3341.1
+        }
+    ],
+    "amount": 4595.7
+}

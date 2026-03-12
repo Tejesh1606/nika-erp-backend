@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Rice LLC",
+    "invoice_number": "INV-86898",
+    "date": "2026-01-14",
+    "items": [
+        {
+            "description": "Operative national adapter",
+            "quantity": 4,
+            "unit_price": 289.99,
+            "total_price": 1159.96
+        }
+    ],
+    "amount": 1159.96
+}

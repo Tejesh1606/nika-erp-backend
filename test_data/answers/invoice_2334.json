@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gomez-Howard",
+    "invoice_number": "INV-90938",
+    "date": "2025-03-31",
+    "items": [
+        {
+            "description": "Down-sized global Local Area Network",
+            "quantity": 5,
+            "unit_price": 456.02,
+            "total_price": 2280.1
+        }
+    ],
+    "amount": 2280.1
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Terrell-Richardson",
+    "invoice_number": "INV-99871",
+    "date": "2026-02-28",
+    "items": [
+        {
+            "description": "Total heuristic secured line",
+            "quantity": 9,
+            "unit_price": 345.84,
+            "total_price": 3112.56
+        },
+        {
+            "description": "Re-engineered background analyzer",
+            "quantity": 7,
+            "unit_price": 19.33,
+            "total_price": 135.31
+        }
+    ],
+    "amount": 3247.87
+}

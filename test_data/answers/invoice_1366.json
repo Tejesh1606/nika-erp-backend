@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Richmond LLC",
+    "invoice_number": "INV-28407",
+    "date": "2026-02-18",
+    "items": [
+        {
+            "description": "Open-architected bottom-line success",
+            "quantity": 9,
+            "unit_price": 289.6,
+            "total_price": 2606.4
+        },
+        {
+            "description": "User-centric optimal service-desk",
+            "quantity": 2,
+            "unit_price": 381.72,
+            "total_price": 763.44
+        },
+        {
+            "description": "Distributed demand-driven intranet",
+            "quantity": 2,
+            "unit_price": 467.15,
+            "total_price": 934.3
+        },
+        {
+            "description": "Digitized systematic focus group",
+            "quantity": 6,
+            "unit_price": 57.7,
+            "total_price": 346.2
+        }
+    ],
+    "amount": 4650.34
+}

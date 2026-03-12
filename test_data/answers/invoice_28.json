@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Stewart-Walton",
+    "invoice_number": "INV-19508",
+    "date": "2025-03-12",
+    "items": [
+        {
+            "description": "Persevering regional open system",
+            "quantity": 10,
+            "unit_price": 319.78,
+            "total_price": 3197.8
+        }
+    ],
+    "amount": 3197.8
+}

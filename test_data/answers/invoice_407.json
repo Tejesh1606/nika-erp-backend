@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Chavez-Anderson",
+    "invoice_number": "INV-64099",
+    "date": "2025-10-28",
+    "items": [
+        {
+            "description": "Total value-added migration",
+            "quantity": 5,
+            "unit_price": 340.06,
+            "total_price": 1700.3
+        }
+    ],
+    "amount": 1700.3
+}

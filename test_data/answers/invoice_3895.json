@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Allen-Griffin",
+    "invoice_number": "INV-50568",
+    "date": "2025-10-30",
+    "items": [
+        {
+            "description": "Customer-focused client-server website",
+            "quantity": 5,
+            "unit_price": 276.65,
+            "total_price": 1383.25
+        },
+        {
+            "description": "Cloned multi-state matrix",
+            "quantity": 1,
+            "unit_price": 93.91,
+            "total_price": 93.91
+        }
+    ],
+    "amount": 1477.16
+}

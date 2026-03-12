@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Green-Pena",
+    "invoice_number": "INV-85356",
+    "date": "2025-12-15",
+    "items": [
+        {
+            "description": "Sharable logistical conglomeration",
+            "quantity": 6,
+            "unit_price": 58.9,
+            "total_price": 353.4
+        },
+        {
+            "description": "Open-architected zero-defect emulation",
+            "quantity": 9,
+            "unit_price": 13.56,
+            "total_price": 122.04
+        },
+        {
+            "description": "Cross-platform solution-oriented groupware",
+            "quantity": 4,
+            "unit_price": 407.34,
+            "total_price": 1629.36
+        },
+        {
+            "description": "Business-focused multimedia archive",
+            "quantity": 4,
+            "unit_price": 153.35,
+            "total_price": 613.4
+        }
+    ],
+    "amount": 2718.2
+}

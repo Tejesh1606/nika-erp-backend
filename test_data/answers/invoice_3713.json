@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Delgado-James",
+    "invoice_number": "INV-86390",
+    "date": "2025-04-17",
+    "items": [
+        {
+            "description": "Devolved bottom-line adapter",
+            "quantity": 4,
+            "unit_price": 133.71,
+            "total_price": 534.84
+        },
+        {
+            "description": "Function-based 4thgeneration Local Area Network",
+            "quantity": 3,
+            "unit_price": 201.33,
+            "total_price": 603.99
+        }
+    ],
+    "amount": 1138.83
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rogers Group",
+    "invoice_number": "INV-79926",
+    "date": "2025-06-13",
+    "items": [
+        {
+            "description": "Streamlined 4thgeneration process improvement",
+            "quantity": 9,
+            "unit_price": 499.66,
+            "total_price": 4496.94
+        },
+        {
+            "description": "User-centric high-level encoding",
+            "quantity": 3,
+            "unit_price": 383.74,
+            "total_price": 1151.22
+        },
+        {
+            "description": "Upgradable asynchronous synergy",
+            "quantity": 8,
+            "unit_price": 201.59,
+            "total_price": 1612.72
+        },
+        {
+            "description": "Enterprise-wide cohesive hierarchy",
+            "quantity": 4,
+            "unit_price": 157.55,
+            "total_price": 630.2
+        }
+    ],
+    "amount": 7891.08
+}

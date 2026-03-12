@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lynn PLC",
+    "invoice_number": "INV-28290",
+    "date": "2025-04-28",
+    "items": [
+        {
+            "description": "Switchable full-range toolset",
+            "quantity": 9,
+            "unit_price": 54.29,
+            "total_price": 488.61
+        }
+    ],
+    "amount": 488.61
+}

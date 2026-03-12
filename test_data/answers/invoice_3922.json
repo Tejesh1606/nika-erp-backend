@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gibbs-Harris",
+    "invoice_number": "INV-63427",
+    "date": "2025-04-07",
+    "items": [
+        {
+            "description": "Cloned multi-tasking policy",
+            "quantity": 8,
+            "unit_price": 383.26,
+            "total_price": 3066.08
+        }
+    ],
+    "amount": 3066.08
+}

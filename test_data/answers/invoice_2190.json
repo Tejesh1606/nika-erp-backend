@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Sanford, Gillespie and Hudson",
+    "invoice_number": "INV-32692",
+    "date": "2025-09-21",
+    "items": [
+        {
+            "description": "Public-key well-modulated focus group",
+            "quantity": 3,
+            "unit_price": 451.61,
+            "total_price": 1354.83
+        }
+    ],
+    "amount": 1354.83
+}

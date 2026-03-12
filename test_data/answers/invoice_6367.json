@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Stein, Williamson and Barton",
+    "invoice_number": "INV-55116",
+    "date": "2025-04-22",
+    "items": [
+        {
+            "description": "Cross-group mobile functionalities",
+            "quantity": 6,
+            "unit_price": 307.08,
+            "total_price": 1842.48
+        },
+        {
+            "description": "Operative didactic website",
+            "quantity": 10,
+            "unit_price": 56.64,
+            "total_price": 566.4
+        }
+    ],
+    "amount": 2408.88
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Harris and Sons",
+    "invoice_number": "INV-58290",
+    "date": "2025-11-01",
+    "items": [
+        {
+            "description": "Phased foreground paradigm",
+            "quantity": 5,
+            "unit_price": 417.22,
+            "total_price": 2086.1
+        },
+        {
+            "description": "Synchronized needs-based adapter",
+            "quantity": 9,
+            "unit_price": 481.34,
+            "total_price": 4332.06
+        },
+        {
+            "description": "Re-engineered hybrid workforce",
+            "quantity": 7,
+            "unit_price": 329.24,
+            "total_price": 2304.68
+        }
+    ],
+    "amount": 8722.84
+}

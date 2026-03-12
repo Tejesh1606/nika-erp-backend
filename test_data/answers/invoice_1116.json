@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Martinez-Daniels",
+    "invoice_number": "INV-84130",
+    "date": "2026-02-12",
+    "items": [
+        {
+            "description": "Implemented actuating system engine",
+            "quantity": 6,
+            "unit_price": 388.96,
+            "total_price": 2333.76
+        }
+    ],
+    "amount": 2333.76
+}

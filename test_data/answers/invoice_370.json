@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Johnson, Jimenez and Phillips",
+    "invoice_number": "INV-64862",
+    "date": "2025-08-13",
+    "items": [
+        {
+            "description": "Networked user-facing alliance",
+            "quantity": 1,
+            "unit_price": 150.31,
+            "total_price": 150.31
+        }
+    ],
+    "amount": 150.31
+}

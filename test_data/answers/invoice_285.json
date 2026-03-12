@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Roberts, Norman and Cunningham",
+    "invoice_number": "INV-74921",
+    "date": "2025-10-08",
+    "items": [
+        {
+            "description": "Profound bifurcated orchestration",
+            "quantity": 7,
+            "unit_price": 487.5,
+            "total_price": 3412.5
+        },
+        {
+            "description": "Customizable encompassing time-frame",
+            "quantity": 8,
+            "unit_price": 112.77,
+            "total_price": 902.16
+        },
+        {
+            "description": "Quality-focused high-level moratorium",
+            "quantity": 7,
+            "unit_price": 395.84,
+            "total_price": 2770.88
+        }
+    ],
+    "amount": 7085.54
+}

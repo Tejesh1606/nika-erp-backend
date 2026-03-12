@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Randolph Inc",
+    "invoice_number": "INV-40539",
+    "date": "2025-10-05",
+    "items": [
+        {
+            "description": "Monitored scalable solution",
+            "quantity": 7,
+            "unit_price": 241.11,
+            "total_price": 1687.77
+        },
+        {
+            "description": "Advanced full-range ability",
+            "quantity": 5,
+            "unit_price": 418.93,
+            "total_price": 2094.65
+        },
+        {
+            "description": "Virtual stable implementation",
+            "quantity": 4,
+            "unit_price": 395.42,
+            "total_price": 1581.68
+        },
+        {
+            "description": "User-centric upward-trending function",
+            "quantity": 5,
+            "unit_price": 175.41,
+            "total_price": 877.05
+        }
+    ],
+    "amount": 6241.15
+}

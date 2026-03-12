@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Carter, Flores and Steele",
+    "invoice_number": "INV-73010",
+    "date": "2025-11-17",
+    "items": [
+        {
+            "description": "Profit-focused human-resource customer loyalty",
+            "quantity": 4,
+            "unit_price": 276.71,
+            "total_price": 1106.84
+        }
+    ],
+    "amount": 1106.84
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gibson-Schneider",
+    "invoice_number": "INV-74414",
+    "date": "2026-02-24",
+    "items": [
+        {
+            "description": "Persevering multi-tasking monitoring",
+            "quantity": 10,
+            "unit_price": 144.63,
+            "total_price": 1446.3
+        },
+        {
+            "description": "Secured composite archive",
+            "quantity": 9,
+            "unit_price": 291.05,
+            "total_price": 2619.45
+        }
+    ],
+    "amount": 4065.75
+}

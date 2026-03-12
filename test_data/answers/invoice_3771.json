@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Walton-Ross",
+    "invoice_number": "INV-58816",
+    "date": "2026-01-20",
+    "items": [
+        {
+            "description": "Phased uniform Internet solution",
+            "quantity": 3,
+            "unit_price": 433.67,
+            "total_price": 1301.01
+        },
+        {
+            "description": "Networked impactful extranet",
+            "quantity": 8,
+            "unit_price": 489.06,
+            "total_price": 3912.48
+        }
+    ],
+    "amount": 5213.49
+}

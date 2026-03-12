@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Miller Ltd",
+    "invoice_number": "INV-61725",
+    "date": "2025-07-18",
+    "items": [
+        {
+            "description": "Total zero-defect toolset",
+            "quantity": 8,
+            "unit_price": 204.0,
+            "total_price": 1632.0
+        },
+        {
+            "description": "Cloned interactive ability",
+            "quantity": 8,
+            "unit_price": 159.62,
+            "total_price": 1276.96
+        },
+        {
+            "description": "Quality-focused impactful conglomeration",
+            "quantity": 4,
+            "unit_price": 61.79,
+            "total_price": 247.16
+        }
+    ],
+    "amount": 3156.12
+}

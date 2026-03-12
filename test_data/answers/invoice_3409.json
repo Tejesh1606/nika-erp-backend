@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jefferson, Mann and Potter",
+    "invoice_number": "INV-83203",
+    "date": "2026-02-24",
+    "items": [
+        {
+            "description": "Universal zero tolerance hierarchy",
+            "quantity": 9,
+            "unit_price": 104.31,
+            "total_price": 938.79
+        },
+        {
+            "description": "Ameliorated mobile standardization",
+            "quantity": 10,
+            "unit_price": 20.61,
+            "total_price": 206.1
+        },
+        {
+            "description": "Cross-platform radical interface",
+            "quantity": 10,
+            "unit_price": 125.45,
+            "total_price": 1254.5
+        },
+        {
+            "description": "Configurable coherent parallelism",
+            "quantity": 6,
+            "unit_price": 381.38,
+            "total_price": 2288.28
+        }
+    ],
+    "amount": 4687.67
+}

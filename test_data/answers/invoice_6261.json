@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Webster and Sons",
+    "invoice_number": "INV-35914",
+    "date": "2025-11-25",
+    "items": [
+        {
+            "description": "Upgradable multi-state firmware",
+            "quantity": 6,
+            "unit_price": 354.57,
+            "total_price": 2127.42
+        },
+        {
+            "description": "Assimilated regional orchestration",
+            "quantity": 2,
+            "unit_price": 298.77,
+            "total_price": 597.54
+        },
+        {
+            "description": "Universal bottom-line contingency",
+            "quantity": 10,
+            "unit_price": 362.98,
+            "total_price": 3629.8
+        }
+    ],
+    "amount": 6354.76
+}

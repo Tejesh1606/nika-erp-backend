@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Collins, Bauer and Mckay",
+    "invoice_number": "INV-73941",
+    "date": "2025-08-24",
+    "items": [
+        {
+            "description": "Organized interactive policy",
+            "quantity": 3,
+            "unit_price": 358.53,
+            "total_price": 1075.59
+        }
+    ],
+    "amount": 1075.59
+}

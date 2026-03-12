@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Peters, Conway and Davis",
+    "invoice_number": "INV-31965",
+    "date": "2025-05-29",
+    "items": [
+        {
+            "description": "User-friendly cohesive adapter",
+            "quantity": 3,
+            "unit_price": 61.77,
+            "total_price": 185.31
+        },
+        {
+            "description": "Expanded intermediate implementation",
+            "quantity": 9,
+            "unit_price": 178.66,
+            "total_price": 1607.94
+        }
+    ],
+    "amount": 1793.25
+}

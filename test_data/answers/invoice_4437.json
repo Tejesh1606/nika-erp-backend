@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jackson, Williams and Valdez",
+    "invoice_number": "INV-41582",
+    "date": "2025-09-02",
+    "items": [
+        {
+            "description": "Centralized directional hub",
+            "quantity": 6,
+            "unit_price": 16.38,
+            "total_price": 98.28
+        },
+        {
+            "description": "Mandatory regional help-desk",
+            "quantity": 10,
+            "unit_price": 160.98,
+            "total_price": 1609.8
+        },
+        {
+            "description": "Secured bi-directional functionalities",
+            "quantity": 8,
+            "unit_price": 123.72,
+            "total_price": 989.76
+        }
+    ],
+    "amount": 2697.84
+}

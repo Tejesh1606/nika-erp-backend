@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mitchell-Martin",
+    "invoice_number": "INV-37250",
+    "date": "2025-05-31",
+    "items": [
+        {
+            "description": "Innovative high-level orchestration",
+            "quantity": 7,
+            "unit_price": 23.92,
+            "total_price": 167.44
+        },
+        {
+            "description": "Universal grid-enabled open architecture",
+            "quantity": 8,
+            "unit_price": 88.74,
+            "total_price": 709.92
+        }
+    ],
+    "amount": 877.36
+}

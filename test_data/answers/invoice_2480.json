@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jones, Camacho and Garcia",
+    "invoice_number": "INV-90729",
+    "date": "2025-06-28",
+    "items": [
+        {
+            "description": "Realigned global emulation",
+            "quantity": 2,
+            "unit_price": 219.2,
+            "total_price": 438.4
+        }
+    ],
+    "amount": 438.4
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Decker-Brown",
+    "invoice_number": "INV-39321",
+    "date": "2025-05-18",
+    "items": [
+        {
+            "description": "Down-sized multi-tasking functionalities",
+            "quantity": 3,
+            "unit_price": 83.82,
+            "total_price": 251.46
+        },
+        {
+            "description": "Multi-channeled incremental definition",
+            "quantity": 5,
+            "unit_price": 405.54,
+            "total_price": 2027.7
+        },
+        {
+            "description": "Focused interactive installation",
+            "quantity": 3,
+            "unit_price": 127.6,
+            "total_price": 382.8
+        },
+        {
+            "description": "Switchable 24hour contingency",
+            "quantity": 6,
+            "unit_price": 207.63,
+            "total_price": 1245.78
+        }
+    ],
+    "amount": 3907.74
+}

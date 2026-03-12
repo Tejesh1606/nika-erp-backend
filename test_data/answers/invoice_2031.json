@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Dodson, Barton and Delgado",
+    "invoice_number": "INV-52461",
+    "date": "2025-05-05",
+    "items": [
+        {
+            "description": "Advanced stable archive",
+            "quantity": 6,
+            "unit_price": 412.29,
+            "total_price": 2473.74
+        },
+        {
+            "description": "Face-to-face zero-defect info-mediaries",
+            "quantity": 9,
+            "unit_price": 393.0,
+            "total_price": 3537.0
+        },
+        {
+            "description": "Enhanced impactful protocol",
+            "quantity": 9,
+            "unit_price": 299.63,
+            "total_price": 2696.67
+        }
+    ],
+    "amount": 8707.41
+}

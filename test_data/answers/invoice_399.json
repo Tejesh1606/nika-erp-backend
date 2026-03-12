@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gutierrez-Hawkins",
+    "invoice_number": "INV-10022",
+    "date": "2026-01-23",
+    "items": [
+        {
+            "description": "Cross-group real-time process improvement",
+            "quantity": 9,
+            "unit_price": 282.05,
+            "total_price": 2538.45
+        },
+        {
+            "description": "Sharable exuding migration",
+            "quantity": 6,
+            "unit_price": 35.49,
+            "total_price": 212.94
+        }
+    ],
+    "amount": 2751.39
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Fleming-Russell",
+    "invoice_number": "INV-35556",
+    "date": "2025-09-06",
+    "items": [
+        {
+            "description": "Adaptive bifurcated focus group",
+            "quantity": 10,
+            "unit_price": 227.37,
+            "total_price": 2273.7
+        },
+        {
+            "description": "Centralized secondary analyzer",
+            "quantity": 7,
+            "unit_price": 194.21,
+            "total_price": 1359.47
+        },
+        {
+            "description": "Virtual responsive standardization",
+            "quantity": 4,
+            "unit_price": 400.79,
+            "total_price": 1603.16
+        }
+    ],
+    "amount": 5236.33
+}

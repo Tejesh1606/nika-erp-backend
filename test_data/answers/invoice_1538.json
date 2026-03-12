@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Santiago-Lopez",
+    "invoice_number": "INV-90354",
+    "date": "2026-02-17",
+    "items": [
+        {
+            "description": "Devolved zero administration solution",
+            "quantity": 10,
+            "unit_price": 55.14,
+            "total_price": 551.4
+        },
+        {
+            "description": "Implemented content-based software",
+            "quantity": 5,
+            "unit_price": 391.5,
+            "total_price": 1957.5
+        },
+        {
+            "description": "Synergized high-level structure",
+            "quantity": 6,
+            "unit_price": 267.34,
+            "total_price": 1604.04
+        }
+    ],
+    "amount": 4112.94
+}

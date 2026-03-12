@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Frazier Inc",
+    "invoice_number": "INV-99353",
+    "date": "2026-02-15",
+    "items": [
+        {
+            "description": "Public-key web-enabled flexibility",
+            "quantity": 5,
+            "unit_price": 219.42,
+            "total_price": 1097.1
+        },
+        {
+            "description": "Visionary secondary Graphical User Interface",
+            "quantity": 9,
+            "unit_price": 391.36,
+            "total_price": 3522.24
+        },
+        {
+            "description": "Customizable explicit Internet solution",
+            "quantity": 10,
+            "unit_price": 221.51,
+            "total_price": 2215.1
+        },
+        {
+            "description": "Diverse logistical ability",
+            "quantity": 3,
+            "unit_price": 75.67,
+            "total_price": 227.01
+        }
+    ],
+    "amount": 7061.45
+}

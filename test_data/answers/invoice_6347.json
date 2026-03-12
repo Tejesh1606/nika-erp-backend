@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Davidson and Sons",
+    "invoice_number": "INV-85915",
+    "date": "2025-11-12",
+    "items": [
+        {
+            "description": "Streamlined motivating artificial intelligence",
+            "quantity": 1,
+            "unit_price": 388.8,
+            "total_price": 388.8
+        },
+        {
+            "description": "Mandatory multi-tasking product",
+            "quantity": 1,
+            "unit_price": 119.25,
+            "total_price": 119.25
+        },
+        {
+            "description": "Profound dynamic complexity",
+            "quantity": 3,
+            "unit_price": 121.69,
+            "total_price": 365.07
+        },
+        {
+            "description": "Distributed holistic matrix",
+            "quantity": 4,
+            "unit_price": 468.16,
+            "total_price": 1872.64
+        }
+    ],
+    "amount": 2745.76
+}

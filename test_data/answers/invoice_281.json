@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wilson-Brooks",
+    "invoice_number": "INV-28528",
+    "date": "2025-09-23",
+    "items": [
+        {
+            "description": "Networked intangible policy",
+            "quantity": 8,
+            "unit_price": 313.84,
+            "total_price": 2510.72
+        },
+        {
+            "description": "Devolved object-oriented info-mediaries",
+            "quantity": 10,
+            "unit_price": 337.2,
+            "total_price": 3372.0
+        },
+        {
+            "description": "Optimized contextually-based matrix",
+            "quantity": 3,
+            "unit_price": 41.51,
+            "total_price": 124.53
+        }
+    ],
+    "amount": 6007.25
+}

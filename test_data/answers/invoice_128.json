@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jones-Decker",
+    "invoice_number": "INV-22219",
+    "date": "2025-08-23",
+    "items": [
+        {
+            "description": "Cross-platform value-added support",
+            "quantity": 4,
+            "unit_price": 215.99,
+            "total_price": 863.96
+        }
+    ],
+    "amount": 863.96
+}

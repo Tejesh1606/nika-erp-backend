@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Davis LLC",
+    "invoice_number": "INV-32298",
+    "date": "2025-10-15",
+    "items": [
+        {
+            "description": "Decentralized 24/7 structure",
+            "quantity": 1,
+            "unit_price": 472.48,
+            "total_price": 472.48
+        },
+        {
+            "description": "Progressive intermediate throughput",
+            "quantity": 6,
+            "unit_price": 248.14,
+            "total_price": 1488.84
+        },
+        {
+            "description": "Persevering systematic methodology",
+            "quantity": 4,
+            "unit_price": 342.29,
+            "total_price": 1369.16
+        }
+    ],
+    "amount": 3330.48
+}

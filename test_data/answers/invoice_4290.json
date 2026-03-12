@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ruiz-Jimenez",
+    "invoice_number": "INV-35119",
+    "date": "2025-05-06",
+    "items": [
+        {
+            "description": "De-engineered transitional methodology",
+            "quantity": 2,
+            "unit_price": 498.08,
+            "total_price": 996.16
+        }
+    ],
+    "amount": 996.16
+}

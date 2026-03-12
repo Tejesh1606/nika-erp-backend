@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rodriguez, Myers and Davenport",
+    "invoice_number": "INV-87709",
+    "date": "2026-02-11",
+    "items": [
+        {
+            "description": "Inverse fault-tolerant Graphical User Interface",
+            "quantity": 5,
+            "unit_price": 25.38,
+            "total_price": 126.9
+        },
+        {
+            "description": "Integrated uniform encryption",
+            "quantity": 8,
+            "unit_price": 284.78,
+            "total_price": 2278.24
+        },
+        {
+            "description": "Automated actuating attitude",
+            "quantity": 1,
+            "unit_price": 133.45,
+            "total_price": 133.45
+        },
+        {
+            "description": "Phased multi-state flexibility",
+            "quantity": 8,
+            "unit_price": 137.07,
+            "total_price": 1096.56
+        }
+    ],
+    "amount": 3635.15
+}

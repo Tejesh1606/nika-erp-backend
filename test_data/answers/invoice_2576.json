@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Murphy, Curry and Sanchez",
+    "invoice_number": "INV-85726",
+    "date": "2025-03-19",
+    "items": [
+        {
+            "description": "Open-source zero tolerance attitude",
+            "quantity": 9,
+            "unit_price": 89.21,
+            "total_price": 802.89
+        },
+        {
+            "description": "Object-based upward-trending monitoring",
+            "quantity": 9,
+            "unit_price": 202.2,
+            "total_price": 1819.8
+        },
+        {
+            "description": "Digitized explicit open system",
+            "quantity": 8,
+            "unit_price": 325.26,
+            "total_price": 2602.08
+        },
+        {
+            "description": "Phased optimizing productivity",
+            "quantity": 10,
+            "unit_price": 270.28,
+            "total_price": 2702.8
+        }
+    ],
+    "amount": 7927.57
+}

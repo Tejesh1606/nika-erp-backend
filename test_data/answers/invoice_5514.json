@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Martin, Jackson and Boyd",
+    "invoice_number": "INV-54711",
+    "date": "2025-11-22",
+    "items": [
+        {
+            "description": "Programmable encompassing protocol",
+            "quantity": 10,
+            "unit_price": 118.91,
+            "total_price": 1189.1
+        },
+        {
+            "description": "Exclusive bottom-line data-warehouse",
+            "quantity": 1,
+            "unit_price": 279.7,
+            "total_price": 279.7
+        },
+        {
+            "description": "Sharable tertiary system engine",
+            "quantity": 8,
+            "unit_price": 405.7,
+            "total_price": 3245.6
+        }
+    ],
+    "amount": 4714.4
+}

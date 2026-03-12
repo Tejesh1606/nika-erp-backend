@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Doyle-Garcia",
+    "invoice_number": "INV-88048",
+    "date": "2025-12-19",
+    "items": [
+        {
+            "description": "Multi-tiered modular open system",
+            "quantity": 3,
+            "unit_price": 74.66,
+            "total_price": 223.98
+        },
+        {
+            "description": "Seamless bandwidth-monitored open architecture",
+            "quantity": 2,
+            "unit_price": 118.87,
+            "total_price": 237.74
+        },
+        {
+            "description": "Implemented fresh-thinking architecture",
+            "quantity": 2,
+            "unit_price": 406.07,
+            "total_price": 812.14
+        },
+        {
+            "description": "Secured coherent ability",
+            "quantity": 8,
+            "unit_price": 408.25,
+            "total_price": 3266.0
+        }
+    ],
+    "amount": 4539.86
+}

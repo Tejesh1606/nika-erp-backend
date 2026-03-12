@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Berry, Raymond and Yates",
+    "invoice_number": "INV-45615",
+    "date": "2026-02-20",
+    "items": [
+        {
+            "description": "Public-key dynamic core",
+            "quantity": 10,
+            "unit_price": 421.36,
+            "total_price": 4213.6
+        },
+        {
+            "description": "Function-based intangible utilization",
+            "quantity": 2,
+            "unit_price": 326.3,
+            "total_price": 652.6
+        },
+        {
+            "description": "Intuitive needs-based implementation",
+            "quantity": 3,
+            "unit_price": 126.15,
+            "total_price": 378.45
+        },
+        {
+            "description": "Team-oriented logistical support",
+            "quantity": 2,
+            "unit_price": 441.49,
+            "total_price": 882.98
+        }
+    ],
+    "amount": 6127.63
+}

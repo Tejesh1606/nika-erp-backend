@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Valdez Inc",
+    "invoice_number": "INV-16322",
+    "date": "2025-12-01",
+    "items": [
+        {
+            "description": "Customizable intangible intranet",
+            "quantity": 7,
+            "unit_price": 89.29,
+            "total_price": 625.03
+        },
+        {
+            "description": "Multi-tiered bottom-line neural-net",
+            "quantity": 1,
+            "unit_price": 156.08,
+            "total_price": 156.08
+        },
+        {
+            "description": "Function-based methodical standardization",
+            "quantity": 2,
+            "unit_price": 235.3,
+            "total_price": 470.6
+        }
+    ],
+    "amount": 1251.71
+}

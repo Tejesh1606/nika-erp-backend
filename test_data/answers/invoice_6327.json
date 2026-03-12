@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Howard, Warren and Reyes",
+    "invoice_number": "INV-66293",
+    "date": "2025-12-20",
+    "items": [
+        {
+            "description": "Reduced bandwidth-monitored customer loyalty",
+            "quantity": 4,
+            "unit_price": 99.27,
+            "total_price": 397.08
+        },
+        {
+            "description": "Grass-roots directional product",
+            "quantity": 2,
+            "unit_price": 158.91,
+            "total_price": 317.82
+        },
+        {
+            "description": "Virtual multi-state service-desk",
+            "quantity": 9,
+            "unit_price": 69.98,
+            "total_price": 629.82
+        }
+    ],
+    "amount": 1344.72
+}

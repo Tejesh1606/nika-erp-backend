@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wells, Conner and Vargas",
+    "invoice_number": "INV-18541",
+    "date": "2025-10-20",
+    "items": [
+        {
+            "description": "Stand-alone bottom-line support",
+            "quantity": 8,
+            "unit_price": 72.93,
+            "total_price": 583.44
+        }
+    ],
+    "amount": 583.44
+}

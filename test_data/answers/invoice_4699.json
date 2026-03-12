@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Garrett, Frye and Campbell",
+    "invoice_number": "INV-16657",
+    "date": "2025-10-17",
+    "items": [
+        {
+            "description": "Open-architected 24hour time-frame",
+            "quantity": 2,
+            "unit_price": 48.38,
+            "total_price": 96.76
+        },
+        {
+            "description": "Assimilated value-added Internet solution",
+            "quantity": 7,
+            "unit_price": 477.28,
+            "total_price": 3340.96
+        }
+    ],
+    "amount": 3437.72
+}

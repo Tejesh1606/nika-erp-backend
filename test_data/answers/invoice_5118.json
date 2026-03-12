@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Middleton-Johnson",
+    "invoice_number": "INV-11390",
+    "date": "2025-05-27",
+    "items": [
+        {
+            "description": "Inverse incremental time-frame",
+            "quantity": 1,
+            "unit_price": 364.06,
+            "total_price": 364.06
+        }
+    ],
+    "amount": 364.06
+}

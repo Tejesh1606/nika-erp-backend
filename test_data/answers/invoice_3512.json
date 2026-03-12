@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Martinez LLC",
+    "invoice_number": "INV-30834",
+    "date": "2025-05-28",
+    "items": [
+        {
+            "description": "Streamlined 5thgeneration capacity",
+            "quantity": 3,
+            "unit_price": 190.66,
+            "total_price": 571.98
+        },
+        {
+            "description": "Robust radical protocol",
+            "quantity": 7,
+            "unit_price": 465.53,
+            "total_price": 3258.71
+        },
+        {
+            "description": "Secured impactful implementation",
+            "quantity": 1,
+            "unit_price": 453.96,
+            "total_price": 453.96
+        },
+        {
+            "description": "Exclusive directional adapter",
+            "quantity": 5,
+            "unit_price": 221.15,
+            "total_price": 1105.75
+        }
+    ],
+    "amount": 5390.4
+}

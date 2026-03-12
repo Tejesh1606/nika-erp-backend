@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Watson PLC",
+    "invoice_number": "INV-90967",
+    "date": "2025-04-03",
+    "items": [
+        {
+            "description": "Ergonomic multi-tasking Graphic Interface",
+            "quantity": 4,
+            "unit_price": 403.16,
+            "total_price": 1612.64
+        },
+        {
+            "description": "Integrated asymmetric definition",
+            "quantity": 9,
+            "unit_price": 232.44,
+            "total_price": 2091.96
+        },
+        {
+            "description": "Decentralized transitional knowledgebase",
+            "quantity": 8,
+            "unit_price": 213.78,
+            "total_price": 1710.24
+        }
+    ],
+    "amount": 5414.84
+}

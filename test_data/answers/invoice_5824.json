@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cooper PLC",
+    "invoice_number": "INV-49262",
+    "date": "2025-11-23",
+    "items": [
+        {
+            "description": "Upgradable 5thgeneration info-mediaries",
+            "quantity": 2,
+            "unit_price": 383.03,
+            "total_price": 766.06
+        }
+    ],
+    "amount": 766.06
+}

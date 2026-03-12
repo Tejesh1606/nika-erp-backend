@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Moore, Price and Ward",
+    "invoice_number": "INV-21995",
+    "date": "2025-03-11",
+    "items": [
+        {
+            "description": "Integrated leadingedge hierarchy",
+            "quantity": 4,
+            "unit_price": 166.13,
+            "total_price": 664.52
+        },
+        {
+            "description": "Virtual encompassing benchmark",
+            "quantity": 7,
+            "unit_price": 137.14,
+            "total_price": 959.98
+        }
+    ],
+    "amount": 1624.5
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Koch LLC",
+    "invoice_number": "INV-66295",
+    "date": "2025-06-27",
+    "items": [
+        {
+            "description": "Ameliorated systematic paradigm",
+            "quantity": 4,
+            "unit_price": 332.83,
+            "total_price": 1331.32
+        }
+    ],
+    "amount": 1331.32
+}

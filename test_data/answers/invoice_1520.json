@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Williams-White",
+    "invoice_number": "INV-54573",
+    "date": "2026-02-08",
+    "items": [
+        {
+            "description": "Synergized optimal methodology",
+            "quantity": 6,
+            "unit_price": 357.57,
+            "total_price": 2145.42
+        },
+        {
+            "description": "Focused transitional intranet",
+            "quantity": 10,
+            "unit_price": 432.74,
+            "total_price": 4327.4
+        }
+    ],
+    "amount": 6472.82
+}

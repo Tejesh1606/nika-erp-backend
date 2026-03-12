@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jensen, Wilson and Blair",
+    "invoice_number": "INV-85243",
+    "date": "2026-01-30",
+    "items": [
+        {
+            "description": "Re-contextualized cohesive superstructure",
+            "quantity": 4,
+            "unit_price": 480.12,
+            "total_price": 1920.48
+        }
+    ],
+    "amount": 1920.48
+}

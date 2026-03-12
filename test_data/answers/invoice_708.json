@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Alvarez-Dickerson",
+    "invoice_number": "INV-76412",
+    "date": "2025-03-30",
+    "items": [
+        {
+            "description": "Object-based empowering methodology",
+            "quantity": 9,
+            "unit_price": 66.74,
+            "total_price": 600.66
+        }
+    ],
+    "amount": 600.66
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Schwartz LLC",
+    "invoice_number": "INV-10396",
+    "date": "2025-10-17",
+    "items": [
+        {
+            "description": "Grass-roots foreground hub",
+            "quantity": 4,
+            "unit_price": 143.49,
+            "total_price": 573.96
+        },
+        {
+            "description": "User-centric secondary project",
+            "quantity": 6,
+            "unit_price": 333.7,
+            "total_price": 2002.2
+        },
+        {
+            "description": "Organic discrete attitude",
+            "quantity": 7,
+            "unit_price": 245.43,
+            "total_price": 1718.01
+        }
+    ],
+    "amount": 4294.17
+}

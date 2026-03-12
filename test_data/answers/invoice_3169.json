@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Lloyd LLC",
+    "invoice_number": "INV-27202",
+    "date": "2025-05-17",
+    "items": [
+        {
+            "description": "Robust directional hub",
+            "quantity": 4,
+            "unit_price": 373.26,
+            "total_price": 1493.04
+        },
+        {
+            "description": "Total full-range solution",
+            "quantity": 2,
+            "unit_price": 53.12,
+            "total_price": 106.24
+        }
+    ],
+    "amount": 1599.28
+}

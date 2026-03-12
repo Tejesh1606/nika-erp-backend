@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Underwood and Sons",
+    "invoice_number": "INV-14138",
+    "date": "2025-10-17",
+    "items": [
+        {
+            "description": "Total bifurcated core",
+            "quantity": 3,
+            "unit_price": 15.13,
+            "total_price": 45.39
+        }
+    ],
+    "amount": 45.39
+}

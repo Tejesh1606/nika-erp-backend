@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mora, Jensen and Obrien",
+    "invoice_number": "INV-72866",
+    "date": "2025-10-05",
+    "items": [
+        {
+            "description": "Team-oriented fresh-thinking solution",
+            "quantity": 4,
+            "unit_price": 230.37,
+            "total_price": 921.48
+        },
+        {
+            "description": "Customizable directional strategy",
+            "quantity": 6,
+            "unit_price": 490.48,
+            "total_price": 2942.88
+        },
+        {
+            "description": "Stand-alone fault-tolerant frame",
+            "quantity": 7,
+            "unit_price": 415.38,
+            "total_price": 2907.66
+        }
+    ],
+    "amount": 6772.02
+}

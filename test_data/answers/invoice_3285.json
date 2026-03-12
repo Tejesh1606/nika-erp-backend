@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Lopez, Evans and Velez",
+    "invoice_number": "INV-74412",
+    "date": "2025-07-01",
+    "items": [
+        {
+            "description": "Triple-buffered explicit functionalities",
+            "quantity": 2,
+            "unit_price": 126.17,
+            "total_price": 252.34
+        },
+        {
+            "description": "Distributed analyzing website",
+            "quantity": 1,
+            "unit_price": 405.87,
+            "total_price": 405.87
+        }
+    ],
+    "amount": 658.21
+}

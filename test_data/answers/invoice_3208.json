@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gillespie Inc",
+    "invoice_number": "INV-17294",
+    "date": "2026-02-20",
+    "items": [
+        {
+            "description": "Realigned clear-thinking circuit",
+            "quantity": 10,
+            "unit_price": 421.2,
+            "total_price": 4212.0
+        },
+        {
+            "description": "Profound discrete projection",
+            "quantity": 9,
+            "unit_price": 431.96,
+            "total_price": 3887.64
+        },
+        {
+            "description": "Persistent leadingedge synergy",
+            "quantity": 2,
+            "unit_price": 70.79,
+            "total_price": 141.58
+        },
+        {
+            "description": "Grass-roots contextually-based knowledgebase",
+            "quantity": 8,
+            "unit_price": 469.13,
+            "total_price": 3753.04
+        }
+    ],
+    "amount": 11994.26
+}

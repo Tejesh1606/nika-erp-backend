@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Diaz-Graham",
+    "invoice_number": "INV-48437",
+    "date": "2025-07-08",
+    "items": [
+        {
+            "description": "Digitized optimal conglomeration",
+            "quantity": 8,
+            "unit_price": 492.23,
+            "total_price": 3937.84
+        },
+        {
+            "description": "Proactive modular Graphical User Interface",
+            "quantity": 1,
+            "unit_price": 46.2,
+            "total_price": 46.2
+        },
+        {
+            "description": "Ameliorated background portal",
+            "quantity": 4,
+            "unit_price": 93.34,
+            "total_price": 373.36
+        },
+        {
+            "description": "Expanded client-server website",
+            "quantity": 7,
+            "unit_price": 301.17,
+            "total_price": 2108.19
+        }
+    ],
+    "amount": 6465.59
+}

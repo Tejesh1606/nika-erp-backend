@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ballard, Cook and Fernandez",
+    "invoice_number": "INV-83376",
+    "date": "2025-11-10",
+    "items": [
+        {
+            "description": "Business-focused mission-critical knowledgebase",
+            "quantity": 2,
+            "unit_price": 81.55,
+            "total_price": 163.1
+        },
+        {
+            "description": "Secured transitional website",
+            "quantity": 2,
+            "unit_price": 346.96,
+            "total_price": 693.92
+        }
+    ],
+    "amount": 857.02
+}

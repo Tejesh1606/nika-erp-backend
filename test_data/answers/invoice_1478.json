@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Schneider LLC",
+    "invoice_number": "INV-84136",
+    "date": "2025-12-27",
+    "items": [
+        {
+            "description": "Re-contextualized 6thgeneration migration",
+            "quantity": 9,
+            "unit_price": 366.41,
+            "total_price": 3297.69
+        },
+        {
+            "description": "Centralized uniform structure",
+            "quantity": 5,
+            "unit_price": 275.5,
+            "total_price": 1377.5
+        },
+        {
+            "description": "Universal clear-thinking methodology",
+            "quantity": 3,
+            "unit_price": 494.95,
+            "total_price": 1484.85
+        },
+        {
+            "description": "Cloned asymmetric challenge",
+            "quantity": 1,
+            "unit_price": 129.86,
+            "total_price": 129.86
+        }
+    ],
+    "amount": 6289.9
+}

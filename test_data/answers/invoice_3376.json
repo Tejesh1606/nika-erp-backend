@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Chan-Becker",
+    "invoice_number": "INV-13912",
+    "date": "2025-04-27",
+    "items": [
+        {
+            "description": "Managed 24/7 infrastructure",
+            "quantity": 5,
+            "unit_price": 380.01,
+            "total_price": 1900.05
+        }
+    ],
+    "amount": 1900.05
+}

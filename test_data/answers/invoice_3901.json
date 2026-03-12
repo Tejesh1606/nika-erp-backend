@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Taylor-Myers",
+    "invoice_number": "INV-94100",
+    "date": "2025-09-09",
+    "items": [
+        {
+            "description": "Face-to-face mobile concept",
+            "quantity": 4,
+            "unit_price": 287.63,
+            "total_price": 1150.52
+        }
+    ],
+    "amount": 1150.52
+}

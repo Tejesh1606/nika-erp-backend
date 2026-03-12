@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Stone-Doyle",
+    "invoice_number": "INV-44392",
+    "date": "2025-04-17",
+    "items": [
+        {
+            "description": "Programmable responsive concept",
+            "quantity": 7,
+            "unit_price": 383.76,
+            "total_price": 2686.32
+        },
+        {
+            "description": "Visionary motivating access",
+            "quantity": 6,
+            "unit_price": 469.03,
+            "total_price": 2814.18
+        },
+        {
+            "description": "Mandatory asymmetric installation",
+            "quantity": 3,
+            "unit_price": 363.14,
+            "total_price": 1089.42
+        }
+    ],
+    "amount": 6589.92
+}

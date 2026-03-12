@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mayer LLC",
+    "invoice_number": "INV-34249",
+    "date": "2026-02-24",
+    "items": [
+        {
+            "description": "Seamless intangible task-force",
+            "quantity": 6,
+            "unit_price": 228.59,
+            "total_price": 1371.54
+        },
+        {
+            "description": "Function-based empowering framework",
+            "quantity": 10,
+            "unit_price": 85.6,
+            "total_price": 856.0
+        },
+        {
+            "description": "Synergized multi-state focus group",
+            "quantity": 10,
+            "unit_price": 17.12,
+            "total_price": 171.2
+        }
+    ],
+    "amount": 2398.74
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hall, Hanson and Allen",
+    "invoice_number": "INV-53452",
+    "date": "2026-01-16",
+    "items": [
+        {
+            "description": "User-centric homogeneous database",
+            "quantity": 7,
+            "unit_price": 268.48,
+            "total_price": 1879.36
+        },
+        {
+            "description": "Open-architected contextually-based ability",
+            "quantity": 5,
+            "unit_price": 147.82,
+            "total_price": 739.1
+        },
+        {
+            "description": "Multi-lateral 24/7 archive",
+            "quantity": 2,
+            "unit_price": 301.69,
+            "total_price": 603.38
+        }
+    ],
+    "amount": 3221.84
+}

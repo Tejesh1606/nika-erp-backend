@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Peterson Ltd",
+    "invoice_number": "INV-38401",
+    "date": "2025-12-22",
+    "items": [
+        {
+            "description": "Operative 3rdgeneration process improvement",
+            "quantity": 2,
+            "unit_price": 189.91,
+            "total_price": 379.82
+        },
+        {
+            "description": "Networked explicit database",
+            "quantity": 10,
+            "unit_price": 350.05,
+            "total_price": 3500.5
+        },
+        {
+            "description": "Robust exuding hierarchy",
+            "quantity": 1,
+            "unit_price": 213.88,
+            "total_price": 213.88
+        }
+    ],
+    "amount": 4094.2
+}

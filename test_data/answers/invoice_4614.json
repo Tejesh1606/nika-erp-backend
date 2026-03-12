@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Campbell, Williams and Marquez",
+    "invoice_number": "INV-82274",
+    "date": "2025-03-11",
+    "items": [
+        {
+            "description": "Optional user-facing database",
+            "quantity": 7,
+            "unit_price": 481.39,
+            "total_price": 3369.73
+        },
+        {
+            "description": "Team-oriented systemic hardware",
+            "quantity": 4,
+            "unit_price": 224.73,
+            "total_price": 898.92
+        },
+        {
+            "description": "Focused disintermediate database",
+            "quantity": 4,
+            "unit_price": 33.21,
+            "total_price": 132.84
+        },
+        {
+            "description": "Multi-lateral 4thgeneration budgetary management",
+            "quantity": 2,
+            "unit_price": 332.87,
+            "total_price": 665.74
+        }
+    ],
+    "amount": 5067.23
+}

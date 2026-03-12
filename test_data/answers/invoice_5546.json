@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Watson LLC",
+    "invoice_number": "INV-38197",
+    "date": "2025-03-22",
+    "items": [
+        {
+            "description": "Secured content-based Graphical User Interface",
+            "quantity": 3,
+            "unit_price": 63.31,
+            "total_price": 189.93
+        },
+        {
+            "description": "Team-oriented dynamic system engine",
+            "quantity": 5,
+            "unit_price": 352.98,
+            "total_price": 1764.9
+        }
+    ],
+    "amount": 1954.83
+}

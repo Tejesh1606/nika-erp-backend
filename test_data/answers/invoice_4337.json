@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Dickerson LLC",
+    "invoice_number": "INV-82321",
+    "date": "2025-12-14",
+    "items": [
+        {
+            "description": "Cross-platform static capability",
+            "quantity": 5,
+            "unit_price": 464.27,
+            "total_price": 2321.35
+        },
+        {
+            "description": "Vision-oriented multimedia algorithm",
+            "quantity": 1,
+            "unit_price": 353.5,
+            "total_price": 353.5
+        },
+        {
+            "description": "Synchronized next generation workforce",
+            "quantity": 7,
+            "unit_price": 67.3,
+            "total_price": 471.1
+        }
+    ],
+    "amount": 3145.95
+}

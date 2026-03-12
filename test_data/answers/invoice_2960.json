@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Salazar Inc",
+    "invoice_number": "INV-45665",
+    "date": "2025-05-21",
+    "items": [
+        {
+            "description": "Business-focused real-time Local Area Network",
+            "quantity": 2,
+            "unit_price": 381.64,
+            "total_price": 763.28
+        },
+        {
+            "description": "Integrated composite methodology",
+            "quantity": 5,
+            "unit_price": 415.04,
+            "total_price": 2075.2
+        },
+        {
+            "description": "Sharable fault-tolerant pricing structure",
+            "quantity": 2,
+            "unit_price": 191.5,
+            "total_price": 383.0
+        },
+        {
+            "description": "Focused intermediate initiative",
+            "quantity": 3,
+            "unit_price": 99.21,
+            "total_price": 297.63
+        }
+    ],
+    "amount": 3519.11
+}

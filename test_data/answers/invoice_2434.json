@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Smith and Sons",
+    "invoice_number": "INV-88724",
+    "date": "2026-02-23",
+    "items": [
+        {
+            "description": "Phased systematic ability",
+            "quantity": 3,
+            "unit_price": 295.49,
+            "total_price": 886.47
+        },
+        {
+            "description": "Phased mission-critical flexibility",
+            "quantity": 3,
+            "unit_price": 341.05,
+            "total_price": 1023.15
+        }
+    ],
+    "amount": 1909.62
+}

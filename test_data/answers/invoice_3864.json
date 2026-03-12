@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Johnson, Bradford and Payne",
+    "invoice_number": "INV-40966",
+    "date": "2025-04-28",
+    "items": [
+        {
+            "description": "Advanced high-level benchmark",
+            "quantity": 2,
+            "unit_price": 305.29,
+            "total_price": 610.58
+        },
+        {
+            "description": "Cross-group web-enabled complexity",
+            "quantity": 1,
+            "unit_price": 439.62,
+            "total_price": 439.62
+        },
+        {
+            "description": "Cloned content-based extranet",
+            "quantity": 6,
+            "unit_price": 368.39,
+            "total_price": 2210.34
+        }
+    ],
+    "amount": 3260.54
+}

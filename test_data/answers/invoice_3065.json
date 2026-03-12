@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wheeler, Johnson and Lloyd",
+    "invoice_number": "INV-61214",
+    "date": "2025-11-18",
+    "items": [
+        {
+            "description": "Customizable human-resource encryption",
+            "quantity": 1,
+            "unit_price": 375.77,
+            "total_price": 375.77
+        }
+    ],
+    "amount": 375.77
+}

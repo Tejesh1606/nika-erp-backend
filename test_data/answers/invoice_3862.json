@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Rivas-Morgan",
+    "invoice_number": "INV-76838",
+    "date": "2025-06-07",
+    "items": [
+        {
+            "description": "Inverse fresh-thinking structure",
+            "quantity": 9,
+            "unit_price": 415.27,
+            "total_price": 3737.43
+        }
+    ],
+    "amount": 3737.43
+}

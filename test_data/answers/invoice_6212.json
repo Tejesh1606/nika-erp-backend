@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Day-Butler",
+    "invoice_number": "INV-36048",
+    "date": "2025-11-03",
+    "items": [
+        {
+            "description": "Synchronized coherent ability",
+            "quantity": 5,
+            "unit_price": 38.28,
+            "total_price": 191.4
+        },
+        {
+            "description": "Monitored holistic artificial intelligence",
+            "quantity": 3,
+            "unit_price": 443.83,
+            "total_price": 1331.49
+        },
+        {
+            "description": "Multi-lateral user-facing projection",
+            "quantity": 3,
+            "unit_price": 177.91,
+            "total_price": 533.73
+        },
+        {
+            "description": "Persistent 24hour utilization",
+            "quantity": 6,
+            "unit_price": 343.33,
+            "total_price": 2059.98
+        }
+    ],
+    "amount": 4116.6
+}

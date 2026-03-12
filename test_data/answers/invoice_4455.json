@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Pham and Sons",
+    "invoice_number": "INV-71973",
+    "date": "2025-08-14",
+    "items": [
+        {
+            "description": "Total regional circuit",
+            "quantity": 5,
+            "unit_price": 394.9,
+            "total_price": 1974.5
+        },
+        {
+            "description": "Vision-oriented homogeneous open architecture",
+            "quantity": 1,
+            "unit_price": 71.8,
+            "total_price": 71.8
+        },
+        {
+            "description": "Re-engineered optimal firmware",
+            "quantity": 10,
+            "unit_price": 176.35,
+            "total_price": 1763.5
+        }
+    ],
+    "amount": 3809.8
+}

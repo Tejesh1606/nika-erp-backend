@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Daniels, Roberts and Hamilton",
+    "invoice_number": "INV-17514",
+    "date": "2026-02-15",
+    "items": [
+        {
+            "description": "Programmable full-range productivity",
+            "quantity": 8,
+            "unit_price": 152.3,
+            "total_price": 1218.4
+        }
+    ],
+    "amount": 1218.4
+}

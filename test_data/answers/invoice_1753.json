@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Deleon-Stuart",
+    "invoice_number": "INV-18320",
+    "date": "2025-12-13",
+    "items": [
+        {
+            "description": "Self-enabling stable Local Area Network",
+            "quantity": 9,
+            "unit_price": 91.83,
+            "total_price": 826.47
+        },
+        {
+            "description": "Proactive reciprocal monitoring",
+            "quantity": 5,
+            "unit_price": 93.69,
+            "total_price": 468.45
+        },
+        {
+            "description": "Proactive human-resource moratorium",
+            "quantity": 6,
+            "unit_price": 210.48,
+            "total_price": 1262.88
+        },
+        {
+            "description": "Distributed regional orchestration",
+            "quantity": 5,
+            "unit_price": 287.17,
+            "total_price": 1435.85
+        }
+    ],
+    "amount": 3993.65
+}

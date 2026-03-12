@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Nelson-Schwartz",
+    "invoice_number": "INV-65883",
+    "date": "2026-03-03",
+    "items": [
+        {
+            "description": "Open-architected actuating concept",
+            "quantity": 6,
+            "unit_price": 198.68,
+            "total_price": 1192.08
+        },
+        {
+            "description": "Streamlined foreground artificial intelligence",
+            "quantity": 5,
+            "unit_price": 353.72,
+            "total_price": 1768.6
+        },
+        {
+            "description": "Future-proofed dynamic Graphical User Interface",
+            "quantity": 1,
+            "unit_price": 82.03,
+            "total_price": 82.03
+        }
+    ],
+    "amount": 3042.71
+}

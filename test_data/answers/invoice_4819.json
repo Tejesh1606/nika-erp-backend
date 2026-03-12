@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Young Group",
+    "invoice_number": "INV-51975",
+    "date": "2025-08-19",
+    "items": [
+        {
+            "description": "Enhanced incremental analyzer",
+            "quantity": 1,
+            "unit_price": 130.91,
+            "total_price": 130.91
+        },
+        {
+            "description": "Advanced neutral access",
+            "quantity": 9,
+            "unit_price": 294.81,
+            "total_price": 2653.29
+        },
+        {
+            "description": "Multi-lateral optimal moratorium",
+            "quantity": 3,
+            "unit_price": 27.59,
+            "total_price": 82.77
+        },
+        {
+            "description": "Assimilated static capability",
+            "quantity": 5,
+            "unit_price": 348.01,
+            "total_price": 1740.05
+        }
+    ],
+    "amount": 4607.02
+}

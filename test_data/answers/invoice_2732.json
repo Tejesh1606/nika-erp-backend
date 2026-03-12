@@ -1,0 +1,26 @@
+{
+    "vendor_name": "White, Gould and Hoffman",
+    "invoice_number": "INV-74392",
+    "date": "2025-07-22",
+    "items": [
+        {
+            "description": "Sharable maximized application",
+            "quantity": 8,
+            "unit_price": 429.52,
+            "total_price": 3436.16
+        },
+        {
+            "description": "Self-enabling discrete project",
+            "quantity": 2,
+            "unit_price": 48.89,
+            "total_price": 97.78
+        },
+        {
+            "description": "Ameliorated zero-defect circuit",
+            "quantity": 3,
+            "unit_price": 58.72,
+            "total_price": 176.16
+        }
+    ],
+    "amount": 3710.1
+}

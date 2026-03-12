@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Williams-Moody",
+    "invoice_number": "INV-84800",
+    "date": "2025-09-29",
+    "items": [
+        {
+            "description": "Compatible actuating intranet",
+            "quantity": 2,
+            "unit_price": 69.4,
+            "total_price": 138.8
+        },
+        {
+            "description": "Re-engineered zero-defect help-desk",
+            "quantity": 4,
+            "unit_price": 63.1,
+            "total_price": 252.4
+        },
+        {
+            "description": "Customer-focused hybrid core",
+            "quantity": 3,
+            "unit_price": 138.04,
+            "total_price": 414.12
+        }
+    ],
+    "amount": 805.32
+}

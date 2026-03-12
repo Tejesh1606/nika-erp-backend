@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Day-Valencia",
+    "invoice_number": "INV-78937",
+    "date": "2025-09-10",
+    "items": [
+        {
+            "description": "Organic directional groupware",
+            "quantity": 5,
+            "unit_price": 270.57,
+            "total_price": 1352.85
+        },
+        {
+            "description": "User-centric systematic budgetary management",
+            "quantity": 10,
+            "unit_price": 264.84,
+            "total_price": 2648.4
+        },
+        {
+            "description": "Business-focused heuristic software",
+            "quantity": 5,
+            "unit_price": 85.87,
+            "total_price": 429.35
+        },
+        {
+            "description": "Sharable regional Local Area Network",
+            "quantity": 8,
+            "unit_price": 499.89,
+            "total_price": 3999.12
+        }
+    ],
+    "amount": 8429.72
+}

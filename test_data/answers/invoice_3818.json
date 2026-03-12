@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Edwards-Harris",
+    "invoice_number": "INV-18910",
+    "date": "2026-01-20",
+    "items": [
+        {
+            "description": "Profound high-level benchmark",
+            "quantity": 2,
+            "unit_price": 42.13,
+            "total_price": 84.26
+        }
+    ],
+    "amount": 84.26
+}

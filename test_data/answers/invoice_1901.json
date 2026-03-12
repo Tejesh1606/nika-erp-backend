@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Martinez Inc",
+    "invoice_number": "INV-11953",
+    "date": "2025-05-19",
+    "items": [
+        {
+            "description": "Focused context-sensitive ability",
+            "quantity": 1,
+            "unit_price": 151.65,
+            "total_price": 151.65
+        }
+    ],
+    "amount": 151.65
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mitchell Inc",
+    "invoice_number": "INV-95948",
+    "date": "2025-07-15",
+    "items": [
+        {
+            "description": "Future-proofed bottom-line website",
+            "quantity": 9,
+            "unit_price": 186.83,
+            "total_price": 1681.47
+        },
+        {
+            "description": "Multi-layered intermediate initiative",
+            "quantity": 1,
+            "unit_price": 49.95,
+            "total_price": 49.95
+        }
+    ],
+    "amount": 1731.42
+}

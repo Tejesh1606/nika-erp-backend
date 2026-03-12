@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Porter-Jones",
+    "invoice_number": "INV-67943",
+    "date": "2025-07-11",
+    "items": [
+        {
+            "description": "Expanded optimal neural-net",
+            "quantity": 5,
+            "unit_price": 368.85,
+            "total_price": 1844.25
+        }
+    ],
+    "amount": 1844.25
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jones-Gutierrez",
+    "invoice_number": "INV-95026",
+    "date": "2025-05-10",
+    "items": [
+        {
+            "description": "Horizontal exuding knowledgebase",
+            "quantity": 3,
+            "unit_price": 430.51,
+            "total_price": 1291.53
+        }
+    ],
+    "amount": 1291.53
+}

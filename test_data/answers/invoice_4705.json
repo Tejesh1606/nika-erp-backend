@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Owens, Flores and Hawkins",
+    "invoice_number": "INV-47807",
+    "date": "2025-04-19",
+    "items": [
+        {
+            "description": "Implemented scalable adapter",
+            "quantity": 7,
+            "unit_price": 202.46,
+            "total_price": 1417.22
+        },
+        {
+            "description": "Ergonomic intangible definition",
+            "quantity": 6,
+            "unit_price": 488.54,
+            "total_price": 2931.24
+        },
+        {
+            "description": "Integrated multi-tasking intranet",
+            "quantity": 2,
+            "unit_price": 31.56,
+            "total_price": 63.12
+        }
+    ],
+    "amount": 4411.58
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Martin Ltd",
+    "invoice_number": "INV-64767",
+    "date": "2025-12-17",
+    "items": [
+        {
+            "description": "Synergized secondary pricing structure",
+            "quantity": 7,
+            "unit_price": 191.41,
+            "total_price": 1339.87
+        },
+        {
+            "description": "Integrated scalable framework",
+            "quantity": 6,
+            "unit_price": 338.08,
+            "total_price": 2028.48
+        },
+        {
+            "description": "Decentralized zero tolerance access",
+            "quantity": 8,
+            "unit_price": 318.69,
+            "total_price": 2549.52
+        }
+    ],
+    "amount": 5917.87
+}

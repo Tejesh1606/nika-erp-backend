@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wilson-Perez",
+    "invoice_number": "INV-83660",
+    "date": "2025-06-04",
+    "items": [
+        {
+            "description": "Pre-emptive empowering Graphical User Interface",
+            "quantity": 4,
+            "unit_price": 437.64,
+            "total_price": 1750.56
+        },
+        {
+            "description": "Multi-channeled zero administration analyzer",
+            "quantity": 2,
+            "unit_price": 139.47,
+            "total_price": 278.94
+        }
+    ],
+    "amount": 2029.5
+}

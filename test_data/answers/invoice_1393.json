@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Austin PLC",
+    "invoice_number": "INV-64225",
+    "date": "2025-12-17",
+    "items": [
+        {
+            "description": "Diverse upward-trending core",
+            "quantity": 8,
+            "unit_price": 130.24,
+            "total_price": 1041.92
+        }
+    ],
+    "amount": 1041.92
+}

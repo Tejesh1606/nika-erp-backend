@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Meza Group",
+    "invoice_number": "INV-37349",
+    "date": "2025-10-27",
+    "items": [
+        {
+            "description": "Distributed radical structure",
+            "quantity": 6,
+            "unit_price": 229.82,
+            "total_price": 1378.92
+        }
+    ],
+    "amount": 1378.92
+}

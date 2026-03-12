@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Payne-Oneill",
+    "invoice_number": "INV-69058",
+    "date": "2025-09-05",
+    "items": [
+        {
+            "description": "Virtual 3rdgeneration data-warehouse",
+            "quantity": 7,
+            "unit_price": 221.72,
+            "total_price": 1552.04
+        },
+        {
+            "description": "Configurable impactful core",
+            "quantity": 7,
+            "unit_price": 187.59,
+            "total_price": 1313.13
+        },
+        {
+            "description": "Organized zero-defect analyzer",
+            "quantity": 2,
+            "unit_price": 265.87,
+            "total_price": 531.74
+        },
+        {
+            "description": "Mandatory systemic access",
+            "quantity": 10,
+            "unit_price": 471.7,
+            "total_price": 4717.0
+        }
+    ],
+    "amount": 8113.91
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Morris, Wilson and Bell",
+    "invoice_number": "INV-72963",
+    "date": "2025-10-21",
+    "items": [
+        {
+            "description": "Re-engineered static strategy",
+            "quantity": 4,
+            "unit_price": 149.64,
+            "total_price": 598.56
+        },
+        {
+            "description": "Operative systematic synergy",
+            "quantity": 10,
+            "unit_price": 56.81,
+            "total_price": 568.1
+        },
+        {
+            "description": "Public-key executive interface",
+            "quantity": 4,
+            "unit_price": 40.04,
+            "total_price": 160.16
+        }
+    ],
+    "amount": 1326.82
+}

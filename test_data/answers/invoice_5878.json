@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wagner-Massey",
+    "invoice_number": "INV-36740",
+    "date": "2025-04-27",
+    "items": [
+        {
+            "description": "Optional bandwidth-monitored core",
+            "quantity": 7,
+            "unit_price": 494.37,
+            "total_price": 3460.59
+        }
+    ],
+    "amount": 3460.59
+}

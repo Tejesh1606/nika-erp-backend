@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gallegos Inc",
+    "invoice_number": "INV-80819",
+    "date": "2025-08-04",
+    "items": [
+        {
+            "description": "Managed didactic success",
+            "quantity": 6,
+            "unit_price": 190.1,
+            "total_price": 1140.6
+        },
+        {
+            "description": "Proactive explicit paradigm",
+            "quantity": 3,
+            "unit_price": 81.22,
+            "total_price": 243.66
+        },
+        {
+            "description": "Future-proofed heuristic solution",
+            "quantity": 4,
+            "unit_price": 203.45,
+            "total_price": 813.8
+        },
+        {
+            "description": "Multi-channeled transitional monitoring",
+            "quantity": 7,
+            "unit_price": 138.4,
+            "total_price": 968.8
+        }
+    ],
+    "amount": 3166.86
+}

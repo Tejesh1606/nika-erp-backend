@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Garner-Bailey",
+    "invoice_number": "INV-92360",
+    "date": "2026-01-17",
+    "items": [
+        {
+            "description": "User-centric disintermediate focus group",
+            "quantity": 9,
+            "unit_price": 498.66,
+            "total_price": 4487.94
+        },
+        {
+            "description": "Organic eco-centric functionalities",
+            "quantity": 8,
+            "unit_price": 184.57,
+            "total_price": 1476.56
+        },
+        {
+            "description": "Stand-alone 5thgeneration structure",
+            "quantity": 1,
+            "unit_price": 276.51,
+            "total_price": 276.51
+        },
+        {
+            "description": "Sharable clear-thinking extranet",
+            "quantity": 2,
+            "unit_price": 409.14,
+            "total_price": 818.28
+        }
+    ],
+    "amount": 7059.29
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Adkins, Payne and Morrison",
+    "invoice_number": "INV-38906",
+    "date": "2025-09-14",
+    "items": [
+        {
+            "description": "Face-to-face encompassing Internet solution",
+            "quantity": 10,
+            "unit_price": 493.24,
+            "total_price": 4932.4
+        },
+        {
+            "description": "Pre-emptive 4thgeneration info-mediaries",
+            "quantity": 3,
+            "unit_price": 237.99,
+            "total_price": 713.97
+        }
+    ],
+    "amount": 5646.37
+}

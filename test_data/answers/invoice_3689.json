@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Duke, Arnold and Ortiz",
+    "invoice_number": "INV-20724",
+    "date": "2025-09-27",
+    "items": [
+        {
+            "description": "Operative eco-centric flexibility",
+            "quantity": 9,
+            "unit_price": 300.72,
+            "total_price": 2706.48
+        },
+        {
+            "description": "Distributed intermediate capacity",
+            "quantity": 1,
+            "unit_price": 256.82,
+            "total_price": 256.82
+        },
+        {
+            "description": "Visionary explicit framework",
+            "quantity": 6,
+            "unit_price": 102.68,
+            "total_price": 616.08
+        }
+    ],
+    "amount": 3579.38
+}

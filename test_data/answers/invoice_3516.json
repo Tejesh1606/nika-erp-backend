@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lyons Ltd",
+    "invoice_number": "INV-60398",
+    "date": "2026-03-06",
+    "items": [
+        {
+            "description": "Programmable clear-thinking workforce",
+            "quantity": 7,
+            "unit_price": 460.31,
+            "total_price": 3222.17
+        },
+        {
+            "description": "Centralized exuding moderator",
+            "quantity": 5,
+            "unit_price": 391.98,
+            "total_price": 1959.9
+        },
+        {
+            "description": "Decentralized zero tolerance solution",
+            "quantity": 10,
+            "unit_price": 384.46,
+            "total_price": 3844.6
+        }
+    ],
+    "amount": 9026.67
+}

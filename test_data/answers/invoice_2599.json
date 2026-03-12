@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Johnson Ltd",
+    "invoice_number": "INV-75446",
+    "date": "2025-07-04",
+    "items": [
+        {
+            "description": "Seamless bifurcated protocol",
+            "quantity": 4,
+            "unit_price": 206.31,
+            "total_price": 825.24
+        }
+    ],
+    "amount": 825.24
+}

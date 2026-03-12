@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith, Reyes and Pope",
+    "invoice_number": "INV-91292",
+    "date": "2025-11-04",
+    "items": [
+        {
+            "description": "Cross-platform global projection",
+            "quantity": 3,
+            "unit_price": 276.75,
+            "total_price": 830.25
+        }
+    ],
+    "amount": 830.25
+}

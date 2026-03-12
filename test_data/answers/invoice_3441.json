@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Holmes, Shaw and Delgado",
+    "invoice_number": "INV-15588",
+    "date": "2026-01-15",
+    "items": [
+        {
+            "description": "Synergized non-volatile info-mediaries",
+            "quantity": 9,
+            "unit_price": 372.6,
+            "total_price": 3353.4
+        },
+        {
+            "description": "Distributed fault-tolerant complexity",
+            "quantity": 7,
+            "unit_price": 363.22,
+            "total_price": 2542.54
+        }
+    ],
+    "amount": 5895.94
+}

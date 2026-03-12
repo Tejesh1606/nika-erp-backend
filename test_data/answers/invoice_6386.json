@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Berry, Washington and Lee",
+    "invoice_number": "INV-48621",
+    "date": "2025-09-30",
+    "items": [
+        {
+            "description": "Reactive asynchronous solution",
+            "quantity": 3,
+            "unit_price": 59.35,
+            "total_price": 178.05
+        },
+        {
+            "description": "Future-proofed hybrid ability",
+            "quantity": 6,
+            "unit_price": 349.07,
+            "total_price": 2094.42
+        },
+        {
+            "description": "Versatile systematic system engine",
+            "quantity": 9,
+            "unit_price": 46.52,
+            "total_price": 418.68
+        },
+        {
+            "description": "Realigned client-server firmware",
+            "quantity": 4,
+            "unit_price": 423.82,
+            "total_price": 1695.28
+        }
+    ],
+    "amount": 4386.43
+}

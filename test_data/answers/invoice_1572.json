@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Moyer-Sanchez",
+    "invoice_number": "INV-29075",
+    "date": "2026-02-20",
+    "items": [
+        {
+            "description": "Sharable bandwidth-monitored frame",
+            "quantity": 8,
+            "unit_price": 224.76,
+            "total_price": 1798.08
+        },
+        {
+            "description": "Multi-layered actuating hardware",
+            "quantity": 5,
+            "unit_price": 460.43,
+            "total_price": 2302.15
+        },
+        {
+            "description": "Persistent human-resource projection",
+            "quantity": 7,
+            "unit_price": 416.26,
+            "total_price": 2913.82
+        },
+        {
+            "description": "Optional asynchronous policy",
+            "quantity": 1,
+            "unit_price": 330.36,
+            "total_price": 330.36
+        }
+    ],
+    "amount": 7344.41
+}

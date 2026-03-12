@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mason Inc",
+    "invoice_number": "INV-61616",
+    "date": "2025-04-30",
+    "items": [
+        {
+            "description": "Down-sized actuating leverage",
+            "quantity": 7,
+            "unit_price": 105.6,
+            "total_price": 739.2
+        },
+        {
+            "description": "Distributed clear-thinking encoding",
+            "quantity": 3,
+            "unit_price": 25.62,
+            "total_price": 76.86
+        }
+    ],
+    "amount": 816.06
+}

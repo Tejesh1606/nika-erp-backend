@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Walker Group",
+    "invoice_number": "INV-39528",
+    "date": "2025-11-20",
+    "items": [
+        {
+            "description": "Programmable high-level matrices",
+            "quantity": 9,
+            "unit_price": 497.53,
+            "total_price": 4477.77
+        },
+        {
+            "description": "Grass-roots dedicated definition",
+            "quantity": 6,
+            "unit_price": 279.52,
+            "total_price": 1677.12
+        },
+        {
+            "description": "Robust bandwidth-monitored parallelism",
+            "quantity": 2,
+            "unit_price": 449.78,
+            "total_price": 899.56
+        },
+        {
+            "description": "Intuitive motivating adapter",
+            "quantity": 8,
+            "unit_price": 43.88,
+            "total_price": 351.04
+        }
+    ],
+    "amount": 7405.49
+}

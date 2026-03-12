@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Huynh-Donaldson",
+    "invoice_number": "INV-56288",
+    "date": "2025-07-17",
+    "items": [
+        {
+            "description": "Sharable systematic array",
+            "quantity": 1,
+            "unit_price": 130.81,
+            "total_price": 130.81
+        }
+    ],
+    "amount": 130.81
+}

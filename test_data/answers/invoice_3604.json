@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Herrera LLC",
+    "invoice_number": "INV-60676",
+    "date": "2025-10-29",
+    "items": [
+        {
+            "description": "Reduced optimizing leverage",
+            "quantity": 9,
+            "unit_price": 424.51,
+            "total_price": 3820.59
+        }
+    ],
+    "amount": 3820.59
+}

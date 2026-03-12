@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Johnson-Chavez",
+    "invoice_number": "INV-50946",
+    "date": "2025-05-06",
+    "items": [
+        {
+            "description": "Cloned leadingedge access",
+            "quantity": 4,
+            "unit_price": 348.82,
+            "total_price": 1395.28
+        },
+        {
+            "description": "Distributed next generation Graphical User Interface",
+            "quantity": 5,
+            "unit_price": 421.47,
+            "total_price": 2107.35
+        }
+    ],
+    "amount": 3502.63
+}

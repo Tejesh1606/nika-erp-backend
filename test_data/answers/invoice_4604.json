@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wise Group",
+    "invoice_number": "INV-84710",
+    "date": "2025-09-14",
+    "items": [
+        {
+            "description": "Managed zero administration implementation",
+            "quantity": 5,
+            "unit_price": 426.82,
+            "total_price": 2134.1
+        }
+    ],
+    "amount": 2134.1
+}

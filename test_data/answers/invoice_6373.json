@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Serrano, Daniels and Crane",
+    "invoice_number": "INV-86942",
+    "date": "2025-12-24",
+    "items": [
+        {
+            "description": "Visionary eco-centric software",
+            "quantity": 4,
+            "unit_price": 32.77,
+            "total_price": 131.08
+        },
+        {
+            "description": "Multi-channeled explicit artificial intelligence",
+            "quantity": 1,
+            "unit_price": 71.26,
+            "total_price": 71.26
+        },
+        {
+            "description": "Multi-tiered even-keeled info-mediaries",
+            "quantity": 4,
+            "unit_price": 478.6,
+            "total_price": 1914.4
+        }
+    ],
+    "amount": 2116.74
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hays Inc",
+    "invoice_number": "INV-90599",
+    "date": "2025-05-04",
+    "items": [
+        {
+            "description": "Digitized composite leverage",
+            "quantity": 10,
+            "unit_price": 185.44,
+            "total_price": 1854.4
+        }
+    ],
+    "amount": 1854.4
+}

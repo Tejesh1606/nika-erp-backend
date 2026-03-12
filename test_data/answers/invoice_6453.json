@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Padilla-Miller",
+    "invoice_number": "INV-40933",
+    "date": "2025-08-01",
+    "items": [
+        {
+            "description": "Front-line fresh-thinking hardware",
+            "quantity": 3,
+            "unit_price": 64.24,
+            "total_price": 192.72
+        },
+        {
+            "description": "User-centric empowering interface",
+            "quantity": 5,
+            "unit_price": 495.53,
+            "total_price": 2477.65
+        }
+    ],
+    "amount": 2670.37
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mckinney, Kennedy and Harris",
+    "invoice_number": "INV-88751",
+    "date": "2025-12-31",
+    "items": [
+        {
+            "description": "Synergized regional Internet solution",
+            "quantity": 8,
+            "unit_price": 385.65,
+            "total_price": 3085.2
+        },
+        {
+            "description": "Team-oriented context-sensitive Local Area Network",
+            "quantity": 5,
+            "unit_price": 80.27,
+            "total_price": 401.35
+        }
+    ],
+    "amount": 3486.55
+}

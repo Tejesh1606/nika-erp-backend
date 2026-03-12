@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gibbs-Mendez",
+    "invoice_number": "INV-31945",
+    "date": "2025-09-22",
+    "items": [
+        {
+            "description": "Networked web-enabled project",
+            "quantity": 9,
+            "unit_price": 322.81,
+            "total_price": 2905.29
+        },
+        {
+            "description": "Versatile multimedia hub",
+            "quantity": 4,
+            "unit_price": 441.75,
+            "total_price": 1767.0
+        }
+    ],
+    "amount": 4672.29
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hunter, Massey and Alvarez",
+    "invoice_number": "INV-62883",
+    "date": "2025-03-29",
+    "items": [
+        {
+            "description": "Triple-buffered clear-thinking budgetary management",
+            "quantity": 10,
+            "unit_price": 445.47,
+            "total_price": 4454.7
+        },
+        {
+            "description": "Multi-lateral object-oriented parallelism",
+            "quantity": 4,
+            "unit_price": 193.62,
+            "total_price": 774.48
+        },
+        {
+            "description": "Distributed modular portal",
+            "quantity": 8,
+            "unit_price": 180.69,
+            "total_price": 1445.52
+        },
+        {
+            "description": "Function-based didactic knowledgebase",
+            "quantity": 3,
+            "unit_price": 149.2,
+            "total_price": 447.6
+        }
+    ],
+    "amount": 7122.3
+}

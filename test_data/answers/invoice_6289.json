@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Johnson, Mack and Browning",
+    "invoice_number": "INV-78250",
+    "date": "2025-06-22",
+    "items": [
+        {
+            "description": "Decentralized local collaboration",
+            "quantity": 8,
+            "unit_price": 316.4,
+            "total_price": 2531.2
+        },
+        {
+            "description": "Pre-emptive demand-driven flexibility",
+            "quantity": 4,
+            "unit_price": 269.97,
+            "total_price": 1079.88
+        }
+    ],
+    "amount": 3611.08
+}

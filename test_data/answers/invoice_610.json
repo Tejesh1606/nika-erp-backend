@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Riggs-Coffey",
+    "invoice_number": "INV-88059",
+    "date": "2026-03-06",
+    "items": [
+        {
+            "description": "Distributed modular system engine",
+            "quantity": 2,
+            "unit_price": 191.11,
+            "total_price": 382.22
+        }
+    ],
+    "amount": 382.22
+}

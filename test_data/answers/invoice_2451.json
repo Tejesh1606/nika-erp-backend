@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Anderson LLC",
+    "invoice_number": "INV-18242",
+    "date": "2025-07-29",
+    "items": [
+        {
+            "description": "Profit-focused high-level algorithm",
+            "quantity": 1,
+            "unit_price": 275.93,
+            "total_price": 275.93
+        },
+        {
+            "description": "Compatible holistic customer loyalty",
+            "quantity": 7,
+            "unit_price": 325.57,
+            "total_price": 2278.99
+        },
+        {
+            "description": "Synergized 24hour architecture",
+            "quantity": 6,
+            "unit_price": 348.07,
+            "total_price": 2088.42
+        },
+        {
+            "description": "Organic discrete service-desk",
+            "quantity": 3,
+            "unit_price": 416.33,
+            "total_price": 1248.99
+        }
+    ],
+    "amount": 5892.33
+}

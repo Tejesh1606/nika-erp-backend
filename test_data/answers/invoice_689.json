@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Coleman Inc",
+    "invoice_number": "INV-20188",
+    "date": "2025-03-16",
+    "items": [
+        {
+            "description": "Vision-oriented mission-critical system engine",
+            "quantity": 4,
+            "unit_price": 362.03,
+            "total_price": 1448.12
+        },
+        {
+            "description": "Optional 6thgeneration customer loyalty",
+            "quantity": 8,
+            "unit_price": 219.67,
+            "total_price": 1757.36
+        },
+        {
+            "description": "Customer-focused 5thgeneration utilization",
+            "quantity": 3,
+            "unit_price": 418.69,
+            "total_price": 1256.07
+        },
+        {
+            "description": "Switchable multimedia parallelism",
+            "quantity": 6,
+            "unit_price": 67.9,
+            "total_price": 407.4
+        }
+    ],
+    "amount": 4868.95
+}

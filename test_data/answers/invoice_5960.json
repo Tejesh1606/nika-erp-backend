@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Prince, Rodriguez and Hutchinson",
+    "invoice_number": "INV-48446",
+    "date": "2026-01-16",
+    "items": [
+        {
+            "description": "Persevering radical approach",
+            "quantity": 1,
+            "unit_price": 288.89,
+            "total_price": 288.89
+        },
+        {
+            "description": "Fundamental executive knowledgebase",
+            "quantity": 6,
+            "unit_price": 490.58,
+            "total_price": 2943.48
+        }
+    ],
+    "amount": 3232.37
+}

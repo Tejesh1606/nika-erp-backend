@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Obrien Inc",
+    "invoice_number": "INV-67551",
+    "date": "2025-12-25",
+    "items": [
+        {
+            "description": "Innovative mobile success",
+            "quantity": 3,
+            "unit_price": 79.73,
+            "total_price": 239.19
+        },
+        {
+            "description": "Focused human-resource Internet solution",
+            "quantity": 5,
+            "unit_price": 358.08,
+            "total_price": 1790.4
+        },
+        {
+            "description": "Multi-lateral demand-driven pricing structure",
+            "quantity": 1,
+            "unit_price": 490.42,
+            "total_price": 490.42
+        },
+        {
+            "description": "Organic secondary moderator",
+            "quantity": 4,
+            "unit_price": 289.07,
+            "total_price": 1156.28
+        }
+    ],
+    "amount": 3676.29
+}

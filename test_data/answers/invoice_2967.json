@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cameron PLC",
+    "invoice_number": "INV-50125",
+    "date": "2025-08-09",
+    "items": [
+        {
+            "description": "Virtual well-modulated functionalities",
+            "quantity": 2,
+            "unit_price": 327.06,
+            "total_price": 654.12
+        },
+        {
+            "description": "Organized empowering product",
+            "quantity": 10,
+            "unit_price": 438.38,
+            "total_price": 4383.8
+        },
+        {
+            "description": "Self-enabling encompassing implementation",
+            "quantity": 8,
+            "unit_price": 21.67,
+            "total_price": 173.36
+        }
+    ],
+    "amount": 5211.28
+}

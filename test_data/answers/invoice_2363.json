@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Powell Inc",
+    "invoice_number": "INV-58200",
+    "date": "2025-11-19",
+    "items": [
+        {
+            "description": "Innovative system-worthy array",
+            "quantity": 1,
+            "unit_price": 100.04,
+            "total_price": 100.04
+        },
+        {
+            "description": "Programmable holistic model",
+            "quantity": 2,
+            "unit_price": 480.08,
+            "total_price": 960.16
+        }
+    ],
+    "amount": 1060.2
+}

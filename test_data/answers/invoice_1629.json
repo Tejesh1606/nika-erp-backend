@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Collins-Hodges",
+    "invoice_number": "INV-80950",
+    "date": "2026-02-26",
+    "items": [
+        {
+            "description": "Configurable transitional neural-net",
+            "quantity": 5,
+            "unit_price": 495.56,
+            "total_price": 2477.8
+        },
+        {
+            "description": "Re-engineered system-worthy moratorium",
+            "quantity": 7,
+            "unit_price": 170.31,
+            "total_price": 1192.17
+        },
+        {
+            "description": "Innovative neutral protocol",
+            "quantity": 7,
+            "unit_price": 115.03,
+            "total_price": 805.21
+        },
+        {
+            "description": "Innovative bandwidth-monitored initiative",
+            "quantity": 4,
+            "unit_price": 478.21,
+            "total_price": 1912.84
+        }
+    ],
+    "amount": 6388.02
+}

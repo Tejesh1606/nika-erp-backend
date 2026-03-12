@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Smith PLC",
+    "invoice_number": "INV-44881",
+    "date": "2025-08-10",
+    "items": [
+        {
+            "description": "Polarized clear-thinking protocol",
+            "quantity": 1,
+            "unit_price": 342.74,
+            "total_price": 342.74
+        },
+        {
+            "description": "Reduced zero-defect concept",
+            "quantity": 6,
+            "unit_price": 473.8,
+            "total_price": 2842.8
+        }
+    ],
+    "amount": 3185.54
+}

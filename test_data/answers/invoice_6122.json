@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Clements-Ross",
+    "invoice_number": "INV-41963",
+    "date": "2026-01-18",
+    "items": [
+        {
+            "description": "Innovative contextually-based utilization",
+            "quantity": 3,
+            "unit_price": 453.91,
+            "total_price": 1361.73
+        },
+        {
+            "description": "Profound 5thgeneration portal",
+            "quantity": 5,
+            "unit_price": 84.35,
+            "total_price": 421.75
+        }
+    ],
+    "amount": 1783.48
+}

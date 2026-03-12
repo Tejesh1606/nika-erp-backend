@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Merritt PLC",
+    "invoice_number": "INV-64140",
+    "date": "2025-12-06",
+    "items": [
+        {
+            "description": "Multi-layered logistical synergy",
+            "quantity": 2,
+            "unit_price": 312.33,
+            "total_price": 624.66
+        },
+        {
+            "description": "Configurable optimal attitude",
+            "quantity": 8,
+            "unit_price": 85.2,
+            "total_price": 681.6
+        },
+        {
+            "description": "Profit-focused client-driven productivity",
+            "quantity": 5,
+            "unit_price": 174.48,
+            "total_price": 872.4
+        }
+    ],
+    "amount": 2178.66
+}

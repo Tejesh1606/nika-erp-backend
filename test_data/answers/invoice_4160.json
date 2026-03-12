@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Price-Mason",
+    "invoice_number": "INV-42110",
+    "date": "2026-01-06",
+    "items": [
+        {
+            "description": "User-centric actuating data-warehouse",
+            "quantity": 10,
+            "unit_price": 284.35,
+            "total_price": 2843.5
+        },
+        {
+            "description": "Distributed grid-enabled system engine",
+            "quantity": 2,
+            "unit_price": 169.86,
+            "total_price": 339.72
+        },
+        {
+            "description": "Exclusive human-resource orchestration",
+            "quantity": 4,
+            "unit_price": 454.25,
+            "total_price": 1817.0
+        },
+        {
+            "description": "Multi-layered transitional circuit",
+            "quantity": 3,
+            "unit_price": 222.17,
+            "total_price": 666.51
+        }
+    ],
+    "amount": 5666.73
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mercado-Johnston",
+    "invoice_number": "INV-60328",
+    "date": "2025-09-16",
+    "items": [
+        {
+            "description": "Open-architected dynamic circuit",
+            "quantity": 3,
+            "unit_price": 192.74,
+            "total_price": 578.22
+        },
+        {
+            "description": "Streamlined system-worthy ability",
+            "quantity": 1,
+            "unit_price": 142.44,
+            "total_price": 142.44
+        },
+        {
+            "description": "Versatile zero administration benchmark",
+            "quantity": 4,
+            "unit_price": 56.05,
+            "total_price": 224.2
+        },
+        {
+            "description": "Vision-oriented interactive definition",
+            "quantity": 9,
+            "unit_price": 59.97,
+            "total_price": 539.73
+        }
+    ],
+    "amount": 1484.59
+}

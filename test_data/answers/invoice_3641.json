@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Soto and Sons",
+    "invoice_number": "INV-11314",
+    "date": "2025-05-02",
+    "items": [
+        {
+            "description": "Intuitive dynamic system engine",
+            "quantity": 10,
+            "unit_price": 160.2,
+            "total_price": 1602.0
+        },
+        {
+            "description": "Function-based cohesive encoding",
+            "quantity": 2,
+            "unit_price": 14.23,
+            "total_price": 28.46
+        },
+        {
+            "description": "Public-key interactive intranet",
+            "quantity": 5,
+            "unit_price": 100.39,
+            "total_price": 501.95
+        },
+        {
+            "description": "Balanced local leverage",
+            "quantity": 1,
+            "unit_price": 102.27,
+            "total_price": 102.27
+        }
+    ],
+    "amount": 2234.68
+}

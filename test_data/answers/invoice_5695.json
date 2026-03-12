@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Guerrero-Simmons",
+    "invoice_number": "INV-24161",
+    "date": "2026-03-01",
+    "items": [
+        {
+            "description": "Sharable eco-centric Internet solution",
+            "quantity": 8,
+            "unit_price": 90.38,
+            "total_price": 723.04
+        },
+        {
+            "description": "Open-source actuating toolset",
+            "quantity": 1,
+            "unit_price": 277.84,
+            "total_price": 277.84
+        },
+        {
+            "description": "Customer-focused modular access",
+            "quantity": 10,
+            "unit_price": 203.36,
+            "total_price": 2033.6
+        },
+        {
+            "description": "Visionary user-facing hardware",
+            "quantity": 10,
+            "unit_price": 304.11,
+            "total_price": 3041.1
+        }
+    ],
+    "amount": 6075.58
+}

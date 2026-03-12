@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Estrada-Smith",
+    "invoice_number": "INV-67997",
+    "date": "2025-11-28",
+    "items": [
+        {
+            "description": "Synergized heuristic architecture",
+            "quantity": 7,
+            "unit_price": 129.97,
+            "total_price": 909.79
+        }
+    ],
+    "amount": 909.79
+}

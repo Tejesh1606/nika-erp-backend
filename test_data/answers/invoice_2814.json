@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Fisher, Ponce and Dillon",
+    "invoice_number": "INV-99139",
+    "date": "2025-10-27",
+    "items": [
+        {
+            "description": "Reverse-engineered neutral task-force",
+            "quantity": 1,
+            "unit_price": 499.15,
+            "total_price": 499.15
+        }
+    ],
+    "amount": 499.15
+}

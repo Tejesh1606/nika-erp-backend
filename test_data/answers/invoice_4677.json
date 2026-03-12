@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bradley, David and Cowan",
+    "invoice_number": "INV-82896",
+    "date": "2026-02-18",
+    "items": [
+        {
+            "description": "Distributed contextually-based toolset",
+            "quantity": 5,
+            "unit_price": 29.11,
+            "total_price": 145.55
+        },
+        {
+            "description": "Organized secondary model",
+            "quantity": 2,
+            "unit_price": 438.97,
+            "total_price": 877.94
+        },
+        {
+            "description": "Cross-platform even-keeled interface",
+            "quantity": 7,
+            "unit_price": 310.1,
+            "total_price": 2170.7
+        }
+    ],
+    "amount": 3194.19
+}

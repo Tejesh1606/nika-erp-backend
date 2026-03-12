@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Johnson-Wyatt",
+    "invoice_number": "INV-25887",
+    "date": "2025-04-18",
+    "items": [
+        {
+            "description": "Synergized content-based approach",
+            "quantity": 8,
+            "unit_price": 304.4,
+            "total_price": 2435.2
+        }
+    ],
+    "amount": 2435.2
+}

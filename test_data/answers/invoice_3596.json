@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Vang Group",
+    "invoice_number": "INV-63243",
+    "date": "2025-11-22",
+    "items": [
+        {
+            "description": "Down-sized multi-tasking algorithm",
+            "quantity": 7,
+            "unit_price": 114.17,
+            "total_price": 799.19
+        },
+        {
+            "description": "Monitored static secured line",
+            "quantity": 1,
+            "unit_price": 468.96,
+            "total_price": 468.96
+        },
+        {
+            "description": "Team-oriented multi-tasking Local Area Network",
+            "quantity": 5,
+            "unit_price": 256.16,
+            "total_price": 1280.8
+        }
+    ],
+    "amount": 2548.95
+}

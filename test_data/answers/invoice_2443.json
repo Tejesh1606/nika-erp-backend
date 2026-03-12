@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Taylor-Franklin",
+    "invoice_number": "INV-54429",
+    "date": "2025-05-09",
+    "items": [
+        {
+            "description": "Team-oriented dedicated throughput",
+            "quantity": 9,
+            "unit_price": 41.98,
+            "total_price": 377.82
+        },
+        {
+            "description": "Persevering web-enabled hub",
+            "quantity": 7,
+            "unit_price": 432.64,
+            "total_price": 3028.48
+        },
+        {
+            "description": "Re-contextualized maximized standardization",
+            "quantity": 1,
+            "unit_price": 418.82,
+            "total_price": 418.82
+        }
+    ],
+    "amount": 3825.12
+}

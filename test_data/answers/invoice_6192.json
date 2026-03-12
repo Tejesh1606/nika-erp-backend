@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gonzalez Inc",
+    "invoice_number": "INV-67231",
+    "date": "2025-05-15",
+    "items": [
+        {
+            "description": "Persistent fault-tolerant secured line",
+            "quantity": 4,
+            "unit_price": 144.75,
+            "total_price": 579.0
+        }
+    ],
+    "amount": 579.0
+}

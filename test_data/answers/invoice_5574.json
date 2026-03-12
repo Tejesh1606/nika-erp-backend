@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Arnold Ltd",
+    "invoice_number": "INV-45721",
+    "date": "2025-03-27",
+    "items": [
+        {
+            "description": "Streamlined object-oriented success",
+            "quantity": 2,
+            "unit_price": 343.17,
+            "total_price": 686.34
+        },
+        {
+            "description": "Upgradable upward-trending process improvement",
+            "quantity": 5,
+            "unit_price": 98.16,
+            "total_price": 490.8
+        },
+        {
+            "description": "Reduced bifurcated functionalities",
+            "quantity": 3,
+            "unit_price": 254.68,
+            "total_price": 764.04
+        }
+    ],
+    "amount": 1941.18
+}

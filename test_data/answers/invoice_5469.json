@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Adkins-Cooper",
+    "invoice_number": "INV-89607",
+    "date": "2025-09-14",
+    "items": [
+        {
+            "description": "Multi-layered encompassing definition",
+            "quantity": 3,
+            "unit_price": 87.81,
+            "total_price": 263.43
+        },
+        {
+            "description": "Horizontal fresh-thinking encoding",
+            "quantity": 2,
+            "unit_price": 339.49,
+            "total_price": 678.98
+        },
+        {
+            "description": "Multi-tiered explicit process improvement",
+            "quantity": 10,
+            "unit_price": 448.21,
+            "total_price": 4482.1
+        },
+        {
+            "description": "Re-contextualized hybrid attitude",
+            "quantity": 3,
+            "unit_price": 340.31,
+            "total_price": 1020.93
+        }
+    ],
+    "amount": 6445.44
+}

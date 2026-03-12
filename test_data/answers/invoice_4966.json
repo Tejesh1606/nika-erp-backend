@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Sweeney, Mills and Turner",
+    "invoice_number": "INV-64036",
+    "date": "2025-07-25",
+    "items": [
+        {
+            "description": "Up-sized full-range paradigm",
+            "quantity": 6,
+            "unit_price": 440.1,
+            "total_price": 2640.6
+        },
+        {
+            "description": "Digitized background strategy",
+            "quantity": 4,
+            "unit_price": 331.04,
+            "total_price": 1324.16
+        },
+        {
+            "description": "Progressive optimizing functionalities",
+            "quantity": 7,
+            "unit_price": 274.26,
+            "total_price": 1919.82
+        },
+        {
+            "description": "Networked needs-based middleware",
+            "quantity": 10,
+            "unit_price": 212.13,
+            "total_price": 2121.3
+        }
+    ],
+    "amount": 8005.88
+}

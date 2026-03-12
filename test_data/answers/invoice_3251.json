@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Johnson-Barnes",
+    "invoice_number": "INV-90385",
+    "date": "2025-06-14",
+    "items": [
+        {
+            "description": "Programmable 4thgeneration functionalities",
+            "quantity": 8,
+            "unit_price": 176.67,
+            "total_price": 1413.36
+        }
+    ],
+    "amount": 1413.36
+}

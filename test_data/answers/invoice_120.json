@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ramirez and Sons",
+    "invoice_number": "INV-27038",
+    "date": "2025-10-04",
+    "items": [
+        {
+            "description": "Function-based context-sensitive budgetary management",
+            "quantity": 2,
+            "unit_price": 57.53,
+            "total_price": 115.06
+        },
+        {
+            "description": "Switchable 4thgeneration capacity",
+            "quantity": 4,
+            "unit_price": 130.25,
+            "total_price": 521.0
+        },
+        {
+            "description": "Advanced heuristic utilization",
+            "quantity": 5,
+            "unit_price": 489.37,
+            "total_price": 2446.85
+        }
+    ],
+    "amount": 3082.91
+}

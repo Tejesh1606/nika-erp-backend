@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Stevens, Chen and Stewart",
+    "invoice_number": "INV-73514",
+    "date": "2026-03-06",
+    "items": [
+        {
+            "description": "Total asynchronous throughput",
+            "quantity": 6,
+            "unit_price": 471.46,
+            "total_price": 2828.76
+        },
+        {
+            "description": "Robust didactic Internet solution",
+            "quantity": 7,
+            "unit_price": 262.24,
+            "total_price": 1835.68
+        }
+    ],
+    "amount": 4664.44
+}

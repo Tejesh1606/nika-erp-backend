@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Chapman and Sons",
+    "invoice_number": "INV-12130",
+    "date": "2025-12-13",
+    "items": [
+        {
+            "description": "Automated client-driven hardware",
+            "quantity": 8,
+            "unit_price": 352.17,
+            "total_price": 2817.36
+        }
+    ],
+    "amount": 2817.36
+}

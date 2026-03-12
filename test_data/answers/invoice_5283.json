@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Sandoval Ltd",
+    "invoice_number": "INV-97155",
+    "date": "2025-09-18",
+    "items": [
+        {
+            "description": "Virtual composite function",
+            "quantity": 9,
+            "unit_price": 339.5,
+            "total_price": 3055.5
+        },
+        {
+            "description": "Function-based mission-critical middleware",
+            "quantity": 5,
+            "unit_price": 186.78,
+            "total_price": 933.9
+        }
+    ],
+    "amount": 3989.4
+}

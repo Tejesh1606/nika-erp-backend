@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jackson, Osborne and Saunders",
+    "invoice_number": "INV-18185",
+    "date": "2025-04-01",
+    "items": [
+        {
+            "description": "Organized hybrid monitoring",
+            "quantity": 9,
+            "unit_price": 272.56,
+            "total_price": 2453.04
+        }
+    ],
+    "amount": 2453.04
+}

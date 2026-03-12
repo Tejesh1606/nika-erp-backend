@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Avila, Weeks and Crawford",
+    "invoice_number": "INV-64609",
+    "date": "2025-11-22",
+    "items": [
+        {
+            "description": "Reactive asynchronous implementation",
+            "quantity": 8,
+            "unit_price": 434.55,
+            "total_price": 3476.4
+        },
+        {
+            "description": "Polarized multi-tasking function",
+            "quantity": 8,
+            "unit_price": 369.48,
+            "total_price": 2955.84
+        },
+        {
+            "description": "Extended fault-tolerant service-desk",
+            "quantity": 8,
+            "unit_price": 420.15,
+            "total_price": 3361.2
+        },
+        {
+            "description": "Automated mobile solution",
+            "quantity": 1,
+            "unit_price": 384.71,
+            "total_price": 384.71
+        }
+    ],
+    "amount": 10178.15
+}

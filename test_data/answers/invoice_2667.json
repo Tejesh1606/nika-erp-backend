@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Anderson, Carter and Peters",
+    "invoice_number": "INV-28876",
+    "date": "2026-01-03",
+    "items": [
+        {
+            "description": "Fully-configurable content-based intranet",
+            "quantity": 1,
+            "unit_price": 128.29,
+            "total_price": 128.29
+        },
+        {
+            "description": "Stand-alone upward-trending collaboration",
+            "quantity": 3,
+            "unit_price": 69.43,
+            "total_price": 208.29
+        }
+    ],
+    "amount": 336.58
+}

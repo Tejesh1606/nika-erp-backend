@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Logan LLC",
+    "invoice_number": "INV-13735",
+    "date": "2026-02-17",
+    "items": [
+        {
+            "description": "Phased 5thgeneration support",
+            "quantity": 4,
+            "unit_price": 224.05,
+            "total_price": 896.2
+        }
+    ],
+    "amount": 896.2
+}

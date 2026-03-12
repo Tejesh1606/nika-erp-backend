@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hubbard LLC",
+    "invoice_number": "INV-25917",
+    "date": "2025-09-19",
+    "items": [
+        {
+            "description": "Visionary zero-defect monitoring",
+            "quantity": 4,
+            "unit_price": 309.39,
+            "total_price": 1237.56
+        }
+    ],
+    "amount": 1237.56
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Rasmussen, Obrien and Skinner",
+    "invoice_number": "INV-96798",
+    "date": "2026-01-13",
+    "items": [
+        {
+            "description": "Business-focused system-worthy toolset",
+            "quantity": 4,
+            "unit_price": 369.78,
+            "total_price": 1479.12
+        },
+        {
+            "description": "Synchronized disintermediate extranet",
+            "quantity": 9,
+            "unit_price": 24.32,
+            "total_price": 218.88
+        }
+    ],
+    "amount": 1698.0
+}

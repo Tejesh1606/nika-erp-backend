@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Garner, Smith and Morgan",
+    "invoice_number": "INV-95188",
+    "date": "2025-06-06",
+    "items": [
+        {
+            "description": "Adaptive zero-defect project",
+            "quantity": 10,
+            "unit_price": 155.38,
+            "total_price": 1553.8
+        },
+        {
+            "description": "Progressive zero tolerance support",
+            "quantity": 3,
+            "unit_price": 229.61,
+            "total_price": 688.83
+        }
+    ],
+    "amount": 2242.63
+}

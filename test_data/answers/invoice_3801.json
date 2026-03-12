@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Robinson, Ingram and Mcgee",
+    "invoice_number": "INV-26716",
+    "date": "2025-10-30",
+    "items": [
+        {
+            "description": "Future-proofed context-sensitive Local Area Network",
+            "quantity": 6,
+            "unit_price": 23.1,
+            "total_price": 138.6
+        },
+        {
+            "description": "Triple-buffered actuating challenge",
+            "quantity": 9,
+            "unit_price": 296.85,
+            "total_price": 2671.65
+        }
+    ],
+    "amount": 2810.25
+}

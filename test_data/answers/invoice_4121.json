@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bell-Rice",
+    "invoice_number": "INV-28896",
+    "date": "2026-02-12",
+    "items": [
+        {
+            "description": "Up-sized tertiary open system",
+            "quantity": 2,
+            "unit_price": 144.68,
+            "total_price": 289.36
+        },
+        {
+            "description": "Inverse content-based utilization",
+            "quantity": 9,
+            "unit_price": 399.77,
+            "total_price": 3597.93
+        }
+    ],
+    "amount": 3887.29
+}

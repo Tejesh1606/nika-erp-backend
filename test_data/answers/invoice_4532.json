@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lee-Mendez",
+    "invoice_number": "INV-10366",
+    "date": "2025-07-15",
+    "items": [
+        {
+            "description": "Extended modular info-mediaries",
+            "quantity": 9,
+            "unit_price": 392.45,
+            "total_price": 3532.05
+        }
+    ],
+    "amount": 3532.05
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Chandler Inc",
+    "invoice_number": "INV-90906",
+    "date": "2026-02-28",
+    "items": [
+        {
+            "description": "Multi-channeled scalable parallelism",
+            "quantity": 2,
+            "unit_price": 345.86,
+            "total_price": 691.72
+        },
+        {
+            "description": "Stand-alone system-worthy contingency",
+            "quantity": 6,
+            "unit_price": 459.6,
+            "total_price": 2757.6
+        }
+    ],
+    "amount": 3449.32
+}

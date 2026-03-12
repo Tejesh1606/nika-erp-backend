@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Meadows and Sons",
+    "invoice_number": "INV-96876",
+    "date": "2025-10-18",
+    "items": [
+        {
+            "description": "Quality-focused hybrid database",
+            "quantity": 2,
+            "unit_price": 488.83,
+            "total_price": 977.66
+        }
+    ],
+    "amount": 977.66
+}

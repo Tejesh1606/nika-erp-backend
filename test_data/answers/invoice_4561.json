@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Orr-Wheeler",
+    "invoice_number": "INV-49828",
+    "date": "2025-08-23",
+    "items": [
+        {
+            "description": "Upgradable fault-tolerant forecast",
+            "quantity": 7,
+            "unit_price": 106.58,
+            "total_price": 746.06
+        },
+        {
+            "description": "Right-sized empowering approach",
+            "quantity": 8,
+            "unit_price": 78.66,
+            "total_price": 629.28
+        }
+    ],
+    "amount": 1375.34
+}

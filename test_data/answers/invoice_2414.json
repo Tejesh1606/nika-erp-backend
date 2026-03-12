@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Cook, Castillo and Todd",
+    "invoice_number": "INV-95411",
+    "date": "2026-02-27",
+    "items": [
+        {
+            "description": "Upgradable secondary throughput",
+            "quantity": 3,
+            "unit_price": 224.69,
+            "total_price": 674.07
+        },
+        {
+            "description": "Implemented 24hour function",
+            "quantity": 7,
+            "unit_price": 50.57,
+            "total_price": 353.99
+        },
+        {
+            "description": "Fully-configurable fault-tolerant matrix",
+            "quantity": 10,
+            "unit_price": 448.58,
+            "total_price": 4485.8
+        },
+        {
+            "description": "Function-based bottom-line strategy",
+            "quantity": 8,
+            "unit_price": 198.38,
+            "total_price": 1587.04
+        }
+    ],
+    "amount": 7100.9
+}

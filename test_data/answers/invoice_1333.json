@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Owens-Preston",
+    "invoice_number": "INV-29949",
+    "date": "2025-11-16",
+    "items": [
+        {
+            "description": "Managed asynchronous contingency",
+            "quantity": 9,
+            "unit_price": 410.75,
+            "total_price": 3696.75
+        },
+        {
+            "description": "Stand-alone object-oriented Graphical User Interface",
+            "quantity": 7,
+            "unit_price": 453.72,
+            "total_price": 3176.04
+        },
+        {
+            "description": "Persevering multi-tasking time-frame",
+            "quantity": 5,
+            "unit_price": 270.75,
+            "total_price": 1353.75
+        },
+        {
+            "description": "Team-oriented user-facing Internet solution",
+            "quantity": 2,
+            "unit_price": 450.62,
+            "total_price": 901.24
+        }
+    ],
+    "amount": 9127.78
+}

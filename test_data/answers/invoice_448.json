@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Olson Group",
+    "invoice_number": "INV-72786",
+    "date": "2025-05-29",
+    "items": [
+        {
+            "description": "Reverse-engineered cohesive project",
+            "quantity": 6,
+            "unit_price": 220.86,
+            "total_price": 1325.16
+        }
+    ],
+    "amount": 1325.16
+}

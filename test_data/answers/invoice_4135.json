@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Harrison-Alvarez",
+    "invoice_number": "INV-91379",
+    "date": "2025-12-26",
+    "items": [
+        {
+            "description": "Monitored secondary definition",
+            "quantity": 2,
+            "unit_price": 257.73,
+            "total_price": 515.46
+        },
+        {
+            "description": "Ergonomic value-added forecast",
+            "quantity": 10,
+            "unit_price": 428.61,
+            "total_price": 4286.1
+        },
+        {
+            "description": "Digitized client-driven Graphic Interface",
+            "quantity": 8,
+            "unit_price": 257.3,
+            "total_price": 2058.4
+        },
+        {
+            "description": "Extended optimizing definition",
+            "quantity": 4,
+            "unit_price": 64.94,
+            "total_price": 259.76
+        }
+    ],
+    "amount": 7119.72
+}

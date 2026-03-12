@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Carrillo-Russell",
+    "invoice_number": "INV-15333",
+    "date": "2025-10-30",
+    "items": [
+        {
+            "description": "Seamless uniform software",
+            "quantity": 9,
+            "unit_price": 396.31,
+            "total_price": 3566.79
+        },
+        {
+            "description": "Multi-tiered multi-tasking encoding",
+            "quantity": 7,
+            "unit_price": 321.25,
+            "total_price": 2248.75
+        },
+        {
+            "description": "Ergonomic executive time-frame",
+            "quantity": 1,
+            "unit_price": 48.03,
+            "total_price": 48.03
+        },
+        {
+            "description": "Future-proofed 3rdgeneration adapter",
+            "quantity": 8,
+            "unit_price": 252.03,
+            "total_price": 2016.24
+        }
+    ],
+    "amount": 7879.81
+}

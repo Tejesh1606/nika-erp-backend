@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Meyer-Espinoza",
+    "invoice_number": "INV-62556",
+    "date": "2025-06-15",
+    "items": [
+        {
+            "description": "Advanced well-modulated budgetary management",
+            "quantity": 5,
+            "unit_price": 91.72,
+            "total_price": 458.6
+        },
+        {
+            "description": "Managed leadingedge knowledge user",
+            "quantity": 10,
+            "unit_price": 72.56,
+            "total_price": 725.6
+        },
+        {
+            "description": "Implemented incremental info-mediaries",
+            "quantity": 10,
+            "unit_price": 292.43,
+            "total_price": 2924.3
+        },
+        {
+            "description": "Devolved bifurcated policy",
+            "quantity": 3,
+            "unit_price": 452.59,
+            "total_price": 1357.77
+        }
+    ],
+    "amount": 5466.27
+}

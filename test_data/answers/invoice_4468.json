@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Marshall-Williams",
+    "invoice_number": "INV-71172",
+    "date": "2025-07-27",
+    "items": [
+        {
+            "description": "Cross-platform multi-tasking solution",
+            "quantity": 6,
+            "unit_price": 490.05,
+            "total_price": 2940.3
+        },
+        {
+            "description": "Object-based client-driven benchmark",
+            "quantity": 6,
+            "unit_price": 57.88,
+            "total_price": 347.28
+        },
+        {
+            "description": "Adaptive non-volatile middleware",
+            "quantity": 8,
+            "unit_price": 327.8,
+            "total_price": 2622.4
+        }
+    ],
+    "amount": 5909.98
+}

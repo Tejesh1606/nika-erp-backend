@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Dunn Ltd",
+    "invoice_number": "INV-83284",
+    "date": "2026-02-27",
+    "items": [
+        {
+            "description": "Reduced grid-enabled hardware",
+            "quantity": 6,
+            "unit_price": 251.44,
+            "total_price": 1508.64
+        }
+    ],
+    "amount": 1508.64
+}

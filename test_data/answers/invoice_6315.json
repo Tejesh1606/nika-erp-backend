@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Grimes and Sons",
+    "invoice_number": "INV-17473",
+    "date": "2025-07-06",
+    "items": [
+        {
+            "description": "Balanced dynamic productivity",
+            "quantity": 2,
+            "unit_price": 226.93,
+            "total_price": 453.86
+        }
+    ],
+    "amount": 453.86
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Alexander LLC",
+    "invoice_number": "INV-22820",
+    "date": "2025-03-28",
+    "items": [
+        {
+            "description": "Streamlined homogeneous superstructure",
+            "quantity": 1,
+            "unit_price": 494.1,
+            "total_price": 494.1
+        },
+        {
+            "description": "Optimized content-based frame",
+            "quantity": 10,
+            "unit_price": 223.26,
+            "total_price": 2232.6
+        },
+        {
+            "description": "Ergonomic impactful conglomeration",
+            "quantity": 4,
+            "unit_price": 132.68,
+            "total_price": 530.72
+        },
+        {
+            "description": "Right-sized even-keeled moderator",
+            "quantity": 1,
+            "unit_price": 474.13,
+            "total_price": 474.13
+        }
+    ],
+    "amount": 3731.55
+}

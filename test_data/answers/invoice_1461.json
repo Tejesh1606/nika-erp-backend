@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hamilton Ltd",
+    "invoice_number": "INV-32646",
+    "date": "2025-05-06",
+    "items": [
+        {
+            "description": "Reverse-engineered contextually-based data-warehouse",
+            "quantity": 9,
+            "unit_price": 158.11,
+            "total_price": 1422.99
+        },
+        {
+            "description": "Cross-platform 3rdgeneration infrastructure",
+            "quantity": 7,
+            "unit_price": 72.5,
+            "total_price": 507.5
+        },
+        {
+            "description": "Phased coherent flexibility",
+            "quantity": 3,
+            "unit_price": 469.09,
+            "total_price": 1407.27
+        }
+    ],
+    "amount": 3337.76
+}

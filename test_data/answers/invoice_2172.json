@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hill LLC",
+    "invoice_number": "INV-85554",
+    "date": "2025-03-13",
+    "items": [
+        {
+            "description": "Ameliorated user-facing utilization",
+            "quantity": 9,
+            "unit_price": 250.48,
+            "total_price": 2254.32
+        },
+        {
+            "description": "Secured stable success",
+            "quantity": 6,
+            "unit_price": 238.64,
+            "total_price": 1431.84
+        }
+    ],
+    "amount": 3686.16
+}

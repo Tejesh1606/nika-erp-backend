@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Carter, Stevens and Oliver",
+    "invoice_number": "INV-69178",
+    "date": "2025-11-25",
+    "items": [
+        {
+            "description": "Assimilated incremental software",
+            "quantity": 10,
+            "unit_price": 361.97,
+            "total_price": 3619.7
+        }
+    ],
+    "amount": 3619.7
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Martin and Sons",
+    "invoice_number": "INV-49397",
+    "date": "2026-02-16",
+    "items": [
+        {
+            "description": "Right-sized tangible moderator",
+            "quantity": 6,
+            "unit_price": 303.24,
+            "total_price": 1819.44
+        }
+    ],
+    "amount": 1819.44
+}

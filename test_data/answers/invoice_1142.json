@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Montoya, Rivera and Todd",
+    "invoice_number": "INV-18169",
+    "date": "2025-06-08",
+    "items": [
+        {
+            "description": "Proactive asynchronous workforce",
+            "quantity": 4,
+            "unit_price": 472.1,
+            "total_price": 1888.4
+        },
+        {
+            "description": "Re-contextualized reciprocal standardization",
+            "quantity": 6,
+            "unit_price": 51.84,
+            "total_price": 311.04
+        },
+        {
+            "description": "Virtual 5thgeneration hardware",
+            "quantity": 1,
+            "unit_price": 227.36,
+            "total_price": 227.36
+        },
+        {
+            "description": "Compatible intangible policy",
+            "quantity": 4,
+            "unit_price": 154.84,
+            "total_price": 619.36
+        }
+    ],
+    "amount": 3046.16
+}

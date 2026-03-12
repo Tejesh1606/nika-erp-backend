@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lozano Group",
+    "invoice_number": "INV-66124",
+    "date": "2025-10-03",
+    "items": [
+        {
+            "description": "Reactive high-level frame",
+            "quantity": 2,
+            "unit_price": 464.99,
+            "total_price": 929.98
+        }
+    ],
+    "amount": 929.98
+}

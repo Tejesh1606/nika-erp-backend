@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Booker, Simpson and Coleman",
+    "invoice_number": "INV-45481",
+    "date": "2025-10-03",
+    "items": [
+        {
+            "description": "Stand-alone needs-based superstructure",
+            "quantity": 10,
+            "unit_price": 280.65,
+            "total_price": 2806.5
+        },
+        {
+            "description": "Fully-configurable regional hardware",
+            "quantity": 6,
+            "unit_price": 141.87,
+            "total_price": 851.22
+        },
+        {
+            "description": "Realigned fresh-thinking structure",
+            "quantity": 1,
+            "unit_price": 384.59,
+            "total_price": 384.59
+        },
+        {
+            "description": "Synergistic fresh-thinking neural-net",
+            "quantity": 4,
+            "unit_price": 329.0,
+            "total_price": 1316.0
+        }
+    ],
+    "amount": 5358.31
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Coleman, Villegas and Taylor",
+    "invoice_number": "INV-25381",
+    "date": "2025-03-30",
+    "items": [
+        {
+            "description": "Triple-buffered disintermediate encoding",
+            "quantity": 10,
+            "unit_price": 380.21,
+            "total_price": 3802.1
+        },
+        {
+            "description": "Distributed even-keeled open architecture",
+            "quantity": 1,
+            "unit_price": 16.59,
+            "total_price": 16.59
+        },
+        {
+            "description": "Team-oriented methodical methodology",
+            "quantity": 5,
+            "unit_price": 443.2,
+            "total_price": 2216.0
+        },
+        {
+            "description": "Ergonomic human-resource hardware",
+            "quantity": 3,
+            "unit_price": 138.46,
+            "total_price": 415.38
+        }
+    ],
+    "amount": 6450.07
+}

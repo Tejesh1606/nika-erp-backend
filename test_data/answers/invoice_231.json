@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Johnson, Harper and Warner",
+    "invoice_number": "INV-16380",
+    "date": "2025-06-12",
+    "items": [
+        {
+            "description": "User-centric 6thgeneration initiative",
+            "quantity": 1,
+            "unit_price": 175.65,
+            "total_price": 175.65
+        },
+        {
+            "description": "Organic discrete moratorium",
+            "quantity": 5,
+            "unit_price": 324.8,
+            "total_price": 1624.0
+        },
+        {
+            "description": "Extended web-enabled time-frame",
+            "quantity": 7,
+            "unit_price": 10.68,
+            "total_price": 74.76
+        }
+    ],
+    "amount": 1874.41
+}

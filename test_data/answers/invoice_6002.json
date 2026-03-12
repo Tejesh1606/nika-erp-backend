@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Decker, Moore and Ortiz",
+    "invoice_number": "INV-72468",
+    "date": "2025-11-12",
+    "items": [
+        {
+            "description": "Function-based asynchronous parallelism",
+            "quantity": 7,
+            "unit_price": 479.39,
+            "total_price": 3355.73
+        },
+        {
+            "description": "Quality-focused mobile service-desk",
+            "quantity": 7,
+            "unit_price": 331.55,
+            "total_price": 2320.85
+        },
+        {
+            "description": "User-friendly actuating database",
+            "quantity": 2,
+            "unit_price": 101.78,
+            "total_price": 203.56
+        }
+    ],
+    "amount": 5880.14
+}

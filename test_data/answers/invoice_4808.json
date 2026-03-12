@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Bryant Inc",
+    "invoice_number": "INV-74933",
+    "date": "2025-10-03",
+    "items": [
+        {
+            "description": "Visionary disintermediate customer loyalty",
+            "quantity": 8,
+            "unit_price": 496.59,
+            "total_price": 3972.72
+        }
+    ],
+    "amount": 3972.72
+}

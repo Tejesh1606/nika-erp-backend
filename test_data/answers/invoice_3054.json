@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brock LLC",
+    "invoice_number": "INV-93106",
+    "date": "2025-12-05",
+    "items": [
+        {
+            "description": "Business-focused encompassing collaboration",
+            "quantity": 8,
+            "unit_price": 21.34,
+            "total_price": 170.72
+        },
+        {
+            "description": "Distributed secondary software",
+            "quantity": 9,
+            "unit_price": 400.42,
+            "total_price": 3603.78
+        },
+        {
+            "description": "Synergistic exuding Graphical User Interface",
+            "quantity": 1,
+            "unit_price": 258.62,
+            "total_price": 258.62
+        }
+    ],
+    "amount": 4033.12
+}

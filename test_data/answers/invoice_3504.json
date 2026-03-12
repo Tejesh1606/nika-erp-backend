@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jones, Williams and Lang",
+    "invoice_number": "INV-63013",
+    "date": "2026-01-31",
+    "items": [
+        {
+            "description": "Stand-alone high-level capability",
+            "quantity": 6,
+            "unit_price": 52.73,
+            "total_price": 316.38
+        }
+    ],
+    "amount": 316.38
+}

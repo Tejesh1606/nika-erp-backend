@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith-Case",
+    "invoice_number": "INV-17249",
+    "date": "2025-08-14",
+    "items": [
+        {
+            "description": "Multi-channeled secondary workforce",
+            "quantity": 9,
+            "unit_price": 163.51,
+            "total_price": 1471.59
+        }
+    ],
+    "amount": 1471.59
+}

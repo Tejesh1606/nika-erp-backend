@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Martinez, Cline and Wright",
+    "invoice_number": "INV-52217",
+    "date": "2026-01-24",
+    "items": [
+        {
+            "description": "Fully-configurable well-modulated service-desk",
+            "quantity": 9,
+            "unit_price": 142.12,
+            "total_price": 1279.08
+        },
+        {
+            "description": "Object-based mobile circuit",
+            "quantity": 9,
+            "unit_price": 436.31,
+            "total_price": 3926.79
+        },
+        {
+            "description": "Re-engineered responsive flexibility",
+            "quantity": 8,
+            "unit_price": 48.99,
+            "total_price": 391.92
+        }
+    ],
+    "amount": 5597.79
+}

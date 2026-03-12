@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Perry LLC",
+    "invoice_number": "INV-91225",
+    "date": "2025-04-11",
+    "items": [
+        {
+            "description": "Monitored solution-oriented installation",
+            "quantity": 5,
+            "unit_price": 249.93,
+            "total_price": 1249.65
+        },
+        {
+            "description": "Open-architected content-based algorithm",
+            "quantity": 10,
+            "unit_price": 50.29,
+            "total_price": 502.9
+        },
+        {
+            "description": "Team-oriented dedicated implementation",
+            "quantity": 4,
+            "unit_price": 474.95,
+            "total_price": 1899.8
+        }
+    ],
+    "amount": 3652.35
+}

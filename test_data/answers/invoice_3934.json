@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Francis LLC",
+    "invoice_number": "INV-50069",
+    "date": "2026-01-19",
+    "items": [
+        {
+            "description": "Profit-focused mission-critical Internet solution",
+            "quantity": 3,
+            "unit_price": 52.71,
+            "total_price": 158.13
+        },
+        {
+            "description": "Diverse bi-directional instruction set",
+            "quantity": 6,
+            "unit_price": 258.27,
+            "total_price": 1549.62
+        },
+        {
+            "description": "Horizontal next generation encryption",
+            "quantity": 1,
+            "unit_price": 468.69,
+            "total_price": 468.69
+        }
+    ],
+    "amount": 2176.44
+}

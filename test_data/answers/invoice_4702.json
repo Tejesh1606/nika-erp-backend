@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Delacruz-Hester",
+    "invoice_number": "INV-53010",
+    "date": "2025-09-02",
+    "items": [
+        {
+            "description": "Managed high-level firmware",
+            "quantity": 8,
+            "unit_price": 300.01,
+            "total_price": 2400.08
+        },
+        {
+            "description": "Object-based zero tolerance adapter",
+            "quantity": 5,
+            "unit_price": 106.17,
+            "total_price": 530.85
+        },
+        {
+            "description": "Networked next generation core",
+            "quantity": 3,
+            "unit_price": 309.16,
+            "total_price": 927.48
+        },
+        {
+            "description": "Future-proofed zero-defect contingency",
+            "quantity": 4,
+            "unit_price": 255.58,
+            "total_price": 1022.32
+        }
+    ],
+    "amount": 4880.73
+}

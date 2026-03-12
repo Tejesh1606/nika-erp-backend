@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Davis Inc",
+    "invoice_number": "INV-90774",
+    "date": "2026-03-06",
+    "items": [
+        {
+            "description": "Open-source bi-directional methodology",
+            "quantity": 2,
+            "unit_price": 445.33,
+            "total_price": 890.66
+        }
+    ],
+    "amount": 890.66
+}

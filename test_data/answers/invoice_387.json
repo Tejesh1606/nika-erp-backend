@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Rivera-Smith",
+    "invoice_number": "INV-98032",
+    "date": "2025-04-12",
+    "items": [
+        {
+            "description": "Customizable object-oriented secured line",
+            "quantity": 6,
+            "unit_price": 392.24,
+            "total_price": 2353.44
+        }
+    ],
+    "amount": 2353.44
+}

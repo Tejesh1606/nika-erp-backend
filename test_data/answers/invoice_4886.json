@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Schroeder Inc",
+    "invoice_number": "INV-11976",
+    "date": "2025-03-19",
+    "items": [
+        {
+            "description": "Cross-platform content-based capacity",
+            "quantity": 1,
+            "unit_price": 212.74,
+            "total_price": 212.74
+        },
+        {
+            "description": "Organized multi-tasking portal",
+            "quantity": 3,
+            "unit_price": 189.29,
+            "total_price": 567.87
+        }
+    ],
+    "amount": 780.61
+}

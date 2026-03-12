@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Davis-Phelps",
+    "invoice_number": "INV-31356",
+    "date": "2025-08-06",
+    "items": [
+        {
+            "description": "Vision-oriented impactful forecast",
+            "quantity": 5,
+            "unit_price": 206.11,
+            "total_price": 1030.55
+        },
+        {
+            "description": "Stand-alone web-enabled projection",
+            "quantity": 8,
+            "unit_price": 453.91,
+            "total_price": 3631.28
+        },
+        {
+            "description": "Distributed bottom-line framework",
+            "quantity": 10,
+            "unit_price": 97.47,
+            "total_price": 974.7
+        },
+        {
+            "description": "Pre-emptive intermediate support",
+            "quantity": 7,
+            "unit_price": 26.13,
+            "total_price": 182.91
+        }
+    ],
+    "amount": 5819.44
+}

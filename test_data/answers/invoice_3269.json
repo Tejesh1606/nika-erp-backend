@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Rivera LLC",
+    "invoice_number": "INV-48057",
+    "date": "2026-02-24",
+    "items": [
+        {
+            "description": "Open-source multi-state portal",
+            "quantity": 9,
+            "unit_price": 118.29,
+            "total_price": 1064.61
+        },
+        {
+            "description": "Up-sized tangible software",
+            "quantity": 7,
+            "unit_price": 201.85,
+            "total_price": 1412.95
+        }
+    ],
+    "amount": 2477.56
+}

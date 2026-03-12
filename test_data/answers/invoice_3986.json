@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wallace, Phillips and Wright",
+    "invoice_number": "INV-39332",
+    "date": "2026-02-19",
+    "items": [
+        {
+            "description": "Multi-tiered high-level instruction set",
+            "quantity": 7,
+            "unit_price": 475.45,
+            "total_price": 3328.15
+        }
+    ],
+    "amount": 3328.15
+}

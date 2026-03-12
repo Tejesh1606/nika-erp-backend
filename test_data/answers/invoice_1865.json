@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jones Inc",
+    "invoice_number": "INV-65375",
+    "date": "2025-11-29",
+    "items": [
+        {
+            "description": "Upgradable analyzing emulation",
+            "quantity": 9,
+            "unit_price": 117.26,
+            "total_price": 1055.34
+        }
+    ],
+    "amount": 1055.34
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gallegos, Harrison and Patel",
+    "invoice_number": "INV-79842",
+    "date": "2026-02-21",
+    "items": [
+        {
+            "description": "Implemented local process improvement",
+            "quantity": 6,
+            "unit_price": 498.16,
+            "total_price": 2988.96
+        }
+    ],
+    "amount": 2988.96
+}

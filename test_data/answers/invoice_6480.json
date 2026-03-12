@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Taylor-Carter",
+    "invoice_number": "INV-15844",
+    "date": "2025-04-19",
+    "items": [
+        {
+            "description": "Future-proofed actuating hierarchy",
+            "quantity": 2,
+            "unit_price": 456.85,
+            "total_price": 913.7
+        },
+        {
+            "description": "Integrated dedicated policy",
+            "quantity": 5,
+            "unit_price": 11.85,
+            "total_price": 59.25
+        },
+        {
+            "description": "Focused even-keeled implementation",
+            "quantity": 7,
+            "unit_price": 191.76,
+            "total_price": 1342.32
+        }
+    ],
+    "amount": 2315.27
+}

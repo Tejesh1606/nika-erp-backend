@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Foley-Wallace",
+    "invoice_number": "INV-91489",
+    "date": "2025-07-31",
+    "items": [
+        {
+            "description": "Stand-alone uniform adapter",
+            "quantity": 6,
+            "unit_price": 148.31,
+            "total_price": 889.86
+        },
+        {
+            "description": "Sharable impactful capacity",
+            "quantity": 8,
+            "unit_price": 206.02,
+            "total_price": 1648.16
+        }
+    ],
+    "amount": 2538.02
+}

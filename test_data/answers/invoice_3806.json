@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Barker Inc",
+    "invoice_number": "INV-29403",
+    "date": "2025-08-27",
+    "items": [
+        {
+            "description": "Monitored radical encryption",
+            "quantity": 1,
+            "unit_price": 464.32,
+            "total_price": 464.32
+        },
+        {
+            "description": "Re-contextualized tangible toolset",
+            "quantity": 10,
+            "unit_price": 246.08,
+            "total_price": 2460.8
+        },
+        {
+            "description": "Multi-lateral foreground Local Area Network",
+            "quantity": 8,
+            "unit_price": 480.35,
+            "total_price": 3842.8
+        }
+    ],
+    "amount": 6767.92
+}

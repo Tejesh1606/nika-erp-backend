@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Bruce Group",
+    "invoice_number": "INV-96705",
+    "date": "2025-08-11",
+    "items": [
+        {
+            "description": "Adaptive bandwidth-monitored definition",
+            "quantity": 2,
+            "unit_price": 268.15,
+            "total_price": 536.3
+        }
+    ],
+    "amount": 536.3
+}

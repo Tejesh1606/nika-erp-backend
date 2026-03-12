@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Stanton-Harrison",
+    "invoice_number": "INV-22011",
+    "date": "2026-02-24",
+    "items": [
+        {
+            "description": "Business-focused neutral knowledgebase",
+            "quantity": 6,
+            "unit_price": 427.91,
+            "total_price": 2567.46
+        },
+        {
+            "description": "Balanced multimedia contingency",
+            "quantity": 1,
+            "unit_price": 142.44,
+            "total_price": 142.44
+        },
+        {
+            "description": "Networked real-time methodology",
+            "quantity": 1,
+            "unit_price": 390.16,
+            "total_price": 390.16
+        }
+    ],
+    "amount": 3100.06
+}

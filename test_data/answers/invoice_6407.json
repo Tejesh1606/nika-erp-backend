@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Avila, Lamb and Jones",
+    "invoice_number": "INV-19110",
+    "date": "2025-12-16",
+    "items": [
+        {
+            "description": "Organic client-server artificial intelligence",
+            "quantity": 4,
+            "unit_price": 121.85,
+            "total_price": 487.4
+        }
+    ],
+    "amount": 487.4
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Acosta-Wilson",
+    "invoice_number": "INV-86969",
+    "date": "2025-07-30",
+    "items": [
+        {
+            "description": "Intuitive 24hour system engine",
+            "quantity": 1,
+            "unit_price": 126.04,
+            "total_price": 126.04
+        }
+    ],
+    "amount": 126.04
+}

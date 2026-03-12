@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Crosby-Richardson",
+    "invoice_number": "INV-11675",
+    "date": "2025-11-25",
+    "items": [
+        {
+            "description": "Pre-emptive systematic benchmark",
+            "quantity": 5,
+            "unit_price": 96.67,
+            "total_price": 483.35
+        },
+        {
+            "description": "Object-based leadingedge model",
+            "quantity": 9,
+            "unit_price": 309.71,
+            "total_price": 2787.39
+        }
+    ],
+    "amount": 3270.74
+}

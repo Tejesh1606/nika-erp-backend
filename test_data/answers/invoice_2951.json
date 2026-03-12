@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Frank Group",
+    "invoice_number": "INV-31973",
+    "date": "2025-06-09",
+    "items": [
+        {
+            "description": "Extended user-facing support",
+            "quantity": 8,
+            "unit_price": 441.77,
+            "total_price": 3534.16
+        },
+        {
+            "description": "Streamlined zero tolerance productivity",
+            "quantity": 1,
+            "unit_price": 274.72,
+            "total_price": 274.72
+        },
+        {
+            "description": "Innovative leadingedge ability",
+            "quantity": 10,
+            "unit_price": 138.6,
+            "total_price": 1386.0
+        }
+    ],
+    "amount": 5194.88
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Waller LLC",
+    "invoice_number": "INV-28541",
+    "date": "2026-01-14",
+    "items": [
+        {
+            "description": "Monitored logistical infrastructure",
+            "quantity": 3,
+            "unit_price": 37.8,
+            "total_price": 113.4
+        }
+    ],
+    "amount": 113.4
+}

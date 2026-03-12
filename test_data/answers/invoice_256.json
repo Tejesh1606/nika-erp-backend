@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Novak-Nguyen",
+    "invoice_number": "INV-93115",
+    "date": "2025-06-23",
+    "items": [
+        {
+            "description": "Organized mobile emulation",
+            "quantity": 6,
+            "unit_price": 402.52,
+            "total_price": 2415.12
+        }
+    ],
+    "amount": 2415.12
+}

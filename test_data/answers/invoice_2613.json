@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Nelson Inc",
+    "invoice_number": "INV-82645",
+    "date": "2025-06-21",
+    "items": [
+        {
+            "description": "Organized real-time website",
+            "quantity": 9,
+            "unit_price": 88.69,
+            "total_price": 798.21
+        },
+        {
+            "description": "Customizable discrete hub",
+            "quantity": 9,
+            "unit_price": 68.19,
+            "total_price": 613.71
+        }
+    ],
+    "amount": 1411.92
+}

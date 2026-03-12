@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hansen, Wilson and Gonzalez",
+    "invoice_number": "INV-76894",
+    "date": "2025-06-06",
+    "items": [
+        {
+            "description": "Vision-oriented motivating orchestration",
+            "quantity": 2,
+            "unit_price": 343.22,
+            "total_price": 686.44
+        },
+        {
+            "description": "Business-focused bandwidth-monitored architecture",
+            "quantity": 2,
+            "unit_price": 242.22,
+            "total_price": 484.44
+        }
+    ],
+    "amount": 1170.88
+}

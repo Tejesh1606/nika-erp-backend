@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Solis Ltd",
+    "invoice_number": "INV-92548",
+    "date": "2025-08-22",
+    "items": [
+        {
+            "description": "Visionary tertiary superstructure",
+            "quantity": 3,
+            "unit_price": 347.31,
+            "total_price": 1041.93
+        },
+        {
+            "description": "Quality-focused intermediate middleware",
+            "quantity": 6,
+            "unit_price": 39.67,
+            "total_price": 238.02
+        }
+    ],
+    "amount": 1279.95
+}

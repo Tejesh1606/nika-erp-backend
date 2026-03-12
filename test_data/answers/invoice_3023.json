@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Sanders Ltd",
+    "invoice_number": "INV-94444",
+    "date": "2025-03-13",
+    "items": [
+        {
+            "description": "Optimized actuating utilization",
+            "quantity": 10,
+            "unit_price": 190.6,
+            "total_price": 1906.0
+        },
+        {
+            "description": "Cross-group empowering groupware",
+            "quantity": 7,
+            "unit_price": 233.04,
+            "total_price": 1631.28
+        },
+        {
+            "description": "Organized radical collaboration",
+            "quantity": 6,
+            "unit_price": 287.8,
+            "total_price": 1726.8
+        }
+    ],
+    "amount": 5264.08
+}

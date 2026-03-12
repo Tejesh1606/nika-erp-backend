@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Harris, Williamson and Martinez",
+    "invoice_number": "INV-24628",
+    "date": "2025-08-20",
+    "items": [
+        {
+            "description": "User-centric neutral contingency",
+            "quantity": 3,
+            "unit_price": 10.29,
+            "total_price": 30.87
+        },
+        {
+            "description": "Devolved homogeneous projection",
+            "quantity": 5,
+            "unit_price": 301.39,
+            "total_price": 1506.95
+        },
+        {
+            "description": "Business-focused multi-state ability",
+            "quantity": 4,
+            "unit_price": 99.36,
+            "total_price": 397.44
+        }
+    ],
+    "amount": 1935.26
+}

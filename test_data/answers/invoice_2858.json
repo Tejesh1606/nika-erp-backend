@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Stevens-Warren",
+    "invoice_number": "INV-72239",
+    "date": "2025-03-27",
+    "items": [
+        {
+            "description": "Extended human-resource Graphic Interface",
+            "quantity": 6,
+            "unit_price": 160.2,
+            "total_price": 961.2
+        },
+        {
+            "description": "Operative client-server application",
+            "quantity": 1,
+            "unit_price": 211.02,
+            "total_price": 211.02
+        },
+        {
+            "description": "Ergonomic value-added interface",
+            "quantity": 5,
+            "unit_price": 490.78,
+            "total_price": 2453.9
+        }
+    ],
+    "amount": 3626.12
+}

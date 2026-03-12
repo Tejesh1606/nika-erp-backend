@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Young-Brady",
+    "invoice_number": "INV-15572",
+    "date": "2025-10-05",
+    "items": [
+        {
+            "description": "Reverse-engineered disintermediate orchestration",
+            "quantity": 5,
+            "unit_price": 355.76,
+            "total_price": 1778.8
+        },
+        {
+            "description": "Universal heuristic info-mediaries",
+            "quantity": 4,
+            "unit_price": 143.22,
+            "total_price": 572.88
+        },
+        {
+            "description": "Visionary actuating moderator",
+            "quantity": 9,
+            "unit_price": 144.03,
+            "total_price": 1296.27
+        }
+    ],
+    "amount": 3647.95
+}

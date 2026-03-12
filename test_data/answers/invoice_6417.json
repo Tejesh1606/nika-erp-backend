@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Williams-Watson",
+    "invoice_number": "INV-82929",
+    "date": "2025-11-17",
+    "items": [
+        {
+            "description": "Profit-focused high-level utilization",
+            "quantity": 9,
+            "unit_price": 53.45,
+            "total_price": 481.05
+        },
+        {
+            "description": "Managed asymmetric access",
+            "quantity": 7,
+            "unit_price": 335.15,
+            "total_price": 2346.05
+        },
+        {
+            "description": "Progressive multi-tasking portal",
+            "quantity": 7,
+            "unit_price": 42.43,
+            "total_price": 297.01
+        }
+    ],
+    "amount": 3124.11
+}

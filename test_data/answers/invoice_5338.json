@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Vasquez, Riggs and Evans",
+    "invoice_number": "INV-88034",
+    "date": "2025-07-14",
+    "items": [
+        {
+            "description": "Function-based fresh-thinking productivity",
+            "quantity": 1,
+            "unit_price": 96.25,
+            "total_price": 96.25
+        },
+        {
+            "description": "Profit-focused empowering superstructure",
+            "quantity": 8,
+            "unit_price": 65.35,
+            "total_price": 522.8
+        }
+    ],
+    "amount": 619.05
+}

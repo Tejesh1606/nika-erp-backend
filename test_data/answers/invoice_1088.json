@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hester-Parrish",
+    "invoice_number": "INV-77300",
+    "date": "2025-05-26",
+    "items": [
+        {
+            "description": "Vision-oriented impactful core",
+            "quantity": 7,
+            "unit_price": 366.64,
+            "total_price": 2566.48
+        },
+        {
+            "description": "Cloned even-keeled interface",
+            "quantity": 6,
+            "unit_price": 14.1,
+            "total_price": 84.6
+        }
+    ],
+    "amount": 2651.08
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Dyer LLC",
+    "invoice_number": "INV-85588",
+    "date": "2025-07-28",
+    "items": [
+        {
+            "description": "Front-line 24hour artificial intelligence",
+            "quantity": 5,
+            "unit_price": 439.99,
+            "total_price": 2199.95
+        }
+    ],
+    "amount": 2199.95
+}

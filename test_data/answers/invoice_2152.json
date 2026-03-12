@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Fowler-Kelly",
+    "invoice_number": "INV-28500",
+    "date": "2025-07-02",
+    "items": [
+        {
+            "description": "Organic multi-tasking superstructure",
+            "quantity": 1,
+            "unit_price": 453.46,
+            "total_price": 453.46
+        },
+        {
+            "description": "User-friendly upward-trending frame",
+            "quantity": 1,
+            "unit_price": 212.97,
+            "total_price": 212.97
+        },
+        {
+            "description": "Customizable maximized capability",
+            "quantity": 8,
+            "unit_price": 334.23,
+            "total_price": 2673.84
+        }
+    ],
+    "amount": 3340.27
+}

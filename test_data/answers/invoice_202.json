@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Alexander Group",
+    "invoice_number": "INV-29848",
+    "date": "2025-08-16",
+    "items": [
+        {
+            "description": "Team-oriented demand-driven installation",
+            "quantity": 7,
+            "unit_price": 307.02,
+            "total_price": 2149.14
+        },
+        {
+            "description": "Profit-focused zero-defect pricing structure",
+            "quantity": 1,
+            "unit_price": 320.93,
+            "total_price": 320.93
+        },
+        {
+            "description": "Phased user-facing superstructure",
+            "quantity": 2,
+            "unit_price": 77.72,
+            "total_price": 155.44
+        }
+    ],
+    "amount": 2625.51
+}

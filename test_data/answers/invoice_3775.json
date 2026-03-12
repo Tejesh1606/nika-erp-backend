@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ward-Yang",
+    "invoice_number": "INV-28578",
+    "date": "2025-05-12",
+    "items": [
+        {
+            "description": "Adaptive intermediate archive",
+            "quantity": 2,
+            "unit_price": 497.17,
+            "total_price": 994.34
+        },
+        {
+            "description": "Synergized tangible neural-net",
+            "quantity": 5,
+            "unit_price": 294.39,
+            "total_price": 1471.95
+        },
+        {
+            "description": "Multi-lateral system-worthy analyzer",
+            "quantity": 6,
+            "unit_price": 47.28,
+            "total_price": 283.68
+        }
+    ],
+    "amount": 2749.97
+}

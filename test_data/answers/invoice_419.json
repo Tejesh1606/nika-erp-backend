@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jones-Zimmerman",
+    "invoice_number": "INV-78864",
+    "date": "2025-06-02",
+    "items": [
+        {
+            "description": "Enterprise-wide multi-state architecture",
+            "quantity": 10,
+            "unit_price": 428.75,
+            "total_price": 4287.5
+        }
+    ],
+    "amount": 4287.5
+}

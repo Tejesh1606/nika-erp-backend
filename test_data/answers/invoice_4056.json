@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Sexton-Moreno",
+    "invoice_number": "INV-53195",
+    "date": "2025-11-25",
+    "items": [
+        {
+            "description": "Pre-emptive web-enabled database",
+            "quantity": 5,
+            "unit_price": 358.66,
+            "total_price": 1793.3
+        },
+        {
+            "description": "Polarized explicit time-frame",
+            "quantity": 8,
+            "unit_price": 154.46,
+            "total_price": 1235.68
+        },
+        {
+            "description": "Grass-roots radical implementation",
+            "quantity": 2,
+            "unit_price": 336.98,
+            "total_price": 673.96
+        }
+    ],
+    "amount": 3702.94
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Caldwell-Yates",
+    "invoice_number": "INV-31632",
+    "date": "2026-01-29",
+    "items": [
+        {
+            "description": "Persistent clear-thinking process improvement",
+            "quantity": 6,
+            "unit_price": 104.18,
+            "total_price": 625.08
+        },
+        {
+            "description": "Public-key 4thgeneration infrastructure",
+            "quantity": 3,
+            "unit_price": 106.75,
+            "total_price": 320.25
+        },
+        {
+            "description": "Reverse-engineered non-volatile protocol",
+            "quantity": 7,
+            "unit_price": 160.48,
+            "total_price": 1123.36
+        },
+        {
+            "description": "Assimilated attitude-oriented project",
+            "quantity": 8,
+            "unit_price": 136.3,
+            "total_price": 1090.4
+        }
+    ],
+    "amount": 3159.09
+}

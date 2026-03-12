@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ortiz, Day and Torres",
+    "invoice_number": "INV-56501",
+    "date": "2025-05-27",
+    "items": [
+        {
+            "description": "Team-oriented analyzing knowledgebase",
+            "quantity": 7,
+            "unit_price": 74.29,
+            "total_price": 520.03
+        }
+    ],
+    "amount": 520.03
+}

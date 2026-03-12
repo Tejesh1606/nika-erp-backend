@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Diaz, Walker and Patterson",
+    "invoice_number": "INV-11420",
+    "date": "2025-10-26",
+    "items": [
+        {
+            "description": "Versatile coherent challenge",
+            "quantity": 7,
+            "unit_price": 340.59,
+            "total_price": 2384.13
+        },
+        {
+            "description": "Customer-focused impactful neural-net",
+            "quantity": 4,
+            "unit_price": 382.52,
+            "total_price": 1530.08
+        }
+    ],
+    "amount": 3914.21
+}

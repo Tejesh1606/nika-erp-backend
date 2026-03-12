@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hayes-Russo",
+    "invoice_number": "INV-27499",
+    "date": "2025-06-18",
+    "items": [
+        {
+            "description": "Enhanced systemic parallelism",
+            "quantity": 9,
+            "unit_price": 88.44,
+            "total_price": 795.96
+        },
+        {
+            "description": "Inverse executive customer loyalty",
+            "quantity": 10,
+            "unit_price": 234.38,
+            "total_price": 2343.8
+        }
+    ],
+    "amount": 3139.76
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lowe-Carter",
+    "invoice_number": "INV-33761",
+    "date": "2026-03-05",
+    "items": [
+        {
+            "description": "Face-to-face attitude-oriented Graphic Interface",
+            "quantity": 3,
+            "unit_price": 454.06,
+            "total_price": 1362.18
+        }
+    ],
+    "amount": 1362.18
+}

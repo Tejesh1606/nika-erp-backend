@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Williamson-Harris",
+    "invoice_number": "INV-52155",
+    "date": "2025-11-18",
+    "items": [
+        {
+            "description": "Reverse-engineered mission-critical firmware",
+            "quantity": 10,
+            "unit_price": 321.93,
+            "total_price": 3219.3
+        },
+        {
+            "description": "Progressive optimizing help-desk",
+            "quantity": 7,
+            "unit_price": 161.99,
+            "total_price": 1133.93
+        },
+        {
+            "description": "Open-architected encompassing challenge",
+            "quantity": 2,
+            "unit_price": 156.15,
+            "total_price": 312.3
+        }
+    ],
+    "amount": 4665.53
+}

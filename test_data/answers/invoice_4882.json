@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Abbott, Reyes and Allen",
+    "invoice_number": "INV-87559",
+    "date": "2025-04-08",
+    "items": [
+        {
+            "description": "Virtual static website",
+            "quantity": 4,
+            "unit_price": 68.79,
+            "total_price": 275.16
+        },
+        {
+            "description": "Cross-group exuding structure",
+            "quantity": 9,
+            "unit_price": 273.67,
+            "total_price": 2463.03
+        }
+    ],
+    "amount": 2738.19
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Bailey, Richards and Reid",
+    "invoice_number": "INV-76679",
+    "date": "2025-06-28",
+    "items": [
+        {
+            "description": "Horizontal logistical ability",
+            "quantity": 10,
+            "unit_price": 462.73,
+            "total_price": 4627.3
+        },
+        {
+            "description": "Horizontal bottom-line solution",
+            "quantity": 7,
+            "unit_price": 406.06,
+            "total_price": 2842.42
+        },
+        {
+            "description": "Total fault-tolerant hub",
+            "quantity": 8,
+            "unit_price": 190.29,
+            "total_price": 1522.32
+        },
+        {
+            "description": "Automated full-range secured line",
+            "quantity": 4,
+            "unit_price": 228.02,
+            "total_price": 912.08
+        }
+    ],
+    "amount": 9904.12
+}

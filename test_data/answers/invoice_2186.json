@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cook Ltd",
+    "invoice_number": "INV-49270",
+    "date": "2025-08-15",
+    "items": [
+        {
+            "description": "Fundamental 6thgeneration hub",
+            "quantity": 10,
+            "unit_price": 348.48,
+            "total_price": 3484.8
+        }
+    ],
+    "amount": 3484.8
+}

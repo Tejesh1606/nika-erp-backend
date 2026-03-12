@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Rivera, Hayes and Garcia",
+    "invoice_number": "INV-92753",
+    "date": "2025-07-19",
+    "items": [
+        {
+            "description": "Business-focused zero tolerance superstructure",
+            "quantity": 3,
+            "unit_price": 112.43,
+            "total_price": 337.29
+        }
+    ],
+    "amount": 337.29
+}

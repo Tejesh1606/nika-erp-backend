@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Lopez PLC",
+    "invoice_number": "INV-85313",
+    "date": "2025-08-01",
+    "items": [
+        {
+            "description": "Streamlined attitude-oriented knowledge user",
+            "quantity": 8,
+            "unit_price": 327.96,
+            "total_price": 2623.68
+        },
+        {
+            "description": "Open-architected non-volatile policy",
+            "quantity": 6,
+            "unit_price": 474.73,
+            "total_price": 2848.38
+        }
+    ],
+    "amount": 5472.06
+}

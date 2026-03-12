@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Brooks and Sons",
+    "invoice_number": "INV-36212",
+    "date": "2025-04-13",
+    "items": [
+        {
+            "description": "Ameliorated intangible algorithm",
+            "quantity": 3,
+            "unit_price": 63.48,
+            "total_price": 190.44
+        },
+        {
+            "description": "Advanced global core",
+            "quantity": 4,
+            "unit_price": 405.52,
+            "total_price": 1622.08
+        },
+        {
+            "description": "Synergized static architecture",
+            "quantity": 7,
+            "unit_price": 443.49,
+            "total_price": 3104.43
+        },
+        {
+            "description": "Face-to-face bandwidth-monitored website",
+            "quantity": 5,
+            "unit_price": 135.25,
+            "total_price": 676.25
+        }
+    ],
+    "amount": 5593.2
+}

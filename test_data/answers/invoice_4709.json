@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Washington, Mays and Brown",
+    "invoice_number": "INV-93969",
+    "date": "2025-05-29",
+    "items": [
+        {
+            "description": "Operative grid-enabled knowledge user",
+            "quantity": 7,
+            "unit_price": 183.85,
+            "total_price": 1286.95
+        }
+    ],
+    "amount": 1286.95
+}

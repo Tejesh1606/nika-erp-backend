@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Huff, Lawson and Russell",
+    "invoice_number": "INV-98057",
+    "date": "2025-12-03",
+    "items": [
+        {
+            "description": "Assimilated empowering model",
+            "quantity": 2,
+            "unit_price": 282.35,
+            "total_price": 564.7
+        },
+        {
+            "description": "Programmable hybrid parallelism",
+            "quantity": 10,
+            "unit_price": 450.02,
+            "total_price": 4500.2
+        },
+        {
+            "description": "Synergistic discrete conglomeration",
+            "quantity": 2,
+            "unit_price": 404.38,
+            "total_price": 808.76
+        },
+        {
+            "description": "Centralized system-worthy groupware",
+            "quantity": 10,
+            "unit_price": 260.11,
+            "total_price": 2601.1
+        }
+    ],
+    "amount": 8474.76
+}

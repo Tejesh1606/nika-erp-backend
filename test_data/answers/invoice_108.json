@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Rivas-Scott",
+    "invoice_number": "INV-73156",
+    "date": "2026-01-16",
+    "items": [
+        {
+            "description": "Implemented value-added Graphical User Interface",
+            "quantity": 4,
+            "unit_price": 55.55,
+            "total_price": 222.2
+        }
+    ],
+    "amount": 222.2
+}

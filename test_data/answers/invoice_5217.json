@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Carney-Kim",
+    "invoice_number": "INV-86487",
+    "date": "2025-07-26",
+    "items": [
+        {
+            "description": "Switchable fresh-thinking service-desk",
+            "quantity": 10,
+            "unit_price": 134.2,
+            "total_price": 1342.0
+        },
+        {
+            "description": "Proactive mobile success",
+            "quantity": 3,
+            "unit_price": 223.97,
+            "total_price": 671.91
+        },
+        {
+            "description": "Adaptive fresh-thinking capability",
+            "quantity": 7,
+            "unit_price": 478.04,
+            "total_price": 3346.28
+        }
+    ],
+    "amount": 5360.19
+}

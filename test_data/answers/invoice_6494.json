@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Stephens-Phillips",
+    "invoice_number": "INV-24572",
+    "date": "2025-04-15",
+    "items": [
+        {
+            "description": "De-engineered upward-trending middleware",
+            "quantity": 3,
+            "unit_price": 243.9,
+            "total_price": 731.7
+        },
+        {
+            "description": "Integrated motivating forecast",
+            "quantity": 10,
+            "unit_price": 161.03,
+            "total_price": 1610.3
+        }
+    ],
+    "amount": 2342.0
+}

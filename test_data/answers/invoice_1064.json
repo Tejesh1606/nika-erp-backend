@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Berger Ltd",
+    "invoice_number": "INV-84356",
+    "date": "2025-11-09",
+    "items": [
+        {
+            "description": "Robust 5thgeneration capability",
+            "quantity": 4,
+            "unit_price": 384.23,
+            "total_price": 1536.92
+        },
+        {
+            "description": "Mandatory grid-enabled matrices",
+            "quantity": 4,
+            "unit_price": 119.18,
+            "total_price": 476.72
+        },
+        {
+            "description": "Seamless radical moratorium",
+            "quantity": 8,
+            "unit_price": 177.28,
+            "total_price": 1418.24
+        },
+        {
+            "description": "Adaptive cohesive model",
+            "quantity": 10,
+            "unit_price": 495.87,
+            "total_price": 4958.7
+        }
+    ],
+    "amount": 8390.58
+}

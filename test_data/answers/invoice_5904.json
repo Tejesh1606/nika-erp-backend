@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Page, Kelly and Kennedy",
+    "invoice_number": "INV-62285",
+    "date": "2025-07-09",
+    "items": [
+        {
+            "description": "Integrated didactic orchestration",
+            "quantity": 3,
+            "unit_price": 54.27,
+            "total_price": 162.81
+        },
+        {
+            "description": "Multi-channeled radical concept",
+            "quantity": 6,
+            "unit_price": 282.63,
+            "total_price": 1695.78
+        },
+        {
+            "description": "Reactive non-volatile attitude",
+            "quantity": 6,
+            "unit_price": 53.89,
+            "total_price": 323.34
+        },
+        {
+            "description": "Function-based interactive encoding",
+            "quantity": 4,
+            "unit_price": 438.52,
+            "total_price": 1754.08
+        }
+    ],
+    "amount": 3936.01
+}

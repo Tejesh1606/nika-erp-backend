@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Stanton Group",
+    "invoice_number": "INV-89244",
+    "date": "2025-11-27",
+    "items": [
+        {
+            "description": "Inverse coherent framework",
+            "quantity": 3,
+            "unit_price": 38.75,
+            "total_price": 116.25
+        },
+        {
+            "description": "Secured regional attitude",
+            "quantity": 5,
+            "unit_price": 100.79,
+            "total_price": 503.95
+        },
+        {
+            "description": "Virtual asynchronous protocol",
+            "quantity": 9,
+            "unit_price": 161.84,
+            "total_price": 1456.56
+        }
+    ],
+    "amount": 2076.76
+}

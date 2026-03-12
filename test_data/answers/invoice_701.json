@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wheeler, Avila and Owen",
+    "invoice_number": "INV-62459",
+    "date": "2025-07-25",
+    "items": [
+        {
+            "description": "Phased static portal",
+            "quantity": 3,
+            "unit_price": 364.2,
+            "total_price": 1092.6
+        },
+        {
+            "description": "Open-architected mobile migration",
+            "quantity": 7,
+            "unit_price": 462.42,
+            "total_price": 3236.94
+        },
+        {
+            "description": "Grass-roots client-server throughput",
+            "quantity": 7,
+            "unit_price": 252.42,
+            "total_price": 1766.94
+        }
+    ],
+    "amount": 6096.48
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gonzalez Ltd",
+    "invoice_number": "INV-53727",
+    "date": "2025-10-21",
+    "items": [
+        {
+            "description": "Front-line encompassing utilization",
+            "quantity": 2,
+            "unit_price": 170.99,
+            "total_price": 341.98
+        }
+    ],
+    "amount": 341.98
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Rojas-Arnold",
+    "invoice_number": "INV-76521",
+    "date": "2025-11-24",
+    "items": [
+        {
+            "description": "Ergonomic fault-tolerant moratorium",
+            "quantity": 8,
+            "unit_price": 99.47,
+            "total_price": 795.76
+        }
+    ],
+    "amount": 795.76
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Nguyen-Daugherty",
+    "invoice_number": "INV-85493",
+    "date": "2025-10-07",
+    "items": [
+        {
+            "description": "Devolved fresh-thinking utilization",
+            "quantity": 3,
+            "unit_price": 167.04,
+            "total_price": 501.12
+        }
+    ],
+    "amount": 501.12
+}

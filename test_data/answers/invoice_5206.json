@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Brown-Garcia",
+    "invoice_number": "INV-82006",
+    "date": "2026-02-04",
+    "items": [
+        {
+            "description": "Persistent 24/7 core",
+            "quantity": 3,
+            "unit_price": 249.42,
+            "total_price": 748.26
+        },
+        {
+            "description": "Synergistic client-driven concept",
+            "quantity": 3,
+            "unit_price": 455.5,
+            "total_price": 1366.5
+        }
+    ],
+    "amount": 2114.76
+}

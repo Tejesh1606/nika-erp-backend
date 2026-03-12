@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Rice-Luna",
+    "invoice_number": "INV-39188",
+    "date": "2026-01-27",
+    "items": [
+        {
+            "description": "Adaptive web-enabled adapter",
+            "quantity": 9,
+            "unit_price": 29.38,
+            "total_price": 264.42
+        },
+        {
+            "description": "Innovative maximized service-desk",
+            "quantity": 6,
+            "unit_price": 381.39,
+            "total_price": 2288.34
+        }
+    ],
+    "amount": 2552.76
+}

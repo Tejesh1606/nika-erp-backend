@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Walker Inc",
+    "invoice_number": "INV-20181",
+    "date": "2026-01-18",
+    "items": [
+        {
+            "description": "Phased multimedia instruction set",
+            "quantity": 7,
+            "unit_price": 62.2,
+            "total_price": 435.4
+        }
+    ],
+    "amount": 435.4
+}

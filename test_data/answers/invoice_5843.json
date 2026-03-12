@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Garcia Group",
+    "invoice_number": "INV-24415",
+    "date": "2025-07-31",
+    "items": [
+        {
+            "description": "Reduced analyzing encoding",
+            "quantity": 7,
+            "unit_price": 78.94,
+            "total_price": 552.58
+        },
+        {
+            "description": "Open-architected explicit middleware",
+            "quantity": 8,
+            "unit_price": 204.53,
+            "total_price": 1636.24
+        },
+        {
+            "description": "Up-sized mobile encryption",
+            "quantity": 10,
+            "unit_price": 375.27,
+            "total_price": 3752.7
+        },
+        {
+            "description": "Phased clear-thinking standardization",
+            "quantity": 5,
+            "unit_price": 353.17,
+            "total_price": 1765.85
+        }
+    ],
+    "amount": 7707.37
+}

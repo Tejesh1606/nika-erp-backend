@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Haney-Hardy",
+    "invoice_number": "INV-29732",
+    "date": "2026-02-26",
+    "items": [
+        {
+            "description": "De-engineered modular knowledge user",
+            "quantity": 3,
+            "unit_price": 319.51,
+            "total_price": 958.53
+        },
+        {
+            "description": "Persistent maximized data-warehouse",
+            "quantity": 9,
+            "unit_price": 431.77,
+            "total_price": 3885.93
+        }
+    ],
+    "amount": 4844.46
+}

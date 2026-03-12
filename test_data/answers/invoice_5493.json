@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mcintosh LLC",
+    "invoice_number": "INV-73899",
+    "date": "2025-06-20",
+    "items": [
+        {
+            "description": "Face-to-face maximized collaboration",
+            "quantity": 5,
+            "unit_price": 262.16,
+            "total_price": 1310.8
+        },
+        {
+            "description": "Re-contextualized optimizing analyzer",
+            "quantity": 4,
+            "unit_price": 332.55,
+            "total_price": 1330.2
+        }
+    ],
+    "amount": 2641.0
+}

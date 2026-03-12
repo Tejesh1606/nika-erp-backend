@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Phillips, Watson and Jefferson",
+    "invoice_number": "INV-91065",
+    "date": "2025-08-09",
+    "items": [
+        {
+            "description": "Virtual homogeneous process improvement",
+            "quantity": 6,
+            "unit_price": 395.83,
+            "total_price": 2374.98
+        },
+        {
+            "description": "Robust scalable system engine",
+            "quantity": 1,
+            "unit_price": 354.25,
+            "total_price": 354.25
+        }
+    ],
+    "amount": 2729.23
+}

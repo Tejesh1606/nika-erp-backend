@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Russell, Rodriguez and Crawford",
+    "invoice_number": "INV-84642",
+    "date": "2025-05-12",
+    "items": [
+        {
+            "description": "Reactive asymmetric leverage",
+            "quantity": 5,
+            "unit_price": 161.46,
+            "total_price": 807.3
+        },
+        {
+            "description": "Adaptive logistical extranet",
+            "quantity": 3,
+            "unit_price": 311.14,
+            "total_price": 933.42
+        },
+        {
+            "description": "Integrated dynamic installation",
+            "quantity": 1,
+            "unit_price": 197.0,
+            "total_price": 197.0
+        },
+        {
+            "description": "Business-focused client-server definition",
+            "quantity": 7,
+            "unit_price": 451.83,
+            "total_price": 3162.81
+        }
+    ],
+    "amount": 5100.53
+}

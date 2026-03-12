@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Anderson-Valdez",
+    "invoice_number": "INV-63096",
+    "date": "2025-07-29",
+    "items": [
+        {
+            "description": "Assimilated empowering implementation",
+            "quantity": 6,
+            "unit_price": 144.79,
+            "total_price": 868.74
+        },
+        {
+            "description": "Advanced methodical adapter",
+            "quantity": 1,
+            "unit_price": 435.17,
+            "total_price": 435.17
+        }
+    ],
+    "amount": 1303.91
+}

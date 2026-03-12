@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Scott, Tucker and Diaz",
+    "invoice_number": "INV-11777",
+    "date": "2026-01-24",
+    "items": [
+        {
+            "description": "Multi-channeled exuding strategy",
+            "quantity": 9,
+            "unit_price": 263.8,
+            "total_price": 2374.2
+        },
+        {
+            "description": "Managed multi-state time-frame",
+            "quantity": 6,
+            "unit_price": 495.11,
+            "total_price": 2970.66
+        },
+        {
+            "description": "Switchable radical matrices",
+            "quantity": 8,
+            "unit_price": 480.12,
+            "total_price": 3840.96
+        }
+    ],
+    "amount": 9185.82
+}

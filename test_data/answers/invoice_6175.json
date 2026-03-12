@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Martinez-Hicks",
+    "invoice_number": "INV-80252",
+    "date": "2025-05-27",
+    "items": [
+        {
+            "description": "Integrated well-modulated flexibility",
+            "quantity": 5,
+            "unit_price": 53.21,
+            "total_price": 266.05
+        }
+    ],
+    "amount": 266.05
+}

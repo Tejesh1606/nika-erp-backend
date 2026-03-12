@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Kent-Carr",
+    "invoice_number": "INV-67172",
+    "date": "2026-02-10",
+    "items": [
+        {
+            "description": "Polarized client-driven functionalities",
+            "quantity": 6,
+            "unit_price": 59.85,
+            "total_price": 359.1
+        },
+        {
+            "description": "Optimized zero administration conglomeration",
+            "quantity": 1,
+            "unit_price": 477.98,
+            "total_price": 477.98
+        },
+        {
+            "description": "Enterprise-wide contextually-based capability",
+            "quantity": 3,
+            "unit_price": 486.06,
+            "total_price": 1458.18
+        }
+    ],
+    "amount": 2295.26
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jones, Reed and Schroeder",
+    "invoice_number": "INV-82797",
+    "date": "2025-03-18",
+    "items": [
+        {
+            "description": "Reactive solution-oriented moratorium",
+            "quantity": 1,
+            "unit_price": 368.19,
+            "total_price": 368.19
+        }
+    ],
+    "amount": 368.19
+}

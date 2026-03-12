@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lawrence-Snyder",
+    "invoice_number": "INV-63003",
+    "date": "2026-03-01",
+    "items": [
+        {
+            "description": "Monitored zero tolerance open architecture",
+            "quantity": 1,
+            "unit_price": 319.89,
+            "total_price": 319.89
+        },
+        {
+            "description": "Cloned bi-directional capacity",
+            "quantity": 5,
+            "unit_price": 341.39,
+            "total_price": 1706.95
+        },
+        {
+            "description": "Grass-roots holistic system engine",
+            "quantity": 4,
+            "unit_price": 420.02,
+            "total_price": 1680.08
+        },
+        {
+            "description": "Centralized methodical intranet",
+            "quantity": 10,
+            "unit_price": 381.45,
+            "total_price": 3814.5
+        }
+    ],
+    "amount": 7521.42
+}

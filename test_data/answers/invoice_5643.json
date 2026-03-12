@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Schmidt PLC",
+    "invoice_number": "INV-19287",
+    "date": "2025-09-23",
+    "items": [
+        {
+            "description": "Customer-focused national info-mediaries",
+            "quantity": 8,
+            "unit_price": 384.45,
+            "total_price": 3075.6
+        },
+        {
+            "description": "Re-engineered hybrid portal",
+            "quantity": 1,
+            "unit_price": 179.62,
+            "total_price": 179.62
+        },
+        {
+            "description": "Devolved directional time-frame",
+            "quantity": 7,
+            "unit_price": 457.43,
+            "total_price": 3202.01
+        }
+    ],
+    "amount": 6457.23
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wagner-Sanders",
+    "invoice_number": "INV-36933",
+    "date": "2025-12-21",
+    "items": [
+        {
+            "description": "Robust real-time productivity",
+            "quantity": 1,
+            "unit_price": 87.45,
+            "total_price": 87.45
+        },
+        {
+            "description": "Enhanced executive archive",
+            "quantity": 1,
+            "unit_price": 443.34,
+            "total_price": 443.34
+        },
+        {
+            "description": "Optimized scalable attitude",
+            "quantity": 8,
+            "unit_price": 216.57,
+            "total_price": 1732.56
+        },
+        {
+            "description": "Cross-group radical hardware",
+            "quantity": 7,
+            "unit_price": 281.46,
+            "total_price": 1970.22
+        }
+    ],
+    "amount": 4233.57
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Sutton and Sons",
+    "invoice_number": "INV-92078",
+    "date": "2025-11-24",
+    "items": [
+        {
+            "description": "Customer-focused holistic contingency",
+            "quantity": 4,
+            "unit_price": 158.22,
+            "total_price": 632.88
+        },
+        {
+            "description": "Implemented multimedia emulation",
+            "quantity": 10,
+            "unit_price": 297.16,
+            "total_price": 2971.6
+        }
+    ],
+    "amount": 3604.48
+}

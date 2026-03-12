@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Berger-Williams",
+    "invoice_number": "INV-60279",
+    "date": "2025-03-29",
+    "items": [
+        {
+            "description": "Cross-group interactive infrastructure",
+            "quantity": 5,
+            "unit_price": 245.65,
+            "total_price": 1228.25
+        },
+        {
+            "description": "Enhanced tertiary policy",
+            "quantity": 10,
+            "unit_price": 274.05,
+            "total_price": 2740.5
+        }
+    ],
+    "amount": 3968.75
+}

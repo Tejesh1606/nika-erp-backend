@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Cain-Hawkins",
+    "invoice_number": "INV-86869",
+    "date": "2025-10-13",
+    "items": [
+        {
+            "description": "Realigned full-range secured line",
+            "quantity": 10,
+            "unit_price": 81.44,
+            "total_price": 814.4
+        },
+        {
+            "description": "Decentralized incremental help-desk",
+            "quantity": 6,
+            "unit_price": 435.13,
+            "total_price": 2610.78
+        },
+        {
+            "description": "Synchronized web-enabled interface",
+            "quantity": 9,
+            "unit_price": 235.6,
+            "total_price": 2120.4
+        },
+        {
+            "description": "Up-sized actuating forecast",
+            "quantity": 5,
+            "unit_price": 302.55,
+            "total_price": 1512.75
+        }
+    ],
+    "amount": 7058.33
+}

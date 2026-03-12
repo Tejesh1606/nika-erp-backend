@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Palmer PLC",
+    "invoice_number": "INV-14121",
+    "date": "2025-09-26",
+    "items": [
+        {
+            "description": "Sharable asymmetric knowledgebase",
+            "quantity": 9,
+            "unit_price": 451.61,
+            "total_price": 4064.49
+        },
+        {
+            "description": "Diverse impactful collaboration",
+            "quantity": 6,
+            "unit_price": 384.84,
+            "total_price": 2309.04
+        },
+        {
+            "description": "Progressive composite policy",
+            "quantity": 2,
+            "unit_price": 142.58,
+            "total_price": 285.16
+        }
+    ],
+    "amount": 6658.69
+}

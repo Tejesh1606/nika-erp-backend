@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Blake-Walker",
+    "invoice_number": "INV-23506",
+    "date": "2025-04-12",
+    "items": [
+        {
+            "description": "Upgradable real-time policy",
+            "quantity": 6,
+            "unit_price": 389.08,
+            "total_price": 2334.48
+        }
+    ],
+    "amount": 2334.48
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Herring, Davis and Norris",
+    "invoice_number": "INV-54308",
+    "date": "2025-10-20",
+    "items": [
+        {
+            "description": "Monitored high-level support",
+            "quantity": 6,
+            "unit_price": 402.63,
+            "total_price": 2415.78
+        },
+        {
+            "description": "Reactive responsive strategy",
+            "quantity": 8,
+            "unit_price": 457.27,
+            "total_price": 3658.16
+        }
+    ],
+    "amount": 6073.94
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lewis PLC",
+    "invoice_number": "INV-72581",
+    "date": "2026-02-07",
+    "items": [
+        {
+            "description": "Open-architected next generation migration",
+            "quantity": 8,
+            "unit_price": 324.93,
+            "total_price": 2599.44
+        },
+        {
+            "description": "Persistent tertiary methodology",
+            "quantity": 5,
+            "unit_price": 450.13,
+            "total_price": 2250.65
+        },
+        {
+            "description": "Organized reciprocal contingency",
+            "quantity": 2,
+            "unit_price": 309.2,
+            "total_price": 618.4
+        }
+    ],
+    "amount": 5468.49
+}

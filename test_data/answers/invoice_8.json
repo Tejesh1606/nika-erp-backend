@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Reid, Ferguson and Sanchez",
+    "invoice_number": "INV-70589",
+    "date": "2025-08-03",
+    "items": [
+        {
+            "description": "Future-proofed scalable solution",
+            "quantity": 10,
+            "unit_price": 147.72,
+            "total_price": 1477.2
+        },
+        {
+            "description": "Realigned directional software",
+            "quantity": 5,
+            "unit_price": 461.9,
+            "total_price": 2309.5
+        },
+        {
+            "description": "Inverse zero administration time-frame",
+            "quantity": 3,
+            "unit_price": 348.28,
+            "total_price": 1044.84
+        },
+        {
+            "description": "Centralized discrete alliance",
+            "quantity": 3,
+            "unit_price": 494.84,
+            "total_price": 1484.52
+        }
+    ],
+    "amount": 6316.06
+}

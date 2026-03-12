@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ingram Ltd",
+    "invoice_number": "INV-24282",
+    "date": "2025-07-30",
+    "items": [
+        {
+            "description": "Front-line next generation standardization",
+            "quantity": 4,
+            "unit_price": 123.29,
+            "total_price": 493.16
+        },
+        {
+            "description": "Profit-focused multi-state conglomeration",
+            "quantity": 8,
+            "unit_price": 435.36,
+            "total_price": 3482.88
+        },
+        {
+            "description": "Grass-roots full-range success",
+            "quantity": 8,
+            "unit_price": 24.92,
+            "total_price": 199.36
+        }
+    ],
+    "amount": 4175.4
+}

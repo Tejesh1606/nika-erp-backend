@@ -1,0 +1,14 @@
+{
+    "vendor_name": "White Group",
+    "invoice_number": "INV-32052",
+    "date": "2025-04-16",
+    "items": [
+        {
+            "description": "Stand-alone real-time success",
+            "quantity": 3,
+            "unit_price": 332.92,
+            "total_price": 998.76
+        }
+    ],
+    "amount": 998.76
+}

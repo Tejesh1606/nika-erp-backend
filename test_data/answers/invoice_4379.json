@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Terry LLC",
+    "invoice_number": "INV-58303",
+    "date": "2025-06-26",
+    "items": [
+        {
+            "description": "Function-based regional forecast",
+            "quantity": 7,
+            "unit_price": 255.13,
+            "total_price": 1785.91
+        }
+    ],
+    "amount": 1785.91
+}

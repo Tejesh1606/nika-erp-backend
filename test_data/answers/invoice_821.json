@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Chavez, Sanchez and Bird",
+    "invoice_number": "INV-54778",
+    "date": "2025-05-29",
+    "items": [
+        {
+            "description": "Persevering radical groupware",
+            "quantity": 3,
+            "unit_price": 63.63,
+            "total_price": 190.89
+        },
+        {
+            "description": "Ameliorated system-worthy challenge",
+            "quantity": 1,
+            "unit_price": 249.9,
+            "total_price": 249.9
+        }
+    ],
+    "amount": 440.79
+}

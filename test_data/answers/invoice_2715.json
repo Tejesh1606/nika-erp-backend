@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Williams LLC",
+    "invoice_number": "INV-38917",
+    "date": "2025-11-09",
+    "items": [
+        {
+            "description": "Organic intangible interface",
+            "quantity": 4,
+            "unit_price": 233.61,
+            "total_price": 934.44
+        },
+        {
+            "description": "Cross-group dynamic throughput",
+            "quantity": 9,
+            "unit_price": 240.56,
+            "total_price": 2165.04
+        }
+    ],
+    "amount": 3099.48
+}

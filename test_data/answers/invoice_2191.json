@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hicks, Hubbard and Pitts",
+    "invoice_number": "INV-55954",
+    "date": "2025-04-21",
+    "items": [
+        {
+            "description": "Triple-buffered disintermediate throughput",
+            "quantity": 2,
+            "unit_price": 271.9,
+            "total_price": 543.8
+        }
+    ],
+    "amount": 543.8
+}

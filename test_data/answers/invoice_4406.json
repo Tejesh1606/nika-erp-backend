@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wright-Barker",
+    "invoice_number": "INV-69820",
+    "date": "2025-03-30",
+    "items": [
+        {
+            "description": "Enterprise-wide interactive hierarchy",
+            "quantity": 9,
+            "unit_price": 449.59,
+            "total_price": 4046.31
+        }
+    ],
+    "amount": 4046.31
+}

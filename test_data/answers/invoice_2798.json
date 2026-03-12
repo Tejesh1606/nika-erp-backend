@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith LLC",
+    "invoice_number": "INV-80947",
+    "date": "2025-06-02",
+    "items": [
+        {
+            "description": "Pre-emptive systemic portal",
+            "quantity": 5,
+            "unit_price": 35.94,
+            "total_price": 179.7
+        },
+        {
+            "description": "Stand-alone discrete initiative",
+            "quantity": 8,
+            "unit_price": 428.9,
+            "total_price": 3431.2
+        },
+        {
+            "description": "Upgradable discrete solution",
+            "quantity": 10,
+            "unit_price": 143.12,
+            "total_price": 1431.2
+        }
+    ],
+    "amount": 5042.1
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Johns-Gill",
+    "invoice_number": "INV-28946",
+    "date": "2025-09-15",
+    "items": [
+        {
+            "description": "Profit-focused mobile throughput",
+            "quantity": 10,
+            "unit_price": 428.8,
+            "total_price": 4288.0
+        },
+        {
+            "description": "Robust intangible encoding",
+            "quantity": 6,
+            "unit_price": 143.02,
+            "total_price": 858.12
+        }
+    ],
+    "amount": 5146.12
+}

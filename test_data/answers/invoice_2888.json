@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Davis, Snow and Cannon",
+    "invoice_number": "INV-17272",
+    "date": "2025-05-24",
+    "items": [
+        {
+            "description": "Public-key asymmetric firmware",
+            "quantity": 9,
+            "unit_price": 34.13,
+            "total_price": 307.17
+        },
+        {
+            "description": "Networked content-based firmware",
+            "quantity": 1,
+            "unit_price": 493.77,
+            "total_price": 493.77
+        }
+    ],
+    "amount": 800.94
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Francis LLC",
+    "invoice_number": "INV-67067",
+    "date": "2025-08-15",
+    "items": [
+        {
+            "description": "Intuitive asymmetric productivity",
+            "quantity": 7,
+            "unit_price": 70.72,
+            "total_price": 495.04
+        },
+        {
+            "description": "Expanded incremental flexibility",
+            "quantity": 3,
+            "unit_price": 465.87,
+            "total_price": 1397.61
+        }
+    ],
+    "amount": 1892.65
+}

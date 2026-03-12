@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hernandez Group",
+    "invoice_number": "INV-20322",
+    "date": "2026-02-15",
+    "items": [
+        {
+            "description": "Self-enabling background structure",
+            "quantity": 8,
+            "unit_price": 225.46,
+            "total_price": 1803.68
+        },
+        {
+            "description": "Focused didactic workforce",
+            "quantity": 10,
+            "unit_price": 335.43,
+            "total_price": 3354.3
+        },
+        {
+            "description": "Synergized solution-oriented circuit",
+            "quantity": 8,
+            "unit_price": 49.35,
+            "total_price": 394.8
+        },
+        {
+            "description": "Visionary transitional complexity",
+            "quantity": 2,
+            "unit_price": 324.99,
+            "total_price": 649.98
+        }
+    ],
+    "amount": 6202.76
+}

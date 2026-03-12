@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wood LLC",
+    "invoice_number": "INV-75726",
+    "date": "2026-01-22",
+    "items": [
+        {
+            "description": "Adaptive reciprocal policy",
+            "quantity": 3,
+            "unit_price": 120.13,
+            "total_price": 360.39
+        },
+        {
+            "description": "Versatile hybrid archive",
+            "quantity": 5,
+            "unit_price": 263.95,
+            "total_price": 1319.75
+        },
+        {
+            "description": "Stand-alone discrete challenge",
+            "quantity": 3,
+            "unit_price": 268.38,
+            "total_price": 805.14
+        },
+        {
+            "description": "Proactive content-based analyzer",
+            "quantity": 3,
+            "unit_price": 160.31,
+            "total_price": 480.93
+        }
+    ],
+    "amount": 2966.21
+}

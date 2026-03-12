@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Soto, Vaughn and Griffin",
+    "invoice_number": "INV-56612",
+    "date": "2025-07-08",
+    "items": [
+        {
+            "description": "Managed dedicated structure",
+            "quantity": 10,
+            "unit_price": 468.69,
+            "total_price": 4686.9
+        },
+        {
+            "description": "Virtual static workforce",
+            "quantity": 2,
+            "unit_price": 128.14,
+            "total_price": 256.28
+        },
+        {
+            "description": "Public-key attitude-oriented system engine",
+            "quantity": 9,
+            "unit_price": 142.15,
+            "total_price": 1279.35
+        },
+        {
+            "description": "Virtual maximized open system",
+            "quantity": 4,
+            "unit_price": 36.15,
+            "total_price": 144.6
+        }
+    ],
+    "amount": 6367.13
+}

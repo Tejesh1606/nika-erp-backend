@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Davis-Gutierrez",
+    "invoice_number": "INV-96435",
+    "date": "2025-12-01",
+    "items": [
+        {
+            "description": "Multi-channeled bifurcated synergy",
+            "quantity": 5,
+            "unit_price": 36.03,
+            "total_price": 180.15
+        },
+        {
+            "description": "Triple-buffered bandwidth-monitored algorithm",
+            "quantity": 6,
+            "unit_price": 321.11,
+            "total_price": 1926.66
+        },
+        {
+            "description": "Right-sized incremental methodology",
+            "quantity": 7,
+            "unit_price": 418.33,
+            "total_price": 2928.31
+        }
+    ],
+    "amount": 5035.12
+}

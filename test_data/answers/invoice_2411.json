@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brown and Sons",
+    "invoice_number": "INV-40609",
+    "date": "2025-07-17",
+    "items": [
+        {
+            "description": "Focused 4thgeneration open system",
+            "quantity": 10,
+            "unit_price": 47.32,
+            "total_price": 473.2
+        },
+        {
+            "description": "Pre-emptive interactive interface",
+            "quantity": 10,
+            "unit_price": 282.38,
+            "total_price": 2823.8
+        },
+        {
+            "description": "Robust bi-directional process improvement",
+            "quantity": 8,
+            "unit_price": 78.93,
+            "total_price": 631.44
+        }
+    ],
+    "amount": 3928.44
+}

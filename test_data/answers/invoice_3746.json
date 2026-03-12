@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hernandez, Patterson and Herring",
+    "invoice_number": "INV-76060",
+    "date": "2025-08-29",
+    "items": [
+        {
+            "description": "Secured disintermediate projection",
+            "quantity": 4,
+            "unit_price": 40.74,
+            "total_price": 162.96
+        }
+    ],
+    "amount": 162.96
+}

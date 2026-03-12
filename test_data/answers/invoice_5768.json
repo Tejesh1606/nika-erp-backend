@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Austin, Shaw and Fowler",
+    "invoice_number": "INV-10755",
+    "date": "2025-03-15",
+    "items": [
+        {
+            "description": "Centralized 4thgeneration system engine",
+            "quantity": 5,
+            "unit_price": 52.62,
+            "total_price": 263.1
+        }
+    ],
+    "amount": 263.1
+}

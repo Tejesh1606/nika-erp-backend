@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Nelson-Knight",
+    "invoice_number": "INV-50776",
+    "date": "2025-08-06",
+    "items": [
+        {
+            "description": "Progressive local protocol",
+            "quantity": 1,
+            "unit_price": 168.22,
+            "total_price": 168.22
+        },
+        {
+            "description": "Cross-group fault-tolerant extranet",
+            "quantity": 9,
+            "unit_price": 41.06,
+            "total_price": 369.54
+        }
+    ],
+    "amount": 537.76
+}

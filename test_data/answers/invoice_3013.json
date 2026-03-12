@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Walsh, Griffin and Sanders",
+    "invoice_number": "INV-98963",
+    "date": "2025-05-18",
+    "items": [
+        {
+            "description": "Balanced discrete success",
+            "quantity": 5,
+            "unit_price": 27.73,
+            "total_price": 138.65
+        },
+        {
+            "description": "Reverse-engineered clear-thinking concept",
+            "quantity": 3,
+            "unit_price": 193.96,
+            "total_price": 581.88
+        },
+        {
+            "description": "Decentralized dynamic archive",
+            "quantity": 6,
+            "unit_price": 33.05,
+            "total_price": 198.3
+        },
+        {
+            "description": "Polarized 5thgeneration array",
+            "quantity": 10,
+            "unit_price": 449.86,
+            "total_price": 4498.6
+        }
+    ],
+    "amount": 5417.43
+}

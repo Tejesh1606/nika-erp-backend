@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Harris-Wise",
+    "invoice_number": "INV-85738",
+    "date": "2025-08-31",
+    "items": [
+        {
+            "description": "Object-based multi-state Local Area Network",
+            "quantity": 2,
+            "unit_price": 400.26,
+            "total_price": 800.52
+        },
+        {
+            "description": "Synergized system-worthy info-mediaries",
+            "quantity": 9,
+            "unit_price": 334.27,
+            "total_price": 3008.43
+        }
+    ],
+    "amount": 3808.95
+}

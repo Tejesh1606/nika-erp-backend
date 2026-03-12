@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brown-Fernandez",
+    "invoice_number": "INV-50334",
+    "date": "2025-09-19",
+    "items": [
+        {
+            "description": "Public-key local adapter",
+            "quantity": 7,
+            "unit_price": 347.39,
+            "total_price": 2431.73
+        },
+        {
+            "description": "Automated global approach",
+            "quantity": 6,
+            "unit_price": 81.52,
+            "total_price": 489.12
+        },
+        {
+            "description": "Mandatory zero tolerance success",
+            "quantity": 2,
+            "unit_price": 377.44,
+            "total_price": 754.88
+        }
+    ],
+    "amount": 3675.73
+}

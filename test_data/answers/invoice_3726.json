@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Woods Ltd",
+    "invoice_number": "INV-48266",
+    "date": "2025-11-27",
+    "items": [
+        {
+            "description": "Sharable global parallelism",
+            "quantity": 5,
+            "unit_price": 303.25,
+            "total_price": 1516.25
+        }
+    ],
+    "amount": 1516.25
+}

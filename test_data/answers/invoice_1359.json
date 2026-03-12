@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Graham-Joyce",
+    "invoice_number": "INV-20874",
+    "date": "2026-02-08",
+    "items": [
+        {
+            "description": "Profit-focused contextually-based infrastructure",
+            "quantity": 6,
+            "unit_price": 265.31,
+            "total_price": 1591.86
+        }
+    ],
+    "amount": 1591.86
+}

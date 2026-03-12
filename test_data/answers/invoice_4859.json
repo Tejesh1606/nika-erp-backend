@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Stewart, Swanson and Stein",
+    "invoice_number": "INV-68592",
+    "date": "2026-01-28",
+    "items": [
+        {
+            "description": "Re-contextualized user-facing alliance",
+            "quantity": 6,
+            "unit_price": 471.88,
+            "total_price": 2831.28
+        }
+    ],
+    "amount": 2831.28
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Dixon-Buck",
+    "invoice_number": "INV-24765",
+    "date": "2025-12-10",
+    "items": [
+        {
+            "description": "Multi-layered national collaboration",
+            "quantity": 2,
+            "unit_price": 314.14,
+            "total_price": 628.28
+        },
+        {
+            "description": "Optional needs-based instruction set",
+            "quantity": 9,
+            "unit_price": 175.91,
+            "total_price": 1583.19
+        },
+        {
+            "description": "Public-key modular initiative",
+            "quantity": 10,
+            "unit_price": 263.41,
+            "total_price": 2634.1
+        },
+        {
+            "description": "Innovative 24/7 benchmark",
+            "quantity": 7,
+            "unit_price": 107.7,
+            "total_price": 753.9
+        }
+    ],
+    "amount": 5599.47
+}

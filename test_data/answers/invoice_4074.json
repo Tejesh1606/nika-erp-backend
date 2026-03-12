@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Dunn Inc",
+    "invoice_number": "INV-82512",
+    "date": "2025-05-03",
+    "items": [
+        {
+            "description": "Visionary optimizing capability",
+            "quantity": 7,
+            "unit_price": 409.42,
+            "total_price": 2865.94
+        },
+        {
+            "description": "Down-sized mobile task-force",
+            "quantity": 4,
+            "unit_price": 98.33,
+            "total_price": 393.32
+        },
+        {
+            "description": "Realigned regional project",
+            "quantity": 8,
+            "unit_price": 369.86,
+            "total_price": 2958.88
+        },
+        {
+            "description": "Public-key multimedia hierarchy",
+            "quantity": 5,
+            "unit_price": 89.15,
+            "total_price": 445.75
+        }
+    ],
+    "amount": 6663.89
+}

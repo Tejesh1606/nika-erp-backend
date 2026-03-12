@@ -1,0 +1,32 @@
+{
+    "vendor_name": "King, Baker and Schmidt",
+    "invoice_number": "INV-15314",
+    "date": "2025-06-03",
+    "items": [
+        {
+            "description": "Organized disintermediate infrastructure",
+            "quantity": 7,
+            "unit_price": 166.73,
+            "total_price": 1167.11
+        },
+        {
+            "description": "Adaptive intermediate application",
+            "quantity": 4,
+            "unit_price": 147.46,
+            "total_price": 589.84
+        },
+        {
+            "description": "Compatible even-keeled monitoring",
+            "quantity": 1,
+            "unit_price": 168.49,
+            "total_price": 168.49
+        },
+        {
+            "description": "Quality-focused intangible adapter",
+            "quantity": 9,
+            "unit_price": 272.39,
+            "total_price": 2451.51
+        }
+    ],
+    "amount": 4376.95
+}

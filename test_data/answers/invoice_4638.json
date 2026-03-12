@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mccoy, Garcia and Hodges",
+    "invoice_number": "INV-81195",
+    "date": "2025-05-11",
+    "items": [
+        {
+            "description": "Reduced interactive projection",
+            "quantity": 5,
+            "unit_price": 404.25,
+            "total_price": 2021.25
+        },
+        {
+            "description": "Switchable heuristic Internet solution",
+            "quantity": 6,
+            "unit_price": 121.79,
+            "total_price": 730.74
+        }
+    ],
+    "amount": 2751.99
+}

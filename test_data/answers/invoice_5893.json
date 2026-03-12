@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Donovan and Sons",
+    "invoice_number": "INV-48345",
+    "date": "2025-05-17",
+    "items": [
+        {
+            "description": "De-engineered discrete knowledge user",
+            "quantity": 6,
+            "unit_price": 65.31,
+            "total_price": 391.86
+        }
+    ],
+    "amount": 391.86
+}

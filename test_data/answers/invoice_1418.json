@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Perez Group",
+    "invoice_number": "INV-34179",
+    "date": "2025-04-10",
+    "items": [
+        {
+            "description": "Virtual system-worthy workforce",
+            "quantity": 1,
+            "unit_price": 491.41,
+            "total_price": 491.41
+        },
+        {
+            "description": "Cloned disintermediate Internet solution",
+            "quantity": 10,
+            "unit_price": 136.05,
+            "total_price": 1360.5
+        },
+        {
+            "description": "Seamless holistic intranet",
+            "quantity": 7,
+            "unit_price": 30.61,
+            "total_price": 214.27
+        },
+        {
+            "description": "User-centric client-server intranet",
+            "quantity": 1,
+            "unit_price": 475.72,
+            "total_price": 475.72
+        }
+    ],
+    "amount": 2541.9
+}

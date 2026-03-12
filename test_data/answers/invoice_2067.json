@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Owen, Foster and Underwood",
+    "invoice_number": "INV-13672",
+    "date": "2025-03-21",
+    "items": [
+        {
+            "description": "Reactive solution-oriented functionalities",
+            "quantity": 7,
+            "unit_price": 255.66,
+            "total_price": 1789.62
+        },
+        {
+            "description": "Triple-buffered tertiary circuit",
+            "quantity": 9,
+            "unit_price": 171.39,
+            "total_price": 1542.51
+        },
+        {
+            "description": "Re-contextualized even-keeled implementation",
+            "quantity": 5,
+            "unit_price": 496.73,
+            "total_price": 2483.65
+        }
+    ],
+    "amount": 5815.78
+}

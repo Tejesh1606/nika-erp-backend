@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lopez, Love and Jones",
+    "invoice_number": "INV-87182",
+    "date": "2025-05-30",
+    "items": [
+        {
+            "description": "Multi-tiered executive project",
+            "quantity": 7,
+            "unit_price": 485.52,
+            "total_price": 3398.64
+        }
+    ],
+    "amount": 3398.64
+}

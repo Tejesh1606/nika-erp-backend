@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Brooks, Gilbert and Wilcox",
+    "invoice_number": "INV-96412",
+    "date": "2025-11-29",
+    "items": [
+        {
+            "description": "Extended disintermediate circuit",
+            "quantity": 6,
+            "unit_price": 126.24,
+            "total_price": 757.44
+        }
+    ],
+    "amount": 757.44
+}

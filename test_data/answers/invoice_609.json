@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Munoz PLC",
+    "invoice_number": "INV-29809",
+    "date": "2025-11-19",
+    "items": [
+        {
+            "description": "Organized holistic workforce",
+            "quantity": 10,
+            "unit_price": 299.39,
+            "total_price": 2993.9
+        },
+        {
+            "description": "Enhanced empowering toolset",
+            "quantity": 10,
+            "unit_price": 10.9,
+            "total_price": 109.0
+        },
+        {
+            "description": "Total disintermediate matrix",
+            "quantity": 1,
+            "unit_price": 269.65,
+            "total_price": 269.65
+        },
+        {
+            "description": "Enterprise-wide multi-tasking alliance",
+            "quantity": 8,
+            "unit_price": 19.81,
+            "total_price": 158.48
+        }
+    ],
+    "amount": 3531.03
+}

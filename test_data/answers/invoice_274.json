@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Boyd LLC",
+    "invoice_number": "INV-72411",
+    "date": "2025-04-15",
+    "items": [
+        {
+            "description": "Organic uniform standardization",
+            "quantity": 1,
+            "unit_price": 455.15,
+            "total_price": 455.15
+        },
+        {
+            "description": "Organized foreground architecture",
+            "quantity": 1,
+            "unit_price": 146.35,
+            "total_price": 146.35
+        }
+    ],
+    "amount": 601.5
+}

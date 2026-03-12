@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Chavez-Johnson",
+    "invoice_number": "INV-72303",
+    "date": "2025-04-21",
+    "items": [
+        {
+            "description": "Monitored mission-critical Local Area Network",
+            "quantity": 2,
+            "unit_price": 344.2,
+            "total_price": 688.4
+        },
+        {
+            "description": "Down-sized executive throughput",
+            "quantity": 9,
+            "unit_price": 152.16,
+            "total_price": 1369.44
+        },
+        {
+            "description": "Monitored real-time orchestration",
+            "quantity": 1,
+            "unit_price": 49.32,
+            "total_price": 49.32
+        },
+        {
+            "description": "De-engineered multimedia benchmark",
+            "quantity": 4,
+            "unit_price": 56.84,
+            "total_price": 227.36
+        }
+    ],
+    "amount": 2334.52
+}

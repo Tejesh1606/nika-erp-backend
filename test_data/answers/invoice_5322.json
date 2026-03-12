@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brown and Sons",
+    "invoice_number": "INV-27336",
+    "date": "2025-07-30",
+    "items": [
+        {
+            "description": "Self-enabling systematic solution",
+            "quantity": 7,
+            "unit_price": 101.36,
+            "total_price": 709.52
+        },
+        {
+            "description": "Object-based homogeneous synergy",
+            "quantity": 4,
+            "unit_price": 341.78,
+            "total_price": 1367.12
+        },
+        {
+            "description": "Compatible needs-based access",
+            "quantity": 9,
+            "unit_price": 14.53,
+            "total_price": 130.77
+        }
+    ],
+    "amount": 2207.41
+}

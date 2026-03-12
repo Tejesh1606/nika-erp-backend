@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lowe, Klein and Ponce",
+    "invoice_number": "INV-10088",
+    "date": "2025-09-05",
+    "items": [
+        {
+            "description": "Implemented optimal paradigm",
+            "quantity": 3,
+            "unit_price": 254.15,
+            "total_price": 762.45
+        },
+        {
+            "description": "Front-line foreground open system",
+            "quantity": 2,
+            "unit_price": 339.04,
+            "total_price": 678.08
+        },
+        {
+            "description": "Public-key bi-directional challenge",
+            "quantity": 8,
+            "unit_price": 293.33,
+            "total_price": 2346.64
+        },
+        {
+            "description": "Inverse global process improvement",
+            "quantity": 6,
+            "unit_price": 162.4,
+            "total_price": 974.4
+        }
+    ],
+    "amount": 4761.57
+}

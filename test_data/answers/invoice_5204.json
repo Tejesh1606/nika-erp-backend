@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mccarty LLC",
+    "invoice_number": "INV-81806",
+    "date": "2025-07-21",
+    "items": [
+        {
+            "description": "Up-sized full-range support",
+            "quantity": 8,
+            "unit_price": 62.21,
+            "total_price": 497.68
+        },
+        {
+            "description": "Enterprise-wide 4thgeneration archive",
+            "quantity": 4,
+            "unit_price": 46.61,
+            "total_price": 186.44
+        },
+        {
+            "description": "Adaptive systemic budgetary management",
+            "quantity": 7,
+            "unit_price": 297.69,
+            "total_price": 2083.83
+        }
+    ],
+    "amount": 2767.95
+}

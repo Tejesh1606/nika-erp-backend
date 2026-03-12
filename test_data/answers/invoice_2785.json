@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cunningham, Contreras and Miller",
+    "invoice_number": "INV-72768",
+    "date": "2025-06-12",
+    "items": [
+        {
+            "description": "User-centric homogeneous policy",
+            "quantity": 4,
+            "unit_price": 24.21,
+            "total_price": 96.84
+        },
+        {
+            "description": "Advanced maximized synergy",
+            "quantity": 7,
+            "unit_price": 371.98,
+            "total_price": 2603.86
+        },
+        {
+            "description": "Profound optimizing strategy",
+            "quantity": 6,
+            "unit_price": 324.19,
+            "total_price": 1945.14
+        }
+    ],
+    "amount": 4645.84
+}

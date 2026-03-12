@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hall LLC",
+    "invoice_number": "INV-43848",
+    "date": "2025-04-15",
+    "items": [
+        {
+            "description": "Integrated homogeneous matrix",
+            "quantity": 2,
+            "unit_price": 76.98,
+            "total_price": 153.96
+        },
+        {
+            "description": "Reduced human-resource paradigm",
+            "quantity": 6,
+            "unit_price": 113.99,
+            "total_price": 683.94
+        }
+    ],
+    "amount": 837.9
+}

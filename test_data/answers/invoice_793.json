@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Collins, Peterson and Reid",
+    "invoice_number": "INV-13069",
+    "date": "2025-03-19",
+    "items": [
+        {
+            "description": "Quality-focused optimizing firmware",
+            "quantity": 3,
+            "unit_price": 85.35,
+            "total_price": 256.05
+        },
+        {
+            "description": "Front-line zero-defect framework",
+            "quantity": 9,
+            "unit_price": 480.15,
+            "total_price": 4321.35
+        },
+        {
+            "description": "Up-sized interactive middleware",
+            "quantity": 10,
+            "unit_price": 172.04,
+            "total_price": 1720.4
+        }
+    ],
+    "amount": 6297.8
+}

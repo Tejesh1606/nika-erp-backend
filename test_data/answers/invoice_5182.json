@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Ramirez Group",
+    "invoice_number": "INV-23440",
+    "date": "2025-07-27",
+    "items": [
+        {
+            "description": "Up-sized 6thgeneration flexibility",
+            "quantity": 10,
+            "unit_price": 134.78,
+            "total_price": 1347.8
+        },
+        {
+            "description": "Decentralized transitional support",
+            "quantity": 9,
+            "unit_price": 323.15,
+            "total_price": 2908.35
+        },
+        {
+            "description": "Cloned modular application",
+            "quantity": 4,
+            "unit_price": 329.08,
+            "total_price": 1316.32
+        },
+        {
+            "description": "Profound coherent open system",
+            "quantity": 9,
+            "unit_price": 456.41,
+            "total_price": 4107.69
+        }
+    ],
+    "amount": 9680.16
+}

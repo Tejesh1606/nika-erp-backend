@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Moody Ltd",
+    "invoice_number": "INV-55450",
+    "date": "2025-05-15",
+    "items": [
+        {
+            "description": "Profound methodical open architecture",
+            "quantity": 9,
+            "unit_price": 14.72,
+            "total_price": 132.48
+        },
+        {
+            "description": "Team-oriented directional groupware",
+            "quantity": 2,
+            "unit_price": 462.17,
+            "total_price": 924.34
+        },
+        {
+            "description": "Persevering dedicated encryption",
+            "quantity": 5,
+            "unit_price": 55.16,
+            "total_price": 275.8
+        },
+        {
+            "description": "Profound bandwidth-monitored definition",
+            "quantity": 5,
+            "unit_price": 60.38,
+            "total_price": 301.9
+        }
+    ],
+    "amount": 1634.52
+}

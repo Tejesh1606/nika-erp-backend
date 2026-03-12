@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Rogers-Williams",
+    "invoice_number": "INV-99301",
+    "date": "2025-07-15",
+    "items": [
+        {
+            "description": "Quality-focused encompassing interface",
+            "quantity": 10,
+            "unit_price": 150.67,
+            "total_price": 1506.7
+        },
+        {
+            "description": "Optimized neutral matrix",
+            "quantity": 8,
+            "unit_price": 359.11,
+            "total_price": 2872.88
+        },
+        {
+            "description": "Robust demand-driven ability",
+            "quantity": 4,
+            "unit_price": 54.56,
+            "total_price": 218.24
+        }
+    ],
+    "amount": 4597.82
+}

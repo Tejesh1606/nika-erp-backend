@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ellison, Barrera and Knight",
+    "invoice_number": "INV-96326",
+    "date": "2025-10-19",
+    "items": [
+        {
+            "description": "Seamless reciprocal utilization",
+            "quantity": 8,
+            "unit_price": 88.01,
+            "total_price": 704.08
+        },
+        {
+            "description": "Open-architected dedicated toolset",
+            "quantity": 2,
+            "unit_price": 382.5,
+            "total_price": 765.0
+        }
+    ],
+    "amount": 1469.08
+}

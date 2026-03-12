@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Sanford-Reyes",
+    "invoice_number": "INV-14944",
+    "date": "2025-10-02",
+    "items": [
+        {
+            "description": "Exclusive upward-trending hub",
+            "quantity": 3,
+            "unit_price": 335.68,
+            "total_price": 1007.04
+        },
+        {
+            "description": "Advanced fresh-thinking system engine",
+            "quantity": 5,
+            "unit_price": 164.48,
+            "total_price": 822.4
+        },
+        {
+            "description": "Progressive content-based adapter",
+            "quantity": 3,
+            "unit_price": 313.37,
+            "total_price": 940.11
+        },
+        {
+            "description": "Synergistic 24hour product",
+            "quantity": 4,
+            "unit_price": 344.09,
+            "total_price": 1376.36
+        }
+    ],
+    "amount": 4145.91
+}

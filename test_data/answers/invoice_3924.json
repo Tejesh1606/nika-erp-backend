@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Barajas-Orozco",
+    "invoice_number": "INV-34719",
+    "date": "2025-11-19",
+    "items": [
+        {
+            "description": "Extended system-worthy middleware",
+            "quantity": 10,
+            "unit_price": 317.18,
+            "total_price": 3171.8
+        },
+        {
+            "description": "Balanced executive benchmark",
+            "quantity": 9,
+            "unit_price": 146.06,
+            "total_price": 1314.54
+        },
+        {
+            "description": "Universal reciprocal architecture",
+            "quantity": 7,
+            "unit_price": 372.74,
+            "total_price": 2609.18
+        }
+    ],
+    "amount": 7095.52
+}

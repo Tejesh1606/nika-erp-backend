@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lyons PLC",
+    "invoice_number": "INV-50926",
+    "date": "2025-04-26",
+    "items": [
+        {
+            "description": "Business-focused bandwidth-monitored service-desk",
+            "quantity": 2,
+            "unit_price": 145.91,
+            "total_price": 291.82
+        }
+    ],
+    "amount": 291.82
+}

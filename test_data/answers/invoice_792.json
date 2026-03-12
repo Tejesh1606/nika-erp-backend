@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Higgins, Hobbs and Meyer",
+    "invoice_number": "INV-80882",
+    "date": "2025-06-27",
+    "items": [
+        {
+            "description": "Extended background migration",
+            "quantity": 9,
+            "unit_price": 93.84,
+            "total_price": 844.56
+        }
+    ],
+    "amount": 844.56
+}

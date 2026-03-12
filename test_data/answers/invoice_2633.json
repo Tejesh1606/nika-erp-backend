@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Medina, Cochran and Fox",
+    "invoice_number": "INV-39669",
+    "date": "2025-03-26",
+    "items": [
+        {
+            "description": "Grass-roots 3rdgeneration challenge",
+            "quantity": 2,
+            "unit_price": 472.36,
+            "total_price": 944.72
+        },
+        {
+            "description": "Robust intermediate infrastructure",
+            "quantity": 3,
+            "unit_price": 464.02,
+            "total_price": 1392.06
+        }
+    ],
+    "amount": 2336.78
+}

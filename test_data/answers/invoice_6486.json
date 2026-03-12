@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Diaz, Gomez and Reed",
+    "invoice_number": "INV-92044",
+    "date": "2025-10-06",
+    "items": [
+        {
+            "description": "Cross-group tertiary Local Area Network",
+            "quantity": 4,
+            "unit_price": 494.04,
+            "total_price": 1976.16
+        }
+    ],
+    "amount": 1976.16
+}

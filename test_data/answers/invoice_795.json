@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Morgan-Young",
+    "invoice_number": "INV-86230",
+    "date": "2025-10-14",
+    "items": [
+        {
+            "description": "Universal responsive secured line",
+            "quantity": 6,
+            "unit_price": 190.1,
+            "total_price": 1140.6
+        },
+        {
+            "description": "Public-key radical emulation",
+            "quantity": 6,
+            "unit_price": 316.81,
+            "total_price": 1900.86
+        },
+        {
+            "description": "Monitored exuding forecast",
+            "quantity": 8,
+            "unit_price": 221.04,
+            "total_price": 1768.32
+        }
+    ],
+    "amount": 4809.78
+}

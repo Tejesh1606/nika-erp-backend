@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Vasquez, Franklin and Faulkner",
+    "invoice_number": "INV-89544",
+    "date": "2025-06-03",
+    "items": [
+        {
+            "description": "Object-based explicit secured line",
+            "quantity": 6,
+            "unit_price": 162.72,
+            "total_price": 976.32
+        },
+        {
+            "description": "Enterprise-wide mobile database",
+            "quantity": 1,
+            "unit_price": 42.67,
+            "total_price": 42.67
+        },
+        {
+            "description": "Persevering optimal hardware",
+            "quantity": 6,
+            "unit_price": 20.05,
+            "total_price": 120.3
+        }
+    ],
+    "amount": 1139.29
+}

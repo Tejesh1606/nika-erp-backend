@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Richards, Caldwell and Brown",
+    "invoice_number": "INV-98671",
+    "date": "2026-02-05",
+    "items": [
+        {
+            "description": "Seamless exuding architecture",
+            "quantity": 3,
+            "unit_price": 177.25,
+            "total_price": 531.75
+        },
+        {
+            "description": "Optimized maximized open system",
+            "quantity": 9,
+            "unit_price": 469.19,
+            "total_price": 4222.71
+        },
+        {
+            "description": "Inverse responsive protocol",
+            "quantity": 6,
+            "unit_price": 464.83,
+            "total_price": 2788.98
+        }
+    ],
+    "amount": 7543.44
+}

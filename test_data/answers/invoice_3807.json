@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mora, Rush and Pham",
+    "invoice_number": "INV-21046",
+    "date": "2026-01-09",
+    "items": [
+        {
+            "description": "User-centric background instruction set",
+            "quantity": 7,
+            "unit_price": 79.16,
+            "total_price": 554.12
+        },
+        {
+            "description": "Synergistic contextually-based conglomeration",
+            "quantity": 8,
+            "unit_price": 262.58,
+            "total_price": 2100.64
+        }
+    ],
+    "amount": 2654.76
+}

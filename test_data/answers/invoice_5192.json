@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mccoy, Krueger and Warner",
+    "invoice_number": "INV-69491",
+    "date": "2025-04-21",
+    "items": [
+        {
+            "description": "Reactive uniform collaboration",
+            "quantity": 3,
+            "unit_price": 74.63,
+            "total_price": 223.89
+        },
+        {
+            "description": "Cross-platform responsive monitoring",
+            "quantity": 8,
+            "unit_price": 167.52,
+            "total_price": 1340.16
+        },
+        {
+            "description": "Diverse background website",
+            "quantity": 3,
+            "unit_price": 379.65,
+            "total_price": 1138.95
+        },
+        {
+            "description": "Networked static adapter",
+            "quantity": 1,
+            "unit_price": 113.63,
+            "total_price": 113.63
+        }
+    ],
+    "amount": 2816.63
+}

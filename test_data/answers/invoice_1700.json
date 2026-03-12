@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Horne Group",
+    "invoice_number": "INV-10402",
+    "date": "2026-02-14",
+    "items": [
+        {
+            "description": "Secured systemic data-warehouse",
+            "quantity": 5,
+            "unit_price": 321.64,
+            "total_price": 1608.2
+        }
+    ],
+    "amount": 1608.2
+}

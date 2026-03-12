@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hughes Group",
+    "invoice_number": "INV-93784",
+    "date": "2025-03-14",
+    "items": [
+        {
+            "description": "Mandatory non-volatile hub",
+            "quantity": 5,
+            "unit_price": 408.64,
+            "total_price": 2043.2
+        },
+        {
+            "description": "Intuitive bottom-line standardization",
+            "quantity": 7,
+            "unit_price": 496.38,
+            "total_price": 3474.66
+        }
+    ],
+    "amount": 5517.86
+}

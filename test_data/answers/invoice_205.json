@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lara, Baker and Washington",
+    "invoice_number": "INV-42311",
+    "date": "2025-06-25",
+    "items": [
+        {
+            "description": "Realigned exuding definition",
+            "quantity": 7,
+            "unit_price": 319.95,
+            "total_price": 2239.65
+        }
+    ],
+    "amount": 2239.65
+}

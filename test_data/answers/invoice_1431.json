@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lewis-Thomas",
+    "invoice_number": "INV-24240",
+    "date": "2025-10-05",
+    "items": [
+        {
+            "description": "Streamlined local framework",
+            "quantity": 9,
+            "unit_price": 127.24,
+            "total_price": 1145.16
+        }
+    ],
+    "amount": 1145.16
+}

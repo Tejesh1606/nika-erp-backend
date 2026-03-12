@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Becker-Scott",
+    "invoice_number": "INV-46463",
+    "date": "2025-09-15",
+    "items": [
+        {
+            "description": "Customer-focused intangible forecast",
+            "quantity": 1,
+            "unit_price": 15.31,
+            "total_price": 15.31
+        },
+        {
+            "description": "Re-contextualized asymmetric parallelism",
+            "quantity": 10,
+            "unit_price": 30.27,
+            "total_price": 302.7
+        },
+        {
+            "description": "Customizable human-resource core",
+            "quantity": 10,
+            "unit_price": 124.26,
+            "total_price": 1242.6
+        }
+    ],
+    "amount": 1560.61
+}

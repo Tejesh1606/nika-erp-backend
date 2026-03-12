@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Welch-Young",
+    "invoice_number": "INV-76846",
+    "date": "2025-09-10",
+    "items": [
+        {
+            "description": "Devolved fault-tolerant implementation",
+            "quantity": 7,
+            "unit_price": 224.72,
+            "total_price": 1573.04
+        }
+    ],
+    "amount": 1573.04
+}

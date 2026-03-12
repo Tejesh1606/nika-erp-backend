@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Booker-Sharp",
+    "invoice_number": "INV-95066",
+    "date": "2026-01-28",
+    "items": [
+        {
+            "description": "Switchable didactic open architecture",
+            "quantity": 5,
+            "unit_price": 306.52,
+            "total_price": 1532.6
+        },
+        {
+            "description": "Fully-configurable 3rdgeneration service-desk",
+            "quantity": 8,
+            "unit_price": 298.07,
+            "total_price": 2384.56
+        }
+    ],
+    "amount": 3917.16
+}

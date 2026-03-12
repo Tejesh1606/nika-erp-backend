@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Webster, Garrison and Ball",
+    "invoice_number": "INV-50776",
+    "date": "2025-07-24",
+    "items": [
+        {
+            "description": "Total scalable adapter",
+            "quantity": 5,
+            "unit_price": 190.65,
+            "total_price": 953.25
+        },
+        {
+            "description": "Visionary encompassing structure",
+            "quantity": 5,
+            "unit_price": 93.61,
+            "total_price": 468.05
+        },
+        {
+            "description": "Team-oriented 4thgeneration orchestration",
+            "quantity": 3,
+            "unit_price": 425.59,
+            "total_price": 1276.77
+        },
+        {
+            "description": "Function-based bi-directional flexibility",
+            "quantity": 3,
+            "unit_price": 240.71,
+            "total_price": 722.13
+        }
+    ],
+    "amount": 3420.2
+}

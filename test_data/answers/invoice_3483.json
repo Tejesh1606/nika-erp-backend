@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Parks, Fisher and Brown",
+    "invoice_number": "INV-78648",
+    "date": "2025-07-20",
+    "items": [
+        {
+            "description": "Synergistic real-time leverage",
+            "quantity": 4,
+            "unit_price": 137.59,
+            "total_price": 550.36
+        },
+        {
+            "description": "Exclusive grid-enabled middleware",
+            "quantity": 4,
+            "unit_price": 484.89,
+            "total_price": 1939.56
+        },
+        {
+            "description": "Multi-tiered mission-critical parallelism",
+            "quantity": 9,
+            "unit_price": 464.62,
+            "total_price": 4181.58
+        }
+    ],
+    "amount": 6671.5
+}

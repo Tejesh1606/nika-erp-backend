@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Palmer-Walters",
+    "invoice_number": "INV-73201",
+    "date": "2025-10-14",
+    "items": [
+        {
+            "description": "Reduced 24/7 definition",
+            "quantity": 7,
+            "unit_price": 23.95,
+            "total_price": 167.65
+        }
+    ],
+    "amount": 167.65
+}

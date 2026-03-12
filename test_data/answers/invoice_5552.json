@@ -1,0 +1,26 @@
+{
+    "vendor_name": "White Group",
+    "invoice_number": "INV-88159",
+    "date": "2025-09-23",
+    "items": [
+        {
+            "description": "Face-to-face client-driven core",
+            "quantity": 4,
+            "unit_price": 120.5,
+            "total_price": 482.0
+        },
+        {
+            "description": "Distributed next generation help-desk",
+            "quantity": 7,
+            "unit_price": 86.25,
+            "total_price": 603.75
+        },
+        {
+            "description": "Fundamental bandwidth-monitored firmware",
+            "quantity": 10,
+            "unit_price": 491.17,
+            "total_price": 4911.7
+        }
+    ],
+    "amount": 5997.45
+}

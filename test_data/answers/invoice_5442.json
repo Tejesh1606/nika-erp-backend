@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Walsh, Williams and Huerta",
+    "invoice_number": "INV-47596",
+    "date": "2025-08-20",
+    "items": [
+        {
+            "description": "Mandatory non-volatile function",
+            "quantity": 2,
+            "unit_price": 233.17,
+            "total_price": 466.34
+        }
+    ],
+    "amount": 466.34
+}

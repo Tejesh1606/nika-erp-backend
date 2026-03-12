@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Tran and Sons",
+    "invoice_number": "INV-40992",
+    "date": "2026-02-20",
+    "items": [
+        {
+            "description": "Down-sized fresh-thinking projection",
+            "quantity": 7,
+            "unit_price": 311.3,
+            "total_price": 2179.1
+        },
+        {
+            "description": "Multi-lateral tangible encryption",
+            "quantity": 4,
+            "unit_price": 218.53,
+            "total_price": 874.12
+        },
+        {
+            "description": "Re-engineered needs-based database",
+            "quantity": 8,
+            "unit_price": 496.69,
+            "total_price": 3973.52
+        },
+        {
+            "description": "Intuitive next generation function",
+            "quantity": 10,
+            "unit_price": 80.88,
+            "total_price": 808.8
+        }
+    ],
+    "amount": 7835.54
+}

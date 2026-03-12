@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Morrison, Duffy and Davis",
+    "invoice_number": "INV-98384",
+    "date": "2025-03-31",
+    "items": [
+        {
+            "description": "Automated transitional solution",
+            "quantity": 10,
+            "unit_price": 120.53,
+            "total_price": 1205.3
+        },
+        {
+            "description": "Operative dynamic flexibility",
+            "quantity": 2,
+            "unit_price": 445.79,
+            "total_price": 891.58
+        },
+        {
+            "description": "Stand-alone logistical function",
+            "quantity": 5,
+            "unit_price": 340.1,
+            "total_price": 1700.5
+        },
+        {
+            "description": "Self-enabling zero administration service-desk",
+            "quantity": 6,
+            "unit_price": 378.55,
+            "total_price": 2271.3
+        }
+    ],
+    "amount": 6068.68
+}

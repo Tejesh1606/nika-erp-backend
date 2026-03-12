@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Cooper, Lucas and Nguyen",
+    "invoice_number": "INV-87772",
+    "date": "2025-11-22",
+    "items": [
+        {
+            "description": "Total multi-tasking neural-net",
+            "quantity": 5,
+            "unit_price": 296.46,
+            "total_price": 1482.3
+        },
+        {
+            "description": "Organic logistical framework",
+            "quantity": 6,
+            "unit_price": 126.44,
+            "total_price": 758.64
+        },
+        {
+            "description": "Re-contextualized clear-thinking utilization",
+            "quantity": 8,
+            "unit_price": 301.76,
+            "total_price": 2414.08
+        },
+        {
+            "description": "Integrated composite utilization",
+            "quantity": 8,
+            "unit_price": 175.96,
+            "total_price": 1407.68
+        }
+    ],
+    "amount": 6062.7
+}

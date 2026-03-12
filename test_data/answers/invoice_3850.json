@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Campbell Ltd",
+    "invoice_number": "INV-84435",
+    "date": "2025-11-13",
+    "items": [
+        {
+            "description": "Customizable context-sensitive database",
+            "quantity": 10,
+            "unit_price": 255.64,
+            "total_price": 2556.4
+        },
+        {
+            "description": "Down-sized bifurcated implementation",
+            "quantity": 8,
+            "unit_price": 42.77,
+            "total_price": 342.16
+        },
+        {
+            "description": "Synchronized systemic access",
+            "quantity": 2,
+            "unit_price": 225.87,
+            "total_price": 451.74
+        }
+    ],
+    "amount": 3350.3
+}

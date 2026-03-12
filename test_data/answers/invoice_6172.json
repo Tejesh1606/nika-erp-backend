@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Henry, Wagner and Joseph",
+    "invoice_number": "INV-54950",
+    "date": "2025-12-11",
+    "items": [
+        {
+            "description": "Synergistic multi-state paradigm",
+            "quantity": 1,
+            "unit_price": 426.13,
+            "total_price": 426.13
+        },
+        {
+            "description": "Expanded secondary projection",
+            "quantity": 2,
+            "unit_price": 306.28,
+            "total_price": 612.56
+        },
+        {
+            "description": "Digitized 6thgeneration architecture",
+            "quantity": 9,
+            "unit_price": 317.08,
+            "total_price": 2853.72
+        },
+        {
+            "description": "Automated systemic open architecture",
+            "quantity": 6,
+            "unit_price": 75.95,
+            "total_price": 455.7
+        }
+    ],
+    "amount": 4348.11
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Brown-Perry",
+    "invoice_number": "INV-18562",
+    "date": "2025-03-14",
+    "items": [
+        {
+            "description": "Extended asynchronous monitoring",
+            "quantity": 3,
+            "unit_price": 41.1,
+            "total_price": 123.3
+        },
+        {
+            "description": "Integrated asymmetric productivity",
+            "quantity": 6,
+            "unit_price": 358.89,
+            "total_price": 2153.34
+        }
+    ],
+    "amount": 2276.64
+}

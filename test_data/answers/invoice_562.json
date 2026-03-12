@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Grant, Bryan and Williams",
+    "invoice_number": "INV-29432",
+    "date": "2025-03-30",
+    "items": [
+        {
+            "description": "Streamlined grid-enabled alliance",
+            "quantity": 8,
+            "unit_price": 227.92,
+            "total_price": 1823.36
+        }
+    ],
+    "amount": 1823.36
+}

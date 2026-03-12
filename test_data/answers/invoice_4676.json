@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wallace Ltd",
+    "invoice_number": "INV-39018",
+    "date": "2025-10-28",
+    "items": [
+        {
+            "description": "Stand-alone needs-based groupware",
+            "quantity": 6,
+            "unit_price": 355.44,
+            "total_price": 2132.64
+        }
+    ],
+    "amount": 2132.64
+}

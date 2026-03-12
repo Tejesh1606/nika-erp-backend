@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Leach-Russo",
+    "invoice_number": "INV-91888",
+    "date": "2025-10-18",
+    "items": [
+        {
+            "description": "Extended content-based secured line",
+            "quantity": 6,
+            "unit_price": 290.78,
+            "total_price": 1744.68
+        }
+    ],
+    "amount": 1744.68
+}

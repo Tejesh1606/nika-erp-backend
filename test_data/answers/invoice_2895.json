@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wilson-Grant",
+    "invoice_number": "INV-34086",
+    "date": "2025-10-27",
+    "items": [
+        {
+            "description": "Reverse-engineered bandwidth-monitored circuit",
+            "quantity": 6,
+            "unit_price": 175.32,
+            "total_price": 1051.92
+        },
+        {
+            "description": "Open-source reciprocal policy",
+            "quantity": 4,
+            "unit_price": 461.66,
+            "total_price": 1846.64
+        },
+        {
+            "description": "Future-proofed global collaboration",
+            "quantity": 1,
+            "unit_price": 223.83,
+            "total_price": 223.83
+        }
+    ],
+    "amount": 3122.39
+}

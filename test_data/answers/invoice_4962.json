@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Meyer, Roman and Gomez",
+    "invoice_number": "INV-62500",
+    "date": "2025-08-10",
+    "items": [
+        {
+            "description": "Configurable non-volatile adapter",
+            "quantity": 6,
+            "unit_price": 489.08,
+            "total_price": 2934.48
+        },
+        {
+            "description": "Proactive hybrid firmware",
+            "quantity": 9,
+            "unit_price": 280.81,
+            "total_price": 2527.29
+        },
+        {
+            "description": "Integrated encompassing policy",
+            "quantity": 10,
+            "unit_price": 80.29,
+            "total_price": 802.9
+        }
+    ],
+    "amount": 6264.67
+}

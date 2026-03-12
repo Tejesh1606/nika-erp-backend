@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Duncan Inc",
+    "invoice_number": "INV-52790",
+    "date": "2025-08-14",
+    "items": [
+        {
+            "description": "Open-architected well-modulated Graphic Interface",
+            "quantity": 2,
+            "unit_price": 124.65,
+            "total_price": 249.3
+        },
+        {
+            "description": "Synergized bi-directional firmware",
+            "quantity": 4,
+            "unit_price": 321.13,
+            "total_price": 1284.52
+        }
+    ],
+    "amount": 1533.82
+}

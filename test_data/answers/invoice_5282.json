@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Rodriguez and Sons",
+    "invoice_number": "INV-39039",
+    "date": "2025-04-29",
+    "items": [
+        {
+            "description": "Implemented secondary emulation",
+            "quantity": 6,
+            "unit_price": 54.86,
+            "total_price": 329.16
+        }
+    ],
+    "amount": 329.16
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mills and Sons",
+    "invoice_number": "INV-55073",
+    "date": "2025-06-28",
+    "items": [
+        {
+            "description": "Phased national access",
+            "quantity": 3,
+            "unit_price": 80.2,
+            "total_price": 240.6
+        }
+    ],
+    "amount": 240.6
+}

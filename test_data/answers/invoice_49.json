@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Brock Ltd",
+    "invoice_number": "INV-77889",
+    "date": "2025-09-05",
+    "items": [
+        {
+            "description": "Business-focused next generation encryption",
+            "quantity": 5,
+            "unit_price": 329.11,
+            "total_price": 1645.55
+        }
+    ],
+    "amount": 1645.55
+}

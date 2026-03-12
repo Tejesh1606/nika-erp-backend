@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Green PLC",
+    "invoice_number": "INV-77999",
+    "date": "2025-10-11",
+    "items": [
+        {
+            "description": "Reduced system-worthy orchestration",
+            "quantity": 8,
+            "unit_price": 335.58,
+            "total_price": 2684.64
+        },
+        {
+            "description": "Face-to-face local hub",
+            "quantity": 4,
+            "unit_price": 61.21,
+            "total_price": 244.84
+        },
+        {
+            "description": "Object-based maximized throughput",
+            "quantity": 8,
+            "unit_price": 119.54,
+            "total_price": 956.32
+        }
+    ],
+    "amount": 3885.8
+}

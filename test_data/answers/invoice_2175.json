@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Foster, Reese and Martinez",
+    "invoice_number": "INV-85454",
+    "date": "2025-06-10",
+    "items": [
+        {
+            "description": "Reduced attitude-oriented access",
+            "quantity": 6,
+            "unit_price": 318.27,
+            "total_price": 1909.62
+        }
+    ],
+    "amount": 1909.62
+}

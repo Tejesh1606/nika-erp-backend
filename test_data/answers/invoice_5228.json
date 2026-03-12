@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Raymond Ltd",
+    "invoice_number": "INV-94900",
+    "date": "2025-10-28",
+    "items": [
+        {
+            "description": "Universal global circuit",
+            "quantity": 9,
+            "unit_price": 322.0,
+            "total_price": 2898.0
+        },
+        {
+            "description": "Devolved neutral structure",
+            "quantity": 10,
+            "unit_price": 318.16,
+            "total_price": 3181.6
+        },
+        {
+            "description": "Phased solution-oriented service-desk",
+            "quantity": 6,
+            "unit_price": 346.08,
+            "total_price": 2076.48
+        }
+    ],
+    "amount": 8156.08
+}

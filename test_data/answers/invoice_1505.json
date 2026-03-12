@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Taylor, Velasquez and Harris",
+    "invoice_number": "INV-61950",
+    "date": "2025-04-09",
+    "items": [
+        {
+            "description": "Operative bifurcated middleware",
+            "quantity": 9,
+            "unit_price": 389.25,
+            "total_price": 3503.25
+        },
+        {
+            "description": "Quality-focused 6thgeneration model",
+            "quantity": 2,
+            "unit_price": 468.17,
+            "total_price": 936.34
+        }
+    ],
+    "amount": 4439.59
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Miller-Esparza",
+    "invoice_number": "INV-84886",
+    "date": "2025-12-03",
+    "items": [
+        {
+            "description": "Balanced asymmetric neural-net",
+            "quantity": 2,
+            "unit_price": 341.71,
+            "total_price": 683.42
+        },
+        {
+            "description": "Cross-group modular secured line",
+            "quantity": 7,
+            "unit_price": 225.44,
+            "total_price": 1578.08
+        },
+        {
+            "description": "Innovative web-enabled orchestration",
+            "quantity": 4,
+            "unit_price": 213.62,
+            "total_price": 854.48
+        },
+        {
+            "description": "Persevering dynamic throughput",
+            "quantity": 10,
+            "unit_price": 314.48,
+            "total_price": 3144.8
+        }
+    ],
+    "amount": 6260.78
+}

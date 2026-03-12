@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hubbard Inc",
+    "invoice_number": "INV-92808",
+    "date": "2025-10-10",
+    "items": [
+        {
+            "description": "Public-key transitional framework",
+            "quantity": 9,
+            "unit_price": 348.24,
+            "total_price": 3134.16
+        },
+        {
+            "description": "Enhanced responsive throughput",
+            "quantity": 10,
+            "unit_price": 123.47,
+            "total_price": 1234.7
+        },
+        {
+            "description": "Innovative homogeneous encoding",
+            "quantity": 1,
+            "unit_price": 44.25,
+            "total_price": 44.25
+        }
+    ],
+    "amount": 4413.11
+}

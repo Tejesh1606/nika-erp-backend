@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gonzalez Inc",
+    "invoice_number": "INV-88377",
+    "date": "2026-02-27",
+    "items": [
+        {
+            "description": "Switchable impactful firmware",
+            "quantity": 10,
+            "unit_price": 442.55,
+            "total_price": 4425.5
+        },
+        {
+            "description": "Digitized transitional Graphical User Interface",
+            "quantity": 5,
+            "unit_price": 96.7,
+            "total_price": 483.5
+        },
+        {
+            "description": "Public-key heuristic infrastructure",
+            "quantity": 10,
+            "unit_price": 266.29,
+            "total_price": 2662.9
+        },
+        {
+            "description": "Devolved human-resource benchmark",
+            "quantity": 5,
+            "unit_price": 12.63,
+            "total_price": 63.15
+        }
+    ],
+    "amount": 7635.05
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Figueroa Ltd",
+    "invoice_number": "INV-35046",
+    "date": "2025-03-14",
+    "items": [
+        {
+            "description": "Adaptive mission-critical ability",
+            "quantity": 3,
+            "unit_price": 98.12,
+            "total_price": 294.36
+        },
+        {
+            "description": "Realigned intangible architecture",
+            "quantity": 8,
+            "unit_price": 447.53,
+            "total_price": 3580.24
+        }
+    ],
+    "amount": 3874.6
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Morgan, Harding and Frazier",
+    "invoice_number": "INV-36636",
+    "date": "2025-10-20",
+    "items": [
+        {
+            "description": "Advanced real-time middleware",
+            "quantity": 4,
+            "unit_price": 364.8,
+            "total_price": 1459.2
+        },
+        {
+            "description": "Fundamental systemic implementation",
+            "quantity": 4,
+            "unit_price": 131.65,
+            "total_price": 526.6
+        }
+    ],
+    "amount": 1985.8
+}

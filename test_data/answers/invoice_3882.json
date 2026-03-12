@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Scott Ltd",
+    "invoice_number": "INV-55006",
+    "date": "2025-05-16",
+    "items": [
+        {
+            "description": "Operative didactic initiative",
+            "quantity": 6,
+            "unit_price": 398.35,
+            "total_price": 2390.1
+        },
+        {
+            "description": "Down-sized multi-tasking open architecture",
+            "quantity": 4,
+            "unit_price": 143.74,
+            "total_price": 574.96
+        },
+        {
+            "description": "Operative contextually-based data-warehouse",
+            "quantity": 1,
+            "unit_price": 165.43,
+            "total_price": 165.43
+        }
+    ],
+    "amount": 3130.49
+}

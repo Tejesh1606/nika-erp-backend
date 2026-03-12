@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ware and Sons",
+    "invoice_number": "INV-13547",
+    "date": "2026-01-22",
+    "items": [
+        {
+            "description": "Business-focused uniform service-desk",
+            "quantity": 5,
+            "unit_price": 84.82,
+            "total_price": 424.1
+        },
+        {
+            "description": "Programmable explicit middleware",
+            "quantity": 1,
+            "unit_price": 416.77,
+            "total_price": 416.77
+        }
+    ],
+    "amount": 840.87
+}

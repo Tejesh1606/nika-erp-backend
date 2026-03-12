@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lopez-Greene",
+    "invoice_number": "INV-83250",
+    "date": "2026-01-27",
+    "items": [
+        {
+            "description": "Persistent disintermediate frame",
+            "quantity": 1,
+            "unit_price": 37.71,
+            "total_price": 37.71
+        }
+    ],
+    "amount": 37.71
+}

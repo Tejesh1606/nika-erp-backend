@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lawrence PLC",
+    "invoice_number": "INV-51286",
+    "date": "2026-01-19",
+    "items": [
+        {
+            "description": "Intuitive 24/7 forecast",
+            "quantity": 4,
+            "unit_price": 75.75,
+            "total_price": 303.0
+        }
+    ],
+    "amount": 303.0
+}

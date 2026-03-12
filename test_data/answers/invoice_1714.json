@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Pratt LLC",
+    "invoice_number": "INV-85246",
+    "date": "2025-05-18",
+    "items": [
+        {
+            "description": "Ameliorated transitional knowledge user",
+            "quantity": 1,
+            "unit_price": 423.02,
+            "total_price": 423.02
+        },
+        {
+            "description": "Function-based optimal workforce",
+            "quantity": 1,
+            "unit_price": 182.72,
+            "total_price": 182.72
+        },
+        {
+            "description": "Down-sized impactful system engine",
+            "quantity": 6,
+            "unit_price": 76.57,
+            "total_price": 459.42
+        },
+        {
+            "description": "Right-sized tertiary orchestration",
+            "quantity": 6,
+            "unit_price": 173.21,
+            "total_price": 1039.26
+        }
+    ],
+    "amount": 2104.42
+}

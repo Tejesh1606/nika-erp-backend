@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Romero, Barnes and Huff",
+    "invoice_number": "INV-56748",
+    "date": "2025-04-10",
+    "items": [
+        {
+            "description": "Advanced bandwidth-monitored structure",
+            "quantity": 5,
+            "unit_price": 51.5,
+            "total_price": 257.5
+        },
+        {
+            "description": "Pre-emptive dynamic paradigm",
+            "quantity": 7,
+            "unit_price": 43.07,
+            "total_price": 301.49
+        },
+        {
+            "description": "Proactive directional parallelism",
+            "quantity": 1,
+            "unit_price": 74.16,
+            "total_price": 74.16
+        }
+    ],
+    "amount": 633.15
+}

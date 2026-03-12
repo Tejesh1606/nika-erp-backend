@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Williams-Williams",
+    "invoice_number": "INV-19105",
+    "date": "2025-03-21",
+    "items": [
+        {
+            "description": "Adaptive intangible parallelism",
+            "quantity": 5,
+            "unit_price": 10.64,
+            "total_price": 53.2
+        },
+        {
+            "description": "Inverse impactful pricing structure",
+            "quantity": 4,
+            "unit_price": 367.22,
+            "total_price": 1468.88
+        },
+        {
+            "description": "Quality-focused background portal",
+            "quantity": 9,
+            "unit_price": 235.76,
+            "total_price": 2121.84
+        },
+        {
+            "description": "Public-key tangible data-warehouse",
+            "quantity": 2,
+            "unit_price": 58.85,
+            "total_price": 117.7
+        }
+    ],
+    "amount": 3761.62
+}

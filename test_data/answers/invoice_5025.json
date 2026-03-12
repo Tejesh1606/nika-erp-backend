@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jordan Ltd",
+    "invoice_number": "INV-73349",
+    "date": "2025-10-05",
+    "items": [
+        {
+            "description": "Down-sized analyzing orchestration",
+            "quantity": 9,
+            "unit_price": 28.71,
+            "total_price": 258.39
+        },
+        {
+            "description": "Reduced user-facing database",
+            "quantity": 10,
+            "unit_price": 397.44,
+            "total_price": 3974.4
+        }
+    ],
+    "amount": 4232.79
+}

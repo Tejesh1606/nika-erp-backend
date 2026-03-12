@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Cline-Brooks",
+    "invoice_number": "INV-52367",
+    "date": "2025-09-16",
+    "items": [
+        {
+            "description": "Organized content-based success",
+            "quantity": 9,
+            "unit_price": 266.32,
+            "total_price": 2396.88
+        },
+        {
+            "description": "Re-engineered 6thgeneration firmware",
+            "quantity": 6,
+            "unit_price": 395.12,
+            "total_price": 2370.72
+        },
+        {
+            "description": "Multi-channeled global productivity",
+            "quantity": 7,
+            "unit_price": 439.39,
+            "total_price": 3075.73
+        },
+        {
+            "description": "Implemented content-based instruction set",
+            "quantity": 8,
+            "unit_price": 88.82,
+            "total_price": 710.56
+        }
+    ],
+    "amount": 8553.89
+}

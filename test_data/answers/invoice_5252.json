@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Alvarez-Pratt",
+    "invoice_number": "INV-14507",
+    "date": "2026-01-14",
+    "items": [
+        {
+            "description": "Implemented client-server secured line",
+            "quantity": 9,
+            "unit_price": 294.56,
+            "total_price": 2651.04
+        },
+        {
+            "description": "Mandatory regional parallelism",
+            "quantity": 1,
+            "unit_price": 461.44,
+            "total_price": 461.44
+        },
+        {
+            "description": "Ameliorated 24/7 strategy",
+            "quantity": 8,
+            "unit_price": 142.39,
+            "total_price": 1139.12
+        }
+    ],
+    "amount": 4251.6
+}

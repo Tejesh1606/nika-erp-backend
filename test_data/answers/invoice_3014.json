@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Novak, Berger and Castro",
+    "invoice_number": "INV-64356",
+    "date": "2026-03-02",
+    "items": [
+        {
+            "description": "Expanded optimizing time-frame",
+            "quantity": 3,
+            "unit_price": 184.84,
+            "total_price": 554.52
+        },
+        {
+            "description": "Re-engineered stable capacity",
+            "quantity": 9,
+            "unit_price": 123.7,
+            "total_price": 1113.3
+        }
+    ],
+    "amount": 1667.82
+}

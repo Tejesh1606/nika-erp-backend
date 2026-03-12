@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Andrade Ltd",
+    "invoice_number": "INV-63026",
+    "date": "2025-08-08",
+    "items": [
+        {
+            "description": "Object-based bandwidth-monitored definition",
+            "quantity": 5,
+            "unit_price": 306.98,
+            "total_price": 1534.9
+        }
+    ],
+    "amount": 1534.9
+}

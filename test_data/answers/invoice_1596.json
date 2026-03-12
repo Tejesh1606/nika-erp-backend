@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Howard-Hicks",
+    "invoice_number": "INV-48489",
+    "date": "2025-11-17",
+    "items": [
+        {
+            "description": "Triple-buffered impactful instruction set",
+            "quantity": 10,
+            "unit_price": 31.29,
+            "total_price": 312.9
+        },
+        {
+            "description": "Front-line fault-tolerant secured line",
+            "quantity": 8,
+            "unit_price": 451.75,
+            "total_price": 3614.0
+        }
+    ],
+    "amount": 3926.9
+}

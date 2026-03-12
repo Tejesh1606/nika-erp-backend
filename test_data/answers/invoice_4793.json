@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Barnes, Miles and Ward",
+    "invoice_number": "INV-94206",
+    "date": "2025-10-31",
+    "items": [
+        {
+            "description": "Triple-buffered grid-enabled software",
+            "quantity": 9,
+            "unit_price": 39.09,
+            "total_price": 351.81
+        },
+        {
+            "description": "Synergized responsive emulation",
+            "quantity": 7,
+            "unit_price": 466.45,
+            "total_price": 3265.15
+        },
+        {
+            "description": "Focused zero-defect middleware",
+            "quantity": 3,
+            "unit_price": 194.71,
+            "total_price": 584.13
+        }
+    ],
+    "amount": 4201.09
+}

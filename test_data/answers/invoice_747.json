@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Turner-Foster",
+    "invoice_number": "INV-58614",
+    "date": "2025-04-29",
+    "items": [
+        {
+            "description": "Realigned 6thgeneration paradigm",
+            "quantity": 4,
+            "unit_price": 479.57,
+            "total_price": 1918.28
+        },
+        {
+            "description": "Enhanced empowering concept",
+            "quantity": 1,
+            "unit_price": 72.93,
+            "total_price": 72.93
+        },
+        {
+            "description": "Profit-focused modular Graphical User Interface",
+            "quantity": 7,
+            "unit_price": 246.98,
+            "total_price": 1728.86
+        },
+        {
+            "description": "Persistent clear-thinking array",
+            "quantity": 1,
+            "unit_price": 481.8,
+            "total_price": 481.8
+        }
+    ],
+    "amount": 4201.87
+}

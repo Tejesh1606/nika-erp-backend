@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Clay, Martinez and Lewis",
+    "invoice_number": "INV-98736",
+    "date": "2025-10-20",
+    "items": [
+        {
+            "description": "Self-enabling secondary circuit",
+            "quantity": 2,
+            "unit_price": 394.27,
+            "total_price": 788.54
+        },
+        {
+            "description": "Polarized attitude-oriented open system",
+            "quantity": 2,
+            "unit_price": 112.52,
+            "total_price": 225.04
+        }
+    ],
+    "amount": 1013.58
+}

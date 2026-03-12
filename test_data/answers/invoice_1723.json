@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Stephens-Thomas",
+    "invoice_number": "INV-96627",
+    "date": "2025-06-20",
+    "items": [
+        {
+            "description": "Cross-group zero tolerance neural-net",
+            "quantity": 3,
+            "unit_price": 318.27,
+            "total_price": 954.81
+        }
+    ],
+    "amount": 954.81
+}

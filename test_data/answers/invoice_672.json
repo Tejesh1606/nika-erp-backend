@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jacobs, Harding and Kerr",
+    "invoice_number": "INV-57325",
+    "date": "2025-08-10",
+    "items": [
+        {
+            "description": "Digitized transitional interface",
+            "quantity": 3,
+            "unit_price": 376.45,
+            "total_price": 1129.35
+        },
+        {
+            "description": "Multi-layered human-resource hub",
+            "quantity": 7,
+            "unit_price": 328.1,
+            "total_price": 2296.7
+        }
+    ],
+    "amount": 3426.05
+}

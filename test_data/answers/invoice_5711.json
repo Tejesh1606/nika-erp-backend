@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Caldwell-Martin",
+    "invoice_number": "INV-40137",
+    "date": "2025-09-14",
+    "items": [
+        {
+            "description": "Advanced 24hour throughput",
+            "quantity": 9,
+            "unit_price": 472.17,
+            "total_price": 4249.53
+        },
+        {
+            "description": "Public-key local methodology",
+            "quantity": 8,
+            "unit_price": 487.96,
+            "total_price": 3903.68
+        },
+        {
+            "description": "Phased holistic archive",
+            "quantity": 6,
+            "unit_price": 379.24,
+            "total_price": 2275.44
+        }
+    ],
+    "amount": 10428.65
+}

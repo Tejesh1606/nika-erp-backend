@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wyatt LLC",
+    "invoice_number": "INV-70038",
+    "date": "2025-07-30",
+    "items": [
+        {
+            "description": "Object-based actuating project",
+            "quantity": 9,
+            "unit_price": 34.0,
+            "total_price": 306.0
+        },
+        {
+            "description": "Cross-group incremental forecast",
+            "quantity": 1,
+            "unit_price": 431.86,
+            "total_price": 431.86
+        }
+    ],
+    "amount": 737.86
+}

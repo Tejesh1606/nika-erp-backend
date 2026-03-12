@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gutierrez Inc",
+    "invoice_number": "INV-92285",
+    "date": "2025-08-25",
+    "items": [
+        {
+            "description": "Robust disintermediate interface",
+            "quantity": 3,
+            "unit_price": 150.17,
+            "total_price": 450.51
+        }
+    ],
+    "amount": 450.51
+}

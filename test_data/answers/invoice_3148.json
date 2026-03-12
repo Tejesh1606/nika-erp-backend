@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Daniels LLC",
+    "invoice_number": "INV-62156",
+    "date": "2025-06-13",
+    "items": [
+        {
+            "description": "Automated value-added migration",
+            "quantity": 2,
+            "unit_price": 321.81,
+            "total_price": 643.62
+        },
+        {
+            "description": "Total client-server orchestration",
+            "quantity": 8,
+            "unit_price": 496.71,
+            "total_price": 3973.68
+        },
+        {
+            "description": "Down-sized responsive extranet",
+            "quantity": 3,
+            "unit_price": 364.89,
+            "total_price": 1094.67
+        },
+        {
+            "description": "Sharable next generation challenge",
+            "quantity": 2,
+            "unit_price": 148.51,
+            "total_price": 297.02
+        }
+    ],
+    "amount": 6008.99
+}

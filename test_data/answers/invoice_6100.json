@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Harvey-Rodriguez",
+    "invoice_number": "INV-23972",
+    "date": "2025-06-03",
+    "items": [
+        {
+            "description": "Cross-platform coherent help-desk",
+            "quantity": 7,
+            "unit_price": 302.66,
+            "total_price": 2118.62
+        },
+        {
+            "description": "Implemented leadingedge ability",
+            "quantity": 5,
+            "unit_price": 349.02,
+            "total_price": 1745.1
+        },
+        {
+            "description": "Re-engineered optimal methodology",
+            "quantity": 7,
+            "unit_price": 479.59,
+            "total_price": 3357.13
+        }
+    ],
+    "amount": 7220.85
+}

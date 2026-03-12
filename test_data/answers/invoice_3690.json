@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Brown-Green",
+    "invoice_number": "INV-81907",
+    "date": "2025-08-16",
+    "items": [
+        {
+            "description": "Phased attitude-oriented budgetary management",
+            "quantity": 2,
+            "unit_price": 69.92,
+            "total_price": 139.84
+        },
+        {
+            "description": "Ameliorated bottom-line middleware",
+            "quantity": 8,
+            "unit_price": 405.58,
+            "total_price": 3244.64
+        },
+        {
+            "description": "Persistent maximized time-frame",
+            "quantity": 8,
+            "unit_price": 77.67,
+            "total_price": 621.36
+        },
+        {
+            "description": "Advanced discrete encryption",
+            "quantity": 10,
+            "unit_price": 452.8,
+            "total_price": 4528.0
+        }
+    ],
+    "amount": 8533.84
+}

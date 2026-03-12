@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Harris, Allen and Gallagher",
+    "invoice_number": "INV-29752",
+    "date": "2025-03-22",
+    "items": [
+        {
+            "description": "Re-contextualized executive model",
+            "quantity": 3,
+            "unit_price": 222.39,
+            "total_price": 667.17
+        },
+        {
+            "description": "User-friendly bandwidth-monitored installation",
+            "quantity": 9,
+            "unit_price": 367.35,
+            "total_price": 3306.15
+        },
+        {
+            "description": "Profit-focused heuristic core",
+            "quantity": 1,
+            "unit_price": 184.27,
+            "total_price": 184.27
+        }
+    ],
+    "amount": 4157.59
+}

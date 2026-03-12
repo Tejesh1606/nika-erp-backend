@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Phillips, Little and Walters",
+    "invoice_number": "INV-27445",
+    "date": "2025-11-29",
+    "items": [
+        {
+            "description": "Public-key user-facing orchestration",
+            "quantity": 10,
+            "unit_price": 435.57,
+            "total_price": 4355.7
+        },
+        {
+            "description": "Future-proofed hybrid definition",
+            "quantity": 7,
+            "unit_price": 231.82,
+            "total_price": 1622.74
+        },
+        {
+            "description": "Ergonomic needs-based orchestration",
+            "quantity": 2,
+            "unit_price": 385.91,
+            "total_price": 771.82
+        },
+        {
+            "description": "Customer-focused global initiative",
+            "quantity": 9,
+            "unit_price": 445.32,
+            "total_price": 4007.88
+        }
+    ],
+    "amount": 10758.14
+}

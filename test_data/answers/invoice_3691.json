@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Nguyen Inc",
+    "invoice_number": "INV-47390",
+    "date": "2025-11-20",
+    "items": [
+        {
+            "description": "Implemented directional toolset",
+            "quantity": 10,
+            "unit_price": 176.9,
+            "total_price": 1769.0
+        },
+        {
+            "description": "Versatile 4thgeneration Local Area Network",
+            "quantity": 5,
+            "unit_price": 141.19,
+            "total_price": 705.95
+        },
+        {
+            "description": "Fully-configurable client-driven function",
+            "quantity": 4,
+            "unit_price": 261.15,
+            "total_price": 1044.6
+        }
+    ],
+    "amount": 3519.55
+}

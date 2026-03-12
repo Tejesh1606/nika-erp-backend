@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wheeler and Sons",
+    "invoice_number": "INV-20426",
+    "date": "2025-05-13",
+    "items": [
+        {
+            "description": "Pre-emptive 6thgeneration contingency",
+            "quantity": 7,
+            "unit_price": 207.08,
+            "total_price": 1449.56
+        },
+        {
+            "description": "Fully-configurable bottom-line neural-net",
+            "quantity": 5,
+            "unit_price": 26.3,
+            "total_price": 131.5
+        },
+        {
+            "description": "Right-sized interactive matrices",
+            "quantity": 5,
+            "unit_price": 219.95,
+            "total_price": 1099.75
+        }
+    ],
+    "amount": 2680.81
+}

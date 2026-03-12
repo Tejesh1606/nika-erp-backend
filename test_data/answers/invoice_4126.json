@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gomez, Gardner and Hicks",
+    "invoice_number": "INV-87268",
+    "date": "2025-05-14",
+    "items": [
+        {
+            "description": "Advanced intermediate pricing structure",
+            "quantity": 1,
+            "unit_price": 125.98,
+            "total_price": 125.98
+        },
+        {
+            "description": "Networked holistic implementation",
+            "quantity": 10,
+            "unit_price": 493.69,
+            "total_price": 4936.9
+        }
+    ],
+    "amount": 5062.88
+}

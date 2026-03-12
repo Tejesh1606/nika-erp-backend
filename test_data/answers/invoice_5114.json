@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Ross, Wright and Johnson",
+    "invoice_number": "INV-24371",
+    "date": "2026-03-03",
+    "items": [
+        {
+            "description": "Universal composite instruction set",
+            "quantity": 3,
+            "unit_price": 142.3,
+            "total_price": 426.9
+        },
+        {
+            "description": "Customer-focused hybrid success",
+            "quantity": 3,
+            "unit_price": 129.84,
+            "total_price": 389.52
+        },
+        {
+            "description": "User-friendly high-level Graphic Interface",
+            "quantity": 6,
+            "unit_price": 121.29,
+            "total_price": 727.74
+        },
+        {
+            "description": "Self-enabling fault-tolerant capacity",
+            "quantity": 6,
+            "unit_price": 420.86,
+            "total_price": 2525.16
+        }
+    ],
+    "amount": 4069.32
+}

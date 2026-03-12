@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith-Lee",
+    "invoice_number": "INV-78798",
+    "date": "2025-10-07",
+    "items": [
+        {
+            "description": "Diverse responsive function",
+            "quantity": 5,
+            "unit_price": 415.0,
+            "total_price": 2075.0
+        }
+    ],
+    "amount": 2075.0
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Martin-Carrillo",
+    "invoice_number": "INV-38072",
+    "date": "2025-08-27",
+    "items": [
+        {
+            "description": "Profound holistic standardization",
+            "quantity": 7,
+            "unit_price": 117.52,
+            "total_price": 822.64
+        },
+        {
+            "description": "Versatile local Local Area Network",
+            "quantity": 2,
+            "unit_price": 346.73,
+            "total_price": 693.46
+        },
+        {
+            "description": "Cross-platform systematic Local Area Network",
+            "quantity": 4,
+            "unit_price": 486.08,
+            "total_price": 1944.32
+        }
+    ],
+    "amount": 3460.42
+}

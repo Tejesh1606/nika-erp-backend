@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Long Group",
+    "invoice_number": "INV-91248",
+    "date": "2025-07-17",
+    "items": [
+        {
+            "description": "Multi-channeled attitude-oriented hierarchy",
+            "quantity": 3,
+            "unit_price": 105.05,
+            "total_price": 315.15
+        }
+    ],
+    "amount": 315.15
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Harris, Smith and Jackson",
+    "invoice_number": "INV-80687",
+    "date": "2026-03-02",
+    "items": [
+        {
+            "description": "Object-based didactic collaboration",
+            "quantity": 8,
+            "unit_price": 138.1,
+            "total_price": 1104.8
+        },
+        {
+            "description": "Front-line asymmetric application",
+            "quantity": 4,
+            "unit_price": 216.39,
+            "total_price": 865.56
+        },
+        {
+            "description": "Enhanced impactful help-desk",
+            "quantity": 8,
+            "unit_price": 159.21,
+            "total_price": 1273.68
+        },
+        {
+            "description": "Team-oriented foreground methodology",
+            "quantity": 9,
+            "unit_price": 448.31,
+            "total_price": 4034.79
+        }
+    ],
+    "amount": 7278.83
+}

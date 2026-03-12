@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Dorsey-Flores",
+    "invoice_number": "INV-73229",
+    "date": "2025-04-19",
+    "items": [
+        {
+            "description": "Centralized real-time data-warehouse",
+            "quantity": 9,
+            "unit_price": 425.82,
+            "total_price": 3832.38
+        },
+        {
+            "description": "Ergonomic needs-based system engine",
+            "quantity": 8,
+            "unit_price": 75.89,
+            "total_price": 607.12
+        },
+        {
+            "description": "Multi-layered didactic analyzer",
+            "quantity": 1,
+            "unit_price": 310.29,
+            "total_price": 310.29
+        },
+        {
+            "description": "Advanced 6thgeneration parallelism",
+            "quantity": 5,
+            "unit_price": 438.09,
+            "total_price": 2190.45
+        }
+    ],
+    "amount": 6940.24
+}

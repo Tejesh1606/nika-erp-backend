@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Black, Page and Wells",
+    "invoice_number": "INV-73972",
+    "date": "2025-11-10",
+    "items": [
+        {
+            "description": "Vision-oriented encompassing paradigm",
+            "quantity": 3,
+            "unit_price": 100.14,
+            "total_price": 300.42
+        },
+        {
+            "description": "Balanced optimizing orchestration",
+            "quantity": 9,
+            "unit_price": 270.67,
+            "total_price": 2436.03
+        }
+    ],
+    "amount": 2736.45
+}

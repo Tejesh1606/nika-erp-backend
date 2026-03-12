@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Strickland Group",
+    "invoice_number": "INV-99305",
+    "date": "2026-02-11",
+    "items": [
+        {
+            "description": "Integrated empowering moratorium",
+            "quantity": 3,
+            "unit_price": 17.98,
+            "total_price": 53.94
+        },
+        {
+            "description": "Enhanced secondary throughput",
+            "quantity": 1,
+            "unit_price": 156.62,
+            "total_price": 156.62
+        },
+        {
+            "description": "Right-sized executive customer loyalty",
+            "quantity": 10,
+            "unit_price": 144.89,
+            "total_price": 1448.9
+        },
+        {
+            "description": "Team-oriented high-level analyzer",
+            "quantity": 6,
+            "unit_price": 266.19,
+            "total_price": 1597.14
+        }
+    ],
+    "amount": 3256.6
+}

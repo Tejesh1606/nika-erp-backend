@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ferguson, Maldonado and Young",
+    "invoice_number": "INV-91715",
+    "date": "2025-10-31",
+    "items": [
+        {
+            "description": "Quality-focused executive toolset",
+            "quantity": 3,
+            "unit_price": 60.87,
+            "total_price": 182.61
+        }
+    ],
+    "amount": 182.61
+}

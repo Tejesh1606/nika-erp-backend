@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Shelton-Morris",
+    "invoice_number": "INV-85781",
+    "date": "2025-05-02",
+    "items": [
+        {
+            "description": "Synergized zero administration customer loyalty",
+            "quantity": 8,
+            "unit_price": 60.68,
+            "total_price": 485.44
+        },
+        {
+            "description": "Function-based client-driven instruction set",
+            "quantity": 7,
+            "unit_price": 419.56,
+            "total_price": 2936.92
+        },
+        {
+            "description": "Reactive dedicated framework",
+            "quantity": 7,
+            "unit_price": 173.45,
+            "total_price": 1214.15
+        },
+        {
+            "description": "Integrated attitude-oriented framework",
+            "quantity": 10,
+            "unit_price": 106.69,
+            "total_price": 1066.9
+        }
+    ],
+    "amount": 5703.41
+}

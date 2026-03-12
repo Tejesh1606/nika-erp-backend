@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Chandler LLC",
+    "invoice_number": "INV-11932",
+    "date": "2025-09-21",
+    "items": [
+        {
+            "description": "User-centric demand-driven encoding",
+            "quantity": 1,
+            "unit_price": 185.76,
+            "total_price": 185.76
+        },
+        {
+            "description": "Down-sized methodical attitude",
+            "quantity": 2,
+            "unit_price": 426.26,
+            "total_price": 852.52
+        },
+        {
+            "description": "Assimilated exuding functionalities",
+            "quantity": 6,
+            "unit_price": 377.99,
+            "total_price": 2267.94
+        }
+    ],
+    "amount": 3306.22
+}

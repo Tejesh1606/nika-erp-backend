@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Benitez, Morton and Daniels",
+    "invoice_number": "INV-85388",
+    "date": "2025-07-25",
+    "items": [
+        {
+            "description": "Triple-buffered value-added monitoring",
+            "quantity": 7,
+            "unit_price": 169.86,
+            "total_price": 1189.02
+        }
+    ],
+    "amount": 1189.02
+}

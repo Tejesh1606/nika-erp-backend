@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Oconnor, Pham and Johnston",
+    "invoice_number": "INV-40484",
+    "date": "2025-06-16",
+    "items": [
+        {
+            "description": "Organic demand-driven benchmark",
+            "quantity": 3,
+            "unit_price": 442.77,
+            "total_price": 1328.31
+        },
+        {
+            "description": "Persevering fresh-thinking attitude",
+            "quantity": 3,
+            "unit_price": 322.7,
+            "total_price": 968.1
+        },
+        {
+            "description": "Automated stable conglomeration",
+            "quantity": 4,
+            "unit_price": 368.43,
+            "total_price": 1473.72
+        },
+        {
+            "description": "Reverse-engineered high-level moratorium",
+            "quantity": 6,
+            "unit_price": 155.49,
+            "total_price": 932.94
+        }
+    ],
+    "amount": 4703.07
+}

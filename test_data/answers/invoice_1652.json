@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Williams-Rogers",
+    "invoice_number": "INV-71785",
+    "date": "2025-12-28",
+    "items": [
+        {
+            "description": "Front-line national groupware",
+            "quantity": 8,
+            "unit_price": 306.69,
+            "total_price": 2453.52
+        },
+        {
+            "description": "Proactive discrete Internet solution",
+            "quantity": 5,
+            "unit_price": 88.1,
+            "total_price": 440.5
+        },
+        {
+            "description": "Realigned 3rdgeneration solution",
+            "quantity": 5,
+            "unit_price": 351.98,
+            "total_price": 1759.9
+        },
+        {
+            "description": "Compatible bi-directional open system",
+            "quantity": 3,
+            "unit_price": 383.25,
+            "total_price": 1149.75
+        }
+    ],
+    "amount": 5803.67
+}

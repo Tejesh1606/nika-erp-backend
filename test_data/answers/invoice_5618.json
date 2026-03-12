@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Palmer, Brown and Smith",
+    "invoice_number": "INV-10617",
+    "date": "2025-09-26",
+    "items": [
+        {
+            "description": "Future-proofed disintermediate project",
+            "quantity": 4,
+            "unit_price": 191.77,
+            "total_price": 767.08
+        },
+        {
+            "description": "Extended optimal capability",
+            "quantity": 5,
+            "unit_price": 220.73,
+            "total_price": 1103.65
+        },
+        {
+            "description": "Implemented attitude-oriented paradigm",
+            "quantity": 1,
+            "unit_price": 385.93,
+            "total_price": 385.93
+        }
+    ],
+    "amount": 2256.66
+}

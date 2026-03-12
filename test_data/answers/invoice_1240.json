@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wagner, Thompson and Francis",
+    "invoice_number": "INV-10422",
+    "date": "2025-07-07",
+    "items": [
+        {
+            "description": "Grass-roots next generation hardware",
+            "quantity": 9,
+            "unit_price": 19.2,
+            "total_price": 172.8
+        },
+        {
+            "description": "Decentralized global Local Area Network",
+            "quantity": 3,
+            "unit_price": 332.49,
+            "total_price": 997.47
+        }
+    ],
+    "amount": 1170.27
+}

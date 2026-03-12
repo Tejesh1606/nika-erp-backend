@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Massey and Sons",
+    "invoice_number": "INV-84177",
+    "date": "2025-06-09",
+    "items": [
+        {
+            "description": "Grass-roots maximized throughput",
+            "quantity": 6,
+            "unit_price": 282.6,
+            "total_price": 1695.6
+        }
+    ],
+    "amount": 1695.6
+}

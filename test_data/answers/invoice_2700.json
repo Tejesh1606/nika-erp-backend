@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Diaz, Deleon and Weber",
+    "invoice_number": "INV-33894",
+    "date": "2025-04-27",
+    "items": [
+        {
+            "description": "Cross-group optimal archive",
+            "quantity": 10,
+            "unit_price": 276.02,
+            "total_price": 2760.2
+        },
+        {
+            "description": "Virtual empowering encryption",
+            "quantity": 6,
+            "unit_price": 285.45,
+            "total_price": 1712.7
+        },
+        {
+            "description": "Secured tertiary access",
+            "quantity": 7,
+            "unit_price": 30.0,
+            "total_price": 210.0
+        }
+    ],
+    "amount": 4682.9
+}

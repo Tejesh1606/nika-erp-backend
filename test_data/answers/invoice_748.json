@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Page-Hamilton",
+    "invoice_number": "INV-44131",
+    "date": "2025-04-23",
+    "items": [
+        {
+            "description": "Intuitive 6thgeneration capacity",
+            "quantity": 9,
+            "unit_price": 100.23,
+            "total_price": 902.07
+        }
+    ],
+    "amount": 902.07
+}

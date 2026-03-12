@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Briggs-Orr",
+    "invoice_number": "INV-91798",
+    "date": "2025-05-05",
+    "items": [
+        {
+            "description": "Customizable responsive leverage",
+            "quantity": 7,
+            "unit_price": 494.77,
+            "total_price": 3463.39
+        },
+        {
+            "description": "Enhanced dedicated flexibility",
+            "quantity": 8,
+            "unit_price": 77.68,
+            "total_price": 621.44
+        },
+        {
+            "description": "Advanced global system engine",
+            "quantity": 7,
+            "unit_price": 238.9,
+            "total_price": 1672.3
+        },
+        {
+            "description": "Self-enabling background hub",
+            "quantity": 1,
+            "unit_price": 403.05,
+            "total_price": 403.05
+        }
+    ],
+    "amount": 6160.18
+}

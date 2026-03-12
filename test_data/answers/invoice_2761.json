@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Dixon Ltd",
+    "invoice_number": "INV-67943",
+    "date": "2025-08-08",
+    "items": [
+        {
+            "description": "Diverse 24/7 parallelism",
+            "quantity": 9,
+            "unit_price": 440.53,
+            "total_price": 3964.77
+        },
+        {
+            "description": "Secured analyzing interface",
+            "quantity": 3,
+            "unit_price": 422.92,
+            "total_price": 1268.76
+        }
+    ],
+    "amount": 5233.53
+}

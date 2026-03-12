@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Skinner PLC",
+    "invoice_number": "INV-81719",
+    "date": "2025-03-09",
+    "items": [
+        {
+            "description": "Customizable dedicated emulation",
+            "quantity": 10,
+            "unit_price": 44.31,
+            "total_price": 443.1
+        }
+    ],
+    "amount": 443.1
+}

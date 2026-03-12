@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Acosta Inc",
+    "invoice_number": "INV-66440",
+    "date": "2025-10-28",
+    "items": [
+        {
+            "description": "Enterprise-wide needs-based frame",
+            "quantity": 8,
+            "unit_price": 391.34,
+            "total_price": 3130.72
+        },
+        {
+            "description": "Inverse bi-directional artificial intelligence",
+            "quantity": 2,
+            "unit_price": 134.28,
+            "total_price": 268.56
+        },
+        {
+            "description": "Inverse stable frame",
+            "quantity": 2,
+            "unit_price": 436.53,
+            "total_price": 873.06
+        }
+    ],
+    "amount": 4272.34
+}

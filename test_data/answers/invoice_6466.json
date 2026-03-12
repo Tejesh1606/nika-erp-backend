@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Phillips, Sherman and Cross",
+    "invoice_number": "INV-65861",
+    "date": "2026-02-02",
+    "items": [
+        {
+            "description": "Fundamental solution-oriented capability",
+            "quantity": 3,
+            "unit_price": 436.45,
+            "total_price": 1309.35
+        },
+        {
+            "description": "Innovative exuding support",
+            "quantity": 8,
+            "unit_price": 41.38,
+            "total_price": 331.04
+        },
+        {
+            "description": "Distributed high-level synergy",
+            "quantity": 7,
+            "unit_price": 252.55,
+            "total_price": 1767.85
+        }
+    ],
+    "amount": 3408.24
+}

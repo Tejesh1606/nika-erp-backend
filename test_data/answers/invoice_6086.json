@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Burns, Reid and Bowman",
+    "invoice_number": "INV-74437",
+    "date": "2025-12-26",
+    "items": [
+        {
+            "description": "Profound fresh-thinking moderator",
+            "quantity": 6,
+            "unit_price": 17.82,
+            "total_price": 106.92
+        },
+        {
+            "description": "Customer-focused encompassing secured line",
+            "quantity": 7,
+            "unit_price": 223.28,
+            "total_price": 1562.96
+        },
+        {
+            "description": "Vision-oriented systematic solution",
+            "quantity": 9,
+            "unit_price": 381.43,
+            "total_price": 3432.87
+        }
+    ],
+    "amount": 5102.75
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ali-Ellis",
+    "invoice_number": "INV-70387",
+    "date": "2026-02-20",
+    "items": [
+        {
+            "description": "Reverse-engineered 4thgeneration matrices",
+            "quantity": 5,
+            "unit_price": 99.97,
+            "total_price": 499.85
+        },
+        {
+            "description": "Customizable empowering architecture",
+            "quantity": 1,
+            "unit_price": 340.6,
+            "total_price": 340.6
+        }
+    ],
+    "amount": 840.45
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Arias Inc",
+    "invoice_number": "INV-71905",
+    "date": "2025-06-08",
+    "items": [
+        {
+            "description": "Vision-oriented scalable circuit",
+            "quantity": 4,
+            "unit_price": 350.8,
+            "total_price": 1403.2
+        }
+    ],
+    "amount": 1403.2
+}

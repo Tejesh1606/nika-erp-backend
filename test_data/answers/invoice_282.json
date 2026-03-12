@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Medina, Ellison and Arias",
+    "invoice_number": "INV-32706",
+    "date": "2025-10-10",
+    "items": [
+        {
+            "description": "Down-sized mobile forecast",
+            "quantity": 7,
+            "unit_price": 397.23,
+            "total_price": 2780.61
+        }
+    ],
+    "amount": 2780.61
+}

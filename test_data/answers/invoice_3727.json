@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jackson-Shah",
+    "invoice_number": "INV-78929",
+    "date": "2025-12-12",
+    "items": [
+        {
+            "description": "Devolved leadingedge time-frame",
+            "quantity": 8,
+            "unit_price": 192.92,
+            "total_price": 1543.36
+        },
+        {
+            "description": "Operative mobile matrices",
+            "quantity": 6,
+            "unit_price": 410.12,
+            "total_price": 2460.72
+        },
+        {
+            "description": "Future-proofed contextually-based database",
+            "quantity": 5,
+            "unit_price": 162.84,
+            "total_price": 814.2
+        }
+    ],
+    "amount": 4818.28
+}

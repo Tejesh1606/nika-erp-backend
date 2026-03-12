@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Garcia and Sons",
+    "invoice_number": "INV-40803",
+    "date": "2025-04-13",
+    "items": [
+        {
+            "description": "Versatile high-level help-desk",
+            "quantity": 2,
+            "unit_price": 119.16,
+            "total_price": 238.32
+        },
+        {
+            "description": "Mandatory attitude-oriented installation",
+            "quantity": 8,
+            "unit_price": 461.56,
+            "total_price": 3692.48
+        }
+    ],
+    "amount": 3930.8
+}

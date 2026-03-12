@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Guzman Ltd",
+    "invoice_number": "INV-48778",
+    "date": "2025-07-31",
+    "items": [
+        {
+            "description": "Programmable zero-defect groupware",
+            "quantity": 4,
+            "unit_price": 239.31,
+            "total_price": 957.24
+        },
+        {
+            "description": "Profit-focused directional Graphical User Interface",
+            "quantity": 4,
+            "unit_price": 410.84,
+            "total_price": 1643.36
+        }
+    ],
+    "amount": 2600.6
+}

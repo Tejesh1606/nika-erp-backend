@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Walker-Nelson",
+    "invoice_number": "INV-67036",
+    "date": "2025-11-07",
+    "items": [
+        {
+            "description": "Sharable 24/7 task-force",
+            "quantity": 8,
+            "unit_price": 484.07,
+            "total_price": 3872.56
+        },
+        {
+            "description": "Organic user-facing framework",
+            "quantity": 5,
+            "unit_price": 353.61,
+            "total_price": 1768.05
+        },
+        {
+            "description": "Devolved optimal portal",
+            "quantity": 3,
+            "unit_price": 469.64,
+            "total_price": 1408.92
+        }
+    ],
+    "amount": 7049.53
+}

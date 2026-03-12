@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Smith, Taylor and Bennett",
+    "invoice_number": "INV-38863",
+    "date": "2025-11-25",
+    "items": [
+        {
+            "description": "Exclusive empowering leverage",
+            "quantity": 3,
+            "unit_price": 425.51,
+            "total_price": 1276.53
+        },
+        {
+            "description": "Distributed mobile contingency",
+            "quantity": 5,
+            "unit_price": 176.18,
+            "total_price": 880.9
+        },
+        {
+            "description": "Upgradable modular forecast",
+            "quantity": 10,
+            "unit_price": 251.94,
+            "total_price": 2519.4
+        },
+        {
+            "description": "De-engineered dedicated productivity",
+            "quantity": 2,
+            "unit_price": 377.69,
+            "total_price": 755.38
+        }
+    ],
+    "amount": 5432.21
+}

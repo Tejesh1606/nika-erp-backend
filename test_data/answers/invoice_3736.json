@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Clark LLC",
+    "invoice_number": "INV-91353",
+    "date": "2026-02-24",
+    "items": [
+        {
+            "description": "Vision-oriented regional model",
+            "quantity": 6,
+            "unit_price": 475.09,
+            "total_price": 2850.54
+        },
+        {
+            "description": "Up-sized maximized hardware",
+            "quantity": 4,
+            "unit_price": 140.72,
+            "total_price": 562.88
+        },
+        {
+            "description": "Customizable logistical hierarchy",
+            "quantity": 10,
+            "unit_price": 38.63,
+            "total_price": 386.3
+        }
+    ],
+    "amount": 3799.72
+}

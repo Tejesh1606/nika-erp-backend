@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson-Conrad",
+    "invoice_number": "INV-60756",
+    "date": "2025-11-25",
+    "items": [
+        {
+            "description": "Business-focused neutral Local Area Network",
+            "quantity": 3,
+            "unit_price": 119.76,
+            "total_price": 359.28
+        },
+        {
+            "description": "Future-proofed reciprocal instruction set",
+            "quantity": 6,
+            "unit_price": 138.61,
+            "total_price": 831.66
+        },
+        {
+            "description": "Cloned coherent collaboration",
+            "quantity": 5,
+            "unit_price": 313.57,
+            "total_price": 1567.85
+        },
+        {
+            "description": "Robust multimedia definition",
+            "quantity": 6,
+            "unit_price": 18.53,
+            "total_price": 111.18
+        }
+    ],
+    "amount": 2869.97
+}

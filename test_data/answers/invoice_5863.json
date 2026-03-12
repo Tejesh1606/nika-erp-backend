@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wheeler Inc",
+    "invoice_number": "INV-78843",
+    "date": "2025-07-28",
+    "items": [
+        {
+            "description": "Upgradable intermediate info-mediaries",
+            "quantity": 2,
+            "unit_price": 92.14,
+            "total_price": 184.28
+        },
+        {
+            "description": "Upgradable transitional groupware",
+            "quantity": 1,
+            "unit_price": 213.57,
+            "total_price": 213.57
+        },
+        {
+            "description": "Function-based non-volatile encryption",
+            "quantity": 10,
+            "unit_price": 461.39,
+            "total_price": 4613.9
+        }
+    ],
+    "amount": 5011.75
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ellis LLC",
+    "invoice_number": "INV-78244",
+    "date": "2025-05-20",
+    "items": [
+        {
+            "description": "Compatible eco-centric Local Area Network",
+            "quantity": 5,
+            "unit_price": 421.78,
+            "total_price": 2108.9
+        }
+    ],
+    "amount": 2108.9
+}

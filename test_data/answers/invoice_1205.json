@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Johnson Ltd",
+    "invoice_number": "INV-26206",
+    "date": "2026-01-18",
+    "items": [
+        {
+            "description": "Multi-tiered solution-oriented initiative",
+            "quantity": 7,
+            "unit_price": 121.26,
+            "total_price": 848.82
+        },
+        {
+            "description": "De-engineered user-facing flexibility",
+            "quantity": 4,
+            "unit_price": 284.29,
+            "total_price": 1137.16
+        }
+    ],
+    "amount": 1985.98
+}

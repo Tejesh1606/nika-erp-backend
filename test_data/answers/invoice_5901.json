@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Davis-Gonzalez",
+    "invoice_number": "INV-88272",
+    "date": "2025-07-26",
+    "items": [
+        {
+            "description": "Expanded methodical software",
+            "quantity": 3,
+            "unit_price": 269.17,
+            "total_price": 807.51
+        },
+        {
+            "description": "Sharable contextually-based challenge",
+            "quantity": 9,
+            "unit_price": 281.26,
+            "total_price": 2531.34
+        }
+    ],
+    "amount": 3338.85
+}

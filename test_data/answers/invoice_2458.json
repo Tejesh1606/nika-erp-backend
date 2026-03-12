@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hansen, Foster and Blevins",
+    "invoice_number": "INV-59054",
+    "date": "2025-11-30",
+    "items": [
+        {
+            "description": "Persistent actuating throughput",
+            "quantity": 1,
+            "unit_price": 494.83,
+            "total_price": 494.83
+        },
+        {
+            "description": "Enterprise-wide dynamic synergy",
+            "quantity": 2,
+            "unit_price": 40.61,
+            "total_price": 81.22
+        }
+    ],
+    "amount": 576.05
+}

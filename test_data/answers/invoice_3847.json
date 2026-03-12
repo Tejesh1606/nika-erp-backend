@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Moreno-Scott",
+    "invoice_number": "INV-38667",
+    "date": "2026-01-07",
+    "items": [
+        {
+            "description": "Profound zero-defect matrices",
+            "quantity": 7,
+            "unit_price": 16.42,
+            "total_price": 114.94
+        },
+        {
+            "description": "Customizable holistic archive",
+            "quantity": 5,
+            "unit_price": 123.08,
+            "total_price": 615.4
+        }
+    ],
+    "amount": 730.34
+}

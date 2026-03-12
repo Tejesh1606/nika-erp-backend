@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lin LLC",
+    "invoice_number": "INV-76881",
+    "date": "2025-03-25",
+    "items": [
+        {
+            "description": "Cross-platform intermediate focus group",
+            "quantity": 5,
+            "unit_price": 461.28,
+            "total_price": 2306.4
+        }
+    ],
+    "amount": 2306.4
+}

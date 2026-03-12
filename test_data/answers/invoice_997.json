@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Rodriguez, Reese and Reyes",
+    "invoice_number": "INV-95698",
+    "date": "2025-06-16",
+    "items": [
+        {
+            "description": "Self-enabling scalable portal",
+            "quantity": 7,
+            "unit_price": 84.7,
+            "total_price": 592.9
+        },
+        {
+            "description": "Reactive demand-driven intranet",
+            "quantity": 4,
+            "unit_price": 426.39,
+            "total_price": 1705.56
+        },
+        {
+            "description": "Face-to-face fresh-thinking flexibility",
+            "quantity": 1,
+            "unit_price": 26.59,
+            "total_price": 26.59
+        }
+    ],
+    "amount": 2325.05
+}

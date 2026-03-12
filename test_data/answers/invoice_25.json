@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Riley PLC",
+    "invoice_number": "INV-17989",
+    "date": "2025-12-24",
+    "items": [
+        {
+            "description": "Intuitive analyzing application",
+            "quantity": 3,
+            "unit_price": 234.22,
+            "total_price": 702.66
+        },
+        {
+            "description": "Reduced mission-critical middleware",
+            "quantity": 10,
+            "unit_price": 35.5,
+            "total_price": 355.0
+        },
+        {
+            "description": "Progressive cohesive approach",
+            "quantity": 6,
+            "unit_price": 433.79,
+            "total_price": 2602.74
+        },
+        {
+            "description": "Profound attitude-oriented contingency",
+            "quantity": 3,
+            "unit_price": 22.15,
+            "total_price": 66.45
+        }
+    ],
+    "amount": 3726.85
+}

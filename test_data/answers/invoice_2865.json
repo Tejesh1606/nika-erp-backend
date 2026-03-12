@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Campbell-Baker",
+    "invoice_number": "INV-29699",
+    "date": "2025-03-17",
+    "items": [
+        {
+            "description": "Polarized intangible Local Area Network",
+            "quantity": 9,
+            "unit_price": 324.15,
+            "total_price": 2917.35
+        },
+        {
+            "description": "Multi-channeled attitude-oriented function",
+            "quantity": 5,
+            "unit_price": 320.32,
+            "total_price": 1601.6
+        },
+        {
+            "description": "Right-sized leadingedge hardware",
+            "quantity": 4,
+            "unit_price": 292.63,
+            "total_price": 1170.52
+        },
+        {
+            "description": "Exclusive exuding array",
+            "quantity": 8,
+            "unit_price": 103.41,
+            "total_price": 827.28
+        }
+    ],
+    "amount": 6516.75
+}

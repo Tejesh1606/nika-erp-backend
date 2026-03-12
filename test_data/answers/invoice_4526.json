@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ross and Sons",
+    "invoice_number": "INV-89258",
+    "date": "2025-03-15",
+    "items": [
+        {
+            "description": "Cross-platform intangible website",
+            "quantity": 8,
+            "unit_price": 466.71,
+            "total_price": 3733.68
+        },
+        {
+            "description": "Multi-channeled bi-directional functionalities",
+            "quantity": 2,
+            "unit_price": 190.45,
+            "total_price": 380.9
+        },
+        {
+            "description": "Robust uniform orchestration",
+            "quantity": 2,
+            "unit_price": 117.56,
+            "total_price": 235.12
+        }
+    ],
+    "amount": 4349.7
+}

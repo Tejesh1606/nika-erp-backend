@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Luna, Johnson and Tucker",
+    "invoice_number": "INV-61364",
+    "date": "2026-02-16",
+    "items": [
+        {
+            "description": "Team-oriented secondary leverage",
+            "quantity": 1,
+            "unit_price": 426.02,
+            "total_price": 426.02
+        },
+        {
+            "description": "Synchronized multi-tasking knowledge user",
+            "quantity": 10,
+            "unit_price": 163.58,
+            "total_price": 1635.8
+        },
+        {
+            "description": "Extended motivating task-force",
+            "quantity": 5,
+            "unit_price": 176.44,
+            "total_price": 882.2
+        }
+    ],
+    "amount": 2944.02
+}

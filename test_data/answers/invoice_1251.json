@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ross, Flowers and King",
+    "invoice_number": "INV-58918",
+    "date": "2025-10-28",
+    "items": [
+        {
+            "description": "Mandatory mission-critical service-desk",
+            "quantity": 5,
+            "unit_price": 41.98,
+            "total_price": 209.9
+        },
+        {
+            "description": "Open-architected exuding analyzer",
+            "quantity": 8,
+            "unit_price": 209.48,
+            "total_price": 1675.84
+        }
+    ],
+    "amount": 1885.74
+}

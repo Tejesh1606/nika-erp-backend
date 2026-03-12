@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hensley-Campbell",
+    "invoice_number": "INV-40361",
+    "date": "2026-03-04",
+    "items": [
+        {
+            "description": "Down-sized maximized strategy",
+            "quantity": 4,
+            "unit_price": 89.49,
+            "total_price": 357.96
+        }
+    ],
+    "amount": 357.96
+}

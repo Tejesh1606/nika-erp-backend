@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Sanchez LLC",
+    "invoice_number": "INV-19525",
+    "date": "2026-02-26",
+    "items": [
+        {
+            "description": "Up-sized methodical task-force",
+            "quantity": 10,
+            "unit_price": 494.82,
+            "total_price": 4948.2
+        }
+    ],
+    "amount": 4948.2
+}

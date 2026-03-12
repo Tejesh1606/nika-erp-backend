@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Davidson, Wong and Hill",
+    "invoice_number": "INV-88270",
+    "date": "2026-02-18",
+    "items": [
+        {
+            "description": "Ameliorated logistical help-desk",
+            "quantity": 7,
+            "unit_price": 68.46,
+            "total_price": 479.22
+        },
+        {
+            "description": "Face-to-face grid-enabled attitude",
+            "quantity": 7,
+            "unit_price": 410.73,
+            "total_price": 2875.11
+        },
+        {
+            "description": "Exclusive multimedia encryption",
+            "quantity": 10,
+            "unit_price": 102.35,
+            "total_price": 1023.5
+        }
+    ],
+    "amount": 4377.83
+}

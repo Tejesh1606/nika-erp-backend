@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mills, Hughes and Rios",
+    "invoice_number": "INV-22883",
+    "date": "2025-09-23",
+    "items": [
+        {
+            "description": "Visionary client-driven workforce",
+            "quantity": 8,
+            "unit_price": 123.98,
+            "total_price": 991.84
+        }
+    ],
+    "amount": 991.84
+}

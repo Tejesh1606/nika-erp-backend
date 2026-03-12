@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Perez and Sons",
+    "invoice_number": "INV-68223",
+    "date": "2025-06-20",
+    "items": [
+        {
+            "description": "Optimized optimizing migration",
+            "quantity": 10,
+            "unit_price": 270.31,
+            "total_price": 2703.1
+        },
+        {
+            "description": "Fully-configurable didactic algorithm",
+            "quantity": 2,
+            "unit_price": 186.33,
+            "total_price": 372.66
+        },
+        {
+            "description": "Object-based mission-critical project",
+            "quantity": 10,
+            "unit_price": 13.4,
+            "total_price": 134.0
+        },
+        {
+            "description": "Organic static data-warehouse",
+            "quantity": 1,
+            "unit_price": 407.08,
+            "total_price": 407.08
+        }
+    ],
+    "amount": 3616.84
+}

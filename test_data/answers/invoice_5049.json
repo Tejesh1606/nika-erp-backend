@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Valdez, Glass and Smith",
+    "invoice_number": "INV-17509",
+    "date": "2025-12-22",
+    "items": [
+        {
+            "description": "Compatible neutral attitude",
+            "quantity": 1,
+            "unit_price": 299.68,
+            "total_price": 299.68
+        },
+        {
+            "description": "Fully-configurable tertiary strategy",
+            "quantity": 10,
+            "unit_price": 33.11,
+            "total_price": 331.1
+        },
+        {
+            "description": "Networked asynchronous methodology",
+            "quantity": 8,
+            "unit_price": 471.51,
+            "total_price": 3772.08
+        }
+    ],
+    "amount": 4402.86
+}

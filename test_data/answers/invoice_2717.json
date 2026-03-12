@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jones, Farrell and Grimes",
+    "invoice_number": "INV-84983",
+    "date": "2025-07-04",
+    "items": [
+        {
+            "description": "Vision-oriented logistical standardization",
+            "quantity": 3,
+            "unit_price": 45.9,
+            "total_price": 137.7
+        }
+    ],
+    "amount": 137.7
+}

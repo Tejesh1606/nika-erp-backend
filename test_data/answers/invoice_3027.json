@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jones-Anderson",
+    "invoice_number": "INV-25618",
+    "date": "2026-02-01",
+    "items": [
+        {
+            "description": "Realigned coherent neural-net",
+            "quantity": 4,
+            "unit_price": 68.85,
+            "total_price": 275.4
+        },
+        {
+            "description": "Up-sized uniform help-desk",
+            "quantity": 8,
+            "unit_price": 31.14,
+            "total_price": 249.12
+        },
+        {
+            "description": "De-engineered disintermediate emulation",
+            "quantity": 3,
+            "unit_price": 363.82,
+            "total_price": 1091.46
+        },
+        {
+            "description": "Triple-buffered coherent open system",
+            "quantity": 7,
+            "unit_price": 278.23,
+            "total_price": 1947.61
+        }
+    ],
+    "amount": 3563.59
+}

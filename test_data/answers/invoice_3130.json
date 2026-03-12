@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Montes-Hardy",
+    "invoice_number": "INV-19202",
+    "date": "2025-10-30",
+    "items": [
+        {
+            "description": "Devolved clear-thinking archive",
+            "quantity": 1,
+            "unit_price": 386.42,
+            "total_price": 386.42
+        },
+        {
+            "description": "Visionary multi-tasking neural-net",
+            "quantity": 7,
+            "unit_price": 21.82,
+            "total_price": 152.74
+        },
+        {
+            "description": "Devolved client-driven adapter",
+            "quantity": 2,
+            "unit_price": 200.69,
+            "total_price": 401.38
+        }
+    ],
+    "amount": 940.54
+}

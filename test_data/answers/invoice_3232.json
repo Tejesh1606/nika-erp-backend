@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Monroe LLC",
+    "invoice_number": "INV-55023",
+    "date": "2025-09-17",
+    "items": [
+        {
+            "description": "Visionary background workforce",
+            "quantity": 6,
+            "unit_price": 242.91,
+            "total_price": 1457.46
+        },
+        {
+            "description": "Persevering exuding policy",
+            "quantity": 2,
+            "unit_price": 216.83,
+            "total_price": 433.66
+        },
+        {
+            "description": "Switchable 6thgeneration website",
+            "quantity": 4,
+            "unit_price": 354.38,
+            "total_price": 1417.52
+        }
+    ],
+    "amount": 3308.64
+}

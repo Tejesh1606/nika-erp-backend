@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hernandez, Martinez and Morales",
+    "invoice_number": "INV-45895",
+    "date": "2025-05-22",
+    "items": [
+        {
+            "description": "Digitized interactive adapter",
+            "quantity": 5,
+            "unit_price": 208.92,
+            "total_price": 1044.6
+        },
+        {
+            "description": "Seamless dedicated array",
+            "quantity": 3,
+            "unit_price": 179.15,
+            "total_price": 537.45
+        }
+    ],
+    "amount": 1582.05
+}

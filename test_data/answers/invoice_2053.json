@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Parker LLC",
+    "invoice_number": "INV-19567",
+    "date": "2026-01-10",
+    "items": [
+        {
+            "description": "Integrated reciprocal capability",
+            "quantity": 10,
+            "unit_price": 69.56,
+            "total_price": 695.6
+        },
+        {
+            "description": "Object-based non-volatile portal",
+            "quantity": 6,
+            "unit_price": 380.28,
+            "total_price": 2281.68
+        },
+        {
+            "description": "Reverse-engineered dynamic system engine",
+            "quantity": 2,
+            "unit_price": 321.74,
+            "total_price": 643.48
+        }
+    ],
+    "amount": 3620.76
+}

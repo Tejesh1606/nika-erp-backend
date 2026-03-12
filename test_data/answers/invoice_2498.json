@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Rocha-Marshall",
+    "invoice_number": "INV-56391",
+    "date": "2025-12-26",
+    "items": [
+        {
+            "description": "Visionary homogeneous system engine",
+            "quantity": 6,
+            "unit_price": 368.22,
+            "total_price": 2209.32
+        },
+        {
+            "description": "Team-oriented mobile framework",
+            "quantity": 7,
+            "unit_price": 313.05,
+            "total_price": 2191.35
+        }
+    ],
+    "amount": 4400.67
+}

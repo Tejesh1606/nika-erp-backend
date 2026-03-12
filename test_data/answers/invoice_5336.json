@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hall-Wolfe",
+    "invoice_number": "INV-60684",
+    "date": "2025-08-18",
+    "items": [
+        {
+            "description": "Object-based local system engine",
+            "quantity": 3,
+            "unit_price": 331.25,
+            "total_price": 993.75
+        }
+    ],
+    "amount": 993.75
+}

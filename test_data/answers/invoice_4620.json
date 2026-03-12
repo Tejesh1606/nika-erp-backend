@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Smith, Pope and Evans",
+    "invoice_number": "INV-61360",
+    "date": "2025-05-02",
+    "items": [
+        {
+            "description": "Synergized homogeneous matrix",
+            "quantity": 3,
+            "unit_price": 109.75,
+            "total_price": 329.25
+        },
+        {
+            "description": "Multi-lateral 6thgeneration array",
+            "quantity": 1,
+            "unit_price": 289.05,
+            "total_price": 289.05
+        },
+        {
+            "description": "Universal fault-tolerant Internet solution",
+            "quantity": 9,
+            "unit_price": 359.66,
+            "total_price": 3236.94
+        },
+        {
+            "description": "Programmable disintermediate project",
+            "quantity": 3,
+            "unit_price": 144.91,
+            "total_price": 434.73
+        }
+    ],
+    "amount": 4289.97
+}

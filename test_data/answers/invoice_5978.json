@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hernandez Ltd",
+    "invoice_number": "INV-15756",
+    "date": "2025-09-04",
+    "items": [
+        {
+            "description": "Robust responsive initiative",
+            "quantity": 5,
+            "unit_price": 441.32,
+            "total_price": 2206.6
+        },
+        {
+            "description": "Distributed even-keeled moratorium",
+            "quantity": 3,
+            "unit_price": 340.28,
+            "total_price": 1020.84
+        },
+        {
+            "description": "Automated object-oriented website",
+            "quantity": 5,
+            "unit_price": 362.0,
+            "total_price": 1810.0
+        },
+        {
+            "description": "Seamless heuristic complexity",
+            "quantity": 7,
+            "unit_price": 233.38,
+            "total_price": 1633.66
+        }
+    ],
+    "amount": 6671.1
+}

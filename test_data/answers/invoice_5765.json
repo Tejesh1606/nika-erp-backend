@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Roberts Group",
+    "invoice_number": "INV-86407",
+    "date": "2026-01-27",
+    "items": [
+        {
+            "description": "Synergized responsive workforce",
+            "quantity": 1,
+            "unit_price": 482.42,
+            "total_price": 482.42
+        },
+        {
+            "description": "Ergonomic client-driven middleware",
+            "quantity": 9,
+            "unit_price": 299.94,
+            "total_price": 2699.46
+        }
+    ],
+    "amount": 3181.88
+}

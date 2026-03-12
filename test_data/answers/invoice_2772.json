@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Berger-Choi",
+    "invoice_number": "INV-18418",
+    "date": "2026-02-25",
+    "items": [
+        {
+            "description": "Organized didactic complexity",
+            "quantity": 4,
+            "unit_price": 367.29,
+            "total_price": 1469.16
+        }
+    ],
+    "amount": 1469.16
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Washington-Nelson",
+    "invoice_number": "INV-84473",
+    "date": "2025-09-03",
+    "items": [
+        {
+            "description": "Public-key global circuit",
+            "quantity": 3,
+            "unit_price": 293.65,
+            "total_price": 880.95
+        }
+    ],
+    "amount": 880.95
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mercado-Tapia",
+    "invoice_number": "INV-67666",
+    "date": "2025-05-08",
+    "items": [
+        {
+            "description": "Team-oriented responsive extranet",
+            "quantity": 10,
+            "unit_price": 415.41,
+            "total_price": 4154.1
+        },
+        {
+            "description": "Mandatory context-sensitive hierarchy",
+            "quantity": 5,
+            "unit_price": 414.94,
+            "total_price": 2074.7
+        }
+    ],
+    "amount": 6228.8
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Bowman PLC",
+    "invoice_number": "INV-91656",
+    "date": "2026-02-13",
+    "items": [
+        {
+            "description": "Public-key fresh-thinking knowledgebase",
+            "quantity": 6,
+            "unit_price": 228.47,
+            "total_price": 1370.82
+        },
+        {
+            "description": "Inverse clear-thinking hub",
+            "quantity": 1,
+            "unit_price": 12.15,
+            "total_price": 12.15
+        },
+        {
+            "description": "Networked responsive data-warehouse",
+            "quantity": 3,
+            "unit_price": 60.29,
+            "total_price": 180.87
+        },
+        {
+            "description": "Pre-emptive empowering flexibility",
+            "quantity": 2,
+            "unit_price": 189.42,
+            "total_price": 378.84
+        }
+    ],
+    "amount": 1942.68
+}

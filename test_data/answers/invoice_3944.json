@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson, Reid and Allen",
+    "invoice_number": "INV-65490",
+    "date": "2025-03-25",
+    "items": [
+        {
+            "description": "Synergistic dynamic benchmark",
+            "quantity": 3,
+            "unit_price": 255.59,
+            "total_price": 766.77
+        },
+        {
+            "description": "Open-source bandwidth-monitored definition",
+            "quantity": 1,
+            "unit_price": 193.34,
+            "total_price": 193.34
+        },
+        {
+            "description": "Switchable exuding access",
+            "quantity": 6,
+            "unit_price": 154.73,
+            "total_price": 928.38
+        },
+        {
+            "description": "User-friendly mobile parallelism",
+            "quantity": 8,
+            "unit_price": 13.51,
+            "total_price": 108.08
+        }
+    ],
+    "amount": 1996.57
+}

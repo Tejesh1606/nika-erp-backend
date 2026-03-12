@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lambert-Perez",
+    "invoice_number": "INV-88873",
+    "date": "2025-09-12",
+    "items": [
+        {
+            "description": "Compatible national architecture",
+            "quantity": 2,
+            "unit_price": 274.51,
+            "total_price": 549.02
+        },
+        {
+            "description": "Robust 6thgeneration help-desk",
+            "quantity": 2,
+            "unit_price": 55.89,
+            "total_price": 111.78
+        },
+        {
+            "description": "Streamlined object-oriented intranet",
+            "quantity": 7,
+            "unit_price": 278.91,
+            "total_price": 1952.37
+        },
+        {
+            "description": "Fundamental intermediate middleware",
+            "quantity": 9,
+            "unit_price": 465.92,
+            "total_price": 4193.28
+        }
+    ],
+    "amount": 6806.45
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Moore-Cordova",
+    "invoice_number": "INV-81584",
+    "date": "2025-09-22",
+    "items": [
+        {
+            "description": "Managed secondary strategy",
+            "quantity": 2,
+            "unit_price": 65.4,
+            "total_price": 130.8
+        },
+        {
+            "description": "Implemented methodical frame",
+            "quantity": 4,
+            "unit_price": 133.79,
+            "total_price": 535.16
+        },
+        {
+            "description": "Versatile object-oriented secured line",
+            "quantity": 9,
+            "unit_price": 38.12,
+            "total_price": 343.08
+        },
+        {
+            "description": "Digitized non-volatile superstructure",
+            "quantity": 7,
+            "unit_price": 167.75,
+            "total_price": 1174.25
+        }
+    ],
+    "amount": 2183.29
+}

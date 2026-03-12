@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bell, Smith and Larsen",
+    "invoice_number": "INV-12848",
+    "date": "2026-01-01",
+    "items": [
+        {
+            "description": "Configurable well-modulated circuit",
+            "quantity": 10,
+            "unit_price": 201.3,
+            "total_price": 2013.0
+        },
+        {
+            "description": "Organic neutral orchestration",
+            "quantity": 7,
+            "unit_price": 444.02,
+            "total_price": 3108.14
+        }
+    ],
+    "amount": 5121.14
+}

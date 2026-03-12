@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Perry, White and Chan",
+    "invoice_number": "INV-80088",
+    "date": "2025-04-19",
+    "items": [
+        {
+            "description": "Intuitive human-resource neural-net",
+            "quantity": 2,
+            "unit_price": 280.53,
+            "total_price": 561.06
+        }
+    ],
+    "amount": 561.06
+}

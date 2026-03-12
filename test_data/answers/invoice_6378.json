@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Clark LLC",
+    "invoice_number": "INV-28864",
+    "date": "2025-03-09",
+    "items": [
+        {
+            "description": "Universal homogeneous superstructure",
+            "quantity": 2,
+            "unit_price": 162.45,
+            "total_price": 324.9
+        }
+    ],
+    "amount": 324.9
+}

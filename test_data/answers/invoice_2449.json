@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Martinez PLC",
+    "invoice_number": "INV-74886",
+    "date": "2025-03-29",
+    "items": [
+        {
+            "description": "Intuitive tangible installation",
+            "quantity": 1,
+            "unit_price": 464.3,
+            "total_price": 464.3
+        },
+        {
+            "description": "Multi-tiered 24/7 encoding",
+            "quantity": 1,
+            "unit_price": 468.85,
+            "total_price": 468.85
+        },
+        {
+            "description": "Open-source bi-directional workforce",
+            "quantity": 3,
+            "unit_price": 283.57,
+            "total_price": 850.71
+        }
+    ],
+    "amount": 1783.86
+}

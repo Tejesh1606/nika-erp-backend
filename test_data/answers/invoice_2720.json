@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gordon, Irwin and Davis",
+    "invoice_number": "INV-86615",
+    "date": "2025-04-26",
+    "items": [
+        {
+            "description": "User-friendly fault-tolerant challenge",
+            "quantity": 2,
+            "unit_price": 31.7,
+            "total_price": 63.4
+        },
+        {
+            "description": "Synchronized interactive portal",
+            "quantity": 4,
+            "unit_price": 243.52,
+            "total_price": 974.08
+        },
+        {
+            "description": "Focused methodical installation",
+            "quantity": 2,
+            "unit_price": 210.27,
+            "total_price": 420.54
+        },
+        {
+            "description": "Upgradable heuristic project",
+            "quantity": 2,
+            "unit_price": 161.26,
+            "total_price": 322.52
+        }
+    ],
+    "amount": 1780.54
+}

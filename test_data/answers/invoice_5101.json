@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Franco, Howell and Mccormick",
+    "invoice_number": "INV-17760",
+    "date": "2025-08-01",
+    "items": [
+        {
+            "description": "Upgradable 24hour interface",
+            "quantity": 10,
+            "unit_price": 351.11,
+            "total_price": 3511.1
+        },
+        {
+            "description": "Upgradable grid-enabled analyzer",
+            "quantity": 7,
+            "unit_price": 55.61,
+            "total_price": 389.27
+        }
+    ],
+    "amount": 3900.37
+}

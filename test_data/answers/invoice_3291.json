@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Turner-Smith",
+    "invoice_number": "INV-82573",
+    "date": "2026-02-21",
+    "items": [
+        {
+            "description": "Right-sized background toolset",
+            "quantity": 3,
+            "unit_price": 21.65,
+            "total_price": 64.95
+        },
+        {
+            "description": "Customizable demand-driven website",
+            "quantity": 2,
+            "unit_price": 233.34,
+            "total_price": 466.68
+        },
+        {
+            "description": "Innovative user-facing superstructure",
+            "quantity": 4,
+            "unit_price": 72.69,
+            "total_price": 290.76
+        },
+        {
+            "description": "Focused empowering website",
+            "quantity": 5,
+            "unit_price": 365.38,
+            "total_price": 1826.9
+        }
+    ],
+    "amount": 2649.29
+}

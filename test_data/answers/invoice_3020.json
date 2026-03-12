@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Harvey-Barrett",
+    "invoice_number": "INV-18932",
+    "date": "2025-03-30",
+    "items": [
+        {
+            "description": "Future-proofed impactful instruction set",
+            "quantity": 8,
+            "unit_price": 254.19,
+            "total_price": 2033.52
+        },
+        {
+            "description": "De-engineered maximized functionalities",
+            "quantity": 3,
+            "unit_price": 189.21,
+            "total_price": 567.63
+        },
+        {
+            "description": "Streamlined user-facing adapter",
+            "quantity": 10,
+            "unit_price": 84.63,
+            "total_price": 846.3
+        },
+        {
+            "description": "Vision-oriented bandwidth-monitored help-desk",
+            "quantity": 8,
+            "unit_price": 47.48,
+            "total_price": 379.84
+        }
+    ],
+    "amount": 3827.29
+}

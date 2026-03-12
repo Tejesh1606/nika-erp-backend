@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith Inc",
+    "invoice_number": "INV-82374",
+    "date": "2025-11-20",
+    "items": [
+        {
+            "description": "Synergized coherent ability",
+            "quantity": 8,
+            "unit_price": 463.62,
+            "total_price": 3708.96
+        },
+        {
+            "description": "Profound mobile benchmark",
+            "quantity": 10,
+            "unit_price": 88.27,
+            "total_price": 882.7
+        },
+        {
+            "description": "Networked responsive data-warehouse",
+            "quantity": 3,
+            "unit_price": 133.98,
+            "total_price": 401.94
+        }
+    ],
+    "amount": 4993.6
+}

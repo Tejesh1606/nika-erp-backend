@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Flores-Sanders",
+    "invoice_number": "INV-76058",
+    "date": "2025-12-23",
+    "items": [
+        {
+            "description": "Advanced system-worthy Graphic Interface",
+            "quantity": 5,
+            "unit_price": 352.45,
+            "total_price": 1762.25
+        },
+        {
+            "description": "Profit-focused dedicated orchestration",
+            "quantity": 7,
+            "unit_price": 409.27,
+            "total_price": 2864.89
+        }
+    ],
+    "amount": 4627.14
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Nolan, Cole and Mullen",
+    "invoice_number": "INV-79062",
+    "date": "2025-05-15",
+    "items": [
+        {
+            "description": "Fundamental systematic hardware",
+            "quantity": 8,
+            "unit_price": 293.0,
+            "total_price": 2344.0
+        }
+    ],
+    "amount": 2344.0
+}

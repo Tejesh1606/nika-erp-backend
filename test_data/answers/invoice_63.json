@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Garcia LLC",
+    "invoice_number": "INV-99687",
+    "date": "2025-10-28",
+    "items": [
+        {
+            "description": "Decentralized non-volatile toolset",
+            "quantity": 9,
+            "unit_price": 236.93,
+            "total_price": 2132.37
+        }
+    ],
+    "amount": 2132.37
+}

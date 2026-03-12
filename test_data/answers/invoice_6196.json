@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Curtis-Sims",
+    "invoice_number": "INV-40490",
+    "date": "2025-05-24",
+    "items": [
+        {
+            "description": "Focused analyzing flexibility",
+            "quantity": 3,
+            "unit_price": 425.56,
+            "total_price": 1276.68
+        },
+        {
+            "description": "Ameliorated didactic analyzer",
+            "quantity": 7,
+            "unit_price": 497.86,
+            "total_price": 3485.02
+        },
+        {
+            "description": "Synchronized static standardization",
+            "quantity": 6,
+            "unit_price": 495.73,
+            "total_price": 2974.38
+        },
+        {
+            "description": "Mandatory neutral time-frame",
+            "quantity": 10,
+            "unit_price": 466.53,
+            "total_price": 4665.3
+        }
+    ],
+    "amount": 12401.38
+}

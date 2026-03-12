@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Miller, Melton and Mcmillan",
+    "invoice_number": "INV-65023",
+    "date": "2025-09-14",
+    "items": [
+        {
+            "description": "Advanced motivating approach",
+            "quantity": 7,
+            "unit_price": 258.36,
+            "total_price": 1808.52
+        },
+        {
+            "description": "Multi-lateral impactful open architecture",
+            "quantity": 4,
+            "unit_price": 53.25,
+            "total_price": 213.0
+        },
+        {
+            "description": "Multi-layered intangible infrastructure",
+            "quantity": 10,
+            "unit_price": 105.32,
+            "total_price": 1053.2
+        },
+        {
+            "description": "Persevering web-enabled analyzer",
+            "quantity": 10,
+            "unit_price": 198.49,
+            "total_price": 1984.9
+        }
+    ],
+    "amount": 5059.62
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lutz, Woods and Gomez",
+    "invoice_number": "INV-65397",
+    "date": "2025-10-01",
+    "items": [
+        {
+            "description": "Object-based intangible hub",
+            "quantity": 2,
+            "unit_price": 467.98,
+            "total_price": 935.96
+        },
+        {
+            "description": "Business-focused national data-warehouse",
+            "quantity": 9,
+            "unit_price": 152.78,
+            "total_price": 1375.02
+        },
+        {
+            "description": "Operative neutral array",
+            "quantity": 10,
+            "unit_price": 268.19,
+            "total_price": 2681.9
+        },
+        {
+            "description": "Virtual hybrid open architecture",
+            "quantity": 9,
+            "unit_price": 152.57,
+            "total_price": 1373.13
+        }
+    ],
+    "amount": 6366.01
+}

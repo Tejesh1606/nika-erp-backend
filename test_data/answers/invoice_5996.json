@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Reyes-Boyer",
+    "invoice_number": "INV-81059",
+    "date": "2025-05-09",
+    "items": [
+        {
+            "description": "Operative maximized intranet",
+            "quantity": 2,
+            "unit_price": 353.61,
+            "total_price": 707.22
+        },
+        {
+            "description": "Versatile high-level utilization",
+            "quantity": 1,
+            "unit_price": 131.12,
+            "total_price": 131.12
+        },
+        {
+            "description": "Reduced leadingedge capacity",
+            "quantity": 1,
+            "unit_price": 15.38,
+            "total_price": 15.38
+        }
+    ],
+    "amount": 853.72
+}

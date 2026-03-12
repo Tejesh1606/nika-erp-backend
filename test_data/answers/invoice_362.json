@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Johnson, Watson and Wheeler",
+    "invoice_number": "INV-33276",
+    "date": "2026-02-10",
+    "items": [
+        {
+            "description": "Phased optimizing neural-net",
+            "quantity": 6,
+            "unit_price": 313.23,
+            "total_price": 1879.38
+        }
+    ],
+    "amount": 1879.38
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "George-Smith",
+    "invoice_number": "INV-61023",
+    "date": "2025-03-28",
+    "items": [
+        {
+            "description": "Integrated secondary encoding",
+            "quantity": 4,
+            "unit_price": 170.47,
+            "total_price": 681.88
+        },
+        {
+            "description": "Persistent well-modulated matrices",
+            "quantity": 3,
+            "unit_price": 476.48,
+            "total_price": 1429.44
+        }
+    ],
+    "amount": 2111.32
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Garcia Ltd",
+    "invoice_number": "INV-80897",
+    "date": "2025-09-15",
+    "items": [
+        {
+            "description": "Enhanced bifurcated projection",
+            "quantity": 4,
+            "unit_price": 259.75,
+            "total_price": 1039.0
+        },
+        {
+            "description": "Ergonomic non-volatile moratorium",
+            "quantity": 4,
+            "unit_price": 229.07,
+            "total_price": 916.28
+        },
+        {
+            "description": "Upgradable content-based superstructure",
+            "quantity": 4,
+            "unit_price": 393.06,
+            "total_price": 1572.24
+        },
+        {
+            "description": "Ameliorated composite alliance",
+            "quantity": 1,
+            "unit_price": 36.02,
+            "total_price": 36.02
+        }
+    ],
+    "amount": 3563.54
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Nelson, Sanford and Reed",
+    "invoice_number": "INV-76329",
+    "date": "2026-03-06",
+    "items": [
+        {
+            "description": "Extended contextually-based hierarchy",
+            "quantity": 10,
+            "unit_price": 305.31,
+            "total_price": 3053.1
+        },
+        {
+            "description": "Compatible radical orchestration",
+            "quantity": 7,
+            "unit_price": 445.09,
+            "total_price": 3115.63
+        },
+        {
+            "description": "Automated attitude-oriented access",
+            "quantity": 7,
+            "unit_price": 17.43,
+            "total_price": 122.01
+        }
+    ],
+    "amount": 6290.74
+}

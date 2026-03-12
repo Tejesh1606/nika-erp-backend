@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cunningham, Solis and Nichols",
+    "invoice_number": "INV-16385",
+    "date": "2025-06-15",
+    "items": [
+        {
+            "description": "Reduced bottom-line standardization",
+            "quantity": 9,
+            "unit_price": 179.06,
+            "total_price": 1611.54
+        }
+    ],
+    "amount": 1611.54
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bolton, Martinez and Kline",
+    "invoice_number": "INV-84469",
+    "date": "2025-06-29",
+    "items": [
+        {
+            "description": "Realigned systemic knowledgebase",
+            "quantity": 3,
+            "unit_price": 159.36,
+            "total_price": 478.08
+        },
+        {
+            "description": "Future-proofed human-resource capability",
+            "quantity": 4,
+            "unit_price": 422.31,
+            "total_price": 1689.24
+        }
+    ],
+    "amount": 2167.32
+}

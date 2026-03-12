@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mcmahon-Shaw",
+    "invoice_number": "INV-78117",
+    "date": "2025-05-23",
+    "items": [
+        {
+            "description": "User-centric reciprocal concept",
+            "quantity": 5,
+            "unit_price": 12.97,
+            "total_price": 64.85
+        },
+        {
+            "description": "Team-oriented demand-driven adapter",
+            "quantity": 9,
+            "unit_price": 250.38,
+            "total_price": 2253.42
+        },
+        {
+            "description": "Polarized needs-based capability",
+            "quantity": 6,
+            "unit_price": 414.68,
+            "total_price": 2488.08
+        }
+    ],
+    "amount": 4806.35
+}

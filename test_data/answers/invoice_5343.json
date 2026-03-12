@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Holland-Lopez",
+    "invoice_number": "INV-13941",
+    "date": "2025-12-13",
+    "items": [
+        {
+            "description": "Assimilated coherent project",
+            "quantity": 7,
+            "unit_price": 350.57,
+            "total_price": 2453.99
+        },
+        {
+            "description": "Cross-platform exuding emulation",
+            "quantity": 3,
+            "unit_price": 472.12,
+            "total_price": 1416.36
+        },
+        {
+            "description": "Networked intangible Graphic Interface",
+            "quantity": 10,
+            "unit_price": 348.52,
+            "total_price": 3485.2
+        },
+        {
+            "description": "Versatile non-volatile frame",
+            "quantity": 9,
+            "unit_price": 315.23,
+            "total_price": 2837.07
+        }
+    ],
+    "amount": 10192.62
+}

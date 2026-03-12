@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Solis Group",
+    "invoice_number": "INV-64097",
+    "date": "2025-07-20",
+    "items": [
+        {
+            "description": "Re-contextualized asynchronous Graphical User Interface",
+            "quantity": 4,
+            "unit_price": 376.42,
+            "total_price": 1505.68
+        },
+        {
+            "description": "Expanded multi-tasking challenge",
+            "quantity": 1,
+            "unit_price": 479.36,
+            "total_price": 479.36
+        }
+    ],
+    "amount": 1985.04
+}

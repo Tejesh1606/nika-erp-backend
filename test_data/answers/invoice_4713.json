@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Johnson PLC",
+    "invoice_number": "INV-50073",
+    "date": "2025-07-16",
+    "items": [
+        {
+            "description": "Fundamental static algorithm",
+            "quantity": 5,
+            "unit_price": 96.43,
+            "total_price": 482.15
+        },
+        {
+            "description": "Diverse national strategy",
+            "quantity": 5,
+            "unit_price": 487.51,
+            "total_price": 2437.55
+        },
+        {
+            "description": "Secured system-worthy focus group",
+            "quantity": 3,
+            "unit_price": 67.02,
+            "total_price": 201.06
+        }
+    ],
+    "amount": 3120.76
+}

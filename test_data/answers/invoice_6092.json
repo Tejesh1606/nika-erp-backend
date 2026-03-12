@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lopez-Myers",
+    "invoice_number": "INV-59058",
+    "date": "2025-11-12",
+    "items": [
+        {
+            "description": "Cloned zero-defect attitude",
+            "quantity": 9,
+            "unit_price": 287.38,
+            "total_price": 2586.42
+        },
+        {
+            "description": "Open-architected regional throughput",
+            "quantity": 8,
+            "unit_price": 170.5,
+            "total_price": 1364.0
+        },
+        {
+            "description": "Polarized intangible pricing structure",
+            "quantity": 1,
+            "unit_price": 90.9,
+            "total_price": 90.9
+        }
+    ],
+    "amount": 4041.32
+}

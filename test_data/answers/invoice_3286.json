@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Williams Ltd",
+    "invoice_number": "INV-27761",
+    "date": "2025-09-08",
+    "items": [
+        {
+            "description": "Self-enabling human-resource task-force",
+            "quantity": 9,
+            "unit_price": 179.65,
+            "total_price": 1616.85
+        },
+        {
+            "description": "Secured empowering Local Area Network",
+            "quantity": 1,
+            "unit_price": 129.22,
+            "total_price": 129.22
+        },
+        {
+            "description": "Exclusive 4thgeneration migration",
+            "quantity": 7,
+            "unit_price": 167.53,
+            "total_price": 1172.71
+        },
+        {
+            "description": "Upgradable zero-defect neural-net",
+            "quantity": 6,
+            "unit_price": 113.84,
+            "total_price": 683.04
+        }
+    ],
+    "amount": 3601.82
+}

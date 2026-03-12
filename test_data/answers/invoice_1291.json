@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Massey, Wiggins and Stout",
+    "invoice_number": "INV-42094",
+    "date": "2025-09-04",
+    "items": [
+        {
+            "description": "Up-sized asymmetric ability",
+            "quantity": 4,
+            "unit_price": 295.29,
+            "total_price": 1181.16
+        }
+    ],
+    "amount": 1181.16
+}

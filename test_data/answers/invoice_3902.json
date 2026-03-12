@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Thornton PLC",
+    "invoice_number": "INV-65461",
+    "date": "2025-04-04",
+    "items": [
+        {
+            "description": "Universal heuristic paradigm",
+            "quantity": 6,
+            "unit_price": 288.93,
+            "total_price": 1733.58
+        },
+        {
+            "description": "Multi-layered composite model",
+            "quantity": 4,
+            "unit_price": 344.2,
+            "total_price": 1376.8
+        },
+        {
+            "description": "Triple-buffered fresh-thinking support",
+            "quantity": 6,
+            "unit_price": 372.12,
+            "total_price": 2232.72
+        }
+    ],
+    "amount": 5343.1
+}

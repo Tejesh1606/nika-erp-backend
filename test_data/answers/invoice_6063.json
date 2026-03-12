@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Huber Inc",
+    "invoice_number": "INV-10806",
+    "date": "2025-03-22",
+    "items": [
+        {
+            "description": "Horizontal incremental moratorium",
+            "quantity": 10,
+            "unit_price": 139.98,
+            "total_price": 1399.8
+        },
+        {
+            "description": "Pre-emptive real-time leverage",
+            "quantity": 10,
+            "unit_price": 447.12,
+            "total_price": 4471.2
+        },
+        {
+            "description": "Multi-channeled client-server artificial intelligence",
+            "quantity": 2,
+            "unit_price": 488.62,
+            "total_price": 977.24
+        }
+    ],
+    "amount": 6848.24
+}

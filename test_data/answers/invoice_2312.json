@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Short and Sons",
+    "invoice_number": "INV-55621",
+    "date": "2025-11-17",
+    "items": [
+        {
+            "description": "Business-focused exuding throughput",
+            "quantity": 2,
+            "unit_price": 335.7,
+            "total_price": 671.4
+        },
+        {
+            "description": "Re-contextualized interactive approach",
+            "quantity": 10,
+            "unit_price": 241.81,
+            "total_price": 2418.1
+        },
+        {
+            "description": "De-engineered intermediate structure",
+            "quantity": 5,
+            "unit_price": 216.53,
+            "total_price": 1082.65
+        }
+    ],
+    "amount": 4172.15
+}

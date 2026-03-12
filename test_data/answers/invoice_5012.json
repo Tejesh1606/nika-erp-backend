@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Thomas, Bryant and Wood",
+    "invoice_number": "INV-32614",
+    "date": "2025-05-22",
+    "items": [
+        {
+            "description": "Intuitive coherent policy",
+            "quantity": 5,
+            "unit_price": 293.25,
+            "total_price": 1466.25
+        },
+        {
+            "description": "Profit-focused analyzing algorithm",
+            "quantity": 5,
+            "unit_price": 21.5,
+            "total_price": 107.5
+        },
+        {
+            "description": "Secured content-based frame",
+            "quantity": 2,
+            "unit_price": 350.1,
+            "total_price": 700.2
+        }
+    ],
+    "amount": 2273.95
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Buchanan PLC",
+    "invoice_number": "INV-97935",
+    "date": "2025-03-18",
+    "items": [
+        {
+            "description": "Right-sized dedicated methodology",
+            "quantity": 10,
+            "unit_price": 495.44,
+            "total_price": 4954.4
+        },
+        {
+            "description": "Cross-platform intangible frame",
+            "quantity": 6,
+            "unit_price": 484.28,
+            "total_price": 2905.68
+        },
+        {
+            "description": "Visionary tertiary protocol",
+            "quantity": 3,
+            "unit_price": 488.78,
+            "total_price": 1466.34
+        },
+        {
+            "description": "Switchable high-level productivity",
+            "quantity": 10,
+            "unit_price": 238.28,
+            "total_price": 2382.8
+        }
+    ],
+    "amount": 11709.22
+}

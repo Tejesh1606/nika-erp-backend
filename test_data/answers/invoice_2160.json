@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Moss Group",
+    "invoice_number": "INV-59663",
+    "date": "2026-03-06",
+    "items": [
+        {
+            "description": "Diverse optimizing workforce",
+            "quantity": 9,
+            "unit_price": 470.56,
+            "total_price": 4235.04
+        }
+    ],
+    "amount": 4235.04
+}

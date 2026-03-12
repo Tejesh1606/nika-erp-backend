@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cannon-Boyd",
+    "invoice_number": "INV-92149",
+    "date": "2025-06-09",
+    "items": [
+        {
+            "description": "Grass-roots leadingedge archive",
+            "quantity": 8,
+            "unit_price": 316.06,
+            "total_price": 2528.48
+        },
+        {
+            "description": "Universal executive encoding",
+            "quantity": 9,
+            "unit_price": 161.99,
+            "total_price": 1457.91
+        }
+    ],
+    "amount": 3986.39
+}

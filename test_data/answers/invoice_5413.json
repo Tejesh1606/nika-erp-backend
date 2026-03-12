@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Campos, White and Fitzgerald",
+    "invoice_number": "INV-24857",
+    "date": "2026-03-01",
+    "items": [
+        {
+            "description": "Pre-emptive dedicated software",
+            "quantity": 3,
+            "unit_price": 210.27,
+            "total_price": 630.81
+        }
+    ],
+    "amount": 630.81
+}

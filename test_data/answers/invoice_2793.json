@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Robinson Ltd",
+    "invoice_number": "INV-47839",
+    "date": "2025-11-23",
+    "items": [
+        {
+            "description": "Multi-tiered asymmetric framework",
+            "quantity": 8,
+            "unit_price": 169.13,
+            "total_price": 1353.04
+        },
+        {
+            "description": "Innovative zero tolerance infrastructure",
+            "quantity": 6,
+            "unit_price": 476.87,
+            "total_price": 2861.22
+        },
+        {
+            "description": "Multi-tiered context-sensitive methodology",
+            "quantity": 2,
+            "unit_price": 113.13,
+            "total_price": 226.26
+        },
+        {
+            "description": "Optimized demand-driven superstructure",
+            "quantity": 1,
+            "unit_price": 454.72,
+            "total_price": 454.72
+        }
+    ],
+    "amount": 4895.24
+}

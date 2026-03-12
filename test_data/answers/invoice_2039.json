@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Barry-Hall",
+    "invoice_number": "INV-88897",
+    "date": "2026-01-02",
+    "items": [
+        {
+            "description": "Enterprise-wide clear-thinking intranet",
+            "quantity": 1,
+            "unit_price": 401.01,
+            "total_price": 401.01
+        },
+        {
+            "description": "Streamlined human-resource service-desk",
+            "quantity": 1,
+            "unit_price": 482.64,
+            "total_price": 482.64
+        }
+    ],
+    "amount": 883.65
+}

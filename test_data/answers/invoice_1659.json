@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jackson and Sons",
+    "invoice_number": "INV-40699",
+    "date": "2025-12-20",
+    "items": [
+        {
+            "description": "Balanced upward-trending conglomeration",
+            "quantity": 4,
+            "unit_price": 271.63,
+            "total_price": 1086.52
+        },
+        {
+            "description": "Exclusive demand-driven customer loyalty",
+            "quantity": 4,
+            "unit_price": 43.9,
+            "total_price": 175.6
+        }
+    ],
+    "amount": 1262.12
+}

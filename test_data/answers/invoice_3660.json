@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cline-Tucker",
+    "invoice_number": "INV-75841",
+    "date": "2026-01-08",
+    "items": [
+        {
+            "description": "Persistent 6thgeneration strategy",
+            "quantity": 7,
+            "unit_price": 48.27,
+            "total_price": 337.89
+        },
+        {
+            "description": "Exclusive systematic conglomeration",
+            "quantity": 8,
+            "unit_price": 496.48,
+            "total_price": 3971.84
+        },
+        {
+            "description": "Extended scalable moratorium",
+            "quantity": 1,
+            "unit_price": 120.99,
+            "total_price": 120.99
+        }
+    ],
+    "amount": 4430.72
+}

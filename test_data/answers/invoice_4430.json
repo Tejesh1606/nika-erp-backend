@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wright, Hunter and Dickson",
+    "invoice_number": "INV-57525",
+    "date": "2025-09-02",
+    "items": [
+        {
+            "description": "Optional bi-directional moderator",
+            "quantity": 8,
+            "unit_price": 71.78,
+            "total_price": 574.24
+        },
+        {
+            "description": "Self-enabling interactive matrices",
+            "quantity": 3,
+            "unit_price": 333.62,
+            "total_price": 1000.86
+        },
+        {
+            "description": "Polarized 6thgeneration Internet solution",
+            "quantity": 10,
+            "unit_price": 362.13,
+            "total_price": 3621.3
+        }
+    ],
+    "amount": 5196.4
+}

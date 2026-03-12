@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Tapia, Vaughn and Lee",
+    "invoice_number": "INV-73464",
+    "date": "2025-06-24",
+    "items": [
+        {
+            "description": "Up-sized optimizing task-force",
+            "quantity": 2,
+            "unit_price": 389.32,
+            "total_price": 778.64
+        },
+        {
+            "description": "Progressive radical forecast",
+            "quantity": 8,
+            "unit_price": 13.77,
+            "total_price": 110.16
+        },
+        {
+            "description": "Cross-platform content-based frame",
+            "quantity": 9,
+            "unit_price": 93.4,
+            "total_price": 840.6
+        }
+    ],
+    "amount": 1729.4
+}

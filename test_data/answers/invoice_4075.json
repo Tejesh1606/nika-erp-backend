@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Martin, Ray and Nunez",
+    "invoice_number": "INV-18386",
+    "date": "2025-11-06",
+    "items": [
+        {
+            "description": "Open-architected 4thgeneration productivity",
+            "quantity": 3,
+            "unit_price": 168.85,
+            "total_price": 506.55
+        },
+        {
+            "description": "Progressive explicit attitude",
+            "quantity": 9,
+            "unit_price": 382.59,
+            "total_price": 3443.31
+        }
+    ],
+    "amount": 3949.86
+}

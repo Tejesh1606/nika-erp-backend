@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Curtis-Silva",
+    "invoice_number": "INV-42481",
+    "date": "2026-01-10",
+    "items": [
+        {
+            "description": "Diverse intangible budgetary management",
+            "quantity": 6,
+            "unit_price": 290.15,
+            "total_price": 1740.9
+        },
+        {
+            "description": "Innovative zero-defect functionalities",
+            "quantity": 5,
+            "unit_price": 38.59,
+            "total_price": 192.95
+        }
+    ],
+    "amount": 1933.85
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hansen PLC",
+    "invoice_number": "INV-64419",
+    "date": "2025-12-23",
+    "items": [
+        {
+            "description": "Customer-focused zero administration productivity",
+            "quantity": 5,
+            "unit_price": 324.25,
+            "total_price": 1621.25
+        },
+        {
+            "description": "Re-engineered heuristic service-desk",
+            "quantity": 7,
+            "unit_price": 13.63,
+            "total_price": 95.41
+        },
+        {
+            "description": "Persevering tangible secured line",
+            "quantity": 10,
+            "unit_price": 388.91,
+            "total_price": 3889.1
+        }
+    ],
+    "amount": 5605.76
+}

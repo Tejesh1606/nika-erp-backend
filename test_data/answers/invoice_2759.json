@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cuevas and Sons",
+    "invoice_number": "INV-21386",
+    "date": "2025-11-23",
+    "items": [
+        {
+            "description": "Intuitive methodical hub",
+            "quantity": 5,
+            "unit_price": 38.53,
+            "total_price": 192.65
+        },
+        {
+            "description": "Optimized uniform success",
+            "quantity": 5,
+            "unit_price": 327.85,
+            "total_price": 1639.25
+        },
+        {
+            "description": "Virtual value-added concept",
+            "quantity": 8,
+            "unit_price": 242.91,
+            "total_price": 1943.28
+        }
+    ],
+    "amount": 3775.18
+}

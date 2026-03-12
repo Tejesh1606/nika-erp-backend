@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Porter Inc",
+    "invoice_number": "INV-44985",
+    "date": "2026-01-16",
+    "items": [
+        {
+            "description": "Assimilated dedicated frame",
+            "quantity": 1,
+            "unit_price": 40.22,
+            "total_price": 40.22
+        }
+    ],
+    "amount": 40.22
+}

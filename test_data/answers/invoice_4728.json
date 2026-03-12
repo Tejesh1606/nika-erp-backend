@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Stein Ltd",
+    "invoice_number": "INV-14116",
+    "date": "2026-02-01",
+    "items": [
+        {
+            "description": "Compatible tangible conglomeration",
+            "quantity": 9,
+            "unit_price": 271.79,
+            "total_price": 2446.11
+        },
+        {
+            "description": "Progressive reciprocal encryption",
+            "quantity": 4,
+            "unit_price": 373.43,
+            "total_price": 1493.72
+        }
+    ],
+    "amount": 3939.83
+}

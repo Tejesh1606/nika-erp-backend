@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Simmons, Moore and Murray",
+    "invoice_number": "INV-69866",
+    "date": "2025-12-20",
+    "items": [
+        {
+            "description": "Automated real-time Local Area Network",
+            "quantity": 1,
+            "unit_price": 435.85,
+            "total_price": 435.85
+        },
+        {
+            "description": "Progressive zero tolerance hub",
+            "quantity": 1,
+            "unit_price": 455.34,
+            "total_price": 455.34
+        }
+    ],
+    "amount": 891.19
+}

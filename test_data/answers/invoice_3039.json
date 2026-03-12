@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brown Inc",
+    "invoice_number": "INV-45183",
+    "date": "2026-03-02",
+    "items": [
+        {
+            "description": "Self-enabling analyzing attitude",
+            "quantity": 2,
+            "unit_price": 402.29,
+            "total_price": 804.58
+        },
+        {
+            "description": "Synergistic full-range circuit",
+            "quantity": 3,
+            "unit_price": 403.86,
+            "total_price": 1211.58
+        },
+        {
+            "description": "Persistent disintermediate benchmark",
+            "quantity": 6,
+            "unit_price": 160.62,
+            "total_price": 963.72
+        }
+    ],
+    "amount": 2979.88
+}

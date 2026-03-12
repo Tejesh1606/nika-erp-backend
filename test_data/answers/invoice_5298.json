@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Alexander, Smith and Ballard",
+    "invoice_number": "INV-53952",
+    "date": "2026-03-08",
+    "items": [
+        {
+            "description": "Down-sized web-enabled circuit",
+            "quantity": 9,
+            "unit_price": 213.32,
+            "total_price": 1919.88
+        },
+        {
+            "description": "Implemented uniform system engine",
+            "quantity": 1,
+            "unit_price": 262.12,
+            "total_price": 262.12
+        },
+        {
+            "description": "Down-sized system-worthy analyzer",
+            "quantity": 6,
+            "unit_price": 306.52,
+            "total_price": 1839.12
+        },
+        {
+            "description": "Multi-lateral radical toolset",
+            "quantity": 8,
+            "unit_price": 205.9,
+            "total_price": 1647.2
+        }
+    ],
+    "amount": 5668.32
+}

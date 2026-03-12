@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Thomas-Bell",
+    "invoice_number": "INV-70012",
+    "date": "2026-01-14",
+    "items": [
+        {
+            "description": "Integrated directional moderator",
+            "quantity": 4,
+            "unit_price": 497.47,
+            "total_price": 1989.88
+        },
+        {
+            "description": "Devolved 6thgeneration customer loyalty",
+            "quantity": 4,
+            "unit_price": 396.34,
+            "total_price": 1585.36
+        },
+        {
+            "description": "Right-sized heuristic service-desk",
+            "quantity": 1,
+            "unit_price": 313.27,
+            "total_price": 313.27
+        },
+        {
+            "description": "Centralized solution-oriented structure",
+            "quantity": 9,
+            "unit_price": 247.52,
+            "total_price": 2227.68
+        }
+    ],
+    "amount": 6116.19
+}

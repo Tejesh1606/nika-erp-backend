@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Phillips, Gallagher and White",
+    "invoice_number": "INV-66552",
+    "date": "2025-08-02",
+    "items": [
+        {
+            "description": "Compatible full-range protocol",
+            "quantity": 10,
+            "unit_price": 250.66,
+            "total_price": 2506.6
+        },
+        {
+            "description": "Fundamental regional migration",
+            "quantity": 7,
+            "unit_price": 374.27,
+            "total_price": 2619.89
+        },
+        {
+            "description": "Assimilated secondary secured line",
+            "quantity": 10,
+            "unit_price": 291.21,
+            "total_price": 2912.1
+        }
+    ],
+    "amount": 8038.59
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Taylor-Buchanan",
+    "invoice_number": "INV-38719",
+    "date": "2025-09-18",
+    "items": [
+        {
+            "description": "Synergistic context-sensitive contingency",
+            "quantity": 3,
+            "unit_price": 167.12,
+            "total_price": 501.36
+        }
+    ],
+    "amount": 501.36
+}

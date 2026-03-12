@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Carpenter Group",
+    "invoice_number": "INV-79067",
+    "date": "2025-10-19",
+    "items": [
+        {
+            "description": "Vision-oriented system-worthy workforce",
+            "quantity": 3,
+            "unit_price": 233.76,
+            "total_price": 701.28
+        }
+    ],
+    "amount": 701.28
+}

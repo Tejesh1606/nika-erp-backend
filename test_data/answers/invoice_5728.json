@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Williams-Wong",
+    "invoice_number": "INV-51011",
+    "date": "2025-10-19",
+    "items": [
+        {
+            "description": "Triple-buffered regional ability",
+            "quantity": 4,
+            "unit_price": 35.39,
+            "total_price": 141.56
+        },
+        {
+            "description": "Upgradable upward-trending software",
+            "quantity": 1,
+            "unit_price": 421.25,
+            "total_price": 421.25
+        },
+        {
+            "description": "Self-enabling bifurcated open system",
+            "quantity": 5,
+            "unit_price": 53.08,
+            "total_price": 265.4
+        }
+    ],
+    "amount": 828.21
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hernandez-Campbell",
+    "invoice_number": "INV-25745",
+    "date": "2025-10-14",
+    "items": [
+        {
+            "description": "Networked 24/7 paradigm",
+            "quantity": 9,
+            "unit_price": 103.51,
+            "total_price": 931.59
+        },
+        {
+            "description": "Innovative 5thgeneration project",
+            "quantity": 4,
+            "unit_price": 251.23,
+            "total_price": 1004.92
+        },
+        {
+            "description": "Streamlined stable process improvement",
+            "quantity": 6,
+            "unit_price": 333.65,
+            "total_price": 2001.9
+        }
+    ],
+    "amount": 3938.41
+}

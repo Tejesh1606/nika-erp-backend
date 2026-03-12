@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Yang PLC",
+    "invoice_number": "INV-71129",
+    "date": "2025-08-11",
+    "items": [
+        {
+            "description": "Secured solution-oriented leverage",
+            "quantity": 2,
+            "unit_price": 279.46,
+            "total_price": 558.92
+        },
+        {
+            "description": "Seamless optimal support",
+            "quantity": 7,
+            "unit_price": 24.86,
+            "total_price": 174.02
+        },
+        {
+            "description": "Programmable local standardization",
+            "quantity": 4,
+            "unit_price": 485.46,
+            "total_price": 1941.84
+        }
+    ],
+    "amount": 2674.78
+}

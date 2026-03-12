@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Anderson-Douglas",
+    "invoice_number": "INV-57917",
+    "date": "2025-11-02",
+    "items": [
+        {
+            "description": "Synchronized transitional attitude",
+            "quantity": 9,
+            "unit_price": 327.36,
+            "total_price": 2946.24
+        },
+        {
+            "description": "Polarized modular synergy",
+            "quantity": 5,
+            "unit_price": 117.86,
+            "total_price": 589.3
+        }
+    ],
+    "amount": 3535.54
+}

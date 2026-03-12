@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Rodriguez, Kelley and Jones",
+    "invoice_number": "INV-93909",
+    "date": "2025-04-12",
+    "items": [
+        {
+            "description": "Multi-lateral full-range time-frame",
+            "quantity": 2,
+            "unit_price": 197.41,
+            "total_price": 394.82
+        },
+        {
+            "description": "Future-proofed client-server website",
+            "quantity": 2,
+            "unit_price": 170.22,
+            "total_price": 340.44
+        },
+        {
+            "description": "Face-to-face even-keeled access",
+            "quantity": 2,
+            "unit_price": 74.5,
+            "total_price": 149.0
+        }
+    ],
+    "amount": 884.26
+}

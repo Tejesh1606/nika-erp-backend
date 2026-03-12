@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Martin-Humphrey",
+    "invoice_number": "INV-14576",
+    "date": "2025-03-21",
+    "items": [
+        {
+            "description": "Customizable responsive system engine",
+            "quantity": 4,
+            "unit_price": 70.78,
+            "total_price": 283.12
+        },
+        {
+            "description": "Expanded interactive hub",
+            "quantity": 5,
+            "unit_price": 89.08,
+            "total_price": 445.4
+        },
+        {
+            "description": "Team-oriented bottom-line application",
+            "quantity": 7,
+            "unit_price": 341.46,
+            "total_price": 2390.22
+        }
+    ],
+    "amount": 3118.74
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jones, Mcintosh and Pratt",
+    "invoice_number": "INV-27030",
+    "date": "2026-01-12",
+    "items": [
+        {
+            "description": "Organized logistical installation",
+            "quantity": 4,
+            "unit_price": 302.76,
+            "total_price": 1211.04
+        },
+        {
+            "description": "Assimilated tertiary instruction set",
+            "quantity": 4,
+            "unit_price": 159.14,
+            "total_price": 636.56
+        },
+        {
+            "description": "Virtual content-based pricing structure",
+            "quantity": 6,
+            "unit_price": 150.8,
+            "total_price": 904.8
+        }
+    ],
+    "amount": 2752.4
+}

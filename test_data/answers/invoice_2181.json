@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Stephens-Cantrell",
+    "invoice_number": "INV-66387",
+    "date": "2025-04-13",
+    "items": [
+        {
+            "description": "Multi-lateral scalable frame",
+            "quantity": 10,
+            "unit_price": 142.04,
+            "total_price": 1420.4
+        },
+        {
+            "description": "Organized static encryption",
+            "quantity": 5,
+            "unit_price": 372.95,
+            "total_price": 1864.75
+        },
+        {
+            "description": "Cross-group solution-oriented groupware",
+            "quantity": 7,
+            "unit_price": 339.59,
+            "total_price": 2377.13
+        }
+    ],
+    "amount": 5662.28
+}

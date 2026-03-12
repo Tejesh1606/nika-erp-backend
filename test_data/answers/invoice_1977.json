@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Brown Inc",
+    "invoice_number": "INV-46362",
+    "date": "2025-06-25",
+    "items": [
+        {
+            "description": "Pre-emptive even-keeled projection",
+            "quantity": 6,
+            "unit_price": 227.62,
+            "total_price": 1365.72
+        },
+        {
+            "description": "Extended upward-trending capacity",
+            "quantity": 3,
+            "unit_price": 77.7,
+            "total_price": 233.1
+        }
+    ],
+    "amount": 1598.82
+}

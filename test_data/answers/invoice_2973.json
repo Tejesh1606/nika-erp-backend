@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Olson, Strickland and Mora",
+    "invoice_number": "INV-71435",
+    "date": "2026-02-24",
+    "items": [
+        {
+            "description": "Polarized 6thgeneration superstructure",
+            "quantity": 5,
+            "unit_price": 476.94,
+            "total_price": 2384.7
+        },
+        {
+            "description": "Re-engineered 24/7 instruction set",
+            "quantity": 9,
+            "unit_price": 395.9,
+            "total_price": 3563.1
+        },
+        {
+            "description": "Switchable static matrices",
+            "quantity": 9,
+            "unit_price": 91.39,
+            "total_price": 822.51
+        }
+    ],
+    "amount": 6770.31
+}

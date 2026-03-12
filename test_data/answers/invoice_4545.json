@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Morgan Group",
+    "invoice_number": "INV-78111",
+    "date": "2025-07-12",
+    "items": [
+        {
+            "description": "Seamless 3rdgeneration utilization",
+            "quantity": 9,
+            "unit_price": 470.81,
+            "total_price": 4237.29
+        },
+        {
+            "description": "Versatile uniform collaboration",
+            "quantity": 4,
+            "unit_price": 139.89,
+            "total_price": 559.56
+        },
+        {
+            "description": "Front-line dynamic application",
+            "quantity": 5,
+            "unit_price": 385.85,
+            "total_price": 1929.25
+        },
+        {
+            "description": "Seamless zero tolerance framework",
+            "quantity": 1,
+            "unit_price": 454.0,
+            "total_price": 454.0
+        }
+    ],
+    "amount": 7180.1
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Dominguez, Byrd and Castro",
+    "invoice_number": "INV-53874",
+    "date": "2026-02-12",
+    "items": [
+        {
+            "description": "Multi-layered content-based Local Area Network",
+            "quantity": 2,
+            "unit_price": 61.15,
+            "total_price": 122.3
+        },
+        {
+            "description": "Universal discrete approach",
+            "quantity": 3,
+            "unit_price": 363.15,
+            "total_price": 1089.45
+        },
+        {
+            "description": "Triple-buffered even-keeled data-warehouse",
+            "quantity": 5,
+            "unit_price": 384.55,
+            "total_price": 1922.75
+        }
+    ],
+    "amount": 3134.5
+}

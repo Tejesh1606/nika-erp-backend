@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Torres PLC",
+    "invoice_number": "INV-43168",
+    "date": "2026-01-30",
+    "items": [
+        {
+            "description": "Persistent demand-driven toolset",
+            "quantity": 10,
+            "unit_price": 210.3,
+            "total_price": 2103.0
+        },
+        {
+            "description": "Seamless impactful superstructure",
+            "quantity": 2,
+            "unit_price": 412.56,
+            "total_price": 825.12
+        },
+        {
+            "description": "Multi-lateral systemic utilization",
+            "quantity": 4,
+            "unit_price": 439.2,
+            "total_price": 1756.8
+        },
+        {
+            "description": "Implemented value-added customer loyalty",
+            "quantity": 9,
+            "unit_price": 97.41,
+            "total_price": 876.69
+        }
+    ],
+    "amount": 5561.61
+}

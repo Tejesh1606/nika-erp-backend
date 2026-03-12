@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hamilton-Buck",
+    "invoice_number": "INV-95111",
+    "date": "2025-09-28",
+    "items": [
+        {
+            "description": "Open-architected scalable secured line",
+            "quantity": 7,
+            "unit_price": 127.13,
+            "total_price": 889.91
+        }
+    ],
+    "amount": 889.91
+}

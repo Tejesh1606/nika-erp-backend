@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Kent Ltd",
+    "invoice_number": "INV-52285",
+    "date": "2025-05-20",
+    "items": [
+        {
+            "description": "Reverse-engineered value-added standardization",
+            "quantity": 1,
+            "unit_price": 232.22,
+            "total_price": 232.22
+        },
+        {
+            "description": "Digitized heuristic project",
+            "quantity": 5,
+            "unit_price": 90.67,
+            "total_price": 453.35
+        }
+    ],
+    "amount": 685.57
+}

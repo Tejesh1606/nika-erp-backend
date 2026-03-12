@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Garcia, Shepard and Terry",
+    "invoice_number": "INV-42298",
+    "date": "2025-04-26",
+    "items": [
+        {
+            "description": "Mandatory local hierarchy",
+            "quantity": 4,
+            "unit_price": 58.8,
+            "total_price": 235.2
+        },
+        {
+            "description": "Secured client-driven capability",
+            "quantity": 5,
+            "unit_price": 436.89,
+            "total_price": 2184.45
+        },
+        {
+            "description": "Enterprise-wide disintermediate workforce",
+            "quantity": 6,
+            "unit_price": 71.38,
+            "total_price": 428.28
+        },
+        {
+            "description": "Automated dedicated framework",
+            "quantity": 6,
+            "unit_price": 256.97,
+            "total_price": 1541.82
+        }
+    ],
+    "amount": 4389.75
+}

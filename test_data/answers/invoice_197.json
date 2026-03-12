@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Williams Ltd",
+    "invoice_number": "INV-53652",
+    "date": "2026-01-15",
+    "items": [
+        {
+            "description": "Phased multi-state knowledgebase",
+            "quantity": 3,
+            "unit_price": 345.59,
+            "total_price": 1036.77
+        },
+        {
+            "description": "Distributed real-time migration",
+            "quantity": 10,
+            "unit_price": 416.8,
+            "total_price": 4168.0
+        },
+        {
+            "description": "Devolved fresh-thinking pricing structure",
+            "quantity": 8,
+            "unit_price": 69.58,
+            "total_price": 556.64
+        }
+    ],
+    "amount": 5761.41
+}

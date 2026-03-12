@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Roberts-Martinez",
+    "invoice_number": "INV-35028",
+    "date": "2025-07-20",
+    "items": [
+        {
+            "description": "Synergistic optimizing paradigm",
+            "quantity": 8,
+            "unit_price": 146.81,
+            "total_price": 1174.48
+        },
+        {
+            "description": "Total needs-based parallelism",
+            "quantity": 8,
+            "unit_price": 269.49,
+            "total_price": 2155.92
+        },
+        {
+            "description": "Optional solution-oriented conglomeration",
+            "quantity": 5,
+            "unit_price": 471.03,
+            "total_price": 2355.15
+        },
+        {
+            "description": "Intuitive next generation infrastructure",
+            "quantity": 8,
+            "unit_price": 88.93,
+            "total_price": 711.44
+        }
+    ],
+    "amount": 6396.99
+}

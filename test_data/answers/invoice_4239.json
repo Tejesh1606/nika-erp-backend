@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mccoy Ltd",
+    "invoice_number": "INV-76271",
+    "date": "2025-11-03",
+    "items": [
+        {
+            "description": "Organized bottom-line Local Area Network",
+            "quantity": 9,
+            "unit_price": 52.8,
+            "total_price": 475.2
+        },
+        {
+            "description": "Focused solution-oriented definition",
+            "quantity": 1,
+            "unit_price": 79.92,
+            "total_price": 79.92
+        },
+        {
+            "description": "Cross-group well-modulated Graphical User Interface",
+            "quantity": 8,
+            "unit_price": 356.99,
+            "total_price": 2855.92
+        }
+    ],
+    "amount": 3411.04
+}

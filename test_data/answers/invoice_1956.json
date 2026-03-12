@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Stuart-Hudson",
+    "invoice_number": "INV-85708",
+    "date": "2025-03-14",
+    "items": [
+        {
+            "description": "Stand-alone 3rdgeneration infrastructure",
+            "quantity": 6,
+            "unit_price": 126.6,
+            "total_price": 759.6
+        },
+        {
+            "description": "Re-engineered interactive neural-net",
+            "quantity": 5,
+            "unit_price": 21.58,
+            "total_price": 107.9
+        }
+    ],
+    "amount": 867.5
+}

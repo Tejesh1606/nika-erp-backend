@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Kline, Perez and Johnson",
+    "invoice_number": "INV-38250",
+    "date": "2025-12-02",
+    "items": [
+        {
+            "description": "Pre-emptive even-keeled analyzer",
+            "quantity": 9,
+            "unit_price": 381.19,
+            "total_price": 3430.71
+        }
+    ],
+    "amount": 3430.71
+}

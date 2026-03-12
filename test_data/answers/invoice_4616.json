@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wade-Patrick",
+    "invoice_number": "INV-54292",
+    "date": "2025-04-17",
+    "items": [
+        {
+            "description": "Expanded directional protocol",
+            "quantity": 7,
+            "unit_price": 451.77,
+            "total_price": 3162.39
+        },
+        {
+            "description": "De-engineered 4thgeneration parallelism",
+            "quantity": 10,
+            "unit_price": 246.33,
+            "total_price": 2463.3
+        },
+        {
+            "description": "Object-based leadingedge customer loyalty",
+            "quantity": 10,
+            "unit_price": 169.62,
+            "total_price": 1696.2
+        }
+    ],
+    "amount": 7321.89
+}

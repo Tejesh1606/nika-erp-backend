@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hernandez-Frank",
+    "invoice_number": "INV-10078",
+    "date": "2025-08-26",
+    "items": [
+        {
+            "description": "Customizable coherent knowledge user",
+            "quantity": 1,
+            "unit_price": 278.18,
+            "total_price": 278.18
+        },
+        {
+            "description": "Re-engineered tertiary support",
+            "quantity": 10,
+            "unit_price": 195.24,
+            "total_price": 1952.4
+        }
+    ],
+    "amount": 2230.58
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bonilla, Hicks and Dixon",
+    "invoice_number": "INV-11932",
+    "date": "2025-04-15",
+    "items": [
+        {
+            "description": "Future-proofed actuating monitoring",
+            "quantity": 2,
+            "unit_price": 241.92,
+            "total_price": 483.84
+        },
+        {
+            "description": "Customizable client-driven solution",
+            "quantity": 9,
+            "unit_price": 278.63,
+            "total_price": 2507.67
+        }
+    ],
+    "amount": 2991.51
+}

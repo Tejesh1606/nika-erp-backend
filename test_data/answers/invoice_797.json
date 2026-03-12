@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Black-Lee",
+    "invoice_number": "INV-57352",
+    "date": "2025-09-01",
+    "items": [
+        {
+            "description": "Cross-platform client-server structure",
+            "quantity": 7,
+            "unit_price": 473.67,
+            "total_price": 3315.69
+        },
+        {
+            "description": "Optimized incremental artificial intelligence",
+            "quantity": 4,
+            "unit_price": 60.76,
+            "total_price": 243.04
+        },
+        {
+            "description": "Cross-group analyzing interface",
+            "quantity": 8,
+            "unit_price": 76.99,
+            "total_price": 615.92
+        },
+        {
+            "description": "De-engineered methodical data-warehouse",
+            "quantity": 2,
+            "unit_price": 137.87,
+            "total_price": 275.74
+        }
+    ],
+    "amount": 4450.39
+}

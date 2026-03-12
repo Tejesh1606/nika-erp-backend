@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Herrera, Doyle and Benton",
+    "invoice_number": "INV-10925",
+    "date": "2025-05-17",
+    "items": [
+        {
+            "description": "Intuitive bandwidth-monitored groupware",
+            "quantity": 7,
+            "unit_price": 75.54,
+            "total_price": 528.78
+        }
+    ],
+    "amount": 528.78
+}

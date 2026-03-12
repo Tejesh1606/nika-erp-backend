@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Pruitt Ltd",
+    "invoice_number": "INV-94886",
+    "date": "2025-07-29",
+    "items": [
+        {
+            "description": "Versatile optimizing moratorium",
+            "quantity": 4,
+            "unit_price": 291.6,
+            "total_price": 1166.4
+        },
+        {
+            "description": "User-centric real-time customer loyalty",
+            "quantity": 3,
+            "unit_price": 161.9,
+            "total_price": 485.7
+        },
+        {
+            "description": "Vision-oriented uniform core",
+            "quantity": 8,
+            "unit_price": 145.92,
+            "total_price": 1167.36
+        }
+    ],
+    "amount": 2819.46
+}

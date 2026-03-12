@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ruiz, Davis and Clark",
+    "invoice_number": "INV-58468",
+    "date": "2025-11-03",
+    "items": [
+        {
+            "description": "Ergonomic empowering budgetary management",
+            "quantity": 7,
+            "unit_price": 342.51,
+            "total_price": 2397.57
+        }
+    ],
+    "amount": 2397.57
+}

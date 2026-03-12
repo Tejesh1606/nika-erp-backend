@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hansen, Lawson and Hines",
+    "invoice_number": "INV-39841",
+    "date": "2025-03-31",
+    "items": [
+        {
+            "description": "Distributed multi-tasking intranet",
+            "quantity": 8,
+            "unit_price": 59.52,
+            "total_price": 476.16
+        },
+        {
+            "description": "Intuitive leadingedge flexibility",
+            "quantity": 2,
+            "unit_price": 433.45,
+            "total_price": 866.9
+        },
+        {
+            "description": "Automated heuristic middleware",
+            "quantity": 4,
+            "unit_price": 133.0,
+            "total_price": 532.0
+        },
+        {
+            "description": "Secured web-enabled contingency",
+            "quantity": 3,
+            "unit_price": 208.13,
+            "total_price": 624.39
+        }
+    ],
+    "amount": 2499.45
+}

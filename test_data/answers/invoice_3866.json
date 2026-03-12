@@ -1,0 +1,26 @@
+{
+    "vendor_name": "White Inc",
+    "invoice_number": "INV-62589",
+    "date": "2025-07-09",
+    "items": [
+        {
+            "description": "Cloned asymmetric service-desk",
+            "quantity": 2,
+            "unit_price": 410.48,
+            "total_price": 820.96
+        },
+        {
+            "description": "Phased scalable structure",
+            "quantity": 3,
+            "unit_price": 280.45,
+            "total_price": 841.35
+        },
+        {
+            "description": "Future-proofed methodical website",
+            "quantity": 6,
+            "unit_price": 115.63,
+            "total_price": 693.78
+        }
+    ],
+    "amount": 2356.09
+}

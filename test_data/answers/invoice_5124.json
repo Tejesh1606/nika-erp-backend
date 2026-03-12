@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Arnold LLC",
+    "invoice_number": "INV-72705",
+    "date": "2026-03-04",
+    "items": [
+        {
+            "description": "Networked background matrix",
+            "quantity": 10,
+            "unit_price": 103.56,
+            "total_price": 1035.6
+        },
+        {
+            "description": "Open-architected holistic service-desk",
+            "quantity": 1,
+            "unit_price": 310.08,
+            "total_price": 310.08
+        },
+        {
+            "description": "Pre-emptive cohesive complexity",
+            "quantity": 4,
+            "unit_price": 465.94,
+            "total_price": 1863.76
+        }
+    ],
+    "amount": 3209.44
+}

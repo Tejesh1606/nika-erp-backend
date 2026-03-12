@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Reynolds Inc",
+    "invoice_number": "INV-64698",
+    "date": "2025-04-03",
+    "items": [
+        {
+            "description": "Realigned attitude-oriented strategy",
+            "quantity": 2,
+            "unit_price": 46.96,
+            "total_price": 93.92
+        },
+        {
+            "description": "Vision-oriented client-server throughput",
+            "quantity": 2,
+            "unit_price": 85.88,
+            "total_price": 171.76
+        },
+        {
+            "description": "Stand-alone 6thgeneration hub",
+            "quantity": 4,
+            "unit_price": 170.56,
+            "total_price": 682.24
+        },
+        {
+            "description": "Grass-roots hybrid focus group",
+            "quantity": 10,
+            "unit_price": 261.24,
+            "total_price": 2612.4
+        }
+    ],
+    "amount": 3560.32
+}

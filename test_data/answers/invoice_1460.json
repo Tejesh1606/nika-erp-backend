@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hernandez-Rojas",
+    "invoice_number": "INV-60536",
+    "date": "2025-08-18",
+    "items": [
+        {
+            "description": "Assimilated client-driven toolset",
+            "quantity": 1,
+            "unit_price": 454.24,
+            "total_price": 454.24
+        },
+        {
+            "description": "Intuitive homogeneous product",
+            "quantity": 5,
+            "unit_price": 260.88,
+            "total_price": 1304.4
+        },
+        {
+            "description": "Distributed impactful hierarchy",
+            "quantity": 6,
+            "unit_price": 377.66,
+            "total_price": 2265.96
+        }
+    ],
+    "amount": 4024.6
+}

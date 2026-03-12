@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Scott, Johnson and Garcia",
+    "invoice_number": "INV-28501",
+    "date": "2025-08-14",
+    "items": [
+        {
+            "description": "Multi-lateral multi-state emulation",
+            "quantity": 7,
+            "unit_price": 242.8,
+            "total_price": 1699.6
+        },
+        {
+            "description": "Public-key local product",
+            "quantity": 8,
+            "unit_price": 354.71,
+            "total_price": 2837.68
+        },
+        {
+            "description": "Reduced intermediate database",
+            "quantity": 8,
+            "unit_price": 296.57,
+            "total_price": 2372.56
+        }
+    ],
+    "amount": 6909.84
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Peterson Group",
+    "invoice_number": "INV-31090",
+    "date": "2025-12-18",
+    "items": [
+        {
+            "description": "Compatible neutral array",
+            "quantity": 3,
+            "unit_price": 83.65,
+            "total_price": 250.95
+        },
+        {
+            "description": "Mandatory radical pricing structure",
+            "quantity": 10,
+            "unit_price": 125.92,
+            "total_price": 1259.2
+        },
+        {
+            "description": "Polarized tertiary algorithm",
+            "quantity": 2,
+            "unit_price": 290.63,
+            "total_price": 581.26
+        },
+        {
+            "description": "Optional solution-oriented concept",
+            "quantity": 10,
+            "unit_price": 446.56,
+            "total_price": 4465.6
+        }
+    ],
+    "amount": 6557.01
+}

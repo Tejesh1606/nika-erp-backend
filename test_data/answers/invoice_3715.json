@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Paul, Harrison and Alexander",
+    "invoice_number": "INV-28785",
+    "date": "2025-08-10",
+    "items": [
+        {
+            "description": "Devolved high-level secured line",
+            "quantity": 7,
+            "unit_price": 339.23,
+            "total_price": 2374.61
+        }
+    ],
+    "amount": 2374.61
+}

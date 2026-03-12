@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Fisher LLC",
+    "invoice_number": "INV-54128",
+    "date": "2025-11-15",
+    "items": [
+        {
+            "description": "Cross-platform contextually-based help-desk",
+            "quantity": 9,
+            "unit_price": 134.72,
+            "total_price": 1212.48
+        }
+    ],
+    "amount": 1212.48
+}

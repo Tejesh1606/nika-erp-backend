@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hernandez Ltd",
+    "invoice_number": "INV-28566",
+    "date": "2026-01-03",
+    "items": [
+        {
+            "description": "Customizable multi-tasking hierarchy",
+            "quantity": 10,
+            "unit_price": 448.78,
+            "total_price": 4487.8
+        },
+        {
+            "description": "Compatible holistic strategy",
+            "quantity": 4,
+            "unit_price": 337.99,
+            "total_price": 1351.96
+        },
+        {
+            "description": "Switchable hybrid parallelism",
+            "quantity": 5,
+            "unit_price": 445.25,
+            "total_price": 2226.25
+        },
+        {
+            "description": "Cross-platform global framework",
+            "quantity": 6,
+            "unit_price": 496.63,
+            "total_price": 2979.78
+        }
+    ],
+    "amount": 11045.79
+}

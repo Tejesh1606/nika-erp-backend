@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Kim, Williams and Murphy",
+    "invoice_number": "INV-75853",
+    "date": "2026-01-30",
+    "items": [
+        {
+            "description": "Managed homogeneous collaboration",
+            "quantity": 9,
+            "unit_price": 34.06,
+            "total_price": 306.54
+        },
+        {
+            "description": "Intuitive methodical hardware",
+            "quantity": 5,
+            "unit_price": 340.99,
+            "total_price": 1704.95
+        }
+    ],
+    "amount": 2011.49
+}

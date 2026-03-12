@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mccarty Group",
+    "invoice_number": "INV-35180",
+    "date": "2026-03-06",
+    "items": [
+        {
+            "description": "Optimized local algorithm",
+            "quantity": 1,
+            "unit_price": 190.14,
+            "total_price": 190.14
+        },
+        {
+            "description": "Polarized system-worthy challenge",
+            "quantity": 7,
+            "unit_price": 285.45,
+            "total_price": 1998.15
+        }
+    ],
+    "amount": 2188.29
+}

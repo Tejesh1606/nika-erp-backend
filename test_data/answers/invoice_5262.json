@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Silva, Moss and Gonzales",
+    "invoice_number": "INV-56111",
+    "date": "2025-07-01",
+    "items": [
+        {
+            "description": "Persistent client-server protocol",
+            "quantity": 2,
+            "unit_price": 144.17,
+            "total_price": 288.34
+        }
+    ],
+    "amount": 288.34
+}

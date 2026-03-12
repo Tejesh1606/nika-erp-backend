@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Robertson and Sons",
+    "invoice_number": "INV-54224",
+    "date": "2025-09-20",
+    "items": [
+        {
+            "description": "Open-architected composite forecast",
+            "quantity": 3,
+            "unit_price": 365.05,
+            "total_price": 1095.15
+        },
+        {
+            "description": "User-centric 6thgeneration service-desk",
+            "quantity": 8,
+            "unit_price": 172.82,
+            "total_price": 1382.56
+        },
+        {
+            "description": "Multi-channeled leadingedge extranet",
+            "quantity": 2,
+            "unit_price": 326.78,
+            "total_price": 653.56
+        }
+    ],
+    "amount": 3131.27
+}

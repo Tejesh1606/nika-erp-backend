@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Browning-Brown",
+    "invoice_number": "INV-12472",
+    "date": "2025-08-07",
+    "items": [
+        {
+            "description": "Cross-platform intermediate infrastructure",
+            "quantity": 1,
+            "unit_price": 475.61,
+            "total_price": 475.61
+        },
+        {
+            "description": "Fundamental optimal Local Area Network",
+            "quantity": 9,
+            "unit_price": 299.84,
+            "total_price": 2698.56
+        },
+        {
+            "description": "Adaptive 4thgeneration software",
+            "quantity": 5,
+            "unit_price": 258.02,
+            "total_price": 1290.1
+        }
+    ],
+    "amount": 4464.27
+}

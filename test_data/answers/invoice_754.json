@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Knapp-Sanchez",
+    "invoice_number": "INV-75288",
+    "date": "2025-11-26",
+    "items": [
+        {
+            "description": "Cross-platform full-range algorithm",
+            "quantity": 6,
+            "unit_price": 410.19,
+            "total_price": 2461.14
+        },
+        {
+            "description": "Horizontal systemic software",
+            "quantity": 10,
+            "unit_price": 358.92,
+            "total_price": 3589.2
+        }
+    ],
+    "amount": 6050.34
+}

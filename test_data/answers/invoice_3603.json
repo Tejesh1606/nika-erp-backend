@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Baker-Cole",
+    "invoice_number": "INV-46982",
+    "date": "2025-09-18",
+    "items": [
+        {
+            "description": "Organized real-time encoding",
+            "quantity": 3,
+            "unit_price": 445.27,
+            "total_price": 1335.81
+        },
+        {
+            "description": "Multi-layered reciprocal process improvement",
+            "quantity": 6,
+            "unit_price": 106.37,
+            "total_price": 638.22
+        },
+        {
+            "description": "Synchronized systematic groupware",
+            "quantity": 10,
+            "unit_price": 431.35,
+            "total_price": 4313.5
+        },
+        {
+            "description": "Streamlined neutral function",
+            "quantity": 1,
+            "unit_price": 239.62,
+            "total_price": 239.62
+        }
+    ],
+    "amount": 6527.15
+}

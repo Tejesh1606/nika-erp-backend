@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Anderson, Fitzpatrick and Haley",
+    "invoice_number": "INV-23731",
+    "date": "2025-11-11",
+    "items": [
+        {
+            "description": "Reactive tangible circuit",
+            "quantity": 7,
+            "unit_price": 92.84,
+            "total_price": 649.88
+        },
+        {
+            "description": "Optimized secondary attitude",
+            "quantity": 9,
+            "unit_price": 426.14,
+            "total_price": 3835.26
+        },
+        {
+            "description": "Vision-oriented dynamic Graphical User Interface",
+            "quantity": 2,
+            "unit_price": 19.21,
+            "total_price": 38.42
+        },
+        {
+            "description": "Balanced intangible capacity",
+            "quantity": 9,
+            "unit_price": 63.68,
+            "total_price": 573.12
+        }
+    ],
+    "amount": 5096.68
+}

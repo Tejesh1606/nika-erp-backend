@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jones Ltd",
+    "invoice_number": "INV-47611",
+    "date": "2025-09-04",
+    "items": [
+        {
+            "description": "Multi-tiered composite algorithm",
+            "quantity": 1,
+            "unit_price": 485.25,
+            "total_price": 485.25
+        },
+        {
+            "description": "Organic demand-driven extranet",
+            "quantity": 1,
+            "unit_price": 116.49,
+            "total_price": 116.49
+        },
+        {
+            "description": "Persistent national matrices",
+            "quantity": 9,
+            "unit_price": 367.6,
+            "total_price": 3308.4
+        }
+    ],
+    "amount": 3910.14
+}

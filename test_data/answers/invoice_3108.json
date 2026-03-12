@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mcdonald Ltd",
+    "invoice_number": "INV-42303",
+    "date": "2025-08-13",
+    "items": [
+        {
+            "description": "Customer-focused 4thgeneration application",
+            "quantity": 9,
+            "unit_price": 29.1,
+            "total_price": 261.9
+        },
+        {
+            "description": "Persevering maximized ability",
+            "quantity": 9,
+            "unit_price": 417.61,
+            "total_price": 3758.49
+        }
+    ],
+    "amount": 4020.39
+}

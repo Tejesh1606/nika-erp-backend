@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mcclain-Fischer",
+    "invoice_number": "INV-16670",
+    "date": "2025-11-12",
+    "items": [
+        {
+            "description": "Adaptive intermediate info-mediaries",
+            "quantity": 10,
+            "unit_price": 482.18,
+            "total_price": 4821.8
+        },
+        {
+            "description": "Inverse needs-based frame",
+            "quantity": 8,
+            "unit_price": 412.46,
+            "total_price": 3299.68
+        },
+        {
+            "description": "Profound executive encoding",
+            "quantity": 8,
+            "unit_price": 11.08,
+            "total_price": 88.64
+        }
+    ],
+    "amount": 8210.12
+}

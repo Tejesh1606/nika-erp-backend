@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mclaughlin PLC",
+    "invoice_number": "INV-24832",
+    "date": "2025-10-12",
+    "items": [
+        {
+            "description": "Polarized hybrid projection",
+            "quantity": 4,
+            "unit_price": 489.69,
+            "total_price": 1958.76
+        },
+        {
+            "description": "Reduced transitional support",
+            "quantity": 5,
+            "unit_price": 118.11,
+            "total_price": 590.55
+        },
+        {
+            "description": "Devolved actuating model",
+            "quantity": 6,
+            "unit_price": 151.95,
+            "total_price": 911.7
+        }
+    ],
+    "amount": 3461.01
+}

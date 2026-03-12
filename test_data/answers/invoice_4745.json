@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Nichols-Gray",
+    "invoice_number": "INV-39871",
+    "date": "2025-12-30",
+    "items": [
+        {
+            "description": "Right-sized zero tolerance extranet",
+            "quantity": 4,
+            "unit_price": 260.12,
+            "total_price": 1040.48
+        }
+    ],
+    "amount": 1040.48
+}

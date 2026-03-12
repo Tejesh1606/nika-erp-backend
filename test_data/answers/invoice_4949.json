@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Vance-Reilly",
+    "invoice_number": "INV-50845",
+    "date": "2026-01-13",
+    "items": [
+        {
+            "description": "Compatible optimal orchestration",
+            "quantity": 10,
+            "unit_price": 21.21,
+            "total_price": 212.1
+        }
+    ],
+    "amount": 212.1
+}

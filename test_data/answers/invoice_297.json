@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Patterson Inc",
+    "invoice_number": "INV-22475",
+    "date": "2025-03-09",
+    "items": [
+        {
+            "description": "Extended mission-critical archive",
+            "quantity": 5,
+            "unit_price": 480.57,
+            "total_price": 2402.85
+        },
+        {
+            "description": "De-engineered optimizing definition",
+            "quantity": 6,
+            "unit_price": 136.17,
+            "total_price": 817.02
+        },
+        {
+            "description": "Programmable systemic intranet",
+            "quantity": 1,
+            "unit_price": 499.64,
+            "total_price": 499.64
+        }
+    ],
+    "amount": 3719.51
+}

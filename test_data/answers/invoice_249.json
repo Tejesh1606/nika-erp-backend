@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jordan, Case and White",
+    "invoice_number": "INV-22624",
+    "date": "2025-09-28",
+    "items": [
+        {
+            "description": "Distributed disintermediate core",
+            "quantity": 10,
+            "unit_price": 136.92,
+            "total_price": 1369.2
+        },
+        {
+            "description": "Secured multi-tasking extranet",
+            "quantity": 1,
+            "unit_price": 65.05,
+            "total_price": 65.05
+        },
+        {
+            "description": "Multi-channeled encompassing utilization",
+            "quantity": 5,
+            "unit_price": 458.72,
+            "total_price": 2293.6
+        }
+    ],
+    "amount": 3727.85
+}

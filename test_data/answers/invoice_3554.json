@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Reyes-Henry",
+    "invoice_number": "INV-34345",
+    "date": "2026-02-22",
+    "items": [
+        {
+            "description": "Business-focused directional Local Area Network",
+            "quantity": 7,
+            "unit_price": 49.48,
+            "total_price": 346.36
+        },
+        {
+            "description": "Expanded discrete matrix",
+            "quantity": 3,
+            "unit_price": 324.02,
+            "total_price": 972.06
+        },
+        {
+            "description": "Triple-buffered next generation time-frame",
+            "quantity": 10,
+            "unit_price": 230.07,
+            "total_price": 2300.7
+        }
+    ],
+    "amount": 3619.12
+}

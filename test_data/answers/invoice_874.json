@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Ortega, Moore and Andrews",
+    "invoice_number": "INV-50673",
+    "date": "2025-10-23",
+    "items": [
+        {
+            "description": "Exclusive motivating structure",
+            "quantity": 8,
+            "unit_price": 233.07,
+            "total_price": 1864.56
+        },
+        {
+            "description": "Synergized logistical focus group",
+            "quantity": 4,
+            "unit_price": 145.31,
+            "total_price": 581.24
+        },
+        {
+            "description": "Exclusive 24hour circuit",
+            "quantity": 2,
+            "unit_price": 331.26,
+            "total_price": 662.52
+        },
+        {
+            "description": "Organized asymmetric initiative",
+            "quantity": 7,
+            "unit_price": 130.04,
+            "total_price": 910.28
+        }
+    ],
+    "amount": 4018.6
+}

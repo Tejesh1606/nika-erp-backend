@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Booker LLC",
+    "invoice_number": "INV-23679",
+    "date": "2025-08-18",
+    "items": [
+        {
+            "description": "Digitized responsive standardization",
+            "quantity": 7,
+            "unit_price": 159.96,
+            "total_price": 1119.72
+        },
+        {
+            "description": "Vision-oriented system-worthy throughput",
+            "quantity": 1,
+            "unit_price": 142.64,
+            "total_price": 142.64
+        },
+        {
+            "description": "Object-based logistical conglomeration",
+            "quantity": 2,
+            "unit_price": 391.68,
+            "total_price": 783.36
+        },
+        {
+            "description": "Future-proofed 24/7 middleware",
+            "quantity": 10,
+            "unit_price": 265.46,
+            "total_price": 2654.6
+        }
+    ],
+    "amount": 4700.32
+}

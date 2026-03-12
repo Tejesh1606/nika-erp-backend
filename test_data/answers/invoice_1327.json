@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lawrence PLC",
+    "invoice_number": "INV-36213",
+    "date": "2025-10-13",
+    "items": [
+        {
+            "description": "Cross-group leadingedge encryption",
+            "quantity": 6,
+            "unit_price": 424.6,
+            "total_price": 2547.6
+        },
+        {
+            "description": "Inverse object-oriented moratorium",
+            "quantity": 4,
+            "unit_price": 221.82,
+            "total_price": 887.28
+        },
+        {
+            "description": "Virtual stable firmware",
+            "quantity": 7,
+            "unit_price": 179.89,
+            "total_price": 1259.23
+        },
+        {
+            "description": "Realigned multi-tasking frame",
+            "quantity": 9,
+            "unit_price": 410.04,
+            "total_price": 3690.36
+        }
+    ],
+    "amount": 8384.47
+}

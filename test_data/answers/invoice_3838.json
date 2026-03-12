@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Nelson-Horn",
+    "invoice_number": "INV-80809",
+    "date": "2025-06-05",
+    "items": [
+        {
+            "description": "Total solution-oriented encoding",
+            "quantity": 3,
+            "unit_price": 278.36,
+            "total_price": 835.08
+        },
+        {
+            "description": "Cross-platform needs-based encryption",
+            "quantity": 4,
+            "unit_price": 353.81,
+            "total_price": 1415.24
+        }
+    ],
+    "amount": 2250.32
+}

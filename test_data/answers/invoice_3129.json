@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Moreno-Snyder",
+    "invoice_number": "INV-71106",
+    "date": "2025-11-07",
+    "items": [
+        {
+            "description": "Fully-configurable responsive installation",
+            "quantity": 1,
+            "unit_price": 460.94,
+            "total_price": 460.94
+        }
+    ],
+    "amount": 460.94
+}

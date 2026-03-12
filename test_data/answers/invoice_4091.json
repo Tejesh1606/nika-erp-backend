@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Murray-Taylor",
+    "invoice_number": "INV-32013",
+    "date": "2026-02-01",
+    "items": [
+        {
+            "description": "Organic 5thgeneration circuit",
+            "quantity": 5,
+            "unit_price": 159.03,
+            "total_price": 795.15
+        },
+        {
+            "description": "User-centric grid-enabled function",
+            "quantity": 7,
+            "unit_price": 274.88,
+            "total_price": 1924.16
+        }
+    ],
+    "amount": 2719.31
+}

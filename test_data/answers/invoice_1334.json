@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Morales LLC",
+    "invoice_number": "INV-10832",
+    "date": "2025-11-06",
+    "items": [
+        {
+            "description": "Networked 3rdgeneration access",
+            "quantity": 9,
+            "unit_price": 66.76,
+            "total_price": 600.84
+        },
+        {
+            "description": "Face-to-face fresh-thinking interface",
+            "quantity": 8,
+            "unit_price": 17.93,
+            "total_price": 143.44
+        }
+    ],
+    "amount": 744.28
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Black-Mills",
+    "invoice_number": "INV-89963",
+    "date": "2025-04-12",
+    "items": [
+        {
+            "description": "Fully-configurable methodical product",
+            "quantity": 6,
+            "unit_price": 451.09,
+            "total_price": 2706.54
+        },
+        {
+            "description": "User-centric stable secured line",
+            "quantity": 8,
+            "unit_price": 215.34,
+            "total_price": 1722.72
+        },
+        {
+            "description": "Compatible systemic productivity",
+            "quantity": 8,
+            "unit_price": 436.82,
+            "total_price": 3494.56
+        }
+    ],
+    "amount": 7923.82
+}

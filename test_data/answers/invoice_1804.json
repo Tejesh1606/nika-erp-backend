@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Williams-Hernandez",
+    "invoice_number": "INV-29895",
+    "date": "2025-04-22",
+    "items": [
+        {
+            "description": "Expanded cohesive capability",
+            "quantity": 3,
+            "unit_price": 361.92,
+            "total_price": 1085.76
+        },
+        {
+            "description": "Synergized tangible knowledgebase",
+            "quantity": 8,
+            "unit_price": 142.64,
+            "total_price": 1141.12
+        },
+        {
+            "description": "Open-source maximized system engine",
+            "quantity": 9,
+            "unit_price": 379.64,
+            "total_price": 3416.76
+        }
+    ],
+    "amount": 5643.64
+}

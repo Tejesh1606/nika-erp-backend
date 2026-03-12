@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lopez, Miller and Key",
+    "invoice_number": "INV-28119",
+    "date": "2026-03-05",
+    "items": [
+        {
+            "description": "Synergized hybrid functionalities",
+            "quantity": 1,
+            "unit_price": 369.09,
+            "total_price": 369.09
+        },
+        {
+            "description": "Exclusive cohesive knowledgebase",
+            "quantity": 3,
+            "unit_price": 322.43,
+            "total_price": 967.29
+        },
+        {
+            "description": "Front-line foreground solution",
+            "quantity": 7,
+            "unit_price": 344.65,
+            "total_price": 2412.55
+        },
+        {
+            "description": "Synchronized tertiary groupware",
+            "quantity": 8,
+            "unit_price": 202.2,
+            "total_price": 1617.6
+        }
+    ],
+    "amount": 5366.53
+}

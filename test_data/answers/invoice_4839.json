@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Zavala, Mitchell and Webb",
+    "invoice_number": "INV-14872",
+    "date": "2025-03-10",
+    "items": [
+        {
+            "description": "Devolved grid-enabled budgetary management",
+            "quantity": 10,
+            "unit_price": 126.93,
+            "total_price": 1269.3
+        },
+        {
+            "description": "Re-engineered system-worthy analyzer",
+            "quantity": 2,
+            "unit_price": 464.01,
+            "total_price": 928.02
+        },
+        {
+            "description": "Object-based solution-oriented knowledge user",
+            "quantity": 1,
+            "unit_price": 186.02,
+            "total_price": 186.02
+        }
+    ],
+    "amount": 2383.34
+}

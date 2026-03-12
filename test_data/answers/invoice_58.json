@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Taylor-Murray",
+    "invoice_number": "INV-16590",
+    "date": "2025-06-18",
+    "items": [
+        {
+            "description": "Multi-tiered fresh-thinking data-warehouse",
+            "quantity": 4,
+            "unit_price": 148.47,
+            "total_price": 593.88
+        },
+        {
+            "description": "Persevering fresh-thinking Graphical User Interface",
+            "quantity": 5,
+            "unit_price": 146.9,
+            "total_price": 734.5
+        },
+        {
+            "description": "Virtual homogeneous focus group",
+            "quantity": 9,
+            "unit_price": 304.45,
+            "total_price": 2740.05
+        },
+        {
+            "description": "Versatile intangible extranet",
+            "quantity": 5,
+            "unit_price": 393.65,
+            "total_price": 1968.25
+        }
+    ],
+    "amount": 6036.68
+}

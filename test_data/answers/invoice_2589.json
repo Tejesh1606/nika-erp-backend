@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Snyder-Robinson",
+    "invoice_number": "INV-19687",
+    "date": "2025-06-14",
+    "items": [
+        {
+            "description": "Quality-focused background benchmark",
+            "quantity": 8,
+            "unit_price": 381.86,
+            "total_price": 3054.88
+        },
+        {
+            "description": "Open-architected 24/7 forecast",
+            "quantity": 9,
+            "unit_price": 175.81,
+            "total_price": 1582.29
+        },
+        {
+            "description": "Reduced solution-oriented strategy",
+            "quantity": 9,
+            "unit_price": 88.48,
+            "total_price": 796.32
+        }
+    ],
+    "amount": 5433.49
+}

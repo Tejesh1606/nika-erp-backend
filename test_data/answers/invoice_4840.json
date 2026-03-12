@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Parker LLC",
+    "invoice_number": "INV-65701",
+    "date": "2025-03-28",
+    "items": [
+        {
+            "description": "Secured high-level workforce",
+            "quantity": 5,
+            "unit_price": 271.87,
+            "total_price": 1359.35
+        },
+        {
+            "description": "Phased system-worthy matrix",
+            "quantity": 3,
+            "unit_price": 354.22,
+            "total_price": 1062.66
+        }
+    ],
+    "amount": 2422.01
+}

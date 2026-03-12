@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jacobson, Smith and Barnes",
+    "invoice_number": "INV-66351",
+    "date": "2025-10-14",
+    "items": [
+        {
+            "description": "Sharable actuating solution",
+            "quantity": 8,
+            "unit_price": 32.64,
+            "total_price": 261.12
+        }
+    ],
+    "amount": 261.12
+}

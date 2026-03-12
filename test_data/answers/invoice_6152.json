@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Martinez Group",
+    "invoice_number": "INV-75937",
+    "date": "2025-07-18",
+    "items": [
+        {
+            "description": "Reactive well-modulated installation",
+            "quantity": 10,
+            "unit_price": 483.7,
+            "total_price": 4837.0
+        },
+        {
+            "description": "Persevering zero tolerance intranet",
+            "quantity": 6,
+            "unit_price": 113.75,
+            "total_price": 682.5
+        },
+        {
+            "description": "Progressive real-time groupware",
+            "quantity": 9,
+            "unit_price": 312.16,
+            "total_price": 2809.44
+        }
+    ],
+    "amount": 8328.94
+}

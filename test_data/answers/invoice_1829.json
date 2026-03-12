@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Young, Tate and Arnold",
+    "invoice_number": "INV-83783",
+    "date": "2025-12-28",
+    "items": [
+        {
+            "description": "Total tertiary product",
+            "quantity": 7,
+            "unit_price": 401.2,
+            "total_price": 2808.4
+        },
+        {
+            "description": "Total encompassing orchestration",
+            "quantity": 9,
+            "unit_price": 175.55,
+            "total_price": 1579.95
+        },
+        {
+            "description": "Adaptive foreground encryption",
+            "quantity": 10,
+            "unit_price": 27.91,
+            "total_price": 279.1
+        }
+    ],
+    "amount": 4667.45
+}

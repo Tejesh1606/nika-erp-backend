@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Estrada Inc",
+    "invoice_number": "INV-86385",
+    "date": "2025-03-19",
+    "items": [
+        {
+            "description": "Object-based tertiary projection",
+            "quantity": 9,
+            "unit_price": 180.09,
+            "total_price": 1620.81
+        },
+        {
+            "description": "Multi-channeled zero administration attitude",
+            "quantity": 5,
+            "unit_price": 70.55,
+            "total_price": 352.75
+        },
+        {
+            "description": "Secured executive adapter",
+            "quantity": 1,
+            "unit_price": 153.69,
+            "total_price": 153.69
+        },
+        {
+            "description": "Pre-emptive composite website",
+            "quantity": 3,
+            "unit_price": 412.99,
+            "total_price": 1238.97
+        }
+    ],
+    "amount": 3366.22
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Underwood, Lang and Hanson",
+    "invoice_number": "INV-67732",
+    "date": "2025-03-26",
+    "items": [
+        {
+            "description": "Focused dedicated software",
+            "quantity": 10,
+            "unit_price": 265.97,
+            "total_price": 2659.7
+        }
+    ],
+    "amount": 2659.7
+}

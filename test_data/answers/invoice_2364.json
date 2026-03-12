@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Lynch, Johnson and Brown",
+    "invoice_number": "INV-69350",
+    "date": "2025-09-09",
+    "items": [
+        {
+            "description": "Total composite orchestration",
+            "quantity": 2,
+            "unit_price": 465.53,
+            "total_price": 931.06
+        },
+        {
+            "description": "Customizable 24/7 time-frame",
+            "quantity": 4,
+            "unit_price": 45.8,
+            "total_price": 183.2
+        }
+    ],
+    "amount": 1114.26
+}

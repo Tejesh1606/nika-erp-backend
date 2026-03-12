@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Tran-Mcpherson",
+    "invoice_number": "INV-93527",
+    "date": "2025-11-11",
+    "items": [
+        {
+            "description": "Advanced national solution",
+            "quantity": 3,
+            "unit_price": 359.82,
+            "total_price": 1079.46
+        },
+        {
+            "description": "Profound transitional interface",
+            "quantity": 9,
+            "unit_price": 470.35,
+            "total_price": 4233.15
+        },
+        {
+            "description": "Team-oriented attitude-oriented benchmark",
+            "quantity": 4,
+            "unit_price": 77.69,
+            "total_price": 310.76
+        },
+        {
+            "description": "Down-sized zero administration hub",
+            "quantity": 10,
+            "unit_price": 319.08,
+            "total_price": 3190.8
+        }
+    ],
+    "amount": 8814.17
+}

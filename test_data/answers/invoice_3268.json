@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bryan, Jackson and Cooper",
+    "invoice_number": "INV-68741",
+    "date": "2026-03-02",
+    "items": [
+        {
+            "description": "Ameliorated fault-tolerant strategy",
+            "quantity": 10,
+            "unit_price": 117.94,
+            "total_price": 1179.4
+        },
+        {
+            "description": "Diverse zero tolerance extranet",
+            "quantity": 6,
+            "unit_price": 184.26,
+            "total_price": 1105.56
+        },
+        {
+            "description": "Balanced well-modulated superstructure",
+            "quantity": 5,
+            "unit_price": 404.93,
+            "total_price": 2024.65
+        }
+    ],
+    "amount": 4309.61
+}

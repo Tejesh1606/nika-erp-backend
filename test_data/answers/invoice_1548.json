@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Spencer LLC",
+    "invoice_number": "INV-38819",
+    "date": "2025-05-14",
+    "items": [
+        {
+            "description": "Networked demand-driven moratorium",
+            "quantity": 6,
+            "unit_price": 178.35,
+            "total_price": 1070.1
+        }
+    ],
+    "amount": 1070.1
+}

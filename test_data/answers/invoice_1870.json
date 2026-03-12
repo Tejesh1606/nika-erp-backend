@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Austin, Reynolds and Jenkins",
+    "invoice_number": "INV-52844",
+    "date": "2026-01-09",
+    "items": [
+        {
+            "description": "Optional empowering complexity",
+            "quantity": 5,
+            "unit_price": 390.8,
+            "total_price": 1954.0
+        },
+        {
+            "description": "Advanced fault-tolerant functionalities",
+            "quantity": 1,
+            "unit_price": 244.52,
+            "total_price": 244.52
+        },
+        {
+            "description": "Optimized high-level matrix",
+            "quantity": 5,
+            "unit_price": 474.92,
+            "total_price": 2374.6
+        }
+    ],
+    "amount": 4573.12
+}

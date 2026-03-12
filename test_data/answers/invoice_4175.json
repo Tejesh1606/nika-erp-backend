@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Adams, Graves and Lucas",
+    "invoice_number": "INV-18273",
+    "date": "2025-12-14",
+    "items": [
+        {
+            "description": "Reverse-engineered heuristic utilization",
+            "quantity": 2,
+            "unit_price": 80.65,
+            "total_price": 161.3
+        },
+        {
+            "description": "Open-source web-enabled artificial intelligence",
+            "quantity": 4,
+            "unit_price": 347.08,
+            "total_price": 1388.32
+        },
+        {
+            "description": "Phased intermediate secured line",
+            "quantity": 4,
+            "unit_price": 321.94,
+            "total_price": 1287.76
+        },
+        {
+            "description": "Multi-lateral global open architecture",
+            "quantity": 6,
+            "unit_price": 81.91,
+            "total_price": 491.46
+        }
+    ],
+    "amount": 3328.84
+}

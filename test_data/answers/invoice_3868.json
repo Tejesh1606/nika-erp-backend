@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Crosby-Hodge",
+    "invoice_number": "INV-84283",
+    "date": "2025-08-25",
+    "items": [
+        {
+            "description": "Profound next generation initiative",
+            "quantity": 5,
+            "unit_price": 450.19,
+            "total_price": 2250.95
+        }
+    ],
+    "amount": 2250.95
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Duncan-Taylor",
+    "invoice_number": "INV-98432",
+    "date": "2025-05-24",
+    "items": [
+        {
+            "description": "Profit-focused zero tolerance paradigm",
+            "quantity": 9,
+            "unit_price": 141.03,
+            "total_price": 1269.27
+        },
+        {
+            "description": "Multi-tiered heuristic frame",
+            "quantity": 8,
+            "unit_price": 30.01,
+            "total_price": 240.08
+        },
+        {
+            "description": "Visionary non-volatile process improvement",
+            "quantity": 7,
+            "unit_price": 350.3,
+            "total_price": 2452.1
+        }
+    ],
+    "amount": 3961.45
+}

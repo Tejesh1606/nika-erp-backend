@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Haynes, Knight and Owens",
+    "invoice_number": "INV-70605",
+    "date": "2025-07-27",
+    "items": [
+        {
+            "description": "Multi-layered interactive task-force",
+            "quantity": 10,
+            "unit_price": 22.8,
+            "total_price": 228.0
+        },
+        {
+            "description": "Cloned cohesive encryption",
+            "quantity": 4,
+            "unit_price": 479.54,
+            "total_price": 1918.16
+        }
+    ],
+    "amount": 2146.16
+}

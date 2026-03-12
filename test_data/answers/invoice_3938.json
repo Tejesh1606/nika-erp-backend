@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Howard, Miller and Shelton",
+    "invoice_number": "INV-53753",
+    "date": "2025-11-06",
+    "items": [
+        {
+            "description": "Reduced asymmetric synergy",
+            "quantity": 4,
+            "unit_price": 342.47,
+            "total_price": 1369.88
+        },
+        {
+            "description": "Triple-buffered tangible paradigm",
+            "quantity": 6,
+            "unit_price": 268.23,
+            "total_price": 1609.38
+        }
+    ],
+    "amount": 2979.26
+}

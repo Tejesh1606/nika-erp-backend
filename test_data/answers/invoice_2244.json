@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jimenez Group",
+    "invoice_number": "INV-67045",
+    "date": "2025-12-25",
+    "items": [
+        {
+            "description": "Inverse directional throughput",
+            "quantity": 9,
+            "unit_price": 156.74,
+            "total_price": 1410.66
+        },
+        {
+            "description": "Upgradable web-enabled firmware",
+            "quantity": 3,
+            "unit_price": 297.98,
+            "total_price": 893.94
+        }
+    ],
+    "amount": 2304.6
+}

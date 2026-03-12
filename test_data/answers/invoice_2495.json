@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Nichols, Johnson and Franklin",
+    "invoice_number": "INV-46435",
+    "date": "2025-12-23",
+    "items": [
+        {
+            "description": "Cloned didactic flexibility",
+            "quantity": 10,
+            "unit_price": 442.62,
+            "total_price": 4426.2
+        },
+        {
+            "description": "Synchronized optimal access",
+            "quantity": 4,
+            "unit_price": 354.35,
+            "total_price": 1417.4
+        },
+        {
+            "description": "Reduced zero administration Internet solution",
+            "quantity": 8,
+            "unit_price": 489.83,
+            "total_price": 3918.64
+        }
+    ],
+    "amount": 9762.24
+}

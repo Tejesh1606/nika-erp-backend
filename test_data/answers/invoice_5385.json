@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cook Ltd",
+    "invoice_number": "INV-56292",
+    "date": "2025-09-04",
+    "items": [
+        {
+            "description": "Team-oriented motivating implementation",
+            "quantity": 7,
+            "unit_price": 97.1,
+            "total_price": 679.7
+        },
+        {
+            "description": "Open-architected analyzing knowledgebase",
+            "quantity": 8,
+            "unit_price": 44.28,
+            "total_price": 354.24
+        }
+    ],
+    "amount": 1033.94
+}

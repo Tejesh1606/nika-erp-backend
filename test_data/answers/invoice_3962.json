@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Clark-Leon",
+    "invoice_number": "INV-26688",
+    "date": "2025-11-29",
+    "items": [
+        {
+            "description": "Up-sized discrete toolset",
+            "quantity": 6,
+            "unit_price": 128.65,
+            "total_price": 771.9
+        },
+        {
+            "description": "Mandatory incremental artificial intelligence",
+            "quantity": 9,
+            "unit_price": 434.0,
+            "total_price": 3906.0
+        }
+    ],
+    "amount": 4677.9
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Green-Wood",
+    "invoice_number": "INV-76608",
+    "date": "2025-09-01",
+    "items": [
+        {
+            "description": "Cloned regional strategy",
+            "quantity": 4,
+            "unit_price": 306.38,
+            "total_price": 1225.52
+        },
+        {
+            "description": "Seamless executive circuit",
+            "quantity": 5,
+            "unit_price": 352.41,
+            "total_price": 1762.05
+        }
+    ],
+    "amount": 2987.57
+}

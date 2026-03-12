@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Camacho, Wells and Keith",
+    "invoice_number": "INV-72424",
+    "date": "2025-07-03",
+    "items": [
+        {
+            "description": "Configurable hybrid structure",
+            "quantity": 8,
+            "unit_price": 162.78,
+            "total_price": 1302.24
+        },
+        {
+            "description": "Automated motivating orchestration",
+            "quantity": 10,
+            "unit_price": 126.09,
+            "total_price": 1260.9
+        },
+        {
+            "description": "Programmable object-oriented service-desk",
+            "quantity": 7,
+            "unit_price": 404.53,
+            "total_price": 2831.71
+        }
+    ],
+    "amount": 5394.85
+}

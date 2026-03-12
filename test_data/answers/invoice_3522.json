@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brown PLC",
+    "invoice_number": "INV-26244",
+    "date": "2025-10-18",
+    "items": [
+        {
+            "description": "Optimized upward-trending superstructure",
+            "quantity": 3,
+            "unit_price": 39.75,
+            "total_price": 119.25
+        },
+        {
+            "description": "Secured full-range framework",
+            "quantity": 9,
+            "unit_price": 67.6,
+            "total_price": 608.4
+        },
+        {
+            "description": "Fundamental user-facing middleware",
+            "quantity": 5,
+            "unit_price": 427.6,
+            "total_price": 2138.0
+        }
+    ],
+    "amount": 2865.65
+}

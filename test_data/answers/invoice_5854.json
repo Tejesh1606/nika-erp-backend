@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mccormick LLC",
+    "invoice_number": "INV-13040",
+    "date": "2025-12-30",
+    "items": [
+        {
+            "description": "User-friendly 24hour standardization",
+            "quantity": 1,
+            "unit_price": 297.13,
+            "total_price": 297.13
+        },
+        {
+            "description": "Cross-group non-volatile moratorium",
+            "quantity": 3,
+            "unit_price": 171.72,
+            "total_price": 515.16
+        },
+        {
+            "description": "Centralized bifurcated benchmark",
+            "quantity": 9,
+            "unit_price": 138.56,
+            "total_price": 1247.04
+        },
+        {
+            "description": "Adaptive incremental encryption",
+            "quantity": 8,
+            "unit_price": 259.49,
+            "total_price": 2075.92
+        }
+    ],
+    "amount": 4135.25
+}

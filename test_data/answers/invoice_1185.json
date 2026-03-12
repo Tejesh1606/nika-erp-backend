@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jordan LLC",
+    "invoice_number": "INV-85384",
+    "date": "2026-02-13",
+    "items": [
+        {
+            "description": "Seamless foreground attitude",
+            "quantity": 10,
+            "unit_price": 54.14,
+            "total_price": 541.4
+        },
+        {
+            "description": "Monitored executive concept",
+            "quantity": 2,
+            "unit_price": 293.36,
+            "total_price": 586.72
+        },
+        {
+            "description": "Decentralized executive focus group",
+            "quantity": 2,
+            "unit_price": 331.64,
+            "total_price": 663.28
+        }
+    ],
+    "amount": 1791.4
+}

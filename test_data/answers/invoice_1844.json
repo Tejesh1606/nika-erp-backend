@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ford Group",
+    "invoice_number": "INV-85837",
+    "date": "2025-11-24",
+    "items": [
+        {
+            "description": "Polarized static productivity",
+            "quantity": 10,
+            "unit_price": 113.26,
+            "total_price": 1132.6
+        },
+        {
+            "description": "Business-focused encompassing analyzer",
+            "quantity": 10,
+            "unit_price": 434.55,
+            "total_price": 4345.5
+        },
+        {
+            "description": "Reverse-engineered heuristic emulation",
+            "quantity": 4,
+            "unit_price": 369.0,
+            "total_price": 1476.0
+        }
+    ],
+    "amount": 6954.1
+}

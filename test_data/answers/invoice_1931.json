@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lyons-Perez",
+    "invoice_number": "INV-94654",
+    "date": "2025-05-02",
+    "items": [
+        {
+            "description": "Re-contextualized multi-state Local Area Network",
+            "quantity": 6,
+            "unit_price": 473.31,
+            "total_price": 2839.86
+        },
+        {
+            "description": "Open-source optimizing open architecture",
+            "quantity": 3,
+            "unit_price": 324.62,
+            "total_price": 973.86
+        },
+        {
+            "description": "Re-engineered didactic installation",
+            "quantity": 10,
+            "unit_price": 34.19,
+            "total_price": 341.9
+        },
+        {
+            "description": "Monitored clear-thinking policy",
+            "quantity": 8,
+            "unit_price": 293.61,
+            "total_price": 2348.88
+        }
+    ],
+    "amount": 6504.5
+}

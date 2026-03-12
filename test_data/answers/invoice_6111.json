@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Scott, Castaneda and Martinez",
+    "invoice_number": "INV-50828",
+    "date": "2025-09-27",
+    "items": [
+        {
+            "description": "Operative multi-state process improvement",
+            "quantity": 5,
+            "unit_price": 231.02,
+            "total_price": 1155.1
+        },
+        {
+            "description": "Profound solution-oriented projection",
+            "quantity": 1,
+            "unit_price": 54.92,
+            "total_price": 54.92
+        },
+        {
+            "description": "User-friendly content-based concept",
+            "quantity": 10,
+            "unit_price": 228.35,
+            "total_price": 2283.5
+        },
+        {
+            "description": "Diverse full-range time-frame",
+            "quantity": 7,
+            "unit_price": 465.64,
+            "total_price": 3259.48
+        }
+    ],
+    "amount": 6753.0
+}

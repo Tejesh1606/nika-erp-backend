@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Henderson LLC",
+    "invoice_number": "INV-63616",
+    "date": "2025-03-24",
+    "items": [
+        {
+            "description": "Open-architected systemic initiative",
+            "quantity": 7,
+            "unit_price": 24.19,
+            "total_price": 169.33
+        }
+    ],
+    "amount": 169.33
+}

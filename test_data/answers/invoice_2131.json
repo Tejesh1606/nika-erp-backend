@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ross Group",
+    "invoice_number": "INV-15122",
+    "date": "2025-08-10",
+    "items": [
+        {
+            "description": "Open-architected explicit neural-net",
+            "quantity": 8,
+            "unit_price": 464.24,
+            "total_price": 3713.92
+        }
+    ],
+    "amount": 3713.92
+}

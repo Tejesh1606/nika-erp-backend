@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Forbes-Lutz",
+    "invoice_number": "INV-46643",
+    "date": "2025-10-16",
+    "items": [
+        {
+            "description": "Mandatory actuating forecast",
+            "quantity": 6,
+            "unit_price": 347.31,
+            "total_price": 2083.86
+        },
+        {
+            "description": "Horizontal disintermediate concept",
+            "quantity": 3,
+            "unit_price": 242.84,
+            "total_price": 728.52
+        },
+        {
+            "description": "Organic bandwidth-monitored parallelism",
+            "quantity": 9,
+            "unit_price": 419.69,
+            "total_price": 3777.21
+        }
+    ],
+    "amount": 6589.59
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Atkins-Sutton",
+    "invoice_number": "INV-15647",
+    "date": "2025-06-23",
+    "items": [
+        {
+            "description": "Up-sized impactful leverage",
+            "quantity": 7,
+            "unit_price": 362.15,
+            "total_price": 2535.05
+        },
+        {
+            "description": "Upgradable fault-tolerant adapter",
+            "quantity": 3,
+            "unit_price": 208.05,
+            "total_price": 624.15
+        },
+        {
+            "description": "Vision-oriented logistical attitude",
+            "quantity": 9,
+            "unit_price": 276.37,
+            "total_price": 2487.33
+        },
+        {
+            "description": "Quality-focused zero administration structure",
+            "quantity": 9,
+            "unit_price": 96.62,
+            "total_price": 869.58
+        }
+    ],
+    "amount": 6516.11
+}

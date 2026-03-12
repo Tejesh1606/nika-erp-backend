@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Guerrero-Diaz",
+    "invoice_number": "INV-33730",
+    "date": "2025-03-26",
+    "items": [
+        {
+            "description": "Inverse user-facing utilization",
+            "quantity": 4,
+            "unit_price": 406.78,
+            "total_price": 1627.12
+        },
+        {
+            "description": "Multi-channeled non-volatile installation",
+            "quantity": 3,
+            "unit_price": 346.18,
+            "total_price": 1038.54
+        },
+        {
+            "description": "Organic fresh-thinking intranet",
+            "quantity": 3,
+            "unit_price": 108.57,
+            "total_price": 325.71
+        }
+    ],
+    "amount": 2991.37
+}

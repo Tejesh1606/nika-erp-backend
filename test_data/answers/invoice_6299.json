@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Clark Inc",
+    "invoice_number": "INV-24869",
+    "date": "2026-01-25",
+    "items": [
+        {
+            "description": "De-engineered real-time circuit",
+            "quantity": 1,
+            "unit_price": 137.96,
+            "total_price": 137.96
+        },
+        {
+            "description": "Self-enabling national software",
+            "quantity": 3,
+            "unit_price": 280.16,
+            "total_price": 840.48
+        }
+    ],
+    "amount": 978.44
+}

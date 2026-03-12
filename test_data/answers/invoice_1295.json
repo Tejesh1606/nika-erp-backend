@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Bowen LLC",
+    "invoice_number": "INV-64118",
+    "date": "2025-11-18",
+    "items": [
+        {
+            "description": "Mandatory client-server encryption",
+            "quantity": 2,
+            "unit_price": 176.6,
+            "total_price": 353.2
+        },
+        {
+            "description": "Polarized demand-driven firmware",
+            "quantity": 8,
+            "unit_price": 393.2,
+            "total_price": 3145.6
+        },
+        {
+            "description": "Cross-platform full-range project",
+            "quantity": 2,
+            "unit_price": 377.7,
+            "total_price": 755.4
+        },
+        {
+            "description": "Team-oriented asynchronous knowledgebase",
+            "quantity": 3,
+            "unit_price": 35.22,
+            "total_price": 105.66
+        }
+    ],
+    "amount": 4359.86
+}

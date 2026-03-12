@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Fisher Group",
+    "invoice_number": "INV-82386",
+    "date": "2025-05-01",
+    "items": [
+        {
+            "description": "Self-enabling encompassing interface",
+            "quantity": 1,
+            "unit_price": 66.26,
+            "total_price": 66.26
+        },
+        {
+            "description": "Intuitive responsive functionalities",
+            "quantity": 9,
+            "unit_price": 246.39,
+            "total_price": 2217.51
+        }
+    ],
+    "amount": 2283.77
+}

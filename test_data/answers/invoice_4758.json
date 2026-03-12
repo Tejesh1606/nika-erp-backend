@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Carson-Brown",
+    "invoice_number": "INV-85991",
+    "date": "2025-10-09",
+    "items": [
+        {
+            "description": "Automated static capacity",
+            "quantity": 8,
+            "unit_price": 140.02,
+            "total_price": 1120.16
+        }
+    ],
+    "amount": 1120.16
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Elliott-Bradley",
+    "invoice_number": "INV-57403",
+    "date": "2025-12-31",
+    "items": [
+        {
+            "description": "Progressive value-added firmware",
+            "quantity": 6,
+            "unit_price": 370.71,
+            "total_price": 2224.26
+        },
+        {
+            "description": "Focused empowering service-desk",
+            "quantity": 9,
+            "unit_price": 154.45,
+            "total_price": 1390.05
+        },
+        {
+            "description": "Monitored homogeneous hardware",
+            "quantity": 6,
+            "unit_price": 55.06,
+            "total_price": 330.36
+        }
+    ],
+    "amount": 3944.67
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rowland-Jacobs",
+    "invoice_number": "INV-58405",
+    "date": "2026-01-16",
+    "items": [
+        {
+            "description": "Business-focused interactive secured line",
+            "quantity": 5,
+            "unit_price": 447.69,
+            "total_price": 2238.45
+        },
+        {
+            "description": "Re-contextualized multi-state pricing structure",
+            "quantity": 3,
+            "unit_price": 108.32,
+            "total_price": 324.96
+        },
+        {
+            "description": "Mandatory motivating time-frame",
+            "quantity": 1,
+            "unit_price": 400.12,
+            "total_price": 400.12
+        },
+        {
+            "description": "Switchable clear-thinking portal",
+            "quantity": 2,
+            "unit_price": 457.15,
+            "total_price": 914.3
+        }
+    ],
+    "amount": 3877.83
+}

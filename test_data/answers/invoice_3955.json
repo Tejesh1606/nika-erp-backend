@@ -1,0 +1,20 @@
+{
+    "vendor_name": "White LLC",
+    "invoice_number": "INV-83845",
+    "date": "2025-12-18",
+    "items": [
+        {
+            "description": "Configurable interactive extranet",
+            "quantity": 8,
+            "unit_price": 149.54,
+            "total_price": 1196.32
+        },
+        {
+            "description": "Devolved disintermediate ability",
+            "quantity": 3,
+            "unit_price": 58.97,
+            "total_price": 176.91
+        }
+    ],
+    "amount": 1373.23
+}

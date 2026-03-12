@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Rivas, Robertson and Hudson",
+    "invoice_number": "INV-35521",
+    "date": "2025-08-29",
+    "items": [
+        {
+            "description": "Stand-alone hybrid artificial intelligence",
+            "quantity": 7,
+            "unit_price": 174.78,
+            "total_price": 1223.46
+        },
+        {
+            "description": "Object-based fresh-thinking concept",
+            "quantity": 2,
+            "unit_price": 164.59,
+            "total_price": 329.18
+        },
+        {
+            "description": "Enterprise-wide neutral project",
+            "quantity": 4,
+            "unit_price": 45.22,
+            "total_price": 180.88
+        }
+    ],
+    "amount": 1733.52
+}

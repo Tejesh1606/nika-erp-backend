@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Marshall-Russell",
+    "invoice_number": "INV-73461",
+    "date": "2025-03-20",
+    "items": [
+        {
+            "description": "Open-source scalable emulation",
+            "quantity": 1,
+            "unit_price": 107.02,
+            "total_price": 107.02
+        },
+        {
+            "description": "Ameliorated encompassing neural-net",
+            "quantity": 4,
+            "unit_price": 443.73,
+            "total_price": 1774.92
+        },
+        {
+            "description": "Reverse-engineered systematic attitude",
+            "quantity": 8,
+            "unit_price": 60.91,
+            "total_price": 487.28
+        },
+        {
+            "description": "Fully-configurable well-modulated open architecture",
+            "quantity": 8,
+            "unit_price": 13.66,
+            "total_price": 109.28
+        }
+    ],
+    "amount": 2478.5
+}

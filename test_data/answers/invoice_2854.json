@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Villarreal, Ryan and Savage",
+    "invoice_number": "INV-74291",
+    "date": "2025-08-22",
+    "items": [
+        {
+            "description": "User-friendly context-sensitive system engine",
+            "quantity": 10,
+            "unit_price": 396.7,
+            "total_price": 3967.0
+        },
+        {
+            "description": "Multi-tiered exuding migration",
+            "quantity": 4,
+            "unit_price": 329.12,
+            "total_price": 1316.48
+        },
+        {
+            "description": "Compatible responsive installation",
+            "quantity": 5,
+            "unit_price": 306.7,
+            "total_price": 1533.5
+        }
+    ],
+    "amount": 6816.98
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hancock-Dyer",
+    "invoice_number": "INV-90003",
+    "date": "2025-06-06",
+    "items": [
+        {
+            "description": "Assimilated eco-centric encoding",
+            "quantity": 8,
+            "unit_price": 401.4,
+            "total_price": 3211.2
+        },
+        {
+            "description": "Configurable methodical open architecture",
+            "quantity": 3,
+            "unit_price": 103.87,
+            "total_price": 311.61
+        }
+    ],
+    "amount": 3522.81
+}

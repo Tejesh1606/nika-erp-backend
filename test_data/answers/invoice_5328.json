@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Manning LLC",
+    "invoice_number": "INV-24689",
+    "date": "2025-10-15",
+    "items": [
+        {
+            "description": "Multi-tiered eco-centric throughput",
+            "quantity": 8,
+            "unit_price": 396.07,
+            "total_price": 3168.56
+        },
+        {
+            "description": "Devolved optimizing groupware",
+            "quantity": 9,
+            "unit_price": 85.47,
+            "total_price": 769.23
+        },
+        {
+            "description": "Profit-focused responsive info-mediaries",
+            "quantity": 5,
+            "unit_price": 109.68,
+            "total_price": 548.4
+        }
+    ],
+    "amount": 4486.19
+}

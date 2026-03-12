@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Simmons Ltd",
+    "invoice_number": "INV-59500",
+    "date": "2025-08-30",
+    "items": [
+        {
+            "description": "Function-based 5thgeneration intranet",
+            "quantity": 4,
+            "unit_price": 349.51,
+            "total_price": 1398.04
+        },
+        {
+            "description": "Realigned systematic open architecture",
+            "quantity": 4,
+            "unit_price": 142.51,
+            "total_price": 570.04
+        },
+        {
+            "description": "Synergistic system-worthy instruction set",
+            "quantity": 6,
+            "unit_price": 411.86,
+            "total_price": 2471.16
+        }
+    ],
+    "amount": 4439.24
+}

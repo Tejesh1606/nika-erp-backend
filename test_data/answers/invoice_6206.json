@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hendrix-Anderson",
+    "invoice_number": "INV-81606",
+    "date": "2025-08-01",
+    "items": [
+        {
+            "description": "Cross-platform contextually-based protocol",
+            "quantity": 1,
+            "unit_price": 389.13,
+            "total_price": 389.13
+        },
+        {
+            "description": "Diverse eco-centric adapter",
+            "quantity": 9,
+            "unit_price": 202.26,
+            "total_price": 1820.34
+        }
+    ],
+    "amount": 2209.47
+}

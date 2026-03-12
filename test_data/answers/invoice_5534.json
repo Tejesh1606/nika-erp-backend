@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Holloway-Espinoza",
+    "invoice_number": "INV-89962",
+    "date": "2025-10-13",
+    "items": [
+        {
+            "description": "Secured tertiary knowledgebase",
+            "quantity": 7,
+            "unit_price": 90.32,
+            "total_price": 632.24
+        },
+        {
+            "description": "Diverse maximized extranet",
+            "quantity": 5,
+            "unit_price": 177.35,
+            "total_price": 886.75
+        }
+    ],
+    "amount": 1518.99
+}

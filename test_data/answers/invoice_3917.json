@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Velez, Howell and Hart",
+    "invoice_number": "INV-66112",
+    "date": "2025-07-14",
+    "items": [
+        {
+            "description": "Diverse demand-driven toolset",
+            "quantity": 4,
+            "unit_price": 316.59,
+            "total_price": 1266.36
+        },
+        {
+            "description": "Secured hybrid methodology",
+            "quantity": 6,
+            "unit_price": 424.34,
+            "total_price": 2546.04
+        },
+        {
+            "description": "Function-based systematic paradigm",
+            "quantity": 4,
+            "unit_price": 255.48,
+            "total_price": 1021.92
+        },
+        {
+            "description": "Re-contextualized reciprocal application",
+            "quantity": 7,
+            "unit_price": 446.28,
+            "total_price": 3123.96
+        }
+    ],
+    "amount": 7958.28
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wright PLC",
+    "invoice_number": "INV-58610",
+    "date": "2025-05-09",
+    "items": [
+        {
+            "description": "Horizontal leadingedge time-frame",
+            "quantity": 2,
+            "unit_price": 47.45,
+            "total_price": 94.9
+        },
+        {
+            "description": "Future-proofed well-modulated infrastructure",
+            "quantity": 5,
+            "unit_price": 465.28,
+            "total_price": 2326.4
+        }
+    ],
+    "amount": 2421.3
+}

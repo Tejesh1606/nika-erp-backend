@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jones-Brooks",
+    "invoice_number": "INV-94038",
+    "date": "2025-03-11",
+    "items": [
+        {
+            "description": "Intuitive reciprocal challenge",
+            "quantity": 4,
+            "unit_price": 308.34,
+            "total_price": 1233.36
+        },
+        {
+            "description": "Managed incremental middleware",
+            "quantity": 6,
+            "unit_price": 90.31,
+            "total_price": 541.86
+        },
+        {
+            "description": "Persevering 24hour function",
+            "quantity": 2,
+            "unit_price": 302.83,
+            "total_price": 605.66
+        }
+    ],
+    "amount": 2380.88
+}

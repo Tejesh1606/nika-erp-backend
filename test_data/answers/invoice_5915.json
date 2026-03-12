@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Perkins, Lee and Cantu",
+    "invoice_number": "INV-77763",
+    "date": "2026-03-07",
+    "items": [
+        {
+            "description": "Synergized non-volatile artificial intelligence",
+            "quantity": 10,
+            "unit_price": 212.7,
+            "total_price": 2127.0
+        }
+    ],
+    "amount": 2127.0
+}

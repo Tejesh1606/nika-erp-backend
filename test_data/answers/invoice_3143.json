@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cooper-Harvey",
+    "invoice_number": "INV-84419",
+    "date": "2025-09-15",
+    "items": [
+        {
+            "description": "Persistent zero administration emulation",
+            "quantity": 2,
+            "unit_price": 30.72,
+            "total_price": 61.44
+        },
+        {
+            "description": "Up-sized logistical utilization",
+            "quantity": 8,
+            "unit_price": 379.87,
+            "total_price": 3038.96
+        }
+    ],
+    "amount": 3100.4
+}

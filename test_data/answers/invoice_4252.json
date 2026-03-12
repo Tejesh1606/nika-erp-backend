@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Schwartz and Sons",
+    "invoice_number": "INV-96058",
+    "date": "2025-11-04",
+    "items": [
+        {
+            "description": "Extended mobile moderator",
+            "quantity": 8,
+            "unit_price": 240.61,
+            "total_price": 1924.88
+        },
+        {
+            "description": "Customer-focused upward-trending toolset",
+            "quantity": 6,
+            "unit_price": 371.97,
+            "total_price": 2231.82
+        },
+        {
+            "description": "Fully-configurable coherent installation",
+            "quantity": 9,
+            "unit_price": 16.82,
+            "total_price": 151.38
+        },
+        {
+            "description": "Phased cohesive knowledge user",
+            "quantity": 5,
+            "unit_price": 489.3,
+            "total_price": 2446.5
+        }
+    ],
+    "amount": 6754.58
+}

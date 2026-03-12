@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Young-Hawkins",
+    "invoice_number": "INV-12376",
+    "date": "2025-07-26",
+    "items": [
+        {
+            "description": "Fundamental heuristic service-desk",
+            "quantity": 3,
+            "unit_price": 71.89,
+            "total_price": 215.67
+        },
+        {
+            "description": "Diverse context-sensitive middleware",
+            "quantity": 2,
+            "unit_price": 225.02,
+            "total_price": 450.04
+        },
+        {
+            "description": "Automated asymmetric Graphical User Interface",
+            "quantity": 6,
+            "unit_price": 83.46,
+            "total_price": 500.76
+        }
+    ],
+    "amount": 1166.47
+}

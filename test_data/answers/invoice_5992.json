@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Russell, Marks and Scott",
+    "invoice_number": "INV-45924",
+    "date": "2025-10-22",
+    "items": [
+        {
+            "description": "Cloned bottom-line moratorium",
+            "quantity": 8,
+            "unit_price": 147.62,
+            "total_price": 1180.96
+        },
+        {
+            "description": "Monitored attitude-oriented analyzer",
+            "quantity": 9,
+            "unit_price": 368.49,
+            "total_price": 3316.41
+        },
+        {
+            "description": "Customer-focused global firmware",
+            "quantity": 8,
+            "unit_price": 372.17,
+            "total_price": 2977.36
+        }
+    ],
+    "amount": 7474.73
+}

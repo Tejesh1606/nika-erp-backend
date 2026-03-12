@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Taylor, Newman and Russo",
+    "invoice_number": "INV-17595",
+    "date": "2026-02-14",
+    "items": [
+        {
+            "description": "Synergized next generation instruction set",
+            "quantity": 1,
+            "unit_price": 356.9,
+            "total_price": 356.9
+        },
+        {
+            "description": "Reverse-engineered interactive time-frame",
+            "quantity": 6,
+            "unit_price": 495.95,
+            "total_price": 2975.7
+        },
+        {
+            "description": "Customizable background adapter",
+            "quantity": 7,
+            "unit_price": 387.15,
+            "total_price": 2710.05
+        },
+        {
+            "description": "Reactive encompassing ability",
+            "quantity": 4,
+            "unit_price": 26.88,
+            "total_price": 107.52
+        }
+    ],
+    "amount": 6150.17
+}

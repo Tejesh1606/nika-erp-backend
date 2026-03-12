@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Long PLC",
+    "invoice_number": "INV-23902",
+    "date": "2026-01-28",
+    "items": [
+        {
+            "description": "Inverse coherent algorithm",
+            "quantity": 10,
+            "unit_price": 452.67,
+            "total_price": 4526.7
+        },
+        {
+            "description": "Configurable logistical strategy",
+            "quantity": 10,
+            "unit_price": 58.72,
+            "total_price": 587.2
+        }
+    ],
+    "amount": 5113.9
+}

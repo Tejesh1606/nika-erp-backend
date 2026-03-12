@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson, Moody and Bond",
+    "invoice_number": "INV-12447",
+    "date": "2025-12-01",
+    "items": [
+        {
+            "description": "Synergistic web-enabled policy",
+            "quantity": 3,
+            "unit_price": 52.97,
+            "total_price": 158.91
+        },
+        {
+            "description": "Universal modular circuit",
+            "quantity": 5,
+            "unit_price": 365.96,
+            "total_price": 1829.8
+        },
+        {
+            "description": "Horizontal maximized website",
+            "quantity": 2,
+            "unit_price": 135.52,
+            "total_price": 271.04
+        },
+        {
+            "description": "Devolved grid-enabled focus group",
+            "quantity": 6,
+            "unit_price": 298.33,
+            "total_price": 1789.98
+        }
+    ],
+    "amount": 4049.73
+}

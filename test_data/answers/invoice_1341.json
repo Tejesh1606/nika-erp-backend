@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Yang-Howard",
+    "invoice_number": "INV-51534",
+    "date": "2025-08-17",
+    "items": [
+        {
+            "description": "Ergonomic demand-driven array",
+            "quantity": 9,
+            "unit_price": 323.29,
+            "total_price": 2909.61
+        },
+        {
+            "description": "Profit-focused high-level matrices",
+            "quantity": 6,
+            "unit_price": 279.89,
+            "total_price": 1679.34
+        },
+        {
+            "description": "Function-based multimedia budgetary management",
+            "quantity": 1,
+            "unit_price": 122.01,
+            "total_price": 122.01
+        }
+    ],
+    "amount": 4710.96
+}

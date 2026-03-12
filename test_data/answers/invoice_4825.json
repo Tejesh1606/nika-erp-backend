@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Parker, Underwood and Moore",
+    "invoice_number": "INV-83217",
+    "date": "2025-08-14",
+    "items": [
+        {
+            "description": "Extended full-range monitoring",
+            "quantity": 6,
+            "unit_price": 134.54,
+            "total_price": 807.24
+        },
+        {
+            "description": "Visionary disintermediate function",
+            "quantity": 3,
+            "unit_price": 390.53,
+            "total_price": 1171.59
+        },
+        {
+            "description": "Reduced composite strategy",
+            "quantity": 4,
+            "unit_price": 22.79,
+            "total_price": 91.16
+        },
+        {
+            "description": "Networked dedicated open architecture",
+            "quantity": 10,
+            "unit_price": 471.74,
+            "total_price": 4717.4
+        }
+    ],
+    "amount": 6787.39
+}

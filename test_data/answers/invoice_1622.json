@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Morris-Wood",
+    "invoice_number": "INV-15500",
+    "date": "2025-03-23",
+    "items": [
+        {
+            "description": "Organized content-based ability",
+            "quantity": 7,
+            "unit_price": 468.41,
+            "total_price": 3278.87
+        },
+        {
+            "description": "Re-engineered heuristic adapter",
+            "quantity": 2,
+            "unit_price": 185.0,
+            "total_price": 370.0
+        },
+        {
+            "description": "Synchronized holistic projection",
+            "quantity": 2,
+            "unit_price": 66.06,
+            "total_price": 132.12
+        },
+        {
+            "description": "Mandatory intangible synergy",
+            "quantity": 9,
+            "unit_price": 172.49,
+            "total_price": 1552.41
+        }
+    ],
+    "amount": 5333.4
+}

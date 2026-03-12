@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ortiz, Williams and Cobb",
+    "invoice_number": "INV-79586",
+    "date": "2026-01-03",
+    "items": [
+        {
+            "description": "Fundamental responsive productivity",
+            "quantity": 2,
+            "unit_price": 88.95,
+            "total_price": 177.9
+        }
+    ],
+    "amount": 177.9
+}

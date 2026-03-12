@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Shelton Inc",
+    "invoice_number": "INV-87857",
+    "date": "2025-07-23",
+    "items": [
+        {
+            "description": "Phased optimal ability",
+            "quantity": 6,
+            "unit_price": 471.86,
+            "total_price": 2831.16
+        },
+        {
+            "description": "Pre-emptive dynamic leverage",
+            "quantity": 4,
+            "unit_price": 342.42,
+            "total_price": 1369.68
+        },
+        {
+            "description": "Customizable 6thgeneration adapter",
+            "quantity": 8,
+            "unit_price": 245.33,
+            "total_price": 1962.64
+        }
+    ],
+    "amount": 6163.48
+}

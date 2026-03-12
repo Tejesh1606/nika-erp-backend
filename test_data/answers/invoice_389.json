@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Williams-Li",
+    "invoice_number": "INV-15170",
+    "date": "2026-02-02",
+    "items": [
+        {
+            "description": "Implemented high-level website",
+            "quantity": 4,
+            "unit_price": 496.21,
+            "total_price": 1984.84
+        },
+        {
+            "description": "Synergistic foreground interface",
+            "quantity": 8,
+            "unit_price": 108.53,
+            "total_price": 868.24
+        },
+        {
+            "description": "User-centric bifurcated attitude",
+            "quantity": 9,
+            "unit_price": 474.74,
+            "total_price": 4272.66
+        },
+        {
+            "description": "Virtual 6thgeneration access",
+            "quantity": 10,
+            "unit_price": 35.1,
+            "total_price": 351.0
+        }
+    ],
+    "amount": 7476.74
+}

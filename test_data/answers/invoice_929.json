@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Vargas, Lopez and Mcmahon",
+    "invoice_number": "INV-85083",
+    "date": "2025-07-29",
+    "items": [
+        {
+            "description": "De-engineered foreground implementation",
+            "quantity": 7,
+            "unit_price": 85.71,
+            "total_price": 599.97
+        },
+        {
+            "description": "Re-engineered user-facing ability",
+            "quantity": 6,
+            "unit_price": 199.28,
+            "total_price": 1195.68
+        },
+        {
+            "description": "Integrated analyzing parallelism",
+            "quantity": 8,
+            "unit_price": 256.1,
+            "total_price": 2048.8
+        },
+        {
+            "description": "Public-key content-based info-mediaries",
+            "quantity": 10,
+            "unit_price": 346.1,
+            "total_price": 3461.0
+        }
+    ],
+    "amount": 7305.45
+}

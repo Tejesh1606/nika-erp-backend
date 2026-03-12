@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gonzales-Ayala",
+    "invoice_number": "INV-37037",
+    "date": "2025-06-11",
+    "items": [
+        {
+            "description": "Synchronized explicit project",
+            "quantity": 3,
+            "unit_price": 99.55,
+            "total_price": 298.65
+        }
+    ],
+    "amount": 298.65
+}

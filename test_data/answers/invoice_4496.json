@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Pruitt LLC",
+    "invoice_number": "INV-33710",
+    "date": "2026-01-21",
+    "items": [
+        {
+            "description": "Universal clear-thinking Graphical User Interface",
+            "quantity": 1,
+            "unit_price": 106.16,
+            "total_price": 106.16
+        }
+    ],
+    "amount": 106.16
+}

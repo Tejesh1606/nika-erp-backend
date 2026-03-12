@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Fletcher, Munoz and Ochoa",
+    "invoice_number": "INV-15225",
+    "date": "2025-07-21",
+    "items": [
+        {
+            "description": "Stand-alone zero tolerance intranet",
+            "quantity": 1,
+            "unit_price": 229.66,
+            "total_price": 229.66
+        },
+        {
+            "description": "Persevering object-oriented model",
+            "quantity": 8,
+            "unit_price": 288.33,
+            "total_price": 2306.64
+        },
+        {
+            "description": "Automated impactful workforce",
+            "quantity": 2,
+            "unit_price": 17.23,
+            "total_price": 34.46
+        },
+        {
+            "description": "Self-enabling value-added time-frame",
+            "quantity": 4,
+            "unit_price": 83.02,
+            "total_price": 332.08
+        }
+    ],
+    "amount": 2902.84
+}

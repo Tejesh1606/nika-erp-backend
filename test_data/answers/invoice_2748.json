@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hardin PLC",
+    "invoice_number": "INV-35709",
+    "date": "2025-10-15",
+    "items": [
+        {
+            "description": "Balanced tangible Local Area Network",
+            "quantity": 2,
+            "unit_price": 97.01,
+            "total_price": 194.02
+        }
+    ],
+    "amount": 194.02
+}

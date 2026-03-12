@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Carlson-Ingram",
+    "invoice_number": "INV-98124",
+    "date": "2025-11-29",
+    "items": [
+        {
+            "description": "Focused directional system engine",
+            "quantity": 8,
+            "unit_price": 61.15,
+            "total_price": 489.2
+        },
+        {
+            "description": "Pre-emptive regional task-force",
+            "quantity": 6,
+            "unit_price": 437.54,
+            "total_price": 2625.24
+        },
+        {
+            "description": "Managed content-based artificial intelligence",
+            "quantity": 9,
+            "unit_price": 75.68,
+            "total_price": 681.12
+        }
+    ],
+    "amount": 3795.56
+}

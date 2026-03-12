@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Haney, Harris and Torres",
+    "invoice_number": "INV-86016",
+    "date": "2025-11-21",
+    "items": [
+        {
+            "description": "Horizontal tangible system engine",
+            "quantity": 8,
+            "unit_price": 17.11,
+            "total_price": 136.88
+        }
+    ],
+    "amount": 136.88
+}

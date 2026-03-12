@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Brown Ltd",
+    "invoice_number": "INV-20971",
+    "date": "2025-05-16",
+    "items": [
+        {
+            "description": "Distributed bandwidth-monitored conglomeration",
+            "quantity": 3,
+            "unit_price": 462.12,
+            "total_price": 1386.36
+        },
+        {
+            "description": "Compatible holistic synergy",
+            "quantity": 7,
+            "unit_price": 353.33,
+            "total_price": 2473.31
+        }
+    ],
+    "amount": 3859.67
+}

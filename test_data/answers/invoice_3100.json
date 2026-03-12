@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Edwards-Martinez",
+    "invoice_number": "INV-29984",
+    "date": "2025-09-02",
+    "items": [
+        {
+            "description": "Inverse stable leverage",
+            "quantity": 3,
+            "unit_price": 206.68,
+            "total_price": 620.04
+        },
+        {
+            "description": "Right-sized encompassing utilization",
+            "quantity": 9,
+            "unit_price": 392.13,
+            "total_price": 3529.17
+        }
+    ],
+    "amount": 4149.21
+}

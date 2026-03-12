@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Fox-Fry",
+    "invoice_number": "INV-75390",
+    "date": "2025-12-03",
+    "items": [
+        {
+            "description": "Stand-alone upward-trending forecast",
+            "quantity": 3,
+            "unit_price": 383.97,
+            "total_price": 1151.91
+        },
+        {
+            "description": "Triple-buffered actuating frame",
+            "quantity": 8,
+            "unit_price": 87.59,
+            "total_price": 700.72
+        },
+        {
+            "description": "Phased logistical capacity",
+            "quantity": 6,
+            "unit_price": 293.91,
+            "total_price": 1763.46
+        }
+    ],
+    "amount": 3616.09
+}

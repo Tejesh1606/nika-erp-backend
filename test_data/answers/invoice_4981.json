@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Owens PLC",
+    "invoice_number": "INV-23684",
+    "date": "2025-11-03",
+    "items": [
+        {
+            "description": "Balanced explicit strategy",
+            "quantity": 3,
+            "unit_price": 488.49,
+            "total_price": 1465.47
+        },
+        {
+            "description": "Progressive tangible methodology",
+            "quantity": 10,
+            "unit_price": 39.73,
+            "total_price": 397.3
+        },
+        {
+            "description": "Programmable interactive adapter",
+            "quantity": 7,
+            "unit_price": 295.64,
+            "total_price": 2069.48
+        }
+    ],
+    "amount": 3932.25
+}

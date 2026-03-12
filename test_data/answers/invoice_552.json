@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Bryant-Rich",
+    "invoice_number": "INV-42207",
+    "date": "2025-09-26",
+    "items": [
+        {
+            "description": "Public-key hybrid support",
+            "quantity": 8,
+            "unit_price": 174.37,
+            "total_price": 1394.96
+        }
+    ],
+    "amount": 1394.96
+}

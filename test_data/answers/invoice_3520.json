@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Parrish-Garcia",
+    "invoice_number": "INV-54996",
+    "date": "2025-05-19",
+    "items": [
+        {
+            "description": "Multi-lateral high-level project",
+            "quantity": 8,
+            "unit_price": 235.66,
+            "total_price": 1885.28
+        }
+    ],
+    "amount": 1885.28
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Barrett, Moss and Ward",
+    "invoice_number": "INV-73742",
+    "date": "2025-10-12",
+    "items": [
+        {
+            "description": "Organized dedicated functionalities",
+            "quantity": 3,
+            "unit_price": 418.92,
+            "total_price": 1256.76
+        }
+    ],
+    "amount": 1256.76
+}

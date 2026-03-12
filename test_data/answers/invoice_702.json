@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Rodriguez-King",
+    "invoice_number": "INV-75178",
+    "date": "2025-06-06",
+    "items": [
+        {
+            "description": "Self-enabling client-driven algorithm",
+            "quantity": 1,
+            "unit_price": 18.04,
+            "total_price": 18.04
+        },
+        {
+            "description": "Cross-platform user-facing application",
+            "quantity": 3,
+            "unit_price": 154.26,
+            "total_price": 462.78
+        },
+        {
+            "description": "Cloned modular service-desk",
+            "quantity": 5,
+            "unit_price": 406.08,
+            "total_price": 2030.4
+        }
+    ],
+    "amount": 2511.22
+}

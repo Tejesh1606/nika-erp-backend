@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Sampson Group",
+    "invoice_number": "INV-93931",
+    "date": "2025-06-07",
+    "items": [
+        {
+            "description": "Re-engineered asymmetric functionalities",
+            "quantity": 1,
+            "unit_price": 476.15,
+            "total_price": 476.15
+        },
+        {
+            "description": "Profound fault-tolerant instruction set",
+            "quantity": 6,
+            "unit_price": 431.28,
+            "total_price": 2587.68
+        },
+        {
+            "description": "Future-proofed mission-critical capacity",
+            "quantity": 8,
+            "unit_price": 473.01,
+            "total_price": 3784.08
+        },
+        {
+            "description": "Managed intangible application",
+            "quantity": 8,
+            "unit_price": 241.08,
+            "total_price": 1928.64
+        }
+    ],
+    "amount": 8776.55
+}

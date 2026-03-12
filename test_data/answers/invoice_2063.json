@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Arellano-Miller",
+    "invoice_number": "INV-85191",
+    "date": "2025-10-31",
+    "items": [
+        {
+            "description": "Extended asymmetric firmware",
+            "quantity": 10,
+            "unit_price": 336.48,
+            "total_price": 3364.8
+        },
+        {
+            "description": "Triple-buffered high-level neural-net",
+            "quantity": 2,
+            "unit_price": 153.08,
+            "total_price": 306.16
+        },
+        {
+            "description": "Innovative content-based firmware",
+            "quantity": 4,
+            "unit_price": 76.15,
+            "total_price": 304.6
+        }
+    ],
+    "amount": 3975.56
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ray-Williams",
+    "invoice_number": "INV-16256",
+    "date": "2026-01-05",
+    "items": [
+        {
+            "description": "Assimilated context-sensitive focus group",
+            "quantity": 9,
+            "unit_price": 111.4,
+            "total_price": 1002.6
+        }
+    ],
+    "amount": 1002.6
+}

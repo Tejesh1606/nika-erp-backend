@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Reed Group",
+    "invoice_number": "INV-95979",
+    "date": "2025-06-16",
+    "items": [
+        {
+            "description": "User-friendly mission-critical data-warehouse",
+            "quantity": 1,
+            "unit_price": 357.94,
+            "total_price": 357.94
+        },
+        {
+            "description": "Exclusive national flexibility",
+            "quantity": 6,
+            "unit_price": 323.47,
+            "total_price": 1940.82
+        },
+        {
+            "description": "Realigned tangible flexibility",
+            "quantity": 4,
+            "unit_price": 403.15,
+            "total_price": 1612.6
+        },
+        {
+            "description": "Devolved bi-directional pricing structure",
+            "quantity": 10,
+            "unit_price": 346.47,
+            "total_price": 3464.7
+        }
+    ],
+    "amount": 7376.06
+}

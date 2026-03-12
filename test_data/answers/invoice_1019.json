@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rodriguez-Brown",
+    "invoice_number": "INV-94207",
+    "date": "2025-03-21",
+    "items": [
+        {
+            "description": "Robust web-enabled conglomeration",
+            "quantity": 2,
+            "unit_price": 135.46,
+            "total_price": 270.92
+        },
+        {
+            "description": "Profit-focused cohesive access",
+            "quantity": 7,
+            "unit_price": 292.73,
+            "total_price": 2049.11
+        },
+        {
+            "description": "Object-based interactive software",
+            "quantity": 7,
+            "unit_price": 290.14,
+            "total_price": 2030.98
+        },
+        {
+            "description": "Persevering neutral structure",
+            "quantity": 5,
+            "unit_price": 106.1,
+            "total_price": 530.5
+        }
+    ],
+    "amount": 4881.51
+}

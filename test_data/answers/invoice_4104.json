@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Neal-Cox",
+    "invoice_number": "INV-86681",
+    "date": "2025-05-25",
+    "items": [
+        {
+            "description": "Phased multi-state extranet",
+            "quantity": 9,
+            "unit_price": 493.83,
+            "total_price": 4444.47
+        },
+        {
+            "description": "Reverse-engineered full-range data-warehouse",
+            "quantity": 9,
+            "unit_price": 136.53,
+            "total_price": 1228.77
+        }
+    ],
+    "amount": 5673.24
+}

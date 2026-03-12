@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Luna PLC",
+    "invoice_number": "INV-12374",
+    "date": "2025-07-12",
+    "items": [
+        {
+            "description": "Profound needs-based workforce",
+            "quantity": 10,
+            "unit_price": 330.09,
+            "total_price": 3300.9
+        },
+        {
+            "description": "Reverse-engineered real-time access",
+            "quantity": 2,
+            "unit_price": 249.48,
+            "total_price": 498.96
+        },
+        {
+            "description": "Managed solution-oriented migration",
+            "quantity": 3,
+            "unit_price": 418.93,
+            "total_price": 1256.79
+        }
+    ],
+    "amount": 5056.65
+}

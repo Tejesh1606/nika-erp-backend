@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Becker-Ware",
+    "invoice_number": "INV-10256",
+    "date": "2026-03-08",
+    "items": [
+        {
+            "description": "Optimized secondary service-desk",
+            "quantity": 10,
+            "unit_price": 478.38,
+            "total_price": 4783.8
+        },
+        {
+            "description": "Streamlined actuating Graphic Interface",
+            "quantity": 6,
+            "unit_price": 372.36,
+            "total_price": 2234.16
+        },
+        {
+            "description": "Optional incremental focus group",
+            "quantity": 5,
+            "unit_price": 14.74,
+            "total_price": 73.7
+        }
+    ],
+    "amount": 7091.66
+}

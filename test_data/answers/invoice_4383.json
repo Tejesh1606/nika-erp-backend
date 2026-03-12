@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hampton, Wells and Armstrong",
+    "invoice_number": "INV-98113",
+    "date": "2025-09-22",
+    "items": [
+        {
+            "description": "Realigned modular approach",
+            "quantity": 2,
+            "unit_price": 51.46,
+            "total_price": 102.92
+        },
+        {
+            "description": "Universal next generation paradigm",
+            "quantity": 9,
+            "unit_price": 54.27,
+            "total_price": 488.43
+        },
+        {
+            "description": "Future-proofed cohesive support",
+            "quantity": 8,
+            "unit_price": 224.04,
+            "total_price": 1792.32
+        }
+    ],
+    "amount": 2383.67
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mahoney, Mack and Dunlap",
+    "invoice_number": "INV-36424",
+    "date": "2025-08-08",
+    "items": [
+        {
+            "description": "Robust upward-trending product",
+            "quantity": 3,
+            "unit_price": 88.73,
+            "total_price": 266.19
+        },
+        {
+            "description": "De-engineered dedicated toolset",
+            "quantity": 2,
+            "unit_price": 28.97,
+            "total_price": 57.94
+        },
+        {
+            "description": "Inverse discrete focus group",
+            "quantity": 1,
+            "unit_price": 315.99,
+            "total_price": 315.99
+        },
+        {
+            "description": "Quality-focused encompassing migration",
+            "quantity": 8,
+            "unit_price": 108.24,
+            "total_price": 865.92
+        }
+    ],
+    "amount": 1506.04
+}

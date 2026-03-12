@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Reynolds, Riley and Moore",
+    "invoice_number": "INV-85229",
+    "date": "2026-03-04",
+    "items": [
+        {
+            "description": "Implemented content-based open architecture",
+            "quantity": 9,
+            "unit_price": 93.85,
+            "total_price": 844.65
+        },
+        {
+            "description": "Synergistic demand-driven success",
+            "quantity": 6,
+            "unit_price": 38.94,
+            "total_price": 233.64
+        },
+        {
+            "description": "Polarized heuristic service-desk",
+            "quantity": 1,
+            "unit_price": 284.22,
+            "total_price": 284.22
+        },
+        {
+            "description": "User-friendly executive complexity",
+            "quantity": 5,
+            "unit_price": 245.09,
+            "total_price": 1225.45
+        }
+    ],
+    "amount": 2587.96
+}

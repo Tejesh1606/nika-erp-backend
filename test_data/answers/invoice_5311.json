@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Moreno-Daniels",
+    "invoice_number": "INV-62960",
+    "date": "2025-08-26",
+    "items": [
+        {
+            "description": "Programmable systematic time-frame",
+            "quantity": 2,
+            "unit_price": 274.95,
+            "total_price": 549.9
+        }
+    ],
+    "amount": 549.9
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mejia LLC",
+    "invoice_number": "INV-91874",
+    "date": "2025-04-08",
+    "items": [
+        {
+            "description": "Re-contextualized mobile function",
+            "quantity": 2,
+            "unit_price": 488.43,
+            "total_price": 976.86
+        }
+    ],
+    "amount": 976.86
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hayes-Morgan",
+    "invoice_number": "INV-51522",
+    "date": "2026-02-07",
+    "items": [
+        {
+            "description": "Mandatory uniform leverage",
+            "quantity": 1,
+            "unit_price": 54.33,
+            "total_price": 54.33
+        },
+        {
+            "description": "Progressive scalable challenge",
+            "quantity": 5,
+            "unit_price": 118.04,
+            "total_price": 590.2
+        },
+        {
+            "description": "Open-architected content-based monitoring",
+            "quantity": 1,
+            "unit_price": 465.4,
+            "total_price": 465.4
+        }
+    ],
+    "amount": 1109.93
+}

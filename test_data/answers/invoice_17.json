@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Collins, Carney and Santos",
+    "invoice_number": "INV-67422",
+    "date": "2026-02-21",
+    "items": [
+        {
+            "description": "Programmable local capability",
+            "quantity": 8,
+            "unit_price": 71.59,
+            "total_price": 572.72
+        }
+    ],
+    "amount": 572.72
+}

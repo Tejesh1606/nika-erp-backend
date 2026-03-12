@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Nguyen-Griffin",
+    "invoice_number": "INV-59775",
+    "date": "2025-09-15",
+    "items": [
+        {
+            "description": "Expanded foreground superstructure",
+            "quantity": 9,
+            "unit_price": 312.52,
+            "total_price": 2812.68
+        },
+        {
+            "description": "Advanced methodical open architecture",
+            "quantity": 10,
+            "unit_price": 495.13,
+            "total_price": 4951.3
+        },
+        {
+            "description": "Virtual background synergy",
+            "quantity": 2,
+            "unit_price": 407.99,
+            "total_price": 815.98
+        }
+    ],
+    "amount": 8579.96
+}

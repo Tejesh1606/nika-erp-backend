@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Dunn, Fischer and Jones",
+    "invoice_number": "INV-92965",
+    "date": "2025-08-26",
+    "items": [
+        {
+            "description": "Reverse-engineered incremental encryption",
+            "quantity": 6,
+            "unit_price": 468.79,
+            "total_price": 2812.74
+        },
+        {
+            "description": "Ergonomic 3rdgeneration product",
+            "quantity": 3,
+            "unit_price": 55.32,
+            "total_price": 165.96
+        }
+    ],
+    "amount": 2978.7
+}

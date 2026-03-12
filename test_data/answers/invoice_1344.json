@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Harrison, Williams and Carlson",
+    "invoice_number": "INV-37502",
+    "date": "2026-02-08",
+    "items": [
+        {
+            "description": "User-centric stable frame",
+            "quantity": 8,
+            "unit_price": 383.18,
+            "total_price": 3065.44
+        }
+    ],
+    "amount": 3065.44
+}

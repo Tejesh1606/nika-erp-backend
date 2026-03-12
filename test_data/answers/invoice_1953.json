@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hunter Ltd",
+    "invoice_number": "INV-47252",
+    "date": "2025-04-03",
+    "items": [
+        {
+            "description": "Compatible needs-based framework",
+            "quantity": 2,
+            "unit_price": 455.73,
+            "total_price": 911.46
+        },
+        {
+            "description": "Self-enabling reciprocal attitude",
+            "quantity": 10,
+            "unit_price": 474.15,
+            "total_price": 4741.5
+        }
+    ],
+    "amount": 5652.96
+}

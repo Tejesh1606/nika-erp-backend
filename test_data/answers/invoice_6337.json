@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mann-Martinez",
+    "invoice_number": "INV-70044",
+    "date": "2025-07-21",
+    "items": [
+        {
+            "description": "Open-architected background success",
+            "quantity": 5,
+            "unit_price": 78.34,
+            "total_price": 391.7
+        }
+    ],
+    "amount": 391.7
+}

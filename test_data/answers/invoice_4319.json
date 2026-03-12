@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Harris Ltd",
+    "invoice_number": "INV-74474",
+    "date": "2025-06-07",
+    "items": [
+        {
+            "description": "Total mobile extranet",
+            "quantity": 3,
+            "unit_price": 274.29,
+            "total_price": 822.87
+        },
+        {
+            "description": "Enterprise-wide zero tolerance attitude",
+            "quantity": 9,
+            "unit_price": 255.72,
+            "total_price": 2301.48
+        },
+        {
+            "description": "Synergistic fault-tolerant success",
+            "quantity": 5,
+            "unit_price": 133.35,
+            "total_price": 666.75
+        }
+    ],
+    "amount": 3791.1
+}

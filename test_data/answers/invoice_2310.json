@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Ibarra PLC",
+    "invoice_number": "INV-90314",
+    "date": "2026-01-20",
+    "items": [
+        {
+            "description": "Reactive fresh-thinking benchmark",
+            "quantity": 5,
+            "unit_price": 394.1,
+            "total_price": 1970.5
+        },
+        {
+            "description": "Total real-time definition",
+            "quantity": 1,
+            "unit_price": 123.23,
+            "total_price": 123.23
+        },
+        {
+            "description": "User-centric real-time definition",
+            "quantity": 9,
+            "unit_price": 26.77,
+            "total_price": 240.93
+        },
+        {
+            "description": "De-engineered maximized standardization",
+            "quantity": 5,
+            "unit_price": 284.05,
+            "total_price": 1420.25
+        }
+    ],
+    "amount": 3754.91
+}

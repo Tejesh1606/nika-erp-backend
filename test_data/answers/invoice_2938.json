@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Leon PLC",
+    "invoice_number": "INV-31654",
+    "date": "2025-07-18",
+    "items": [
+        {
+            "description": "Expanded systematic attitude",
+            "quantity": 3,
+            "unit_price": 22.93,
+            "total_price": 68.79
+        },
+        {
+            "description": "Optimized even-keeled process improvement",
+            "quantity": 7,
+            "unit_price": 56.18,
+            "total_price": 393.26
+        },
+        {
+            "description": "Quality-focused context-sensitive model",
+            "quantity": 1,
+            "unit_price": 207.63,
+            "total_price": 207.63
+        },
+        {
+            "description": "Virtual systematic task-force",
+            "quantity": 9,
+            "unit_price": 155.23,
+            "total_price": 1397.07
+        }
+    ],
+    "amount": 2066.75
+}

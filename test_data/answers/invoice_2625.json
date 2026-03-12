@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jones-Williams",
+    "invoice_number": "INV-53458",
+    "date": "2025-08-19",
+    "items": [
+        {
+            "description": "Persevering disintermediate emulation",
+            "quantity": 8,
+            "unit_price": 99.2,
+            "total_price": 793.6
+        },
+        {
+            "description": "Organized web-enabled flexibility",
+            "quantity": 8,
+            "unit_price": 486.12,
+            "total_price": 3888.96
+        },
+        {
+            "description": "Multi-layered leadingedge analyzer",
+            "quantity": 5,
+            "unit_price": 363.74,
+            "total_price": 1818.7
+        },
+        {
+            "description": "Configurable impactful functionalities",
+            "quantity": 10,
+            "unit_price": 132.36,
+            "total_price": 1323.6
+        }
+    ],
+    "amount": 7824.86
+}

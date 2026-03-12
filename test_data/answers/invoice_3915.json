@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jones-Jackson",
+    "invoice_number": "INV-53379",
+    "date": "2026-03-08",
+    "items": [
+        {
+            "description": "User-friendly neutral frame",
+            "quantity": 7,
+            "unit_price": 429.05,
+            "total_price": 3003.35
+        }
+    ],
+    "amount": 3003.35
+}

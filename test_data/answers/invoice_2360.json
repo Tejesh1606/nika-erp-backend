@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Williams-Burns",
+    "invoice_number": "INV-94874",
+    "date": "2025-11-10",
+    "items": [
+        {
+            "description": "Open-source user-facing attitude",
+            "quantity": 9,
+            "unit_price": 348.16,
+            "total_price": 3133.44
+        },
+        {
+            "description": "Implemented directional knowledgebase",
+            "quantity": 3,
+            "unit_price": 464.61,
+            "total_price": 1393.83
+        }
+    ],
+    "amount": 4527.27
+}

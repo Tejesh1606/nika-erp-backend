@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Nichols, Anderson and Davis",
+    "invoice_number": "INV-65478",
+    "date": "2025-05-27",
+    "items": [
+        {
+            "description": "Balanced stable open system",
+            "quantity": 4,
+            "unit_price": 317.82,
+            "total_price": 1271.28
+        },
+        {
+            "description": "Centralized 24/7 budgetary management",
+            "quantity": 1,
+            "unit_price": 246.49,
+            "total_price": 246.49
+        }
+    ],
+    "amount": 1517.77
+}

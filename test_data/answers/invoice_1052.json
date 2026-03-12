@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Frank PLC",
+    "invoice_number": "INV-59948",
+    "date": "2025-04-22",
+    "items": [
+        {
+            "description": "Exclusive methodical capability",
+            "quantity": 7,
+            "unit_price": 31.95,
+            "total_price": 223.65
+        },
+        {
+            "description": "Monitored maximized installation",
+            "quantity": 8,
+            "unit_price": 492.07,
+            "total_price": 3936.56
+        },
+        {
+            "description": "Stand-alone tertiary toolset",
+            "quantity": 10,
+            "unit_price": 146.99,
+            "total_price": 1469.9
+        }
+    ],
+    "amount": 5630.11
+}

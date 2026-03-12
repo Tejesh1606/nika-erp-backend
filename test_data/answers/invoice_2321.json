@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Anderson-Cain",
+    "invoice_number": "INV-13493",
+    "date": "2025-07-21",
+    "items": [
+        {
+            "description": "Re-contextualized value-added support",
+            "quantity": 4,
+            "unit_price": 187.99,
+            "total_price": 751.96
+        },
+        {
+            "description": "Public-key secondary emulation",
+            "quantity": 5,
+            "unit_price": 455.39,
+            "total_price": 2276.95
+        },
+        {
+            "description": "Decentralized clear-thinking toolset",
+            "quantity": 10,
+            "unit_price": 323.06,
+            "total_price": 3230.6
+        }
+    ],
+    "amount": 6259.51
+}

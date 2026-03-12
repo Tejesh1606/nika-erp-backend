@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Arnold PLC",
+    "invoice_number": "INV-42810",
+    "date": "2025-06-12",
+    "items": [
+        {
+            "description": "User-centric maximized open architecture",
+            "quantity": 2,
+            "unit_price": 469.06,
+            "total_price": 938.12
+        },
+        {
+            "description": "Enhanced hybrid adapter",
+            "quantity": 10,
+            "unit_price": 198.06,
+            "total_price": 1980.6
+        },
+        {
+            "description": "Configurable secondary moratorium",
+            "quantity": 10,
+            "unit_price": 47.24,
+            "total_price": 472.4
+        }
+    ],
+    "amount": 3391.12
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Green and Sons",
+    "invoice_number": "INV-86595",
+    "date": "2025-11-25",
+    "items": [
+        {
+            "description": "Visionary fresh-thinking monitoring",
+            "quantity": 10,
+            "unit_price": 461.75,
+            "total_price": 4617.5
+        },
+        {
+            "description": "Persevering solution-oriented secured line",
+            "quantity": 8,
+            "unit_price": 222.2,
+            "total_price": 1777.6
+        }
+    ],
+    "amount": 6395.1
+}

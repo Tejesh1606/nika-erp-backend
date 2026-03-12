@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Best, Green and Morales",
+    "invoice_number": "INV-23899",
+    "date": "2025-09-14",
+    "items": [
+        {
+            "description": "Networked empowering protocol",
+            "quantity": 4,
+            "unit_price": 469.41,
+            "total_price": 1877.64
+        },
+        {
+            "description": "Ergonomic explicit portal",
+            "quantity": 3,
+            "unit_price": 123.22,
+            "total_price": 369.66
+        },
+        {
+            "description": "Exclusive object-oriented forecast",
+            "quantity": 5,
+            "unit_price": 355.67,
+            "total_price": 1778.35
+        }
+    ],
+    "amount": 4025.65
+}

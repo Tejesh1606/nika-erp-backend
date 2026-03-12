@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Williams-Edwards",
+    "invoice_number": "INV-50449",
+    "date": "2025-03-12",
+    "items": [
+        {
+            "description": "Multi-channeled web-enabled forecast",
+            "quantity": 5,
+            "unit_price": 135.9,
+            "total_price": 679.5
+        },
+        {
+            "description": "Object-based motivating core",
+            "quantity": 8,
+            "unit_price": 222.36,
+            "total_price": 1778.88
+        }
+    ],
+    "amount": 2458.38
+}

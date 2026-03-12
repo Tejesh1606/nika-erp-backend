@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Myers-Alvarado",
+    "invoice_number": "INV-88323",
+    "date": "2025-07-29",
+    "items": [
+        {
+            "description": "Open-source systematic time-frame",
+            "quantity": 3,
+            "unit_price": 368.91,
+            "total_price": 1106.73
+        },
+        {
+            "description": "Proactive eco-centric application",
+            "quantity": 1,
+            "unit_price": 71.67,
+            "total_price": 71.67
+        },
+        {
+            "description": "Up-sized homogeneous moratorium",
+            "quantity": 6,
+            "unit_price": 281.43,
+            "total_price": 1688.58
+        }
+    ],
+    "amount": 2866.98
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Black-Williams",
+    "invoice_number": "INV-16793",
+    "date": "2025-08-08",
+    "items": [
+        {
+            "description": "Front-line 6thgeneration infrastructure",
+            "quantity": 3,
+            "unit_price": 408.83,
+            "total_price": 1226.49
+        }
+    ],
+    "amount": 1226.49
+}

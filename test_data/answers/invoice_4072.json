@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Benton-Johnston",
+    "invoice_number": "INV-23220",
+    "date": "2025-08-06",
+    "items": [
+        {
+            "description": "Intuitive motivating Local Area Network",
+            "quantity": 5,
+            "unit_price": 230.74,
+            "total_price": 1153.7
+        },
+        {
+            "description": "Enterprise-wide discrete installation",
+            "quantity": 2,
+            "unit_price": 285.88,
+            "total_price": 571.76
+        },
+        {
+            "description": "Fully-configurable fault-tolerant task-force",
+            "quantity": 8,
+            "unit_price": 70.54,
+            "total_price": 564.32
+        }
+    ],
+    "amount": 2289.78
+}

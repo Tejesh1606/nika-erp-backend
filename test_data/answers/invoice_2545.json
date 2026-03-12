@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gray Inc",
+    "invoice_number": "INV-84397",
+    "date": "2025-10-22",
+    "items": [
+        {
+            "description": "Versatile heuristic support",
+            "quantity": 8,
+            "unit_price": 469.92,
+            "total_price": 3759.36
+        },
+        {
+            "description": "Stand-alone homogeneous pricing structure",
+            "quantity": 3,
+            "unit_price": 75.77,
+            "total_price": 227.31
+        },
+        {
+            "description": "Sharable full-range help-desk",
+            "quantity": 7,
+            "unit_price": 100.45,
+            "total_price": 703.15
+        },
+        {
+            "description": "Reduced well-modulated complexity",
+            "quantity": 4,
+            "unit_price": 338.34,
+            "total_price": 1353.36
+        }
+    ],
+    "amount": 6043.18
+}

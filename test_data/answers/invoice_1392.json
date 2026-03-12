@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Miranda Ltd",
+    "invoice_number": "INV-86922",
+    "date": "2025-07-09",
+    "items": [
+        {
+            "description": "Adaptive reciprocal application",
+            "quantity": 6,
+            "unit_price": 86.84,
+            "total_price": 521.04
+        },
+        {
+            "description": "Universal web-enabled help-desk",
+            "quantity": 1,
+            "unit_price": 358.29,
+            "total_price": 358.29
+        },
+        {
+            "description": "Reverse-engineered bottom-line time-frame",
+            "quantity": 3,
+            "unit_price": 156.86,
+            "total_price": 470.58
+        }
+    ],
+    "amount": 1349.91
+}

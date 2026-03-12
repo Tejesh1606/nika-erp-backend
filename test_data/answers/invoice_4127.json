@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gonzalez, Wood and Sexton",
+    "invoice_number": "INV-64366",
+    "date": "2026-01-17",
+    "items": [
+        {
+            "description": "Digitized logistical Internet solution",
+            "quantity": 9,
+            "unit_price": 387.0,
+            "total_price": 3483.0
+        }
+    ],
+    "amount": 3483.0
+}

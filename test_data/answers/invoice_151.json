@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Brandt, Morrison and Hernandez",
+    "invoice_number": "INV-20682",
+    "date": "2025-10-21",
+    "items": [
+        {
+            "description": "Switchable client-server hardware",
+            "quantity": 2,
+            "unit_price": 46.06,
+            "total_price": 92.12
+        },
+        {
+            "description": "Integrated solution-oriented standardization",
+            "quantity": 6,
+            "unit_price": 79.04,
+            "total_price": 474.24
+        }
+    ],
+    "amount": 566.36
+}

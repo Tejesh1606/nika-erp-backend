@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Kelley-Foster",
+    "invoice_number": "INV-96100",
+    "date": "2026-01-21",
+    "items": [
+        {
+            "description": "Object-based directional orchestration",
+            "quantity": 2,
+            "unit_price": 322.42,
+            "total_price": 644.84
+        },
+        {
+            "description": "Monitored value-added installation",
+            "quantity": 7,
+            "unit_price": 265.01,
+            "total_price": 1855.07
+        },
+        {
+            "description": "Team-oriented web-enabled benchmark",
+            "quantity": 8,
+            "unit_price": 326.41,
+            "total_price": 2611.28
+        }
+    ],
+    "amount": 5111.19
+}

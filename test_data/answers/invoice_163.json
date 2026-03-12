@@ -1,0 +1,32 @@
+{
+    "vendor_name": "West-Smith",
+    "invoice_number": "INV-20384",
+    "date": "2025-03-16",
+    "items": [
+        {
+            "description": "Function-based didactic collaboration",
+            "quantity": 10,
+            "unit_price": 12.06,
+            "total_price": 120.6
+        },
+        {
+            "description": "Reactive upward-trending portal",
+            "quantity": 1,
+            "unit_price": 147.3,
+            "total_price": 147.3
+        },
+        {
+            "description": "Progressive interactive budgetary management",
+            "quantity": 7,
+            "unit_price": 395.7,
+            "total_price": 2769.9
+        },
+        {
+            "description": "Vision-oriented executive encoding",
+            "quantity": 7,
+            "unit_price": 48.08,
+            "total_price": 336.56
+        }
+    ],
+    "amount": 3374.36
+}

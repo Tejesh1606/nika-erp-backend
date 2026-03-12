@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith-Bautista",
+    "invoice_number": "INV-75099",
+    "date": "2025-05-03",
+    "items": [
+        {
+            "description": "Cross-platform transitional superstructure",
+            "quantity": 9,
+            "unit_price": 323.14,
+            "total_price": 2908.26
+        },
+        {
+            "description": "Stand-alone motivating info-mediaries",
+            "quantity": 9,
+            "unit_price": 127.0,
+            "total_price": 1143.0
+        },
+        {
+            "description": "Business-focused analyzing customer loyalty",
+            "quantity": 5,
+            "unit_price": 256.01,
+            "total_price": 1280.05
+        }
+    ],
+    "amount": 5331.31
+}

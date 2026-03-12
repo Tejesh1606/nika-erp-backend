@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Anderson, Taylor and Smith",
+    "invoice_number": "INV-22067",
+    "date": "2025-12-23",
+    "items": [
+        {
+            "description": "Pre-emptive uniform product",
+            "quantity": 9,
+            "unit_price": 17.27,
+            "total_price": 155.43
+        }
+    ],
+    "amount": 155.43
+}

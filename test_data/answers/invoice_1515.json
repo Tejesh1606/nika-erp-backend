@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Davis, Sanchez and Rivas",
+    "invoice_number": "INV-92745",
+    "date": "2026-03-02",
+    "items": [
+        {
+            "description": "Cross-platform logistical implementation",
+            "quantity": 4,
+            "unit_price": 326.08,
+            "total_price": 1304.32
+        },
+        {
+            "description": "User-friendly global encoding",
+            "quantity": 4,
+            "unit_price": 54.04,
+            "total_price": 216.16
+        },
+        {
+            "description": "Robust methodical alliance",
+            "quantity": 5,
+            "unit_price": 324.71,
+            "total_price": 1623.55
+        },
+        {
+            "description": "Inverse fault-tolerant neural-net",
+            "quantity": 1,
+            "unit_price": 367.54,
+            "total_price": 367.54
+        }
+    ],
+    "amount": 3511.57
+}

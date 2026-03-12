@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Johnson PLC",
+    "invoice_number": "INV-87265",
+    "date": "2025-09-25",
+    "items": [
+        {
+            "description": "Grass-roots systemic definition",
+            "quantity": 8,
+            "unit_price": 468.35,
+            "total_price": 3746.8
+        },
+        {
+            "description": "Fully-configurable intermediate capability",
+            "quantity": 3,
+            "unit_price": 160.4,
+            "total_price": 481.2
+        }
+    ],
+    "amount": 4228.0
+}

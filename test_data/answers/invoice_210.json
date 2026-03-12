@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Kennedy, Maldonado and Taylor",
+    "invoice_number": "INV-82135",
+    "date": "2026-03-04",
+    "items": [
+        {
+            "description": "Diverse incremental projection",
+            "quantity": 5,
+            "unit_price": 245.96,
+            "total_price": 1229.8
+        }
+    ],
+    "amount": 1229.8
+}

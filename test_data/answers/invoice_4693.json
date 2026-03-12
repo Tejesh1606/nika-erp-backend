@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Kim Group",
+    "invoice_number": "INV-37305",
+    "date": "2025-12-30",
+    "items": [
+        {
+            "description": "Diverse optimizing frame",
+            "quantity": 4,
+            "unit_price": 484.84,
+            "total_price": 1939.36
+        },
+        {
+            "description": "Adaptive directional utilization",
+            "quantity": 2,
+            "unit_price": 447.36,
+            "total_price": 894.72
+        },
+        {
+            "description": "Profound uniform algorithm",
+            "quantity": 7,
+            "unit_price": 497.54,
+            "total_price": 3482.78
+        },
+        {
+            "description": "Innovative didactic matrix",
+            "quantity": 3,
+            "unit_price": 335.22,
+            "total_price": 1005.66
+        }
+    ],
+    "amount": 7322.52
+}

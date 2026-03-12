@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Thompson-Brady",
+    "invoice_number": "INV-94875",
+    "date": "2025-12-25",
+    "items": [
+        {
+            "description": "Quality-focused bi-directional alliance",
+            "quantity": 2,
+            "unit_price": 335.34,
+            "total_price": 670.68
+        },
+        {
+            "description": "Multi-layered 4thgeneration pricing structure",
+            "quantity": 10,
+            "unit_price": 59.18,
+            "total_price": 591.8
+        }
+    ],
+    "amount": 1262.48
+}

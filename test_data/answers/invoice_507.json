@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Logan, Alvarez and Carlson",
+    "invoice_number": "INV-58679",
+    "date": "2026-01-02",
+    "items": [
+        {
+            "description": "Cross-group dynamic complexity",
+            "quantity": 10,
+            "unit_price": 104.62,
+            "total_price": 1046.2
+        },
+        {
+            "description": "Proactive background software",
+            "quantity": 5,
+            "unit_price": 190.72,
+            "total_price": 953.6
+        },
+        {
+            "description": "Secured global task-force",
+            "quantity": 10,
+            "unit_price": 344.77,
+            "total_price": 3447.7
+        }
+    ],
+    "amount": 5447.5
+}

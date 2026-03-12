@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hull, Mcgrath and Thomas",
+    "invoice_number": "INV-54780",
+    "date": "2025-10-04",
+    "items": [
+        {
+            "description": "Self-enabling value-added complexity",
+            "quantity": 8,
+            "unit_price": 298.06,
+            "total_price": 2384.48
+        }
+    ],
+    "amount": 2384.48
+}

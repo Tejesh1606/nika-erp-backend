@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Walker and Sons",
+    "invoice_number": "INV-71646",
+    "date": "2025-08-14",
+    "items": [
+        {
+            "description": "Configurable solution-oriented Local Area Network",
+            "quantity": 6,
+            "unit_price": 34.02,
+            "total_price": 204.12
+        },
+        {
+            "description": "Robust exuding success",
+            "quantity": 9,
+            "unit_price": 445.44,
+            "total_price": 4008.96
+        }
+    ],
+    "amount": 4213.08
+}

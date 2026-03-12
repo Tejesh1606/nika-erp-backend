@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Levy, Lopez and Ferguson",
+    "invoice_number": "INV-87610",
+    "date": "2026-02-27",
+    "items": [
+        {
+            "description": "Implemented zero tolerance service-desk",
+            "quantity": 1,
+            "unit_price": 167.12,
+            "total_price": 167.12
+        }
+    ],
+    "amount": 167.12
+}

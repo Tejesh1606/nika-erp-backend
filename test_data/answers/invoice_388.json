@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hernandez-Davis",
+    "invoice_number": "INV-77070",
+    "date": "2025-04-07",
+    "items": [
+        {
+            "description": "Up-sized uniform attitude",
+            "quantity": 3,
+            "unit_price": 476.28,
+            "total_price": 1428.84
+        },
+        {
+            "description": "Function-based secondary emulation",
+            "quantity": 8,
+            "unit_price": 287.21,
+            "total_price": 2297.68
+        },
+        {
+            "description": "Persevering explicit firmware",
+            "quantity": 2,
+            "unit_price": 356.0,
+            "total_price": 712.0
+        }
+    ],
+    "amount": 4438.52
+}

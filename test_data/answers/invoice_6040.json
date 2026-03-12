@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hayes PLC",
+    "invoice_number": "INV-29591",
+    "date": "2025-03-19",
+    "items": [
+        {
+            "description": "Balanced next generation Graphic Interface",
+            "quantity": 4,
+            "unit_price": 283.74,
+            "total_price": 1134.96
+        },
+        {
+            "description": "Function-based hybrid encoding",
+            "quantity": 2,
+            "unit_price": 374.81,
+            "total_price": 749.62
+        }
+    ],
+    "amount": 1884.58
+}

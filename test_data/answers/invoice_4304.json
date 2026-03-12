@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Coleman-Nguyen",
+    "invoice_number": "INV-40621",
+    "date": "2025-04-16",
+    "items": [
+        {
+            "description": "Optional web-enabled flexibility",
+            "quantity": 6,
+            "unit_price": 476.23,
+            "total_price": 2857.38
+        }
+    ],
+    "amount": 2857.38
+}

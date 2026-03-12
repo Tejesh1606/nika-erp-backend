@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Carter Group",
+    "invoice_number": "INV-59157",
+    "date": "2025-11-29",
+    "items": [
+        {
+            "description": "Grass-roots zero tolerance support",
+            "quantity": 8,
+            "unit_price": 138.89,
+            "total_price": 1111.12
+        }
+    ],
+    "amount": 1111.12
+}

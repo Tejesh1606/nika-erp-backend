@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Edwards, Perry and King",
+    "invoice_number": "INV-77550",
+    "date": "2025-09-01",
+    "items": [
+        {
+            "description": "Synchronized well-modulated neural-net",
+            "quantity": 8,
+            "unit_price": 289.54,
+            "total_price": 2316.32
+        },
+        {
+            "description": "Enterprise-wide 3rdgeneration product",
+            "quantity": 3,
+            "unit_price": 165.68,
+            "total_price": 497.04
+        }
+    ],
+    "amount": 2813.36
+}

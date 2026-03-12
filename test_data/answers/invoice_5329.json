@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Reynolds and Sons",
+    "invoice_number": "INV-24227",
+    "date": "2025-04-02",
+    "items": [
+        {
+            "description": "Pre-emptive 3rdgeneration toolset",
+            "quantity": 1,
+            "unit_price": 163.79,
+            "total_price": 163.79
+        },
+        {
+            "description": "Distributed fresh-thinking extranet",
+            "quantity": 3,
+            "unit_price": 286.48,
+            "total_price": 859.44
+        }
+    ],
+    "amount": 1023.23
+}

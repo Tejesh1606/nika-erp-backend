@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Lopez and Sons",
+    "invoice_number": "INV-62062",
+    "date": "2025-11-01",
+    "items": [
+        {
+            "description": "Face-to-face analyzing data-warehouse",
+            "quantity": 5,
+            "unit_price": 474.15,
+            "total_price": 2370.75
+        },
+        {
+            "description": "De-engineered value-added info-mediaries",
+            "quantity": 2,
+            "unit_price": 114.72,
+            "total_price": 229.44
+        }
+    ],
+    "amount": 2600.19
+}

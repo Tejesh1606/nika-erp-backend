@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gonzalez-Edwards",
+    "invoice_number": "INV-43328",
+    "date": "2025-04-30",
+    "items": [
+        {
+            "description": "Organized system-worthy challenge",
+            "quantity": 6,
+            "unit_price": 333.69,
+            "total_price": 2002.14
+        },
+        {
+            "description": "Reverse-engineered eco-centric database",
+            "quantity": 3,
+            "unit_price": 429.66,
+            "total_price": 1288.98
+        }
+    ],
+    "amount": 3291.12
+}

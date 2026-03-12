@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jones Group",
+    "invoice_number": "INV-67571",
+    "date": "2025-09-10",
+    "items": [
+        {
+            "description": "Fundamental 6thgeneration time-frame",
+            "quantity": 6,
+            "unit_price": 375.33,
+            "total_price": 2251.98
+        }
+    ],
+    "amount": 2251.98
+}

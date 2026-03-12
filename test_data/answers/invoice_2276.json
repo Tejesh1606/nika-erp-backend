@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Fitzgerald Group",
+    "invoice_number": "INV-49084",
+    "date": "2026-01-22",
+    "items": [
+        {
+            "description": "Digitized human-resource archive",
+            "quantity": 2,
+            "unit_price": 170.73,
+            "total_price": 341.46
+        }
+    ],
+    "amount": 341.46
+}

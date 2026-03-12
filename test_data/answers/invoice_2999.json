@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Roberts-Paul",
+    "invoice_number": "INV-64831",
+    "date": "2025-07-19",
+    "items": [
+        {
+            "description": "Persistent coherent migration",
+            "quantity": 8,
+            "unit_price": 204.24,
+            "total_price": 1633.92
+        },
+        {
+            "description": "Re-contextualized logistical collaboration",
+            "quantity": 10,
+            "unit_price": 108.2,
+            "total_price": 1082.0
+        },
+        {
+            "description": "Down-sized human-resource software",
+            "quantity": 5,
+            "unit_price": 435.8,
+            "total_price": 2179.0
+        },
+        {
+            "description": "Re-engineered demand-driven frame",
+            "quantity": 5,
+            "unit_price": 289.53,
+            "total_price": 1447.65
+        }
+    ],
+    "amount": 6342.57
+}

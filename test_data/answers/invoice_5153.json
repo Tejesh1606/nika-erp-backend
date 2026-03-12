@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Malone LLC",
+    "invoice_number": "INV-68489",
+    "date": "2025-11-07",
+    "items": [
+        {
+            "description": "Configurable tangible help-desk",
+            "quantity": 7,
+            "unit_price": 238.99,
+            "total_price": 1672.93
+        },
+        {
+            "description": "Fundamental didactic encryption",
+            "quantity": 5,
+            "unit_price": 436.41,
+            "total_price": 2182.05
+        },
+        {
+            "description": "Sharable scalable middleware",
+            "quantity": 4,
+            "unit_price": 422.44,
+            "total_price": 1689.76
+        }
+    ],
+    "amount": 5544.74
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Davis-Martinez",
+    "invoice_number": "INV-99571",
+    "date": "2026-01-20",
+    "items": [
+        {
+            "description": "Reduced systemic time-frame",
+            "quantity": 8,
+            "unit_price": 61.07,
+            "total_price": 488.56
+        },
+        {
+            "description": "Ameliorated intermediate contingency",
+            "quantity": 3,
+            "unit_price": 413.43,
+            "total_price": 1240.29
+        },
+        {
+            "description": "Reactive user-facing task-force",
+            "quantity": 3,
+            "unit_price": 377.73,
+            "total_price": 1133.19
+        }
+    ],
+    "amount": 2862.04
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "White-Turner",
+    "invoice_number": "INV-77020",
+    "date": "2025-05-31",
+    "items": [
+        {
+            "description": "Managed executive service-desk",
+            "quantity": 10,
+            "unit_price": 174.18,
+            "total_price": 1741.8
+        }
+    ],
+    "amount": 1741.8
+}

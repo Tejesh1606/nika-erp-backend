@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Simmons, Henry and Rogers",
+    "invoice_number": "INV-96135",
+    "date": "2026-02-06",
+    "items": [
+        {
+            "description": "Enterprise-wide upward-trending open system",
+            "quantity": 9,
+            "unit_price": 70.83,
+            "total_price": 637.47
+        }
+    ],
+    "amount": 637.47
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jones-Cruz",
+    "invoice_number": "INV-14560",
+    "date": "2025-07-08",
+    "items": [
+        {
+            "description": "Phased static implementation",
+            "quantity": 10,
+            "unit_price": 432.96,
+            "total_price": 4329.6
+        },
+        {
+            "description": "Compatible actuating collaboration",
+            "quantity": 3,
+            "unit_price": 185.34,
+            "total_price": 556.02
+        },
+        {
+            "description": "Seamless interactive protocol",
+            "quantity": 9,
+            "unit_price": 180.23,
+            "total_price": 1622.07
+        },
+        {
+            "description": "Virtual solution-oriented projection",
+            "quantity": 3,
+            "unit_price": 145.43,
+            "total_price": 436.29
+        }
+    ],
+    "amount": 6943.98
+}

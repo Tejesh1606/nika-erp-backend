@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Russell LLC",
+    "invoice_number": "INV-26202",
+    "date": "2025-09-05",
+    "items": [
+        {
+            "description": "Customizable multi-state challenge",
+            "quantity": 4,
+            "unit_price": 262.44,
+            "total_price": 1049.76
+        }
+    ],
+    "amount": 1049.76
+}

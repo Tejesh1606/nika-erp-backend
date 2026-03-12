@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Haas, Montoya and Johnson",
+    "invoice_number": "INV-63706",
+    "date": "2026-03-03",
+    "items": [
+        {
+            "description": "Optimized reciprocal moratorium",
+            "quantity": 8,
+            "unit_price": 192.17,
+            "total_price": 1537.36
+        },
+        {
+            "description": "Assimilated zero tolerance productivity",
+            "quantity": 1,
+            "unit_price": 379.23,
+            "total_price": 379.23
+        }
+    ],
+    "amount": 1916.59
+}

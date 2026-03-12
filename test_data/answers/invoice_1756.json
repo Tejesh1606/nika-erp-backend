@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Garrett, Young and Williams",
+    "invoice_number": "INV-45301",
+    "date": "2026-02-14",
+    "items": [
+        {
+            "description": "Assimilated stable hierarchy",
+            "quantity": 1,
+            "unit_price": 119.39,
+            "total_price": 119.39
+        },
+        {
+            "description": "Versatile human-resource implementation",
+            "quantity": 2,
+            "unit_price": 270.5,
+            "total_price": 541.0
+        },
+        {
+            "description": "Upgradable regional groupware",
+            "quantity": 7,
+            "unit_price": 387.72,
+            "total_price": 2714.04
+        }
+    ],
+    "amount": 3374.43
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Martinez, Riley and Mason",
+    "invoice_number": "INV-97021",
+    "date": "2025-07-15",
+    "items": [
+        {
+            "description": "Inverse asymmetric knowledge user",
+            "quantity": 7,
+            "unit_price": 350.76,
+            "total_price": 2455.32
+        },
+        {
+            "description": "Right-sized bifurcated hardware",
+            "quantity": 9,
+            "unit_price": 185.11,
+            "total_price": 1665.99
+        },
+        {
+            "description": "Horizontal disintermediate initiative",
+            "quantity": 8,
+            "unit_price": 278.4,
+            "total_price": 2227.2
+        },
+        {
+            "description": "Reduced next generation utilization",
+            "quantity": 2,
+            "unit_price": 266.35,
+            "total_price": 532.7
+        }
+    ],
+    "amount": 6881.21
+}

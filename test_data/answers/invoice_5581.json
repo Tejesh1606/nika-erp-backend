@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Price-Walls",
+    "invoice_number": "INV-30914",
+    "date": "2026-01-05",
+    "items": [
+        {
+            "description": "Visionary national analyzer",
+            "quantity": 7,
+            "unit_price": 280.99,
+            "total_price": 1966.93
+        }
+    ],
+    "amount": 1966.93
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ruiz-Lin",
+    "invoice_number": "INV-16627",
+    "date": "2025-11-07",
+    "items": [
+        {
+            "description": "Assimilated uniform application",
+            "quantity": 8,
+            "unit_price": 351.68,
+            "total_price": 2813.44
+        },
+        {
+            "description": "Re-contextualized executive access",
+            "quantity": 1,
+            "unit_price": 54.88,
+            "total_price": 54.88
+        }
+    ],
+    "amount": 2868.32
+}

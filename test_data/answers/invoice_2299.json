@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jenkins-Brown",
+    "invoice_number": "INV-72087",
+    "date": "2025-09-19",
+    "items": [
+        {
+            "description": "Right-sized maximized methodology",
+            "quantity": 8,
+            "unit_price": 166.28,
+            "total_price": 1330.24
+        },
+        {
+            "description": "Triple-buffered global hardware",
+            "quantity": 4,
+            "unit_price": 420.19,
+            "total_price": 1680.76
+        },
+        {
+            "description": "Function-based cohesive Internet solution",
+            "quantity": 3,
+            "unit_price": 311.86,
+            "total_price": 935.58
+        },
+        {
+            "description": "Compatible optimizing strategy",
+            "quantity": 4,
+            "unit_price": 94.77,
+            "total_price": 379.08
+        }
+    ],
+    "amount": 4325.66
+}

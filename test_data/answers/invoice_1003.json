@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Malone-Stafford",
+    "invoice_number": "INV-31383",
+    "date": "2025-07-06",
+    "items": [
+        {
+            "description": "Managed mission-critical collaboration",
+            "quantity": 10,
+            "unit_price": 415.1,
+            "total_price": 4151.0
+        },
+        {
+            "description": "Fully-configurable analyzing moratorium",
+            "quantity": 4,
+            "unit_price": 321.61,
+            "total_price": 1286.44
+        }
+    ],
+    "amount": 5437.44
+}

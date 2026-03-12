@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Johnson, Hall and Barton",
+    "invoice_number": "INV-23646",
+    "date": "2025-09-15",
+    "items": [
+        {
+            "description": "Customer-focused zero tolerance hardware",
+            "quantity": 10,
+            "unit_price": 246.31,
+            "total_price": 2463.1
+        }
+    ],
+    "amount": 2463.1
+}

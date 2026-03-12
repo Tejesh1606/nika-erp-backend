@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wong Inc",
+    "invoice_number": "INV-50807",
+    "date": "2025-10-22",
+    "items": [
+        {
+            "description": "Mandatory human-resource instruction set",
+            "quantity": 4,
+            "unit_price": 449.14,
+            "total_price": 1796.56
+        },
+        {
+            "description": "Public-key impactful strategy",
+            "quantity": 3,
+            "unit_price": 390.74,
+            "total_price": 1172.22
+        }
+    ],
+    "amount": 2968.78
+}

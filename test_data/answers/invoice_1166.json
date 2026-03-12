@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hunter Inc",
+    "invoice_number": "INV-76982",
+    "date": "2025-04-08",
+    "items": [
+        {
+            "description": "Front-line demand-driven Graphic Interface",
+            "quantity": 9,
+            "unit_price": 220.81,
+            "total_price": 1987.29
+        }
+    ],
+    "amount": 1987.29
+}

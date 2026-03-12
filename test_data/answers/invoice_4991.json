@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Santiago-Cannon",
+    "invoice_number": "INV-88048",
+    "date": "2025-08-02",
+    "items": [
+        {
+            "description": "Integrated 4thgeneration success",
+            "quantity": 4,
+            "unit_price": 171.88,
+            "total_price": 687.52
+        },
+        {
+            "description": "Centralized analyzing superstructure",
+            "quantity": 3,
+            "unit_price": 442.34,
+            "total_price": 1327.02
+        }
+    ],
+    "amount": 2014.54
+}

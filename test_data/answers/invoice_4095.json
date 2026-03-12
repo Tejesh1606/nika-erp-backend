@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Miles Group",
+    "invoice_number": "INV-39679",
+    "date": "2025-04-14",
+    "items": [
+        {
+            "description": "Devolved coherent utilization",
+            "quantity": 1,
+            "unit_price": 462.75,
+            "total_price": 462.75
+        },
+        {
+            "description": "Visionary systematic approach",
+            "quantity": 8,
+            "unit_price": 472.98,
+            "total_price": 3783.84
+        },
+        {
+            "description": "Universal intermediate info-mediaries",
+            "quantity": 3,
+            "unit_price": 141.79,
+            "total_price": 425.37
+        },
+        {
+            "description": "Organic intermediate initiative",
+            "quantity": 1,
+            "unit_price": 353.15,
+            "total_price": 353.15
+        }
+    ],
+    "amount": 5025.11
+}

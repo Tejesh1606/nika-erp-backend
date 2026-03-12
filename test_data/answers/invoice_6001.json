@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Nguyen PLC",
+    "invoice_number": "INV-10265",
+    "date": "2026-02-26",
+    "items": [
+        {
+            "description": "Quality-focused asymmetric artificial intelligence",
+            "quantity": 9,
+            "unit_price": 163.97,
+            "total_price": 1475.73
+        },
+        {
+            "description": "Advanced 3rdgeneration alliance",
+            "quantity": 3,
+            "unit_price": 169.34,
+            "total_price": 508.02
+        },
+        {
+            "description": "Polarized tangible leverage",
+            "quantity": 3,
+            "unit_price": 193.64,
+            "total_price": 580.92
+        },
+        {
+            "description": "Quality-focused disintermediate budgetary management",
+            "quantity": 9,
+            "unit_price": 169.54,
+            "total_price": 1525.86
+        }
+    ],
+    "amount": 4090.53
+}

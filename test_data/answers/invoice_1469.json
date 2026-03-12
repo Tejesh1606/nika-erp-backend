@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Miller-Henry",
+    "invoice_number": "INV-88983",
+    "date": "2026-02-21",
+    "items": [
+        {
+            "description": "Upgradable encompassing architecture",
+            "quantity": 3,
+            "unit_price": 410.01,
+            "total_price": 1230.03
+        }
+    ],
+    "amount": 1230.03
+}

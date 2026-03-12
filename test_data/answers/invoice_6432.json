@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Bell Inc",
+    "invoice_number": "INV-64844",
+    "date": "2025-11-03",
+    "items": [
+        {
+            "description": "Proactive neutral model",
+            "quantity": 3,
+            "unit_price": 144.38,
+            "total_price": 433.14
+        }
+    ],
+    "amount": 433.14
+}

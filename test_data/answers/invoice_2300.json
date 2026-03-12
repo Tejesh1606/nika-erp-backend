@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Allen PLC",
+    "invoice_number": "INV-44035",
+    "date": "2025-05-05",
+    "items": [
+        {
+            "description": "Enterprise-wide mission-critical database",
+            "quantity": 2,
+            "unit_price": 414.08,
+            "total_price": 828.16
+        }
+    ],
+    "amount": 828.16
+}

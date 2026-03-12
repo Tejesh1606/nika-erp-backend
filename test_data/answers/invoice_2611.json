@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bell Ltd",
+    "invoice_number": "INV-31146",
+    "date": "2025-05-02",
+    "items": [
+        {
+            "description": "Focused client-server neural-net",
+            "quantity": 10,
+            "unit_price": 300.86,
+            "total_price": 3008.6
+        },
+        {
+            "description": "Digitized contextually-based conglomeration",
+            "quantity": 7,
+            "unit_price": 109.43,
+            "total_price": 766.01
+        }
+    ],
+    "amount": 3774.61
+}

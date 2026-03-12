@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Norman Ltd",
+    "invoice_number": "INV-41583",
+    "date": "2025-06-15",
+    "items": [
+        {
+            "description": "Sharable eco-centric Internet solution",
+            "quantity": 6,
+            "unit_price": 325.98,
+            "total_price": 1955.88
+        },
+        {
+            "description": "Operative hybrid benchmark",
+            "quantity": 9,
+            "unit_price": 303.69,
+            "total_price": 2733.21
+        },
+        {
+            "description": "Balanced heuristic attitude",
+            "quantity": 9,
+            "unit_price": 254.24,
+            "total_price": 2288.16
+        }
+    ],
+    "amount": 6977.25
+}

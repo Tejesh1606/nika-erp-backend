@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Clark-Benjamin",
+    "invoice_number": "INV-78921",
+    "date": "2025-06-01",
+    "items": [
+        {
+            "description": "Enhanced tertiary moratorium",
+            "quantity": 9,
+            "unit_price": 373.05,
+            "total_price": 3357.45
+        },
+        {
+            "description": "Customer-focused user-facing challenge",
+            "quantity": 2,
+            "unit_price": 144.82,
+            "total_price": 289.64
+        }
+    ],
+    "amount": 3647.09
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hernandez, Martinez and Caldwell",
+    "invoice_number": "INV-83920",
+    "date": "2025-06-01",
+    "items": [
+        {
+            "description": "Persistent tangible extranet",
+            "quantity": 1,
+            "unit_price": 148.7,
+            "total_price": 148.7
+        },
+        {
+            "description": "Visionary holistic concept",
+            "quantity": 1,
+            "unit_price": 107.89,
+            "total_price": 107.89
+        },
+        {
+            "description": "Robust real-time synergy",
+            "quantity": 3,
+            "unit_price": 255.05,
+            "total_price": 765.15
+        }
+    ],
+    "amount": 1021.74
+}

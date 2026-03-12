@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Collins, Leon and Hall",
+    "invoice_number": "INV-27943",
+    "date": "2025-09-14",
+    "items": [
+        {
+            "description": "Open-source content-based orchestration",
+            "quantity": 2,
+            "unit_price": 50.63,
+            "total_price": 101.26
+        },
+        {
+            "description": "Up-sized radical approach",
+            "quantity": 8,
+            "unit_price": 255.83,
+            "total_price": 2046.64
+        },
+        {
+            "description": "Fundamental systematic installation",
+            "quantity": 9,
+            "unit_price": 361.49,
+            "total_price": 3253.41
+        },
+        {
+            "description": "Automated 4thgeneration model",
+            "quantity": 10,
+            "unit_price": 127.66,
+            "total_price": 1276.6
+        }
+    ],
+    "amount": 6677.91
+}

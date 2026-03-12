@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Howard Group",
+    "invoice_number": "INV-23336",
+    "date": "2025-03-19",
+    "items": [
+        {
+            "description": "Persevering demand-driven approach",
+            "quantity": 5,
+            "unit_price": 424.82,
+            "total_price": 2124.1
+        },
+        {
+            "description": "Profit-focused maximized capability",
+            "quantity": 7,
+            "unit_price": 483.19,
+            "total_price": 3382.33
+        },
+        {
+            "description": "Multi-lateral human-resource workforce",
+            "quantity": 8,
+            "unit_price": 150.99,
+            "total_price": 1207.92
+        }
+    ],
+    "amount": 6714.35
+}

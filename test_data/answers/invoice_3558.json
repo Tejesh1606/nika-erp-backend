@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jones-Navarro",
+    "invoice_number": "INV-61851",
+    "date": "2025-11-11",
+    "items": [
+        {
+            "description": "User-friendly mission-critical projection",
+            "quantity": 4,
+            "unit_price": 184.61,
+            "total_price": 738.44
+        },
+        {
+            "description": "Optimized empowering productivity",
+            "quantity": 3,
+            "unit_price": 495.2,
+            "total_price": 1485.6
+        },
+        {
+            "description": "Function-based real-time firmware",
+            "quantity": 5,
+            "unit_price": 203.71,
+            "total_price": 1018.55
+        }
+    ],
+    "amount": 3242.59
+}

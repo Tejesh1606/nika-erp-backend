@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Morales and Sons",
+    "invoice_number": "INV-20807",
+    "date": "2025-08-28",
+    "items": [
+        {
+            "description": "Grass-roots national parallelism",
+            "quantity": 6,
+            "unit_price": 308.67,
+            "total_price": 1852.02
+        },
+        {
+            "description": "Ameliorated disintermediate adapter",
+            "quantity": 8,
+            "unit_price": 204.23,
+            "total_price": 1633.84
+        },
+        {
+            "description": "Function-based heuristic website",
+            "quantity": 8,
+            "unit_price": 106.93,
+            "total_price": 855.44
+        }
+    ],
+    "amount": 4341.3
+}

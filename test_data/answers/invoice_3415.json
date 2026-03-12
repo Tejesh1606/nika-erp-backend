@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Anthony, Howe and Gonzalez",
+    "invoice_number": "INV-33869",
+    "date": "2025-07-13",
+    "items": [
+        {
+            "description": "Multi-channeled optimal synergy",
+            "quantity": 10,
+            "unit_price": 298.84,
+            "total_price": 2988.4
+        }
+    ],
+    "amount": 2988.4
+}

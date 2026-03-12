@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Stein, Spence and Armstrong",
+    "invoice_number": "INV-32227",
+    "date": "2025-11-30",
+    "items": [
+        {
+            "description": "Multi-tiered composite challenge",
+            "quantity": 5,
+            "unit_price": 454.32,
+            "total_price": 2271.6
+        },
+        {
+            "description": "Future-proofed exuding flexibility",
+            "quantity": 1,
+            "unit_price": 220.32,
+            "total_price": 220.32
+        },
+        {
+            "description": "Proactive client-server architecture",
+            "quantity": 4,
+            "unit_price": 206.09,
+            "total_price": 824.36
+        },
+        {
+            "description": "Down-sized intermediate focus group",
+            "quantity": 9,
+            "unit_price": 407.18,
+            "total_price": 3664.62
+        }
+    ],
+    "amount": 6980.9
+}

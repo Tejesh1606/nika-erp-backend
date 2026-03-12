@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Valencia Ltd",
+    "invoice_number": "INV-59470",
+    "date": "2025-08-27",
+    "items": [
+        {
+            "description": "Total zero tolerance knowledgebase",
+            "quantity": 6,
+            "unit_price": 69.98,
+            "total_price": 419.88
+        },
+        {
+            "description": "Implemented content-based implementation",
+            "quantity": 9,
+            "unit_price": 401.9,
+            "total_price": 3617.1
+        },
+        {
+            "description": "Business-focused empowering moratorium",
+            "quantity": 1,
+            "unit_price": 308.18,
+            "total_price": 308.18
+        },
+        {
+            "description": "Secured 24hour parallelism",
+            "quantity": 1,
+            "unit_price": 201.19,
+            "total_price": 201.19
+        }
+    ],
+    "amount": 4546.35
+}

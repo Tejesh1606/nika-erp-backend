@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lawrence PLC",
+    "invoice_number": "INV-88012",
+    "date": "2025-10-23",
+    "items": [
+        {
+            "description": "Front-line asymmetric neural-net",
+            "quantity": 9,
+            "unit_price": 322.7,
+            "total_price": 2904.3
+        },
+        {
+            "description": "Organic multi-state budgetary management",
+            "quantity": 1,
+            "unit_price": 340.6,
+            "total_price": 340.6
+        },
+        {
+            "description": "Upgradable 24hour workforce",
+            "quantity": 2,
+            "unit_price": 479.22,
+            "total_price": 958.44
+        },
+        {
+            "description": "Integrated national analyzer",
+            "quantity": 3,
+            "unit_price": 163.39,
+            "total_price": 490.17
+        }
+    ],
+    "amount": 4693.51
+}

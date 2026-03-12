@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Kennedy-Davis",
+    "invoice_number": "INV-43049",
+    "date": "2025-08-05",
+    "items": [
+        {
+            "description": "Fully-configurable tertiary middleware",
+            "quantity": 4,
+            "unit_price": 438.8,
+            "total_price": 1755.2
+        }
+    ],
+    "amount": 1755.2
+}

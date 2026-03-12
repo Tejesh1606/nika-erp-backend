@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Baldwin-Williams",
+    "invoice_number": "INV-60140",
+    "date": "2026-02-06",
+    "items": [
+        {
+            "description": "Fundamental eco-centric moderator",
+            "quantity": 9,
+            "unit_price": 194.34,
+            "total_price": 1749.06
+        },
+        {
+            "description": "Realigned global forecast",
+            "quantity": 3,
+            "unit_price": 227.02,
+            "total_price": 681.06
+        }
+    ],
+    "amount": 2430.12
+}

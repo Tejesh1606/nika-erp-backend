@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Davila-Rogers",
+    "invoice_number": "INV-72819",
+    "date": "2025-08-31",
+    "items": [
+        {
+            "description": "Focused reciprocal info-mediaries",
+            "quantity": 9,
+            "unit_price": 293.88,
+            "total_price": 2644.92
+        },
+        {
+            "description": "Cross-platform zero-defect alliance",
+            "quantity": 3,
+            "unit_price": 376.98,
+            "total_price": 1130.94
+        },
+        {
+            "description": "Switchable dedicated throughput",
+            "quantity": 6,
+            "unit_price": 309.7,
+            "total_price": 1858.2
+        }
+    ],
+    "amount": 5634.06
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Meyer-Valentine",
+    "invoice_number": "INV-20176",
+    "date": "2026-01-15",
+    "items": [
+        {
+            "description": "Ergonomic eco-centric adapter",
+            "quantity": 6,
+            "unit_price": 479.75,
+            "total_price": 2878.5
+        },
+        {
+            "description": "Up-sized optimizing hardware",
+            "quantity": 6,
+            "unit_price": 142.4,
+            "total_price": 854.4
+        }
+    ],
+    "amount": 3732.9
+}

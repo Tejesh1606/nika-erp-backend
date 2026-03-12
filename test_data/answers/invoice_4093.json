@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cruz-Mcdonald",
+    "invoice_number": "INV-77157",
+    "date": "2025-05-09",
+    "items": [
+        {
+            "description": "Streamlined 6thgeneration software",
+            "quantity": 1,
+            "unit_price": 450.3,
+            "total_price": 450.3
+        }
+    ],
+    "amount": 450.3
+}

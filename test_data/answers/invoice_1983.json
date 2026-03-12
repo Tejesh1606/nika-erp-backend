@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Stevens-Sanders",
+    "invoice_number": "INV-86619",
+    "date": "2025-04-15",
+    "items": [
+        {
+            "description": "Seamless national definition",
+            "quantity": 3,
+            "unit_price": 466.88,
+            "total_price": 1400.64
+        },
+        {
+            "description": "De-engineered zero administration archive",
+            "quantity": 3,
+            "unit_price": 410.55,
+            "total_price": 1231.65
+        },
+        {
+            "description": "Synergized 3rdgeneration projection",
+            "quantity": 3,
+            "unit_price": 260.47,
+            "total_price": 781.41
+        }
+    ],
+    "amount": 3413.7
+}

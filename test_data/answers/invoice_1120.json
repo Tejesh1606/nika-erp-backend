@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Stevenson, Brown and Harris",
+    "invoice_number": "INV-28894",
+    "date": "2025-10-13",
+    "items": [
+        {
+            "description": "User-centric modular challenge",
+            "quantity": 6,
+            "unit_price": 445.2,
+            "total_price": 2671.2
+        },
+        {
+            "description": "Face-to-face systematic productivity",
+            "quantity": 9,
+            "unit_price": 182.61,
+            "total_price": 1643.49
+        },
+        {
+            "description": "Distributed exuding product",
+            "quantity": 8,
+            "unit_price": 159.17,
+            "total_price": 1273.36
+        }
+    ],
+    "amount": 5588.05
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gray, Dudley and Hogan",
+    "invoice_number": "INV-30751",
+    "date": "2025-06-11",
+    "items": [
+        {
+            "description": "Upgradable radical extranet",
+            "quantity": 10,
+            "unit_price": 459.54,
+            "total_price": 4595.4
+        },
+        {
+            "description": "Managed incremental service-desk",
+            "quantity": 8,
+            "unit_price": 76.42,
+            "total_price": 611.36
+        },
+        {
+            "description": "Horizontal full-range capacity",
+            "quantity": 10,
+            "unit_price": 287.75,
+            "total_price": 2877.5
+        },
+        {
+            "description": "Extended exuding contingency",
+            "quantity": 5,
+            "unit_price": 168.33,
+            "total_price": 841.65
+        }
+    ],
+    "amount": 8925.91
+}

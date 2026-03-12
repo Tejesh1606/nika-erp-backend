@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mitchell, Cox and Osborne",
+    "invoice_number": "INV-95579",
+    "date": "2025-07-29",
+    "items": [
+        {
+            "description": "Exclusive asynchronous leverage",
+            "quantity": 9,
+            "unit_price": 390.24,
+            "total_price": 3512.16
+        },
+        {
+            "description": "Centralized multimedia matrix",
+            "quantity": 8,
+            "unit_price": 122.07,
+            "total_price": 976.56
+        },
+        {
+            "description": "Extended 5thgeneration application",
+            "quantity": 10,
+            "unit_price": 107.96,
+            "total_price": 1079.6
+        }
+    ],
+    "amount": 5568.32
+}

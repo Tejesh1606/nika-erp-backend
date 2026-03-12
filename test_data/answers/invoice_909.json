@@ -1,0 +1,20 @@
+{
+    "vendor_name": "King-Turner",
+    "invoice_number": "INV-79887",
+    "date": "2025-11-19",
+    "items": [
+        {
+            "description": "Multi-tiered optimizing function",
+            "quantity": 2,
+            "unit_price": 381.91,
+            "total_price": 763.82
+        },
+        {
+            "description": "Upgradable incremental system engine",
+            "quantity": 6,
+            "unit_price": 230.91,
+            "total_price": 1385.46
+        }
+    ],
+    "amount": 2149.28
+}

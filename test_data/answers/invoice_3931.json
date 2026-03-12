@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Watson-Young",
+    "invoice_number": "INV-16463",
+    "date": "2025-10-03",
+    "items": [
+        {
+            "description": "Secured upward-trending system engine",
+            "quantity": 4,
+            "unit_price": 280.93,
+            "total_price": 1123.72
+        },
+        {
+            "description": "Devolved content-based solution",
+            "quantity": 5,
+            "unit_price": 10.18,
+            "total_price": 50.9
+        },
+        {
+            "description": "Fully-configurable content-based projection",
+            "quantity": 1,
+            "unit_price": 474.47,
+            "total_price": 474.47
+        }
+    ],
+    "amount": 1649.09
+}

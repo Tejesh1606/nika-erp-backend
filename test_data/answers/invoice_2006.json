@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lewis-Pacheco",
+    "invoice_number": "INV-69350",
+    "date": "2025-10-15",
+    "items": [
+        {
+            "description": "Open-source directional protocol",
+            "quantity": 8,
+            "unit_price": 280.22,
+            "total_price": 2241.76
+        }
+    ],
+    "amount": 2241.76
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Williams LLC",
+    "invoice_number": "INV-35243",
+    "date": "2025-08-11",
+    "items": [
+        {
+            "description": "Balanced grid-enabled frame",
+            "quantity": 2,
+            "unit_price": 226.51,
+            "total_price": 453.02
+        },
+        {
+            "description": "Up-sized non-volatile matrix",
+            "quantity": 9,
+            "unit_price": 242.12,
+            "total_price": 2179.08
+        },
+        {
+            "description": "Configurable contextually-based leverage",
+            "quantity": 7,
+            "unit_price": 497.04,
+            "total_price": 3479.28
+        },
+        {
+            "description": "Re-engineered discrete artificial intelligence",
+            "quantity": 7,
+            "unit_price": 308.66,
+            "total_price": 2160.62
+        }
+    ],
+    "amount": 8272.0
+}

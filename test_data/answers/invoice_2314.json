@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Kelly-Harris",
+    "invoice_number": "INV-74127",
+    "date": "2025-06-19",
+    "items": [
+        {
+            "description": "Secured value-added product",
+            "quantity": 3,
+            "unit_price": 109.63,
+            "total_price": 328.89
+        },
+        {
+            "description": "Reverse-engineered holistic adapter",
+            "quantity": 2,
+            "unit_price": 89.9,
+            "total_price": 179.8
+        },
+        {
+            "description": "Organized uniform ability",
+            "quantity": 10,
+            "unit_price": 474.46,
+            "total_price": 4744.6
+        }
+    ],
+    "amount": 5253.29
+}

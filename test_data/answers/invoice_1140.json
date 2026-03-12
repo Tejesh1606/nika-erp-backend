@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Castaneda PLC",
+    "invoice_number": "INV-75542",
+    "date": "2025-07-08",
+    "items": [
+        {
+            "description": "Open-architected regional approach",
+            "quantity": 10,
+            "unit_price": 21.03,
+            "total_price": 210.3
+        },
+        {
+            "description": "Quality-focused tangible budgetary management",
+            "quantity": 10,
+            "unit_price": 223.82,
+            "total_price": 2238.2
+        }
+    ],
+    "amount": 2448.5
+}

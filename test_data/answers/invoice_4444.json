@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Fischer, Tyler and Hall",
+    "invoice_number": "INV-13580",
+    "date": "2025-12-27",
+    "items": [
+        {
+            "description": "Adaptive even-keeled Internet solution",
+            "quantity": 1,
+            "unit_price": 301.93,
+            "total_price": 301.93
+        },
+        {
+            "description": "Centralized directional standardization",
+            "quantity": 6,
+            "unit_price": 191.15,
+            "total_price": 1146.9
+        },
+        {
+            "description": "Intuitive solution-oriented structure",
+            "quantity": 4,
+            "unit_price": 53.01,
+            "total_price": 212.04
+        }
+    ],
+    "amount": 1660.87
+}

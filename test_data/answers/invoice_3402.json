@@ -1,0 +1,20 @@
+{
+    "vendor_name": "French LLC",
+    "invoice_number": "INV-26072",
+    "date": "2025-07-08",
+    "items": [
+        {
+            "description": "Programmable real-time definition",
+            "quantity": 9,
+            "unit_price": 274.31,
+            "total_price": 2468.79
+        },
+        {
+            "description": "Extended didactic hub",
+            "quantity": 2,
+            "unit_price": 292.19,
+            "total_price": 584.38
+        }
+    ],
+    "amount": 3053.17
+}

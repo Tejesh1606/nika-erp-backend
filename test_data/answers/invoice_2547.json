@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Johnson PLC",
+    "invoice_number": "INV-52385",
+    "date": "2025-03-09",
+    "items": [
+        {
+            "description": "Enhanced value-added website",
+            "quantity": 3,
+            "unit_price": 390.95,
+            "total_price": 1172.85
+        },
+        {
+            "description": "Managed global architecture",
+            "quantity": 6,
+            "unit_price": 379.55,
+            "total_price": 2277.3
+        }
+    ],
+    "amount": 3450.15
+}

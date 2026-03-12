@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Chan PLC",
+    "invoice_number": "INV-17371",
+    "date": "2025-12-11",
+    "items": [
+        {
+            "description": "Focused maximized budgetary management",
+            "quantity": 4,
+            "unit_price": 281.44,
+            "total_price": 1125.76
+        },
+        {
+            "description": "Operative bi-directional interface",
+            "quantity": 9,
+            "unit_price": 125.71,
+            "total_price": 1131.39
+        },
+        {
+            "description": "Assimilated neutral solution",
+            "quantity": 1,
+            "unit_price": 98.66,
+            "total_price": 98.66
+        },
+        {
+            "description": "Profound bifurcated time-frame",
+            "quantity": 7,
+            "unit_price": 490.21,
+            "total_price": 3431.47
+        }
+    ],
+    "amount": 5787.28
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Black Inc",
+    "invoice_number": "INV-83710",
+    "date": "2025-11-10",
+    "items": [
+        {
+            "description": "Customer-focused fault-tolerant access",
+            "quantity": 9,
+            "unit_price": 103.31,
+            "total_price": 929.79
+        }
+    ],
+    "amount": 929.79
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Young-Walls",
+    "invoice_number": "INV-66186",
+    "date": "2025-08-25",
+    "items": [
+        {
+            "description": "User-friendly 6thgeneration model",
+            "quantity": 10,
+            "unit_price": 65.25,
+            "total_price": 652.5
+        },
+        {
+            "description": "Team-oriented bandwidth-monitored budgetary management",
+            "quantity": 7,
+            "unit_price": 186.92,
+            "total_price": 1308.44
+        }
+    ],
+    "amount": 1960.94
+}

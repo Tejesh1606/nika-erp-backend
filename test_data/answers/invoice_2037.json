@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Daniel Inc",
+    "invoice_number": "INV-29617",
+    "date": "2025-07-06",
+    "items": [
+        {
+            "description": "Compatible dedicated orchestration",
+            "quantity": 10,
+            "unit_price": 306.83,
+            "total_price": 3068.3
+        },
+        {
+            "description": "Fully-configurable web-enabled structure",
+            "quantity": 1,
+            "unit_price": 232.15,
+            "total_price": 232.15
+        },
+        {
+            "description": "Optional regional initiative",
+            "quantity": 1,
+            "unit_price": 273.24,
+            "total_price": 273.24
+        },
+        {
+            "description": "Persistent national open system",
+            "quantity": 4,
+            "unit_price": 472.97,
+            "total_price": 1891.88
+        }
+    ],
+    "amount": 5465.57
+}

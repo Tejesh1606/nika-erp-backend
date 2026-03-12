@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Dixon, Hale and Gilbert",
+    "invoice_number": "INV-98345",
+    "date": "2025-03-23",
+    "items": [
+        {
+            "description": "Multi-lateral disintermediate projection",
+            "quantity": 3,
+            "unit_price": 490.65,
+            "total_price": 1471.95
+        }
+    ],
+    "amount": 1471.95
+}

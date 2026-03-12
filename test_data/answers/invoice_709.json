@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Arellano, Jensen and Gomez",
+    "invoice_number": "INV-47281",
+    "date": "2025-07-11",
+    "items": [
+        {
+            "description": "Centralized 4thgeneration parallelism",
+            "quantity": 2,
+            "unit_price": 326.12,
+            "total_price": 652.24
+        },
+        {
+            "description": "Balanced clear-thinking hierarchy",
+            "quantity": 8,
+            "unit_price": 463.01,
+            "total_price": 3704.08
+        }
+    ],
+    "amount": 4356.32
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Saunders-Chen",
+    "invoice_number": "INV-91129",
+    "date": "2025-11-09",
+    "items": [
+        {
+            "description": "Networked interactive structure",
+            "quantity": 9,
+            "unit_price": 337.99,
+            "total_price": 3041.91
+        },
+        {
+            "description": "Advanced regional instruction set",
+            "quantity": 1,
+            "unit_price": 191.35,
+            "total_price": 191.35
+        },
+        {
+            "description": "Extended heuristic function",
+            "quantity": 2,
+            "unit_price": 99.64,
+            "total_price": 199.28
+        }
+    ],
+    "amount": 3432.54
+}

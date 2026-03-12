@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hester-Morgan",
+    "invoice_number": "INV-87982",
+    "date": "2026-01-30",
+    "items": [
+        {
+            "description": "Open-architected bottom-line emulation",
+            "quantity": 7,
+            "unit_price": 207.46,
+            "total_price": 1452.22
+        },
+        {
+            "description": "Optimized uniform methodology",
+            "quantity": 5,
+            "unit_price": 471.61,
+            "total_price": 2358.05
+        },
+        {
+            "description": "Grass-roots well-modulated structure",
+            "quantity": 6,
+            "unit_price": 254.37,
+            "total_price": 1526.22
+        }
+    ],
+    "amount": 5336.49
+}

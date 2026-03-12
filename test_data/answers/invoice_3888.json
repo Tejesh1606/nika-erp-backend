@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Duran-Hudson",
+    "invoice_number": "INV-25499",
+    "date": "2025-07-26",
+    "items": [
+        {
+            "description": "Front-line 24hour approach",
+            "quantity": 3,
+            "unit_price": 338.85,
+            "total_price": 1016.55
+        },
+        {
+            "description": "Persistent foreground workforce",
+            "quantity": 10,
+            "unit_price": 126.05,
+            "total_price": 1260.5
+        }
+    ],
+    "amount": 2277.05
+}

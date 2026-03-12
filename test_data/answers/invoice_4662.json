@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Dunn Inc",
+    "invoice_number": "INV-26328",
+    "date": "2025-07-02",
+    "items": [
+        {
+            "description": "Reactive static hierarchy",
+            "quantity": 7,
+            "unit_price": 369.72,
+            "total_price": 2588.04
+        },
+        {
+            "description": "Phased motivating support",
+            "quantity": 9,
+            "unit_price": 457.54,
+            "total_price": 4117.86
+        },
+        {
+            "description": "Customer-focused impactful hub",
+            "quantity": 9,
+            "unit_price": 393.59,
+            "total_price": 3542.31
+        }
+    ],
+    "amount": 10248.21
+}

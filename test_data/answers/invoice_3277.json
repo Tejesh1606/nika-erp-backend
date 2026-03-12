@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wright Group",
+    "invoice_number": "INV-82053",
+    "date": "2025-11-06",
+    "items": [
+        {
+            "description": "Business-focused fresh-thinking neural-net",
+            "quantity": 8,
+            "unit_price": 385.88,
+            "total_price": 3087.04
+        },
+        {
+            "description": "Vision-oriented asynchronous alliance",
+            "quantity": 9,
+            "unit_price": 371.77,
+            "total_price": 3345.93
+        }
+    ],
+    "amount": 6432.97
+}

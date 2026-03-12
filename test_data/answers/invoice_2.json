@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Miller, Henderson and Johnson",
+    "invoice_number": "INV-38657",
+    "date": "2025-06-07",
+    "items": [
+        {
+            "description": "Profit-focused real-time algorithm",
+            "quantity": 8,
+            "unit_price": 170.84,
+            "total_price": 1366.72
+        },
+        {
+            "description": "Realigned dedicated structure",
+            "quantity": 5,
+            "unit_price": 370.78,
+            "total_price": 1853.9
+        }
+    ],
+    "amount": 3220.62
+}

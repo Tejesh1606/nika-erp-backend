@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Farrell, Meadows and Michael",
+    "invoice_number": "INV-92150",
+    "date": "2025-04-01",
+    "items": [
+        {
+            "description": "Programmable dedicated hierarchy",
+            "quantity": 6,
+            "unit_price": 424.94,
+            "total_price": 2549.64
+        },
+        {
+            "description": "Persistent client-server encoding",
+            "quantity": 3,
+            "unit_price": 37.64,
+            "total_price": 112.92
+        }
+    ],
+    "amount": 2662.56
+}

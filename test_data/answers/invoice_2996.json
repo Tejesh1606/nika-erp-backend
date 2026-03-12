@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Marks, Gonzales and Pham",
+    "invoice_number": "INV-25344",
+    "date": "2025-10-05",
+    "items": [
+        {
+            "description": "Cross-group grid-enabled info-mediaries",
+            "quantity": 2,
+            "unit_price": 115.4,
+            "total_price": 230.8
+        },
+        {
+            "description": "Ameliorated global frame",
+            "quantity": 4,
+            "unit_price": 442.22,
+            "total_price": 1768.88
+        }
+    ],
+    "amount": 1999.68
+}

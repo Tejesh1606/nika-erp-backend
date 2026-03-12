@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Young, Grant and Davis",
+    "invoice_number": "INV-12487",
+    "date": "2025-07-06",
+    "items": [
+        {
+            "description": "Realigned tertiary success",
+            "quantity": 8,
+            "unit_price": 96.5,
+            "total_price": 772.0
+        },
+        {
+            "description": "Face-to-face homogeneous extranet",
+            "quantity": 8,
+            "unit_price": 59.64,
+            "total_price": 477.12
+        }
+    ],
+    "amount": 1249.12
+}

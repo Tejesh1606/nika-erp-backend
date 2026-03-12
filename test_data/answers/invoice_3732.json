@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mcneil, Williams and Dean",
+    "invoice_number": "INV-40531",
+    "date": "2025-09-06",
+    "items": [
+        {
+            "description": "Organized discrete benchmark",
+            "quantity": 4,
+            "unit_price": 492.03,
+            "total_price": 1968.12
+        },
+        {
+            "description": "De-engineered reciprocal leverage",
+            "quantity": 8,
+            "unit_price": 261.98,
+            "total_price": 2095.84
+        },
+        {
+            "description": "Ergonomic even-keeled artificial intelligence",
+            "quantity": 10,
+            "unit_price": 436.31,
+            "total_price": 4363.1
+        }
+    ],
+    "amount": 8427.06
+}

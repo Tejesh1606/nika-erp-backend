@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Baker Group",
+    "invoice_number": "INV-26061",
+    "date": "2026-03-06",
+    "items": [
+        {
+            "description": "Horizontal actuating secured line",
+            "quantity": 6,
+            "unit_price": 64.98,
+            "total_price": 389.88
+        }
+    ],
+    "amount": 389.88
+}

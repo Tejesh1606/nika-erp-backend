@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Rogers LLC",
+    "invoice_number": "INV-32212",
+    "date": "2025-11-06",
+    "items": [
+        {
+            "description": "Profit-focused exuding challenge",
+            "quantity": 9,
+            "unit_price": 487.66,
+            "total_price": 4388.94
+        },
+        {
+            "description": "Self-enabling executive artificial intelligence",
+            "quantity": 10,
+            "unit_price": 496.12,
+            "total_price": 4961.2
+        },
+        {
+            "description": "Upgradable 5thgeneration productivity",
+            "quantity": 6,
+            "unit_price": 354.21,
+            "total_price": 2125.26
+        }
+    ],
+    "amount": 11475.4
+}

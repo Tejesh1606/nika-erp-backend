@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Duncan and Sons",
+    "invoice_number": "INV-97080",
+    "date": "2025-11-23",
+    "items": [
+        {
+            "description": "Configurable multi-tasking hierarchy",
+            "quantity": 6,
+            "unit_price": 123.01,
+            "total_price": 738.06
+        },
+        {
+            "description": "Cloned multi-tasking moratorium",
+            "quantity": 9,
+            "unit_price": 425.47,
+            "total_price": 3829.23
+        },
+        {
+            "description": "Profit-focused zero tolerance middleware",
+            "quantity": 6,
+            "unit_price": 252.86,
+            "total_price": 1517.16
+        }
+    ],
+    "amount": 6084.45
+}

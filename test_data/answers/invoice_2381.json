@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Davies-Moreno",
+    "invoice_number": "INV-45593",
+    "date": "2025-06-07",
+    "items": [
+        {
+            "description": "Realigned multimedia synergy",
+            "quantity": 1,
+            "unit_price": 268.3,
+            "total_price": 268.3
+        },
+        {
+            "description": "Vision-oriented even-keeled protocol",
+            "quantity": 4,
+            "unit_price": 283.0,
+            "total_price": 1132.0
+        },
+        {
+            "description": "Fully-configurable actuating standardization",
+            "quantity": 1,
+            "unit_price": 82.39,
+            "total_price": 82.39
+        },
+        {
+            "description": "Digitized zero tolerance solution",
+            "quantity": 4,
+            "unit_price": 403.93,
+            "total_price": 1615.72
+        }
+    ],
+    "amount": 3098.41
+}

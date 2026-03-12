@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Quinn LLC",
+    "invoice_number": "INV-91016",
+    "date": "2025-08-30",
+    "items": [
+        {
+            "description": "Visionary global website",
+            "quantity": 3,
+            "unit_price": 271.29,
+            "total_price": 813.87
+        },
+        {
+            "description": "Extended reciprocal database",
+            "quantity": 4,
+            "unit_price": 283.38,
+            "total_price": 1133.52
+        },
+        {
+            "description": "Balanced discrete project",
+            "quantity": 2,
+            "unit_price": 74.84,
+            "total_price": 149.68
+        },
+        {
+            "description": "Object-based asynchronous pricing structure",
+            "quantity": 6,
+            "unit_price": 186.03,
+            "total_price": 1116.18
+        }
+    ],
+    "amount": 3213.25
+}

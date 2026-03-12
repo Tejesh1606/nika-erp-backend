@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mcdowell Ltd",
+    "invoice_number": "INV-22813",
+    "date": "2025-10-21",
+    "items": [
+        {
+            "description": "Synergized fault-tolerant adapter",
+            "quantity": 8,
+            "unit_price": 412.47,
+            "total_price": 3299.76
+        },
+        {
+            "description": "Devolved exuding Local Area Network",
+            "quantity": 3,
+            "unit_price": 454.52,
+            "total_price": 1363.56
+        }
+    ],
+    "amount": 4663.32
+}

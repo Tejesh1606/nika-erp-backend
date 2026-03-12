@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Boyd Group",
+    "invoice_number": "INV-43408",
+    "date": "2025-06-16",
+    "items": [
+        {
+            "description": "Cloned tertiary software",
+            "quantity": 7,
+            "unit_price": 318.25,
+            "total_price": 2227.75
+        },
+        {
+            "description": "Open-source asynchronous alliance",
+            "quantity": 10,
+            "unit_price": 59.16,
+            "total_price": 591.6
+        },
+        {
+            "description": "Customer-focused regional standardization",
+            "quantity": 7,
+            "unit_price": 293.02,
+            "total_price": 2051.14
+        },
+        {
+            "description": "Persistent fresh-thinking productivity",
+            "quantity": 8,
+            "unit_price": 114.48,
+            "total_price": 915.84
+        }
+    ],
+    "amount": 5786.33
+}

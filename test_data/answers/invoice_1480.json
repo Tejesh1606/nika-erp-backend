@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Potter-Vasquez",
+    "invoice_number": "INV-81448",
+    "date": "2025-04-02",
+    "items": [
+        {
+            "description": "Progressive intangible project",
+            "quantity": 1,
+            "unit_price": 445.5,
+            "total_price": 445.5
+        }
+    ],
+    "amount": 445.5
+}

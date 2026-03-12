@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Rush Ltd",
+    "invoice_number": "INV-92389",
+    "date": "2025-07-16",
+    "items": [
+        {
+            "description": "Stand-alone composite migration",
+            "quantity": 10,
+            "unit_price": 420.22,
+            "total_price": 4202.2
+        },
+        {
+            "description": "Programmable 4thgeneration Graphical User Interface",
+            "quantity": 8,
+            "unit_price": 147.85,
+            "total_price": 1182.8
+        }
+    ],
+    "amount": 5385.0
+}

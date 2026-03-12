@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hunter, Houston and Johnson",
+    "invoice_number": "INV-46075",
+    "date": "2025-05-14",
+    "items": [
+        {
+            "description": "Re-engineered web-enabled adapter",
+            "quantity": 9,
+            "unit_price": 189.09,
+            "total_price": 1701.81
+        },
+        {
+            "description": "Open-architected stable project",
+            "quantity": 2,
+            "unit_price": 256.15,
+            "total_price": 512.3
+        },
+        {
+            "description": "Right-sized grid-enabled collaboration",
+            "quantity": 7,
+            "unit_price": 30.79,
+            "total_price": 215.53
+        }
+    ],
+    "amount": 2429.64
+}

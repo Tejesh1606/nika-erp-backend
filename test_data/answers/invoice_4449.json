@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Morse-Pope",
+    "invoice_number": "INV-25501",
+    "date": "2026-02-19",
+    "items": [
+        {
+            "description": "Secured needs-based Graphic Interface",
+            "quantity": 2,
+            "unit_price": 111.6,
+            "total_price": 223.2
+        },
+        {
+            "description": "Pre-emptive full-range framework",
+            "quantity": 7,
+            "unit_price": 439.77,
+            "total_price": 3078.39
+        },
+        {
+            "description": "Polarized demand-driven moratorium",
+            "quantity": 4,
+            "unit_price": 112.02,
+            "total_price": 448.08
+        }
+    ],
+    "amount": 3749.67
+}

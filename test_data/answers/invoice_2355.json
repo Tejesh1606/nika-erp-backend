@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hudson-Bright",
+    "invoice_number": "INV-31693",
+    "date": "2025-07-26",
+    "items": [
+        {
+            "description": "Implemented zero administration monitoring",
+            "quantity": 4,
+            "unit_price": 180.65,
+            "total_price": 722.6
+        },
+        {
+            "description": "Multi-layered value-added definition",
+            "quantity": 2,
+            "unit_price": 288.82,
+            "total_price": 577.64
+        },
+        {
+            "description": "Multi-tiered well-modulated challenge",
+            "quantity": 9,
+            "unit_price": 473.29,
+            "total_price": 4259.61
+        }
+    ],
+    "amount": 5559.85
+}

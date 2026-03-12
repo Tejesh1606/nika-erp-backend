@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Garza Ltd",
+    "invoice_number": "INV-22920",
+    "date": "2025-10-18",
+    "items": [
+        {
+            "description": "Cross-platform bottom-line task-force",
+            "quantity": 8,
+            "unit_price": 369.03,
+            "total_price": 2952.24
+        },
+        {
+            "description": "Front-line high-level paradigm",
+            "quantity": 7,
+            "unit_price": 157.98,
+            "total_price": 1105.86
+        }
+    ],
+    "amount": 4058.1
+}

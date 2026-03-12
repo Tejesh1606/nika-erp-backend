@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mitchell Group",
+    "invoice_number": "INV-30430",
+    "date": "2025-06-18",
+    "items": [
+        {
+            "description": "Right-sized system-worthy application",
+            "quantity": 9,
+            "unit_price": 213.4,
+            "total_price": 1920.6
+        },
+        {
+            "description": "Ergonomic client-driven capacity",
+            "quantity": 9,
+            "unit_price": 439.35,
+            "total_price": 3954.15
+        }
+    ],
+    "amount": 5874.75
+}

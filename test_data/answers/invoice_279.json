@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Harper-Carr",
+    "invoice_number": "INV-86939",
+    "date": "2025-04-22",
+    "items": [
+        {
+            "description": "Monitored heuristic knowledgebase",
+            "quantity": 9,
+            "unit_price": 390.02,
+            "total_price": 3510.18
+        },
+        {
+            "description": "Secured context-sensitive service-desk",
+            "quantity": 10,
+            "unit_price": 100.89,
+            "total_price": 1008.9
+        }
+    ],
+    "amount": 4519.08
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Quinn LLC",
+    "invoice_number": "INV-25865",
+    "date": "2025-06-25",
+    "items": [
+        {
+            "description": "Inverse grid-enabled utilization",
+            "quantity": 10,
+            "unit_price": 138.58,
+            "total_price": 1385.8
+        },
+        {
+            "description": "Operative fault-tolerant knowledge user",
+            "quantity": 10,
+            "unit_price": 206.59,
+            "total_price": 2065.9
+        },
+        {
+            "description": "Ergonomic asymmetric projection",
+            "quantity": 9,
+            "unit_price": 292.0,
+            "total_price": 2628.0
+        },
+        {
+            "description": "Cross-platform zero-defect infrastructure",
+            "quantity": 2,
+            "unit_price": 495.68,
+            "total_price": 991.36
+        }
+    ],
+    "amount": 7071.06
+}

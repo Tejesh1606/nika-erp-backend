@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cox, Washington and Walker",
+    "invoice_number": "INV-65420",
+    "date": "2026-01-24",
+    "items": [
+        {
+            "description": "Persistent even-keeled toolset",
+            "quantity": 1,
+            "unit_price": 33.78,
+            "total_price": 33.78
+        }
+    ],
+    "amount": 33.78
+}

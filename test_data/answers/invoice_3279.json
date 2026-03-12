@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Martin-Wang",
+    "invoice_number": "INV-19290",
+    "date": "2025-07-10",
+    "items": [
+        {
+            "description": "Multi-tiered high-level portal",
+            "quantity": 9,
+            "unit_price": 344.03,
+            "total_price": 3096.27
+        },
+        {
+            "description": "Optional stable process improvement",
+            "quantity": 10,
+            "unit_price": 171.69,
+            "total_price": 1716.9
+        }
+    ],
+    "amount": 4813.17
+}

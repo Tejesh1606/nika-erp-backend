@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mendez, Roberts and Smith",
+    "invoice_number": "INV-61926",
+    "date": "2025-10-23",
+    "items": [
+        {
+            "description": "Distributed local extranet",
+            "quantity": 5,
+            "unit_price": 442.37,
+            "total_price": 2211.85
+        },
+        {
+            "description": "Multi-layered 4thgeneration hierarchy",
+            "quantity": 1,
+            "unit_price": 219.89,
+            "total_price": 219.89
+        },
+        {
+            "description": "Up-sized tangible installation",
+            "quantity": 3,
+            "unit_price": 365.87,
+            "total_price": 1097.61
+        }
+    ],
+    "amount": 3529.35
+}

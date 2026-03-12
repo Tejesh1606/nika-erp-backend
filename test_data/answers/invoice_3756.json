@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith PLC",
+    "invoice_number": "INV-10110",
+    "date": "2026-02-11",
+    "items": [
+        {
+            "description": "Managed mobile workforce",
+            "quantity": 2,
+            "unit_price": 368.34,
+            "total_price": 736.68
+        }
+    ],
+    "amount": 736.68
+}

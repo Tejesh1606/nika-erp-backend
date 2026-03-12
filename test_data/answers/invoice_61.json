@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wilson, Weiss and Oconnell",
+    "invoice_number": "INV-24168",
+    "date": "2025-10-19",
+    "items": [
+        {
+            "description": "Assimilated fault-tolerant orchestration",
+            "quantity": 2,
+            "unit_price": 139.14,
+            "total_price": 278.28
+        }
+    ],
+    "amount": 278.28
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wright, Cole and Oliver",
+    "invoice_number": "INV-53153",
+    "date": "2025-06-08",
+    "items": [
+        {
+            "description": "Open-architected stable framework",
+            "quantity": 1,
+            "unit_price": 142.15,
+            "total_price": 142.15
+        },
+        {
+            "description": "Self-enabling composite contingency",
+            "quantity": 3,
+            "unit_price": 414.86,
+            "total_price": 1244.58
+        },
+        {
+            "description": "Synergized actuating paradigm",
+            "quantity": 7,
+            "unit_price": 404.09,
+            "total_price": 2828.63
+        },
+        {
+            "description": "Fundamental leadingedge alliance",
+            "quantity": 5,
+            "unit_price": 297.09,
+            "total_price": 1485.45
+        }
+    ],
+    "amount": 5700.81
+}

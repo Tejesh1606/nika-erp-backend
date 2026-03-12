@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Garcia LLC",
+    "invoice_number": "INV-42256",
+    "date": "2025-08-08",
+    "items": [
+        {
+            "description": "Synergistic reciprocal analyzer",
+            "quantity": 3,
+            "unit_price": 149.65,
+            "total_price": 448.95
+        },
+        {
+            "description": "Switchable client-driven migration",
+            "quantity": 7,
+            "unit_price": 241.75,
+            "total_price": 1692.25
+        },
+        {
+            "description": "Front-line methodical matrix",
+            "quantity": 8,
+            "unit_price": 283.39,
+            "total_price": 2267.12
+        }
+    ],
+    "amount": 4408.32
+}

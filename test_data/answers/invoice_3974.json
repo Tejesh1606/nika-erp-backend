@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Blankenship Ltd",
+    "invoice_number": "INV-19677",
+    "date": "2025-07-14",
+    "items": [
+        {
+            "description": "Decentralized even-keeled parallelism",
+            "quantity": 7,
+            "unit_price": 30.23,
+            "total_price": 211.61
+        },
+        {
+            "description": "Persistent leadingedge methodology",
+            "quantity": 10,
+            "unit_price": 313.21,
+            "total_price": 3132.1
+        },
+        {
+            "description": "Open-source encompassing orchestration",
+            "quantity": 9,
+            "unit_price": 201.8,
+            "total_price": 1816.2
+        },
+        {
+            "description": "Cross-group dynamic initiative",
+            "quantity": 5,
+            "unit_price": 386.54,
+            "total_price": 1932.7
+        }
+    ],
+    "amount": 7092.61
+}

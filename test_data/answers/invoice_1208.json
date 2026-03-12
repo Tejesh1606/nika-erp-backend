@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Stevens-Garcia",
+    "invoice_number": "INV-95989",
+    "date": "2025-10-18",
+    "items": [
+        {
+            "description": "Phased homogeneous frame",
+            "quantity": 6,
+            "unit_price": 465.82,
+            "total_price": 2794.92
+        },
+        {
+            "description": "Optimized background definition",
+            "quantity": 6,
+            "unit_price": 319.17,
+            "total_price": 1915.02
+        }
+    ],
+    "amount": 4709.94
+}

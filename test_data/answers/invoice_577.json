@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gutierrez-Crawford",
+    "invoice_number": "INV-41148",
+    "date": "2025-07-31",
+    "items": [
+        {
+            "description": "Organized exuding data-warehouse",
+            "quantity": 10,
+            "unit_price": 257.87,
+            "total_price": 2578.7
+        }
+    ],
+    "amount": 2578.7
+}

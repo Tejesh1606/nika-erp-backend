@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Nunez and Sons",
+    "invoice_number": "INV-35982",
+    "date": "2026-01-08",
+    "items": [
+        {
+            "description": "Open-source bifurcated access",
+            "quantity": 2,
+            "unit_price": 159.39,
+            "total_price": 318.78
+        },
+        {
+            "description": "Stand-alone regional firmware",
+            "quantity": 9,
+            "unit_price": 104.88,
+            "total_price": 943.92
+        },
+        {
+            "description": "Horizontal transitional array",
+            "quantity": 8,
+            "unit_price": 436.61,
+            "total_price": 3492.88
+        },
+        {
+            "description": "Optional exuding challenge",
+            "quantity": 10,
+            "unit_price": 309.28,
+            "total_price": 3092.8
+        }
+    ],
+    "amount": 7848.38
+}

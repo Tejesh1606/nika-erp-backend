@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bailey, Cannon and Morton",
+    "invoice_number": "INV-96575",
+    "date": "2025-12-05",
+    "items": [
+        {
+            "description": "Programmable fresh-thinking alliance",
+            "quantity": 2,
+            "unit_price": 391.5,
+            "total_price": 783.0
+        },
+        {
+            "description": "Advanced maximized challenge",
+            "quantity": 2,
+            "unit_price": 196.55,
+            "total_price": 393.1
+        }
+    ],
+    "amount": 1176.1
+}

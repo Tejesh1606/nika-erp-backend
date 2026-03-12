@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Bell PLC",
+    "invoice_number": "INV-97030",
+    "date": "2025-11-01",
+    "items": [
+        {
+            "description": "Open-architected directional software",
+            "quantity": 4,
+            "unit_price": 46.68,
+            "total_price": 186.72
+        },
+        {
+            "description": "Enterprise-wide asymmetric Local Area Network",
+            "quantity": 4,
+            "unit_price": 495.37,
+            "total_price": 1981.48
+        },
+        {
+            "description": "Implemented didactic toolset",
+            "quantity": 1,
+            "unit_price": 149.17,
+            "total_price": 149.17
+        },
+        {
+            "description": "Upgradable high-level intranet",
+            "quantity": 6,
+            "unit_price": 416.34,
+            "total_price": 2498.04
+        }
+    ],
+    "amount": 4815.41
+}

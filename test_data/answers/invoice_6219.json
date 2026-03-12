@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Thomas, Reid and Grant",
+    "invoice_number": "INV-61661",
+    "date": "2025-04-09",
+    "items": [
+        {
+            "description": "Focused logistical projection",
+            "quantity": 9,
+            "unit_price": 348.36,
+            "total_price": 3135.24
+        },
+        {
+            "description": "Configurable optimal Graphic Interface",
+            "quantity": 7,
+            "unit_price": 318.93,
+            "total_price": 2232.51
+        },
+        {
+            "description": "Synergized multimedia monitoring",
+            "quantity": 3,
+            "unit_price": 273.26,
+            "total_price": 819.78
+        },
+        {
+            "description": "Visionary 4thgeneration matrix",
+            "quantity": 6,
+            "unit_price": 43.79,
+            "total_price": 262.74
+        }
+    ],
+    "amount": 6450.27
+}

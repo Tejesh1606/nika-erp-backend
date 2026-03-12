@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Oneal, Burgess and Olson",
+    "invoice_number": "INV-59841",
+    "date": "2025-04-07",
+    "items": [
+        {
+            "description": "Seamless tangible installation",
+            "quantity": 4,
+            "unit_price": 342.55,
+            "total_price": 1370.2
+        }
+    ],
+    "amount": 1370.2
+}

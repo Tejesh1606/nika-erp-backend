@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Pearson, Johnson and Eaton",
+    "invoice_number": "INV-88440",
+    "date": "2025-04-11",
+    "items": [
+        {
+            "description": "Decentralized multi-tasking implementation",
+            "quantity": 9,
+            "unit_price": 334.48,
+            "total_price": 3010.32
+        }
+    ],
+    "amount": 3010.32
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hood Ltd",
+    "invoice_number": "INV-66299",
+    "date": "2025-03-17",
+    "items": [
+        {
+            "description": "Horizontal clear-thinking architecture",
+            "quantity": 3,
+            "unit_price": 174.6,
+            "total_price": 523.8
+        }
+    ],
+    "amount": 523.8
+}

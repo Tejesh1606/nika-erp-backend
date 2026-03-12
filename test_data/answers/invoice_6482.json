@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Petty Ltd",
+    "invoice_number": "INV-77796",
+    "date": "2025-03-13",
+    "items": [
+        {
+            "description": "Cross-group global throughput",
+            "quantity": 3,
+            "unit_price": 232.9,
+            "total_price": 698.7
+        }
+    ],
+    "amount": 698.7
+}

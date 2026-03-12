@@ -1,0 +1,14 @@
+{
+    "vendor_name": "French, Villarreal and Lee",
+    "invoice_number": "INV-18491",
+    "date": "2025-04-30",
+    "items": [
+        {
+            "description": "Operative 3rdgeneration hub",
+            "quantity": 5,
+            "unit_price": 63.96,
+            "total_price": 319.8
+        }
+    ],
+    "amount": 319.8
+}

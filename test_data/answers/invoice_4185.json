@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Price-Rivera",
+    "invoice_number": "INV-38738",
+    "date": "2025-06-07",
+    "items": [
+        {
+            "description": "Innovative leadingedge intranet",
+            "quantity": 5,
+            "unit_price": 308.59,
+            "total_price": 1542.95
+        },
+        {
+            "description": "Grass-roots value-added orchestration",
+            "quantity": 1,
+            "unit_price": 458.85,
+            "total_price": 458.85
+        }
+    ],
+    "amount": 2001.8
+}

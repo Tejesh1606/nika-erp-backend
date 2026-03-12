@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Miller, Parks and Snow",
+    "invoice_number": "INV-69121",
+    "date": "2026-01-16",
+    "items": [
+        {
+            "description": "Extended high-level firmware",
+            "quantity": 5,
+            "unit_price": 405.94,
+            "total_price": 2029.7
+        },
+        {
+            "description": "Implemented clear-thinking help-desk",
+            "quantity": 7,
+            "unit_price": 21.85,
+            "total_price": 152.95
+        }
+    ],
+    "amount": 2182.65
+}

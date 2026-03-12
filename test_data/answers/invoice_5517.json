@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cruz PLC",
+    "invoice_number": "INV-41839",
+    "date": "2025-12-21",
+    "items": [
+        {
+            "description": "Implemented empowering collaboration",
+            "quantity": 5,
+            "unit_price": 348.83,
+            "total_price": 1744.15
+        }
+    ],
+    "amount": 1744.15
+}

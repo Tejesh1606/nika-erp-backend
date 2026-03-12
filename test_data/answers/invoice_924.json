@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wagner, Anderson and Robles",
+    "invoice_number": "INV-49498",
+    "date": "2026-01-26",
+    "items": [
+        {
+            "description": "Synergistic neutral Local Area Network",
+            "quantity": 7,
+            "unit_price": 143.01,
+            "total_price": 1001.07
+        },
+        {
+            "description": "Down-sized local budgetary management",
+            "quantity": 7,
+            "unit_price": 363.8,
+            "total_price": 2546.6
+        },
+        {
+            "description": "Polarized stable moratorium",
+            "quantity": 3,
+            "unit_price": 19.52,
+            "total_price": 58.56
+        },
+        {
+            "description": "Front-line dynamic data-warehouse",
+            "quantity": 8,
+            "unit_price": 136.6,
+            "total_price": 1092.8
+        }
+    ],
+    "amount": 4699.03
+}

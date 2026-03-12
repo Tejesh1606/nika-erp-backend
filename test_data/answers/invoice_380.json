@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Warren, Hamilton and Mcdaniel",
+    "invoice_number": "INV-27536",
+    "date": "2025-07-20",
+    "items": [
+        {
+            "description": "Pre-emptive heuristic system engine",
+            "quantity": 5,
+            "unit_price": 491.41,
+            "total_price": 2457.05
+        },
+        {
+            "description": "Ergonomic composite workforce",
+            "quantity": 9,
+            "unit_price": 384.09,
+            "total_price": 3456.81
+        },
+        {
+            "description": "Open-architected 3rdgeneration emulation",
+            "quantity": 3,
+            "unit_price": 321.76,
+            "total_price": 965.28
+        }
+    ],
+    "amount": 6879.14
+}

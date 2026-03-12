@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Sawyer-Spencer",
+    "invoice_number": "INV-23446",
+    "date": "2025-12-10",
+    "items": [
+        {
+            "description": "Programmable bottom-line forecast",
+            "quantity": 4,
+            "unit_price": 285.25,
+            "total_price": 1141.0
+        },
+        {
+            "description": "Configurable well-modulated complexity",
+            "quantity": 9,
+            "unit_price": 397.45,
+            "total_price": 3577.05
+        }
+    ],
+    "amount": 4718.05
+}

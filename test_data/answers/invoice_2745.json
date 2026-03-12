@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hoffman, Sandoval and Banks",
+    "invoice_number": "INV-49422",
+    "date": "2025-06-11",
+    "items": [
+        {
+            "description": "Upgradable intermediate policy",
+            "quantity": 4,
+            "unit_price": 124.9,
+            "total_price": 499.6
+        },
+        {
+            "description": "Team-oriented global monitoring",
+            "quantity": 2,
+            "unit_price": 452.07,
+            "total_price": 904.14
+        },
+        {
+            "description": "Automated heuristic algorithm",
+            "quantity": 2,
+            "unit_price": 315.75,
+            "total_price": 631.5
+        }
+    ],
+    "amount": 2035.24
+}

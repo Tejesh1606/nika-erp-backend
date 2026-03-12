@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Benson-Rivera",
+    "invoice_number": "INV-28549",
+    "date": "2025-12-28",
+    "items": [
+        {
+            "description": "Re-engineered fault-tolerant collaboration",
+            "quantity": 7,
+            "unit_price": 54.54,
+            "total_price": 381.78
+        },
+        {
+            "description": "Ameliorated content-based productivity",
+            "quantity": 3,
+            "unit_price": 207.06,
+            "total_price": 621.18
+        }
+    ],
+    "amount": 1002.96
+}

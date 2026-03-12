@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ellis, Lewis and Johnson",
+    "invoice_number": "INV-23705",
+    "date": "2025-06-19",
+    "items": [
+        {
+            "description": "Multi-channeled well-modulated info-mediaries",
+            "quantity": 2,
+            "unit_price": 321.18,
+            "total_price": 642.36
+        }
+    ],
+    "amount": 642.36
+}

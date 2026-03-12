@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Patel and Sons",
+    "invoice_number": "INV-14348",
+    "date": "2026-01-30",
+    "items": [
+        {
+            "description": "Function-based actuating analyzer",
+            "quantity": 5,
+            "unit_price": 298.75,
+            "total_price": 1493.75
+        },
+        {
+            "description": "Secured disintermediate protocol",
+            "quantity": 5,
+            "unit_price": 324.9,
+            "total_price": 1624.5
+        },
+        {
+            "description": "Upgradable uniform model",
+            "quantity": 3,
+            "unit_price": 448.34,
+            "total_price": 1345.02
+        },
+        {
+            "description": "Advanced needs-based superstructure",
+            "quantity": 8,
+            "unit_price": 117.03,
+            "total_price": 936.24
+        }
+    ],
+    "amount": 5399.51
+}

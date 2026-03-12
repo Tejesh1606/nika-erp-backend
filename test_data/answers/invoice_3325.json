@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mcdaniel-Vaughn",
+    "invoice_number": "INV-95410",
+    "date": "2026-02-04",
+    "items": [
+        {
+            "description": "Upgradable zero administration intranet",
+            "quantity": 3,
+            "unit_price": 495.84,
+            "total_price": 1487.52
+        }
+    ],
+    "amount": 1487.52
+}

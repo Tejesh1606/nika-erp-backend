@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lewis, Levy and Melendez",
+    "invoice_number": "INV-21331",
+    "date": "2025-07-31",
+    "items": [
+        {
+            "description": "Cross-group multi-tasking website",
+            "quantity": 2,
+            "unit_price": 273.23,
+            "total_price": 546.46
+        },
+        {
+            "description": "Virtual background Local Area Network",
+            "quantity": 8,
+            "unit_price": 156.88,
+            "total_price": 1255.04
+        },
+        {
+            "description": "Quality-focused motivating collaboration",
+            "quantity": 4,
+            "unit_price": 153.54,
+            "total_price": 614.16
+        }
+    ],
+    "amount": 2415.66
+}

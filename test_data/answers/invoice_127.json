@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ross-Blair",
+    "invoice_number": "INV-50966",
+    "date": "2025-08-21",
+    "items": [
+        {
+            "description": "Intuitive static extranet",
+            "quantity": 9,
+            "unit_price": 245.82,
+            "total_price": 2212.38
+        },
+        {
+            "description": "Multi-layered coherent software",
+            "quantity": 9,
+            "unit_price": 232.1,
+            "total_price": 2088.9
+        }
+    ],
+    "amount": 4301.28
+}

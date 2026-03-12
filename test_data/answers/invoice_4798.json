@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Green, Padilla and Ford",
+    "invoice_number": "INV-28906",
+    "date": "2025-04-14",
+    "items": [
+        {
+            "description": "Public-key mobile synergy",
+            "quantity": 10,
+            "unit_price": 149.74,
+            "total_price": 1497.4
+        }
+    ],
+    "amount": 1497.4
+}

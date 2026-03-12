@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Anderson-Reed",
+    "invoice_number": "INV-44286",
+    "date": "2025-10-09",
+    "items": [
+        {
+            "description": "Ergonomic mobile forecast",
+            "quantity": 4,
+            "unit_price": 131.61,
+            "total_price": 526.44
+        }
+    ],
+    "amount": 526.44
+}

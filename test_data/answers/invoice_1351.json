@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gonzalez, Robinson and Anderson",
+    "invoice_number": "INV-28690",
+    "date": "2025-06-04",
+    "items": [
+        {
+            "description": "Switchable attitude-oriented synergy",
+            "quantity": 8,
+            "unit_price": 133.23,
+            "total_price": 1065.84
+        },
+        {
+            "description": "Cross-platform transitional initiative",
+            "quantity": 3,
+            "unit_price": 29.44,
+            "total_price": 88.32
+        },
+        {
+            "description": "Horizontal reciprocal benchmark",
+            "quantity": 1,
+            "unit_price": 193.38,
+            "total_price": 193.38
+        },
+        {
+            "description": "Fully-configurable directional extranet",
+            "quantity": 9,
+            "unit_price": 443.03,
+            "total_price": 3987.27
+        }
+    ],
+    "amount": 5334.81
+}

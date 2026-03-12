@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gilmore-Lucas",
+    "invoice_number": "INV-21880",
+    "date": "2026-02-02",
+    "items": [
+        {
+            "description": "Down-sized cohesive encryption",
+            "quantity": 7,
+            "unit_price": 12.01,
+            "total_price": 84.07
+        },
+        {
+            "description": "Grass-roots background forecast",
+            "quantity": 8,
+            "unit_price": 197.45,
+            "total_price": 1579.6
+        },
+        {
+            "description": "Re-contextualized object-oriented conglomeration",
+            "quantity": 4,
+            "unit_price": 364.69,
+            "total_price": 1458.76
+        },
+        {
+            "description": "Right-sized 24/7 toolset",
+            "quantity": 7,
+            "unit_price": 392.38,
+            "total_price": 2746.66
+        }
+    ],
+    "amount": 5869.09
+}

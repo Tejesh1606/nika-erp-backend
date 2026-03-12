@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Roth Group",
+    "invoice_number": "INV-25760",
+    "date": "2025-10-07",
+    "items": [
+        {
+            "description": "Devolved contextually-based support",
+            "quantity": 9,
+            "unit_price": 277.69,
+            "total_price": 2499.21
+        },
+        {
+            "description": "Enterprise-wide intangible installation",
+            "quantity": 1,
+            "unit_price": 68.87,
+            "total_price": 68.87
+        }
+    ],
+    "amount": 2568.08
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Brown, Kelly and Moore",
+    "invoice_number": "INV-80300",
+    "date": "2026-01-10",
+    "items": [
+        {
+            "description": "Customer-focused clear-thinking matrix",
+            "quantity": 10,
+            "unit_price": 494.02,
+            "total_price": 4940.2
+        }
+    ],
+    "amount": 4940.2
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Howe Ltd",
+    "invoice_number": "INV-81068",
+    "date": "2025-09-21",
+    "items": [
+        {
+            "description": "Multi-lateral incremental synergy",
+            "quantity": 2,
+            "unit_price": 230.26,
+            "total_price": 460.52
+        }
+    ],
+    "amount": 460.52
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Stewart, Scott and Wilson",
+    "invoice_number": "INV-23019",
+    "date": "2025-10-05",
+    "items": [
+        {
+            "description": "Down-sized executive circuit",
+            "quantity": 7,
+            "unit_price": 203.76,
+            "total_price": 1426.32
+        },
+        {
+            "description": "Enterprise-wide eco-centric throughput",
+            "quantity": 7,
+            "unit_price": 267.68,
+            "total_price": 1873.76
+        },
+        {
+            "description": "Cross-group coherent function",
+            "quantity": 8,
+            "unit_price": 282.24,
+            "total_price": 2257.92
+        }
+    ],
+    "amount": 5558.0
+}

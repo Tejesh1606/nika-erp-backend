@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Park-Williams",
+    "invoice_number": "INV-31516",
+    "date": "2025-09-16",
+    "items": [
+        {
+            "description": "Devolved transitional synergy",
+            "quantity": 10,
+            "unit_price": 457.73,
+            "total_price": 4577.3
+        },
+        {
+            "description": "Up-sized incremental benchmark",
+            "quantity": 6,
+            "unit_price": 53.28,
+            "total_price": 319.68
+        },
+        {
+            "description": "Function-based reciprocal customer loyalty",
+            "quantity": 8,
+            "unit_price": 312.63,
+            "total_price": 2501.04
+        }
+    ],
+    "amount": 7398.02
+}

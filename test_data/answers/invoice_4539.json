@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Fields, Rice and Smith",
+    "invoice_number": "INV-68287",
+    "date": "2025-03-31",
+    "items": [
+        {
+            "description": "Inverse systematic budgetary management",
+            "quantity": 5,
+            "unit_price": 455.52,
+            "total_price": 2277.6
+        },
+        {
+            "description": "Quality-focused coherent hardware",
+            "quantity": 7,
+            "unit_price": 165.21,
+            "total_price": 1156.47
+        },
+        {
+            "description": "Cross-group secondary capability",
+            "quantity": 2,
+            "unit_price": 22.98,
+            "total_price": 45.96
+        }
+    ],
+    "amount": 3480.03
+}

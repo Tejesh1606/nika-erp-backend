@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ochoa-Villarreal",
+    "invoice_number": "INV-87908",
+    "date": "2025-04-30",
+    "items": [
+        {
+            "description": "Innovative fresh-thinking portal",
+            "quantity": 1,
+            "unit_price": 36.49,
+            "total_price": 36.49
+        },
+        {
+            "description": "Team-oriented dedicated matrices",
+            "quantity": 8,
+            "unit_price": 192.03,
+            "total_price": 1536.24
+        },
+        {
+            "description": "Intuitive context-sensitive infrastructure",
+            "quantity": 3,
+            "unit_price": 195.92,
+            "total_price": 587.76
+        }
+    ],
+    "amount": 2160.49
+}

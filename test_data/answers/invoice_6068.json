@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Houston, Owens and Smith",
+    "invoice_number": "INV-59792",
+    "date": "2025-06-14",
+    "items": [
+        {
+            "description": "Synergistic multi-state project",
+            "quantity": 7,
+            "unit_price": 126.56,
+            "total_price": 885.92
+        },
+        {
+            "description": "Proactive client-server structure",
+            "quantity": 2,
+            "unit_price": 429.32,
+            "total_price": 858.64
+        },
+        {
+            "description": "Front-line full-range task-force",
+            "quantity": 9,
+            "unit_price": 255.43,
+            "total_price": 2298.87
+        },
+        {
+            "description": "Progressive zero-defect time-frame",
+            "quantity": 4,
+            "unit_price": 493.92,
+            "total_price": 1975.68
+        }
+    ],
+    "amount": 6019.11
+}

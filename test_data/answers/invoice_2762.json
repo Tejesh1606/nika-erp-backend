@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Young, Munoz and Reynolds",
+    "invoice_number": "INV-12644",
+    "date": "2026-01-09",
+    "items": [
+        {
+            "description": "Front-line regional policy",
+            "quantity": 9,
+            "unit_price": 399.32,
+            "total_price": 3593.88
+        },
+        {
+            "description": "Mandatory asynchronous Internet solution",
+            "quantity": 4,
+            "unit_price": 152.27,
+            "total_price": 609.08
+        }
+    ],
+    "amount": 4202.96
+}

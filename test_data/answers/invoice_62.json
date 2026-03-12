@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Odonnell, Brooks and David",
+    "invoice_number": "INV-35995",
+    "date": "2025-04-07",
+    "items": [
+        {
+            "description": "Reverse-engineered system-worthy product",
+            "quantity": 7,
+            "unit_price": 220.25,
+            "total_price": 1541.75
+        }
+    ],
+    "amount": 1541.75
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wolf, Wu and Brennan",
+    "invoice_number": "INV-21144",
+    "date": "2025-10-22",
+    "items": [
+        {
+            "description": "Reverse-engineered 5thgeneration initiative",
+            "quantity": 3,
+            "unit_price": 357.5,
+            "total_price": 1072.5
+        }
+    ],
+    "amount": 1072.5
+}

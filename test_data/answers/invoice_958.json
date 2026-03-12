@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Graves-Grimes",
+    "invoice_number": "INV-82291",
+    "date": "2025-06-22",
+    "items": [
+        {
+            "description": "Robust bandwidth-monitored application",
+            "quantity": 1,
+            "unit_price": 10.87,
+            "total_price": 10.87
+        },
+        {
+            "description": "Down-sized foreground system engine",
+            "quantity": 8,
+            "unit_price": 459.91,
+            "total_price": 3679.28
+        },
+        {
+            "description": "Networked contextually-based hardware",
+            "quantity": 7,
+            "unit_price": 79.54,
+            "total_price": 556.78
+        }
+    ],
+    "amount": 4246.93
+}

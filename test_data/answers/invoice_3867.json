@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ball Group",
+    "invoice_number": "INV-16425",
+    "date": "2025-11-23",
+    "items": [
+        {
+            "description": "Object-based encompassing moratorium",
+            "quantity": 3,
+            "unit_price": 423.82,
+            "total_price": 1271.46
+        }
+    ],
+    "amount": 1271.46
+}

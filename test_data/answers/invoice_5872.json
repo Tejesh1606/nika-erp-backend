@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Frye, Cook and Galvan",
+    "invoice_number": "INV-49413",
+    "date": "2025-07-07",
+    "items": [
+        {
+            "description": "Re-engineered interactive concept",
+            "quantity": 7,
+            "unit_price": 371.97,
+            "total_price": 2603.79
+        },
+        {
+            "description": "Streamlined value-added hub",
+            "quantity": 9,
+            "unit_price": 126.29,
+            "total_price": 1136.61
+        },
+        {
+            "description": "Digitized bifurcated instruction set",
+            "quantity": 10,
+            "unit_price": 222.93,
+            "total_price": 2229.3
+        }
+    ],
+    "amount": 5969.7
+}

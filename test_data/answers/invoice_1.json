@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Rodriguez, Figueroa and Sanchez",
+    "invoice_number": "INV-28289",
+    "date": "2025-12-20",
+    "items": [
+        {
+            "description": "Customer-focused systematic support",
+            "quantity": 8,
+            "unit_price": 360.3,
+            "total_price": 2882.4
+        }
+    ],
+    "amount": 2882.4
+}

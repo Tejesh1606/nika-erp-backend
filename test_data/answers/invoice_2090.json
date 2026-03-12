@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Garza-Lucas",
+    "invoice_number": "INV-35212",
+    "date": "2026-02-24",
+    "items": [
+        {
+            "description": "Ergonomic user-facing support",
+            "quantity": 4,
+            "unit_price": 76.93,
+            "total_price": 307.72
+        },
+        {
+            "description": "Adaptive system-worthy moratorium",
+            "quantity": 8,
+            "unit_price": 477.03,
+            "total_price": 3816.24
+        },
+        {
+            "description": "Exclusive dedicated frame",
+            "quantity": 3,
+            "unit_price": 425.67,
+            "total_price": 1277.01
+        },
+        {
+            "description": "Implemented exuding intranet",
+            "quantity": 6,
+            "unit_price": 86.17,
+            "total_price": 517.02
+        }
+    ],
+    "amount": 5917.99
+}

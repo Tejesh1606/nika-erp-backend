@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Delacruz, Perry and Barnes",
+    "invoice_number": "INV-49988",
+    "date": "2025-10-31",
+    "items": [
+        {
+            "description": "Open-source didactic matrix",
+            "quantity": 3,
+            "unit_price": 411.74,
+            "total_price": 1235.22
+        }
+    ],
+    "amount": 1235.22
+}

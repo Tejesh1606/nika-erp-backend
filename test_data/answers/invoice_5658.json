@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hutchinson Group",
+    "invoice_number": "INV-53624",
+    "date": "2025-12-19",
+    "items": [
+        {
+            "description": "Adaptive client-server help-desk",
+            "quantity": 4,
+            "unit_price": 49.39,
+            "total_price": 197.56
+        },
+        {
+            "description": "Organized neutral matrix",
+            "quantity": 7,
+            "unit_price": 328.81,
+            "total_price": 2301.67
+        }
+    ],
+    "amount": 2499.23
+}

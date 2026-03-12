@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Alvarez, Pierce and Baker",
+    "invoice_number": "INV-89507",
+    "date": "2025-08-20",
+    "items": [
+        {
+            "description": "Extended needs-based system engine",
+            "quantity": 2,
+            "unit_price": 260.42,
+            "total_price": 520.84
+        },
+        {
+            "description": "Upgradable system-worthy customer loyalty",
+            "quantity": 7,
+            "unit_price": 87.52,
+            "total_price": 612.64
+        }
+    ],
+    "amount": 1133.48
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Baker, Williams and Jones",
+    "invoice_number": "INV-49833",
+    "date": "2025-04-08",
+    "items": [
+        {
+            "description": "Extended multi-state attitude",
+            "quantity": 5,
+            "unit_price": 238.77,
+            "total_price": 1193.85
+        }
+    ],
+    "amount": 1193.85
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Clark Ltd",
+    "invoice_number": "INV-48248",
+    "date": "2025-04-09",
+    "items": [
+        {
+            "description": "Phased bifurcated function",
+            "quantity": 6,
+            "unit_price": 191.04,
+            "total_price": 1146.24
+        }
+    ],
+    "amount": 1146.24
+}

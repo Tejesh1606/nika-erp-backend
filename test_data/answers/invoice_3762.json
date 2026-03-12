@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gordon Ltd",
+    "invoice_number": "INV-70087",
+    "date": "2025-08-25",
+    "items": [
+        {
+            "description": "Enterprise-wide attitude-oriented help-desk",
+            "quantity": 1,
+            "unit_price": 137.91,
+            "total_price": 137.91
+        },
+        {
+            "description": "Polarized tertiary matrix",
+            "quantity": 5,
+            "unit_price": 433.08,
+            "total_price": 2165.4
+        }
+    ],
+    "amount": 2303.31
+}

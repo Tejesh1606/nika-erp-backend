@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Snyder, Walker and Gonzalez",
+    "invoice_number": "INV-59469",
+    "date": "2025-05-24",
+    "items": [
+        {
+            "description": "Customizable empowering paradigm",
+            "quantity": 3,
+            "unit_price": 300.44,
+            "total_price": 901.32
+        }
+    ],
+    "amount": 901.32
+}

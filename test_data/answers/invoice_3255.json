@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Barnes-Hensley",
+    "invoice_number": "INV-23780",
+    "date": "2025-04-28",
+    "items": [
+        {
+            "description": "Self-enabling asynchronous database",
+            "quantity": 8,
+            "unit_price": 181.99,
+            "total_price": 1455.92
+        },
+        {
+            "description": "Quality-focused tangible access",
+            "quantity": 6,
+            "unit_price": 291.41,
+            "total_price": 1748.46
+        }
+    ],
+    "amount": 3204.38
+}

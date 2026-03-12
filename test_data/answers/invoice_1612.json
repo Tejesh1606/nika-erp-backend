@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Cohen Inc",
+    "invoice_number": "INV-53093",
+    "date": "2025-11-15",
+    "items": [
+        {
+            "description": "Fully-configurable mission-critical adapter",
+            "quantity": 1,
+            "unit_price": 408.42,
+            "total_price": 408.42
+        },
+        {
+            "description": "Cross-platform clear-thinking synergy",
+            "quantity": 10,
+            "unit_price": 154.07,
+            "total_price": 1540.7
+        },
+        {
+            "description": "Upgradable empowering concept",
+            "quantity": 5,
+            "unit_price": 302.11,
+            "total_price": 1510.55
+        },
+        {
+            "description": "Switchable explicit secured line",
+            "quantity": 5,
+            "unit_price": 407.92,
+            "total_price": 2039.6
+        }
+    ],
+    "amount": 5499.27
+}

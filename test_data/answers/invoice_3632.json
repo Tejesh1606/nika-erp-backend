@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brown, Murphy and Rojas",
+    "invoice_number": "INV-49848",
+    "date": "2025-10-25",
+    "items": [
+        {
+            "description": "Enhanced composite artificial intelligence",
+            "quantity": 7,
+            "unit_price": 467.59,
+            "total_price": 3273.13
+        },
+        {
+            "description": "Reduced bifurcated project",
+            "quantity": 10,
+            "unit_price": 434.21,
+            "total_price": 4342.1
+        },
+        {
+            "description": "Synergized bi-directional projection",
+            "quantity": 1,
+            "unit_price": 49.22,
+            "total_price": 49.22
+        }
+    ],
+    "amount": 7664.45
+}

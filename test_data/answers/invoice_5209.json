@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Tucker, Romero and Jones",
+    "invoice_number": "INV-29684",
+    "date": "2026-02-25",
+    "items": [
+        {
+            "description": "Versatile radical knowledgebase",
+            "quantity": 2,
+            "unit_price": 491.0,
+            "total_price": 982.0
+        }
+    ],
+    "amount": 982.0
+}

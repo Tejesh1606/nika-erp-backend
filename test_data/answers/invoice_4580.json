@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jackson, Stafford and Williams",
+    "invoice_number": "INV-98963",
+    "date": "2025-10-05",
+    "items": [
+        {
+            "description": "Diverse multi-state implementation",
+            "quantity": 3,
+            "unit_price": 251.4,
+            "total_price": 754.2
+        },
+        {
+            "description": "Enterprise-wide high-level support",
+            "quantity": 1,
+            "unit_price": 275.95,
+            "total_price": 275.95
+        },
+        {
+            "description": "Monitored multi-state intranet",
+            "quantity": 4,
+            "unit_price": 373.95,
+            "total_price": 1495.8
+        },
+        {
+            "description": "User-friendly contextually-based orchestration",
+            "quantity": 9,
+            "unit_price": 126.62,
+            "total_price": 1139.58
+        }
+    ],
+    "amount": 3665.53
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Rodriguez Group",
+    "invoice_number": "INV-53014",
+    "date": "2025-05-20",
+    "items": [
+        {
+            "description": "Multi-layered well-modulated service-desk",
+            "quantity": 1,
+            "unit_price": 256.42,
+            "total_price": 256.42
+        }
+    ],
+    "amount": 256.42
+}

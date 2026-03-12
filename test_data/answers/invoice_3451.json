@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Kramer, Harper and Velazquez",
+    "invoice_number": "INV-56206",
+    "date": "2025-12-08",
+    "items": [
+        {
+            "description": "Persistent fault-tolerant flexibility",
+            "quantity": 10,
+            "unit_price": 185.0,
+            "total_price": 1850.0
+        }
+    ],
+    "amount": 1850.0
+}

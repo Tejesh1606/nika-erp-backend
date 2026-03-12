@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Smith and Sons",
+    "invoice_number": "INV-61407",
+    "date": "2025-11-18",
+    "items": [
+        {
+            "description": "Multi-layered global knowledgebase",
+            "quantity": 3,
+            "unit_price": 483.25,
+            "total_price": 1449.75
+        },
+        {
+            "description": "Multi-tiered system-worthy framework",
+            "quantity": 2,
+            "unit_price": 469.15,
+            "total_price": 938.3
+        },
+        {
+            "description": "Persistent holistic instruction set",
+            "quantity": 4,
+            "unit_price": 136.41,
+            "total_price": 545.64
+        },
+        {
+            "description": "Stand-alone zero administration infrastructure",
+            "quantity": 2,
+            "unit_price": 390.97,
+            "total_price": 781.94
+        }
+    ],
+    "amount": 3715.63
+}

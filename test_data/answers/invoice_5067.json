@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Davis and Sons",
+    "invoice_number": "INV-26805",
+    "date": "2025-10-09",
+    "items": [
+        {
+            "description": "Integrated client-server firmware",
+            "quantity": 4,
+            "unit_price": 204.74,
+            "total_price": 818.96
+        },
+        {
+            "description": "Vision-oriented multi-tasking matrices",
+            "quantity": 8,
+            "unit_price": 27.74,
+            "total_price": 221.92
+        },
+        {
+            "description": "Stand-alone static concept",
+            "quantity": 10,
+            "unit_price": 184.87,
+            "total_price": 1848.7
+        }
+    ],
+    "amount": 2889.58
+}

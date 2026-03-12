@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cole Ltd",
+    "invoice_number": "INV-77811",
+    "date": "2025-07-20",
+    "items": [
+        {
+            "description": "De-engineered zero-defect neural-net",
+            "quantity": 7,
+            "unit_price": 288.93,
+            "total_price": 2022.51
+        },
+        {
+            "description": "Sharable optimizing contingency",
+            "quantity": 10,
+            "unit_price": 372.87,
+            "total_price": 3728.7
+        },
+        {
+            "description": "Visionary clear-thinking Internet solution",
+            "quantity": 1,
+            "unit_price": 196.29,
+            "total_price": 196.29
+        }
+    ],
+    "amount": 5947.5
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wilson-Robinson",
+    "invoice_number": "INV-60164",
+    "date": "2025-12-11",
+    "items": [
+        {
+            "description": "Streamlined explicit matrix",
+            "quantity": 2,
+            "unit_price": 276.87,
+            "total_price": 553.74
+        }
+    ],
+    "amount": 553.74
+}

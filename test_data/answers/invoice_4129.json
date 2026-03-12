@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lawson, Goodwin and Cooper",
+    "invoice_number": "INV-54461",
+    "date": "2025-11-10",
+    "items": [
+        {
+            "description": "Phased next generation synergy",
+            "quantity": 3,
+            "unit_price": 264.36,
+            "total_price": 793.08
+        },
+        {
+            "description": "Vision-oriented 5thgeneration complexity",
+            "quantity": 2,
+            "unit_price": 274.02,
+            "total_price": 548.04
+        },
+        {
+            "description": "Devolved multimedia adapter",
+            "quantity": 6,
+            "unit_price": 229.75,
+            "total_price": 1378.5
+        },
+        {
+            "description": "Cross-group logistical methodology",
+            "quantity": 6,
+            "unit_price": 233.92,
+            "total_price": 1403.52
+        }
+    ],
+    "amount": 4123.14
+}

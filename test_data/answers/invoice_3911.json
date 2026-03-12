@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Fox and Sons",
+    "invoice_number": "INV-46362",
+    "date": "2025-07-21",
+    "items": [
+        {
+            "description": "Reduced explicit approach",
+            "quantity": 7,
+            "unit_price": 167.67,
+            "total_price": 1173.69
+        }
+    ],
+    "amount": 1173.69
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Ochoa-Robinson",
+    "invoice_number": "INV-84584",
+    "date": "2025-11-03",
+    "items": [
+        {
+            "description": "Triple-buffered full-range encryption",
+            "quantity": 5,
+            "unit_price": 379.29,
+            "total_price": 1896.45
+        },
+        {
+            "description": "Cross-group fresh-thinking groupware",
+            "quantity": 8,
+            "unit_price": 451.48,
+            "total_price": 3611.84
+        },
+        {
+            "description": "Optional impactful function",
+            "quantity": 1,
+            "unit_price": 182.04,
+            "total_price": 182.04
+        },
+        {
+            "description": "Streamlined client-server customer loyalty",
+            "quantity": 3,
+            "unit_price": 95.25,
+            "total_price": 285.75
+        }
+    ],
+    "amount": 5976.08
+}

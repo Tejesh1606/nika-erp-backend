@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Davis-Coleman",
+    "invoice_number": "INV-46404",
+    "date": "2025-05-14",
+    "items": [
+        {
+            "description": "Multi-tiered attitude-oriented firmware",
+            "quantity": 1,
+            "unit_price": 429.63,
+            "total_price": 429.63
+        },
+        {
+            "description": "Visionary eco-centric knowledge user",
+            "quantity": 10,
+            "unit_price": 158.65,
+            "total_price": 1586.5
+        },
+        {
+            "description": "Cross-group intangible groupware",
+            "quantity": 5,
+            "unit_price": 153.22,
+            "total_price": 766.1
+        },
+        {
+            "description": "Automated empowering firmware",
+            "quantity": 1,
+            "unit_price": 366.3,
+            "total_price": 366.3
+        }
+    ],
+    "amount": 3148.53
+}

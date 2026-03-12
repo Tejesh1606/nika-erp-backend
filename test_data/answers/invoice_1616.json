@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Dixon-Olson",
+    "invoice_number": "INV-90526",
+    "date": "2025-06-25",
+    "items": [
+        {
+            "description": "Configurable heuristic toolset",
+            "quantity": 8,
+            "unit_price": 89.79,
+            "total_price": 718.32
+        }
+    ],
+    "amount": 718.32
+}

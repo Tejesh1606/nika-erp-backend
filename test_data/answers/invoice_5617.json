@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Beltran, Hawkins and Evans",
+    "invoice_number": "INV-84190",
+    "date": "2025-11-02",
+    "items": [
+        {
+            "description": "Self-enabling bottom-line parallelism",
+            "quantity": 5,
+            "unit_price": 494.73,
+            "total_price": 2473.65
+        },
+        {
+            "description": "Profit-focused tangible intranet",
+            "quantity": 2,
+            "unit_price": 350.02,
+            "total_price": 700.04
+        },
+        {
+            "description": "Digitized actuating conglomeration",
+            "quantity": 1,
+            "unit_price": 228.95,
+            "total_price": 228.95
+        }
+    ],
+    "amount": 3402.64
+}

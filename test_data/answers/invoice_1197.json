@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Larsen-Shields",
+    "invoice_number": "INV-88781",
+    "date": "2025-08-16",
+    "items": [
+        {
+            "description": "Synergized disintermediate algorithm",
+            "quantity": 8,
+            "unit_price": 16.45,
+            "total_price": 131.6
+        },
+        {
+            "description": "Implemented encompassing middleware",
+            "quantity": 7,
+            "unit_price": 155.15,
+            "total_price": 1086.05
+        },
+        {
+            "description": "Extended zero tolerance installation",
+            "quantity": 8,
+            "unit_price": 286.38,
+            "total_price": 2291.04
+        }
+    ],
+    "amount": 3508.69
+}

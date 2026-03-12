@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Miller LLC",
+    "invoice_number": "INV-23588",
+    "date": "2025-04-17",
+    "items": [
+        {
+            "description": "Switchable scalable archive",
+            "quantity": 1,
+            "unit_price": 228.62,
+            "total_price": 228.62
+        },
+        {
+            "description": "Front-line solution-oriented database",
+            "quantity": 8,
+            "unit_price": 494.99,
+            "total_price": 3959.92
+        }
+    ],
+    "amount": 4188.54
+}

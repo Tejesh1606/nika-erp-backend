@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Bartlett-Sloan",
+    "invoice_number": "INV-18783",
+    "date": "2025-04-11",
+    "items": [
+        {
+            "description": "Networked next generation infrastructure",
+            "quantity": 4,
+            "unit_price": 301.34,
+            "total_price": 1205.36
+        },
+        {
+            "description": "Reactive fresh-thinking focus group",
+            "quantity": 4,
+            "unit_price": 239.54,
+            "total_price": 958.16
+        },
+        {
+            "description": "Programmable logistical access",
+            "quantity": 8,
+            "unit_price": 393.52,
+            "total_price": 3148.16
+        },
+        {
+            "description": "Total regional parallelism",
+            "quantity": 3,
+            "unit_price": 337.19,
+            "total_price": 1011.57
+        }
+    ],
+    "amount": 6323.25
+}

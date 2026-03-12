@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Adams-Brown",
+    "invoice_number": "INV-22772",
+    "date": "2025-04-21",
+    "items": [
+        {
+            "description": "Enterprise-wide leadingedge concept",
+            "quantity": 3,
+            "unit_price": 365.59,
+            "total_price": 1096.77
+        },
+        {
+            "description": "Quality-focused demand-driven info-mediaries",
+            "quantity": 1,
+            "unit_price": 454.51,
+            "total_price": 454.51
+        },
+        {
+            "description": "Advanced dedicated ability",
+            "quantity": 4,
+            "unit_price": 48.34,
+            "total_price": 193.36
+        }
+    ],
+    "amount": 1744.64
+}

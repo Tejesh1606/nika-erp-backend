@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Robinson-Murray",
+    "invoice_number": "INV-34839",
+    "date": "2025-12-26",
+    "items": [
+        {
+            "description": "Vision-oriented 5thgeneration projection",
+            "quantity": 10,
+            "unit_price": 129.86,
+            "total_price": 1298.6
+        },
+        {
+            "description": "Organized composite complexity",
+            "quantity": 10,
+            "unit_price": 70.31,
+            "total_price": 703.1
+        }
+    ],
+    "amount": 2001.7
+}

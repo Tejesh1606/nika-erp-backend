@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Curtis, Black and Mendoza",
+    "invoice_number": "INV-15207",
+    "date": "2025-06-23",
+    "items": [
+        {
+            "description": "Enterprise-wide solution-oriented emulation",
+            "quantity": 10,
+            "unit_price": 98.42,
+            "total_price": 984.2
+        }
+    ],
+    "amount": 984.2
+}

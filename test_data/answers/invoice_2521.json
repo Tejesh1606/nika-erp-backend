@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Ramos-Singh",
+    "invoice_number": "INV-32388",
+    "date": "2026-01-29",
+    "items": [
+        {
+            "description": "Switchable didactic attitude",
+            "quantity": 4,
+            "unit_price": 308.36,
+            "total_price": 1233.44
+        },
+        {
+            "description": "Inverse full-range Graphical User Interface",
+            "quantity": 8,
+            "unit_price": 108.55,
+            "total_price": 868.4
+        },
+        {
+            "description": "Self-enabling 6thgeneration software",
+            "quantity": 1,
+            "unit_price": 431.17,
+            "total_price": 431.17
+        },
+        {
+            "description": "Visionary foreground intranet",
+            "quantity": 5,
+            "unit_price": 174.31,
+            "total_price": 871.55
+        }
+    ],
+    "amount": 3404.56
+}

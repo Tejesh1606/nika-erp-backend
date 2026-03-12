@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Khan PLC",
+    "invoice_number": "INV-38023",
+    "date": "2025-11-13",
+    "items": [
+        {
+            "description": "Customizable heuristic task-force",
+            "quantity": 3,
+            "unit_price": 28.25,
+            "total_price": 84.75
+        },
+        {
+            "description": "Open-architected composite project",
+            "quantity": 8,
+            "unit_price": 385.43,
+            "total_price": 3083.44
+        }
+    ],
+    "amount": 3168.19
+}

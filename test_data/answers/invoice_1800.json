@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith LLC",
+    "invoice_number": "INV-40970",
+    "date": "2026-03-02",
+    "items": [
+        {
+            "description": "Networked secondary artificial intelligence",
+            "quantity": 6,
+            "unit_price": 123.16,
+            "total_price": 738.96
+        },
+        {
+            "description": "Re-engineered object-oriented Graphic Interface",
+            "quantity": 8,
+            "unit_price": 53.77,
+            "total_price": 430.16
+        },
+        {
+            "description": "Customizable logistical architecture",
+            "quantity": 4,
+            "unit_price": 256.84,
+            "total_price": 1027.36
+        }
+    ],
+    "amount": 2196.48
+}

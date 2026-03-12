@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Owens Inc",
+    "invoice_number": "INV-10379",
+    "date": "2025-10-19",
+    "items": [
+        {
+            "description": "Quality-focused executive capability",
+            "quantity": 5,
+            "unit_price": 413.99,
+            "total_price": 2069.95
+        },
+        {
+            "description": "Open-architected zero administration firmware",
+            "quantity": 4,
+            "unit_price": 142.2,
+            "total_price": 568.8
+        },
+        {
+            "description": "Focused local knowledge user",
+            "quantity": 8,
+            "unit_price": 381.55,
+            "total_price": 3052.4
+        },
+        {
+            "description": "Automated scalable project",
+            "quantity": 6,
+            "unit_price": 345.73,
+            "total_price": 2074.38
+        }
+    ],
+    "amount": 7765.53
+}

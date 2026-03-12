@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Booker-Finley",
+    "invoice_number": "INV-74491",
+    "date": "2025-07-03",
+    "items": [
+        {
+            "description": "Exclusive impactful conglomeration",
+            "quantity": 1,
+            "unit_price": 287.17,
+            "total_price": 287.17
+        },
+        {
+            "description": "Customizable tertiary customer loyalty",
+            "quantity": 7,
+            "unit_price": 33.64,
+            "total_price": 235.48
+        },
+        {
+            "description": "Assimilated 3rdgeneration open system",
+            "quantity": 9,
+            "unit_price": 391.06,
+            "total_price": 3519.54
+        },
+        {
+            "description": "Optional contextually-based hardware",
+            "quantity": 9,
+            "unit_price": 281.59,
+            "total_price": 2534.31
+        }
+    ],
+    "amount": 6576.5
+}

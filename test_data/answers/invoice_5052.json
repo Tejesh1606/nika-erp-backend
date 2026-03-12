@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Armstrong, Thomas and Wilkinson",
+    "invoice_number": "INV-66539",
+    "date": "2025-04-08",
+    "items": [
+        {
+            "description": "Future-proofed encompassing attitude",
+            "quantity": 8,
+            "unit_price": 453.86,
+            "total_price": 3630.88
+        }
+    ],
+    "amount": 3630.88
+}

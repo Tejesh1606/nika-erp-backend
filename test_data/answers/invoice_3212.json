@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Taylor-Ibarra",
+    "invoice_number": "INV-74365",
+    "date": "2025-08-14",
+    "items": [
+        {
+            "description": "Advanced non-volatile instruction set",
+            "quantity": 10,
+            "unit_price": 258.34,
+            "total_price": 2583.4
+        },
+        {
+            "description": "Team-oriented 3rdgeneration project",
+            "quantity": 4,
+            "unit_price": 404.75,
+            "total_price": 1619.0
+        }
+    ],
+    "amount": 4202.4
+}

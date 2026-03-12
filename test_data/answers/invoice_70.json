@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Sullivan and Sons",
+    "invoice_number": "INV-50135",
+    "date": "2025-11-21",
+    "items": [
+        {
+            "description": "Reduced holistic leverage",
+            "quantity": 3,
+            "unit_price": 201.17,
+            "total_price": 603.51
+        }
+    ],
+    "amount": 603.51
+}

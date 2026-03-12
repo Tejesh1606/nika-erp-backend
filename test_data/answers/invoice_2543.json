@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hill-Powell",
+    "invoice_number": "INV-45959",
+    "date": "2025-07-01",
+    "items": [
+        {
+            "description": "Assimilated reciprocal concept",
+            "quantity": 1,
+            "unit_price": 154.91,
+            "total_price": 154.91
+        },
+        {
+            "description": "Extended dynamic time-frame",
+            "quantity": 1,
+            "unit_price": 194.16,
+            "total_price": 194.16
+        },
+        {
+            "description": "Monitored asymmetric knowledgebase",
+            "quantity": 1,
+            "unit_price": 315.11,
+            "total_price": 315.11
+        },
+        {
+            "description": "Innovative hybrid hierarchy",
+            "quantity": 8,
+            "unit_price": 350.39,
+            "total_price": 2803.12
+        }
+    ],
+    "amount": 3467.3
+}

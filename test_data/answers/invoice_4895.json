@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Reynolds-Wheeler",
+    "invoice_number": "INV-31725",
+    "date": "2025-05-20",
+    "items": [
+        {
+            "description": "Diverse multi-tasking definition",
+            "quantity": 5,
+            "unit_price": 327.12,
+            "total_price": 1635.6
+        },
+        {
+            "description": "Exclusive multi-state success",
+            "quantity": 3,
+            "unit_price": 268.84,
+            "total_price": 806.52
+        },
+        {
+            "description": "Configurable dedicated middleware",
+            "quantity": 7,
+            "unit_price": 113.67,
+            "total_price": 795.69
+        },
+        {
+            "description": "Inverse context-sensitive success",
+            "quantity": 8,
+            "unit_price": 149.49,
+            "total_price": 1195.92
+        }
+    ],
+    "amount": 4433.73
+}

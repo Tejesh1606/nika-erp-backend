@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Brooks-Vance",
+    "invoice_number": "INV-68790",
+    "date": "2026-02-09",
+    "items": [
+        {
+            "description": "Multi-tiered homogeneous artificial intelligence",
+            "quantity": 9,
+            "unit_price": 329.11,
+            "total_price": 2961.99
+        },
+        {
+            "description": "Synergized stable moratorium",
+            "quantity": 4,
+            "unit_price": 321.59,
+            "total_price": 1286.36
+        },
+        {
+            "description": "Devolved solution-oriented hardware",
+            "quantity": 1,
+            "unit_price": 394.29,
+            "total_price": 394.29
+        },
+        {
+            "description": "Decentralized context-sensitive monitoring",
+            "quantity": 3,
+            "unit_price": 236.11,
+            "total_price": 708.33
+        }
+    ],
+    "amount": 5350.97
+}

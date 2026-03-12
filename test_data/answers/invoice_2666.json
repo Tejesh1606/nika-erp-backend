@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wolfe-Williams",
+    "invoice_number": "INV-13175",
+    "date": "2025-05-27",
+    "items": [
+        {
+            "description": "Focused solution-oriented pricing structure",
+            "quantity": 4,
+            "unit_price": 235.59,
+            "total_price": 942.36
+        }
+    ],
+    "amount": 942.36
+}

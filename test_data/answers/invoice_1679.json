@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wood-Williams",
+    "invoice_number": "INV-50648",
+    "date": "2026-01-22",
+    "items": [
+        {
+            "description": "Down-sized zero tolerance orchestration",
+            "quantity": 7,
+            "unit_price": 219.46,
+            "total_price": 1536.22
+        }
+    ],
+    "amount": 1536.22
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Melton-Lynn",
+    "invoice_number": "INV-38519",
+    "date": "2025-08-03",
+    "items": [
+        {
+            "description": "Ameliorated multi-tasking approach",
+            "quantity": 4,
+            "unit_price": 328.8,
+            "total_price": 1315.2
+        },
+        {
+            "description": "Multi-layered heuristic monitoring",
+            "quantity": 2,
+            "unit_price": 475.99,
+            "total_price": 951.98
+        },
+        {
+            "description": "Devolved systematic challenge",
+            "quantity": 2,
+            "unit_price": 379.65,
+            "total_price": 759.3
+        }
+    ],
+    "amount": 3026.48
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "May-Vazquez",
+    "invoice_number": "INV-52089",
+    "date": "2026-01-23",
+    "items": [
+        {
+            "description": "Fundamental incremental benchmark",
+            "quantity": 2,
+            "unit_price": 450.52,
+            "total_price": 901.04
+        },
+        {
+            "description": "Secured zero tolerance policy",
+            "quantity": 9,
+            "unit_price": 319.59,
+            "total_price": 2876.31
+        }
+    ],
+    "amount": 3777.35
+}

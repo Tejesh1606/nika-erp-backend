@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wiley and Sons",
+    "invoice_number": "INV-50341",
+    "date": "2026-01-28",
+    "items": [
+        {
+            "description": "Synergized secondary core",
+            "quantity": 2,
+            "unit_price": 382.42,
+            "total_price": 764.84
+        },
+        {
+            "description": "User-friendly web-enabled support",
+            "quantity": 6,
+            "unit_price": 322.6,
+            "total_price": 1935.6
+        }
+    ],
+    "amount": 2700.44
+}

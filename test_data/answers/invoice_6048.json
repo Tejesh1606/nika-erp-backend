@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Gomez Inc",
+    "invoice_number": "INV-30202",
+    "date": "2025-04-29",
+    "items": [
+        {
+            "description": "Re-engineered bifurcated hierarchy",
+            "quantity": 3,
+            "unit_price": 244.2,
+            "total_price": 732.6
+        },
+        {
+            "description": "Exclusive holistic customer loyalty",
+            "quantity": 10,
+            "unit_price": 471.47,
+            "total_price": 4714.7
+        },
+        {
+            "description": "Persevering fresh-thinking paradigm",
+            "quantity": 3,
+            "unit_price": 204.3,
+            "total_price": 612.9
+        }
+    ],
+    "amount": 6060.2
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Contreras-Haley",
+    "invoice_number": "INV-74613",
+    "date": "2025-07-29",
+    "items": [
+        {
+            "description": "Synchronized even-keeled infrastructure",
+            "quantity": 8,
+            "unit_price": 333.78,
+            "total_price": 2670.24
+        },
+        {
+            "description": "Networked tangible website",
+            "quantity": 2,
+            "unit_price": 173.33,
+            "total_price": 346.66
+        },
+        {
+            "description": "Customer-focused maximized instruction set",
+            "quantity": 8,
+            "unit_price": 83.7,
+            "total_price": 669.6
+        }
+    ],
+    "amount": 3686.5
+}

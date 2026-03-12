@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Barnes LLC",
+    "invoice_number": "INV-72033",
+    "date": "2025-11-22",
+    "items": [
+        {
+            "description": "Cross-group contextually-based core",
+            "quantity": 7,
+            "unit_price": 352.52,
+            "total_price": 2467.64
+        },
+        {
+            "description": "Multi-tiered non-volatile artificial intelligence",
+            "quantity": 7,
+            "unit_price": 292.46,
+            "total_price": 2047.22
+        },
+        {
+            "description": "Innovative radical initiative",
+            "quantity": 10,
+            "unit_price": 159.61,
+            "total_price": 1596.1
+        },
+        {
+            "description": "Cross-group well-modulated project",
+            "quantity": 4,
+            "unit_price": 479.95,
+            "total_price": 1919.8
+        }
+    ],
+    "amount": 8030.76
+}

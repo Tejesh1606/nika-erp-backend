@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Clarke-Hopkins",
+    "invoice_number": "INV-67876",
+    "date": "2025-10-16",
+    "items": [
+        {
+            "description": "Robust mobile Graphic Interface",
+            "quantity": 1,
+            "unit_price": 166.47,
+            "total_price": 166.47
+        }
+    ],
+    "amount": 166.47
+}

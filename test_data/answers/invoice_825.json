@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Terrell, Martinez and Wood",
+    "invoice_number": "INV-35295",
+    "date": "2025-08-28",
+    "items": [
+        {
+            "description": "Advanced directional synergy",
+            "quantity": 1,
+            "unit_price": 81.75,
+            "total_price": 81.75
+        }
+    ],
+    "amount": 81.75
+}

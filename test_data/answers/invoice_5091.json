@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Ford and Sons",
+    "invoice_number": "INV-41765",
+    "date": "2025-11-13",
+    "items": [
+        {
+            "description": "Sharable scalable benchmark",
+            "quantity": 7,
+            "unit_price": 440.65,
+            "total_price": 3084.55
+        },
+        {
+            "description": "Sharable multi-state website",
+            "quantity": 3,
+            "unit_price": 253.18,
+            "total_price": 759.54
+        },
+        {
+            "description": "Programmable bi-directional functionalities",
+            "quantity": 1,
+            "unit_price": 29.54,
+            "total_price": 29.54
+        },
+        {
+            "description": "Operative modular Graphic Interface",
+            "quantity": 4,
+            "unit_price": 211.25,
+            "total_price": 845.0
+        }
+    ],
+    "amount": 4718.63
+}

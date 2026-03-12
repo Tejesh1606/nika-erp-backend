@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bailey Ltd",
+    "invoice_number": "INV-71354",
+    "date": "2025-04-20",
+    "items": [
+        {
+            "description": "Team-oriented fresh-thinking hierarchy",
+            "quantity": 10,
+            "unit_price": 334.85,
+            "total_price": 3348.5
+        },
+        {
+            "description": "Operative systematic instruction set",
+            "quantity": 2,
+            "unit_price": 444.75,
+            "total_price": 889.5
+        }
+    ],
+    "amount": 4238.0
+}

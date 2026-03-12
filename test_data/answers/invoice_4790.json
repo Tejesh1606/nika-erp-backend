@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Martin, Barnett and Wright",
+    "invoice_number": "INV-72969",
+    "date": "2025-12-21",
+    "items": [
+        {
+            "description": "Assimilated bandwidth-monitored firmware",
+            "quantity": 8,
+            "unit_price": 88.59,
+            "total_price": 708.72
+        },
+        {
+            "description": "Synergistic uniform adapter",
+            "quantity": 9,
+            "unit_price": 84.83,
+            "total_price": 763.47
+        }
+    ],
+    "amount": 1472.19
+}

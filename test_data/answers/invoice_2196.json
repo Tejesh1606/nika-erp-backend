@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Davis-Love",
+    "invoice_number": "INV-89304",
+    "date": "2025-03-13",
+    "items": [
+        {
+            "description": "Secured bifurcated hardware",
+            "quantity": 5,
+            "unit_price": 11.2,
+            "total_price": 56.0
+        },
+        {
+            "description": "Ergonomic multimedia productivity",
+            "quantity": 5,
+            "unit_price": 89.0,
+            "total_price": 445.0
+        },
+        {
+            "description": "Operative 3rdgeneration contingency",
+            "quantity": 5,
+            "unit_price": 258.12,
+            "total_price": 1290.6
+        }
+    ],
+    "amount": 1791.6
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gill PLC",
+    "invoice_number": "INV-66897",
+    "date": "2025-08-13",
+    "items": [
+        {
+            "description": "Front-line leadingedge policy",
+            "quantity": 2,
+            "unit_price": 28.77,
+            "total_price": 57.54
+        },
+        {
+            "description": "Streamlined fresh-thinking model",
+            "quantity": 7,
+            "unit_price": 205.97,
+            "total_price": 1441.79
+        },
+        {
+            "description": "Cross-group systemic solution",
+            "quantity": 9,
+            "unit_price": 21.05,
+            "total_price": 189.45
+        },
+        {
+            "description": "Reactive methodical intranet",
+            "quantity": 3,
+            "unit_price": 385.13,
+            "total_price": 1155.39
+        }
+    ],
+    "amount": 2844.17
+}

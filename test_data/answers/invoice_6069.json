@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lopez, Hoffman and Whitehead",
+    "invoice_number": "INV-97414",
+    "date": "2026-02-16",
+    "items": [
+        {
+            "description": "Switchable full-range artificial intelligence",
+            "quantity": 3,
+            "unit_price": 198.05,
+            "total_price": 594.15
+        },
+        {
+            "description": "Persistent high-level productivity",
+            "quantity": 2,
+            "unit_price": 137.01,
+            "total_price": 274.02
+        },
+        {
+            "description": "Devolved actuating framework",
+            "quantity": 1,
+            "unit_price": 329.33,
+            "total_price": 329.33
+        },
+        {
+            "description": "Persistent mission-critical adapter",
+            "quantity": 7,
+            "unit_price": 193.89,
+            "total_price": 1357.23
+        }
+    ],
+    "amount": 2554.73
+}

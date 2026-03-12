@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Cantrell Inc",
+    "invoice_number": "INV-46167",
+    "date": "2026-01-05",
+    "items": [
+        {
+            "description": "Open-architected heuristic secured line",
+            "quantity": 4,
+            "unit_price": 268.43,
+            "total_price": 1073.72
+        },
+        {
+            "description": "Object-based impactful parallelism",
+            "quantity": 9,
+            "unit_price": 125.94,
+            "total_price": 1133.46
+        },
+        {
+            "description": "Exclusive multi-state access",
+            "quantity": 8,
+            "unit_price": 85.98,
+            "total_price": 687.84
+        },
+        {
+            "description": "User-centric tertiary architecture",
+            "quantity": 6,
+            "unit_price": 473.29,
+            "total_price": 2839.74
+        }
+    ],
+    "amount": 5734.76
+}

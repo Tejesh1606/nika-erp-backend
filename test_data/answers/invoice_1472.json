@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ware, Gonzalez and Cochran",
+    "invoice_number": "INV-34667",
+    "date": "2026-03-02",
+    "items": [
+        {
+            "description": "Right-sized real-time capability",
+            "quantity": 10,
+            "unit_price": 252.44,
+            "total_price": 2524.4
+        },
+        {
+            "description": "Implemented upward-trending approach",
+            "quantity": 1,
+            "unit_price": 275.92,
+            "total_price": 275.92
+        }
+    ],
+    "amount": 2800.32
+}

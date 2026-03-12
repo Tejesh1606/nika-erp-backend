@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Heath PLC",
+    "invoice_number": "INV-95209",
+    "date": "2026-02-21",
+    "items": [
+        {
+            "description": "Customer-focused global functionalities",
+            "quantity": 9,
+            "unit_price": 457.49,
+            "total_price": 4117.41
+        },
+        {
+            "description": "Fundamental cohesive software",
+            "quantity": 7,
+            "unit_price": 398.27,
+            "total_price": 2787.89
+        }
+    ],
+    "amount": 6905.3
+}

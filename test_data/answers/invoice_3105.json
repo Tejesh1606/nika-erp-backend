@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hawkins, Bailey and Schaefer",
+    "invoice_number": "INV-61980",
+    "date": "2025-06-10",
+    "items": [
+        {
+            "description": "Cross-group systemic alliance",
+            "quantity": 5,
+            "unit_price": 444.98,
+            "total_price": 2224.9
+        },
+        {
+            "description": "Configurable 4thgeneration monitoring",
+            "quantity": 1,
+            "unit_price": 416.87,
+            "total_price": 416.87
+        },
+        {
+            "description": "Robust impactful project",
+            "quantity": 7,
+            "unit_price": 244.69,
+            "total_price": 1712.83
+        }
+    ],
+    "amount": 4354.6
+}

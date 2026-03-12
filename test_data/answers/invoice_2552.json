@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Aguilar LLC",
+    "invoice_number": "INV-41963",
+    "date": "2025-08-27",
+    "items": [
+        {
+            "description": "Proactive solution-oriented Internet solution",
+            "quantity": 4,
+            "unit_price": 34.97,
+            "total_price": 139.88
+        }
+    ],
+    "amount": 139.88
+}

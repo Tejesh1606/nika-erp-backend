@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Odonnell LLC",
+    "invoice_number": "INV-46681",
+    "date": "2025-08-29",
+    "items": [
+        {
+            "description": "Distributed 5thgeneration pricing structure",
+            "quantity": 7,
+            "unit_price": 247.4,
+            "total_price": 1731.8
+        },
+        {
+            "description": "Secured reciprocal encryption",
+            "quantity": 1,
+            "unit_price": 398.04,
+            "total_price": 398.04
+        },
+        {
+            "description": "Stand-alone explicit methodology",
+            "quantity": 7,
+            "unit_price": 96.11,
+            "total_price": 672.77
+        },
+        {
+            "description": "Open-source neutral matrices",
+            "quantity": 3,
+            "unit_price": 196.98,
+            "total_price": 590.94
+        }
+    ],
+    "amount": 3393.55
+}

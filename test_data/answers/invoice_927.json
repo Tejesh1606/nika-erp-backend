@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Vasquez, Pope and Cook",
+    "invoice_number": "INV-39334",
+    "date": "2026-03-05",
+    "items": [
+        {
+            "description": "Re-engineered zero administration policy",
+            "quantity": 8,
+            "unit_price": 59.51,
+            "total_price": 476.08
+        },
+        {
+            "description": "Cloned secondary Graphical User Interface",
+            "quantity": 8,
+            "unit_price": 449.37,
+            "total_price": 3594.96
+        },
+        {
+            "description": "Multi-tiered transitional synergy",
+            "quantity": 9,
+            "unit_price": 148.47,
+            "total_price": 1336.23
+        }
+    ],
+    "amount": 5407.27
+}

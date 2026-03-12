@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Morris, Campos and Robinson",
+    "invoice_number": "INV-85894",
+    "date": "2025-06-12",
+    "items": [
+        {
+            "description": "Self-enabling clear-thinking flexibility",
+            "quantity": 9,
+            "unit_price": 161.65,
+            "total_price": 1454.85
+        },
+        {
+            "description": "Innovative encompassing protocol",
+            "quantity": 2,
+            "unit_price": 101.74,
+            "total_price": 203.48
+        },
+        {
+            "description": "Public-key web-enabled emulation",
+            "quantity": 10,
+            "unit_price": 122.13,
+            "total_price": 1221.3
+        }
+    ],
+    "amount": 2879.63
+}

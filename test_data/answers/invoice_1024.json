@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Allen Inc",
+    "invoice_number": "INV-84727",
+    "date": "2025-10-14",
+    "items": [
+        {
+            "description": "Balanced non-volatile utilization",
+            "quantity": 10,
+            "unit_price": 408.34,
+            "total_price": 4083.4
+        }
+    ],
+    "amount": 4083.4
+}

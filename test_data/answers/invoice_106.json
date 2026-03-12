@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Lucas, Parker and Alexander",
+    "invoice_number": "INV-85965",
+    "date": "2025-07-28",
+    "items": [
+        {
+            "description": "Upgradable clear-thinking array",
+            "quantity": 3,
+            "unit_price": 110.45,
+            "total_price": 331.35
+        },
+        {
+            "description": "Implemented fresh-thinking synergy",
+            "quantity": 2,
+            "unit_price": 135.17,
+            "total_price": 270.34
+        }
+    ],
+    "amount": 601.69
+}

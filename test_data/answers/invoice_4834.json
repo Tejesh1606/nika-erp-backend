@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Clayton PLC",
+    "invoice_number": "INV-93589",
+    "date": "2025-11-21",
+    "items": [
+        {
+            "description": "Ameliorated heuristic knowledgebase",
+            "quantity": 3,
+            "unit_price": 120.3,
+            "total_price": 360.9
+        },
+        {
+            "description": "Ameliorated attitude-oriented open system",
+            "quantity": 7,
+            "unit_price": 257.06,
+            "total_price": 1799.42
+        }
+    ],
+    "amount": 2160.32
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Snyder, Hamilton and Maldonado",
+    "invoice_number": "INV-94717",
+    "date": "2025-06-13",
+    "items": [
+        {
+            "description": "Customizable directional budgetary management",
+            "quantity": 10,
+            "unit_price": 165.11,
+            "total_price": 1651.1
+        },
+        {
+            "description": "Business-focused 5thgeneration orchestration",
+            "quantity": 6,
+            "unit_price": 364.09,
+            "total_price": 2184.54
+        },
+        {
+            "description": "Future-proofed disintermediate architecture",
+            "quantity": 2,
+            "unit_price": 245.26,
+            "total_price": 490.52
+        },
+        {
+            "description": "Public-key bandwidth-monitored focus group",
+            "quantity": 8,
+            "unit_price": 492.03,
+            "total_price": 3936.24
+        }
+    ],
+    "amount": 8262.4
+}

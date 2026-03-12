@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Stanley, White and White",
+    "invoice_number": "INV-61505",
+    "date": "2025-03-26",
+    "items": [
+        {
+            "description": "Configurable intangible strategy",
+            "quantity": 1,
+            "unit_price": 64.1,
+            "total_price": 64.1
+        },
+        {
+            "description": "Innovative foreground parallelism",
+            "quantity": 3,
+            "unit_price": 363.1,
+            "total_price": 1089.3
+        }
+    ],
+    "amount": 1153.4
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Guzman-Welch",
+    "invoice_number": "INV-88036",
+    "date": "2025-08-24",
+    "items": [
+        {
+            "description": "Horizontal systematic infrastructure",
+            "quantity": 3,
+            "unit_price": 224.88,
+            "total_price": 674.64
+        },
+        {
+            "description": "Total 24/7 open architecture",
+            "quantity": 1,
+            "unit_price": 107.87,
+            "total_price": 107.87
+        },
+        {
+            "description": "User-friendly local software",
+            "quantity": 3,
+            "unit_price": 434.71,
+            "total_price": 1304.13
+        },
+        {
+            "description": "Devolved global extranet",
+            "quantity": 5,
+            "unit_price": 306.14,
+            "total_price": 1530.7
+        }
+    ],
+    "amount": 3617.34
+}

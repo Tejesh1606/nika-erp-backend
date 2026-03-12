@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hernandez and Sons",
+    "invoice_number": "INV-38907",
+    "date": "2025-09-27",
+    "items": [
+        {
+            "description": "Multi-tiered optimizing leverage",
+            "quantity": 2,
+            "unit_price": 140.67,
+            "total_price": 281.34
+        }
+    ],
+    "amount": 281.34
+}

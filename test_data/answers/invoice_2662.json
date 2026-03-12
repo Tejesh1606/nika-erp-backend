@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Liu-Dawson",
+    "invoice_number": "INV-33504",
+    "date": "2025-10-26",
+    "items": [
+        {
+            "description": "Focused user-facing functionalities",
+            "quantity": 1,
+            "unit_price": 488.77,
+            "total_price": 488.77
+        }
+    ],
+    "amount": 488.77
+}

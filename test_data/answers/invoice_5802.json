@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Lam LLC",
+    "invoice_number": "INV-95389",
+    "date": "2025-03-09",
+    "items": [
+        {
+            "description": "Cloned non-volatile array",
+            "quantity": 5,
+            "unit_price": 310.9,
+            "total_price": 1554.5
+        },
+        {
+            "description": "Open-source high-level emulation",
+            "quantity": 9,
+            "unit_price": 410.86,
+            "total_price": 3697.74
+        }
+    ],
+    "amount": 5252.24
+}

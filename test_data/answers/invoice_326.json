@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hawkins-Pierce",
+    "invoice_number": "INV-22415",
+    "date": "2025-09-04",
+    "items": [
+        {
+            "description": "Customer-focused client-driven capability",
+            "quantity": 4,
+            "unit_price": 14.81,
+            "total_price": 59.24
+        },
+        {
+            "description": "Advanced analyzing time-frame",
+            "quantity": 5,
+            "unit_price": 208.24,
+            "total_price": 1041.2
+        },
+        {
+            "description": "Face-to-face clear-thinking customer loyalty",
+            "quantity": 3,
+            "unit_price": 289.45,
+            "total_price": 868.35
+        },
+        {
+            "description": "Open-architected holistic software",
+            "quantity": 9,
+            "unit_price": 375.94,
+            "total_price": 3383.46
+        }
+    ],
+    "amount": 5352.25
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wilkinson, Hamilton and Ball",
+    "invoice_number": "INV-42869",
+    "date": "2025-09-22",
+    "items": [
+        {
+            "description": "Implemented secondary capacity",
+            "quantity": 8,
+            "unit_price": 79.18,
+            "total_price": 633.44
+        },
+        {
+            "description": "Innovative real-time Graphical User Interface",
+            "quantity": 8,
+            "unit_price": 78.8,
+            "total_price": 630.4
+        }
+    ],
+    "amount": 1263.84
+}

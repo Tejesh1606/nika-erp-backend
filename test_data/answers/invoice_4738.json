@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Green-Leonard",
+    "invoice_number": "INV-19978",
+    "date": "2026-02-10",
+    "items": [
+        {
+            "description": "Robust web-enabled migration",
+            "quantity": 7,
+            "unit_price": 36.19,
+            "total_price": 253.33
+        }
+    ],
+    "amount": 253.33
+}

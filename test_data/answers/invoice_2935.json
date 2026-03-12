@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Dunlap LLC",
+    "invoice_number": "INV-62122",
+    "date": "2025-09-10",
+    "items": [
+        {
+            "description": "Stand-alone multimedia flexibility",
+            "quantity": 6,
+            "unit_price": 122.18,
+            "total_price": 733.08
+        }
+    ],
+    "amount": 733.08
+}

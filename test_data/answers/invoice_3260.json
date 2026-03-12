@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Herrera and Sons",
+    "invoice_number": "INV-79810",
+    "date": "2025-06-28",
+    "items": [
+        {
+            "description": "Organized 5thgeneration groupware",
+            "quantity": 3,
+            "unit_price": 13.23,
+            "total_price": 39.69
+        },
+        {
+            "description": "Distributed 6thgeneration encryption",
+            "quantity": 3,
+            "unit_price": 230.77,
+            "total_price": 692.31
+        },
+        {
+            "description": "Configurable static definition",
+            "quantity": 8,
+            "unit_price": 345.59,
+            "total_price": 2764.72
+        },
+        {
+            "description": "Synergistic composite pricing structure",
+            "quantity": 6,
+            "unit_price": 309.02,
+            "total_price": 1854.12
+        }
+    ],
+    "amount": 5350.84
+}

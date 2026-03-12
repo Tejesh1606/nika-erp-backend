@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ashley Group",
+    "invoice_number": "INV-68827",
+    "date": "2025-04-01",
+    "items": [
+        {
+            "description": "Monitored client-server open system",
+            "quantity": 9,
+            "unit_price": 446.07,
+            "total_price": 4014.63
+        }
+    ],
+    "amount": 4014.63
+}

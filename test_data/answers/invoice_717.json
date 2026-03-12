@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Reed Inc",
+    "invoice_number": "INV-95398",
+    "date": "2026-01-22",
+    "items": [
+        {
+            "description": "Innovative motivating website",
+            "quantity": 3,
+            "unit_price": 441.53,
+            "total_price": 1324.59
+        },
+        {
+            "description": "Innovative intermediate protocol",
+            "quantity": 7,
+            "unit_price": 66.13,
+            "total_price": 462.91
+        }
+    ],
+    "amount": 1787.5
+}

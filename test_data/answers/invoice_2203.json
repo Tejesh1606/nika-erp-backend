@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ferguson PLC",
+    "invoice_number": "INV-16765",
+    "date": "2025-03-22",
+    "items": [
+        {
+            "description": "Ergonomic fault-tolerant implementation",
+            "quantity": 1,
+            "unit_price": 166.03,
+            "total_price": 166.03
+        },
+        {
+            "description": "Progressive intermediate attitude",
+            "quantity": 2,
+            "unit_price": 112.03,
+            "total_price": 224.06
+        }
+    ],
+    "amount": 390.09
+}

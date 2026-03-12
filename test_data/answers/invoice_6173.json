@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Leon, Barker and Sellers",
+    "invoice_number": "INV-73016",
+    "date": "2025-05-09",
+    "items": [
+        {
+            "description": "Focused client-server superstructure",
+            "quantity": 7,
+            "unit_price": 124.23,
+            "total_price": 869.61
+        }
+    ],
+    "amount": 869.61
+}

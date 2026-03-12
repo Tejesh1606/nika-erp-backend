@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gray and Sons",
+    "invoice_number": "INV-74504",
+    "date": "2025-05-25",
+    "items": [
+        {
+            "description": "Cloned non-volatile installation",
+            "quantity": 9,
+            "unit_price": 417.54,
+            "total_price": 3757.86
+        }
+    ],
+    "amount": 3757.86
+}

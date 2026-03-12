@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith, Jones and Santiago",
+    "invoice_number": "INV-37941",
+    "date": "2026-02-07",
+    "items": [
+        {
+            "description": "Synergized interactive benchmark",
+            "quantity": 10,
+            "unit_price": 31.91,
+            "total_price": 319.1
+        }
+    ],
+    "amount": 319.1
+}

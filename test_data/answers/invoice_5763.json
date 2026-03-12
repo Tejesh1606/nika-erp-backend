@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Waters, Richardson and Sims",
+    "invoice_number": "INV-42192",
+    "date": "2025-06-15",
+    "items": [
+        {
+            "description": "User-friendly explicit pricing structure",
+            "quantity": 3,
+            "unit_price": 281.79,
+            "total_price": 845.37
+        },
+        {
+            "description": "Cross-platform uniform analyzer",
+            "quantity": 4,
+            "unit_price": 237.08,
+            "total_price": 948.32
+        },
+        {
+            "description": "Profit-focused multi-state hardware",
+            "quantity": 9,
+            "unit_price": 143.18,
+            "total_price": 1288.62
+        },
+        {
+            "description": "Focused explicit open architecture",
+            "quantity": 8,
+            "unit_price": 313.01,
+            "total_price": 2504.08
+        }
+    ],
+    "amount": 5586.39
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Copeland Group",
+    "invoice_number": "INV-15491",
+    "date": "2025-12-17",
+    "items": [
+        {
+            "description": "Cloned local adapter",
+            "quantity": 4,
+            "unit_price": 179.1,
+            "total_price": 716.4
+        },
+        {
+            "description": "Fully-configurable incremental core",
+            "quantity": 10,
+            "unit_price": 358.56,
+            "total_price": 3585.6
+        },
+        {
+            "description": "Balanced regional framework",
+            "quantity": 5,
+            "unit_price": 324.34,
+            "total_price": 1621.7
+        },
+        {
+            "description": "Future-proofed coherent data-warehouse",
+            "quantity": 8,
+            "unit_price": 388.04,
+            "total_price": 3104.32
+        }
+    ],
+    "amount": 9028.02
+}

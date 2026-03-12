@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Briggs, Lutz and Marks",
+    "invoice_number": "INV-63396",
+    "date": "2025-04-19",
+    "items": [
+        {
+            "description": "Focused didactic leverage",
+            "quantity": 3,
+            "unit_price": 409.54,
+            "total_price": 1228.62
+        }
+    ],
+    "amount": 1228.62
+}

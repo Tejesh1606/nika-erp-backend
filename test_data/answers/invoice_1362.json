@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Trevino, Perez and Arias",
+    "invoice_number": "INV-29929",
+    "date": "2025-10-05",
+    "items": [
+        {
+            "description": "Seamless interactive customer loyalty",
+            "quantity": 9,
+            "unit_price": 152.62,
+            "total_price": 1373.58
+        },
+        {
+            "description": "Grass-roots actuating initiative",
+            "quantity": 5,
+            "unit_price": 416.77,
+            "total_price": 2083.85
+        }
+    ],
+    "amount": 3457.43
+}

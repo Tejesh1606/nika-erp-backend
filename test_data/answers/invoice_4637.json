@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Bell PLC",
+    "invoice_number": "INV-45148",
+    "date": "2025-10-10",
+    "items": [
+        {
+            "description": "Down-sized neutral budgetary management",
+            "quantity": 10,
+            "unit_price": 389.3,
+            "total_price": 3893.0
+        },
+        {
+            "description": "Organized content-based pricing structure",
+            "quantity": 8,
+            "unit_price": 109.51,
+            "total_price": 876.08
+        },
+        {
+            "description": "Expanded didactic system engine",
+            "quantity": 7,
+            "unit_price": 70.1,
+            "total_price": 490.7
+        },
+        {
+            "description": "Seamless value-added initiative",
+            "quantity": 8,
+            "unit_price": 24.28,
+            "total_price": 194.24
+        }
+    ],
+    "amount": 5454.02
+}

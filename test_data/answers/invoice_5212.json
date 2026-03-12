@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Owens Group",
+    "invoice_number": "INV-67266",
+    "date": "2026-01-27",
+    "items": [
+        {
+            "description": "Public-key regional pricing structure",
+            "quantity": 6,
+            "unit_price": 384.55,
+            "total_price": 2307.3
+        },
+        {
+            "description": "Enhanced bottom-line concept",
+            "quantity": 9,
+            "unit_price": 161.08,
+            "total_price": 1449.72
+        }
+    ],
+    "amount": 3757.02
+}

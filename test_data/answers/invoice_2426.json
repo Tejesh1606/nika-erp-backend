@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Chapman Group",
+    "invoice_number": "INV-31013",
+    "date": "2025-12-31",
+    "items": [
+        {
+            "description": "User-centric upward-trending analyzer",
+            "quantity": 6,
+            "unit_price": 355.89,
+            "total_price": 2135.34
+        },
+        {
+            "description": "Front-line multimedia hub",
+            "quantity": 5,
+            "unit_price": 281.77,
+            "total_price": 1408.85
+        },
+        {
+            "description": "Quality-focused neutral initiative",
+            "quantity": 10,
+            "unit_price": 413.44,
+            "total_price": 4134.4
+        }
+    ],
+    "amount": 7678.59
+}

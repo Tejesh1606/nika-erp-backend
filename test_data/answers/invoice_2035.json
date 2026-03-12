@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mahoney, Davis and Le",
+    "invoice_number": "INV-87650",
+    "date": "2025-05-30",
+    "items": [
+        {
+            "description": "Reverse-engineered fresh-thinking knowledge user",
+            "quantity": 2,
+            "unit_price": 274.8,
+            "total_price": 549.6
+        },
+        {
+            "description": "Reactive modular help-desk",
+            "quantity": 1,
+            "unit_price": 103.64,
+            "total_price": 103.64
+        },
+        {
+            "description": "Enterprise-wide analyzing matrices",
+            "quantity": 5,
+            "unit_price": 333.33,
+            "total_price": 1666.65
+        }
+    ],
+    "amount": 2319.89
+}

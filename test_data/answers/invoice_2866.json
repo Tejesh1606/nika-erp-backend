@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Stewart Group",
+    "invoice_number": "INV-37223",
+    "date": "2025-11-17",
+    "items": [
+        {
+            "description": "Vision-oriented demand-driven approach",
+            "quantity": 9,
+            "unit_price": 12.34,
+            "total_price": 111.06
+        },
+        {
+            "description": "Secured optimizing approach",
+            "quantity": 4,
+            "unit_price": 162.68,
+            "total_price": 650.72
+        },
+        {
+            "description": "Automated secondary structure",
+            "quantity": 9,
+            "unit_price": 487.36,
+            "total_price": 4386.24
+        },
+        {
+            "description": "Balanced object-oriented focus group",
+            "quantity": 1,
+            "unit_price": 294.01,
+            "total_price": 294.01
+        }
+    ],
+    "amount": 5442.03
+}

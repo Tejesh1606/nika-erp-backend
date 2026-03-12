@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Perry, Hayes and Schultz",
+    "invoice_number": "INV-22202",
+    "date": "2025-08-12",
+    "items": [
+        {
+            "description": "Profound value-added focus group",
+            "quantity": 1,
+            "unit_price": 217.48,
+            "total_price": 217.48
+        },
+        {
+            "description": "Team-oriented holistic knowledgebase",
+            "quantity": 2,
+            "unit_price": 321.38,
+            "total_price": 642.76
+        },
+        {
+            "description": "Pre-emptive fresh-thinking paradigm",
+            "quantity": 3,
+            "unit_price": 455.1,
+            "total_price": 1365.3
+        }
+    ],
+    "amount": 2225.54
+}

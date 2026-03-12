@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wolf Ltd",
+    "invoice_number": "INV-19876",
+    "date": "2025-05-16",
+    "items": [
+        {
+            "description": "Visionary responsive methodology",
+            "quantity": 9,
+            "unit_price": 458.15,
+            "total_price": 4123.35
+        },
+        {
+            "description": "Persistent web-enabled open system",
+            "quantity": 6,
+            "unit_price": 425.19,
+            "total_price": 2551.14
+        },
+        {
+            "description": "Virtual optimal knowledge user",
+            "quantity": 4,
+            "unit_price": 366.7,
+            "total_price": 1466.8
+        },
+        {
+            "description": "Synergized non-volatile project",
+            "quantity": 9,
+            "unit_price": 372.8,
+            "total_price": 3355.2
+        }
+    ],
+    "amount": 11496.49
+}

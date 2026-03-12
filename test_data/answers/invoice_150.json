@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Holland, Jones and Davis",
+    "invoice_number": "INV-98916",
+    "date": "2025-08-06",
+    "items": [
+        {
+            "description": "Horizontal eco-centric success",
+            "quantity": 6,
+            "unit_price": 189.84,
+            "total_price": 1139.04
+        }
+    ],
+    "amount": 1139.04
+}

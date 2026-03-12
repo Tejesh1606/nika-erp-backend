@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Pitts PLC",
+    "invoice_number": "INV-24168",
+    "date": "2025-04-13",
+    "items": [
+        {
+            "description": "Expanded user-facing projection",
+            "quantity": 5,
+            "unit_price": 342.14,
+            "total_price": 1710.7
+        },
+        {
+            "description": "Multi-lateral well-modulated system engine",
+            "quantity": 5,
+            "unit_price": 407.77,
+            "total_price": 2038.85
+        },
+        {
+            "description": "Exclusive system-worthy superstructure",
+            "quantity": 10,
+            "unit_price": 338.85,
+            "total_price": 3388.5
+        }
+    ],
+    "amount": 7138.05
+}

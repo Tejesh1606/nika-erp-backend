@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Scott, Wong and Brown",
+    "invoice_number": "INV-20928",
+    "date": "2025-08-13",
+    "items": [
+        {
+            "description": "Horizontal bifurcated hardware",
+            "quantity": 3,
+            "unit_price": 494.21,
+            "total_price": 1482.63
+        },
+        {
+            "description": "Vision-oriented uniform data-warehouse",
+            "quantity": 1,
+            "unit_price": 299.88,
+            "total_price": 299.88
+        }
+    ],
+    "amount": 1782.51
+}

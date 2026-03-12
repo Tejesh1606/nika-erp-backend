@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Adams Group",
+    "invoice_number": "INV-17589",
+    "date": "2025-09-25",
+    "items": [
+        {
+            "description": "Extended next generation moderator",
+            "quantity": 4,
+            "unit_price": 171.12,
+            "total_price": 684.48
+        },
+        {
+            "description": "Stand-alone static artificial intelligence",
+            "quantity": 7,
+            "unit_price": 111.82,
+            "total_price": 782.74
+        }
+    ],
+    "amount": 1467.22
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Anderson and Sons",
+    "invoice_number": "INV-37261",
+    "date": "2025-12-02",
+    "items": [
+        {
+            "description": "Business-focused 24/7 database",
+            "quantity": 2,
+            "unit_price": 119.72,
+            "total_price": 239.44
+        },
+        {
+            "description": "Operative 24/7 knowledge user",
+            "quantity": 5,
+            "unit_price": 405.42,
+            "total_price": 2027.1
+        },
+        {
+            "description": "Devolved clear-thinking encoding",
+            "quantity": 6,
+            "unit_price": 234.89,
+            "total_price": 1409.34
+        }
+    ],
+    "amount": 3675.88
+}

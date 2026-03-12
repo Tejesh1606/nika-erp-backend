@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Lee-Lopez",
+    "invoice_number": "INV-72068",
+    "date": "2025-07-22",
+    "items": [
+        {
+            "description": "Automated contextually-based matrix",
+            "quantity": 4,
+            "unit_price": 481.75,
+            "total_price": 1927.0
+        },
+        {
+            "description": "Sharable asynchronous portal",
+            "quantity": 9,
+            "unit_price": 267.32,
+            "total_price": 2405.88
+        }
+    ],
+    "amount": 4332.88
+}

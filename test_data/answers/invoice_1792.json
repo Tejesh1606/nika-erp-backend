@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Martin Group",
+    "invoice_number": "INV-47990",
+    "date": "2025-06-12",
+    "items": [
+        {
+            "description": "Ameliorated object-oriented groupware",
+            "quantity": 8,
+            "unit_price": 222.15,
+            "total_price": 1777.2
+        },
+        {
+            "description": "Fundamental eco-centric orchestration",
+            "quantity": 10,
+            "unit_price": 162.05,
+            "total_price": 1620.5
+        }
+    ],
+    "amount": 3397.7
+}

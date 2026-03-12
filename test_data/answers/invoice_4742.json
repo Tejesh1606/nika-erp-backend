@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Shaw Ltd",
+    "invoice_number": "INV-51588",
+    "date": "2025-03-16",
+    "items": [
+        {
+            "description": "Multi-layered tangible monitoring",
+            "quantity": 7,
+            "unit_price": 94.92,
+            "total_price": 664.44
+        },
+        {
+            "description": "Devolved static firmware",
+            "quantity": 4,
+            "unit_price": 339.88,
+            "total_price": 1359.52
+        },
+        {
+            "description": "Business-focused well-modulated hardware",
+            "quantity": 7,
+            "unit_price": 214.49,
+            "total_price": 1501.43
+        },
+        {
+            "description": "Synchronized foreground throughput",
+            "quantity": 10,
+            "unit_price": 283.03,
+            "total_price": 2830.3
+        }
+    ],
+    "amount": 6355.69
+}

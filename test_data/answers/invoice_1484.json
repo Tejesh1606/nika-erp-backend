@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Foster, Dixon and Roberts",
+    "invoice_number": "INV-13081",
+    "date": "2025-11-24",
+    "items": [
+        {
+            "description": "Universal tangible instruction set",
+            "quantity": 7,
+            "unit_price": 280.14,
+            "total_price": 1960.98
+        }
+    ],
+    "amount": 1960.98
+}

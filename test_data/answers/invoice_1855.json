@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Russell, Smith and Lopez",
+    "invoice_number": "INV-42587",
+    "date": "2025-03-26",
+    "items": [
+        {
+            "description": "Function-based fresh-thinking open architecture",
+            "quantity": 2,
+            "unit_price": 30.13,
+            "total_price": 60.26
+        },
+        {
+            "description": "Profound bandwidth-monitored initiative",
+            "quantity": 8,
+            "unit_price": 160.96,
+            "total_price": 1287.68
+        },
+        {
+            "description": "Managed zero-defect standardization",
+            "quantity": 5,
+            "unit_price": 400.46,
+            "total_price": 2002.3
+        }
+    ],
+    "amount": 3350.24
+}

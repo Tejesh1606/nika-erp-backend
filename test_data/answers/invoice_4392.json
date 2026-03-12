@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Velez-Austin",
+    "invoice_number": "INV-25464",
+    "date": "2025-11-14",
+    "items": [
+        {
+            "description": "Team-oriented context-sensitive orchestration",
+            "quantity": 7,
+            "unit_price": 115.9,
+            "total_price": 811.3
+        }
+    ],
+    "amount": 811.3
+}

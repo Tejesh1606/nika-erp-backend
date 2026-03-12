@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Shaffer Group",
+    "invoice_number": "INV-64289",
+    "date": "2025-05-02",
+    "items": [
+        {
+            "description": "Reverse-engineered radical array",
+            "quantity": 5,
+            "unit_price": 412.04,
+            "total_price": 2060.2
+        }
+    ],
+    "amount": 2060.2
+}

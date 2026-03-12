@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gray, Johnson and Rosales",
+    "invoice_number": "INV-33834",
+    "date": "2025-09-14",
+    "items": [
+        {
+            "description": "Extended heuristic website",
+            "quantity": 1,
+            "unit_price": 50.31,
+            "total_price": 50.31
+        },
+        {
+            "description": "Fundamental global focus group",
+            "quantity": 7,
+            "unit_price": 80.41,
+            "total_price": 562.87
+        },
+        {
+            "description": "Right-sized tangible focus group",
+            "quantity": 10,
+            "unit_price": 405.73,
+            "total_price": 4057.3
+        },
+        {
+            "description": "Realigned 24/7 model",
+            "quantity": 10,
+            "unit_price": 88.98,
+            "total_price": 889.8
+        }
+    ],
+    "amount": 5560.28
+}

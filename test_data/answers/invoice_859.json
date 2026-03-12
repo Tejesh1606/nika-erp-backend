@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Robinson and Sons",
+    "invoice_number": "INV-69255",
+    "date": "2026-02-07",
+    "items": [
+        {
+            "description": "Front-line hybrid data-warehouse",
+            "quantity": 4,
+            "unit_price": 93.9,
+            "total_price": 375.6
+        },
+        {
+            "description": "Integrated interactive implementation",
+            "quantity": 10,
+            "unit_price": 71.77,
+            "total_price": 717.7
+        },
+        {
+            "description": "Re-engineered cohesive hub",
+            "quantity": 9,
+            "unit_price": 119.08,
+            "total_price": 1071.72
+        }
+    ],
+    "amount": 2165.02
+}

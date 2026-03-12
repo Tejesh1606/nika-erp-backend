@@ -1,0 +1,32 @@
+{
+    "vendor_name": "George-Johnson",
+    "invoice_number": "INV-20437",
+    "date": "2025-10-28",
+    "items": [
+        {
+            "description": "Down-sized didactic core",
+            "quantity": 6,
+            "unit_price": 362.08,
+            "total_price": 2172.48
+        },
+        {
+            "description": "Cross-group zero tolerance functionalities",
+            "quantity": 6,
+            "unit_price": 216.2,
+            "total_price": 1297.2
+        },
+        {
+            "description": "Devolved exuding access",
+            "quantity": 8,
+            "unit_price": 479.12,
+            "total_price": 3832.96
+        },
+        {
+            "description": "Future-proofed bottom-line functionalities",
+            "quantity": 6,
+            "unit_price": 13.95,
+            "total_price": 83.7
+        }
+    ],
+    "amount": 7386.34
+}

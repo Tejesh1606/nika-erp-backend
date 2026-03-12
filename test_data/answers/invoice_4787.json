@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jenkins, Newman and Hill",
+    "invoice_number": "INV-50257",
+    "date": "2025-04-17",
+    "items": [
+        {
+            "description": "Implemented methodical encoding",
+            "quantity": 3,
+            "unit_price": 480.68,
+            "total_price": 1442.04
+        },
+        {
+            "description": "Monitored real-time function",
+            "quantity": 4,
+            "unit_price": 481.03,
+            "total_price": 1924.12
+        },
+        {
+            "description": "Optimized neutral open system",
+            "quantity": 9,
+            "unit_price": 187.71,
+            "total_price": 1689.39
+        },
+        {
+            "description": "Managed content-based productivity",
+            "quantity": 1,
+            "unit_price": 476.68,
+            "total_price": 476.68
+        }
+    ],
+    "amount": 5532.23
+}

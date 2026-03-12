@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Johnson and Sons",
+    "invoice_number": "INV-12215",
+    "date": "2025-09-02",
+    "items": [
+        {
+            "description": "Versatile impactful contingency",
+            "quantity": 4,
+            "unit_price": 471.03,
+            "total_price": 1884.12
+        }
+    ],
+    "amount": 1884.12
+}

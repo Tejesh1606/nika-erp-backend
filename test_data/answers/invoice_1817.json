@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Henderson-Buchanan",
+    "invoice_number": "INV-91645",
+    "date": "2025-04-03",
+    "items": [
+        {
+            "description": "Multi-layered leadingedge parallelism",
+            "quantity": 4,
+            "unit_price": 366.74,
+            "total_price": 1466.96
+        },
+        {
+            "description": "Synergistic zero-defect hardware",
+            "quantity": 7,
+            "unit_price": 369.08,
+            "total_price": 2583.56
+        },
+        {
+            "description": "Multi-layered executive interface",
+            "quantity": 10,
+            "unit_price": 372.53,
+            "total_price": 3725.3
+        },
+        {
+            "description": "Enhanced dynamic extranet",
+            "quantity": 1,
+            "unit_price": 448.32,
+            "total_price": 448.32
+        }
+    ],
+    "amount": 8224.14
+}

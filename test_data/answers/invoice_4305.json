@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Sparks, Smith and Johnson",
+    "invoice_number": "INV-52412",
+    "date": "2025-11-14",
+    "items": [
+        {
+            "description": "Horizontal bi-directional attitude",
+            "quantity": 8,
+            "unit_price": 334.41,
+            "total_price": 2675.28
+        },
+        {
+            "description": "Team-oriented didactic leverage",
+            "quantity": 10,
+            "unit_price": 112.22,
+            "total_price": 1122.2
+        },
+        {
+            "description": "Streamlined bi-directional definition",
+            "quantity": 3,
+            "unit_price": 67.35,
+            "total_price": 202.05
+        },
+        {
+            "description": "Stand-alone systematic frame",
+            "quantity": 3,
+            "unit_price": 61.92,
+            "total_price": 185.76
+        }
+    ],
+    "amount": 4185.29
+}

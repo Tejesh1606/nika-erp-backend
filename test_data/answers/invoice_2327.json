@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Haynes PLC",
+    "invoice_number": "INV-65800",
+    "date": "2025-04-24",
+    "items": [
+        {
+            "description": "Organized zero administration emulation",
+            "quantity": 6,
+            "unit_price": 376.94,
+            "total_price": 2261.64
+        },
+        {
+            "description": "Assimilated 24hour orchestration",
+            "quantity": 9,
+            "unit_price": 255.81,
+            "total_price": 2302.29
+        },
+        {
+            "description": "Reverse-engineered cohesive protocol",
+            "quantity": 7,
+            "unit_price": 214.62,
+            "total_price": 1502.34
+        }
+    ],
+    "amount": 6066.27
+}

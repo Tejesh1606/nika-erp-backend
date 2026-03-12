@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Diaz Group",
+    "invoice_number": "INV-67711",
+    "date": "2025-08-28",
+    "items": [
+        {
+            "description": "Horizontal attitude-oriented secured line",
+            "quantity": 2,
+            "unit_price": 221.1,
+            "total_price": 442.2
+        },
+        {
+            "description": "Innovative optimal analyzer",
+            "quantity": 6,
+            "unit_price": 268.28,
+            "total_price": 1609.68
+        }
+    ],
+    "amount": 2051.88
+}

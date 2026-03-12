@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Anthony, Simmons and Gregory",
+    "invoice_number": "INV-93950",
+    "date": "2025-08-20",
+    "items": [
+        {
+            "description": "Programmable asynchronous frame",
+            "quantity": 4,
+            "unit_price": 349.16,
+            "total_price": 1396.64
+        }
+    ],
+    "amount": 1396.64
+}

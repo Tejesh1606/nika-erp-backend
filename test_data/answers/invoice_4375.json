@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wilson Group",
+    "invoice_number": "INV-85939",
+    "date": "2025-09-17",
+    "items": [
+        {
+            "description": "Advanced multi-tasking utilization",
+            "quantity": 6,
+            "unit_price": 273.35,
+            "total_price": 1640.1
+        }
+    ],
+    "amount": 1640.1
+}

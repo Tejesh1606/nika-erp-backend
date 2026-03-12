@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cervantes Inc",
+    "invoice_number": "INV-93787",
+    "date": "2026-01-05",
+    "items": [
+        {
+            "description": "Assimilated analyzing Graphic Interface",
+            "quantity": 5,
+            "unit_price": 385.21,
+            "total_price": 1926.05
+        }
+    ],
+    "amount": 1926.05
+}

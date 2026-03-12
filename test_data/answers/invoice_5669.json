@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Thompson-Wells",
+    "invoice_number": "INV-67339",
+    "date": "2025-11-30",
+    "items": [
+        {
+            "description": "Upgradable dedicated utilization",
+            "quantity": 8,
+            "unit_price": 227.51,
+            "total_price": 1820.08
+        },
+        {
+            "description": "Multi-channeled leadingedge system engine",
+            "quantity": 6,
+            "unit_price": 188.32,
+            "total_price": 1129.92
+        },
+        {
+            "description": "Enterprise-wide didactic installation",
+            "quantity": 6,
+            "unit_price": 75.85,
+            "total_price": 455.1
+        }
+    ],
+    "amount": 3405.1
+}

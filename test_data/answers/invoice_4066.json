@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Grimes, Davis and King",
+    "invoice_number": "INV-88959",
+    "date": "2025-09-14",
+    "items": [
+        {
+            "description": "Up-sized exuding knowledgebase",
+            "quantity": 3,
+            "unit_price": 246.09,
+            "total_price": 738.27
+        },
+        {
+            "description": "Managed encompassing superstructure",
+            "quantity": 4,
+            "unit_price": 68.87,
+            "total_price": 275.48
+        },
+        {
+            "description": "Pre-emptive dedicated service-desk",
+            "quantity": 10,
+            "unit_price": 26.48,
+            "total_price": 264.8
+        },
+        {
+            "description": "Streamlined local Local Area Network",
+            "quantity": 5,
+            "unit_price": 101.29,
+            "total_price": 506.45
+        }
+    ],
+    "amount": 1785.0
+}

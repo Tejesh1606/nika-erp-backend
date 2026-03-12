@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Myers Inc",
+    "invoice_number": "INV-36502",
+    "date": "2026-01-13",
+    "items": [
+        {
+            "description": "Visionary executive encryption",
+            "quantity": 7,
+            "unit_price": 110.47,
+            "total_price": 773.29
+        },
+        {
+            "description": "Progressive directional throughput",
+            "quantity": 6,
+            "unit_price": 82.68,
+            "total_price": 496.08
+        }
+    ],
+    "amount": 1269.37
+}

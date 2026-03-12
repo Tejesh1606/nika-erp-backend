@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Dean LLC",
+    "invoice_number": "INV-14734",
+    "date": "2025-10-13",
+    "items": [
+        {
+            "description": "Open-architected national methodology",
+            "quantity": 5,
+            "unit_price": 115.66,
+            "total_price": 578.3
+        }
+    ],
+    "amount": 578.3
+}

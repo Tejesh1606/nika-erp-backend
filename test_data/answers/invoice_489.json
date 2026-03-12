@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jackson-Dickerson",
+    "invoice_number": "INV-26389",
+    "date": "2025-12-16",
+    "items": [
+        {
+            "description": "Front-line stable extranet",
+            "quantity": 7,
+            "unit_price": 142.4,
+            "total_price": 996.8
+        },
+        {
+            "description": "User-friendly tangible synergy",
+            "quantity": 5,
+            "unit_price": 197.58,
+            "total_price": 987.9
+        },
+        {
+            "description": "Configurable demand-driven concept",
+            "quantity": 6,
+            "unit_price": 265.91,
+            "total_price": 1595.46
+        },
+        {
+            "description": "Object-based bi-directional attitude",
+            "quantity": 8,
+            "unit_price": 441.29,
+            "total_price": 3530.32
+        }
+    ],
+    "amount": 7110.48
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Davidson Group",
+    "invoice_number": "INV-84340",
+    "date": "2025-04-15",
+    "items": [
+        {
+            "description": "Universal discrete groupware",
+            "quantity": 3,
+            "unit_price": 473.78,
+            "total_price": 1421.34
+        },
+        {
+            "description": "Focused well-modulated complexity",
+            "quantity": 6,
+            "unit_price": 423.91,
+            "total_price": 2543.46
+        },
+        {
+            "description": "Robust fresh-thinking implementation",
+            "quantity": 7,
+            "unit_price": 43.18,
+            "total_price": 302.26
+        },
+        {
+            "description": "Customizable scalable matrix",
+            "quantity": 6,
+            "unit_price": 191.24,
+            "total_price": 1147.44
+        }
+    ],
+    "amount": 5414.5
+}

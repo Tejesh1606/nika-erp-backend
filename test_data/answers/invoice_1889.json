@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Solis Inc",
+    "invoice_number": "INV-89526",
+    "date": "2026-01-07",
+    "items": [
+        {
+            "description": "Networked dynamic analyzer",
+            "quantity": 10,
+            "unit_price": 364.25,
+            "total_price": 3642.5
+        }
+    ],
+    "amount": 3642.5
+}

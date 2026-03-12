@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wells PLC",
+    "invoice_number": "INV-38818",
+    "date": "2025-04-30",
+    "items": [
+        {
+            "description": "User-friendly hybrid utilization",
+            "quantity": 7,
+            "unit_price": 378.31,
+            "total_price": 2648.17
+        }
+    ],
+    "amount": 2648.17
+}

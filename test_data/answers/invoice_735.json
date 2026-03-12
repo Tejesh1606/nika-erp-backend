@@ -1,0 +1,14 @@
+{
+    "vendor_name": "White, Ramos and Davidson",
+    "invoice_number": "INV-10403",
+    "date": "2025-08-11",
+    "items": [
+        {
+            "description": "Exclusive responsive function",
+            "quantity": 7,
+            "unit_price": 389.89,
+            "total_price": 2729.23
+        }
+    ],
+    "amount": 2729.23
+}

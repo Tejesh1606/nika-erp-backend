@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gomez, Clark and Hicks",
+    "invoice_number": "INV-14200",
+    "date": "2025-07-13",
+    "items": [
+        {
+            "description": "Implemented bi-directional structure",
+            "quantity": 5,
+            "unit_price": 153.73,
+            "total_price": 768.65
+        }
+    ],
+    "amount": 768.65
+}

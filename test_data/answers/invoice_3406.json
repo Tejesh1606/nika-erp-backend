@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Stokes, Harper and Lawson",
+    "invoice_number": "INV-85811",
+    "date": "2025-04-23",
+    "items": [
+        {
+            "description": "Ergonomic impactful product",
+            "quantity": 1,
+            "unit_price": 150.4,
+            "total_price": 150.4
+        },
+        {
+            "description": "Up-sized holistic alliance",
+            "quantity": 5,
+            "unit_price": 205.69,
+            "total_price": 1028.45
+        },
+        {
+            "description": "Multi-channeled global capability",
+            "quantity": 1,
+            "unit_price": 428.07,
+            "total_price": 428.07
+        }
+    ],
+    "amount": 1606.92
+}

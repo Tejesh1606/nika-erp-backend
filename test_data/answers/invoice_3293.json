@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Payne-Miller",
+    "invoice_number": "INV-74693",
+    "date": "2025-06-09",
+    "items": [
+        {
+            "description": "Implemented clear-thinking budgetary management",
+            "quantity": 3,
+            "unit_price": 248.96,
+            "total_price": 746.88
+        }
+    ],
+    "amount": 746.88
+}

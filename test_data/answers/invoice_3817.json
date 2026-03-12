@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cook Ltd",
+    "invoice_number": "INV-63846",
+    "date": "2025-12-19",
+    "items": [
+        {
+            "description": "Exclusive full-range capability",
+            "quantity": 1,
+            "unit_price": 330.96,
+            "total_price": 330.96
+        }
+    ],
+    "amount": 330.96
+}

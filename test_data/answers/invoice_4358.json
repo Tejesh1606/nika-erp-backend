@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Phillips PLC",
+    "invoice_number": "INV-67766",
+    "date": "2025-07-23",
+    "items": [
+        {
+            "description": "Down-sized high-level installation",
+            "quantity": 4,
+            "unit_price": 267.33,
+            "total_price": 1069.32
+        },
+        {
+            "description": "Ameliorated executive neural-net",
+            "quantity": 3,
+            "unit_price": 353.85,
+            "total_price": 1061.55
+        },
+        {
+            "description": "Reduced real-time circuit",
+            "quantity": 1,
+            "unit_price": 357.0,
+            "total_price": 357.0
+        }
+    ],
+    "amount": 2487.87
+}

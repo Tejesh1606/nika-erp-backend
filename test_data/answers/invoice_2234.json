@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Brown and Sons",
+    "invoice_number": "INV-44995",
+    "date": "2026-02-14",
+    "items": [
+        {
+            "description": "Stand-alone uniform adapter",
+            "quantity": 1,
+            "unit_price": 216.03,
+            "total_price": 216.03
+        },
+        {
+            "description": "Devolved tertiary throughput",
+            "quantity": 5,
+            "unit_price": 449.09,
+            "total_price": 2245.45
+        }
+    ],
+    "amount": 2461.48
+}

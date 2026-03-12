@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Bowman, Smith and Weeks",
+    "invoice_number": "INV-37004",
+    "date": "2026-02-21",
+    "items": [
+        {
+            "description": "Team-oriented bifurcated frame",
+            "quantity": 1,
+            "unit_price": 443.2,
+            "total_price": 443.2
+        }
+    ],
+    "amount": 443.2
+}

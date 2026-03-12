@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gray-Flores",
+    "invoice_number": "INV-14810",
+    "date": "2025-09-11",
+    "items": [
+        {
+            "description": "Ameliorated high-level Graphic Interface",
+            "quantity": 6,
+            "unit_price": 162.05,
+            "total_price": 972.3
+        }
+    ],
+    "amount": 972.3
+}

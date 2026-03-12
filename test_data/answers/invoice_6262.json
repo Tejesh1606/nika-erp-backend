@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wu-Jones",
+    "invoice_number": "INV-63113",
+    "date": "2025-12-31",
+    "items": [
+        {
+            "description": "Function-based object-oriented open architecture",
+            "quantity": 7,
+            "unit_price": 82.91,
+            "total_price": 580.37
+        },
+        {
+            "description": "Multi-lateral local intranet",
+            "quantity": 2,
+            "unit_price": 421.39,
+            "total_price": 842.78
+        },
+        {
+            "description": "Implemented composite intranet",
+            "quantity": 3,
+            "unit_price": 285.88,
+            "total_price": 857.64
+        }
+    ],
+    "amount": 2280.79
+}

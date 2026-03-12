@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ali-Turner",
+    "invoice_number": "INV-93472",
+    "date": "2026-03-06",
+    "items": [
+        {
+            "description": "User-centric even-keeled collaboration",
+            "quantity": 6,
+            "unit_price": 19.48,
+            "total_price": 116.88
+        },
+        {
+            "description": "Vision-oriented content-based benchmark",
+            "quantity": 10,
+            "unit_price": 313.17,
+            "total_price": 3131.7
+        },
+        {
+            "description": "De-engineered contextually-based algorithm",
+            "quantity": 3,
+            "unit_price": 439.45,
+            "total_price": 1318.35
+        }
+    ],
+    "amount": 4566.93
+}

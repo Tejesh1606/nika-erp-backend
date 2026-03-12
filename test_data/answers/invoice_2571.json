@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cobb-Brennan",
+    "invoice_number": "INV-76964",
+    "date": "2025-04-01",
+    "items": [
+        {
+            "description": "Secured intangible instruction set",
+            "quantity": 3,
+            "unit_price": 468.83,
+            "total_price": 1406.49
+        },
+        {
+            "description": "Innovative bi-directional flexibility",
+            "quantity": 5,
+            "unit_price": 276.72,
+            "total_price": 1383.6
+        },
+        {
+            "description": "Phased zero tolerance hub",
+            "quantity": 4,
+            "unit_price": 87.01,
+            "total_price": 348.04
+        }
+    ],
+    "amount": 3138.13
+}

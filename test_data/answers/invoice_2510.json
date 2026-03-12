@@ -1,0 +1,26 @@
+{
+    "vendor_name": "West, Lambert and Arnold",
+    "invoice_number": "INV-71081",
+    "date": "2025-08-29",
+    "items": [
+        {
+            "description": "Reduced fresh-thinking strategy",
+            "quantity": 4,
+            "unit_price": 275.42,
+            "total_price": 1101.68
+        },
+        {
+            "description": "Fundamental asynchronous product",
+            "quantity": 3,
+            "unit_price": 124.57,
+            "total_price": 373.71
+        },
+        {
+            "description": "Organic intangible methodology",
+            "quantity": 5,
+            "unit_price": 270.89,
+            "total_price": 1354.45
+        }
+    ],
+    "amount": 2829.84
+}

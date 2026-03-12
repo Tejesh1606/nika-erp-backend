@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brady, Dunn and Foster",
+    "invoice_number": "INV-49229",
+    "date": "2025-07-29",
+    "items": [
+        {
+            "description": "Cross-group zero-defect standardization",
+            "quantity": 8,
+            "unit_price": 75.17,
+            "total_price": 601.36
+        },
+        {
+            "description": "Reduced context-sensitive focus group",
+            "quantity": 9,
+            "unit_price": 440.91,
+            "total_price": 3968.19
+        },
+        {
+            "description": "Devolved local open system",
+            "quantity": 6,
+            "unit_price": 16.3,
+            "total_price": 97.8
+        }
+    ],
+    "amount": 4667.35
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Campbell-Frye",
+    "invoice_number": "INV-13774",
+    "date": "2025-08-05",
+    "items": [
+        {
+            "description": "Enhanced modular open system",
+            "quantity": 4,
+            "unit_price": 301.63,
+            "total_price": 1206.52
+        },
+        {
+            "description": "Multi-tiered 24/7 complexity",
+            "quantity": 6,
+            "unit_price": 492.9,
+            "total_price": 2957.4
+        }
+    ],
+    "amount": 4163.92
+}

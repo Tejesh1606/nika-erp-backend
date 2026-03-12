@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Dixon, Spears and Kim",
+    "invoice_number": "INV-49818",
+    "date": "2025-10-30",
+    "items": [
+        {
+            "description": "Persevering 6thgeneration encryption",
+            "quantity": 2,
+            "unit_price": 409.44,
+            "total_price": 818.88
+        },
+        {
+            "description": "Universal foreground analyzer",
+            "quantity": 1,
+            "unit_price": 104.5,
+            "total_price": 104.5
+        },
+        {
+            "description": "Operative mobile Graphic Interface",
+            "quantity": 9,
+            "unit_price": 52.96,
+            "total_price": 476.64
+        }
+    ],
+    "amount": 1400.02
+}

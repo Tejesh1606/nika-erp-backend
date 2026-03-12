@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Waller PLC",
+    "invoice_number": "INV-36512",
+    "date": "2025-09-20",
+    "items": [
+        {
+            "description": "User-centric demand-driven architecture",
+            "quantity": 1,
+            "unit_price": 441.23,
+            "total_price": 441.23
+        }
+    ],
+    "amount": 441.23
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Cross-Woodward",
+    "invoice_number": "INV-47851",
+    "date": "2025-11-07",
+    "items": [
+        {
+            "description": "Enterprise-wide bottom-line capacity",
+            "quantity": 5,
+            "unit_price": 126.03,
+            "total_price": 630.15
+        },
+        {
+            "description": "Exclusive 24hour process improvement",
+            "quantity": 7,
+            "unit_price": 256.9,
+            "total_price": 1798.3
+        },
+        {
+            "description": "Virtual eco-centric access",
+            "quantity": 8,
+            "unit_price": 486.05,
+            "total_price": 3888.4
+        },
+        {
+            "description": "Persevering modular methodology",
+            "quantity": 9,
+            "unit_price": 395.31,
+            "total_price": 3557.79
+        }
+    ],
+    "amount": 9874.64
+}

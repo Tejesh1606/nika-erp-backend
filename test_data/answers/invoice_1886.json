@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Rollins, Mitchell and Medina",
+    "invoice_number": "INV-74389",
+    "date": "2025-11-28",
+    "items": [
+        {
+            "description": "Secured upward-trending artificial intelligence",
+            "quantity": 4,
+            "unit_price": 159.01,
+            "total_price": 636.04
+        }
+    ],
+    "amount": 636.04
+}

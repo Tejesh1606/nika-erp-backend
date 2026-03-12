@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Morris-Mahoney",
+    "invoice_number": "INV-87430",
+    "date": "2025-09-17",
+    "items": [
+        {
+            "description": "User-friendly transitional structure",
+            "quantity": 6,
+            "unit_price": 190.05,
+            "total_price": 1140.3
+        },
+        {
+            "description": "Devolved cohesive customer loyalty",
+            "quantity": 10,
+            "unit_price": 334.92,
+            "total_price": 3349.2
+        },
+        {
+            "description": "Down-sized explicit contingency",
+            "quantity": 7,
+            "unit_price": 197.55,
+            "total_price": 1382.85
+        },
+        {
+            "description": "Balanced eco-centric encoding",
+            "quantity": 9,
+            "unit_price": 119.36,
+            "total_price": 1074.24
+        }
+    ],
+    "amount": 6946.59
+}

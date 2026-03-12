@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Washington, Buck and Adkins",
+    "invoice_number": "INV-77605",
+    "date": "2025-04-27",
+    "items": [
+        {
+            "description": "Total empowering policy",
+            "quantity": 6,
+            "unit_price": 427.59,
+            "total_price": 2565.54
+        }
+    ],
+    "amount": 2565.54
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Carlson, Hopkins and Wyatt",
+    "invoice_number": "INV-64343",
+    "date": "2025-10-05",
+    "items": [
+        {
+            "description": "Stand-alone upward-trending framework",
+            "quantity": 2,
+            "unit_price": 74.17,
+            "total_price": 148.34
+        }
+    ],
+    "amount": 148.34
+}

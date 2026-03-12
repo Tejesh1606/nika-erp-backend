@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Bush PLC",
+    "invoice_number": "INV-59331",
+    "date": "2025-09-11",
+    "items": [
+        {
+            "description": "Cross-platform actuating infrastructure",
+            "quantity": 5,
+            "unit_price": 237.44,
+            "total_price": 1187.2
+        },
+        {
+            "description": "Operative fresh-thinking synergy",
+            "quantity": 8,
+            "unit_price": 192.48,
+            "total_price": 1539.84
+        },
+        {
+            "description": "Optimized 3rdgeneration concept",
+            "quantity": 10,
+            "unit_price": 384.32,
+            "total_price": 3843.2
+        },
+        {
+            "description": "Implemented optimal concept",
+            "quantity": 10,
+            "unit_price": 464.43,
+            "total_price": 4644.3
+        }
+    ],
+    "amount": 11214.54
+}

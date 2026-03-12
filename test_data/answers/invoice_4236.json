@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Dunn LLC",
+    "invoice_number": "INV-17162",
+    "date": "2025-04-17",
+    "items": [
+        {
+            "description": "Multi-tiered eco-centric Graphic Interface",
+            "quantity": 4,
+            "unit_price": 478.96,
+            "total_price": 1915.84
+        },
+        {
+            "description": "Fundamental incremental info-mediaries",
+            "quantity": 6,
+            "unit_price": 484.01,
+            "total_price": 2904.06
+        },
+        {
+            "description": "Distributed holistic intranet",
+            "quantity": 10,
+            "unit_price": 140.41,
+            "total_price": 1404.1
+        }
+    ],
+    "amount": 6224.0
+}

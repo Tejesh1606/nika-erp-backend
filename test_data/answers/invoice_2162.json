@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lynch PLC",
+    "invoice_number": "INV-86786",
+    "date": "2026-01-09",
+    "items": [
+        {
+            "description": "Assimilated system-worthy alliance",
+            "quantity": 7,
+            "unit_price": 94.2,
+            "total_price": 659.4
+        },
+        {
+            "description": "Customizable actuating monitoring",
+            "quantity": 7,
+            "unit_price": 447.29,
+            "total_price": 3131.03
+        },
+        {
+            "description": "Right-sized neutral Graphical User Interface",
+            "quantity": 8,
+            "unit_price": 292.52,
+            "total_price": 2340.16
+        },
+        {
+            "description": "Polarized discrete orchestration",
+            "quantity": 9,
+            "unit_price": 221.82,
+            "total_price": 1996.38
+        }
+    ],
+    "amount": 8126.97
+}

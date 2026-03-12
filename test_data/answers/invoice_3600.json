@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson Inc",
+    "invoice_number": "INV-36824",
+    "date": "2025-07-30",
+    "items": [
+        {
+            "description": "Open-architected disintermediate superstructure",
+            "quantity": 9,
+            "unit_price": 465.54,
+            "total_price": 4189.86
+        },
+        {
+            "description": "Re-contextualized user-facing protocol",
+            "quantity": 4,
+            "unit_price": 147.39,
+            "total_price": 589.56
+        },
+        {
+            "description": "Persevering executive superstructure",
+            "quantity": 10,
+            "unit_price": 446.37,
+            "total_price": 4463.7
+        },
+        {
+            "description": "Progressive zero tolerance secured line",
+            "quantity": 4,
+            "unit_price": 472.08,
+            "total_price": 1888.32
+        }
+    ],
+    "amount": 11131.44
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Kent LLC",
+    "invoice_number": "INV-46492",
+    "date": "2025-12-25",
+    "items": [
+        {
+            "description": "Innovative modular circuit",
+            "quantity": 9,
+            "unit_price": 31.65,
+            "total_price": 284.85
+        },
+        {
+            "description": "Fundamental bottom-line pricing structure",
+            "quantity": 9,
+            "unit_price": 449.99,
+            "total_price": 4049.91
+        },
+        {
+            "description": "Cross-platform interactive functionalities",
+            "quantity": 3,
+            "unit_price": 150.95,
+            "total_price": 452.85
+        },
+        {
+            "description": "Streamlined 5thgeneration core",
+            "quantity": 1,
+            "unit_price": 490.54,
+            "total_price": 490.54
+        }
+    ],
+    "amount": 5278.15
+}

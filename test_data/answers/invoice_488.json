@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Foster, Barron and Norman",
+    "invoice_number": "INV-57600",
+    "date": "2025-12-24",
+    "items": [
+        {
+            "description": "Reverse-engineered multi-state knowledge user",
+            "quantity": 3,
+            "unit_price": 423.59,
+            "total_price": 1270.77
+        }
+    ],
+    "amount": 1270.77
+}

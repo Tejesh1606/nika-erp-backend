@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ingram Ltd",
+    "invoice_number": "INV-55240",
+    "date": "2025-04-25",
+    "items": [
+        {
+            "description": "Assimilated cohesive support",
+            "quantity": 9,
+            "unit_price": 174.64,
+            "total_price": 1571.76
+        },
+        {
+            "description": "Configurable exuding application",
+            "quantity": 4,
+            "unit_price": 452.5,
+            "total_price": 1810.0
+        }
+    ],
+    "amount": 3381.76
+}

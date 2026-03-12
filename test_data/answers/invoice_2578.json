@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Murray, Johnson and Johnson",
+    "invoice_number": "INV-37291",
+    "date": "2025-09-09",
+    "items": [
+        {
+            "description": "De-engineered homogeneous approach",
+            "quantity": 8,
+            "unit_price": 223.51,
+            "total_price": 1788.08
+        },
+        {
+            "description": "Phased system-worthy concept",
+            "quantity": 6,
+            "unit_price": 497.35,
+            "total_price": 2984.1
+        }
+    ],
+    "amount": 4772.18
+}

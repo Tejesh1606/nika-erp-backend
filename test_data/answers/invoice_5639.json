@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hodges Inc",
+    "invoice_number": "INV-87430",
+    "date": "2025-08-31",
+    "items": [
+        {
+            "description": "Operative multi-tasking success",
+            "quantity": 6,
+            "unit_price": 160.35,
+            "total_price": 962.1
+        },
+        {
+            "description": "Upgradable real-time definition",
+            "quantity": 6,
+            "unit_price": 289.11,
+            "total_price": 1734.66
+        },
+        {
+            "description": "Fully-configurable even-keeled hierarchy",
+            "quantity": 8,
+            "unit_price": 487.24,
+            "total_price": 3897.92
+        }
+    ],
+    "amount": 6594.68
+}

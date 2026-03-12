@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson LLC",
+    "invoice_number": "INV-82642",
+    "date": "2025-04-14",
+    "items": [
+        {
+            "description": "Right-sized radical toolset",
+            "quantity": 7,
+            "unit_price": 198.7,
+            "total_price": 1390.9
+        },
+        {
+            "description": "Inverse human-resource access",
+            "quantity": 5,
+            "unit_price": 80.39,
+            "total_price": 401.95
+        },
+        {
+            "description": "Implemented incremental info-mediaries",
+            "quantity": 6,
+            "unit_price": 192.56,
+            "total_price": 1155.36
+        },
+        {
+            "description": "Vision-oriented attitude-oriented success",
+            "quantity": 3,
+            "unit_price": 72.78,
+            "total_price": 218.34
+        }
+    ],
+    "amount": 3166.55
+}

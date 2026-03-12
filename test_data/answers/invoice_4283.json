@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Gray LLC",
+    "invoice_number": "INV-16879",
+    "date": "2026-02-23",
+    "items": [
+        {
+            "description": "Reactive coherent core",
+            "quantity": 9,
+            "unit_price": 33.47,
+            "total_price": 301.23
+        },
+        {
+            "description": "Customer-focused 24hour architecture",
+            "quantity": 3,
+            "unit_price": 149.68,
+            "total_price": 449.04
+        },
+        {
+            "description": "Phased attitude-oriented solution",
+            "quantity": 8,
+            "unit_price": 283.75,
+            "total_price": 2270.0
+        }
+    ],
+    "amount": 3020.27
+}

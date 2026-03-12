@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hill-Gonzalez",
+    "invoice_number": "INV-22054",
+    "date": "2025-07-22",
+    "items": [
+        {
+            "description": "Triple-buffered neutral projection",
+            "quantity": 8,
+            "unit_price": 409.64,
+            "total_price": 3277.12
+        },
+        {
+            "description": "Implemented maximized synergy",
+            "quantity": 2,
+            "unit_price": 246.87,
+            "total_price": 493.74
+        },
+        {
+            "description": "Proactive intermediate migration",
+            "quantity": 1,
+            "unit_price": 418.79,
+            "total_price": 418.79
+        },
+        {
+            "description": "Open-architected content-based extranet",
+            "quantity": 1,
+            "unit_price": 236.35,
+            "total_price": 236.35
+        }
+    ],
+    "amount": 4426.0
+}

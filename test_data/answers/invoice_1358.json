@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Oconnell and Sons",
+    "invoice_number": "INV-22397",
+    "date": "2025-06-05",
+    "items": [
+        {
+            "description": "Persevering bifurcated capability",
+            "quantity": 5,
+            "unit_price": 150.34,
+            "total_price": 751.7
+        },
+        {
+            "description": "Reactive transitional frame",
+            "quantity": 10,
+            "unit_price": 30.86,
+            "total_price": 308.6
+        },
+        {
+            "description": "De-engineered grid-enabled function",
+            "quantity": 4,
+            "unit_price": 468.72,
+            "total_price": 1874.88
+        }
+    ],
+    "amount": 2935.18
+}

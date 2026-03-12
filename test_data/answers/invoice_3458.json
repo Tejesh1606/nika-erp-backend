@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jackson and Sons",
+    "invoice_number": "INV-88916",
+    "date": "2025-07-11",
+    "items": [
+        {
+            "description": "Fundamental next generation analyzer",
+            "quantity": 3,
+            "unit_price": 45.39,
+            "total_price": 136.17
+        }
+    ],
+    "amount": 136.17
+}

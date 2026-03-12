@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gardner-Mcgee",
+    "invoice_number": "INV-39899",
+    "date": "2025-10-23",
+    "items": [
+        {
+            "description": "Down-sized 6thgeneration solution",
+            "quantity": 3,
+            "unit_price": 13.39,
+            "total_price": 40.17
+        },
+        {
+            "description": "Multi-channeled incremental Local Area Network",
+            "quantity": 9,
+            "unit_price": 328.18,
+            "total_price": 2953.62
+        },
+        {
+            "description": "Persistent fresh-thinking utilization",
+            "quantity": 8,
+            "unit_price": 128.66,
+            "total_price": 1029.28
+        },
+        {
+            "description": "Open-architected maximized Local Area Network",
+            "quantity": 2,
+            "unit_price": 111.99,
+            "total_price": 223.98
+        }
+    ],
+    "amount": 4247.05
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Watkins, Young and Weiss",
+    "invoice_number": "INV-74040",
+    "date": "2025-10-13",
+    "items": [
+        {
+            "description": "Phased 3rdgeneration functionalities",
+            "quantity": 6,
+            "unit_price": 409.71,
+            "total_price": 2458.26
+        },
+        {
+            "description": "Profound bandwidth-monitored info-mediaries",
+            "quantity": 4,
+            "unit_price": 315.55,
+            "total_price": 1262.2
+        },
+        {
+            "description": "Versatile client-server process improvement",
+            "quantity": 3,
+            "unit_price": 408.36,
+            "total_price": 1225.08
+        }
+    ],
+    "amount": 4945.54
+}

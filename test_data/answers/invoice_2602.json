@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Price Group",
+    "invoice_number": "INV-81810",
+    "date": "2025-06-15",
+    "items": [
+        {
+            "description": "Monitored global concept",
+            "quantity": 7,
+            "unit_price": 399.92,
+            "total_price": 2799.44
+        },
+        {
+            "description": "Inverse context-sensitive system engine",
+            "quantity": 7,
+            "unit_price": 341.97,
+            "total_price": 2393.79
+        },
+        {
+            "description": "Streamlined modular support",
+            "quantity": 2,
+            "unit_price": 375.33,
+            "total_price": 750.66
+        },
+        {
+            "description": "Integrated asynchronous ability",
+            "quantity": 9,
+            "unit_price": 130.85,
+            "total_price": 1177.65
+        }
+    ],
+    "amount": 7121.54
+}

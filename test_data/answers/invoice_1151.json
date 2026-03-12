@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wolfe-Gordon",
+    "invoice_number": "INV-17077",
+    "date": "2025-07-21",
+    "items": [
+        {
+            "description": "Open-source tertiary process improvement",
+            "quantity": 3,
+            "unit_price": 263.27,
+            "total_price": 789.81
+        }
+    ],
+    "amount": 789.81
+}

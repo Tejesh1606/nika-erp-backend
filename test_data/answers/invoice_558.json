@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Pierce-Williams",
+    "invoice_number": "INV-32398",
+    "date": "2026-02-26",
+    "items": [
+        {
+            "description": "Managed non-volatile protocol",
+            "quantity": 9,
+            "unit_price": 311.75,
+            "total_price": 2805.75
+        },
+        {
+            "description": "Distributed cohesive circuit",
+            "quantity": 8,
+            "unit_price": 332.13,
+            "total_price": 2657.04
+        },
+        {
+            "description": "Enhanced zero administration structure",
+            "quantity": 9,
+            "unit_price": 74.18,
+            "total_price": 667.62
+        },
+        {
+            "description": "Business-focused intangible function",
+            "quantity": 9,
+            "unit_price": 399.89,
+            "total_price": 3599.01
+        }
+    ],
+    "amount": 9729.42
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Porter Ltd",
+    "invoice_number": "INV-56486",
+    "date": "2025-07-18",
+    "items": [
+        {
+            "description": "Face-to-face intangible interface",
+            "quantity": 3,
+            "unit_price": 246.18,
+            "total_price": 738.54
+        },
+        {
+            "description": "Synergized web-enabled initiative",
+            "quantity": 10,
+            "unit_price": 332.32,
+            "total_price": 3323.2
+        }
+    ],
+    "amount": 4061.74
+}

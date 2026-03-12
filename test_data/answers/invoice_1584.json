@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Porter-Ramsey",
+    "invoice_number": "INV-63046",
+    "date": "2025-03-28",
+    "items": [
+        {
+            "description": "Reverse-engineered exuding website",
+            "quantity": 4,
+            "unit_price": 94.14,
+            "total_price": 376.56
+        },
+        {
+            "description": "Function-based bi-directional circuit",
+            "quantity": 4,
+            "unit_price": 325.17,
+            "total_price": 1300.68
+        },
+        {
+            "description": "Realigned directional toolset",
+            "quantity": 4,
+            "unit_price": 192.44,
+            "total_price": 769.76
+        },
+        {
+            "description": "Face-to-face dynamic Local Area Network",
+            "quantity": 7,
+            "unit_price": 351.2,
+            "total_price": 2458.4
+        }
+    ],
+    "amount": 4905.4
+}

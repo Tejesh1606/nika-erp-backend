@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Gonzales, Klein and Campbell",
+    "invoice_number": "INV-31900",
+    "date": "2025-04-24",
+    "items": [
+        {
+            "description": "Polarized static Graphical User Interface",
+            "quantity": 2,
+            "unit_price": 210.76,
+            "total_price": 421.52
+        },
+        {
+            "description": "Networked client-driven flexibility",
+            "quantity": 2,
+            "unit_price": 99.26,
+            "total_price": 198.52
+        },
+        {
+            "description": "Polarized radical portal",
+            "quantity": 2,
+            "unit_price": 99.5,
+            "total_price": 199.0
+        }
+    ],
+    "amount": 819.04
+}

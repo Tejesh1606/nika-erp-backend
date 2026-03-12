@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Martin, Stewart and Turner",
+    "invoice_number": "INV-85412",
+    "date": "2025-08-02",
+    "items": [
+        {
+            "description": "Customizable user-facing intranet",
+            "quantity": 6,
+            "unit_price": 484.99,
+            "total_price": 2909.94
+        },
+        {
+            "description": "Business-focused non-volatile paradigm",
+            "quantity": 10,
+            "unit_price": 45.69,
+            "total_price": 456.9
+        },
+        {
+            "description": "Profit-focused local database",
+            "quantity": 10,
+            "unit_price": 227.2,
+            "total_price": 2272.0
+        },
+        {
+            "description": "Compatible modular access",
+            "quantity": 3,
+            "unit_price": 395.53,
+            "total_price": 1186.59
+        }
+    ],
+    "amount": 6825.43
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jimenez-Brooks",
+    "invoice_number": "INV-49629",
+    "date": "2025-09-20",
+    "items": [
+        {
+            "description": "Proactive 6thgeneration support",
+            "quantity": 8,
+            "unit_price": 421.79,
+            "total_price": 3374.32
+        }
+    ],
+    "amount": 3374.32
+}

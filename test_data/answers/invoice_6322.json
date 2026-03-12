@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Murray-Deleon",
+    "invoice_number": "INV-21685",
+    "date": "2025-07-05",
+    "items": [
+        {
+            "description": "Team-oriented zero tolerance info-mediaries",
+            "quantity": 4,
+            "unit_price": 176.34,
+            "total_price": 705.36
+        },
+        {
+            "description": "Grass-roots cohesive groupware",
+            "quantity": 4,
+            "unit_price": 38.25,
+            "total_price": 153.0
+        },
+        {
+            "description": "Visionary 4thgeneration migration",
+            "quantity": 6,
+            "unit_price": 41.46,
+            "total_price": 248.76
+        }
+    ],
+    "amount": 1107.12
+}

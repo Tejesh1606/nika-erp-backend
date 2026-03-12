@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bauer-Cooper",
+    "invoice_number": "INV-38468",
+    "date": "2025-05-01",
+    "items": [
+        {
+            "description": "User-friendly discrete artificial intelligence",
+            "quantity": 6,
+            "unit_price": 388.3,
+            "total_price": 2329.8
+        },
+        {
+            "description": "Networked solution-oriented product",
+            "quantity": 8,
+            "unit_price": 447.48,
+            "total_price": 3579.84
+        },
+        {
+            "description": "Persistent maximized toolset",
+            "quantity": 4,
+            "unit_price": 210.03,
+            "total_price": 840.12
+        }
+    ],
+    "amount": 6749.76
+}

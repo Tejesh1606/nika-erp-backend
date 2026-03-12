@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Perez-Lara",
+    "invoice_number": "INV-32707",
+    "date": "2025-12-29",
+    "items": [
+        {
+            "description": "Extended even-keeled toolset",
+            "quantity": 10,
+            "unit_price": 256.51,
+            "total_price": 2565.1
+        },
+        {
+            "description": "Focused zero-defect moderator",
+            "quantity": 4,
+            "unit_price": 47.28,
+            "total_price": 189.12
+        },
+        {
+            "description": "Realigned multi-tasking alliance",
+            "quantity": 5,
+            "unit_price": 317.54,
+            "total_price": 1587.7
+        },
+        {
+            "description": "Integrated motivating hardware",
+            "quantity": 6,
+            "unit_price": 378.48,
+            "total_price": 2270.88
+        }
+    ],
+    "amount": 6612.8
+}

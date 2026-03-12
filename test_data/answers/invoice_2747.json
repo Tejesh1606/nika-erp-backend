@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ford-Oconnor",
+    "invoice_number": "INV-11073",
+    "date": "2025-03-28",
+    "items": [
+        {
+            "description": "Persevering dedicated focus group",
+            "quantity": 6,
+            "unit_price": 358.66,
+            "total_price": 2151.96
+        }
+    ],
+    "amount": 2151.96
+}

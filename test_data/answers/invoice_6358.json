@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Harris-Rodriguez",
+    "invoice_number": "INV-86993",
+    "date": "2026-02-20",
+    "items": [
+        {
+            "description": "Seamless interactive process improvement",
+            "quantity": 3,
+            "unit_price": 307.1,
+            "total_price": 921.3
+        },
+        {
+            "description": "Reduced fault-tolerant infrastructure",
+            "quantity": 10,
+            "unit_price": 434.68,
+            "total_price": 4346.8
+        }
+    ],
+    "amount": 5268.1
+}

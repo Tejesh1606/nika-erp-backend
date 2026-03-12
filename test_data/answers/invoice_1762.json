@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Page, Wood and Johnson",
+    "invoice_number": "INV-94649",
+    "date": "2025-09-15",
+    "items": [
+        {
+            "description": "Programmable empowering info-mediaries",
+            "quantity": 9,
+            "unit_price": 285.84,
+            "total_price": 2572.56
+        },
+        {
+            "description": "Realigned fresh-thinking adapter",
+            "quantity": 8,
+            "unit_price": 49.96,
+            "total_price": 399.68
+        },
+        {
+            "description": "Seamless fresh-thinking system engine",
+            "quantity": 2,
+            "unit_price": 474.23,
+            "total_price": 948.46
+        },
+        {
+            "description": "Pre-emptive zero administration software",
+            "quantity": 5,
+            "unit_price": 51.34,
+            "total_price": 256.7
+        }
+    ],
+    "amount": 4177.4
+}

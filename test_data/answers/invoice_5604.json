@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cruz, Phillips and Morrison",
+    "invoice_number": "INV-91669",
+    "date": "2025-04-14",
+    "items": [
+        {
+            "description": "Quality-focused heuristic capability",
+            "quantity": 3,
+            "unit_price": 89.44,
+            "total_price": 268.32
+        }
+    ],
+    "amount": 268.32
+}

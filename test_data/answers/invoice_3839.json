@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Johnson, Foster and Figueroa",
+    "invoice_number": "INV-45108",
+    "date": "2025-09-07",
+    "items": [
+        {
+            "description": "Operative optimal architecture",
+            "quantity": 5,
+            "unit_price": 14.92,
+            "total_price": 74.6
+        },
+        {
+            "description": "Devolved secondary utilization",
+            "quantity": 9,
+            "unit_price": 28.02,
+            "total_price": 252.18
+        },
+        {
+            "description": "Expanded modular methodology",
+            "quantity": 4,
+            "unit_price": 45.3,
+            "total_price": 181.2
+        }
+    ],
+    "amount": 507.98
+}

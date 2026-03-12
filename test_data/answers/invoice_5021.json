@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Parks, Lucero and Hall",
+    "invoice_number": "INV-75608",
+    "date": "2025-08-24",
+    "items": [
+        {
+            "description": "Front-line intangible product",
+            "quantity": 10,
+            "unit_price": 174.47,
+            "total_price": 1744.7
+        },
+        {
+            "description": "Innovative static function",
+            "quantity": 5,
+            "unit_price": 345.0,
+            "total_price": 1725.0
+        },
+        {
+            "description": "Up-sized fault-tolerant paradigm",
+            "quantity": 1,
+            "unit_price": 186.93,
+            "total_price": 186.93
+        }
+    ],
+    "amount": 3656.63
+}

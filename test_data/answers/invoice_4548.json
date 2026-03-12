@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Riley Inc",
+    "invoice_number": "INV-85432",
+    "date": "2026-01-14",
+    "items": [
+        {
+            "description": "Streamlined homogeneous budgetary management",
+            "quantity": 8,
+            "unit_price": 226.43,
+            "total_price": 1811.44
+        },
+        {
+            "description": "Multi-channeled analyzing matrices",
+            "quantity": 1,
+            "unit_price": 390.12,
+            "total_price": 390.12
+        },
+        {
+            "description": "Customizable actuating Internet solution",
+            "quantity": 1,
+            "unit_price": 334.32,
+            "total_price": 334.32
+        }
+    ],
+    "amount": 2535.88
+}

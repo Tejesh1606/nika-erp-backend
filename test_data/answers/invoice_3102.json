@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Austin, Montes and Cole",
+    "invoice_number": "INV-89202",
+    "date": "2025-06-06",
+    "items": [
+        {
+            "description": "Fully-configurable real-time benchmark",
+            "quantity": 4,
+            "unit_price": 192.5,
+            "total_price": 770.0
+        },
+        {
+            "description": "Triple-buffered discrete infrastructure",
+            "quantity": 10,
+            "unit_price": 299.25,
+            "total_price": 2992.5
+        }
+    ],
+    "amount": 3762.5
+}

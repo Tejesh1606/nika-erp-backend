@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith, Vincent and Peters",
+    "invoice_number": "INV-55214",
+    "date": "2025-09-20",
+    "items": [
+        {
+            "description": "Universal methodical challenge",
+            "quantity": 7,
+            "unit_price": 237.49,
+            "total_price": 1662.43
+        }
+    ],
+    "amount": 1662.43
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Garcia-Hicks",
+    "invoice_number": "INV-48341",
+    "date": "2025-06-24",
+    "items": [
+        {
+            "description": "Multi-tiered optimizing instruction set",
+            "quantity": 4,
+            "unit_price": 265.65,
+            "total_price": 1062.6
+        },
+        {
+            "description": "Horizontal high-level task-force",
+            "quantity": 3,
+            "unit_price": 495.58,
+            "total_price": 1486.74
+        },
+        {
+            "description": "Stand-alone motivating portal",
+            "quantity": 4,
+            "unit_price": 34.16,
+            "total_price": 136.64
+        },
+        {
+            "description": "Virtual contextually-based extranet",
+            "quantity": 6,
+            "unit_price": 327.37,
+            "total_price": 1964.22
+        }
+    ],
+    "amount": 4650.2
+}

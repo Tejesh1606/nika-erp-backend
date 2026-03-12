@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Harrington Ltd",
+    "invoice_number": "INV-18876",
+    "date": "2025-12-10",
+    "items": [
+        {
+            "description": "Re-engineered upward-trending emulation",
+            "quantity": 8,
+            "unit_price": 295.43,
+            "total_price": 2363.44
+        },
+        {
+            "description": "Switchable context-sensitive Graphical User Interface",
+            "quantity": 1,
+            "unit_price": 68.02,
+            "total_price": 68.02
+        },
+        {
+            "description": "Devolved zero tolerance monitoring",
+            "quantity": 8,
+            "unit_price": 387.58,
+            "total_price": 3100.64
+        },
+        {
+            "description": "Distributed scalable workforce",
+            "quantity": 9,
+            "unit_price": 222.29,
+            "total_price": 2000.61
+        }
+    ],
+    "amount": 7532.71
+}

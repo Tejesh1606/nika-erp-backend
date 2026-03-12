@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Torres LLC",
+    "invoice_number": "INV-73077",
+    "date": "2025-10-19",
+    "items": [
+        {
+            "description": "Total client-driven matrices",
+            "quantity": 8,
+            "unit_price": 259.92,
+            "total_price": 2079.36
+        },
+        {
+            "description": "Customer-focused even-keeled knowledge user",
+            "quantity": 9,
+            "unit_price": 22.5,
+            "total_price": 202.5
+        }
+    ],
+    "amount": 2281.86
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Delgado Inc",
+    "invoice_number": "INV-88069",
+    "date": "2025-07-18",
+    "items": [
+        {
+            "description": "Focused motivating Graphical User Interface",
+            "quantity": 2,
+            "unit_price": 181.91,
+            "total_price": 363.82
+        },
+        {
+            "description": "Self-enabling foreground matrices",
+            "quantity": 5,
+            "unit_price": 192.81,
+            "total_price": 964.05
+        },
+        {
+            "description": "User-centric encompassing conglomeration",
+            "quantity": 9,
+            "unit_price": 70.97,
+            "total_price": 638.73
+        }
+    ],
+    "amount": 1966.6
+}

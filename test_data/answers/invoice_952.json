@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ramirez-Daniel",
+    "invoice_number": "INV-65314",
+    "date": "2025-04-06",
+    "items": [
+        {
+            "description": "Reactive eco-centric firmware",
+            "quantity": 8,
+            "unit_price": 212.91,
+            "total_price": 1703.28
+        },
+        {
+            "description": "Multi-tiered solution-oriented complexity",
+            "quantity": 8,
+            "unit_price": 413.66,
+            "total_price": 3309.28
+        },
+        {
+            "description": "Open-architected logistical artificial intelligence",
+            "quantity": 1,
+            "unit_price": 243.06,
+            "total_price": 243.06
+        }
+    ],
+    "amount": 5255.62
+}

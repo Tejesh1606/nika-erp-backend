@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Stephens, Compton and Armstrong",
+    "invoice_number": "INV-13314",
+    "date": "2025-12-22",
+    "items": [
+        {
+            "description": "Upgradable clear-thinking knowledgebase",
+            "quantity": 5,
+            "unit_price": 325.98,
+            "total_price": 1629.9
+        },
+        {
+            "description": "Sharable responsive time-frame",
+            "quantity": 1,
+            "unit_price": 236.59,
+            "total_price": 236.59
+        },
+        {
+            "description": "Multi-channeled contextually-based encoding",
+            "quantity": 7,
+            "unit_price": 404.14,
+            "total_price": 2828.98
+        },
+        {
+            "description": "Streamlined directional framework",
+            "quantity": 10,
+            "unit_price": 165.74,
+            "total_price": 1657.4
+        }
+    ],
+    "amount": 6352.87
+}

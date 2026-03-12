@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mccoy Inc",
+    "invoice_number": "INV-81830",
+    "date": "2025-10-26",
+    "items": [
+        {
+            "description": "Networked grid-enabled product",
+            "quantity": 1,
+            "unit_price": 443.02,
+            "total_price": 443.02
+        },
+        {
+            "description": "Monitored multi-tasking data-warehouse",
+            "quantity": 8,
+            "unit_price": 441.13,
+            "total_price": 3529.04
+        }
+    ],
+    "amount": 3972.06
+}

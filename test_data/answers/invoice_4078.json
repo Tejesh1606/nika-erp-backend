@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson-Underwood",
+    "invoice_number": "INV-67043",
+    "date": "2025-12-25",
+    "items": [
+        {
+            "description": "Secured eco-centric extranet",
+            "quantity": 4,
+            "unit_price": 398.2,
+            "total_price": 1592.8
+        },
+        {
+            "description": "Reactive tertiary attitude",
+            "quantity": 3,
+            "unit_price": 206.7,
+            "total_price": 620.1
+        },
+        {
+            "description": "Future-proofed value-added function",
+            "quantity": 6,
+            "unit_price": 360.37,
+            "total_price": 2162.22
+        },
+        {
+            "description": "Adaptive 24hour approach",
+            "quantity": 4,
+            "unit_price": 456.81,
+            "total_price": 1827.24
+        }
+    ],
+    "amount": 6202.36
+}

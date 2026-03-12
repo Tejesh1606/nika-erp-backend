@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Edwards, Cortez and Lowe",
+    "invoice_number": "INV-26673",
+    "date": "2026-01-27",
+    "items": [
+        {
+            "description": "Advanced content-based moratorium",
+            "quantity": 8,
+            "unit_price": 319.34,
+            "total_price": 2554.72
+        }
+    ],
+    "amount": 2554.72
+}

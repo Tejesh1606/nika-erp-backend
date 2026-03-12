@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Baldwin, Green and Wilson",
+    "invoice_number": "INV-25929",
+    "date": "2025-10-10",
+    "items": [
+        {
+            "description": "Virtual 5thgeneration architecture",
+            "quantity": 7,
+            "unit_price": 205.3,
+            "total_price": 1437.1
+        },
+        {
+            "description": "Progressive value-added leverage",
+            "quantity": 5,
+            "unit_price": 346.61,
+            "total_price": 1733.05
+        },
+        {
+            "description": "Grass-roots maximized concept",
+            "quantity": 3,
+            "unit_price": 410.58,
+            "total_price": 1231.74
+        }
+    ],
+    "amount": 4401.89
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ortiz and Sons",
+    "invoice_number": "INV-78224",
+    "date": "2025-04-03",
+    "items": [
+        {
+            "description": "Focused background process improvement",
+            "quantity": 6,
+            "unit_price": 103.79,
+            "total_price": 622.74
+        }
+    ],
+    "amount": 622.74
+}

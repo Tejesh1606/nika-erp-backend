@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Rivera LLC",
+    "invoice_number": "INV-16599",
+    "date": "2025-09-21",
+    "items": [
+        {
+            "description": "Face-to-face neutral project",
+            "quantity": 8,
+            "unit_price": 101.75,
+            "total_price": 814.0
+        },
+        {
+            "description": "Multi-tiered impactful encoding",
+            "quantity": 3,
+            "unit_price": 291.62,
+            "total_price": 874.86
+        }
+    ],
+    "amount": 1688.86
+}

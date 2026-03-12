@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bowman Group",
+    "invoice_number": "INV-11403",
+    "date": "2025-05-26",
+    "items": [
+        {
+            "description": "Switchable multi-state forecast",
+            "quantity": 10,
+            "unit_price": 36.06,
+            "total_price": 360.6
+        },
+        {
+            "description": "Ergonomic 5thgeneration toolset",
+            "quantity": 8,
+            "unit_price": 375.98,
+            "total_price": 3007.84
+        }
+    ],
+    "amount": 3368.44
+}

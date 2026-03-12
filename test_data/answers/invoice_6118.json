@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gonzalez, Gray and Knight",
+    "invoice_number": "INV-93876",
+    "date": "2025-12-27",
+    "items": [
+        {
+            "description": "Ergonomic incremental Graphical User Interface",
+            "quantity": 8,
+            "unit_price": 339.18,
+            "total_price": 2713.44
+        },
+        {
+            "description": "Profit-focused homogeneous superstructure",
+            "quantity": 8,
+            "unit_price": 214.21,
+            "total_price": 1713.68
+        }
+    ],
+    "amount": 4427.12
+}

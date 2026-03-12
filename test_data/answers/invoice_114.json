@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Price LLC",
+    "invoice_number": "INV-97881",
+    "date": "2025-12-22",
+    "items": [
+        {
+            "description": "Total needs-based instruction set",
+            "quantity": 1,
+            "unit_price": 74.43,
+            "total_price": 74.43
+        },
+        {
+            "description": "Reverse-engineered value-added superstructure",
+            "quantity": 2,
+            "unit_price": 356.57,
+            "total_price": 713.14
+        }
+    ],
+    "amount": 787.57
+}

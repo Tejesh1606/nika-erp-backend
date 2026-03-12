@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Martin Ltd",
+    "invoice_number": "INV-66266",
+    "date": "2025-07-06",
+    "items": [
+        {
+            "description": "Multi-tiered upward-trending service-desk",
+            "quantity": 5,
+            "unit_price": 485.75,
+            "total_price": 2428.75
+        }
+    ],
+    "amount": 2428.75
+}

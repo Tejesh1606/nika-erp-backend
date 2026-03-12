@@ -1,0 +1,26 @@
+{
+    "vendor_name": "James-Marshall",
+    "invoice_number": "INV-92153",
+    "date": "2025-10-23",
+    "items": [
+        {
+            "description": "Implemented client-server utilization",
+            "quantity": 2,
+            "unit_price": 432.78,
+            "total_price": 865.56
+        },
+        {
+            "description": "Inverse non-volatile installation",
+            "quantity": 3,
+            "unit_price": 472.5,
+            "total_price": 1417.5
+        },
+        {
+            "description": "Face-to-face exuding paradigm",
+            "quantity": 6,
+            "unit_price": 279.04,
+            "total_price": 1674.24
+        }
+    ],
+    "amount": 3957.3
+}

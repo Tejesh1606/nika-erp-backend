@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Sanchez, Harris and Wilson",
+    "invoice_number": "INV-34944",
+    "date": "2025-06-16",
+    "items": [
+        {
+            "description": "Synergized analyzing emulation",
+            "quantity": 9,
+            "unit_price": 165.34,
+            "total_price": 1488.06
+        },
+        {
+            "description": "Pre-emptive modular process improvement",
+            "quantity": 6,
+            "unit_price": 414.51,
+            "total_price": 2487.06
+        },
+        {
+            "description": "Compatible maximized access",
+            "quantity": 10,
+            "unit_price": 447.28,
+            "total_price": 4472.8
+        },
+        {
+            "description": "Vision-oriented didactic matrix",
+            "quantity": 1,
+            "unit_price": 160.12,
+            "total_price": 160.12
+        }
+    ],
+    "amount": 8608.04
+}

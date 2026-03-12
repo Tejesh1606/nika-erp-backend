@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Williams LLC",
+    "invoice_number": "INV-58824",
+    "date": "2025-11-12",
+    "items": [
+        {
+            "description": "Focused optimizing project",
+            "quantity": 1,
+            "unit_price": 312.27,
+            "total_price": 312.27
+        }
+    ],
+    "amount": 312.27
+}

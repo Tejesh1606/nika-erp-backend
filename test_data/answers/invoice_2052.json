@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Livingston-Gutierrez",
+    "invoice_number": "INV-66967",
+    "date": "2025-06-13",
+    "items": [
+        {
+            "description": "Innovative full-range system engine",
+            "quantity": 4,
+            "unit_price": 160.16,
+            "total_price": 640.64
+        },
+        {
+            "description": "Fundamental explicit synergy",
+            "quantity": 2,
+            "unit_price": 391.54,
+            "total_price": 783.08
+        }
+    ],
+    "amount": 1423.72
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Johnson LLC",
+    "invoice_number": "INV-40991",
+    "date": "2025-08-07",
+    "items": [
+        {
+            "description": "Operative uniform challenge",
+            "quantity": 7,
+            "unit_price": 222.55,
+            "total_price": 1557.85
+        },
+        {
+            "description": "Cloned object-oriented hierarchy",
+            "quantity": 2,
+            "unit_price": 498.97,
+            "total_price": 997.94
+        },
+        {
+            "description": "Exclusive incremental moratorium",
+            "quantity": 4,
+            "unit_price": 111.48,
+            "total_price": 445.92
+        }
+    ],
+    "amount": 3001.71
+}

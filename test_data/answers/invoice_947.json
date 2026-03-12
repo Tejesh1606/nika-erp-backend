@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Reeves, Tyler and Martinez",
+    "invoice_number": "INV-37192",
+    "date": "2025-11-19",
+    "items": [
+        {
+            "description": "Decentralized contextually-based policy",
+            "quantity": 4,
+            "unit_price": 324.24,
+            "total_price": 1296.96
+        },
+        {
+            "description": "Team-oriented contextually-based ability",
+            "quantity": 1,
+            "unit_price": 441.76,
+            "total_price": 441.76
+        },
+        {
+            "description": "Realigned local website",
+            "quantity": 1,
+            "unit_price": 415.2,
+            "total_price": 415.2
+        },
+        {
+            "description": "Intuitive bottom-line analyzer",
+            "quantity": 10,
+            "unit_price": 371.01,
+            "total_price": 3710.1
+        }
+    ],
+    "amount": 5864.02
+}

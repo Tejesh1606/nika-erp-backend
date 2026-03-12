@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Watson LLC",
+    "invoice_number": "INV-98794",
+    "date": "2026-01-05",
+    "items": [
+        {
+            "description": "Re-contextualized high-level functionalities",
+            "quantity": 1,
+            "unit_price": 462.05,
+            "total_price": 462.05
+        }
+    ],
+    "amount": 462.05
+}

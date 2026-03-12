@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bates Inc",
+    "invoice_number": "INV-41077",
+    "date": "2025-03-23",
+    "items": [
+        {
+            "description": "Ergonomic client-server framework",
+            "quantity": 7,
+            "unit_price": 410.75,
+            "total_price": 2875.25
+        },
+        {
+            "description": "Extended client-driven portal",
+            "quantity": 9,
+            "unit_price": 157.74,
+            "total_price": 1419.66
+        },
+        {
+            "description": "Reactive didactic parallelism",
+            "quantity": 7,
+            "unit_price": 447.03,
+            "total_price": 3129.21
+        }
+    ],
+    "amount": 7424.12
+}

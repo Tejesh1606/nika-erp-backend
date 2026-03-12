@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Perez-Byrd",
+    "invoice_number": "INV-47683",
+    "date": "2025-09-19",
+    "items": [
+        {
+            "description": "Profit-focused context-sensitive success",
+            "quantity": 3,
+            "unit_price": 342.36,
+            "total_price": 1027.08
+        }
+    ],
+    "amount": 1027.08
+}

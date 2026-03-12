@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cooper and Sons",
+    "invoice_number": "INV-38649",
+    "date": "2025-09-13",
+    "items": [
+        {
+            "description": "Implemented demand-driven neural-net",
+            "quantity": 5,
+            "unit_price": 400.81,
+            "total_price": 2004.05
+        },
+        {
+            "description": "Sharable modular encryption",
+            "quantity": 8,
+            "unit_price": 415.32,
+            "total_price": 3322.56
+        },
+        {
+            "description": "Horizontal foreground application",
+            "quantity": 8,
+            "unit_price": 252.1,
+            "total_price": 2016.8
+        }
+    ],
+    "amount": 7343.41
+}

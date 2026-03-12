@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Miller Ltd",
+    "invoice_number": "INV-56876",
+    "date": "2025-09-09",
+    "items": [
+        {
+            "description": "Open-architected motivating encryption",
+            "quantity": 3,
+            "unit_price": 472.45,
+            "total_price": 1417.35
+        },
+        {
+            "description": "Devolved bottom-line algorithm",
+            "quantity": 2,
+            "unit_price": 300.72,
+            "total_price": 601.44
+        },
+        {
+            "description": "Diverse background orchestration",
+            "quantity": 3,
+            "unit_price": 309.35,
+            "total_price": 928.05
+        }
+    ],
+    "amount": 2946.84
+}

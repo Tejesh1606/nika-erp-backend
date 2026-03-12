@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wilson Inc",
+    "invoice_number": "INV-34150",
+    "date": "2025-11-29",
+    "items": [
+        {
+            "description": "Profit-focused leadingedge paradigm",
+            "quantity": 3,
+            "unit_price": 30.84,
+            "total_price": 92.52
+        },
+        {
+            "description": "Intuitive 6thgeneration neural-net",
+            "quantity": 8,
+            "unit_price": 247.28,
+            "total_price": 1978.24
+        }
+    ],
+    "amount": 2070.76
+}

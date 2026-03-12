@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Garcia-Campbell",
+    "invoice_number": "INV-43894",
+    "date": "2025-07-05",
+    "items": [
+        {
+            "description": "Operative system-worthy website",
+            "quantity": 1,
+            "unit_price": 59.14,
+            "total_price": 59.14
+        },
+        {
+            "description": "Multi-lateral mobile function",
+            "quantity": 2,
+            "unit_price": 405.95,
+            "total_price": 811.9
+        },
+        {
+            "description": "Programmable asymmetric website",
+            "quantity": 5,
+            "unit_price": 294.09,
+            "total_price": 1470.45
+        },
+        {
+            "description": "Implemented user-facing functionalities",
+            "quantity": 10,
+            "unit_price": 482.48,
+            "total_price": 4824.8
+        }
+    ],
+    "amount": 7166.29
+}

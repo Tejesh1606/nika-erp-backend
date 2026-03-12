@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hoffman, Yates and Anthony",
+    "invoice_number": "INV-70766",
+    "date": "2025-10-17",
+    "items": [
+        {
+            "description": "Re-engineered multimedia moderator",
+            "quantity": 6,
+            "unit_price": 315.46,
+            "total_price": 1892.76
+        },
+        {
+            "description": "Fully-configurable full-range toolset",
+            "quantity": 7,
+            "unit_price": 206.33,
+            "total_price": 1444.31
+        },
+        {
+            "description": "Seamless system-worthy workforce",
+            "quantity": 3,
+            "unit_price": 184.01,
+            "total_price": 552.03
+        }
+    ],
+    "amount": 3889.1
+}

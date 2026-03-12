@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Fernandez-Logan",
+    "invoice_number": "INV-45321",
+    "date": "2026-02-04",
+    "items": [
+        {
+            "description": "Inverse regional adapter",
+            "quantity": 2,
+            "unit_price": 344.55,
+            "total_price": 689.1
+        },
+        {
+            "description": "User-friendly methodical database",
+            "quantity": 9,
+            "unit_price": 261.19,
+            "total_price": 2350.71
+        }
+    ],
+    "amount": 3039.81
+}

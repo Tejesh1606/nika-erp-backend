@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wilson-Gibson",
+    "invoice_number": "INV-81444",
+    "date": "2025-05-08",
+    "items": [
+        {
+            "description": "Phased client-server productivity",
+            "quantity": 5,
+            "unit_price": 16.08,
+            "total_price": 80.4
+        }
+    ],
+    "amount": 80.4
+}

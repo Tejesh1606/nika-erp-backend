@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Larsen-Cole",
+    "invoice_number": "INV-96980",
+    "date": "2025-07-11",
+    "items": [
+        {
+            "description": "Right-sized maximized matrix",
+            "quantity": 3,
+            "unit_price": 307.12,
+            "total_price": 921.36
+        },
+        {
+            "description": "Optional mission-critical data-warehouse",
+            "quantity": 1,
+            "unit_price": 47.99,
+            "total_price": 47.99
+        },
+        {
+            "description": "Team-oriented static utilization",
+            "quantity": 2,
+            "unit_price": 172.42,
+            "total_price": 344.84
+        },
+        {
+            "description": "Self-enabling motivating adapter",
+            "quantity": 4,
+            "unit_price": 461.76,
+            "total_price": 1847.04
+        }
+    ],
+    "amount": 3161.23
+}

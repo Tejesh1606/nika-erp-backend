@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Stewart-Hernandez",
+    "invoice_number": "INV-81307",
+    "date": "2025-11-14",
+    "items": [
+        {
+            "description": "De-engineered 24hour workforce",
+            "quantity": 10,
+            "unit_price": 123.12,
+            "total_price": 1231.2
+        },
+        {
+            "description": "Stand-alone methodical policy",
+            "quantity": 5,
+            "unit_price": 95.17,
+            "total_price": 475.85
+        }
+    ],
+    "amount": 1707.05
+}

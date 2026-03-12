@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Simmons PLC",
+    "invoice_number": "INV-29303",
+    "date": "2025-06-05",
+    "items": [
+        {
+            "description": "Cross-group didactic matrix",
+            "quantity": 3,
+            "unit_price": 390.17,
+            "total_price": 1170.51
+        },
+        {
+            "description": "Secured non-volatile software",
+            "quantity": 10,
+            "unit_price": 430.33,
+            "total_price": 4303.3
+        }
+    ],
+    "amount": 5473.81
+}

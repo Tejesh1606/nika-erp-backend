@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Joyce, Murray and Campbell",
+    "invoice_number": "INV-60052",
+    "date": "2025-09-20",
+    "items": [
+        {
+            "description": "Progressive intangible complexity",
+            "quantity": 9,
+            "unit_price": 433.74,
+            "total_price": 3903.66
+        },
+        {
+            "description": "Exclusive real-time challenge",
+            "quantity": 5,
+            "unit_price": 33.85,
+            "total_price": 169.25
+        },
+        {
+            "description": "Function-based actuating project",
+            "quantity": 3,
+            "unit_price": 198.63,
+            "total_price": 595.89
+        }
+    ],
+    "amount": 4668.8
+}

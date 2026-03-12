@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mata-Montoya",
+    "invoice_number": "INV-21937",
+    "date": "2025-12-23",
+    "items": [
+        {
+            "description": "Team-oriented needs-based flexibility",
+            "quantity": 6,
+            "unit_price": 205.35,
+            "total_price": 1232.1
+        },
+        {
+            "description": "Multi-lateral motivating archive",
+            "quantity": 7,
+            "unit_price": 479.2,
+            "total_price": 3354.4
+        },
+        {
+            "description": "Networked discrete application",
+            "quantity": 5,
+            "unit_price": 35.48,
+            "total_price": 177.4
+        }
+    ],
+    "amount": 4763.9
+}

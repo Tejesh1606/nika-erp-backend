@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Pittman-James",
+    "invoice_number": "INV-34009",
+    "date": "2026-01-16",
+    "items": [
+        {
+            "description": "Synchronized grid-enabled budgetary management",
+            "quantity": 7,
+            "unit_price": 402.38,
+            "total_price": 2816.66
+        },
+        {
+            "description": "Team-oriented actuating moderator",
+            "quantity": 3,
+            "unit_price": 326.37,
+            "total_price": 979.11
+        },
+        {
+            "description": "Multi-lateral modular definition",
+            "quantity": 10,
+            "unit_price": 429.77,
+            "total_price": 4297.7
+        },
+        {
+            "description": "Progressive content-based neural-net",
+            "quantity": 8,
+            "unit_price": 254.23,
+            "total_price": 2033.84
+        }
+    ],
+    "amount": 10127.31
+}

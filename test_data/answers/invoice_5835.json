@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Miller-Smith",
+    "invoice_number": "INV-98154",
+    "date": "2026-02-26",
+    "items": [
+        {
+            "description": "Down-sized composite matrices",
+            "quantity": 6,
+            "unit_price": 449.43,
+            "total_price": 2696.58
+        }
+    ],
+    "amount": 2696.58
+}

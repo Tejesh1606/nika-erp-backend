@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Edwards LLC",
+    "invoice_number": "INV-36608",
+    "date": "2025-12-22",
+    "items": [
+        {
+            "description": "Distributed didactic function",
+            "quantity": 10,
+            "unit_price": 271.2,
+            "total_price": 2712.0
+        },
+        {
+            "description": "Cloned high-level process improvement",
+            "quantity": 10,
+            "unit_price": 499.16,
+            "total_price": 4991.6
+        },
+        {
+            "description": "Intuitive optimal knowledge user",
+            "quantity": 4,
+            "unit_price": 173.37,
+            "total_price": 693.48
+        }
+    ],
+    "amount": 8397.08
+}

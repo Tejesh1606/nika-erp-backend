@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Chang-Henderson",
+    "invoice_number": "INV-73730",
+    "date": "2025-06-23",
+    "items": [
+        {
+            "description": "Enhanced client-driven attitude",
+            "quantity": 4,
+            "unit_price": 358.89,
+            "total_price": 1435.56
+        },
+        {
+            "description": "De-engineered static budgetary management",
+            "quantity": 4,
+            "unit_price": 433.48,
+            "total_price": 1733.92
+        },
+        {
+            "description": "Cross-group value-added task-force",
+            "quantity": 4,
+            "unit_price": 298.75,
+            "total_price": 1195.0
+        },
+        {
+            "description": "Inverse exuding projection",
+            "quantity": 10,
+            "unit_price": 314.51,
+            "total_price": 3145.1
+        }
+    ],
+    "amount": 7509.58
+}

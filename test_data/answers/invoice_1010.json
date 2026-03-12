@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hensley and Sons",
+    "invoice_number": "INV-95964",
+    "date": "2025-05-04",
+    "items": [
+        {
+            "description": "Intuitive client-server info-mediaries",
+            "quantity": 10,
+            "unit_price": 149.71,
+            "total_price": 1497.1
+        },
+        {
+            "description": "Organized uniform utilization",
+            "quantity": 7,
+            "unit_price": 169.8,
+            "total_price": 1188.6
+        },
+        {
+            "description": "Polarized asymmetric budgetary management",
+            "quantity": 2,
+            "unit_price": 189.83,
+            "total_price": 379.66
+        },
+        {
+            "description": "Re-engineered interactive superstructure",
+            "quantity": 3,
+            "unit_price": 13.3,
+            "total_price": 39.9
+        }
+    ],
+    "amount": 3105.26
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "White-Johnson",
+    "invoice_number": "INV-98550",
+    "date": "2025-08-09",
+    "items": [
+        {
+            "description": "Decentralized 6thgeneration website",
+            "quantity": 4,
+            "unit_price": 41.0,
+            "total_price": 164.0
+        },
+        {
+            "description": "Enterprise-wide well-modulated core",
+            "quantity": 10,
+            "unit_price": 359.29,
+            "total_price": 3592.9
+        },
+        {
+            "description": "Persevering contextually-based Internet solution",
+            "quantity": 4,
+            "unit_price": 476.65,
+            "total_price": 1906.6
+        },
+        {
+            "description": "Integrated directional service-desk",
+            "quantity": 9,
+            "unit_price": 366.57,
+            "total_price": 3299.13
+        }
+    ],
+    "amount": 8962.63
+}

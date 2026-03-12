@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Pearson, Eaton and Butler",
+    "invoice_number": "INV-72391",
+    "date": "2025-12-02",
+    "items": [
+        {
+            "description": "De-engineered demand-driven circuit",
+            "quantity": 2,
+            "unit_price": 158.17,
+            "total_price": 316.34
+        },
+        {
+            "description": "Sharable encompassing model",
+            "quantity": 1,
+            "unit_price": 213.56,
+            "total_price": 213.56
+        },
+        {
+            "description": "Organized incremental encoding",
+            "quantity": 8,
+            "unit_price": 218.29,
+            "total_price": 1746.32
+        }
+    ],
+    "amount": 2276.22
+}

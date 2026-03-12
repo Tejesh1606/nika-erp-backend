@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Malone-Woods",
+    "invoice_number": "INV-39880",
+    "date": "2025-12-10",
+    "items": [
+        {
+            "description": "Devolved even-keeled synergy",
+            "quantity": 2,
+            "unit_price": 362.13,
+            "total_price": 724.26
+        },
+        {
+            "description": "Right-sized asymmetric emulation",
+            "quantity": 5,
+            "unit_price": 81.85,
+            "total_price": 409.25
+        }
+    ],
+    "amount": 1133.51
+}

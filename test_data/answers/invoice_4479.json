@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Barnes PLC",
+    "invoice_number": "INV-79140",
+    "date": "2025-09-17",
+    "items": [
+        {
+            "description": "Ameliorated executive artificial intelligence",
+            "quantity": 2,
+            "unit_price": 413.38,
+            "total_price": 826.76
+        },
+        {
+            "description": "Managed zero tolerance functionalities",
+            "quantity": 7,
+            "unit_price": 346.38,
+            "total_price": 2424.66
+        },
+        {
+            "description": "Pre-emptive needs-based productivity",
+            "quantity": 1,
+            "unit_price": 472.36,
+            "total_price": 472.36
+        },
+        {
+            "description": "Cross-platform disintermediate product",
+            "quantity": 7,
+            "unit_price": 472.09,
+            "total_price": 3304.63
+        }
+    ],
+    "amount": 7028.41
+}

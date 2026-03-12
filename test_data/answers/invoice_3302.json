@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Scott PLC",
+    "invoice_number": "INV-72226",
+    "date": "2026-01-02",
+    "items": [
+        {
+            "description": "Object-based grid-enabled approach",
+            "quantity": 1,
+            "unit_price": 233.82,
+            "total_price": 233.82
+        },
+        {
+            "description": "Universal modular knowledgebase",
+            "quantity": 4,
+            "unit_price": 171.33,
+            "total_price": 685.32
+        }
+    ],
+    "amount": 919.14
+}

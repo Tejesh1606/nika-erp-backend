@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Carter-Lopez",
+    "invoice_number": "INV-32596",
+    "date": "2025-07-10",
+    "items": [
+        {
+            "description": "Persevering leadingedge implementation",
+            "quantity": 2,
+            "unit_price": 331.67,
+            "total_price": 663.34
+        },
+        {
+            "description": "Public-key optimal open system",
+            "quantity": 6,
+            "unit_price": 492.29,
+            "total_price": 2953.74
+        },
+        {
+            "description": "Sharable system-worthy matrix",
+            "quantity": 2,
+            "unit_price": 335.07,
+            "total_price": 670.14
+        }
+    ],
+    "amount": 4287.22
+}

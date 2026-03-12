@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Perez-Miller",
+    "invoice_number": "INV-58349",
+    "date": "2026-01-19",
+    "items": [
+        {
+            "description": "Public-key 24hour solution",
+            "quantity": 7,
+            "unit_price": 405.58,
+            "total_price": 2839.06
+        },
+        {
+            "description": "Business-focused empowering toolset",
+            "quantity": 9,
+            "unit_price": 398.21,
+            "total_price": 3583.89
+        }
+    ],
+    "amount": 6422.95
+}

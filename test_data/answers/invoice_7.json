@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Delacruz Group",
+    "invoice_number": "INV-46434",
+    "date": "2025-09-01",
+    "items": [
+        {
+            "description": "Sharable high-level complexity",
+            "quantity": 7,
+            "unit_price": 182.62,
+            "total_price": 1278.34
+        },
+        {
+            "description": "Multi-layered heuristic database",
+            "quantity": 5,
+            "unit_price": 421.7,
+            "total_price": 2108.5
+        },
+        {
+            "description": "Synchronized encompassing standardization",
+            "quantity": 10,
+            "unit_price": 352.27,
+            "total_price": 3522.7
+        },
+        {
+            "description": "Synergized secondary archive",
+            "quantity": 6,
+            "unit_price": 361.57,
+            "total_price": 2169.42
+        }
+    ],
+    "amount": 9078.96
+}

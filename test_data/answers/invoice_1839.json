@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Estes-Simon",
+    "invoice_number": "INV-80451",
+    "date": "2025-09-20",
+    "items": [
+        {
+            "description": "Self-enabling optimizing frame",
+            "quantity": 8,
+            "unit_price": 396.76,
+            "total_price": 3174.08
+        },
+        {
+            "description": "Switchable multimedia algorithm",
+            "quantity": 7,
+            "unit_price": 33.54,
+            "total_price": 234.78
+        },
+        {
+            "description": "Compatible needs-based initiative",
+            "quantity": 1,
+            "unit_price": 466.95,
+            "total_price": 466.95
+        }
+    ],
+    "amount": 3875.81
+}

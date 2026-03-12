@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Adams and Sons",
+    "invoice_number": "INV-79986",
+    "date": "2025-04-26",
+    "items": [
+        {
+            "description": "Vision-oriented maximized neural-net",
+            "quantity": 5,
+            "unit_price": 163.88,
+            "total_price": 819.4
+        }
+    ],
+    "amount": 819.4
+}

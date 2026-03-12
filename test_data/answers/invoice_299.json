@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Davis-Shaffer",
+    "invoice_number": "INV-23526",
+    "date": "2025-07-08",
+    "items": [
+        {
+            "description": "Multi-layered exuding challenge",
+            "quantity": 10,
+            "unit_price": 368.08,
+            "total_price": 3680.8
+        },
+        {
+            "description": "Multi-tiered zero-defect system engine",
+            "quantity": 5,
+            "unit_price": 129.03,
+            "total_price": 645.15
+        },
+        {
+            "description": "Devolved secondary service-desk",
+            "quantity": 5,
+            "unit_price": 408.26,
+            "total_price": 2041.3
+        },
+        {
+            "description": "Digitized asymmetric moderator",
+            "quantity": 9,
+            "unit_price": 425.48,
+            "total_price": 3829.32
+        }
+    ],
+    "amount": 10196.57
+}

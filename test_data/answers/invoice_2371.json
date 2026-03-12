@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Anthony Ltd",
+    "invoice_number": "INV-49673",
+    "date": "2025-10-16",
+    "items": [
+        {
+            "description": "Devolved client-driven capability",
+            "quantity": 8,
+            "unit_price": 229.36,
+            "total_price": 1834.88
+        },
+        {
+            "description": "Team-oriented logistical approach",
+            "quantity": 9,
+            "unit_price": 176.77,
+            "total_price": 1590.93
+        },
+        {
+            "description": "Fundamental secondary open architecture",
+            "quantity": 4,
+            "unit_price": 405.51,
+            "total_price": 1622.04
+        },
+        {
+            "description": "Optimized well-modulated standardization",
+            "quantity": 2,
+            "unit_price": 224.81,
+            "total_price": 449.62
+        }
+    ],
+    "amount": 5497.47
+}

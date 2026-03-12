@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ross-Fleming",
+    "invoice_number": "INV-85115",
+    "date": "2025-08-25",
+    "items": [
+        {
+            "description": "Advanced mobile process improvement",
+            "quantity": 4,
+            "unit_price": 49.01,
+            "total_price": 196.04
+        },
+        {
+            "description": "Configurable bandwidth-monitored leverage",
+            "quantity": 3,
+            "unit_price": 181.52,
+            "total_price": 544.56
+        }
+    ],
+    "amount": 740.6
+}

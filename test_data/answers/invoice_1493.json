@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Harvey Inc",
+    "invoice_number": "INV-45944",
+    "date": "2026-03-05",
+    "items": [
+        {
+            "description": "Adaptive exuding intranet",
+            "quantity": 8,
+            "unit_price": 54.23,
+            "total_price": 433.84
+        },
+        {
+            "description": "Multi-tiered upward-trending open system",
+            "quantity": 9,
+            "unit_price": 187.02,
+            "total_price": 1683.18
+        },
+        {
+            "description": "Diverse bandwidth-monitored application",
+            "quantity": 2,
+            "unit_price": 194.32,
+            "total_price": 388.64
+        },
+        {
+            "description": "Multi-layered didactic project",
+            "quantity": 10,
+            "unit_price": 434.71,
+            "total_price": 4347.1
+        }
+    ],
+    "amount": 6852.76
+}

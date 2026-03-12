@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Murphy-Reid",
+    "invoice_number": "INV-14351",
+    "date": "2025-08-06",
+    "items": [
+        {
+            "description": "Robust discrete Graphic Interface",
+            "quantity": 7,
+            "unit_price": 495.54,
+            "total_price": 3468.78
+        }
+    ],
+    "amount": 3468.78
+}

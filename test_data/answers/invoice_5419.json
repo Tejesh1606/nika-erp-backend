@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Marsh Ltd",
+    "invoice_number": "INV-84851",
+    "date": "2026-01-14",
+    "items": [
+        {
+            "description": "Multi-channeled bandwidth-monitored adapter",
+            "quantity": 2,
+            "unit_price": 47.6,
+            "total_price": 95.2
+        },
+        {
+            "description": "Public-key solution-oriented success",
+            "quantity": 4,
+            "unit_price": 217.6,
+            "total_price": 870.4
+        },
+        {
+            "description": "Vision-oriented user-facing database",
+            "quantity": 9,
+            "unit_price": 11.61,
+            "total_price": 104.49
+        }
+    ],
+    "amount": 1070.09
+}

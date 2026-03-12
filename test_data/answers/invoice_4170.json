@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Cannon PLC",
+    "invoice_number": "INV-51537",
+    "date": "2025-10-20",
+    "items": [
+        {
+            "description": "User-friendly needs-based infrastructure",
+            "quantity": 5,
+            "unit_price": 138.99,
+            "total_price": 694.95
+        },
+        {
+            "description": "Organic logistical leverage",
+            "quantity": 5,
+            "unit_price": 75.34,
+            "total_price": 376.7
+        },
+        {
+            "description": "Total analyzing groupware",
+            "quantity": 6,
+            "unit_price": 123.89,
+            "total_price": 743.34
+        },
+        {
+            "description": "Multi-lateral exuding model",
+            "quantity": 9,
+            "unit_price": 209.9,
+            "total_price": 1889.1
+        }
+    ],
+    "amount": 3704.09
+}

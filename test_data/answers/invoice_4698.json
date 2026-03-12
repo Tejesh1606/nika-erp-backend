@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Caldwell-Webster",
+    "invoice_number": "INV-54679",
+    "date": "2025-08-09",
+    "items": [
+        {
+            "description": "Centralized global functionalities",
+            "quantity": 7,
+            "unit_price": 178.61,
+            "total_price": 1250.27
+        },
+        {
+            "description": "Polarized demand-driven model",
+            "quantity": 6,
+            "unit_price": 199.82,
+            "total_price": 1198.92
+        }
+    ],
+    "amount": 2449.19
+}

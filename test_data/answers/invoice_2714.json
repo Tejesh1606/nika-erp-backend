@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rose and Sons",
+    "invoice_number": "INV-54030",
+    "date": "2025-12-05",
+    "items": [
+        {
+            "description": "Grass-roots asymmetric groupware",
+            "quantity": 8,
+            "unit_price": 295.88,
+            "total_price": 2367.04
+        },
+        {
+            "description": "Quality-focused radical system engine",
+            "quantity": 4,
+            "unit_price": 151.4,
+            "total_price": 605.6
+        },
+        {
+            "description": "Enterprise-wide regional software",
+            "quantity": 9,
+            "unit_price": 471.57,
+            "total_price": 4244.13
+        },
+        {
+            "description": "Business-focused regional support",
+            "quantity": 4,
+            "unit_price": 465.03,
+            "total_price": 1860.12
+        }
+    ],
+    "amount": 9076.89
+}

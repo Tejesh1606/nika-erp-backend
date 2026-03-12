@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Curry, Knight and Schneider",
+    "invoice_number": "INV-92946",
+    "date": "2025-05-07",
+    "items": [
+        {
+            "description": "Networked disintermediate solution",
+            "quantity": 5,
+            "unit_price": 498.2,
+            "total_price": 2491.0
+        },
+        {
+            "description": "Progressive system-worthy workforce",
+            "quantity": 10,
+            "unit_price": 76.47,
+            "total_price": 764.7
+        },
+        {
+            "description": "De-engineered local policy",
+            "quantity": 10,
+            "unit_price": 399.78,
+            "total_price": 3997.8
+        }
+    ],
+    "amount": 7253.5
+}

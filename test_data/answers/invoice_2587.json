@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Juarez Inc",
+    "invoice_number": "INV-35518",
+    "date": "2025-06-04",
+    "items": [
+        {
+            "description": "Focused encompassing flexibility",
+            "quantity": 6,
+            "unit_price": 387.94,
+            "total_price": 2327.64
+        },
+        {
+            "description": "Extended methodical secured line",
+            "quantity": 9,
+            "unit_price": 485.88,
+            "total_price": 4372.92
+        },
+        {
+            "description": "Operative mission-critical protocol",
+            "quantity": 10,
+            "unit_price": 418.25,
+            "total_price": 4182.5
+        }
+    ],
+    "amount": 10883.06
+}

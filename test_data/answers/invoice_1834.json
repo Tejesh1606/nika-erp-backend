@@ -1,0 +1,32 @@
+{
+    "vendor_name": "White-Mclaughlin",
+    "invoice_number": "INV-77552",
+    "date": "2025-11-24",
+    "items": [
+        {
+            "description": "Reverse-engineered radical frame",
+            "quantity": 9,
+            "unit_price": 135.98,
+            "total_price": 1223.82
+        },
+        {
+            "description": "Reduced non-volatile budgetary management",
+            "quantity": 6,
+            "unit_price": 120.91,
+            "total_price": 725.46
+        },
+        {
+            "description": "Seamless local workforce",
+            "quantity": 6,
+            "unit_price": 134.57,
+            "total_price": 807.42
+        },
+        {
+            "description": "Advanced asymmetric structure",
+            "quantity": 9,
+            "unit_price": 317.77,
+            "total_price": 2859.93
+        }
+    ],
+    "amount": 5616.63
+}

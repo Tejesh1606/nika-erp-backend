@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Marsh LLC",
+    "invoice_number": "INV-80084",
+    "date": "2025-03-31",
+    "items": [
+        {
+            "description": "Switchable tangible strategy",
+            "quantity": 4,
+            "unit_price": 443.7,
+            "total_price": 1774.8
+        }
+    ],
+    "amount": 1774.8
+}

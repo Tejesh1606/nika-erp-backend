@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Villegas LLC",
+    "invoice_number": "INV-51721",
+    "date": "2026-02-17",
+    "items": [
+        {
+            "description": "Decentralized contextually-based orchestration",
+            "quantity": 9,
+            "unit_price": 325.86,
+            "total_price": 2932.74
+        },
+        {
+            "description": "Extended optimal website",
+            "quantity": 2,
+            "unit_price": 104.01,
+            "total_price": 208.02
+        },
+        {
+            "description": "Configurable discrete application",
+            "quantity": 9,
+            "unit_price": 441.46,
+            "total_price": 3973.14
+        }
+    ],
+    "amount": 7113.9
+}

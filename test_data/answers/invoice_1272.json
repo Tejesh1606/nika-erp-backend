@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lynch Ltd",
+    "invoice_number": "INV-93599",
+    "date": "2026-01-18",
+    "items": [
+        {
+            "description": "Cross-platform homogeneous migration",
+            "quantity": 6,
+            "unit_price": 182.24,
+            "total_price": 1093.44
+        },
+        {
+            "description": "Up-sized attitude-oriented Graphical User Interface",
+            "quantity": 5,
+            "unit_price": 290.71,
+            "total_price": 1453.55
+        },
+        {
+            "description": "Sharable value-added framework",
+            "quantity": 6,
+            "unit_price": 27.52,
+            "total_price": 165.12
+        },
+        {
+            "description": "Optimized impactful adapter",
+            "quantity": 7,
+            "unit_price": 175.83,
+            "total_price": 1230.81
+        }
+    ],
+    "amount": 3942.92
+}

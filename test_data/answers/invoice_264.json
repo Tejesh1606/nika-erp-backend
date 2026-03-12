@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wheeler-Gonzalez",
+    "invoice_number": "INV-24021",
+    "date": "2025-04-30",
+    "items": [
+        {
+            "description": "Innovative 24hour infrastructure",
+            "quantity": 4,
+            "unit_price": 393.01,
+            "total_price": 1572.04
+        },
+        {
+            "description": "Managed regional implementation",
+            "quantity": 6,
+            "unit_price": 319.72,
+            "total_price": 1918.32
+        },
+        {
+            "description": "Managed leadingedge groupware",
+            "quantity": 8,
+            "unit_price": 237.73,
+            "total_price": 1901.84
+        }
+    ],
+    "amount": 5392.2
+}

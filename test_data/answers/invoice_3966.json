@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Owens PLC",
+    "invoice_number": "INV-13934",
+    "date": "2026-01-17",
+    "items": [
+        {
+            "description": "Expanded scalable infrastructure",
+            "quantity": 3,
+            "unit_price": 357.04,
+            "total_price": 1071.12
+        },
+        {
+            "description": "Optimized human-resource infrastructure",
+            "quantity": 5,
+            "unit_price": 96.06,
+            "total_price": 480.3
+        }
+    ],
+    "amount": 1551.42
+}

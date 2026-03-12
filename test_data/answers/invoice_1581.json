@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jefferson-Sosa",
+    "invoice_number": "INV-43827",
+    "date": "2025-10-19",
+    "items": [
+        {
+            "description": "Realigned neutral support",
+            "quantity": 9,
+            "unit_price": 13.18,
+            "total_price": 118.62
+        }
+    ],
+    "amount": 118.62
+}

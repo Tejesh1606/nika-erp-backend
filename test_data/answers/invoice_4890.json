@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Molina, Villanueva and Carlson",
+    "invoice_number": "INV-69546",
+    "date": "2025-09-03",
+    "items": [
+        {
+            "description": "Reduced high-level data-warehouse",
+            "quantity": 3,
+            "unit_price": 98.6,
+            "total_price": 295.8
+        },
+        {
+            "description": "Multi-tiered asymmetric focus group",
+            "quantity": 4,
+            "unit_price": 81.32,
+            "total_price": 325.28
+        },
+        {
+            "description": "Adaptive neutral core",
+            "quantity": 6,
+            "unit_price": 437.59,
+            "total_price": 2625.54
+        },
+        {
+            "description": "Adaptive secondary Local Area Network",
+            "quantity": 5,
+            "unit_price": 448.35,
+            "total_price": 2241.75
+        }
+    ],
+    "amount": 5488.37
+}

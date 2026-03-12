@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hogan Group",
+    "invoice_number": "INV-21333",
+    "date": "2025-11-25",
+    "items": [
+        {
+            "description": "Multi-tiered optimizing data-warehouse",
+            "quantity": 9,
+            "unit_price": 175.31,
+            "total_price": 1577.79
+        },
+        {
+            "description": "Synergized incremental workforce",
+            "quantity": 3,
+            "unit_price": 368.06,
+            "total_price": 1104.18
+        },
+        {
+            "description": "Enhanced encompassing approach",
+            "quantity": 1,
+            "unit_price": 174.69,
+            "total_price": 174.69
+        }
+    ],
+    "amount": 2856.66
+}

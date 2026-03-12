@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jimenez, Levine and Sullivan",
+    "invoice_number": "INV-35056",
+    "date": "2025-12-24",
+    "items": [
+        {
+            "description": "Function-based system-worthy capacity",
+            "quantity": 5,
+            "unit_price": 15.17,
+            "total_price": 75.85
+        },
+        {
+            "description": "Re-engineered contextually-based project",
+            "quantity": 4,
+            "unit_price": 448.16,
+            "total_price": 1792.64
+        },
+        {
+            "description": "Reduced bottom-line secured line",
+            "quantity": 6,
+            "unit_price": 64.51,
+            "total_price": 387.06
+        }
+    ],
+    "amount": 2255.55
+}

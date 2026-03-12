@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Scott, Martinez and Watts",
+    "invoice_number": "INV-55177",
+    "date": "2025-04-06",
+    "items": [
+        {
+            "description": "Advanced object-oriented secured line",
+            "quantity": 3,
+            "unit_price": 72.78,
+            "total_price": 218.34
+        }
+    ],
+    "amount": 218.34
+}

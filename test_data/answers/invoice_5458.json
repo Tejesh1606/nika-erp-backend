@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bright and Sons",
+    "invoice_number": "INV-63520",
+    "date": "2025-11-21",
+    "items": [
+        {
+            "description": "Self-enabling intermediate contingency",
+            "quantity": 7,
+            "unit_price": 87.21,
+            "total_price": 610.47
+        },
+        {
+            "description": "Public-key background approach",
+            "quantity": 4,
+            "unit_price": 107.65,
+            "total_price": 430.6
+        }
+    ],
+    "amount": 1041.07
+}

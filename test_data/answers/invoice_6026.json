@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Johnson-Robbins",
+    "invoice_number": "INV-88000",
+    "date": "2025-04-09",
+    "items": [
+        {
+            "description": "Seamless high-level implementation",
+            "quantity": 10,
+            "unit_price": 102.54,
+            "total_price": 1025.4
+        },
+        {
+            "description": "Managed 3rdgeneration secured line",
+            "quantity": 1,
+            "unit_price": 123.2,
+            "total_price": 123.2
+        },
+        {
+            "description": "Inverse value-added model",
+            "quantity": 3,
+            "unit_price": 80.32,
+            "total_price": 240.96
+        }
+    ],
+    "amount": 1389.56
+}

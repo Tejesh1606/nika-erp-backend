@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Barnes Inc",
+    "invoice_number": "INV-65441",
+    "date": "2026-03-07",
+    "items": [
+        {
+            "description": "Reverse-engineered systemic budgetary management",
+            "quantity": 5,
+            "unit_price": 237.27,
+            "total_price": 1186.35
+        },
+        {
+            "description": "Up-sized radical info-mediaries",
+            "quantity": 9,
+            "unit_price": 125.5,
+            "total_price": 1129.5
+        },
+        {
+            "description": "Customizable composite website",
+            "quantity": 8,
+            "unit_price": 365.09,
+            "total_price": 2920.72
+        }
+    ],
+    "amount": 5236.57
+}

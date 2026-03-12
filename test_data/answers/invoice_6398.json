@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ross, House and Stein",
+    "invoice_number": "INV-55298",
+    "date": "2025-10-17",
+    "items": [
+        {
+            "description": "Self-enabling context-sensitive solution",
+            "quantity": 5,
+            "unit_price": 111.24,
+            "total_price": 556.2
+        }
+    ],
+    "amount": 556.2
+}

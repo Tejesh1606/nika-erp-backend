@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith-Williams",
+    "invoice_number": "INV-47095",
+    "date": "2026-01-23",
+    "items": [
+        {
+            "description": "Reverse-engineered bottom-line application",
+            "quantity": 6,
+            "unit_price": 398.95,
+            "total_price": 2393.7
+        }
+    ],
+    "amount": 2393.7
+}

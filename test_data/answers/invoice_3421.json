@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Scott PLC",
+    "invoice_number": "INV-40944",
+    "date": "2025-06-23",
+    "items": [
+        {
+            "description": "Optimized non-volatile Graphic Interface",
+            "quantity": 1,
+            "unit_price": 146.05,
+            "total_price": 146.05
+        }
+    ],
+    "amount": 146.05
+}

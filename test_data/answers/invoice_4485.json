@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Baker PLC",
+    "invoice_number": "INV-65300",
+    "date": "2025-08-12",
+    "items": [
+        {
+            "description": "Persevering context-sensitive pricing structure",
+            "quantity": 2,
+            "unit_price": 265.83,
+            "total_price": 531.66
+        }
+    ],
+    "amount": 531.66
+}

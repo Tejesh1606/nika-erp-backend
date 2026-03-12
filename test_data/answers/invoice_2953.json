@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Davis, Blair and Vasquez",
+    "invoice_number": "INV-87315",
+    "date": "2025-09-14",
+    "items": [
+        {
+            "description": "Up-sized system-worthy encryption",
+            "quantity": 3,
+            "unit_price": 245.3,
+            "total_price": 735.9
+        },
+        {
+            "description": "Implemented bottom-line open architecture",
+            "quantity": 2,
+            "unit_price": 38.35,
+            "total_price": 76.7
+        },
+        {
+            "description": "Monitored transitional functionalities",
+            "quantity": 8,
+            "unit_price": 363.04,
+            "total_price": 2904.32
+        },
+        {
+            "description": "Re-engineered global analyzer",
+            "quantity": 3,
+            "unit_price": 155.99,
+            "total_price": 467.97
+        }
+    ],
+    "amount": 4184.89
+}

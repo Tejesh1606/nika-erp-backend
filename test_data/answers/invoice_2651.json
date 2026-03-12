@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Gutierrez-Buck",
+    "invoice_number": "INV-20982",
+    "date": "2025-04-10",
+    "items": [
+        {
+            "description": "Horizontal coherent portal",
+            "quantity": 2,
+            "unit_price": 350.6,
+            "total_price": 701.2
+        },
+        {
+            "description": "Integrated content-based adapter",
+            "quantity": 7,
+            "unit_price": 65.63,
+            "total_price": 459.41
+        },
+        {
+            "description": "Balanced 4thgeneration synergy",
+            "quantity": 8,
+            "unit_price": 65.08,
+            "total_price": 520.64
+        }
+    ],
+    "amount": 1681.25
+}

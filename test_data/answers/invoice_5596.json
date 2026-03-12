@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Thompson-Caldwell",
+    "invoice_number": "INV-75037",
+    "date": "2025-03-09",
+    "items": [
+        {
+            "description": "Synergized human-resource frame",
+            "quantity": 8,
+            "unit_price": 266.32,
+            "total_price": 2130.56
+        },
+        {
+            "description": "Adaptive intermediate forecast",
+            "quantity": 10,
+            "unit_price": 172.5,
+            "total_price": 1725.0
+        },
+        {
+            "description": "Cross-group client-server customer loyalty",
+            "quantity": 6,
+            "unit_price": 395.09,
+            "total_price": 2370.54
+        }
+    ],
+    "amount": 6226.1
+}

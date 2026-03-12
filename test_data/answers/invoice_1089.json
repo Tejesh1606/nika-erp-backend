@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Parks PLC",
+    "invoice_number": "INV-94984",
+    "date": "2025-04-17",
+    "items": [
+        {
+            "description": "Digitized maximized benchmark",
+            "quantity": 4,
+            "unit_price": 63.17,
+            "total_price": 252.68
+        },
+        {
+            "description": "User-friendly bifurcated encoding",
+            "quantity": 3,
+            "unit_price": 253.1,
+            "total_price": 759.3
+        }
+    ],
+    "amount": 1011.98
+}

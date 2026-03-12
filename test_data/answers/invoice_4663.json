@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith-Moreno",
+    "invoice_number": "INV-16191",
+    "date": "2026-02-17",
+    "items": [
+        {
+            "description": "Synergistic empowering architecture",
+            "quantity": 8,
+            "unit_price": 116.8,
+            "total_price": 934.4
+        }
+    ],
+    "amount": 934.4
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Kelley-Hess",
+    "invoice_number": "INV-22682",
+    "date": "2025-08-11",
+    "items": [
+        {
+            "description": "Ergonomic homogeneous capacity",
+            "quantity": 4,
+            "unit_price": 364.29,
+            "total_price": 1457.16
+        },
+        {
+            "description": "Right-sized mobile ability",
+            "quantity": 10,
+            "unit_price": 171.58,
+            "total_price": 1715.8
+        },
+        {
+            "description": "Extended multi-state Internet solution",
+            "quantity": 2,
+            "unit_price": 44.68,
+            "total_price": 89.36
+        },
+        {
+            "description": "Stand-alone executive project",
+            "quantity": 1,
+            "unit_price": 371.85,
+            "total_price": 371.85
+        }
+    ],
+    "amount": 3634.17
+}

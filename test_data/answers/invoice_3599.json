@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Reid PLC",
+    "invoice_number": "INV-57450",
+    "date": "2025-08-07",
+    "items": [
+        {
+            "description": "Total non-volatile software",
+            "quantity": 4,
+            "unit_price": 52.23,
+            "total_price": 208.92
+        },
+        {
+            "description": "Customizable optimizing concept",
+            "quantity": 8,
+            "unit_price": 270.48,
+            "total_price": 2163.84
+        }
+    ],
+    "amount": 2372.76
+}

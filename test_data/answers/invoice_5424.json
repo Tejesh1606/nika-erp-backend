@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Chaney PLC",
+    "invoice_number": "INV-45451",
+    "date": "2026-01-08",
+    "items": [
+        {
+            "description": "Self-enabling systemic open system",
+            "quantity": 3,
+            "unit_price": 286.55,
+            "total_price": 859.65
+        },
+        {
+            "description": "Down-sized web-enabled structure",
+            "quantity": 9,
+            "unit_price": 455.37,
+            "total_price": 4098.33
+        },
+        {
+            "description": "Reverse-engineered mission-critical application",
+            "quantity": 3,
+            "unit_price": 444.78,
+            "total_price": 1334.34
+        },
+        {
+            "description": "Innovative zero administration functionalities",
+            "quantity": 6,
+            "unit_price": 348.17,
+            "total_price": 2089.02
+        }
+    ],
+    "amount": 8381.34
+}

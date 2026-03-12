@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Singh-Ramos",
+    "invoice_number": "INV-87780",
+    "date": "2025-09-30",
+    "items": [
+        {
+            "description": "Versatile needs-based middleware",
+            "quantity": 1,
+            "unit_price": 404.83,
+            "total_price": 404.83
+        },
+        {
+            "description": "Front-line leadingedge focus group",
+            "quantity": 7,
+            "unit_price": 280.2,
+            "total_price": 1961.4
+        }
+    ],
+    "amount": 2366.23
+}

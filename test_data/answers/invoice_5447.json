@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Anderson and Sons",
+    "invoice_number": "INV-55352",
+    "date": "2025-09-03",
+    "items": [
+        {
+            "description": "Multi-layered 3rdgeneration firmware",
+            "quantity": 5,
+            "unit_price": 485.62,
+            "total_price": 2428.1
+        },
+        {
+            "description": "Compatible client-driven complexity",
+            "quantity": 4,
+            "unit_price": 138.83,
+            "total_price": 555.32
+        },
+        {
+            "description": "Operative hybrid function",
+            "quantity": 5,
+            "unit_price": 98.59,
+            "total_price": 492.95
+        }
+    ],
+    "amount": 3476.37
+}

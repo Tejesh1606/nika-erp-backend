@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Adams, Stephens and Smith",
+    "invoice_number": "INV-15836",
+    "date": "2025-04-17",
+    "items": [
+        {
+            "description": "Quality-focused explicit benchmark",
+            "quantity": 5,
+            "unit_price": 118.42,
+            "total_price": 592.1
+        }
+    ],
+    "amount": 592.1
+}

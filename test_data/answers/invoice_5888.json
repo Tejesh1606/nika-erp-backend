@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Garcia PLC",
+    "invoice_number": "INV-34960",
+    "date": "2026-02-16",
+    "items": [
+        {
+            "description": "Team-oriented content-based frame",
+            "quantity": 2,
+            "unit_price": 23.23,
+            "total_price": 46.46
+        },
+        {
+            "description": "Advanced solution-oriented archive",
+            "quantity": 4,
+            "unit_price": 442.17,
+            "total_price": 1768.68
+        },
+        {
+            "description": "Phased object-oriented structure",
+            "quantity": 8,
+            "unit_price": 350.43,
+            "total_price": 2803.44
+        },
+        {
+            "description": "Compatible optimizing framework",
+            "quantity": 1,
+            "unit_price": 130.81,
+            "total_price": 130.81
+        }
+    ],
+    "amount": 4749.39
+}

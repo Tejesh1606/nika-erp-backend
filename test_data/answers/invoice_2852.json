@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Summers Ltd",
+    "invoice_number": "INV-44641",
+    "date": "2026-02-22",
+    "items": [
+        {
+            "description": "Enhanced next generation Internet solution",
+            "quantity": 1,
+            "unit_price": 99.54,
+            "total_price": 99.54
+        },
+        {
+            "description": "Compatible methodical standardization",
+            "quantity": 3,
+            "unit_price": 200.06,
+            "total_price": 600.18
+        },
+        {
+            "description": "Public-key optimizing concept",
+            "quantity": 4,
+            "unit_price": 185.68,
+            "total_price": 742.72
+        }
+    ],
+    "amount": 1442.44
+}

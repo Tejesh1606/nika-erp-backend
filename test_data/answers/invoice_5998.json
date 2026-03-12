@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Buckley, Cisneros and Sellers",
+    "invoice_number": "INV-53432",
+    "date": "2025-11-11",
+    "items": [
+        {
+            "description": "Organic executive task-force",
+            "quantity": 10,
+            "unit_price": 347.51,
+            "total_price": 3475.1
+        }
+    ],
+    "amount": 3475.1
+}

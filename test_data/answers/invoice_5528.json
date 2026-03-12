@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Williams, Miller and Palmer",
+    "invoice_number": "INV-40247",
+    "date": "2025-05-29",
+    "items": [
+        {
+            "description": "Business-focused 4thgeneration conglomeration",
+            "quantity": 2,
+            "unit_price": 256.52,
+            "total_price": 513.04
+        },
+        {
+            "description": "Proactive scalable implementation",
+            "quantity": 3,
+            "unit_price": 91.24,
+            "total_price": 273.72
+        }
+    ],
+    "amount": 786.76
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Baker LLC",
+    "invoice_number": "INV-20852",
+    "date": "2025-07-24",
+    "items": [
+        {
+            "description": "Realigned dynamic protocol",
+            "quantity": 10,
+            "unit_price": 386.7,
+            "total_price": 3867.0
+        },
+        {
+            "description": "Stand-alone user-facing database",
+            "quantity": 1,
+            "unit_price": 141.69,
+            "total_price": 141.69
+        }
+    ],
+    "amount": 4008.69
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Cole-Sanchez",
+    "invoice_number": "INV-52879",
+    "date": "2025-06-29",
+    "items": [
+        {
+            "description": "Cross-platform 24hour functionalities",
+            "quantity": 5,
+            "unit_price": 319.69,
+            "total_price": 1598.45
+        },
+        {
+            "description": "User-friendly web-enabled productivity",
+            "quantity": 4,
+            "unit_price": 343.03,
+            "total_price": 1372.12
+        },
+        {
+            "description": "Synchronized leadingedge matrices",
+            "quantity": 9,
+            "unit_price": 373.41,
+            "total_price": 3360.69
+        },
+        {
+            "description": "Switchable clear-thinking help-desk",
+            "quantity": 5,
+            "unit_price": 352.51,
+            "total_price": 1762.55
+        }
+    ],
+    "amount": 8093.81
+}

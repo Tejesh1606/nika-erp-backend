@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Woods, Erickson and Duran",
+    "invoice_number": "INV-12593",
+    "date": "2025-08-13",
+    "items": [
+        {
+            "description": "Polarized modular info-mediaries",
+            "quantity": 5,
+            "unit_price": 173.1,
+            "total_price": 865.5
+        },
+        {
+            "description": "Cross-platform solution-oriented analyzer",
+            "quantity": 10,
+            "unit_price": 418.58,
+            "total_price": 4185.8
+        }
+    ],
+    "amount": 5051.3
+}

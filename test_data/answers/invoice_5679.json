@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Allen, Landry and Brooks",
+    "invoice_number": "INV-68828",
+    "date": "2026-02-19",
+    "items": [
+        {
+            "description": "Diverse modular hub",
+            "quantity": 6,
+            "unit_price": 75.54,
+            "total_price": 453.24
+        },
+        {
+            "description": "Optional coherent website",
+            "quantity": 4,
+            "unit_price": 452.58,
+            "total_price": 1810.32
+        },
+        {
+            "description": "Enterprise-wide 3rdgeneration complexity",
+            "quantity": 6,
+            "unit_price": 412.79,
+            "total_price": 2476.74
+        },
+        {
+            "description": "Customizable local functionalities",
+            "quantity": 7,
+            "unit_price": 156.45,
+            "total_price": 1095.15
+        }
+    ],
+    "amount": 5835.45
+}

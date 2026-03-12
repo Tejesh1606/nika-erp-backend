@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Tran Ltd",
+    "invoice_number": "INV-58989",
+    "date": "2025-10-11",
+    "items": [
+        {
+            "description": "Re-engineered bandwidth-monitored core",
+            "quantity": 6,
+            "unit_price": 76.94,
+            "total_price": 461.64
+        },
+        {
+            "description": "Object-based needs-based circuit",
+            "quantity": 4,
+            "unit_price": 258.23,
+            "total_price": 1032.92
+        }
+    ],
+    "amount": 1494.56
+}

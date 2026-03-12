@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Brown and Sons",
+    "invoice_number": "INV-18398",
+    "date": "2025-10-17",
+    "items": [
+        {
+            "description": "Customer-focused 5thgeneration interface",
+            "quantity": 1,
+            "unit_price": 141.87,
+            "total_price": 141.87
+        },
+        {
+            "description": "Re-contextualized methodical attitude",
+            "quantity": 7,
+            "unit_price": 84.77,
+            "total_price": 593.39
+        }
+    ],
+    "amount": 735.26
+}

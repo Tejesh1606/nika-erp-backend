@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Fisher-Salazar",
+    "invoice_number": "INV-63054",
+    "date": "2026-02-01",
+    "items": [
+        {
+            "description": "Compatible attitude-oriented complexity",
+            "quantity": 6,
+            "unit_price": 216.5,
+            "total_price": 1299.0
+        },
+        {
+            "description": "Mandatory discrete functionalities",
+            "quantity": 9,
+            "unit_price": 412.99,
+            "total_price": 3716.91
+        },
+        {
+            "description": "Intuitive solution-oriented frame",
+            "quantity": 5,
+            "unit_price": 300.61,
+            "total_price": 1503.05
+        },
+        {
+            "description": "Triple-buffered encompassing portal",
+            "quantity": 1,
+            "unit_price": 334.82,
+            "total_price": 334.82
+        }
+    ],
+    "amount": 6853.78
+}

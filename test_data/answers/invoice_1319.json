@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Calderon-Stewart",
+    "invoice_number": "INV-50372",
+    "date": "2025-08-21",
+    "items": [
+        {
+            "description": "Re-contextualized hybrid task-force",
+            "quantity": 4,
+            "unit_price": 16.65,
+            "total_price": 66.6
+        }
+    ],
+    "amount": 66.6
+}

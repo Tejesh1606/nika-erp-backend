@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Meyer, Berg and Castillo",
+    "invoice_number": "INV-47350",
+    "date": "2025-08-19",
+    "items": [
+        {
+            "description": "Reduced zero administration customer loyalty",
+            "quantity": 7,
+            "unit_price": 48.5,
+            "total_price": 339.5
+        }
+    ],
+    "amount": 339.5
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Barber, Whitaker and Odonnell",
+    "invoice_number": "INV-16699",
+    "date": "2025-07-25",
+    "items": [
+        {
+            "description": "Public-key executive protocol",
+            "quantity": 1,
+            "unit_price": 380.86,
+            "total_price": 380.86
+        },
+        {
+            "description": "Phased empowering encryption",
+            "quantity": 5,
+            "unit_price": 183.07,
+            "total_price": 915.35
+        },
+        {
+            "description": "Realigned optimal frame",
+            "quantity": 5,
+            "unit_price": 392.96,
+            "total_price": 1964.8
+        },
+        {
+            "description": "Pre-emptive global challenge",
+            "quantity": 10,
+            "unit_price": 441.41,
+            "total_price": 4414.1
+        }
+    ],
+    "amount": 7675.11
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Klein LLC",
+    "invoice_number": "INV-77623",
+    "date": "2026-02-24",
+    "items": [
+        {
+            "description": "Seamless systemic productivity",
+            "quantity": 8,
+            "unit_price": 437.71,
+            "total_price": 3501.68
+        },
+        {
+            "description": "Secured modular website",
+            "quantity": 4,
+            "unit_price": 232.51,
+            "total_price": 930.04
+        },
+        {
+            "description": "Fundamental zero administration extranet",
+            "quantity": 10,
+            "unit_price": 275.32,
+            "total_price": 2753.2
+        },
+        {
+            "description": "Down-sized context-sensitive protocol",
+            "quantity": 9,
+            "unit_price": 57.59,
+            "total_price": 518.31
+        }
+    ],
+    "amount": 7703.23
+}

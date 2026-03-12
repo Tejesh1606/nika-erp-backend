@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gonzalez-Coleman",
+    "invoice_number": "INV-90922",
+    "date": "2025-10-30",
+    "items": [
+        {
+            "description": "Digitized even-keeled projection",
+            "quantity": 4,
+            "unit_price": 265.95,
+            "total_price": 1063.8
+        },
+        {
+            "description": "Sharable fault-tolerant service-desk",
+            "quantity": 6,
+            "unit_price": 444.57,
+            "total_price": 2667.42
+        },
+        {
+            "description": "Vision-oriented tangible migration",
+            "quantity": 5,
+            "unit_price": 354.4,
+            "total_price": 1772.0
+        },
+        {
+            "description": "Fully-configurable system-worthy Local Area Network",
+            "quantity": 6,
+            "unit_price": 322.93,
+            "total_price": 1937.58
+        }
+    ],
+    "amount": 7440.8
+}

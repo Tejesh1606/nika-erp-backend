@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Moore and Sons",
+    "invoice_number": "INV-10547",
+    "date": "2025-03-13",
+    "items": [
+        {
+            "description": "Profit-focused upward-trending success",
+            "quantity": 7,
+            "unit_price": 127.4,
+            "total_price": 891.8
+        },
+        {
+            "description": "Multi-layered mobile initiative",
+            "quantity": 4,
+            "unit_price": 134.96,
+            "total_price": 539.84
+        },
+        {
+            "description": "Operative hybrid synergy",
+            "quantity": 4,
+            "unit_price": 24.71,
+            "total_price": 98.84
+        },
+        {
+            "description": "Multi-layered human-resource matrix",
+            "quantity": 1,
+            "unit_price": 58.41,
+            "total_price": 58.41
+        }
+    ],
+    "amount": 1588.89
+}

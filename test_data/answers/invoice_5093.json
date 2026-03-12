@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Roman, Ramsey and Burke",
+    "invoice_number": "INV-17999",
+    "date": "2025-09-09",
+    "items": [
+        {
+            "description": "Organic secondary approach",
+            "quantity": 6,
+            "unit_price": 441.71,
+            "total_price": 2650.26
+        },
+        {
+            "description": "Integrated responsive productivity",
+            "quantity": 4,
+            "unit_price": 193.94,
+            "total_price": 775.76
+        }
+    ],
+    "amount": 3426.02
+}

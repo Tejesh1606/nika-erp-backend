@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Moore-Cunningham",
+    "invoice_number": "INV-11275",
+    "date": "2025-10-25",
+    "items": [
+        {
+            "description": "Automated needs-based groupware",
+            "quantity": 2,
+            "unit_price": 288.41,
+            "total_price": 576.82
+        },
+        {
+            "description": "Visionary fresh-thinking benchmark",
+            "quantity": 5,
+            "unit_price": 335.35,
+            "total_price": 1676.75
+        },
+        {
+            "description": "Balanced modular product",
+            "quantity": 9,
+            "unit_price": 454.62,
+            "total_price": 4091.58
+        },
+        {
+            "description": "Total fault-tolerant superstructure",
+            "quantity": 8,
+            "unit_price": 121.35,
+            "total_price": 970.8
+        }
+    ],
+    "amount": 7315.95
+}

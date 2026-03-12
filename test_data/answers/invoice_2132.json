@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Winters, Smith and Stephens",
+    "invoice_number": "INV-45462",
+    "date": "2025-10-02",
+    "items": [
+        {
+            "description": "Function-based heuristic model",
+            "quantity": 6,
+            "unit_price": 340.73,
+            "total_price": 2044.38
+        }
+    ],
+    "amount": 2044.38
+}

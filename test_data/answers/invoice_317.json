@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Stevenson-Sanchez",
+    "invoice_number": "INV-58270",
+    "date": "2025-10-24",
+    "items": [
+        {
+            "description": "Proactive zero administration time-frame",
+            "quantity": 7,
+            "unit_price": 116.45,
+            "total_price": 815.15
+        },
+        {
+            "description": "Exclusive upward-trending moratorium",
+            "quantity": 2,
+            "unit_price": 343.89,
+            "total_price": 687.78
+        },
+        {
+            "description": "Virtual dynamic collaboration",
+            "quantity": 2,
+            "unit_price": 135.33,
+            "total_price": 270.66
+        }
+    ],
+    "amount": 1773.59
+}

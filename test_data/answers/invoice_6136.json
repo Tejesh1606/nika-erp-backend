@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hawkins, Ford and Farley",
+    "invoice_number": "INV-12746",
+    "date": "2025-07-23",
+    "items": [
+        {
+            "description": "Versatile encompassing archive",
+            "quantity": 6,
+            "unit_price": 474.21,
+            "total_price": 2845.26
+        },
+        {
+            "description": "Re-engineered asymmetric paradigm",
+            "quantity": 3,
+            "unit_price": 430.81,
+            "total_price": 1292.43
+        },
+        {
+            "description": "Virtual optimal paradigm",
+            "quantity": 6,
+            "unit_price": 359.55,
+            "total_price": 2157.3
+        },
+        {
+            "description": "Innovative transitional standardization",
+            "quantity": 4,
+            "unit_price": 180.81,
+            "total_price": 723.24
+        }
+    ],
+    "amount": 7018.23
+}

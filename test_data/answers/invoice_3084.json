@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lindsey, Moore and Rogers",
+    "invoice_number": "INV-69289",
+    "date": "2026-01-05",
+    "items": [
+        {
+            "description": "Inverse responsive initiative",
+            "quantity": 9,
+            "unit_price": 239.82,
+            "total_price": 2158.38
+        },
+        {
+            "description": "Centralized 24hour concept",
+            "quantity": 10,
+            "unit_price": 108.13,
+            "total_price": 1081.3
+        },
+        {
+            "description": "De-engineered dynamic alliance",
+            "quantity": 9,
+            "unit_price": 121.48,
+            "total_price": 1093.32
+        }
+    ],
+    "amount": 4333.0
+}

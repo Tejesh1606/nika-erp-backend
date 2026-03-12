@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Smith-Terrell",
+    "invoice_number": "INV-52972",
+    "date": "2025-04-29",
+    "items": [
+        {
+            "description": "Enhanced reciprocal algorithm",
+            "quantity": 1,
+            "unit_price": 226.64,
+            "total_price": 226.64
+        },
+        {
+            "description": "Implemented 4thgeneration product",
+            "quantity": 2,
+            "unit_price": 244.56,
+            "total_price": 489.12
+        },
+        {
+            "description": "Cross-group heuristic algorithm",
+            "quantity": 5,
+            "unit_price": 111.77,
+            "total_price": 558.85
+        },
+        {
+            "description": "Polarized intermediate concept",
+            "quantity": 3,
+            "unit_price": 177.77,
+            "total_price": 533.31
+        }
+    ],
+    "amount": 1807.92
+}

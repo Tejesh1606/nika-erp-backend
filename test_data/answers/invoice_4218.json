@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Schmidt-Johnson",
+    "invoice_number": "INV-83304",
+    "date": "2025-06-18",
+    "items": [
+        {
+            "description": "Synergized motivating database",
+            "quantity": 1,
+            "unit_price": 305.25,
+            "total_price": 305.25
+        },
+        {
+            "description": "Optimized zero-defect task-force",
+            "quantity": 10,
+            "unit_price": 255.25,
+            "total_price": 2552.5
+        },
+        {
+            "description": "Programmable bottom-line interface",
+            "quantity": 4,
+            "unit_price": 157.01,
+            "total_price": 628.04
+        }
+    ],
+    "amount": 3485.79
+}

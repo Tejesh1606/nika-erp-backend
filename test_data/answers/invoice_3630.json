@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Graham LLC",
+    "invoice_number": "INV-11616",
+    "date": "2025-05-02",
+    "items": [
+        {
+            "description": "Programmable global policy",
+            "quantity": 4,
+            "unit_price": 126.44,
+            "total_price": 505.76
+        },
+        {
+            "description": "Cloned full-range Internet solution",
+            "quantity": 7,
+            "unit_price": 349.07,
+            "total_price": 2443.49
+        },
+        {
+            "description": "Total well-modulated functionalities",
+            "quantity": 9,
+            "unit_price": 75.02,
+            "total_price": 675.18
+        }
+    ],
+    "amount": 3624.43
+}

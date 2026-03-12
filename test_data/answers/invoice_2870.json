@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Richards-Molina",
+    "invoice_number": "INV-57405",
+    "date": "2026-01-23",
+    "items": [
+        {
+            "description": "Operative asynchronous artificial intelligence",
+            "quantity": 3,
+            "unit_price": 122.86,
+            "total_price": 368.58
+        },
+        {
+            "description": "Right-sized system-worthy task-force",
+            "quantity": 2,
+            "unit_price": 427.19,
+            "total_price": 854.38
+        }
+    ],
+    "amount": 1222.96
+}

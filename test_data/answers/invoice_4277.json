@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Woods LLC",
+    "invoice_number": "INV-57117",
+    "date": "2025-11-11",
+    "items": [
+        {
+            "description": "Streamlined high-level project",
+            "quantity": 1,
+            "unit_price": 76.06,
+            "total_price": 76.06
+        },
+        {
+            "description": "Ameliorated even-keeled Graphical User Interface",
+            "quantity": 5,
+            "unit_price": 102.59,
+            "total_price": 512.95
+        }
+    ],
+    "amount": 589.01
+}

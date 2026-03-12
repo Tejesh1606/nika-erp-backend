@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Acosta-Hall",
+    "invoice_number": "INV-29750",
+    "date": "2025-03-14",
+    "items": [
+        {
+            "description": "Proactive didactic Graphical User Interface",
+            "quantity": 7,
+            "unit_price": 149.97,
+            "total_price": 1049.79
+        },
+        {
+            "description": "Operative fault-tolerant toolset",
+            "quantity": 1,
+            "unit_price": 315.43,
+            "total_price": 315.43
+        },
+        {
+            "description": "Proactive holistic Local Area Network",
+            "quantity": 7,
+            "unit_price": 486.66,
+            "total_price": 3406.62
+        }
+    ],
+    "amount": 4771.84
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Goodman-Nguyen",
+    "invoice_number": "INV-85326",
+    "date": "2025-04-13",
+    "items": [
+        {
+            "description": "Universal encompassing framework",
+            "quantity": 9,
+            "unit_price": 441.63,
+            "total_price": 3974.67
+        },
+        {
+            "description": "Progressive object-oriented function",
+            "quantity": 5,
+            "unit_price": 55.45,
+            "total_price": 277.25
+        },
+        {
+            "description": "Ameliorated 24hour orchestration",
+            "quantity": 7,
+            "unit_price": 182.75,
+            "total_price": 1279.25
+        },
+        {
+            "description": "Switchable fault-tolerant info-mediaries",
+            "quantity": 10,
+            "unit_price": 23.45,
+            "total_price": 234.5
+        }
+    ],
+    "amount": 5765.67
+}

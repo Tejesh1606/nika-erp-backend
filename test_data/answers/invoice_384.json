@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Harris Ltd",
+    "invoice_number": "INV-92616",
+    "date": "2025-03-12",
+    "items": [
+        {
+            "description": "Innovative intangible protocol",
+            "quantity": 3,
+            "unit_price": 304.18,
+            "total_price": 912.54
+        },
+        {
+            "description": "Cross-platform stable model",
+            "quantity": 7,
+            "unit_price": 169.23,
+            "total_price": 1184.61
+        },
+        {
+            "description": "Future-proofed regional portal",
+            "quantity": 10,
+            "unit_price": 355.16,
+            "total_price": 3551.6
+        }
+    ],
+    "amount": 5648.75
+}

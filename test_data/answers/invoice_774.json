@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rice Group",
+    "invoice_number": "INV-85550",
+    "date": "2025-07-09",
+    "items": [
+        {
+            "description": "Reactive asymmetric flexibility",
+            "quantity": 1,
+            "unit_price": 267.56,
+            "total_price": 267.56
+        },
+        {
+            "description": "Stand-alone intangible leverage",
+            "quantity": 1,
+            "unit_price": 42.08,
+            "total_price": 42.08
+        },
+        {
+            "description": "Customizable modular process improvement",
+            "quantity": 2,
+            "unit_price": 61.22,
+            "total_price": 122.44
+        },
+        {
+            "description": "Stand-alone grid-enabled knowledge user",
+            "quantity": 4,
+            "unit_price": 173.92,
+            "total_price": 695.68
+        }
+    ],
+    "amount": 1127.76
+}

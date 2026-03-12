@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Harrison PLC",
+    "invoice_number": "INV-21245",
+    "date": "2026-01-12",
+    "items": [
+        {
+            "description": "Face-to-face bottom-line projection",
+            "quantity": 5,
+            "unit_price": 387.67,
+            "total_price": 1938.35
+        },
+        {
+            "description": "Seamless asymmetric hierarchy",
+            "quantity": 1,
+            "unit_price": 376.87,
+            "total_price": 376.87
+        }
+    ],
+    "amount": 2315.22
+}

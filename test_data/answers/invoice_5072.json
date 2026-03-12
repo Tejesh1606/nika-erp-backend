@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wilson and Sons",
+    "invoice_number": "INV-18639",
+    "date": "2025-06-26",
+    "items": [
+        {
+            "description": "Optimized exuding function",
+            "quantity": 4,
+            "unit_price": 34.61,
+            "total_price": 138.44
+        }
+    ],
+    "amount": 138.44
+}

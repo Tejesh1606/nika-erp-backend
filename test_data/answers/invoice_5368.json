@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Francis, Garcia and Montoya",
+    "invoice_number": "INV-30724",
+    "date": "2025-07-07",
+    "items": [
+        {
+            "description": "Multi-lateral multi-tasking success",
+            "quantity": 1,
+            "unit_price": 397.37,
+            "total_price": 397.37
+        },
+        {
+            "description": "Pre-emptive 5thgeneration capability",
+            "quantity": 2,
+            "unit_price": 138.78,
+            "total_price": 277.56
+        },
+        {
+            "description": "Face-to-face bandwidth-monitored support",
+            "quantity": 5,
+            "unit_price": 286.06,
+            "total_price": 1430.3
+        }
+    ],
+    "amount": 2105.23
+}

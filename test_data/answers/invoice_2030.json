@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hill-Carey",
+    "invoice_number": "INV-10827",
+    "date": "2025-09-13",
+    "items": [
+        {
+            "description": "Synchronized foreground emulation",
+            "quantity": 6,
+            "unit_price": 371.38,
+            "total_price": 2228.28
+        }
+    ],
+    "amount": 2228.28
+}

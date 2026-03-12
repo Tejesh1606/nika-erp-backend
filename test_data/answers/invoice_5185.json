@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Brown, Reed and Wood",
+    "invoice_number": "INV-26586",
+    "date": "2025-06-10",
+    "items": [
+        {
+            "description": "Polarized motivating core",
+            "quantity": 9,
+            "unit_price": 191.11,
+            "total_price": 1719.99
+        }
+    ],
+    "amount": 1719.99
+}

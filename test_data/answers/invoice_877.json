@@ -1,0 +1,32 @@
+{
+    "vendor_name": "White PLC",
+    "invoice_number": "INV-66633",
+    "date": "2025-09-02",
+    "items": [
+        {
+            "description": "Networked stable contingency",
+            "quantity": 7,
+            "unit_price": 305.13,
+            "total_price": 2135.91
+        },
+        {
+            "description": "Total non-volatile attitude",
+            "quantity": 3,
+            "unit_price": 82.27,
+            "total_price": 246.81
+        },
+        {
+            "description": "Object-based tangible analyzer",
+            "quantity": 6,
+            "unit_price": 467.18,
+            "total_price": 2803.08
+        },
+        {
+            "description": "Front-line cohesive focus group",
+            "quantity": 1,
+            "unit_price": 493.01,
+            "total_price": 493.01
+        }
+    ],
+    "amount": 5678.81
+}

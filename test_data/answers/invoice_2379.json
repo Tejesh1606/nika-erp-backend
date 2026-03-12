@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Craig and Sons",
+    "invoice_number": "INV-52838",
+    "date": "2025-07-04",
+    "items": [
+        {
+            "description": "Synergized scalable policy",
+            "quantity": 9,
+            "unit_price": 247.16,
+            "total_price": 2224.44
+        },
+        {
+            "description": "Team-oriented 3rdgeneration budgetary management",
+            "quantity": 5,
+            "unit_price": 332.95,
+            "total_price": 1664.75
+        }
+    ],
+    "amount": 3889.19
+}

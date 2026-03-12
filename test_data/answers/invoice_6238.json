@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Woods-Vega",
+    "invoice_number": "INV-89061",
+    "date": "2025-05-25",
+    "items": [
+        {
+            "description": "Object-based hybrid matrix",
+            "quantity": 4,
+            "unit_price": 398.08,
+            "total_price": 1592.32
+        },
+        {
+            "description": "Focused fresh-thinking circuit",
+            "quantity": 5,
+            "unit_price": 329.76,
+            "total_price": 1648.8
+        },
+        {
+            "description": "Cross-platform impactful adapter",
+            "quantity": 10,
+            "unit_price": 28.63,
+            "total_price": 286.3
+        }
+    ],
+    "amount": 3527.42
+}

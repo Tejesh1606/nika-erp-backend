@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Pugh-Ray",
+    "invoice_number": "INV-48015",
+    "date": "2025-08-31",
+    "items": [
+        {
+            "description": "Balanced radical protocol",
+            "quantity": 1,
+            "unit_price": 475.49,
+            "total_price": 475.49
+        }
+    ],
+    "amount": 475.49
+}

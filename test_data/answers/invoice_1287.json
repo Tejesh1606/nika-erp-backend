@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Kennedy, Davis and Wood",
+    "invoice_number": "INV-88819",
+    "date": "2026-02-15",
+    "items": [
+        {
+            "description": "Streamlined human-resource neural-net",
+            "quantity": 5,
+            "unit_price": 168.29,
+            "total_price": 841.45
+        }
+    ],
+    "amount": 841.45
+}

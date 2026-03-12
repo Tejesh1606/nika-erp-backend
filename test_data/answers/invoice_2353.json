@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Williams and Sons",
+    "invoice_number": "INV-47621",
+    "date": "2025-10-12",
+    "items": [
+        {
+            "description": "Face-to-face leadingedge function",
+            "quantity": 1,
+            "unit_price": 170.51,
+            "total_price": 170.51
+        },
+        {
+            "description": "Future-proofed zero administration flexibility",
+            "quantity": 7,
+            "unit_price": 355.32,
+            "total_price": 2487.24
+        },
+        {
+            "description": "Compatible zero administration methodology",
+            "quantity": 10,
+            "unit_price": 431.85,
+            "total_price": 4318.5
+        },
+        {
+            "description": "Down-sized directional flexibility",
+            "quantity": 9,
+            "unit_price": 198.81,
+            "total_price": 1789.29
+        }
+    ],
+    "amount": 8765.54
+}

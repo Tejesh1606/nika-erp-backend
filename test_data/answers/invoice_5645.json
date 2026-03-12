@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Deleon Group",
+    "invoice_number": "INV-35694",
+    "date": "2025-11-16",
+    "items": [
+        {
+            "description": "Open-architected coherent algorithm",
+            "quantity": 6,
+            "unit_price": 369.87,
+            "total_price": 2219.22
+        },
+        {
+            "description": "Triple-buffered optimal archive",
+            "quantity": 6,
+            "unit_price": 98.4,
+            "total_price": 590.4
+        },
+        {
+            "description": "Open-source 24hour protocol",
+            "quantity": 9,
+            "unit_price": 321.63,
+            "total_price": 2894.67
+        }
+    ],
+    "amount": 5704.29
+}

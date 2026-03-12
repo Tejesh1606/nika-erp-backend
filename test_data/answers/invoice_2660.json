@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Edwards Group",
+    "invoice_number": "INV-85837",
+    "date": "2025-04-28",
+    "items": [
+        {
+            "description": "Re-contextualized intangible Graphic Interface",
+            "quantity": 5,
+            "unit_price": 466.79,
+            "total_price": 2333.95
+        }
+    ],
+    "amount": 2333.95
+}

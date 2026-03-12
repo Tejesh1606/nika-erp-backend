@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ellis-Watkins",
+    "invoice_number": "INV-93915",
+    "date": "2025-03-28",
+    "items": [
+        {
+            "description": "Configurable stable matrix",
+            "quantity": 7,
+            "unit_price": 23.58,
+            "total_price": 165.06
+        },
+        {
+            "description": "Inverse zero administration concept",
+            "quantity": 9,
+            "unit_price": 477.66,
+            "total_price": 4298.94
+        },
+        {
+            "description": "Diverse mission-critical parallelism",
+            "quantity": 4,
+            "unit_price": 267.77,
+            "total_price": 1071.08
+        }
+    ],
+    "amount": 5535.08
+}

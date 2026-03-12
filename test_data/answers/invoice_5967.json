@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Todd-Silva",
+    "invoice_number": "INV-87970",
+    "date": "2025-06-22",
+    "items": [
+        {
+            "description": "Quality-focused static concept",
+            "quantity": 7,
+            "unit_price": 17.93,
+            "total_price": 125.51
+        },
+        {
+            "description": "Synchronized composite data-warehouse",
+            "quantity": 8,
+            "unit_price": 479.54,
+            "total_price": 3836.32
+        },
+        {
+            "description": "Synergized content-based capacity",
+            "quantity": 5,
+            "unit_price": 205.77,
+            "total_price": 1028.85
+        }
+    ],
+    "amount": 4990.68
+}

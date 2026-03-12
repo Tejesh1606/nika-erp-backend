@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Butler Ltd",
+    "invoice_number": "INV-20752",
+    "date": "2026-03-07",
+    "items": [
+        {
+            "description": "Secured upward-trending website",
+            "quantity": 8,
+            "unit_price": 39.91,
+            "total_price": 319.28
+        },
+        {
+            "description": "Customer-focused 3rdgeneration instruction set",
+            "quantity": 3,
+            "unit_price": 453.89,
+            "total_price": 1361.67
+        },
+        {
+            "description": "Customer-focused system-worthy synergy",
+            "quantity": 1,
+            "unit_price": 439.04,
+            "total_price": 439.04
+        },
+        {
+            "description": "Multi-tiered secondary implementation",
+            "quantity": 4,
+            "unit_price": 451.37,
+            "total_price": 1805.48
+        }
+    ],
+    "amount": 3925.47
+}

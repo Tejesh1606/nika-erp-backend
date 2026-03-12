@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Vance PLC",
+    "invoice_number": "INV-48141",
+    "date": "2025-04-29",
+    "items": [
+        {
+            "description": "Persistent motivating migration",
+            "quantity": 7,
+            "unit_price": 47.77,
+            "total_price": 334.39
+        }
+    ],
+    "amount": 334.39
+}

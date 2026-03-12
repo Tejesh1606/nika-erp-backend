@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Nguyen Inc",
+    "invoice_number": "INV-48452",
+    "date": "2025-07-26",
+    "items": [
+        {
+            "description": "Multi-layered intermediate circuit",
+            "quantity": 6,
+            "unit_price": 443.73,
+            "total_price": 2662.38
+        },
+        {
+            "description": "Fully-configurable multi-tasking installation",
+            "quantity": 9,
+            "unit_price": 168.64,
+            "total_price": 1517.76
+        },
+        {
+            "description": "Re-contextualized systemic utilization",
+            "quantity": 9,
+            "unit_price": 424.01,
+            "total_price": 3816.09
+        },
+        {
+            "description": "Enterprise-wide composite conglomeration",
+            "quantity": 9,
+            "unit_price": 348.03,
+            "total_price": 3132.27
+        }
+    ],
+    "amount": 11128.5
+}

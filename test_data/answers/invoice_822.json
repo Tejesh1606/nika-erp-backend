@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Nielsen, Lynch and Smith",
+    "invoice_number": "INV-11255",
+    "date": "2025-11-25",
+    "items": [
+        {
+            "description": "Enhanced incremental open architecture",
+            "quantity": 10,
+            "unit_price": 444.74,
+            "total_price": 4447.4
+        },
+        {
+            "description": "Total tertiary matrix",
+            "quantity": 7,
+            "unit_price": 249.24,
+            "total_price": 1744.68
+        },
+        {
+            "description": "Virtual hybrid monitoring",
+            "quantity": 10,
+            "unit_price": 374.33,
+            "total_price": 3743.3
+        }
+    ],
+    "amount": 9935.38
+}

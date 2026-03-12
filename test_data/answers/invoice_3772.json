@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Kaufman-Williams",
+    "invoice_number": "INV-56240",
+    "date": "2025-04-26",
+    "items": [
+        {
+            "description": "Advanced motivating secured line",
+            "quantity": 4,
+            "unit_price": 373.11,
+            "total_price": 1492.44
+        },
+        {
+            "description": "User-centric global project",
+            "quantity": 7,
+            "unit_price": 155.55,
+            "total_price": 1088.85
+        },
+        {
+            "description": "Devolved optimizing Internet solution",
+            "quantity": 10,
+            "unit_price": 469.65,
+            "total_price": 4696.5
+        }
+    ],
+    "amount": 7277.79
+}

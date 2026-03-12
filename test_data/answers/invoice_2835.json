@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hudson and Sons",
+    "invoice_number": "INV-40371",
+    "date": "2025-10-03",
+    "items": [
+        {
+            "description": "Networked background open system",
+            "quantity": 10,
+            "unit_price": 120.84,
+            "total_price": 1208.4
+        },
+        {
+            "description": "Function-based background architecture",
+            "quantity": 10,
+            "unit_price": 212.72,
+            "total_price": 2127.2
+        }
+    ],
+    "amount": 3335.6
+}

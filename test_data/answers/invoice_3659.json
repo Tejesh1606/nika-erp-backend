@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gross-King",
+    "invoice_number": "INV-74387",
+    "date": "2025-06-09",
+    "items": [
+        {
+            "description": "Proactive client-server circuit",
+            "quantity": 1,
+            "unit_price": 105.0,
+            "total_price": 105.0
+        },
+        {
+            "description": "Front-line empowering challenge",
+            "quantity": 2,
+            "unit_price": 67.1,
+            "total_price": 134.2
+        }
+    ],
+    "amount": 239.2
+}

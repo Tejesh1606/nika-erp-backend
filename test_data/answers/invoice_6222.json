@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Olson LLC",
+    "invoice_number": "INV-89900",
+    "date": "2025-06-18",
+    "items": [
+        {
+            "description": "Front-line client-driven matrices",
+            "quantity": 3,
+            "unit_price": 21.37,
+            "total_price": 64.11
+        },
+        {
+            "description": "Team-oriented explicit algorithm",
+            "quantity": 3,
+            "unit_price": 450.11,
+            "total_price": 1350.33
+        }
+    ],
+    "amount": 1414.44
+}

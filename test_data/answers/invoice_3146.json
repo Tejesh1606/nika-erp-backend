@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Huerta Group",
+    "invoice_number": "INV-11553",
+    "date": "2025-06-01",
+    "items": [
+        {
+            "description": "Triple-buffered multi-tasking interface",
+            "quantity": 7,
+            "unit_price": 327.04,
+            "total_price": 2289.28
+        },
+        {
+            "description": "Digitized heuristic infrastructure",
+            "quantity": 6,
+            "unit_price": 477.05,
+            "total_price": 2862.3
+        }
+    ],
+    "amount": 5151.58
+}

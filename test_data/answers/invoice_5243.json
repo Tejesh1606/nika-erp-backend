@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Harris-Green",
+    "invoice_number": "INV-44256",
+    "date": "2026-02-14",
+    "items": [
+        {
+            "description": "Ergonomic next generation hardware",
+            "quantity": 9,
+            "unit_price": 202.81,
+            "total_price": 1825.29
+        },
+        {
+            "description": "Sharable stable interface",
+            "quantity": 7,
+            "unit_price": 353.12,
+            "total_price": 2471.84
+        },
+        {
+            "description": "Exclusive demand-driven matrices",
+            "quantity": 5,
+            "unit_price": 404.0,
+            "total_price": 2020.0
+        }
+    ],
+    "amount": 6317.13
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "James-Johnson",
+    "invoice_number": "INV-98067",
+    "date": "2025-06-21",
+    "items": [
+        {
+            "description": "Total homogeneous groupware",
+            "quantity": 10,
+            "unit_price": 432.09,
+            "total_price": 4320.9
+        },
+        {
+            "description": "Multi-lateral multimedia toolset",
+            "quantity": 8,
+            "unit_price": 188.74,
+            "total_price": 1509.92
+        },
+        {
+            "description": "Optimized incremental strategy",
+            "quantity": 2,
+            "unit_price": 369.69,
+            "total_price": 739.38
+        }
+    ],
+    "amount": 6570.2
+}

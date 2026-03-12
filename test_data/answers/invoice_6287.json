@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cook Group",
+    "invoice_number": "INV-19172",
+    "date": "2025-09-02",
+    "items": [
+        {
+            "description": "Ergonomic background conglomeration",
+            "quantity": 10,
+            "unit_price": 350.96,
+            "total_price": 3509.6
+        },
+        {
+            "description": "Grass-roots directional collaboration",
+            "quantity": 8,
+            "unit_price": 100.03,
+            "total_price": 800.24
+        },
+        {
+            "description": "Customizable upward-trending paradigm",
+            "quantity": 5,
+            "unit_price": 420.4,
+            "total_price": 2102.0
+        }
+    ],
+    "amount": 6411.84
+}

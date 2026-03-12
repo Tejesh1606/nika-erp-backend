@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Stephens, Parker and Cross",
+    "invoice_number": "INV-64313",
+    "date": "2025-07-20",
+    "items": [
+        {
+            "description": "Cloned object-oriented analyzer",
+            "quantity": 3,
+            "unit_price": 303.98,
+            "total_price": 911.94
+        },
+        {
+            "description": "Expanded transitional frame",
+            "quantity": 9,
+            "unit_price": 174.37,
+            "total_price": 1569.33
+        }
+    ],
+    "amount": 2481.27
+}

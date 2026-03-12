@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Johnson-Thompson",
+    "invoice_number": "INV-96430",
+    "date": "2026-02-06",
+    "items": [
+        {
+            "description": "Vision-oriented exuding strategy",
+            "quantity": 5,
+            "unit_price": 380.56,
+            "total_price": 1902.8
+        }
+    ],
+    "amount": 1902.8
+}

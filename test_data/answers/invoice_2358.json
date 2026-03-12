@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Myers LLC",
+    "invoice_number": "INV-40730",
+    "date": "2025-07-11",
+    "items": [
+        {
+            "description": "Vision-oriented optimizing portal",
+            "quantity": 2,
+            "unit_price": 469.99,
+            "total_price": 939.98
+        }
+    ],
+    "amount": 939.98
+}

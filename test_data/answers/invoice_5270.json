@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Christian Ltd",
+    "invoice_number": "INV-37599",
+    "date": "2025-06-23",
+    "items": [
+        {
+            "description": "Versatile bandwidth-monitored contingency",
+            "quantity": 8,
+            "unit_price": 322.56,
+            "total_price": 2580.48
+        },
+        {
+            "description": "Horizontal methodical challenge",
+            "quantity": 5,
+            "unit_price": 17.82,
+            "total_price": 89.1
+        }
+    ],
+    "amount": 2669.58
+}

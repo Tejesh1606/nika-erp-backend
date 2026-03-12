@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lewis LLC",
+    "invoice_number": "INV-62948",
+    "date": "2025-12-17",
+    "items": [
+        {
+            "description": "Diverse foreground matrices",
+            "quantity": 4,
+            "unit_price": 364.77,
+            "total_price": 1459.08
+        },
+        {
+            "description": "Team-oriented hybrid challenge",
+            "quantity": 9,
+            "unit_price": 298.39,
+            "total_price": 2685.51
+        },
+        {
+            "description": "Cloned analyzing success",
+            "quantity": 6,
+            "unit_price": 178.96,
+            "total_price": 1073.76
+        },
+        {
+            "description": "Self-enabling radical alliance",
+            "quantity": 10,
+            "unit_price": 467.34,
+            "total_price": 4673.4
+        }
+    ],
+    "amount": 9891.75
+}

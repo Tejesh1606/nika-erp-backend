@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Drake-Cook",
+    "invoice_number": "INV-30779",
+    "date": "2025-11-07",
+    "items": [
+        {
+            "description": "Inverse human-resource collaboration",
+            "quantity": 10,
+            "unit_price": 181.55,
+            "total_price": 1815.5
+        }
+    ],
+    "amount": 1815.5
+}

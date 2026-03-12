@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Romero LLC",
+    "invoice_number": "INV-83184",
+    "date": "2025-11-21",
+    "items": [
+        {
+            "description": "Profit-focused executive firmware",
+            "quantity": 5,
+            "unit_price": 228.19,
+            "total_price": 1140.95
+        },
+        {
+            "description": "Visionary encompassing database",
+            "quantity": 3,
+            "unit_price": 280.41,
+            "total_price": 841.23
+        },
+        {
+            "description": "Pre-emptive client-driven time-frame",
+            "quantity": 7,
+            "unit_price": 117.08,
+            "total_price": 819.56
+        },
+        {
+            "description": "Customizable dedicated conglomeration",
+            "quantity": 4,
+            "unit_price": 260.89,
+            "total_price": 1043.56
+        }
+    ],
+    "amount": 3845.3
+}

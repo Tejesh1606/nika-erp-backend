@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Morrison, Walker and Kennedy",
+    "invoice_number": "INV-73112",
+    "date": "2026-02-25",
+    "items": [
+        {
+            "description": "Enterprise-wide fault-tolerant throughput",
+            "quantity": 4,
+            "unit_price": 232.62,
+            "total_price": 930.48
+        }
+    ],
+    "amount": 930.48
+}

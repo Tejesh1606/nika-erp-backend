@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wolfe Inc",
+    "invoice_number": "INV-37155",
+    "date": "2025-11-13",
+    "items": [
+        {
+            "description": "Advanced modular archive",
+            "quantity": 6,
+            "unit_price": 290.19,
+            "total_price": 1741.14
+        }
+    ],
+    "amount": 1741.14
+}

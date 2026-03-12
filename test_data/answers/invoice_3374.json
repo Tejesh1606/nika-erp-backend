@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Morrison PLC",
+    "invoice_number": "INV-89585",
+    "date": "2025-09-07",
+    "items": [
+        {
+            "description": "Synergistic systematic model",
+            "quantity": 1,
+            "unit_price": 210.04,
+            "total_price": 210.04
+        }
+    ],
+    "amount": 210.04
+}

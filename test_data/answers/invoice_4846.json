@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Rivera Group",
+    "invoice_number": "INV-83065",
+    "date": "2025-07-12",
+    "items": [
+        {
+            "description": "Networked needs-based hierarchy",
+            "quantity": 5,
+            "unit_price": 301.13,
+            "total_price": 1505.65
+        }
+    ],
+    "amount": 1505.65
+}

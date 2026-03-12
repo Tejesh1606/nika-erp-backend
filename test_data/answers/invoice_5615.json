@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Watkins Group",
+    "invoice_number": "INV-63490",
+    "date": "2025-07-14",
+    "items": [
+        {
+            "description": "Customer-focused exuding extranet",
+            "quantity": 3,
+            "unit_price": 128.37,
+            "total_price": 385.11
+        },
+        {
+            "description": "Synergized empowering utilization",
+            "quantity": 1,
+            "unit_price": 380.4,
+            "total_price": 380.4
+        }
+    ],
+    "amount": 765.51
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Brown LLC",
+    "invoice_number": "INV-14347",
+    "date": "2025-04-08",
+    "items": [
+        {
+            "description": "Inverse mission-critical pricing structure",
+            "quantity": 4,
+            "unit_price": 259.41,
+            "total_price": 1037.64
+        },
+        {
+            "description": "Reduced modular projection",
+            "quantity": 6,
+            "unit_price": 107.1,
+            "total_price": 642.6
+        }
+    ],
+    "amount": 1680.24
+}

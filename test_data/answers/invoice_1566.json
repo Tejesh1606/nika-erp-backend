@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Obrien, Williams and Mcgrath",
+    "invoice_number": "INV-27813",
+    "date": "2025-03-09",
+    "items": [
+        {
+            "description": "Horizontal logistical moderator",
+            "quantity": 7,
+            "unit_price": 73.18,
+            "total_price": 512.26
+        },
+        {
+            "description": "Pre-emptive systematic system engine",
+            "quantity": 8,
+            "unit_price": 22.83,
+            "total_price": 182.64
+        },
+        {
+            "description": "Object-based neutral moratorium",
+            "quantity": 1,
+            "unit_price": 271.14,
+            "total_price": 271.14
+        },
+        {
+            "description": "Up-sized impactful moderator",
+            "quantity": 2,
+            "unit_price": 330.52,
+            "total_price": 661.04
+        }
+    ],
+    "amount": 1627.08
+}

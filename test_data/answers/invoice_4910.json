@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Romero, Hartman and Mahoney",
+    "invoice_number": "INV-44774",
+    "date": "2025-03-28",
+    "items": [
+        {
+            "description": "User-centric foreground open system",
+            "quantity": 6,
+            "unit_price": 340.29,
+            "total_price": 2041.74
+        },
+        {
+            "description": "Open-architected exuding matrices",
+            "quantity": 5,
+            "unit_price": 225.88,
+            "total_price": 1129.4
+        },
+        {
+            "description": "Automated dynamic customer loyalty",
+            "quantity": 10,
+            "unit_price": 495.64,
+            "total_price": 4956.4
+        }
+    ],
+    "amount": 8127.54
+}

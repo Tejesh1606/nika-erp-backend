@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Riley-Velazquez",
+    "invoice_number": "INV-84853",
+    "date": "2025-11-10",
+    "items": [
+        {
+            "description": "Multi-lateral radical function",
+            "quantity": 4,
+            "unit_price": 431.78,
+            "total_price": 1727.12
+        },
+        {
+            "description": "Business-focused grid-enabled service-desk",
+            "quantity": 3,
+            "unit_price": 27.19,
+            "total_price": 81.57
+        }
+    ],
+    "amount": 1808.69
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Nichols-Moore",
+    "invoice_number": "INV-79463",
+    "date": "2025-04-27",
+    "items": [
+        {
+            "description": "Up-sized secondary process improvement",
+            "quantity": 3,
+            "unit_price": 101.41,
+            "total_price": 304.23
+        },
+        {
+            "description": "Multi-layered analyzing monitoring",
+            "quantity": 4,
+            "unit_price": 308.53,
+            "total_price": 1234.12
+        },
+        {
+            "description": "Customer-focused encompassing pricing structure",
+            "quantity": 3,
+            "unit_price": 397.44,
+            "total_price": 1192.32
+        },
+        {
+            "description": "Reduced stable function",
+            "quantity": 4,
+            "unit_price": 93.35,
+            "total_price": 373.4
+        }
+    ],
+    "amount": 3104.07
+}

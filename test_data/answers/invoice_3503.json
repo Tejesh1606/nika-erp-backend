@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Doyle, Clark and Gentry",
+    "invoice_number": "INV-75303",
+    "date": "2025-08-15",
+    "items": [
+        {
+            "description": "Profit-focused local access",
+            "quantity": 10,
+            "unit_price": 201.64,
+            "total_price": 2016.4
+        },
+        {
+            "description": "Managed system-worthy middleware",
+            "quantity": 9,
+            "unit_price": 377.61,
+            "total_price": 3398.49
+        },
+        {
+            "description": "Vision-oriented 24/7 matrix",
+            "quantity": 1,
+            "unit_price": 42.25,
+            "total_price": 42.25
+        }
+    ],
+    "amount": 5457.14
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "King-Franklin",
+    "invoice_number": "INV-25078",
+    "date": "2025-10-25",
+    "items": [
+        {
+            "description": "Triple-buffered non-volatile implementation",
+            "quantity": 2,
+            "unit_price": 201.34,
+            "total_price": 402.68
+        },
+        {
+            "description": "Switchable encompassing functionalities",
+            "quantity": 5,
+            "unit_price": 322.45,
+            "total_price": 1612.25
+        },
+        {
+            "description": "Synergistic object-oriented task-force",
+            "quantity": 3,
+            "unit_price": 108.93,
+            "total_price": 326.79
+        },
+        {
+            "description": "Virtual solution-oriented info-mediaries",
+            "quantity": 8,
+            "unit_price": 328.52,
+            "total_price": 2628.16
+        }
+    ],
+    "amount": 4969.88
+}

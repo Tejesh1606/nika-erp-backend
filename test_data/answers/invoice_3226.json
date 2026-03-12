@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hall, Fleming and Thompson",
+    "invoice_number": "INV-20735",
+    "date": "2025-03-13",
+    "items": [
+        {
+            "description": "Synergistic context-sensitive process improvement",
+            "quantity": 4,
+            "unit_price": 292.33,
+            "total_price": 1169.32
+        },
+        {
+            "description": "Phased high-level process improvement",
+            "quantity": 9,
+            "unit_price": 356.52,
+            "total_price": 3208.68
+        }
+    ],
+    "amount": 4378.0
+}

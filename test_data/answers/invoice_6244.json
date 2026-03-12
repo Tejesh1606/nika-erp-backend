@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Day, Banks and Sloan",
+    "invoice_number": "INV-55706",
+    "date": "2025-10-24",
+    "items": [
+        {
+            "description": "Grass-roots asymmetric framework",
+            "quantity": 1,
+            "unit_price": 234.05,
+            "total_price": 234.05
+        },
+        {
+            "description": "Fundamental mobile matrices",
+            "quantity": 1,
+            "unit_price": 377.98,
+            "total_price": 377.98
+        }
+    ],
+    "amount": 612.03
+}

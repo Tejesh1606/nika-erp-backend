@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mcgee, Reed and Davis",
+    "invoice_number": "INV-40427",
+    "date": "2026-01-28",
+    "items": [
+        {
+            "description": "Compatible global portal",
+            "quantity": 10,
+            "unit_price": 195.3,
+            "total_price": 1953.0
+        },
+        {
+            "description": "Visionary reciprocal policy",
+            "quantity": 2,
+            "unit_price": 478.29,
+            "total_price": 956.58
+        }
+    ],
+    "amount": 2909.58
+}

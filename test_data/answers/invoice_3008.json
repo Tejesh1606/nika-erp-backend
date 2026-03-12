@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Peterson PLC",
+    "invoice_number": "INV-61352",
+    "date": "2025-07-12",
+    "items": [
+        {
+            "description": "Vision-oriented client-driven policy",
+            "quantity": 8,
+            "unit_price": 94.38,
+            "total_price": 755.04
+        },
+        {
+            "description": "Integrated background challenge",
+            "quantity": 10,
+            "unit_price": 48.86,
+            "total_price": 488.6
+        },
+        {
+            "description": "Profit-focused global encryption",
+            "quantity": 2,
+            "unit_price": 493.19,
+            "total_price": 986.38
+        }
+    ],
+    "amount": 2230.02
+}

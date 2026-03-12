@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Obrien, Farley and Harris",
+    "invoice_number": "INV-75990",
+    "date": "2025-03-20",
+    "items": [
+        {
+            "description": "Multi-channeled demand-driven matrix",
+            "quantity": 6,
+            "unit_price": 481.92,
+            "total_price": 2891.52
+        }
+    ],
+    "amount": 2891.52
+}

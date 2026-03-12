@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ortiz, Diaz and Calderon",
+    "invoice_number": "INV-55880",
+    "date": "2025-10-24",
+    "items": [
+        {
+            "description": "Ameliorated upward-trending budgetary management",
+            "quantity": 5,
+            "unit_price": 122.79,
+            "total_price": 613.95
+        },
+        {
+            "description": "Digitized background data-warehouse",
+            "quantity": 2,
+            "unit_price": 14.22,
+            "total_price": 28.44
+        },
+        {
+            "description": "Multi-lateral full-range core",
+            "quantity": 9,
+            "unit_price": 373.75,
+            "total_price": 3363.75
+        }
+    ],
+    "amount": 4006.14
+}

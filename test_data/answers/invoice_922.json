@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Crosby-David",
+    "invoice_number": "INV-72406",
+    "date": "2025-11-19",
+    "items": [
+        {
+            "description": "Total bandwidth-monitored superstructure",
+            "quantity": 10,
+            "unit_price": 279.82,
+            "total_price": 2798.2
+        }
+    ],
+    "amount": 2798.2
+}

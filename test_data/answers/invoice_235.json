@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Williams-Cooper",
+    "invoice_number": "INV-94320",
+    "date": "2025-11-24",
+    "items": [
+        {
+            "description": "Multi-tiered zero tolerance moderator",
+            "quantity": 4,
+            "unit_price": 122.55,
+            "total_price": 490.2
+        }
+    ],
+    "amount": 490.2
+}

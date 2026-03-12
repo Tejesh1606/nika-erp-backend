@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Duran, Scott and Molina",
+    "invoice_number": "INV-79833",
+    "date": "2026-01-19",
+    "items": [
+        {
+            "description": "Organic holistic time-frame",
+            "quantity": 6,
+            "unit_price": 468.42,
+            "total_price": 2810.52
+        },
+        {
+            "description": "Grass-roots systematic adapter",
+            "quantity": 9,
+            "unit_price": 122.97,
+            "total_price": 1106.73
+        },
+        {
+            "description": "Fully-configurable impactful standardization",
+            "quantity": 10,
+            "unit_price": 448.6,
+            "total_price": 4486.0
+        }
+    ],
+    "amount": 8403.25
+}

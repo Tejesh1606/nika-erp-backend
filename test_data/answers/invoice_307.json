@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Morales, Davidson and Medina",
+    "invoice_number": "INV-30012",
+    "date": "2025-06-24",
+    "items": [
+        {
+            "description": "Configurable fault-tolerant artificial intelligence",
+            "quantity": 10,
+            "unit_price": 135.81,
+            "total_price": 1358.1
+        }
+    ],
+    "amount": 1358.1
+}

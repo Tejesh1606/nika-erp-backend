@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Garcia, Simpson and Douglas",
+    "invoice_number": "INV-22808",
+    "date": "2025-07-04",
+    "items": [
+        {
+            "description": "Networked grid-enabled instruction set",
+            "quantity": 9,
+            "unit_price": 186.34,
+            "total_price": 1677.06
+        },
+        {
+            "description": "Operative solution-oriented encoding",
+            "quantity": 8,
+            "unit_price": 483.9,
+            "total_price": 3871.2
+        },
+        {
+            "description": "Organized 6thgeneration methodology",
+            "quantity": 7,
+            "unit_price": 260.58,
+            "total_price": 1824.06
+        }
+    ],
+    "amount": 7372.32
+}

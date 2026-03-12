@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Chapman-Kim",
+    "invoice_number": "INV-77879",
+    "date": "2025-12-21",
+    "items": [
+        {
+            "description": "Implemented holistic standardization",
+            "quantity": 9,
+            "unit_price": 46.86,
+            "total_price": 421.74
+        }
+    ],
+    "amount": 421.74
+}

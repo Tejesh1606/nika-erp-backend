@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Marshall-Lee",
+    "invoice_number": "INV-79880",
+    "date": "2026-02-19",
+    "items": [
+        {
+            "description": "Profit-focused background groupware",
+            "quantity": 5,
+            "unit_price": 81.32,
+            "total_price": 406.6
+        },
+        {
+            "description": "Focused 3rdgeneration complexity",
+            "quantity": 2,
+            "unit_price": 351.52,
+            "total_price": 703.04
+        },
+        {
+            "description": "Reduced directional database",
+            "quantity": 6,
+            "unit_price": 223.69,
+            "total_price": 1342.14
+        }
+    ],
+    "amount": 2451.78
+}

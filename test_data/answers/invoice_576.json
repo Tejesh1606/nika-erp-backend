@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Terrell-Sims",
+    "invoice_number": "INV-31753",
+    "date": "2025-10-16",
+    "items": [
+        {
+            "description": "Robust human-resource contingency",
+            "quantity": 1,
+            "unit_price": 436.79,
+            "total_price": 436.79
+        },
+        {
+            "description": "Right-sized bifurcated toolset",
+            "quantity": 8,
+            "unit_price": 91.44,
+            "total_price": 731.52
+        },
+        {
+            "description": "Versatile fault-tolerant strategy",
+            "quantity": 6,
+            "unit_price": 136.72,
+            "total_price": 820.32
+        },
+        {
+            "description": "Intuitive tertiary alliance",
+            "quantity": 8,
+            "unit_price": 161.47,
+            "total_price": 1291.76
+        }
+    ],
+    "amount": 3280.39
+}

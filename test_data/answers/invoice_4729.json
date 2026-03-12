@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hardin-Martin",
+    "invoice_number": "INV-11199",
+    "date": "2026-02-28",
+    "items": [
+        {
+            "description": "Assimilated systematic parallelism",
+            "quantity": 9,
+            "unit_price": 486.84,
+            "total_price": 4381.56
+        },
+        {
+            "description": "Diverse 3rdgeneration help-desk",
+            "quantity": 6,
+            "unit_price": 268.17,
+            "total_price": 1609.02
+        }
+    ],
+    "amount": 5990.58
+}

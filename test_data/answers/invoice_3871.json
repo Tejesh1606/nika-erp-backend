@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Porter-Neal",
+    "invoice_number": "INV-70912",
+    "date": "2025-08-26",
+    "items": [
+        {
+            "description": "Operative asynchronous paradigm",
+            "quantity": 1,
+            "unit_price": 155.89,
+            "total_price": 155.89
+        },
+        {
+            "description": "Mandatory clear-thinking flexibility",
+            "quantity": 4,
+            "unit_price": 26.46,
+            "total_price": 105.84
+        }
+    ],
+    "amount": 261.73
+}

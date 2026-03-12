@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Allen-Brown",
+    "invoice_number": "INV-67670",
+    "date": "2025-11-26",
+    "items": [
+        {
+            "description": "Enhanced solution-oriented structure",
+            "quantity": 9,
+            "unit_price": 334.42,
+            "total_price": 3009.78
+        }
+    ],
+    "amount": 3009.78
+}

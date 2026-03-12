@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Ray-Jefferson",
+    "invoice_number": "INV-31682",
+    "date": "2025-08-20",
+    "items": [
+        {
+            "description": "Profit-focused context-sensitive encoding",
+            "quantity": 2,
+            "unit_price": 251.23,
+            "total_price": 502.46
+        },
+        {
+            "description": "Seamless stable synergy",
+            "quantity": 9,
+            "unit_price": 81.19,
+            "total_price": 730.71
+        },
+        {
+            "description": "Multi-lateral user-facing hub",
+            "quantity": 4,
+            "unit_price": 12.84,
+            "total_price": 51.36
+        },
+        {
+            "description": "Fundamental dedicated solution",
+            "quantity": 6,
+            "unit_price": 462.3,
+            "total_price": 2773.8
+        }
+    ],
+    "amount": 4058.33
+}

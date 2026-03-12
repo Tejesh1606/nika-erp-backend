@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Shields Ltd",
+    "invoice_number": "INV-26645",
+    "date": "2025-06-22",
+    "items": [
+        {
+            "description": "User-friendly systemic software",
+            "quantity": 10,
+            "unit_price": 376.72,
+            "total_price": 3767.2
+        },
+        {
+            "description": "Grass-roots zero administration methodology",
+            "quantity": 7,
+            "unit_price": 258.74,
+            "total_price": 1811.18
+        },
+        {
+            "description": "Universal radical strategy",
+            "quantity": 8,
+            "unit_price": 81.03,
+            "total_price": 648.24
+        },
+        {
+            "description": "Diverse zero-defect paradigm",
+            "quantity": 7,
+            "unit_price": 118.35,
+            "total_price": 828.45
+        }
+    ],
+    "amount": 7055.07
+}

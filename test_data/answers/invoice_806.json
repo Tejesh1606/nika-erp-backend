@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hogan, Zimmerman and Hoffman",
+    "invoice_number": "INV-26224",
+    "date": "2025-11-14",
+    "items": [
+        {
+            "description": "Realigned attitude-oriented core",
+            "quantity": 3,
+            "unit_price": 21.5,
+            "total_price": 64.5
+        },
+        {
+            "description": "Secured needs-based orchestration",
+            "quantity": 7,
+            "unit_price": 443.39,
+            "total_price": 3103.73
+        }
+    ],
+    "amount": 3168.23
+}

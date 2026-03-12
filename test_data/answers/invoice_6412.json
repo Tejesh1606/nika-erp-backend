@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Kennedy, White and Cole",
+    "invoice_number": "INV-70465",
+    "date": "2025-04-06",
+    "items": [
+        {
+            "description": "Expanded value-added analyzer",
+            "quantity": 6,
+            "unit_price": 235.97,
+            "total_price": 1415.82
+        },
+        {
+            "description": "Innovative client-server emulation",
+            "quantity": 2,
+            "unit_price": 244.59,
+            "total_price": 489.18
+        },
+        {
+            "description": "Profit-focused methodical secured line",
+            "quantity": 7,
+            "unit_price": 11.92,
+            "total_price": 83.44
+        }
+    ],
+    "amount": 1988.44
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Alexander-Frazier",
+    "invoice_number": "INV-69525",
+    "date": "2025-06-16",
+    "items": [
+        {
+            "description": "Integrated bandwidth-monitored alliance",
+            "quantity": 1,
+            "unit_price": 261.54,
+            "total_price": 261.54
+        },
+        {
+            "description": "User-centric systemic open architecture",
+            "quantity": 2,
+            "unit_price": 492.94,
+            "total_price": 985.88
+        },
+        {
+            "description": "Function-based dedicated paradigm",
+            "quantity": 7,
+            "unit_price": 483.11,
+            "total_price": 3381.77
+        },
+        {
+            "description": "Phased bottom-line synergy",
+            "quantity": 8,
+            "unit_price": 209.01,
+            "total_price": 1672.08
+        }
+    ],
+    "amount": 6301.27
+}

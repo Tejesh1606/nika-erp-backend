@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Stark, Hickman and Patterson",
+    "invoice_number": "INV-49742",
+    "date": "2025-09-06",
+    "items": [
+        {
+            "description": "Balanced modular projection",
+            "quantity": 9,
+            "unit_price": 67.82,
+            "total_price": 610.38
+        },
+        {
+            "description": "Distributed human-resource analyzer",
+            "quantity": 1,
+            "unit_price": 222.13,
+            "total_price": 222.13
+        },
+        {
+            "description": "User-centric cohesive Local Area Network",
+            "quantity": 1,
+            "unit_price": 79.04,
+            "total_price": 79.04
+        },
+        {
+            "description": "Intuitive mission-critical superstructure",
+            "quantity": 6,
+            "unit_price": 309.16,
+            "total_price": 1854.96
+        }
+    ],
+    "amount": 2766.51
+}

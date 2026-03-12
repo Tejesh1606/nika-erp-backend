@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Dixon-Gutierrez",
+    "invoice_number": "INV-77969",
+    "date": "2026-01-07",
+    "items": [
+        {
+            "description": "Upgradable directional core",
+            "quantity": 7,
+            "unit_price": 29.57,
+            "total_price": 206.99
+        },
+        {
+            "description": "Mandatory heuristic solution",
+            "quantity": 10,
+            "unit_price": 59.53,
+            "total_price": 595.3
+        },
+        {
+            "description": "Organized 24/7 website",
+            "quantity": 3,
+            "unit_price": 462.99,
+            "total_price": 1388.97
+        }
+    ],
+    "amount": 2191.26
+}

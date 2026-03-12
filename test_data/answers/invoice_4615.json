@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Page-Fisher",
+    "invoice_number": "INV-52658",
+    "date": "2025-04-04",
+    "items": [
+        {
+            "description": "Automated fault-tolerant orchestration",
+            "quantity": 10,
+            "unit_price": 316.69,
+            "total_price": 3166.9
+        },
+        {
+            "description": "Future-proofed homogeneous capability",
+            "quantity": 4,
+            "unit_price": 424.43,
+            "total_price": 1697.72
+        },
+        {
+            "description": "Pre-emptive dynamic alliance",
+            "quantity": 2,
+            "unit_price": 255.81,
+            "total_price": 511.62
+        }
+    ],
+    "amount": 5376.24
+}

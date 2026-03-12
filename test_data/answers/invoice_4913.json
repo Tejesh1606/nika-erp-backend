@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Dominguez and Sons",
+    "invoice_number": "INV-72712",
+    "date": "2025-04-05",
+    "items": [
+        {
+            "description": "Monitored coherent structure",
+            "quantity": 1,
+            "unit_price": 20.17,
+            "total_price": 20.17
+        },
+        {
+            "description": "Future-proofed content-based utilization",
+            "quantity": 3,
+            "unit_price": 403.57,
+            "total_price": 1210.71
+        },
+        {
+            "description": "Decentralized 6thgeneration portal",
+            "quantity": 1,
+            "unit_price": 71.89,
+            "total_price": 71.89
+        }
+    ],
+    "amount": 1302.77
+}

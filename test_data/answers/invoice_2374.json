@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Harding PLC",
+    "invoice_number": "INV-86199",
+    "date": "2025-05-16",
+    "items": [
+        {
+            "description": "Visionary multimedia pricing structure",
+            "quantity": 3,
+            "unit_price": 432.09,
+            "total_price": 1296.27
+        }
+    ],
+    "amount": 1296.27
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Sellers-Moses",
+    "invoice_number": "INV-23893",
+    "date": "2026-01-10",
+    "items": [
+        {
+            "description": "Digitized zero administration installation",
+            "quantity": 10,
+            "unit_price": 352.59,
+            "total_price": 3525.9
+        },
+        {
+            "description": "Programmable neutral migration",
+            "quantity": 10,
+            "unit_price": 34.74,
+            "total_price": 347.4
+        },
+        {
+            "description": "Upgradable bottom-line ability",
+            "quantity": 8,
+            "unit_price": 243.56,
+            "total_price": 1948.48
+        },
+        {
+            "description": "Phased responsive website",
+            "quantity": 2,
+            "unit_price": 266.71,
+            "total_price": 533.42
+        }
+    ],
+    "amount": 6355.2
+}

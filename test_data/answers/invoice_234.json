@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Brown-Fry",
+    "invoice_number": "INV-32955",
+    "date": "2025-11-07",
+    "items": [
+        {
+            "description": "Synergistic interactive open architecture",
+            "quantity": 2,
+            "unit_price": 498.31,
+            "total_price": 996.62
+        }
+    ],
+    "amount": 996.62
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Parker Inc",
+    "invoice_number": "INV-13437",
+    "date": "2025-10-02",
+    "items": [
+        {
+            "description": "Robust 6thgeneration time-frame",
+            "quantity": 4,
+            "unit_price": 58.56,
+            "total_price": 234.24
+        },
+        {
+            "description": "De-engineered needs-based hardware",
+            "quantity": 10,
+            "unit_price": 371.9,
+            "total_price": 3719.0
+        },
+        {
+            "description": "Cloned fresh-thinking functionalities",
+            "quantity": 4,
+            "unit_price": 465.52,
+            "total_price": 1862.08
+        }
+    ],
+    "amount": 5815.32
+}

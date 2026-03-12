@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Williams-Frazier",
+    "invoice_number": "INV-82479",
+    "date": "2025-05-16",
+    "items": [
+        {
+            "description": "Up-sized disintermediate benchmark",
+            "quantity": 2,
+            "unit_price": 136.09,
+            "total_price": 272.18
+        }
+    ],
+    "amount": 272.18
+}

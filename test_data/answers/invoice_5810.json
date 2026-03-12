@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Knight Ltd",
+    "invoice_number": "INV-29844",
+    "date": "2025-11-19",
+    "items": [
+        {
+            "description": "Fully-configurable hybrid capacity",
+            "quantity": 9,
+            "unit_price": 73.55,
+            "total_price": 661.95
+        }
+    ],
+    "amount": 661.95
+}

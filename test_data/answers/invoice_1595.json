@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Davis, Obrien and Barker",
+    "invoice_number": "INV-14198",
+    "date": "2025-08-08",
+    "items": [
+        {
+            "description": "Mandatory static complexity",
+            "quantity": 6,
+            "unit_price": 170.97,
+            "total_price": 1025.82
+        },
+        {
+            "description": "Team-oriented methodical workforce",
+            "quantity": 1,
+            "unit_price": 189.38,
+            "total_price": 189.38
+        }
+    ],
+    "amount": 1215.2
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Morales-Nelson",
+    "invoice_number": "INV-34125",
+    "date": "2025-03-10",
+    "items": [
+        {
+            "description": "Diverse object-oriented data-warehouse",
+            "quantity": 10,
+            "unit_price": 256.48,
+            "total_price": 2564.8
+        },
+        {
+            "description": "Reverse-engineered tangible access",
+            "quantity": 10,
+            "unit_price": 397.41,
+            "total_price": 3974.1
+        },
+        {
+            "description": "Profound logistical middleware",
+            "quantity": 6,
+            "unit_price": 319.85,
+            "total_price": 1919.1
+        }
+    ],
+    "amount": 8458.0
+}

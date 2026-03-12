@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Carpenter-Haynes",
+    "invoice_number": "INV-90772",
+    "date": "2025-07-03",
+    "items": [
+        {
+            "description": "Face-to-face attitude-oriented function",
+            "quantity": 1,
+            "unit_price": 116.07,
+            "total_price": 116.07
+        },
+        {
+            "description": "Re-contextualized tertiary capability",
+            "quantity": 3,
+            "unit_price": 482.52,
+            "total_price": 1447.56
+        },
+        {
+            "description": "Fundamental cohesive archive",
+            "quantity": 9,
+            "unit_price": 457.4,
+            "total_price": 4116.6
+        },
+        {
+            "description": "Multi-channeled eco-centric function",
+            "quantity": 6,
+            "unit_price": 148.83,
+            "total_price": 892.98
+        }
+    ],
+    "amount": 6573.21
+}

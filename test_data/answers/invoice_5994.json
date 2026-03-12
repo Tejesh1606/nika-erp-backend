@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Taylor-Gordon",
+    "invoice_number": "INV-32992",
+    "date": "2026-02-03",
+    "items": [
+        {
+            "description": "Face-to-face 3rdgeneration capacity",
+            "quantity": 8,
+            "unit_price": 226.05,
+            "total_price": 1808.4
+        },
+        {
+            "description": "Diverse secondary superstructure",
+            "quantity": 7,
+            "unit_price": 396.73,
+            "total_price": 2777.11
+        },
+        {
+            "description": "Phased contextually-based matrix",
+            "quantity": 4,
+            "unit_price": 405.38,
+            "total_price": 1621.52
+        },
+        {
+            "description": "Team-oriented holistic complexity",
+            "quantity": 8,
+            "unit_price": 304.09,
+            "total_price": 2432.72
+        }
+    ],
+    "amount": 8639.75
+}

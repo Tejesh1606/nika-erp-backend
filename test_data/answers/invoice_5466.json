@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mcfarland, Mann and Bridges",
+    "invoice_number": "INV-76600",
+    "date": "2025-11-15",
+    "items": [
+        {
+            "description": "Universal system-worthy help-desk",
+            "quantity": 3,
+            "unit_price": 92.43,
+            "total_price": 277.29
+        }
+    ],
+    "amount": 277.29
+}

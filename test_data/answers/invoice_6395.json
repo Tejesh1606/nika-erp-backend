@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lopez Inc",
+    "invoice_number": "INV-30527",
+    "date": "2025-09-23",
+    "items": [
+        {
+            "description": "Networked full-range superstructure",
+            "quantity": 6,
+            "unit_price": 339.29,
+            "total_price": 2035.74
+        }
+    ],
+    "amount": 2035.74
+}

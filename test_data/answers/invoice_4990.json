@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Garner-Wells",
+    "invoice_number": "INV-17887",
+    "date": "2025-12-30",
+    "items": [
+        {
+            "description": "Networked asymmetric firmware",
+            "quantity": 7,
+            "unit_price": 117.84,
+            "total_price": 824.88
+        },
+        {
+            "description": "Object-based 4thgeneration artificial intelligence",
+            "quantity": 7,
+            "unit_price": 176.05,
+            "total_price": 1232.35
+        }
+    ],
+    "amount": 2057.23
+}

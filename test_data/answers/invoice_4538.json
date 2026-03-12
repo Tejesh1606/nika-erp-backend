@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Poole, Wang and Griffin",
+    "invoice_number": "INV-97141",
+    "date": "2025-04-06",
+    "items": [
+        {
+            "description": "Multi-channeled local emulation",
+            "quantity": 1,
+            "unit_price": 158.31,
+            "total_price": 158.31
+        }
+    ],
+    "amount": 158.31
+}

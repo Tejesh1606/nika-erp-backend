@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Riley Ltd",
+    "invoice_number": "INV-28858",
+    "date": "2025-11-30",
+    "items": [
+        {
+            "description": "Open-source uniform strategy",
+            "quantity": 10,
+            "unit_price": 147.41,
+            "total_price": 1474.1
+        }
+    ],
+    "amount": 1474.1
+}

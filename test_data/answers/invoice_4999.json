@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Scott-Green",
+    "invoice_number": "INV-62129",
+    "date": "2025-07-26",
+    "items": [
+        {
+            "description": "Profit-focused tertiary standardization",
+            "quantity": 9,
+            "unit_price": 381.63,
+            "total_price": 3434.67
+        },
+        {
+            "description": "Exclusive reciprocal protocol",
+            "quantity": 8,
+            "unit_price": 239.77,
+            "total_price": 1918.16
+        },
+        {
+            "description": "Visionary tertiary access",
+            "quantity": 1,
+            "unit_price": 166.76,
+            "total_price": 166.76
+        },
+        {
+            "description": "Cloned next generation superstructure",
+            "quantity": 7,
+            "unit_price": 155.69,
+            "total_price": 1089.83
+        }
+    ],
+    "amount": 6609.42
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Butler-Holland",
+    "invoice_number": "INV-90233",
+    "date": "2025-03-30",
+    "items": [
+        {
+            "description": "Multi-tiered optimizing strategy",
+            "quantity": 4,
+            "unit_price": 367.81,
+            "total_price": 1471.24
+        }
+    ],
+    "amount": 1471.24
+}

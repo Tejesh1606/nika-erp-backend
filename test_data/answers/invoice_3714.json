@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Heath LLC",
+    "invoice_number": "INV-56429",
+    "date": "2025-12-17",
+    "items": [
+        {
+            "description": "Exclusive real-time Internet solution",
+            "quantity": 6,
+            "unit_price": 173.91,
+            "total_price": 1043.46
+        },
+        {
+            "description": "Balanced background system engine",
+            "quantity": 2,
+            "unit_price": 428.32,
+            "total_price": 856.64
+        },
+        {
+            "description": "Optional analyzing orchestration",
+            "quantity": 2,
+            "unit_price": 376.68,
+            "total_price": 753.36
+        },
+        {
+            "description": "Seamless directional circuit",
+            "quantity": 8,
+            "unit_price": 475.77,
+            "total_price": 3806.16
+        }
+    ],
+    "amount": 6459.62
+}

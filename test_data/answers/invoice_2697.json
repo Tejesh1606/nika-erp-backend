@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Bennett Ltd",
+    "invoice_number": "INV-89942",
+    "date": "2025-08-24",
+    "items": [
+        {
+            "description": "Monitored zero administration initiative",
+            "quantity": 3,
+            "unit_price": 421.66,
+            "total_price": 1264.98
+        }
+    ],
+    "amount": 1264.98
+}

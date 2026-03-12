@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Oliver Group",
+    "invoice_number": "INV-10913",
+    "date": "2025-04-15",
+    "items": [
+        {
+            "description": "Multi-lateral 6thgeneration success",
+            "quantity": 5,
+            "unit_price": 176.94,
+            "total_price": 884.7
+        }
+    ],
+    "amount": 884.7
+}

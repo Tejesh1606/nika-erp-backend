@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Long Group",
+    "invoice_number": "INV-22058",
+    "date": "2025-11-11",
+    "items": [
+        {
+            "description": "Future-proofed multi-state secured line",
+            "quantity": 8,
+            "unit_price": 451.23,
+            "total_price": 3609.84
+        },
+        {
+            "description": "Re-engineered heuristic knowledgebase",
+            "quantity": 9,
+            "unit_price": 119.76,
+            "total_price": 1077.84
+        }
+    ],
+    "amount": 4687.68
+}

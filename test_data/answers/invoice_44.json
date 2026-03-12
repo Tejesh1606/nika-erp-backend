@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Carroll, Sullivan and Bass",
+    "invoice_number": "INV-49829",
+    "date": "2025-06-28",
+    "items": [
+        {
+            "description": "Expanded intermediate toolset",
+            "quantity": 1,
+            "unit_price": 48.39,
+            "total_price": 48.39
+        },
+        {
+            "description": "Reduced real-time projection",
+            "quantity": 7,
+            "unit_price": 256.01,
+            "total_price": 1792.07
+        },
+        {
+            "description": "Inverse maximized intranet",
+            "quantity": 1,
+            "unit_price": 148.69,
+            "total_price": 148.69
+        }
+    ],
+    "amount": 1989.15
+}

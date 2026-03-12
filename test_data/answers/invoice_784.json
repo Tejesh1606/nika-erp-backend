@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Fuentes-Martinez",
+    "invoice_number": "INV-36462",
+    "date": "2025-08-26",
+    "items": [
+        {
+            "description": "Operative zero administration throughput",
+            "quantity": 4,
+            "unit_price": 197.06,
+            "total_price": 788.24
+        },
+        {
+            "description": "Adaptive dynamic workforce",
+            "quantity": 9,
+            "unit_price": 315.97,
+            "total_price": 2843.73
+        }
+    ],
+    "amount": 3631.97
+}

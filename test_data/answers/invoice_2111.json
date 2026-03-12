@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith Ltd",
+    "invoice_number": "INV-16083",
+    "date": "2025-07-13",
+    "items": [
+        {
+            "description": "Enhanced encompassing encryption",
+            "quantity": 5,
+            "unit_price": 247.99,
+            "total_price": 1239.95
+        }
+    ],
+    "amount": 1239.95
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cole, Boyd and Allen",
+    "invoice_number": "INV-23527",
+    "date": "2025-05-06",
+    "items": [
+        {
+            "description": "Customizable secondary protocol",
+            "quantity": 8,
+            "unit_price": 307.47,
+            "total_price": 2459.76
+        },
+        {
+            "description": "Reactive modular algorithm",
+            "quantity": 8,
+            "unit_price": 237.69,
+            "total_price": 1901.52
+        },
+        {
+            "description": "Object-based cohesive open system",
+            "quantity": 3,
+            "unit_price": 499.24,
+            "total_price": 1497.72
+        }
+    ],
+    "amount": 5859.0
+}

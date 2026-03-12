@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wilson-Marshall",
+    "invoice_number": "INV-51799",
+    "date": "2025-11-20",
+    "items": [
+        {
+            "description": "Customizable grid-enabled standardization",
+            "quantity": 1,
+            "unit_price": 190.36,
+            "total_price": 190.36
+        },
+        {
+            "description": "Object-based tertiary capacity",
+            "quantity": 8,
+            "unit_price": 338.78,
+            "total_price": 2710.24
+        }
+    ],
+    "amount": 2900.6
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Zuniga Ltd",
+    "invoice_number": "INV-68834",
+    "date": "2025-10-23",
+    "items": [
+        {
+            "description": "Self-enabling bi-directional toolset",
+            "quantity": 3,
+            "unit_price": 177.16,
+            "total_price": 531.48
+        },
+        {
+            "description": "Face-to-face client-server hub",
+            "quantity": 6,
+            "unit_price": 370.76,
+            "total_price": 2224.56
+        }
+    ],
+    "amount": 2756.04
+}

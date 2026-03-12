@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Phillips and Sons",
+    "invoice_number": "INV-24652",
+    "date": "2025-11-01",
+    "items": [
+        {
+            "description": "Digitized transitional Internet solution",
+            "quantity": 8,
+            "unit_price": 223.06,
+            "total_price": 1784.48
+        },
+        {
+            "description": "Digitized context-sensitive archive",
+            "quantity": 4,
+            "unit_price": 29.83,
+            "total_price": 119.32
+        }
+    ],
+    "amount": 1903.8
+}

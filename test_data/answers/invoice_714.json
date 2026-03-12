@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Garcia-Leonard",
+    "invoice_number": "INV-54035",
+    "date": "2025-09-17",
+    "items": [
+        {
+            "description": "Profit-focused well-modulated secured line",
+            "quantity": 8,
+            "unit_price": 314.58,
+            "total_price": 2516.64
+        },
+        {
+            "description": "Mandatory composite pricing structure",
+            "quantity": 5,
+            "unit_price": 262.35,
+            "total_price": 1311.75
+        },
+        {
+            "description": "Innovative high-level Internet solution",
+            "quantity": 6,
+            "unit_price": 98.69,
+            "total_price": 592.14
+        }
+    ],
+    "amount": 4420.53
+}

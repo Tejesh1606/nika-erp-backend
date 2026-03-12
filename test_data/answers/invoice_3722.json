@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Rodriguez, Mckinney and Roberts",
+    "invoice_number": "INV-96343",
+    "date": "2026-01-14",
+    "items": [
+        {
+            "description": "Digitized leadingedge superstructure",
+            "quantity": 6,
+            "unit_price": 339.22,
+            "total_price": 2035.32
+        },
+        {
+            "description": "Customer-focused multi-tasking emulation",
+            "quantity": 3,
+            "unit_price": 412.42,
+            "total_price": 1237.26
+        }
+    ],
+    "amount": 3272.58
+}

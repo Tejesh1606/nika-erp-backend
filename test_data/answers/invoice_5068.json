@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Nichols, Alvarado and Johnson",
+    "invoice_number": "INV-30305",
+    "date": "2025-11-03",
+    "items": [
+        {
+            "description": "Compatible secondary knowledgebase",
+            "quantity": 10,
+            "unit_price": 347.02,
+            "total_price": 3470.2
+        },
+        {
+            "description": "Enhanced human-resource functionalities",
+            "quantity": 4,
+            "unit_price": 482.2,
+            "total_price": 1928.8
+        }
+    ],
+    "amount": 5399.0
+}

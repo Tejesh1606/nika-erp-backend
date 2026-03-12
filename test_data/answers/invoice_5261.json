@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lawrence PLC",
+    "invoice_number": "INV-20829",
+    "date": "2026-01-29",
+    "items": [
+        {
+            "description": "Progressive executive migration",
+            "quantity": 8,
+            "unit_price": 261.9,
+            "total_price": 2095.2
+        },
+        {
+            "description": "Reduced optimizing extranet",
+            "quantity": 4,
+            "unit_price": 173.61,
+            "total_price": 694.44
+        },
+        {
+            "description": "Multi-channeled encompassing secured line",
+            "quantity": 7,
+            "unit_price": 409.86,
+            "total_price": 2869.02
+        }
+    ],
+    "amount": 5658.66
+}

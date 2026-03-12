@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Diaz, Reyes and Bradley",
+    "invoice_number": "INV-89310",
+    "date": "2025-05-07",
+    "items": [
+        {
+            "description": "Synergistic local hub",
+            "quantity": 6,
+            "unit_price": 341.45,
+            "total_price": 2048.7
+        },
+        {
+            "description": "Multi-layered leadingedge task-force",
+            "quantity": 2,
+            "unit_price": 72.73,
+            "total_price": 145.46
+        },
+        {
+            "description": "Compatible object-oriented challenge",
+            "quantity": 1,
+            "unit_price": 454.23,
+            "total_price": 454.23
+        }
+    ],
+    "amount": 2648.39
+}

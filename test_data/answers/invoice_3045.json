@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Warner Ltd",
+    "invoice_number": "INV-17287",
+    "date": "2025-08-23",
+    "items": [
+        {
+            "description": "Innovative logistical installation",
+            "quantity": 5,
+            "unit_price": 40.65,
+            "total_price": 203.25
+        },
+        {
+            "description": "Cloned secondary function",
+            "quantity": 3,
+            "unit_price": 330.74,
+            "total_price": 992.22
+        },
+        {
+            "description": "Innovative client-server knowledge user",
+            "quantity": 1,
+            "unit_price": 115.77,
+            "total_price": 115.77
+        }
+    ],
+    "amount": 1311.24
+}

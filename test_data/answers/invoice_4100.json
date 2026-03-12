@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Anderson-Rodriguez",
+    "invoice_number": "INV-25616",
+    "date": "2025-03-20",
+    "items": [
+        {
+            "description": "Organic 24/7 support",
+            "quantity": 6,
+            "unit_price": 336.38,
+            "total_price": 2018.28
+        },
+        {
+            "description": "Monitored static hierarchy",
+            "quantity": 1,
+            "unit_price": 52.22,
+            "total_price": 52.22
+        },
+        {
+            "description": "Proactive 24/7 hierarchy",
+            "quantity": 1,
+            "unit_price": 117.89,
+            "total_price": 117.89
+        }
+    ],
+    "amount": 2188.39
+}

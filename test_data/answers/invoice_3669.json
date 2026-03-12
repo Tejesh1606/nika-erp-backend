@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Sparks, Lee and Malone",
+    "invoice_number": "INV-46903",
+    "date": "2025-10-15",
+    "items": [
+        {
+            "description": "Robust object-oriented matrices",
+            "quantity": 7,
+            "unit_price": 207.86,
+            "total_price": 1455.02
+        },
+        {
+            "description": "Advanced demand-driven secured line",
+            "quantity": 1,
+            "unit_price": 25.51,
+            "total_price": 25.51
+        },
+        {
+            "description": "De-engineered 3rdgeneration focus group",
+            "quantity": 7,
+            "unit_price": 357.91,
+            "total_price": 2505.37
+        },
+        {
+            "description": "Ergonomic secondary function",
+            "quantity": 2,
+            "unit_price": 403.51,
+            "total_price": 807.02
+        }
+    ],
+    "amount": 4792.92
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Sanchez LLC",
+    "invoice_number": "INV-62177",
+    "date": "2025-06-24",
+    "items": [
+        {
+            "description": "Compatible tertiary initiative",
+            "quantity": 9,
+            "unit_price": 229.1,
+            "total_price": 2061.9
+        },
+        {
+            "description": "Sharable context-sensitive parallelism",
+            "quantity": 8,
+            "unit_price": 169.81,
+            "total_price": 1358.48
+        }
+    ],
+    "amount": 3420.38
+}

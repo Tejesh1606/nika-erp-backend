@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Allison Group",
+    "invoice_number": "INV-44456",
+    "date": "2025-07-30",
+    "items": [
+        {
+            "description": "Customizable content-based ability",
+            "quantity": 4,
+            "unit_price": 279.22,
+            "total_price": 1116.88
+        },
+        {
+            "description": "Synergized zero administration application",
+            "quantity": 8,
+            "unit_price": 470.9,
+            "total_price": 3767.2
+        }
+    ],
+    "amount": 4884.08
+}

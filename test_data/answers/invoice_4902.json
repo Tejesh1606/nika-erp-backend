@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Farmer PLC",
+    "invoice_number": "INV-93756",
+    "date": "2025-12-23",
+    "items": [
+        {
+            "description": "Future-proofed global open architecture",
+            "quantity": 8,
+            "unit_price": 204.21,
+            "total_price": 1633.68
+        }
+    ],
+    "amount": 1633.68
+}

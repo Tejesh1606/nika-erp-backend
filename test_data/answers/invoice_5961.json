@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Miller-Young",
+    "invoice_number": "INV-74297",
+    "date": "2025-11-09",
+    "items": [
+        {
+            "description": "Robust composite initiative",
+            "quantity": 8,
+            "unit_price": 418.53,
+            "total_price": 3348.24
+        },
+        {
+            "description": "Sharable 3rdgeneration task-force",
+            "quantity": 10,
+            "unit_price": 370.54,
+            "total_price": 3705.4
+        },
+        {
+            "description": "Optional 3rdgeneration moratorium",
+            "quantity": 3,
+            "unit_price": 158.18,
+            "total_price": 474.54
+        }
+    ],
+    "amount": 7528.18
+}

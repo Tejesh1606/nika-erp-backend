@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gonzalez-Mitchell",
+    "invoice_number": "INV-82725",
+    "date": "2025-08-24",
+    "items": [
+        {
+            "description": "Enterprise-wide foreground software",
+            "quantity": 5,
+            "unit_price": 69.38,
+            "total_price": 346.9
+        },
+        {
+            "description": "Cloned foreground contingency",
+            "quantity": 4,
+            "unit_price": 279.58,
+            "total_price": 1118.32
+        }
+    ],
+    "amount": 1465.22
+}

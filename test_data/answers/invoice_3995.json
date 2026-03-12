@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hunter, Flores and Long",
+    "invoice_number": "INV-40381",
+    "date": "2025-11-08",
+    "items": [
+        {
+            "description": "Integrated upward-trending methodology",
+            "quantity": 10,
+            "unit_price": 181.35,
+            "total_price": 1813.5
+        },
+        {
+            "description": "Horizontal dynamic initiative",
+            "quantity": 7,
+            "unit_price": 175.27,
+            "total_price": 1226.89
+        }
+    ],
+    "amount": 3040.39
+}

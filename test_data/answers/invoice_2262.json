@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Dean, Gaines and Williams",
+    "invoice_number": "INV-21726",
+    "date": "2026-01-16",
+    "items": [
+        {
+            "description": "Grass-roots 5thgeneration access",
+            "quantity": 7,
+            "unit_price": 308.98,
+            "total_price": 2162.86
+        },
+        {
+            "description": "Expanded exuding leverage",
+            "quantity": 5,
+            "unit_price": 339.86,
+            "total_price": 1699.3
+        }
+    ],
+    "amount": 3862.16
+}

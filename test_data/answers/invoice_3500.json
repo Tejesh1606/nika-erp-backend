@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Parks, Ortiz and Lopez",
+    "invoice_number": "INV-71255",
+    "date": "2025-03-20",
+    "items": [
+        {
+            "description": "Up-sized impactful moderator",
+            "quantity": 7,
+            "unit_price": 94.34,
+            "total_price": 660.38
+        },
+        {
+            "description": "Phased full-range Internet solution",
+            "quantity": 6,
+            "unit_price": 394.27,
+            "total_price": 2365.62
+        },
+        {
+            "description": "Versatile methodical approach",
+            "quantity": 4,
+            "unit_price": 201.69,
+            "total_price": 806.76
+        }
+    ],
+    "amount": 3832.76
+}

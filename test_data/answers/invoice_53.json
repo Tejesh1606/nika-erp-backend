@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rogers-Orozco",
+    "invoice_number": "INV-20561",
+    "date": "2025-05-01",
+    "items": [
+        {
+            "description": "Distributed discrete info-mediaries",
+            "quantity": 7,
+            "unit_price": 167.73,
+            "total_price": 1174.11
+        },
+        {
+            "description": "Team-oriented coherent strategy",
+            "quantity": 3,
+            "unit_price": 354.8,
+            "total_price": 1064.4
+        },
+        {
+            "description": "Extended asymmetric instruction set",
+            "quantity": 10,
+            "unit_price": 34.93,
+            "total_price": 349.3
+        },
+        {
+            "description": "Open-source full-range moratorium",
+            "quantity": 5,
+            "unit_price": 323.78,
+            "total_price": 1618.9
+        }
+    ],
+    "amount": 4206.71
+}

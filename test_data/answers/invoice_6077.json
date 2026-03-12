@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Bell Group",
+    "invoice_number": "INV-67651",
+    "date": "2025-08-07",
+    "items": [
+        {
+            "description": "Programmable heuristic Local Area Network",
+            "quantity": 6,
+            "unit_price": 414.42,
+            "total_price": 2486.52
+        }
+    ],
+    "amount": 2486.52
+}

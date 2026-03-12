@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Frost, Sparks and Brown",
+    "invoice_number": "INV-98974",
+    "date": "2025-04-07",
+    "items": [
+        {
+            "description": "Networked empowering approach",
+            "quantity": 6,
+            "unit_price": 58.28,
+            "total_price": 349.68
+        },
+        {
+            "description": "Organized multimedia Local Area Network",
+            "quantity": 10,
+            "unit_price": 453.29,
+            "total_price": 4532.9
+        },
+        {
+            "description": "User-centric transitional project",
+            "quantity": 3,
+            "unit_price": 459.86,
+            "total_price": 1379.58
+        }
+    ],
+    "amount": 6262.16
+}

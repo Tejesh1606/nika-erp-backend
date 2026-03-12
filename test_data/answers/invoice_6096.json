@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Austin, Hines and Fields",
+    "invoice_number": "INV-52549",
+    "date": "2025-08-15",
+    "items": [
+        {
+            "description": "Universal eco-centric website",
+            "quantity": 4,
+            "unit_price": 220.29,
+            "total_price": 881.16
+        },
+        {
+            "description": "Expanded attitude-oriented intranet",
+            "quantity": 10,
+            "unit_price": 484.23,
+            "total_price": 4842.3
+        }
+    ],
+    "amount": 5723.46
+}

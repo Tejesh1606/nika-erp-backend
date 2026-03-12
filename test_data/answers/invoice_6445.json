@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Meyer, Baker and Murillo",
+    "invoice_number": "INV-91943",
+    "date": "2025-10-18",
+    "items": [
+        {
+            "description": "Operative static application",
+            "quantity": 9,
+            "unit_price": 374.88,
+            "total_price": 3373.92
+        },
+        {
+            "description": "Triple-buffered full-range implementation",
+            "quantity": 3,
+            "unit_price": 82.92,
+            "total_price": 248.76
+        }
+    ],
+    "amount": 3622.68
+}

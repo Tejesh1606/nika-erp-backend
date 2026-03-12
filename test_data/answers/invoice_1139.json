@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Warner-Jones",
+    "invoice_number": "INV-30691",
+    "date": "2025-06-28",
+    "items": [
+        {
+            "description": "Compatible national orchestration",
+            "quantity": 5,
+            "unit_price": 185.32,
+            "total_price": 926.6
+        }
+    ],
+    "amount": 926.6
+}

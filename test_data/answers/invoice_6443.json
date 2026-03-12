@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rogers Ltd",
+    "invoice_number": "INV-22156",
+    "date": "2025-09-18",
+    "items": [
+        {
+            "description": "Self-enabling object-oriented protocol",
+            "quantity": 2,
+            "unit_price": 370.9,
+            "total_price": 741.8
+        },
+        {
+            "description": "Devolved bi-directional capability",
+            "quantity": 7,
+            "unit_price": 326.76,
+            "total_price": 2287.32
+        },
+        {
+            "description": "Realigned context-sensitive monitoring",
+            "quantity": 2,
+            "unit_price": 183.61,
+            "total_price": 367.22
+        },
+        {
+            "description": "Re-engineered asymmetric encryption",
+            "quantity": 7,
+            "unit_price": 321.86,
+            "total_price": 2253.02
+        }
+    ],
+    "amount": 5649.36
+}

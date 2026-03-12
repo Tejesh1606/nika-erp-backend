@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Henry, Harris and Burton",
+    "invoice_number": "INV-64884",
+    "date": "2025-06-02",
+    "items": [
+        {
+            "description": "Secured contextually-based archive",
+            "quantity": 9,
+            "unit_price": 324.72,
+            "total_price": 2922.48
+        },
+        {
+            "description": "Customer-focused motivating knowledgebase",
+            "quantity": 10,
+            "unit_price": 371.39,
+            "total_price": 3713.9
+        },
+        {
+            "description": "Reactive web-enabled benchmark",
+            "quantity": 4,
+            "unit_price": 140.06,
+            "total_price": 560.24
+        },
+        {
+            "description": "User-centric human-resource circuit",
+            "quantity": 9,
+            "unit_price": 231.44,
+            "total_price": 2082.96
+        }
+    ],
+    "amount": 9279.58
+}

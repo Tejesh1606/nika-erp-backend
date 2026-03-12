@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Watts, Williams and Logan",
+    "invoice_number": "INV-22277",
+    "date": "2025-07-05",
+    "items": [
+        {
+            "description": "Organic eco-centric service-desk",
+            "quantity": 7,
+            "unit_price": 417.46,
+            "total_price": 2922.22
+        },
+        {
+            "description": "Organized context-sensitive pricing structure",
+            "quantity": 9,
+            "unit_price": 108.92,
+            "total_price": 980.28
+        }
+    ],
+    "amount": 3902.5
+}

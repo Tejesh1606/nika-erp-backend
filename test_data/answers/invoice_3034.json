@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Dean-Ford",
+    "invoice_number": "INV-74934",
+    "date": "2025-05-11",
+    "items": [
+        {
+            "description": "Robust homogeneous hierarchy",
+            "quantity": 7,
+            "unit_price": 281.56,
+            "total_price": 1970.92
+        },
+        {
+            "description": "Phased bifurcated Graphical User Interface",
+            "quantity": 7,
+            "unit_price": 376.08,
+            "total_price": 2632.56
+        },
+        {
+            "description": "Open-architected web-enabled structure",
+            "quantity": 8,
+            "unit_price": 433.76,
+            "total_price": 3470.08
+        },
+        {
+            "description": "Integrated directional model",
+            "quantity": 2,
+            "unit_price": 156.77,
+            "total_price": 313.54
+        }
+    ],
+    "amount": 8387.1
+}

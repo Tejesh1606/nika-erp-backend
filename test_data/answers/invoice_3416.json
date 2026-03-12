@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mack, Carpenter and Herman",
+    "invoice_number": "INV-17807",
+    "date": "2025-08-22",
+    "items": [
+        {
+            "description": "Distributed directional budgetary management",
+            "quantity": 7,
+            "unit_price": 119.14,
+            "total_price": 833.98
+        }
+    ],
+    "amount": 833.98
+}

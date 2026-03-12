@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Park-Davis",
+    "invoice_number": "INV-75740",
+    "date": "2026-03-05",
+    "items": [
+        {
+            "description": "Future-proofed methodical migration",
+            "quantity": 9,
+            "unit_price": 276.05,
+            "total_price": 2484.45
+        },
+        {
+            "description": "Profound modular structure",
+            "quantity": 8,
+            "unit_price": 469.96,
+            "total_price": 3759.68
+        },
+        {
+            "description": "Stand-alone regional Local Area Network",
+            "quantity": 5,
+            "unit_price": 35.62,
+            "total_price": 178.1
+        }
+    ],
+    "amount": 6422.23
+}

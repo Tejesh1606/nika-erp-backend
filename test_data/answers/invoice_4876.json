@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brown, Carrillo and Hawkins",
+    "invoice_number": "INV-37511",
+    "date": "2025-11-01",
+    "items": [
+        {
+            "description": "Re-contextualized zero-defect intranet",
+            "quantity": 1,
+            "unit_price": 466.16,
+            "total_price": 466.16
+        },
+        {
+            "description": "Innovative multi-tasking utilization",
+            "quantity": 9,
+            "unit_price": 361.62,
+            "total_price": 3254.58
+        },
+        {
+            "description": "Networked optimal open architecture",
+            "quantity": 2,
+            "unit_price": 93.15,
+            "total_price": 186.3
+        }
+    ],
+    "amount": 3907.04
+}

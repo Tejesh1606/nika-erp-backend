@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Garza Group",
+    "invoice_number": "INV-60128",
+    "date": "2025-10-29",
+    "items": [
+        {
+            "description": "Expanded methodical ability",
+            "quantity": 3,
+            "unit_price": 71.3,
+            "total_price": 213.9
+        }
+    ],
+    "amount": 213.9
+}

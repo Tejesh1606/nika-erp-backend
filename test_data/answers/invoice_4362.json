@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Scott-Chen",
+    "invoice_number": "INV-99622",
+    "date": "2025-06-23",
+    "items": [
+        {
+            "description": "Polarized mission-critical throughput",
+            "quantity": 2,
+            "unit_price": 308.56,
+            "total_price": 617.12
+        },
+        {
+            "description": "Up-sized stable info-mediaries",
+            "quantity": 8,
+            "unit_price": 416.47,
+            "total_price": 3331.76
+        }
+    ],
+    "amount": 3948.88
+}

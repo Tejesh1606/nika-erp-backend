@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Levy, Foster and Johnson",
+    "invoice_number": "INV-29104",
+    "date": "2025-05-21",
+    "items": [
+        {
+            "description": "Inverse multimedia framework",
+            "quantity": 1,
+            "unit_price": 428.4,
+            "total_price": 428.4
+        },
+        {
+            "description": "Compatible national utilization",
+            "quantity": 6,
+            "unit_price": 427.28,
+            "total_price": 2563.68
+        },
+        {
+            "description": "Adaptive context-sensitive process improvement",
+            "quantity": 7,
+            "unit_price": 36.06,
+            "total_price": 252.42
+        }
+    ],
+    "amount": 3244.5
+}

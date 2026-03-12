@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Gilbert, Castillo and Proctor",
+    "invoice_number": "INV-40519",
+    "date": "2025-12-18",
+    "items": [
+        {
+            "description": "Self-enabling high-level challenge",
+            "quantity": 5,
+            "unit_price": 111.32,
+            "total_price": 556.6
+        },
+        {
+            "description": "Customizable optimal portal",
+            "quantity": 7,
+            "unit_price": 466.32,
+            "total_price": 3264.24
+        },
+        {
+            "description": "Programmable 4thgeneration implementation",
+            "quantity": 10,
+            "unit_price": 13.85,
+            "total_price": 138.5
+        }
+    ],
+    "amount": 3959.34
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Singleton-Ali",
+    "invoice_number": "INV-67799",
+    "date": "2025-07-13",
+    "items": [
+        {
+            "description": "Organized exuding project",
+            "quantity": 7,
+            "unit_price": 400.95,
+            "total_price": 2806.65
+        }
+    ],
+    "amount": 2806.65
+}

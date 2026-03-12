@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Murray, Fernandez and Daniel",
+    "invoice_number": "INV-98029",
+    "date": "2025-11-11",
+    "items": [
+        {
+            "description": "Fundamental bandwidth-monitored solution",
+            "quantity": 4,
+            "unit_price": 312.3,
+            "total_price": 1249.2
+        },
+        {
+            "description": "Devolved empowering Graphic Interface",
+            "quantity": 10,
+            "unit_price": 148.57,
+            "total_price": 1485.7
+        },
+        {
+            "description": "Diverse leadingedge system engine",
+            "quantity": 5,
+            "unit_price": 124.49,
+            "total_price": 622.45
+        }
+    ],
+    "amount": 3357.35
+}

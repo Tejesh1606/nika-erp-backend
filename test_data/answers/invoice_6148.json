@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jacobson, Harris and Porter",
+    "invoice_number": "INV-61363",
+    "date": "2025-05-04",
+    "items": [
+        {
+            "description": "Persistent client-server definition",
+            "quantity": 2,
+            "unit_price": 352.7,
+            "total_price": 705.4
+        },
+        {
+            "description": "Managed client-driven infrastructure",
+            "quantity": 4,
+            "unit_price": 159.43,
+            "total_price": 637.72
+        },
+        {
+            "description": "Future-proofed transitional utilization",
+            "quantity": 2,
+            "unit_price": 493.65,
+            "total_price": 987.3
+        }
+    ],
+    "amount": 2330.42
+}

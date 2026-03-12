@@ -1,0 +1,14 @@
+{
+    "vendor_name": "King-Ross",
+    "invoice_number": "INV-70975",
+    "date": "2025-07-31",
+    "items": [
+        {
+            "description": "Expanded maximized capacity",
+            "quantity": 8,
+            "unit_price": 144.16,
+            "total_price": 1153.28
+        }
+    ],
+    "amount": 1153.28
+}

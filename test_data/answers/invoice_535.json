@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Moore-Chandler",
+    "invoice_number": "INV-21247",
+    "date": "2025-04-21",
+    "items": [
+        {
+            "description": "User-centric actuating encryption",
+            "quantity": 9,
+            "unit_price": 163.0,
+            "total_price": 1467.0
+        },
+        {
+            "description": "Secured client-server forecast",
+            "quantity": 5,
+            "unit_price": 481.71,
+            "total_price": 2408.55
+        },
+        {
+            "description": "Advanced global solution",
+            "quantity": 3,
+            "unit_price": 487.55,
+            "total_price": 1462.65
+        },
+        {
+            "description": "Customizable fault-tolerant knowledge user",
+            "quantity": 3,
+            "unit_price": 66.55,
+            "total_price": 199.65
+        }
+    ],
+    "amount": 5537.85
+}

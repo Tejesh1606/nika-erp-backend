@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hurst-Meyers",
+    "invoice_number": "INV-49379",
+    "date": "2025-12-19",
+    "items": [
+        {
+            "description": "Phased fresh-thinking projection",
+            "quantity": 10,
+            "unit_price": 173.86,
+            "total_price": 1738.6
+        },
+        {
+            "description": "Robust leadingedge architecture",
+            "quantity": 10,
+            "unit_price": 365.85,
+            "total_price": 3658.5
+        },
+        {
+            "description": "Customer-focused discrete budgetary management",
+            "quantity": 7,
+            "unit_price": 366.17,
+            "total_price": 2563.19
+        }
+    ],
+    "amount": 7960.29
+}

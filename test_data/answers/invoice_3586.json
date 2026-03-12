@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Rodriguez and Sons",
+    "invoice_number": "INV-54696",
+    "date": "2025-12-07",
+    "items": [
+        {
+            "description": "Total regional concept",
+            "quantity": 5,
+            "unit_price": 306.7,
+            "total_price": 1533.5
+        },
+        {
+            "description": "Reactive systemic workforce",
+            "quantity": 10,
+            "unit_price": 342.9,
+            "total_price": 3429.0
+        }
+    ],
+    "amount": 4962.5
+}

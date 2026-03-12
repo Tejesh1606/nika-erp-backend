@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Austin and Sons",
+    "invoice_number": "INV-41083",
+    "date": "2025-06-05",
+    "items": [
+        {
+            "description": "Triple-buffered fresh-thinking open system",
+            "quantity": 6,
+            "unit_price": 24.66,
+            "total_price": 147.96
+        }
+    ],
+    "amount": 147.96
+}

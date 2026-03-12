@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson, Sullivan and Cooper",
+    "invoice_number": "INV-27763",
+    "date": "2026-03-05",
+    "items": [
+        {
+            "description": "Synergistic incremental archive",
+            "quantity": 6,
+            "unit_price": 159.23,
+            "total_price": 955.38
+        },
+        {
+            "description": "De-engineered bottom-line info-mediaries",
+            "quantity": 6,
+            "unit_price": 143.17,
+            "total_price": 859.02
+        },
+        {
+            "description": "Open-source transitional open system",
+            "quantity": 2,
+            "unit_price": 239.86,
+            "total_price": 479.72
+        },
+        {
+            "description": "Innovative multi-state array",
+            "quantity": 8,
+            "unit_price": 463.96,
+            "total_price": 3711.68
+        }
+    ],
+    "amount": 6005.8
+}

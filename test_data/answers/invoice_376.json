@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Orozco, Hatfield and Thomas",
+    "invoice_number": "INV-33639",
+    "date": "2026-01-05",
+    "items": [
+        {
+            "description": "Configurable mobile groupware",
+            "quantity": 3,
+            "unit_price": 301.69,
+            "total_price": 905.07
+        },
+        {
+            "description": "Self-enabling context-sensitive functionalities",
+            "quantity": 1,
+            "unit_price": 298.76,
+            "total_price": 298.76
+        },
+        {
+            "description": "Sharable analyzing ability",
+            "quantity": 7,
+            "unit_price": 229.24,
+            "total_price": 1604.68
+        }
+    ],
+    "amount": 2808.51
+}

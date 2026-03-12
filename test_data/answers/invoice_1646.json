@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith and Sons",
+    "invoice_number": "INV-94570",
+    "date": "2025-09-13",
+    "items": [
+        {
+            "description": "Networked directional neural-net",
+            "quantity": 1,
+            "unit_price": 175.89,
+            "total_price": 175.89
+        }
+    ],
+    "amount": 175.89
+}

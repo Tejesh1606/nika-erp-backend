@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cunningham-Vaughn",
+    "invoice_number": "INV-17977",
+    "date": "2025-04-25",
+    "items": [
+        {
+            "description": "User-centric optimal service-desk",
+            "quantity": 6,
+            "unit_price": 260.35,
+            "total_price": 1562.1
+        }
+    ],
+    "amount": 1562.1
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Duarte PLC",
+    "invoice_number": "INV-53566",
+    "date": "2025-07-17",
+    "items": [
+        {
+            "description": "User-friendly directional algorithm",
+            "quantity": 9,
+            "unit_price": 324.09,
+            "total_price": 2916.81
+        }
+    ],
+    "amount": 2916.81
+}

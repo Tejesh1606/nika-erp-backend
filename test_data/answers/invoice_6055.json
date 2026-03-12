@@ -1,0 +1,14 @@
+{
+    "vendor_name": "James PLC",
+    "invoice_number": "INV-63523",
+    "date": "2025-12-03",
+    "items": [
+        {
+            "description": "Networked multi-tasking software",
+            "quantity": 8,
+            "unit_price": 380.22,
+            "total_price": 3041.76
+        }
+    ],
+    "amount": 3041.76
+}

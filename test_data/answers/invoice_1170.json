@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cooper, Lewis and Rivas",
+    "invoice_number": "INV-14272",
+    "date": "2025-11-19",
+    "items": [
+        {
+            "description": "Up-sized coherent implementation",
+            "quantity": 4,
+            "unit_price": 289.78,
+            "total_price": 1159.12
+        }
+    ],
+    "amount": 1159.12
+}

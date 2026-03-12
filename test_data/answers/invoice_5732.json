@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Rice, Carter and Reyes",
+    "invoice_number": "INV-68587",
+    "date": "2025-04-23",
+    "items": [
+        {
+            "description": "Advanced background forecast",
+            "quantity": 7,
+            "unit_price": 343.71,
+            "total_price": 2405.97
+        },
+        {
+            "description": "Phased national contingency",
+            "quantity": 2,
+            "unit_price": 376.1,
+            "total_price": 752.2
+        }
+    ],
+    "amount": 3158.17
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Reed Inc",
+    "invoice_number": "INV-77781",
+    "date": "2026-03-03",
+    "items": [
+        {
+            "description": "Quality-focused disintermediate solution",
+            "quantity": 10,
+            "unit_price": 403.88,
+            "total_price": 4038.8
+        },
+        {
+            "description": "Cloned context-sensitive framework",
+            "quantity": 8,
+            "unit_price": 334.53,
+            "total_price": 2676.24
+        },
+        {
+            "description": "Streamlined object-oriented utilization",
+            "quantity": 5,
+            "unit_price": 200.86,
+            "total_price": 1004.3
+        },
+        {
+            "description": "Phased upward-trending knowledge user",
+            "quantity": 8,
+            "unit_price": 190.57,
+            "total_price": 1524.56
+        }
+    ],
+    "amount": 9243.9
+}

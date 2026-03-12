@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Johnson, Morgan and Alvarez",
+    "invoice_number": "INV-51024",
+    "date": "2025-03-20",
+    "items": [
+        {
+            "description": "Centralized bandwidth-monitored methodology",
+            "quantity": 5,
+            "unit_price": 169.25,
+            "total_price": 846.25
+        },
+        {
+            "description": "Fully-configurable client-driven groupware",
+            "quantity": 8,
+            "unit_price": 135.55,
+            "total_price": 1084.4
+        },
+        {
+            "description": "Re-contextualized 24/7 algorithm",
+            "quantity": 6,
+            "unit_price": 105.16,
+            "total_price": 630.96
+        }
+    ],
+    "amount": 2561.61
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Carpenter, Roberts and Jones",
+    "invoice_number": "INV-85805",
+    "date": "2025-11-28",
+    "items": [
+        {
+            "description": "Monitored attitude-oriented moratorium",
+            "quantity": 3,
+            "unit_price": 480.15,
+            "total_price": 1440.45
+        }
+    ],
+    "amount": 1440.45
+}

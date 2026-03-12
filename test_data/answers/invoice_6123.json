@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Davis LLC",
+    "invoice_number": "INV-24733",
+    "date": "2025-08-03",
+    "items": [
+        {
+            "description": "Profound context-sensitive frame",
+            "quantity": 1,
+            "unit_price": 461.18,
+            "total_price": 461.18
+        }
+    ],
+    "amount": 461.18
+}

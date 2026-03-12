@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Reed LLC",
+    "invoice_number": "INV-66813",
+    "date": "2026-03-09",
+    "items": [
+        {
+            "description": "Triple-buffered multi-state info-mediaries",
+            "quantity": 10,
+            "unit_price": 54.32,
+            "total_price": 543.2
+        }
+    ],
+    "amount": 543.2
+}

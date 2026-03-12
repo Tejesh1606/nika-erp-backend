@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Schultz-Christensen",
+    "invoice_number": "INV-46635",
+    "date": "2026-01-01",
+    "items": [
+        {
+            "description": "Pre-emptive real-time artificial intelligence",
+            "quantity": 7,
+            "unit_price": 135.94,
+            "total_price": 951.58
+        }
+    ],
+    "amount": 951.58
+}

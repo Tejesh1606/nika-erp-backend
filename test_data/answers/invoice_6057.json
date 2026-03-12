@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Moore PLC",
+    "invoice_number": "INV-47993",
+    "date": "2025-12-04",
+    "items": [
+        {
+            "description": "Secured zero-defect installation",
+            "quantity": 4,
+            "unit_price": 244.16,
+            "total_price": 976.64
+        },
+        {
+            "description": "Extended high-level hierarchy",
+            "quantity": 8,
+            "unit_price": 85.57,
+            "total_price": 684.56
+        },
+        {
+            "description": "Multi-channeled solution-oriented secured line",
+            "quantity": 2,
+            "unit_price": 69.33,
+            "total_price": 138.66
+        },
+        {
+            "description": "Ameliorated asymmetric circuit",
+            "quantity": 7,
+            "unit_price": 493.59,
+            "total_price": 3455.13
+        }
+    ],
+    "amount": 5254.99
+}

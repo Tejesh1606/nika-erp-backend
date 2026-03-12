@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Castillo-Hernandez",
+    "invoice_number": "INV-64136",
+    "date": "2025-07-06",
+    "items": [
+        {
+            "description": "Grass-roots 4thgeneration extranet",
+            "quantity": 7,
+            "unit_price": 411.9,
+            "total_price": 2883.3
+        },
+        {
+            "description": "Persistent secondary open architecture",
+            "quantity": 1,
+            "unit_price": 125.26,
+            "total_price": 125.26
+        },
+        {
+            "description": "Ergonomic zero administration software",
+            "quantity": 2,
+            "unit_price": 108.5,
+            "total_price": 217.0
+        }
+    ],
+    "amount": 3225.56
+}

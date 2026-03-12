@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Sandoval Ltd",
+    "invoice_number": "INV-84282",
+    "date": "2026-01-17",
+    "items": [
+        {
+            "description": "Configurable empowering service-desk",
+            "quantity": 5,
+            "unit_price": 348.51,
+            "total_price": 1742.55
+        },
+        {
+            "description": "Reverse-engineered transitional parallelism",
+            "quantity": 1,
+            "unit_price": 358.5,
+            "total_price": 358.5
+        },
+        {
+            "description": "Monitored clear-thinking Graphic Interface",
+            "quantity": 7,
+            "unit_price": 451.76,
+            "total_price": 3162.32
+        }
+    ],
+    "amount": 5263.37
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Sanders Inc",
+    "invoice_number": "INV-42483",
+    "date": "2025-08-24",
+    "items": [
+        {
+            "description": "Reactive fault-tolerant time-frame",
+            "quantity": 9,
+            "unit_price": 317.16,
+            "total_price": 2854.44
+        }
+    ],
+    "amount": 2854.44
+}

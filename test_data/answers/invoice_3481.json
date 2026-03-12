@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Smith-Wilson",
+    "invoice_number": "INV-53993",
+    "date": "2025-07-06",
+    "items": [
+        {
+            "description": "Synergistic regional attitude",
+            "quantity": 6,
+            "unit_price": 203.81,
+            "total_price": 1222.86
+        },
+        {
+            "description": "Persistent systematic methodology",
+            "quantity": 3,
+            "unit_price": 122.11,
+            "total_price": 366.33
+        }
+    ],
+    "amount": 1589.19
+}

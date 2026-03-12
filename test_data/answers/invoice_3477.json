@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Morrison, Sosa and Cooper",
+    "invoice_number": "INV-73072",
+    "date": "2025-06-04",
+    "items": [
+        {
+            "description": "Progressive stable algorithm",
+            "quantity": 5,
+            "unit_price": 346.76,
+            "total_price": 1733.8
+        },
+        {
+            "description": "Multi-tiered logistical pricing structure",
+            "quantity": 1,
+            "unit_price": 249.8,
+            "total_price": 249.8
+        },
+        {
+            "description": "Re-engineered homogeneous Local Area Network",
+            "quantity": 7,
+            "unit_price": 476.3,
+            "total_price": 3334.1
+        },
+        {
+            "description": "Synchronized discrete info-mediaries",
+            "quantity": 6,
+            "unit_price": 185.23,
+            "total_price": 1111.38
+        }
+    ],
+    "amount": 6429.08
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lopez, Lucas and Flores",
+    "invoice_number": "INV-85120",
+    "date": "2025-07-03",
+    "items": [
+        {
+            "description": "Multi-layered next generation open system",
+            "quantity": 4,
+            "unit_price": 53.97,
+            "total_price": 215.88
+        },
+        {
+            "description": "Down-sized coherent Graphic Interface",
+            "quantity": 8,
+            "unit_price": 167.68,
+            "total_price": 1341.44
+        },
+        {
+            "description": "Cloned secondary matrices",
+            "quantity": 9,
+            "unit_price": 262.38,
+            "total_price": 2361.42
+        },
+        {
+            "description": "Grass-roots mobile Graphic Interface",
+            "quantity": 6,
+            "unit_price": 395.9,
+            "total_price": 2375.4
+        }
+    ],
+    "amount": 6294.14
+}

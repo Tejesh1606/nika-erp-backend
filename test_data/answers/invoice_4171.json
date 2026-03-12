@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Richards, Townsend and Wells",
+    "invoice_number": "INV-33874",
+    "date": "2025-12-03",
+    "items": [
+        {
+            "description": "Reverse-engineered real-time info-mediaries",
+            "quantity": 7,
+            "unit_price": 122.28,
+            "total_price": 855.96
+        },
+        {
+            "description": "Robust well-modulated policy",
+            "quantity": 5,
+            "unit_price": 164.1,
+            "total_price": 820.5
+        }
+    ],
+    "amount": 1676.46
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jones Ltd",
+    "invoice_number": "INV-50539",
+    "date": "2025-06-19",
+    "items": [
+        {
+            "description": "Diverse secondary interface",
+            "quantity": 7,
+            "unit_price": 315.59,
+            "total_price": 2209.13
+        },
+        {
+            "description": "Organic solution-oriented encryption",
+            "quantity": 10,
+            "unit_price": 110.35,
+            "total_price": 1103.5
+        },
+        {
+            "description": "User-friendly web-enabled hierarchy",
+            "quantity": 3,
+            "unit_price": 170.74,
+            "total_price": 512.22
+        },
+        {
+            "description": "Exclusive next generation firmware",
+            "quantity": 6,
+            "unit_price": 11.77,
+            "total_price": 70.62
+        }
+    ],
+    "amount": 3895.47
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jordan-Campbell",
+    "invoice_number": "INV-98930",
+    "date": "2025-10-25",
+    "items": [
+        {
+            "description": "Pre-emptive multi-tasking secured line",
+            "quantity": 7,
+            "unit_price": 285.49,
+            "total_price": 1998.43
+        },
+        {
+            "description": "Integrated 6thgeneration definition",
+            "quantity": 5,
+            "unit_price": 159.86,
+            "total_price": 799.3
+        },
+        {
+            "description": "Object-based radical approach",
+            "quantity": 7,
+            "unit_price": 203.06,
+            "total_price": 1421.42
+        }
+    ],
+    "amount": 4219.15
+}

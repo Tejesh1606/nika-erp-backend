@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Meyers, Ruiz and Robinson",
+    "invoice_number": "INV-70441",
+    "date": "2025-06-28",
+    "items": [
+        {
+            "description": "Implemented static standardization",
+            "quantity": 10,
+            "unit_price": 19.51,
+            "total_price": 195.1
+        },
+        {
+            "description": "Streamlined content-based adapter",
+            "quantity": 8,
+            "unit_price": 471.31,
+            "total_price": 3770.48
+        }
+    ],
+    "amount": 3965.58
+}

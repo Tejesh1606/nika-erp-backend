@@ -1,0 +1,26 @@
+{
+    "vendor_name": "George Inc",
+    "invoice_number": "INV-68079",
+    "date": "2025-12-13",
+    "items": [
+        {
+            "description": "Up-sized attitude-oriented Internet solution",
+            "quantity": 9,
+            "unit_price": 472.07,
+            "total_price": 4248.63
+        },
+        {
+            "description": "Optimized optimizing adapter",
+            "quantity": 9,
+            "unit_price": 407.86,
+            "total_price": 3670.74
+        },
+        {
+            "description": "Open-source discrete capacity",
+            "quantity": 9,
+            "unit_price": 360.59,
+            "total_price": 3245.31
+        }
+    ],
+    "amount": 11164.68
+}

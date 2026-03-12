@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Conway-Phillips",
+    "invoice_number": "INV-21423",
+    "date": "2025-07-01",
+    "items": [
+        {
+            "description": "Up-sized impactful array",
+            "quantity": 7,
+            "unit_price": 281.62,
+            "total_price": 1971.34
+        },
+        {
+            "description": "Exclusive dynamic artificial intelligence",
+            "quantity": 9,
+            "unit_price": 189.92,
+            "total_price": 1709.28
+        },
+        {
+            "description": "Managed secondary help-desk",
+            "quantity": 6,
+            "unit_price": 21.29,
+            "total_price": 127.74
+        }
+    ],
+    "amount": 3808.36
+}

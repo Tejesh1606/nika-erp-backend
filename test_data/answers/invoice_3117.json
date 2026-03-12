@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Glenn Ltd",
+    "invoice_number": "INV-60858",
+    "date": "2025-10-09",
+    "items": [
+        {
+            "description": "Persevering stable array",
+            "quantity": 5,
+            "unit_price": 31.52,
+            "total_price": 157.6
+        }
+    ],
+    "amount": 157.6
+}

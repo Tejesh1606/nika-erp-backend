@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wilson Inc",
+    "invoice_number": "INV-44559",
+    "date": "2025-06-13",
+    "items": [
+        {
+            "description": "User-centric needs-based focus group",
+            "quantity": 9,
+            "unit_price": 337.53,
+            "total_price": 3037.77
+        },
+        {
+            "description": "Cloned regional info-mediaries",
+            "quantity": 8,
+            "unit_price": 286.01,
+            "total_price": 2288.08
+        },
+        {
+            "description": "Object-based cohesive collaboration",
+            "quantity": 3,
+            "unit_price": 471.46,
+            "total_price": 1414.38
+        }
+    ],
+    "amount": 6740.23
+}

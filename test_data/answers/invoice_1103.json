@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Figueroa, Mcpherson and Howard",
+    "invoice_number": "INV-21701",
+    "date": "2025-05-23",
+    "items": [
+        {
+            "description": "Multi-tiered scalable benchmark",
+            "quantity": 10,
+            "unit_price": 411.49,
+            "total_price": 4114.9
+        },
+        {
+            "description": "Grass-roots responsive service-desk",
+            "quantity": 6,
+            "unit_price": 54.25,
+            "total_price": 325.5
+        }
+    ],
+    "amount": 4440.4
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Short, Hernandez and Myers",
+    "invoice_number": "INV-58318",
+    "date": "2025-12-04",
+    "items": [
+        {
+            "description": "Open-architected national info-mediaries",
+            "quantity": 1,
+            "unit_price": 346.63,
+            "total_price": 346.63
+        }
+    ],
+    "amount": 346.63
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Campbell Group",
+    "invoice_number": "INV-45031",
+    "date": "2025-07-09",
+    "items": [
+        {
+            "description": "Right-sized mobile project",
+            "quantity": 7,
+            "unit_price": 259.69,
+            "total_price": 1817.83
+        },
+        {
+            "description": "Reverse-engineered demand-driven benchmark",
+            "quantity": 1,
+            "unit_price": 304.9,
+            "total_price": 304.9
+        },
+        {
+            "description": "Programmable didactic parallelism",
+            "quantity": 1,
+            "unit_price": 213.94,
+            "total_price": 213.94
+        }
+    ],
+    "amount": 2336.67
+}

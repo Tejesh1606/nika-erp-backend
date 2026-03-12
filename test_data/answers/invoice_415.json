@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Williams, James and Butler",
+    "invoice_number": "INV-99803",
+    "date": "2025-07-08",
+    "items": [
+        {
+            "description": "Reactive actuating access",
+            "quantity": 10,
+            "unit_price": 105.03,
+            "total_price": 1050.3
+        },
+        {
+            "description": "User-friendly eco-centric customer loyalty",
+            "quantity": 2,
+            "unit_price": 73.83,
+            "total_price": 147.66
+        },
+        {
+            "description": "Secured zero-defect intranet",
+            "quantity": 10,
+            "unit_price": 57.99,
+            "total_price": 579.9
+        }
+    ],
+    "amount": 1777.86
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Bray-Drake",
+    "invoice_number": "INV-80399",
+    "date": "2025-07-09",
+    "items": [
+        {
+            "description": "Inverse 3rdgeneration initiative",
+            "quantity": 8,
+            "unit_price": 323.47,
+            "total_price": 2587.76
+        },
+        {
+            "description": "Re-engineered well-modulated flexibility",
+            "quantity": 10,
+            "unit_price": 287.98,
+            "total_price": 2879.8
+        },
+        {
+            "description": "Focused zero-defect paradigm",
+            "quantity": 2,
+            "unit_price": 317.99,
+            "total_price": 635.98
+        },
+        {
+            "description": "Stand-alone encompassing flexibility",
+            "quantity": 6,
+            "unit_price": 53.29,
+            "total_price": 319.74
+        }
+    ],
+    "amount": 6423.28
+}

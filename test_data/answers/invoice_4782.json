@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hunter-Davis",
+    "invoice_number": "INV-32974",
+    "date": "2025-08-06",
+    "items": [
+        {
+            "description": "Face-to-face systemic encryption",
+            "quantity": 2,
+            "unit_price": 348.44,
+            "total_price": 696.88
+        },
+        {
+            "description": "Assimilated needs-based throughput",
+            "quantity": 1,
+            "unit_price": 247.58,
+            "total_price": 247.58
+        },
+        {
+            "description": "Business-focused zero tolerance synergy",
+            "quantity": 6,
+            "unit_price": 43.33,
+            "total_price": 259.98
+        }
+    ],
+    "amount": 1204.44
+}

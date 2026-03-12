@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Johnson LLC",
+    "invoice_number": "INV-70009",
+    "date": "2025-11-20",
+    "items": [
+        {
+            "description": "Profit-focused object-oriented hardware",
+            "quantity": 8,
+            "unit_price": 172.58,
+            "total_price": 1380.64
+        }
+    ],
+    "amount": 1380.64
+}

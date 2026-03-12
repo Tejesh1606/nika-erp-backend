@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bates-Anderson",
+    "invoice_number": "INV-53902",
+    "date": "2026-02-02",
+    "items": [
+        {
+            "description": "Managed explicit moratorium",
+            "quantity": 7,
+            "unit_price": 475.75,
+            "total_price": 3330.25
+        },
+        {
+            "description": "Diverse object-oriented model",
+            "quantity": 1,
+            "unit_price": 70.49,
+            "total_price": 70.49
+        }
+    ],
+    "amount": 3400.74
+}

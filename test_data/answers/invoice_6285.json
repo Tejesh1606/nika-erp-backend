@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Merritt Inc",
+    "invoice_number": "INV-47319",
+    "date": "2025-08-26",
+    "items": [
+        {
+            "description": "Stand-alone executive infrastructure",
+            "quantity": 4,
+            "unit_price": 216.49,
+            "total_price": 865.96
+        }
+    ],
+    "amount": 865.96
+}

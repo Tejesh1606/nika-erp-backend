@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gray-Cobb",
+    "invoice_number": "INV-13608",
+    "date": "2026-01-27",
+    "items": [
+        {
+            "description": "Multi-tiered non-volatile firmware",
+            "quantity": 2,
+            "unit_price": 45.8,
+            "total_price": 91.6
+        },
+        {
+            "description": "Triple-buffered discrete software",
+            "quantity": 8,
+            "unit_price": 35.96,
+            "total_price": 287.68
+        },
+        {
+            "description": "Adaptive impactful pricing structure",
+            "quantity": 9,
+            "unit_price": 111.71,
+            "total_price": 1005.39
+        },
+        {
+            "description": "Monitored solution-oriented capacity",
+            "quantity": 7,
+            "unit_price": 453.11,
+            "total_price": 3171.77
+        }
+    ],
+    "amount": 4556.44
+}

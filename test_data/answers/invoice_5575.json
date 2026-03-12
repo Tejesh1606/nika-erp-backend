@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Yates LLC",
+    "invoice_number": "INV-23608",
+    "date": "2025-06-30",
+    "items": [
+        {
+            "description": "Adaptive heuristic toolset",
+            "quantity": 3,
+            "unit_price": 179.99,
+            "total_price": 539.97
+        },
+        {
+            "description": "Centralized next generation hardware",
+            "quantity": 10,
+            "unit_price": 132.45,
+            "total_price": 1324.5
+        },
+        {
+            "description": "Advanced static artificial intelligence",
+            "quantity": 2,
+            "unit_price": 340.09,
+            "total_price": 680.18
+        },
+        {
+            "description": "Triple-buffered disintermediate service-desk",
+            "quantity": 9,
+            "unit_price": 486.61,
+            "total_price": 4379.49
+        }
+    ],
+    "amount": 6924.14
+}

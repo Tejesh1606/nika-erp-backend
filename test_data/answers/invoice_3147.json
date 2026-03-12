@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ford, Jordan and Garcia",
+    "invoice_number": "INV-57810",
+    "date": "2025-10-10",
+    "items": [
+        {
+            "description": "Implemented upward-trending complexity",
+            "quantity": 6,
+            "unit_price": 142.23,
+            "total_price": 853.38
+        },
+        {
+            "description": "Expanded demand-driven algorithm",
+            "quantity": 2,
+            "unit_price": 154.73,
+            "total_price": 309.46
+        }
+    ],
+    "amount": 1162.84
+}

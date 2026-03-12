@@ -1,0 +1,26 @@
+{
+    "vendor_name": "White Group",
+    "invoice_number": "INV-10803",
+    "date": "2025-07-02",
+    "items": [
+        {
+            "description": "Operative optimizing adapter",
+            "quantity": 6,
+            "unit_price": 343.21,
+            "total_price": 2059.26
+        },
+        {
+            "description": "Sharable bi-directional intranet",
+            "quantity": 2,
+            "unit_price": 160.49,
+            "total_price": 320.98
+        },
+        {
+            "description": "Fundamental reciprocal protocol",
+            "quantity": 10,
+            "unit_price": 423.5,
+            "total_price": 4235.0
+        }
+    ],
+    "amount": 6615.24
+}

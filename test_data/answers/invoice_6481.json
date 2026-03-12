@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Black, Boyd and Mendoza",
+    "invoice_number": "INV-42141",
+    "date": "2025-09-25",
+    "items": [
+        {
+            "description": "Horizontal dynamic parallelism",
+            "quantity": 1,
+            "unit_price": 176.62,
+            "total_price": 176.62
+        },
+        {
+            "description": "Intuitive didactic matrix",
+            "quantity": 9,
+            "unit_price": 428.6,
+            "total_price": 3857.4
+        }
+    ],
+    "amount": 4034.02
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson, Kemp and Knight",
+    "invoice_number": "INV-48927",
+    "date": "2025-04-07",
+    "items": [
+        {
+            "description": "Versatile exuding methodology",
+            "quantity": 4,
+            "unit_price": 362.0,
+            "total_price": 1448.0
+        },
+        {
+            "description": "Multi-lateral demand-driven task-force",
+            "quantity": 9,
+            "unit_price": 40.07,
+            "total_price": 360.63
+        },
+        {
+            "description": "Organic interactive customer loyalty",
+            "quantity": 8,
+            "unit_price": 386.54,
+            "total_price": 3092.32
+        },
+        {
+            "description": "Versatile local task-force",
+            "quantity": 6,
+            "unit_price": 144.51,
+            "total_price": 867.06
+        }
+    ],
+    "amount": 5768.01
+}

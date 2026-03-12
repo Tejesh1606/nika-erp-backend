@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Thomas-Burton",
+    "invoice_number": "INV-11769",
+    "date": "2026-01-10",
+    "items": [
+        {
+            "description": "Advanced bi-directional moratorium",
+            "quantity": 5,
+            "unit_price": 447.55,
+            "total_price": 2237.75
+        },
+        {
+            "description": "User-centric global strategy",
+            "quantity": 10,
+            "unit_price": 326.06,
+            "total_price": 3260.6
+        },
+        {
+            "description": "Configurable dedicated challenge",
+            "quantity": 5,
+            "unit_price": 217.74,
+            "total_price": 1088.7
+        }
+    ],
+    "amount": 6587.05
+}

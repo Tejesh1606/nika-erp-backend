@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Harris, Smith and Padilla",
+    "invoice_number": "INV-55876",
+    "date": "2025-06-06",
+    "items": [
+        {
+            "description": "Integrated local middleware",
+            "quantity": 8,
+            "unit_price": 233.84,
+            "total_price": 1870.72
+        },
+        {
+            "description": "Diverse leadingedge knowledgebase",
+            "quantity": 2,
+            "unit_price": 91.73,
+            "total_price": 183.46
+        },
+        {
+            "description": "Switchable client-driven Graphic Interface",
+            "quantity": 6,
+            "unit_price": 99.64,
+            "total_price": 597.84
+        }
+    ],
+    "amount": 2652.02
+}

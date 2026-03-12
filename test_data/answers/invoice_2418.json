@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Williams-Evans",
+    "invoice_number": "INV-34097",
+    "date": "2026-01-17",
+    "items": [
+        {
+            "description": "Implemented fault-tolerant focus group",
+            "quantity": 4,
+            "unit_price": 171.95,
+            "total_price": 687.8
+        },
+        {
+            "description": "Organized executive neural-net",
+            "quantity": 9,
+            "unit_price": 140.63,
+            "total_price": 1265.67
+        },
+        {
+            "description": "Robust 24hour time-frame",
+            "quantity": 3,
+            "unit_price": 76.93,
+            "total_price": 230.79
+        },
+        {
+            "description": "Future-proofed modular Internet solution",
+            "quantity": 3,
+            "unit_price": 440.43,
+            "total_price": 1321.29
+        }
+    ],
+    "amount": 3505.55
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Strong Ltd",
+    "invoice_number": "INV-53352",
+    "date": "2025-05-16",
+    "items": [
+        {
+            "description": "Networked discrete hub",
+            "quantity": 8,
+            "unit_price": 331.35,
+            "total_price": 2650.8
+        }
+    ],
+    "amount": 2650.8
+}

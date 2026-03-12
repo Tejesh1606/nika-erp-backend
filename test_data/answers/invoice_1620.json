@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Garcia-Hunt",
+    "invoice_number": "INV-62751",
+    "date": "2025-05-30",
+    "items": [
+        {
+            "description": "Down-sized content-based process improvement",
+            "quantity": 9,
+            "unit_price": 195.54,
+            "total_price": 1759.86
+        }
+    ],
+    "amount": 1759.86
+}

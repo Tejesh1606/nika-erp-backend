@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mendoza-Nelson",
+    "invoice_number": "INV-31174",
+    "date": "2025-10-28",
+    "items": [
+        {
+            "description": "Team-oriented impactful definition",
+            "quantity": 10,
+            "unit_price": 34.41,
+            "total_price": 344.1
+        },
+        {
+            "description": "Operative eco-centric archive",
+            "quantity": 2,
+            "unit_price": 41.34,
+            "total_price": 82.68
+        }
+    ],
+    "amount": 426.78
+}

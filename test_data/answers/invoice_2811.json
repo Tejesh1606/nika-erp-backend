@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ritter-Bailey",
+    "invoice_number": "INV-99557",
+    "date": "2025-12-04",
+    "items": [
+        {
+            "description": "Down-sized bifurcated info-mediaries",
+            "quantity": 7,
+            "unit_price": 45.28,
+            "total_price": 316.96
+        },
+        {
+            "description": "Face-to-face system-worthy core",
+            "quantity": 6,
+            "unit_price": 407.55,
+            "total_price": 2445.3
+        },
+        {
+            "description": "Operative bottom-line website",
+            "quantity": 5,
+            "unit_price": 385.42,
+            "total_price": 1927.1
+        }
+    ],
+    "amount": 4689.36
+}

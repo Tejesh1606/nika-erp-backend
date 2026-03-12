@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wood-Wu",
+    "invoice_number": "INV-51317",
+    "date": "2026-01-20",
+    "items": [
+        {
+            "description": "Front-line high-level secured line",
+            "quantity": 1,
+            "unit_price": 64.28,
+            "total_price": 64.28
+        }
+    ],
+    "amount": 64.28
+}

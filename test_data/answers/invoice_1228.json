@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Murphy-Mason",
+    "invoice_number": "INV-25374",
+    "date": "2025-06-10",
+    "items": [
+        {
+            "description": "Realigned hybrid implementation",
+            "quantity": 6,
+            "unit_price": 153.39,
+            "total_price": 920.34
+        },
+        {
+            "description": "Vision-oriented human-resource strategy",
+            "quantity": 9,
+            "unit_price": 80.17,
+            "total_price": 721.53
+        },
+        {
+            "description": "Phased heuristic function",
+            "quantity": 4,
+            "unit_price": 78.33,
+            "total_price": 313.32
+        },
+        {
+            "description": "Programmable foreground moderator",
+            "quantity": 1,
+            "unit_price": 257.04,
+            "total_price": 257.04
+        }
+    ],
+    "amount": 2212.23
+}

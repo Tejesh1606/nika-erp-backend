@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Rodriguez-Cox",
+    "invoice_number": "INV-89874",
+    "date": "2025-06-21",
+    "items": [
+        {
+            "description": "Progressive 24/7 framework",
+            "quantity": 7,
+            "unit_price": 86.08,
+            "total_price": 602.56
+        }
+    ],
+    "amount": 602.56
+}

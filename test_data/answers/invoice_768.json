@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Swanson, Turner and Li",
+    "invoice_number": "INV-90837",
+    "date": "2025-07-27",
+    "items": [
+        {
+            "description": "Team-oriented systematic solution",
+            "quantity": 5,
+            "unit_price": 494.08,
+            "total_price": 2470.4
+        },
+        {
+            "description": "Synergistic hybrid website",
+            "quantity": 7,
+            "unit_price": 416.88,
+            "total_price": 2918.16
+        }
+    ],
+    "amount": 5388.56
+}

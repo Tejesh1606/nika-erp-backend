@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Crane, Scott and Jackson",
+    "invoice_number": "INV-58656",
+    "date": "2025-08-28",
+    "items": [
+        {
+            "description": "Face-to-face disintermediate access",
+            "quantity": 7,
+            "unit_price": 33.63,
+            "total_price": 235.41
+        },
+        {
+            "description": "Seamless transitional task-force",
+            "quantity": 5,
+            "unit_price": 137.85,
+            "total_price": 689.25
+        }
+    ],
+    "amount": 924.66
+}

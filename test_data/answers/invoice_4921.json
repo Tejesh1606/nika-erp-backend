@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Campbell PLC",
+    "invoice_number": "INV-37263",
+    "date": "2025-03-15",
+    "items": [
+        {
+            "description": "Universal intangible frame",
+            "quantity": 9,
+            "unit_price": 23.44,
+            "total_price": 210.96
+        },
+        {
+            "description": "Centralized empowering artificial intelligence",
+            "quantity": 10,
+            "unit_price": 107.09,
+            "total_price": 1070.9
+        },
+        {
+            "description": "De-engineered asynchronous approach",
+            "quantity": 1,
+            "unit_price": 38.51,
+            "total_price": 38.51
+        },
+        {
+            "description": "Persevering 6thgeneration secured line",
+            "quantity": 8,
+            "unit_price": 219.04,
+            "total_price": 1752.32
+        }
+    ],
+    "amount": 3072.69
+}

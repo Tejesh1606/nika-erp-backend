@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Moss, Wolf and Weiss",
+    "invoice_number": "INV-73176",
+    "date": "2025-03-16",
+    "items": [
+        {
+            "description": "Virtual homogeneous interface",
+            "quantity": 3,
+            "unit_price": 157.29,
+            "total_price": 471.87
+        }
+    ],
+    "amount": 471.87
+}

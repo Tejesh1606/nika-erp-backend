@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mcgee-Ho",
+    "invoice_number": "INV-98756",
+    "date": "2025-10-12",
+    "items": [
+        {
+            "description": "Quality-focused user-facing open architecture",
+            "quantity": 5,
+            "unit_price": 462.67,
+            "total_price": 2313.35
+        },
+        {
+            "description": "Stand-alone system-worthy moratorium",
+            "quantity": 6,
+            "unit_price": 390.1,
+            "total_price": 2340.6
+        },
+        {
+            "description": "Ameliorated exuding policy",
+            "quantity": 4,
+            "unit_price": 220.78,
+            "total_price": 883.12
+        },
+        {
+            "description": "Proactive 6thgeneration firmware",
+            "quantity": 6,
+            "unit_price": 153.15,
+            "total_price": 918.9
+        }
+    ],
+    "amount": 6455.97
+}

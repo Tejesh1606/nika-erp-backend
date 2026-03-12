@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Davis Group",
+    "invoice_number": "INV-11405",
+    "date": "2026-01-24",
+    "items": [
+        {
+            "description": "User-friendly encompassing intranet",
+            "quantity": 6,
+            "unit_price": 232.44,
+            "total_price": 1394.64
+        }
+    ],
+    "amount": 1394.64
+}

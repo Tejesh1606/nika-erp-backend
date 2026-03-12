@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Swanson-Wright",
+    "invoice_number": "INV-31182",
+    "date": "2025-10-26",
+    "items": [
+        {
+            "description": "Networked modular methodology",
+            "quantity": 9,
+            "unit_price": 55.88,
+            "total_price": 502.92
+        },
+        {
+            "description": "Ergonomic mobile functionalities",
+            "quantity": 3,
+            "unit_price": 194.76,
+            "total_price": 584.28
+        }
+    ],
+    "amount": 1087.2
+}

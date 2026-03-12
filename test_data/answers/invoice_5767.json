@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brandt Group",
+    "invoice_number": "INV-38675",
+    "date": "2025-08-25",
+    "items": [
+        {
+            "description": "Cloned modular function",
+            "quantity": 5,
+            "unit_price": 479.06,
+            "total_price": 2395.3
+        },
+        {
+            "description": "Intuitive logistical system engine",
+            "quantity": 6,
+            "unit_price": 122.3,
+            "total_price": 733.8
+        },
+        {
+            "description": "Fundamental bi-directional leverage",
+            "quantity": 1,
+            "unit_price": 210.57,
+            "total_price": 210.57
+        }
+    ],
+    "amount": 3339.67
+}

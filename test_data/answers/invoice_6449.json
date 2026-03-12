@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Young Ltd",
+    "invoice_number": "INV-33146",
+    "date": "2025-07-29",
+    "items": [
+        {
+            "description": "Fully-configurable value-added project",
+            "quantity": 7,
+            "unit_price": 41.63,
+            "total_price": 291.41
+        },
+        {
+            "description": "Balanced bottom-line capacity",
+            "quantity": 1,
+            "unit_price": 174.86,
+            "total_price": 174.86
+        }
+    ],
+    "amount": 466.27
+}

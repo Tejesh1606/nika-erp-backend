@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Petty Inc",
+    "invoice_number": "INV-28737",
+    "date": "2025-11-10",
+    "items": [
+        {
+            "description": "Automated disintermediate complexity",
+            "quantity": 4,
+            "unit_price": 458.04,
+            "total_price": 1832.16
+        },
+        {
+            "description": "Object-based fresh-thinking access",
+            "quantity": 10,
+            "unit_price": 476.42,
+            "total_price": 4764.2
+        }
+    ],
+    "amount": 6596.36
+}

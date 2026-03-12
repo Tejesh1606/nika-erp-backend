@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Duncan, Rodriguez and Clark",
+    "invoice_number": "INV-32648",
+    "date": "2026-01-28",
+    "items": [
+        {
+            "description": "Advanced incremental utilization",
+            "quantity": 7,
+            "unit_price": 453.03,
+            "total_price": 3171.21
+        },
+        {
+            "description": "Persistent leadingedge productivity",
+            "quantity": 5,
+            "unit_price": 362.55,
+            "total_price": 1812.75
+        },
+        {
+            "description": "Synchronized didactic approach",
+            "quantity": 5,
+            "unit_price": 88.32,
+            "total_price": 441.6
+        }
+    ],
+    "amount": 5425.56
+}

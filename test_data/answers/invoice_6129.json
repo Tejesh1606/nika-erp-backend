@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Morales-Peterson",
+    "invoice_number": "INV-65955",
+    "date": "2025-08-29",
+    "items": [
+        {
+            "description": "Open-source user-facing hierarchy",
+            "quantity": 2,
+            "unit_price": 380.18,
+            "total_price": 760.36
+        },
+        {
+            "description": "Synchronized well-modulated Internet solution",
+            "quantity": 10,
+            "unit_price": 414.55,
+            "total_price": 4145.5
+        },
+        {
+            "description": "Configurable composite flexibility",
+            "quantity": 7,
+            "unit_price": 119.66,
+            "total_price": 837.62
+        },
+        {
+            "description": "Re-contextualized neutral software",
+            "quantity": 6,
+            "unit_price": 172.24,
+            "total_price": 1033.44
+        }
+    ],
+    "amount": 6776.92
+}

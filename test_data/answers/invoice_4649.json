@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wright-Gibson",
+    "invoice_number": "INV-66883",
+    "date": "2025-09-07",
+    "items": [
+        {
+            "description": "Expanded neutral project",
+            "quantity": 3,
+            "unit_price": 123.48,
+            "total_price": 370.44
+        }
+    ],
+    "amount": 370.44
+}

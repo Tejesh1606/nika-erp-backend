@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Franklin Group",
+    "invoice_number": "INV-51012",
+    "date": "2025-08-09",
+    "items": [
+        {
+            "description": "Seamless value-added orchestration",
+            "quantity": 9,
+            "unit_price": 468.92,
+            "total_price": 4220.28
+        },
+        {
+            "description": "Right-sized national moderator",
+            "quantity": 4,
+            "unit_price": 260.76,
+            "total_price": 1043.04
+        },
+        {
+            "description": "Stand-alone tertiary toolset",
+            "quantity": 5,
+            "unit_price": 398.96,
+            "total_price": 1994.8
+        },
+        {
+            "description": "Automated multi-state benchmark",
+            "quantity": 10,
+            "unit_price": 259.98,
+            "total_price": 2599.8
+        }
+    ],
+    "amount": 9857.92
+}

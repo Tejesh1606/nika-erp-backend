@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brady Ltd",
+    "invoice_number": "INV-37003",
+    "date": "2026-01-10",
+    "items": [
+        {
+            "description": "Sharable exuding definition",
+            "quantity": 5,
+            "unit_price": 118.42,
+            "total_price": 592.1
+        },
+        {
+            "description": "Implemented exuding policy",
+            "quantity": 3,
+            "unit_price": 208.01,
+            "total_price": 624.03
+        },
+        {
+            "description": "Right-sized modular hierarchy",
+            "quantity": 8,
+            "unit_price": 24.41,
+            "total_price": 195.28
+        }
+    ],
+    "amount": 1411.41
+}

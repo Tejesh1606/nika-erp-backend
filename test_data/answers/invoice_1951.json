@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Roberts-Byrd",
+    "invoice_number": "INV-38341",
+    "date": "2025-07-05",
+    "items": [
+        {
+            "description": "Visionary uniform access",
+            "quantity": 5,
+            "unit_price": 478.71,
+            "total_price": 2393.55
+        },
+        {
+            "description": "Expanded system-worthy paradigm",
+            "quantity": 9,
+            "unit_price": 217.48,
+            "total_price": 1957.32
+        }
+    ],
+    "amount": 4350.87
+}

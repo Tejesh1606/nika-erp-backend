@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jenkins, Jackson and Garcia",
+    "invoice_number": "INV-65980",
+    "date": "2026-01-13",
+    "items": [
+        {
+            "description": "Inverse stable paradigm",
+            "quantity": 1,
+            "unit_price": 440.14,
+            "total_price": 440.14
+        },
+        {
+            "description": "Compatible scalable framework",
+            "quantity": 6,
+            "unit_price": 213.78,
+            "total_price": 1282.68
+        }
+    ],
+    "amount": 1722.82
+}

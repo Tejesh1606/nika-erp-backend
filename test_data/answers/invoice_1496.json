@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Beard Group",
+    "invoice_number": "INV-32882",
+    "date": "2025-03-14",
+    "items": [
+        {
+            "description": "Customizable background success",
+            "quantity": 4,
+            "unit_price": 330.1,
+            "total_price": 1320.4
+        },
+        {
+            "description": "Front-line logistical paradigm",
+            "quantity": 2,
+            "unit_price": 213.1,
+            "total_price": 426.2
+        },
+        {
+            "description": "Team-oriented next generation flexibility",
+            "quantity": 2,
+            "unit_price": 150.77,
+            "total_price": 301.54
+        },
+        {
+            "description": "Future-proofed 3rdgeneration standardization",
+            "quantity": 1,
+            "unit_price": 81.52,
+            "total_price": 81.52
+        }
+    ],
+    "amount": 2129.66
+}

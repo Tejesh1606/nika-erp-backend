@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Chapman Inc",
+    "invoice_number": "INV-32838",
+    "date": "2025-06-20",
+    "items": [
+        {
+            "description": "Business-focused clear-thinking support",
+            "quantity": 2,
+            "unit_price": 338.58,
+            "total_price": 677.16
+        },
+        {
+            "description": "Operative multi-tasking budgetary management",
+            "quantity": 6,
+            "unit_price": 219.65,
+            "total_price": 1317.9
+        },
+        {
+            "description": "User-friendly asymmetric leverage",
+            "quantity": 2,
+            "unit_price": 123.69,
+            "total_price": 247.38
+        },
+        {
+            "description": "Organized zero-defect hierarchy",
+            "quantity": 8,
+            "unit_price": 391.21,
+            "total_price": 3129.68
+        }
+    ],
+    "amount": 5372.12
+}

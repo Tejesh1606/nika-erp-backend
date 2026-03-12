@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Barrett, Austin and Stone",
+    "invoice_number": "INV-39450",
+    "date": "2025-04-10",
+    "items": [
+        {
+            "description": "Virtual upward-trending artificial intelligence",
+            "quantity": 5,
+            "unit_price": 445.89,
+            "total_price": 2229.45
+        },
+        {
+            "description": "Total hybrid solution",
+            "quantity": 6,
+            "unit_price": 139.47,
+            "total_price": 836.82
+        },
+        {
+            "description": "Switchable multimedia instruction set",
+            "quantity": 2,
+            "unit_price": 80.97,
+            "total_price": 161.94
+        }
+    ],
+    "amount": 3228.21
+}

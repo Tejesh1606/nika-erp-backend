@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wilson Ltd",
+    "invoice_number": "INV-90225",
+    "date": "2025-10-02",
+    "items": [
+        {
+            "description": "Function-based empowering firmware",
+            "quantity": 3,
+            "unit_price": 19.32,
+            "total_price": 57.96
+        },
+        {
+            "description": "Up-sized radical info-mediaries",
+            "quantity": 4,
+            "unit_price": 279.08,
+            "total_price": 1116.32
+        }
+    ],
+    "amount": 1174.28
+}

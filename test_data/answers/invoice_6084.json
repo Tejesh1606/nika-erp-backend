@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Simon and Sons",
+    "invoice_number": "INV-92799",
+    "date": "2025-07-02",
+    "items": [
+        {
+            "description": "Polarized maximized projection",
+            "quantity": 9,
+            "unit_price": 251.64,
+            "total_price": 2264.76
+        },
+        {
+            "description": "Optional didactic approach",
+            "quantity": 7,
+            "unit_price": 156.97,
+            "total_price": 1098.79
+        },
+        {
+            "description": "Vision-oriented transitional Internet solution",
+            "quantity": 6,
+            "unit_price": 481.72,
+            "total_price": 2890.32
+        }
+    ],
+    "amount": 6253.87
+}

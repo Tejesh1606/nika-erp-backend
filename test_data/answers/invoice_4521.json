@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Barnett-Lopez",
+    "invoice_number": "INV-63040",
+    "date": "2025-05-17",
+    "items": [
+        {
+            "description": "Function-based transitional protocol",
+            "quantity": 5,
+            "unit_price": 360.55,
+            "total_price": 1802.75
+        },
+        {
+            "description": "Virtual dedicated capacity",
+            "quantity": 3,
+            "unit_price": 185.72,
+            "total_price": 557.16
+        },
+        {
+            "description": "Optimized full-range knowledge user",
+            "quantity": 1,
+            "unit_price": 440.46,
+            "total_price": 440.46
+        }
+    ],
+    "amount": 2800.37
+}

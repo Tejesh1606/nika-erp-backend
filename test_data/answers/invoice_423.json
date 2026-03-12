@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Williams-Villanueva",
+    "invoice_number": "INV-35232",
+    "date": "2025-07-11",
+    "items": [
+        {
+            "description": "Profound attitude-oriented attitude",
+            "quantity": 4,
+            "unit_price": 276.52,
+            "total_price": 1106.08
+        },
+        {
+            "description": "Down-sized zero administration monitoring",
+            "quantity": 5,
+            "unit_price": 259.99,
+            "total_price": 1299.95
+        }
+    ],
+    "amount": 2406.03
+}

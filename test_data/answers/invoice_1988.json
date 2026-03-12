@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Cox-Brown",
+    "invoice_number": "INV-86180",
+    "date": "2025-06-28",
+    "items": [
+        {
+            "description": "Vision-oriented well-modulated toolset",
+            "quantity": 10,
+            "unit_price": 314.75,
+            "total_price": 3147.5
+        },
+        {
+            "description": "Function-based exuding projection",
+            "quantity": 1,
+            "unit_price": 239.23,
+            "total_price": 239.23
+        },
+        {
+            "description": "Automated leadingedge Internet solution",
+            "quantity": 5,
+            "unit_price": 60.86,
+            "total_price": 304.3
+        },
+        {
+            "description": "Object-based dedicated software",
+            "quantity": 2,
+            "unit_price": 227.64,
+            "total_price": 455.28
+        }
+    ],
+    "amount": 4146.31
+}

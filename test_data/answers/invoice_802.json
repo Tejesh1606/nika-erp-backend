@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Small-Lewis",
+    "invoice_number": "INV-74067",
+    "date": "2025-03-09",
+    "items": [
+        {
+            "description": "Decentralized neutral hardware",
+            "quantity": 8,
+            "unit_price": 260.62,
+            "total_price": 2084.96
+        }
+    ],
+    "amount": 2084.96
+}

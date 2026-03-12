@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Byrd and Sons",
+    "invoice_number": "INV-55286",
+    "date": "2025-08-23",
+    "items": [
+        {
+            "description": "Customizable bi-directional intranet",
+            "quantity": 9,
+            "unit_price": 106.3,
+            "total_price": 956.7
+        },
+        {
+            "description": "Adaptive cohesive matrix",
+            "quantity": 10,
+            "unit_price": 178.06,
+            "total_price": 1780.6
+        }
+    ],
+    "amount": 2737.3
+}

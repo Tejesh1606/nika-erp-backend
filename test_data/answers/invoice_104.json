@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson-Greer",
+    "invoice_number": "INV-61879",
+    "date": "2025-06-23",
+    "items": [
+        {
+            "description": "Advanced non-volatile software",
+            "quantity": 3,
+            "unit_price": 492.21,
+            "total_price": 1476.63
+        },
+        {
+            "description": "Vision-oriented value-added application",
+            "quantity": 1,
+            "unit_price": 317.55,
+            "total_price": 317.55
+        },
+        {
+            "description": "Robust value-added methodology",
+            "quantity": 10,
+            "unit_price": 280.4,
+            "total_price": 2804.0
+        },
+        {
+            "description": "Horizontal zero-defect website",
+            "quantity": 10,
+            "unit_price": 373.66,
+            "total_price": 3736.6
+        }
+    ],
+    "amount": 8334.78
+}

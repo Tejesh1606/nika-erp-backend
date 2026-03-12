@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Evans Inc",
+    "invoice_number": "INV-34713",
+    "date": "2026-01-22",
+    "items": [
+        {
+            "description": "Upgradable high-level software",
+            "quantity": 1,
+            "unit_price": 338.08,
+            "total_price": 338.08
+        }
+    ],
+    "amount": 338.08
+}

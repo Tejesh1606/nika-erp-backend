@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wolfe, Dixon and Stewart",
+    "invoice_number": "INV-66024",
+    "date": "2025-07-20",
+    "items": [
+        {
+            "description": "Self-enabling clear-thinking functionalities",
+            "quantity": 10,
+            "unit_price": 441.16,
+            "total_price": 4411.6
+        },
+        {
+            "description": "Mandatory stable framework",
+            "quantity": 7,
+            "unit_price": 291.69,
+            "total_price": 2041.83
+        }
+    ],
+    "amount": 6453.43
+}

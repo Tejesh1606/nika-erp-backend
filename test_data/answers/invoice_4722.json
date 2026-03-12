@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Lewis, Lang and Burton",
+    "invoice_number": "INV-52245",
+    "date": "2025-08-08",
+    "items": [
+        {
+            "description": "Organized reciprocal matrices",
+            "quantity": 2,
+            "unit_price": 75.29,
+            "total_price": 150.58
+        },
+        {
+            "description": "Team-oriented zero administration framework",
+            "quantity": 8,
+            "unit_price": 104.17,
+            "total_price": 833.36
+        }
+    ],
+    "amount": 983.94
+}

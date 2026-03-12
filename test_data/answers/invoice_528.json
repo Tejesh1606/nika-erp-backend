@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Weeks LLC",
+    "invoice_number": "INV-55603",
+    "date": "2026-02-13",
+    "items": [
+        {
+            "description": "Optional intangible capability",
+            "quantity": 6,
+            "unit_price": 242.02,
+            "total_price": 1452.12
+        },
+        {
+            "description": "Visionary discrete synergy",
+            "quantity": 2,
+            "unit_price": 416.98,
+            "total_price": 833.96
+        },
+        {
+            "description": "Streamlined real-time access",
+            "quantity": 2,
+            "unit_price": 418.65,
+            "total_price": 837.3
+        },
+        {
+            "description": "Sharable zero-defect product",
+            "quantity": 8,
+            "unit_price": 363.62,
+            "total_price": 2908.96
+        }
+    ],
+    "amount": 6032.34
+}

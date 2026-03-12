@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wilson Ltd",
+    "invoice_number": "INV-27457",
+    "date": "2025-04-13",
+    "items": [
+        {
+            "description": "Multi-layered hybrid solution",
+            "quantity": 9,
+            "unit_price": 134.93,
+            "total_price": 1214.37
+        }
+    ],
+    "amount": 1214.37
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ray, Velez and Wong",
+    "invoice_number": "INV-97899",
+    "date": "2025-11-07",
+    "items": [
+        {
+            "description": "Down-sized zero-defect knowledgebase",
+            "quantity": 8,
+            "unit_price": 392.7,
+            "total_price": 3141.6
+        }
+    ],
+    "amount": 3141.6
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Osborne LLC",
+    "invoice_number": "INV-63493",
+    "date": "2025-12-19",
+    "items": [
+        {
+            "description": "Multi-tiered well-modulated intranet",
+            "quantity": 6,
+            "unit_price": 438.27,
+            "total_price": 2629.62
+        },
+        {
+            "description": "Realigned global instruction set",
+            "quantity": 8,
+            "unit_price": 265.19,
+            "total_price": 2121.52
+        }
+    ],
+    "amount": 4751.14
+}

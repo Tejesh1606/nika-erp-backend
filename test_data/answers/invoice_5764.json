@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Allen, Miller and Franklin",
+    "invoice_number": "INV-34434",
+    "date": "2025-08-27",
+    "items": [
+        {
+            "description": "Up-sized cohesive knowledge user",
+            "quantity": 9,
+            "unit_price": 131.08,
+            "total_price": 1179.72
+        },
+        {
+            "description": "Organic motivating toolset",
+            "quantity": 9,
+            "unit_price": 205.12,
+            "total_price": 1846.08
+        }
+    ],
+    "amount": 3025.8
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Shaffer-Harrison",
+    "invoice_number": "INV-13713",
+    "date": "2026-01-18",
+    "items": [
+        {
+            "description": "Team-oriented full-range database",
+            "quantity": 7,
+            "unit_price": 250.32,
+            "total_price": 1752.24
+        },
+        {
+            "description": "Multi-tiered client-driven functionalities",
+            "quantity": 6,
+            "unit_price": 426.82,
+            "total_price": 2560.92
+        },
+        {
+            "description": "Cross-group solution-oriented secured line",
+            "quantity": 7,
+            "unit_price": 384.79,
+            "total_price": 2693.53
+        }
+    ],
+    "amount": 7006.69
+}

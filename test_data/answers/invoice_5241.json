@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Martinez-Smith",
+    "invoice_number": "INV-39532",
+    "date": "2025-07-24",
+    "items": [
+        {
+            "description": "Compatible stable challenge",
+            "quantity": 10,
+            "unit_price": 371.54,
+            "total_price": 3715.4
+        },
+        {
+            "description": "Assimilated regional task-force",
+            "quantity": 6,
+            "unit_price": 223.53,
+            "total_price": 1341.18
+        }
+    ],
+    "amount": 5056.58
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Pugh-Carlson",
+    "invoice_number": "INV-35621",
+    "date": "2025-04-19",
+    "items": [
+        {
+            "description": "Innovative fresh-thinking encryption",
+            "quantity": 7,
+            "unit_price": 471.14,
+            "total_price": 3297.98
+        },
+        {
+            "description": "Upgradable intangible Graphical User Interface",
+            "quantity": 2,
+            "unit_price": 307.21,
+            "total_price": 614.42
+        },
+        {
+            "description": "Cross-platform dedicated data-warehouse",
+            "quantity": 8,
+            "unit_price": 89.48,
+            "total_price": 715.84
+        }
+    ],
+    "amount": 4628.24
+}

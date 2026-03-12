@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Proctor, Ramirez and Farley",
+    "invoice_number": "INV-82341",
+    "date": "2025-12-29",
+    "items": [
+        {
+            "description": "Decentralized holistic alliance",
+            "quantity": 1,
+            "unit_price": 290.13,
+            "total_price": 290.13
+        },
+        {
+            "description": "Versatile needs-based paradigm",
+            "quantity": 8,
+            "unit_price": 332.13,
+            "total_price": 2657.04
+        },
+        {
+            "description": "Intuitive bi-directional frame",
+            "quantity": 7,
+            "unit_price": 328.21,
+            "total_price": 2297.47
+        }
+    ],
+    "amount": 5244.64
+}

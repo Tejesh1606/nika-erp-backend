@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bernard PLC",
+    "invoice_number": "INV-34824",
+    "date": "2025-12-25",
+    "items": [
+        {
+            "description": "Phased motivating adapter",
+            "quantity": 3,
+            "unit_price": 130.35,
+            "total_price": 391.05
+        },
+        {
+            "description": "Decentralized stable monitoring",
+            "quantity": 3,
+            "unit_price": 328.32,
+            "total_price": 984.96
+        }
+    ],
+    "amount": 1376.01
+}

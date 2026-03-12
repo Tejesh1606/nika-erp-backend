@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Clayton-Jacobs",
+    "invoice_number": "INV-60995",
+    "date": "2025-07-13",
+    "items": [
+        {
+            "description": "Realigned value-added frame",
+            "quantity": 2,
+            "unit_price": 131.93,
+            "total_price": 263.86
+        },
+        {
+            "description": "Automated coherent solution",
+            "quantity": 7,
+            "unit_price": 334.72,
+            "total_price": 2343.04
+        }
+    ],
+    "amount": 2606.9
+}

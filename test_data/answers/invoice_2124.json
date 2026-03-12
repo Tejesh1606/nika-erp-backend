@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Carr LLC",
+    "invoice_number": "INV-85333",
+    "date": "2026-01-25",
+    "items": [
+        {
+            "description": "Cross-platform client-driven Graphic Interface",
+            "quantity": 7,
+            "unit_price": 301.34,
+            "total_price": 2109.38
+        },
+        {
+            "description": "Organized demand-driven function",
+            "quantity": 9,
+            "unit_price": 146.86,
+            "total_price": 1321.74
+        },
+        {
+            "description": "Seamless motivating parallelism",
+            "quantity": 9,
+            "unit_price": 204.49,
+            "total_price": 1840.41
+        },
+        {
+            "description": "Re-contextualized cohesive Graphical User Interface",
+            "quantity": 1,
+            "unit_price": 139.83,
+            "total_price": 139.83
+        }
+    ],
+    "amount": 5411.36
+}

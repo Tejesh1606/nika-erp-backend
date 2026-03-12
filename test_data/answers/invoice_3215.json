@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Nelson, Stewart and Mcdonald",
+    "invoice_number": "INV-16928",
+    "date": "2025-08-24",
+    "items": [
+        {
+            "description": "Cross-group client-server pricing structure",
+            "quantity": 2,
+            "unit_price": 118.63,
+            "total_price": 237.26
+        },
+        {
+            "description": "Profound motivating portal",
+            "quantity": 8,
+            "unit_price": 51.91,
+            "total_price": 415.28
+        }
+    ],
+    "amount": 652.54
+}

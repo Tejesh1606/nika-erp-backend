@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Strickland-Silva",
+    "invoice_number": "INV-96368",
+    "date": "2025-12-14",
+    "items": [
+        {
+            "description": "Compatible 3rdgeneration core",
+            "quantity": 10,
+            "unit_price": 131.12,
+            "total_price": 1311.2
+        },
+        {
+            "description": "Cloned multi-tasking monitoring",
+            "quantity": 1,
+            "unit_price": 379.84,
+            "total_price": 379.84
+        }
+    ],
+    "amount": 1691.04
+}

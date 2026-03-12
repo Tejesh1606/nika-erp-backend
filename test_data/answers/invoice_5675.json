@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Barnes-Marshall",
+    "invoice_number": "INV-88209",
+    "date": "2025-10-18",
+    "items": [
+        {
+            "description": "Multi-layered bottom-line array",
+            "quantity": 1,
+            "unit_price": 432.94,
+            "total_price": 432.94
+        }
+    ],
+    "amount": 432.94
+}

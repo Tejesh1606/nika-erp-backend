@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jones Group",
+    "invoice_number": "INV-90879",
+    "date": "2025-09-15",
+    "items": [
+        {
+            "description": "Team-oriented fresh-thinking knowledgebase",
+            "quantity": 9,
+            "unit_price": 280.49,
+            "total_price": 2524.41
+        },
+        {
+            "description": "Fully-configurable interactive initiative",
+            "quantity": 3,
+            "unit_price": 363.09,
+            "total_price": 1089.27
+        }
+    ],
+    "amount": 3613.68
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Rich, Arnold and Glenn",
+    "invoice_number": "INV-66370",
+    "date": "2025-08-31",
+    "items": [
+        {
+            "description": "Focused incremental Graphical User Interface",
+            "quantity": 1,
+            "unit_price": 235.16,
+            "total_price": 235.16
+        }
+    ],
+    "amount": 235.16
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Robles PLC",
+    "invoice_number": "INV-26074",
+    "date": "2025-03-24",
+    "items": [
+        {
+            "description": "Expanded 4thgeneration workforce",
+            "quantity": 10,
+            "unit_price": 32.73,
+            "total_price": 327.3
+        },
+        {
+            "description": "User-centric incremental neural-net",
+            "quantity": 7,
+            "unit_price": 286.38,
+            "total_price": 2004.66
+        },
+        {
+            "description": "Focused bandwidth-monitored knowledge user",
+            "quantity": 3,
+            "unit_price": 363.69,
+            "total_price": 1091.07
+        }
+    ],
+    "amount": 3423.03
+}

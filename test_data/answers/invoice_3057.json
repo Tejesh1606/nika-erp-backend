@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bailey Ltd",
+    "invoice_number": "INV-39257",
+    "date": "2025-12-17",
+    "items": [
+        {
+            "description": "Team-oriented fault-tolerant pricing structure",
+            "quantity": 4,
+            "unit_price": 276.19,
+            "total_price": 1104.76
+        },
+        {
+            "description": "Function-based well-modulated architecture",
+            "quantity": 2,
+            "unit_price": 289.98,
+            "total_price": 579.96
+        },
+        {
+            "description": "Seamless transitional leverage",
+            "quantity": 6,
+            "unit_price": 101.29,
+            "total_price": 607.74
+        }
+    ],
+    "amount": 2292.46
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Solis Ltd",
+    "invoice_number": "INV-39156",
+    "date": "2025-10-31",
+    "items": [
+        {
+            "description": "Multi-tiered multi-state Graphic Interface",
+            "quantity": 2,
+            "unit_price": 188.71,
+            "total_price": 377.42
+        },
+        {
+            "description": "Enterprise-wide leadingedge product",
+            "quantity": 1,
+            "unit_price": 271.94,
+            "total_price": 271.94
+        },
+        {
+            "description": "Adaptive asymmetric matrix",
+            "quantity": 4,
+            "unit_price": 85.43,
+            "total_price": 341.72
+        },
+        {
+            "description": "Cloned content-based application",
+            "quantity": 7,
+            "unit_price": 120.27,
+            "total_price": 841.89
+        }
+    ],
+    "amount": 1832.97
+}

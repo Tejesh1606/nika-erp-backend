@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Nolan-Scott",
+    "invoice_number": "INV-21533",
+    "date": "2025-06-25",
+    "items": [
+        {
+            "description": "Open-source grid-enabled hierarchy",
+            "quantity": 6,
+            "unit_price": 166.96,
+            "total_price": 1001.76
+        },
+        {
+            "description": "Innovative fresh-thinking artificial intelligence",
+            "quantity": 6,
+            "unit_price": 251.31,
+            "total_price": 1507.86
+        },
+        {
+            "description": "Enterprise-wide dynamic database",
+            "quantity": 3,
+            "unit_price": 449.09,
+            "total_price": 1347.27
+        },
+        {
+            "description": "Mandatory high-level parallelism",
+            "quantity": 6,
+            "unit_price": 460.83,
+            "total_price": 2764.98
+        }
+    ],
+    "amount": 6621.87
+}

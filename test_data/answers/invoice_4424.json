@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hunt, Perry and Wise",
+    "invoice_number": "INV-33170",
+    "date": "2025-08-15",
+    "items": [
+        {
+            "description": "Profound eco-centric process improvement",
+            "quantity": 1,
+            "unit_price": 69.58,
+            "total_price": 69.58
+        }
+    ],
+    "amount": 69.58
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Strickland, Stokes and Barnes",
+    "invoice_number": "INV-22177",
+    "date": "2025-06-15",
+    "items": [
+        {
+            "description": "Digitized cohesive solution",
+            "quantity": 8,
+            "unit_price": 392.41,
+            "total_price": 3139.28
+        },
+        {
+            "description": "Virtual tertiary ability",
+            "quantity": 3,
+            "unit_price": 492.05,
+            "total_price": 1476.15
+        },
+        {
+            "description": "Self-enabling analyzing Local Area Network",
+            "quantity": 8,
+            "unit_price": 128.61,
+            "total_price": 1028.88
+        }
+    ],
+    "amount": 5644.31
+}

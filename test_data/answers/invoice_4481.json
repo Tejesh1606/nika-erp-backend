@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Sheppard-King",
+    "invoice_number": "INV-35741",
+    "date": "2026-01-27",
+    "items": [
+        {
+            "description": "Customizable modular moratorium",
+            "quantity": 6,
+            "unit_price": 295.99,
+            "total_price": 1775.94
+        },
+        {
+            "description": "Diverse local definition",
+            "quantity": 8,
+            "unit_price": 408.6,
+            "total_price": 3268.8
+        }
+    ],
+    "amount": 5044.74
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ortega, Mack and Moore",
+    "invoice_number": "INV-21272",
+    "date": "2025-12-10",
+    "items": [
+        {
+            "description": "Future-proofed client-server superstructure",
+            "quantity": 5,
+            "unit_price": 243.7,
+            "total_price": 1218.5
+        },
+        {
+            "description": "Exclusive intermediate paradigm",
+            "quantity": 7,
+            "unit_price": 333.89,
+            "total_price": 2337.23
+        }
+    ],
+    "amount": 3555.73
+}

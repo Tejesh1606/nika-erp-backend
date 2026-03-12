@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brown, Morgan and Villarreal",
+    "invoice_number": "INV-75921",
+    "date": "2026-02-07",
+    "items": [
+        {
+            "description": "Phased attitude-oriented focus group",
+            "quantity": 3,
+            "unit_price": 33.21,
+            "total_price": 99.63
+        },
+        {
+            "description": "Customer-focused encompassing contingency",
+            "quantity": 10,
+            "unit_price": 408.69,
+            "total_price": 4086.9
+        },
+        {
+            "description": "Optional uniform frame",
+            "quantity": 10,
+            "unit_price": 158.2,
+            "total_price": 1582.0
+        }
+    ],
+    "amount": 5768.53
+}

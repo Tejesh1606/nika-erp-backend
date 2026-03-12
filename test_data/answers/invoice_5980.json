@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Brown Group",
+    "invoice_number": "INV-52097",
+    "date": "2025-11-11",
+    "items": [
+        {
+            "description": "Managed full-range solution",
+            "quantity": 4,
+            "unit_price": 190.45,
+            "total_price": 761.8
+        }
+    ],
+    "amount": 761.8
+}

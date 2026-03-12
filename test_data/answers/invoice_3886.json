@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rodriguez, Richardson and Martin",
+    "invoice_number": "INV-24580",
+    "date": "2025-04-25",
+    "items": [
+        {
+            "description": "Open-source encompassing system engine",
+            "quantity": 8,
+            "unit_price": 279.32,
+            "total_price": 2234.56
+        },
+        {
+            "description": "Pre-emptive secondary pricing structure",
+            "quantity": 7,
+            "unit_price": 295.13,
+            "total_price": 2065.91
+        },
+        {
+            "description": "Enhanced eco-centric protocol",
+            "quantity": 10,
+            "unit_price": 144.55,
+            "total_price": 1445.5
+        },
+        {
+            "description": "Networked executive conglomeration",
+            "quantity": 6,
+            "unit_price": 493.76,
+            "total_price": 2962.56
+        }
+    ],
+    "amount": 8708.53
+}

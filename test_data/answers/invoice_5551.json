@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wu Ltd",
+    "invoice_number": "INV-28334",
+    "date": "2025-05-29",
+    "items": [
+        {
+            "description": "Reduced global hierarchy",
+            "quantity": 5,
+            "unit_price": 26.23,
+            "total_price": 131.15
+        }
+    ],
+    "amount": 131.15
+}

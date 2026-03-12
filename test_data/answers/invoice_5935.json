@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mckenzie, Walters and Hansen",
+    "invoice_number": "INV-63256",
+    "date": "2026-02-12",
+    "items": [
+        {
+            "description": "Networked motivating paradigm",
+            "quantity": 3,
+            "unit_price": 109.42,
+            "total_price": 328.26
+        }
+    ],
+    "amount": 328.26
+}

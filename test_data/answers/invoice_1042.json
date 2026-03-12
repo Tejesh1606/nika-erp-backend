@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mcmahon-Olson",
+    "invoice_number": "INV-80189",
+    "date": "2025-12-01",
+    "items": [
+        {
+            "description": "Diverse tangible Internet solution",
+            "quantity": 3,
+            "unit_price": 496.13,
+            "total_price": 1488.39
+        },
+        {
+            "description": "Multi-channeled system-worthy orchestration",
+            "quantity": 1,
+            "unit_price": 416.27,
+            "total_price": 416.27
+        }
+    ],
+    "amount": 1904.66
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Thomas, Sanford and Harris",
+    "invoice_number": "INV-78925",
+    "date": "2025-11-13",
+    "items": [
+        {
+            "description": "Quality-focused solution-oriented matrices",
+            "quantity": 3,
+            "unit_price": 33.42,
+            "total_price": 100.26
+        },
+        {
+            "description": "Centralized full-range protocol",
+            "quantity": 10,
+            "unit_price": 350.7,
+            "total_price": 3507.0
+        }
+    ],
+    "amount": 3607.26
+}

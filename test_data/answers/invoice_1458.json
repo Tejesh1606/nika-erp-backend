@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Acosta-Flores",
+    "invoice_number": "INV-56938",
+    "date": "2025-12-22",
+    "items": [
+        {
+            "description": "Polarized holistic methodology",
+            "quantity": 9,
+            "unit_price": 464.53,
+            "total_price": 4180.77
+        },
+        {
+            "description": "Innovative well-modulated matrix",
+            "quantity": 8,
+            "unit_price": 297.1,
+            "total_price": 2376.8
+        }
+    ],
+    "amount": 6557.57
+}

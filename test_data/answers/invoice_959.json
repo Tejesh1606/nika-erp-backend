@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Byrd, Kramer and Arnold",
+    "invoice_number": "INV-62776",
+    "date": "2025-09-10",
+    "items": [
+        {
+            "description": "Reverse-engineered clear-thinking firmware",
+            "quantity": 2,
+            "unit_price": 82.8,
+            "total_price": 165.6
+        },
+        {
+            "description": "Advanced systemic migration",
+            "quantity": 1,
+            "unit_price": 27.3,
+            "total_price": 27.3
+        },
+        {
+            "description": "Universal coherent protocol",
+            "quantity": 2,
+            "unit_price": 37.91,
+            "total_price": 75.82
+        }
+    ],
+    "amount": 268.72
+}

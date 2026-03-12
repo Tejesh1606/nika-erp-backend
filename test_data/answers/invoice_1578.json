@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Reid, Thomas and Gill",
+    "invoice_number": "INV-35733",
+    "date": "2025-04-14",
+    "items": [
+        {
+            "description": "Seamless human-resource focus group",
+            "quantity": 3,
+            "unit_price": 126.24,
+            "total_price": 378.72
+        },
+        {
+            "description": "Object-based directional analyzer",
+            "quantity": 3,
+            "unit_price": 368.92,
+            "total_price": 1106.76
+        },
+        {
+            "description": "Balanced exuding access",
+            "quantity": 8,
+            "unit_price": 240.01,
+            "total_price": 1920.08
+        },
+        {
+            "description": "Devolved content-based instruction set",
+            "quantity": 10,
+            "unit_price": 286.22,
+            "total_price": 2862.2
+        }
+    ],
+    "amount": 6267.76
+}

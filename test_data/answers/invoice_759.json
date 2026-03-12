@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mckee-Munoz",
+    "invoice_number": "INV-57060",
+    "date": "2025-11-22",
+    "items": [
+        {
+            "description": "Cross-platform holistic migration",
+            "quantity": 6,
+            "unit_price": 381.94,
+            "total_price": 2291.64
+        },
+        {
+            "description": "Exclusive mobile knowledge user",
+            "quantity": 1,
+            "unit_price": 289.56,
+            "total_price": 289.56
+        }
+    ],
+    "amount": 2581.2
+}

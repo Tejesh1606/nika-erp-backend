@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Bradley-Frazier",
+    "invoice_number": "INV-64378",
+    "date": "2025-07-18",
+    "items": [
+        {
+            "description": "Front-line disintermediate open system",
+            "quantity": 7,
+            "unit_price": 375.59,
+            "total_price": 2629.13
+        }
+    ],
+    "amount": 2629.13
+}

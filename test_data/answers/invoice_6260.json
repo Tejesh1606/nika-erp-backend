@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Sweeney LLC",
+    "invoice_number": "INV-75256",
+    "date": "2026-01-19",
+    "items": [
+        {
+            "description": "Business-focused exuding data-warehouse",
+            "quantity": 1,
+            "unit_price": 200.74,
+            "total_price": 200.74
+        },
+        {
+            "description": "Quality-focused multi-tasking customer loyalty",
+            "quantity": 5,
+            "unit_price": 497.71,
+            "total_price": 2488.55
+        }
+    ],
+    "amount": 2689.29
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "White-Reese",
+    "invoice_number": "INV-34925",
+    "date": "2025-09-18",
+    "items": [
+        {
+            "description": "User-centric dedicated encoding",
+            "quantity": 9,
+            "unit_price": 32.02,
+            "total_price": 288.18
+        },
+        {
+            "description": "User-centric disintermediate firmware",
+            "quantity": 7,
+            "unit_price": 470.96,
+            "total_price": 3296.72
+        },
+        {
+            "description": "Expanded discrete customer loyalty",
+            "quantity": 10,
+            "unit_price": 81.46,
+            "total_price": 814.6
+        }
+    ],
+    "amount": 4399.5
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Aguilar Group",
+    "invoice_number": "INV-92706",
+    "date": "2026-02-11",
+    "items": [
+        {
+            "description": "Managed zero tolerance secured line",
+            "quantity": 3,
+            "unit_price": 354.36,
+            "total_price": 1063.08
+        },
+        {
+            "description": "Customer-focused reciprocal capability",
+            "quantity": 2,
+            "unit_price": 296.03,
+            "total_price": 592.06
+        },
+        {
+            "description": "Centralized tertiary challenge",
+            "quantity": 6,
+            "unit_price": 17.41,
+            "total_price": 104.46
+        },
+        {
+            "description": "Exclusive value-added artificial intelligence",
+            "quantity": 3,
+            "unit_price": 17.35,
+            "total_price": 52.05
+        }
+    ],
+    "amount": 1811.65
+}

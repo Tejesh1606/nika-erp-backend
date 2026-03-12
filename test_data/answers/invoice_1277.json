@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Walker Ltd",
+    "invoice_number": "INV-52547",
+    "date": "2025-06-02",
+    "items": [
+        {
+            "description": "Cloned reciprocal forecast",
+            "quantity": 6,
+            "unit_price": 28.01,
+            "total_price": 168.06
+        },
+        {
+            "description": "Upgradable transitional portal",
+            "quantity": 1,
+            "unit_price": 431.82,
+            "total_price": 431.82
+        },
+        {
+            "description": "Persevering optimizing instruction set",
+            "quantity": 10,
+            "unit_price": 442.77,
+            "total_price": 4427.7
+        },
+        {
+            "description": "Sharable radical groupware",
+            "quantity": 4,
+            "unit_price": 302.83,
+            "total_price": 1211.32
+        }
+    ],
+    "amount": 6238.9
+}

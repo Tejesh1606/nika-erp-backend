@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Henson and Sons",
+    "invoice_number": "INV-71803",
+    "date": "2025-11-27",
+    "items": [
+        {
+            "description": "Re-engineered analyzing alliance",
+            "quantity": 9,
+            "unit_price": 244.53,
+            "total_price": 2200.77
+        },
+        {
+            "description": "Triple-buffered well-modulated interface",
+            "quantity": 8,
+            "unit_price": 33.35,
+            "total_price": 266.8
+        },
+        {
+            "description": "Intuitive encompassing website",
+            "quantity": 6,
+            "unit_price": 374.46,
+            "total_price": 2246.76
+        },
+        {
+            "description": "Universal needs-based product",
+            "quantity": 9,
+            "unit_price": 382.6,
+            "total_price": 3443.4
+        }
+    ],
+    "amount": 8157.73
+}

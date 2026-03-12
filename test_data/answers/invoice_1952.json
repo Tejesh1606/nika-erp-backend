@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith LLC",
+    "invoice_number": "INV-26522",
+    "date": "2026-03-08",
+    "items": [
+        {
+            "description": "Automated didactic interface",
+            "quantity": 2,
+            "unit_price": 327.6,
+            "total_price": 655.2
+        }
+    ],
+    "amount": 655.2
+}

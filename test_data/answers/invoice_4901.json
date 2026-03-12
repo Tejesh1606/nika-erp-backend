@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Dyer, Shields and Clark",
+    "invoice_number": "INV-78457",
+    "date": "2025-08-29",
+    "items": [
+        {
+            "description": "Profound secondary paradigm",
+            "quantity": 10,
+            "unit_price": 45.77,
+            "total_price": 457.7
+        },
+        {
+            "description": "Multi-lateral zero tolerance process improvement",
+            "quantity": 3,
+            "unit_price": 306.54,
+            "total_price": 919.62
+        },
+        {
+            "description": "Configurable upward-trending workforce",
+            "quantity": 7,
+            "unit_price": 402.5,
+            "total_price": 2817.5
+        },
+        {
+            "description": "Seamless 3rdgeneration Graphical User Interface",
+            "quantity": 1,
+            "unit_price": 370.25,
+            "total_price": 370.25
+        }
+    ],
+    "amount": 4565.07
+}

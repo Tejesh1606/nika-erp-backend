@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hoover-Allen",
+    "invoice_number": "INV-73877",
+    "date": "2025-10-15",
+    "items": [
+        {
+            "description": "Enterprise-wide heuristic hardware",
+            "quantity": 5,
+            "unit_price": 214.57,
+            "total_price": 1072.85
+        }
+    ],
+    "amount": 1072.85
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Rojas LLC",
+    "invoice_number": "INV-70410",
+    "date": "2025-05-11",
+    "items": [
+        {
+            "description": "Synergized even-keeled Graphical User Interface",
+            "quantity": 9,
+            "unit_price": 477.32,
+            "total_price": 4295.88
+        }
+    ],
+    "amount": 4295.88
+}

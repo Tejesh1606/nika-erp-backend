@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Parker, Maxwell and Atkins",
+    "invoice_number": "INV-41293",
+    "date": "2025-09-13",
+    "items": [
+        {
+            "description": "Managed full-range solution",
+            "quantity": 4,
+            "unit_price": 345.0,
+            "total_price": 1380.0
+        },
+        {
+            "description": "Public-key demand-driven migration",
+            "quantity": 2,
+            "unit_price": 311.79,
+            "total_price": 623.58
+        },
+        {
+            "description": "Programmable dedicated success",
+            "quantity": 5,
+            "unit_price": 215.71,
+            "total_price": 1078.55
+        },
+        {
+            "description": "Face-to-face discrete projection",
+            "quantity": 6,
+            "unit_price": 143.02,
+            "total_price": 858.12
+        }
+    ],
+    "amount": 3940.25
+}

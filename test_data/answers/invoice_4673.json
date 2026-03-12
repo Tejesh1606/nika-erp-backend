@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gibson, Smith and Dixon",
+    "invoice_number": "INV-50602",
+    "date": "2025-10-27",
+    "items": [
+        {
+            "description": "Advanced methodical complexity",
+            "quantity": 7,
+            "unit_price": 452.85,
+            "total_price": 3169.95
+        },
+        {
+            "description": "Open-source system-worthy software",
+            "quantity": 2,
+            "unit_price": 150.44,
+            "total_price": 300.88
+        }
+    ],
+    "amount": 3470.83
+}

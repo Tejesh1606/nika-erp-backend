@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Pace Inc",
+    "invoice_number": "INV-95593",
+    "date": "2025-10-01",
+    "items": [
+        {
+            "description": "Optional local capacity",
+            "quantity": 3,
+            "unit_price": 498.78,
+            "total_price": 1496.34
+        },
+        {
+            "description": "Ameliorated mission-critical help-desk",
+            "quantity": 2,
+            "unit_price": 240.0,
+            "total_price": 480.0
+        },
+        {
+            "description": "Reduced bi-directional focus group",
+            "quantity": 1,
+            "unit_price": 88.92,
+            "total_price": 88.92
+        }
+    ],
+    "amount": 2065.26
+}

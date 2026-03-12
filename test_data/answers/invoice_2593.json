@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Green, Moore and Brown",
+    "invoice_number": "INV-51844",
+    "date": "2025-05-24",
+    "items": [
+        {
+            "description": "Compatible interactive approach",
+            "quantity": 6,
+            "unit_price": 403.67,
+            "total_price": 2422.02
+        }
+    ],
+    "amount": 2422.02
+}

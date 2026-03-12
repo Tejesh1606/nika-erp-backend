@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Lowe-Dixon",
+    "invoice_number": "INV-32241",
+    "date": "2025-11-19",
+    "items": [
+        {
+            "description": "Configurable executive migration",
+            "quantity": 1,
+            "unit_price": 320.21,
+            "total_price": 320.21
+        },
+        {
+            "description": "Switchable scalable process improvement",
+            "quantity": 4,
+            "unit_price": 29.24,
+            "total_price": 116.96
+        }
+    ],
+    "amount": 437.17
+}

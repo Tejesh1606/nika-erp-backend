@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lawson PLC",
+    "invoice_number": "INV-94240",
+    "date": "2025-03-18",
+    "items": [
+        {
+            "description": "Streamlined content-based process improvement",
+            "quantity": 3,
+            "unit_price": 47.8,
+            "total_price": 143.4
+        },
+        {
+            "description": "Synergistic high-level throughput",
+            "quantity": 5,
+            "unit_price": 168.3,
+            "total_price": 841.5
+        },
+        {
+            "description": "Polarized client-driven model",
+            "quantity": 10,
+            "unit_price": 321.0,
+            "total_price": 3210.0
+        }
+    ],
+    "amount": 4194.9
+}

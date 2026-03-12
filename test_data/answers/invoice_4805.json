@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Yates, Bentley and Wilson",
+    "invoice_number": "INV-87688",
+    "date": "2025-05-17",
+    "items": [
+        {
+            "description": "Cloned mission-critical hub",
+            "quantity": 7,
+            "unit_price": 421.62,
+            "total_price": 2951.34
+        },
+        {
+            "description": "Compatible maximized benchmark",
+            "quantity": 10,
+            "unit_price": 193.85,
+            "total_price": 1938.5
+        },
+        {
+            "description": "Fully-configurable holistic solution",
+            "quantity": 9,
+            "unit_price": 479.6,
+            "total_price": 4316.4
+        }
+    ],
+    "amount": 9206.24
+}

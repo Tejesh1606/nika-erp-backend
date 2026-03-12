@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Patel LLC",
+    "invoice_number": "INV-15020",
+    "date": "2025-11-12",
+    "items": [
+        {
+            "description": "Balanced contextually-based circuit",
+            "quantity": 9,
+            "unit_price": 390.86,
+            "total_price": 3517.74
+        },
+        {
+            "description": "Realigned methodical synergy",
+            "quantity": 6,
+            "unit_price": 217.38,
+            "total_price": 1304.28
+        },
+        {
+            "description": "Future-proofed 24/7 secured line",
+            "quantity": 6,
+            "unit_price": 340.26,
+            "total_price": 2041.56
+        },
+        {
+            "description": "Progressive optimizing matrix",
+            "quantity": 7,
+            "unit_price": 265.18,
+            "total_price": 1856.26
+        }
+    ],
+    "amount": 8719.84
+}

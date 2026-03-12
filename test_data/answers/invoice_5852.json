@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Shaffer, Carr and Harper",
+    "invoice_number": "INV-25030",
+    "date": "2025-11-06",
+    "items": [
+        {
+            "description": "Digitized uniform strategy",
+            "quantity": 1,
+            "unit_price": 339.86,
+            "total_price": 339.86
+        }
+    ],
+    "amount": 339.86
+}

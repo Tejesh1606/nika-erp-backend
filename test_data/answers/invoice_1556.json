@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Blankenship-Davis",
+    "invoice_number": "INV-43413",
+    "date": "2025-07-22",
+    "items": [
+        {
+            "description": "Focused encompassing hierarchy",
+            "quantity": 2,
+            "unit_price": 171.46,
+            "total_price": 342.92
+        },
+        {
+            "description": "Fundamental mission-critical complexity",
+            "quantity": 8,
+            "unit_price": 472.28,
+            "total_price": 3778.24
+        },
+        {
+            "description": "Down-sized directional paradigm",
+            "quantity": 10,
+            "unit_price": 193.53,
+            "total_price": 1935.3
+        },
+        {
+            "description": "Stand-alone multi-state policy",
+            "quantity": 9,
+            "unit_price": 482.87,
+            "total_price": 4345.83
+        }
+    ],
+    "amount": 10402.29
+}

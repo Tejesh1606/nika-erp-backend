@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Rice-Garcia",
+    "invoice_number": "INV-91307",
+    "date": "2025-08-09",
+    "items": [
+        {
+            "description": "Face-to-face heuristic functionalities",
+            "quantity": 6,
+            "unit_price": 489.0,
+            "total_price": 2934.0
+        },
+        {
+            "description": "Assimilated attitude-oriented paradigm",
+            "quantity": 5,
+            "unit_price": 291.84,
+            "total_price": 1459.2
+        }
+    ],
+    "amount": 4393.2
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Allen-Lowe",
+    "invoice_number": "INV-30070",
+    "date": "2025-07-12",
+    "items": [
+        {
+            "description": "Synergized full-range circuit",
+            "quantity": 8,
+            "unit_price": 193.47,
+            "total_price": 1547.76
+        }
+    ],
+    "amount": 1547.76
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Horton-Chapman",
+    "invoice_number": "INV-78941",
+    "date": "2025-09-25",
+    "items": [
+        {
+            "description": "Persistent optimizing functionalities",
+            "quantity": 5,
+            "unit_price": 359.73,
+            "total_price": 1798.65
+        },
+        {
+            "description": "Extended asymmetric challenge",
+            "quantity": 8,
+            "unit_price": 163.21,
+            "total_price": 1305.68
+        },
+        {
+            "description": "Team-oriented 24/7 frame",
+            "quantity": 10,
+            "unit_price": 95.12,
+            "total_price": 951.2
+        }
+    ],
+    "amount": 4055.53
+}

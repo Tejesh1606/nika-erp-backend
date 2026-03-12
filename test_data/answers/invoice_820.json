@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Bishop LLC",
+    "invoice_number": "INV-99404",
+    "date": "2025-07-20",
+    "items": [
+        {
+            "description": "Sharable empowering system engine",
+            "quantity": 1,
+            "unit_price": 384.48,
+            "total_price": 384.48
+        }
+    ],
+    "amount": 384.48
+}

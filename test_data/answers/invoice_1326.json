@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gilmore Inc",
+    "invoice_number": "INV-52538",
+    "date": "2026-01-04",
+    "items": [
+        {
+            "description": "Upgradable incremental collaboration",
+            "quantity": 3,
+            "unit_price": 91.77,
+            "total_price": 275.31
+        }
+    ],
+    "amount": 275.31
+}

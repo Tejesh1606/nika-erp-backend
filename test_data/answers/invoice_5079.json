@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Barrett LLC",
+    "invoice_number": "INV-93230",
+    "date": "2025-05-19",
+    "items": [
+        {
+            "description": "De-engineered 6thgeneration attitude",
+            "quantity": 5,
+            "unit_price": 462.28,
+            "total_price": 2311.4
+        }
+    ],
+    "amount": 2311.4
+}

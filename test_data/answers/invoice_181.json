@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Daniels, Vance and York",
+    "invoice_number": "INV-93584",
+    "date": "2025-05-15",
+    "items": [
+        {
+            "description": "Multi-lateral multimedia definition",
+            "quantity": 4,
+            "unit_price": 315.44,
+            "total_price": 1261.76
+        },
+        {
+            "description": "Decentralized dedicated utilization",
+            "quantity": 1,
+            "unit_price": 335.96,
+            "total_price": 335.96
+        },
+        {
+            "description": "Devolved disintermediate utilization",
+            "quantity": 1,
+            "unit_price": 149.15,
+            "total_price": 149.15
+        }
+    ],
+    "amount": 1746.87
+}

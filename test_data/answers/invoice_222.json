@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Cox, Stark and Rodriguez",
+    "invoice_number": "INV-81781",
+    "date": "2026-02-22",
+    "items": [
+        {
+            "description": "Profit-focused dedicated orchestration",
+            "quantity": 5,
+            "unit_price": 106.96,
+            "total_price": 534.8
+        },
+        {
+            "description": "Public-key coherent concept",
+            "quantity": 4,
+            "unit_price": 116.05,
+            "total_price": 464.2
+        },
+        {
+            "description": "Inverse multi-state intranet",
+            "quantity": 4,
+            "unit_price": 310.74,
+            "total_price": 1242.96
+        },
+        {
+            "description": "Customizable systemic database",
+            "quantity": 3,
+            "unit_price": 468.35,
+            "total_price": 1405.05
+        }
+    ],
+    "amount": 3647.01
+}

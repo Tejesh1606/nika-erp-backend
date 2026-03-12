@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Torres-Taylor",
+    "invoice_number": "INV-25760",
+    "date": "2025-08-31",
+    "items": [
+        {
+            "description": "Multi-channeled multi-state migration",
+            "quantity": 9,
+            "unit_price": 17.06,
+            "total_price": 153.54
+        },
+        {
+            "description": "User-centric discrete orchestration",
+            "quantity": 7,
+            "unit_price": 386.49,
+            "total_price": 2705.43
+        },
+        {
+            "description": "Organic motivating hub",
+            "quantity": 1,
+            "unit_price": 309.32,
+            "total_price": 309.32
+        }
+    ],
+    "amount": 3168.29
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Pierce-Taylor",
+    "invoice_number": "INV-21013",
+    "date": "2025-07-01",
+    "items": [
+        {
+            "description": "Organic multi-state help-desk",
+            "quantity": 2,
+            "unit_price": 111.63,
+            "total_price": 223.26
+        },
+        {
+            "description": "Focused optimal analyzer",
+            "quantity": 6,
+            "unit_price": 262.8,
+            "total_price": 1576.8
+        },
+        {
+            "description": "Persistent multimedia process improvement",
+            "quantity": 9,
+            "unit_price": 187.38,
+            "total_price": 1686.42
+        }
+    ],
+    "amount": 3486.48
+}

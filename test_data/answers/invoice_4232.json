@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Morales-Wright",
+    "invoice_number": "INV-89622",
+    "date": "2025-03-22",
+    "items": [
+        {
+            "description": "Visionary 6thgeneration superstructure",
+            "quantity": 7,
+            "unit_price": 40.43,
+            "total_price": 283.01
+        },
+        {
+            "description": "Automated empowering help-desk",
+            "quantity": 10,
+            "unit_price": 173.47,
+            "total_price": 1734.7
+        },
+        {
+            "description": "Extended optimizing strategy",
+            "quantity": 9,
+            "unit_price": 435.96,
+            "total_price": 3923.64
+        }
+    ],
+    "amount": 5941.35
+}

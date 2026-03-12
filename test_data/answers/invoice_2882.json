@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Montes LLC",
+    "invoice_number": "INV-20007",
+    "date": "2025-09-21",
+    "items": [
+        {
+            "description": "Synergistic content-based access",
+            "quantity": 3,
+            "unit_price": 199.75,
+            "total_price": 599.25
+        }
+    ],
+    "amount": 599.25
+}

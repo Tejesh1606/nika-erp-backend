@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Douglas PLC",
+    "invoice_number": "INV-30715",
+    "date": "2025-07-10",
+    "items": [
+        {
+            "description": "Cloned next generation monitoring",
+            "quantity": 6,
+            "unit_price": 240.44,
+            "total_price": 1442.64
+        },
+        {
+            "description": "Up-sized bottom-line contingency",
+            "quantity": 10,
+            "unit_price": 294.26,
+            "total_price": 2942.6
+        },
+        {
+            "description": "Intuitive client-server superstructure",
+            "quantity": 1,
+            "unit_price": 312.86,
+            "total_price": 312.86
+        },
+        {
+            "description": "Assimilated well-modulated functionalities",
+            "quantity": 9,
+            "unit_price": 168.75,
+            "total_price": 1518.75
+        }
+    ],
+    "amount": 6216.85
+}

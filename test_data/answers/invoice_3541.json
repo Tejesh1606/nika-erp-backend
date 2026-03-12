@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Shelton, Petty and Johnson",
+    "invoice_number": "INV-58733",
+    "date": "2026-01-09",
+    "items": [
+        {
+            "description": "Virtual neutral customer loyalty",
+            "quantity": 7,
+            "unit_price": 129.77,
+            "total_price": 908.39
+        }
+    ],
+    "amount": 908.39
+}

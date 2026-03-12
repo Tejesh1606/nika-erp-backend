@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Duke-Schultz",
+    "invoice_number": "INV-54527",
+    "date": "2025-08-31",
+    "items": [
+        {
+            "description": "Versatile bandwidth-monitored moderator",
+            "quantity": 6,
+            "unit_price": 125.55,
+            "total_price": 753.3
+        },
+        {
+            "description": "Function-based 3rdgeneration portal",
+            "quantity": 9,
+            "unit_price": 396.67,
+            "total_price": 3570.03
+        }
+    ],
+    "amount": 4323.33
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Maddox Ltd",
+    "invoice_number": "INV-58866",
+    "date": "2025-04-07",
+    "items": [
+        {
+            "description": "Grass-roots intangible projection",
+            "quantity": 8,
+            "unit_price": 243.05,
+            "total_price": 1944.4
+        },
+        {
+            "description": "Ameliorated exuding throughput",
+            "quantity": 5,
+            "unit_price": 409.39,
+            "total_price": 2046.95
+        },
+        {
+            "description": "Automated bottom-line framework",
+            "quantity": 9,
+            "unit_price": 172.83,
+            "total_price": 1555.47
+        }
+    ],
+    "amount": 5546.82
+}

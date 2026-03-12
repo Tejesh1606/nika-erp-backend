@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Pacheco Group",
+    "invoice_number": "INV-17151",
+    "date": "2025-11-30",
+    "items": [
+        {
+            "description": "Re-contextualized demand-driven archive",
+            "quantity": 8,
+            "unit_price": 160.12,
+            "total_price": 1280.96
+        },
+        {
+            "description": "Networked value-added focus group",
+            "quantity": 9,
+            "unit_price": 416.57,
+            "total_price": 3749.13
+        },
+        {
+            "description": "De-engineered well-modulated info-mediaries",
+            "quantity": 6,
+            "unit_price": 167.79,
+            "total_price": 1006.74
+        },
+        {
+            "description": "Open-architected discrete emulation",
+            "quantity": 9,
+            "unit_price": 410.99,
+            "total_price": 3698.91
+        }
+    ],
+    "amount": 9735.74
+}

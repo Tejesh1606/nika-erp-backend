@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Collins-Rodriguez",
+    "invoice_number": "INV-62861",
+    "date": "2025-08-27",
+    "items": [
+        {
+            "description": "Progressive radical interface",
+            "quantity": 7,
+            "unit_price": 130.79,
+            "total_price": 915.53
+        }
+    ],
+    "amount": 915.53
+}

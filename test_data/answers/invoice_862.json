@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jones, Valenzuela and Phillips",
+    "invoice_number": "INV-75767",
+    "date": "2025-09-24",
+    "items": [
+        {
+            "description": "Quality-focused secondary artificial intelligence",
+            "quantity": 9,
+            "unit_price": 369.67,
+            "total_price": 3327.03
+        },
+        {
+            "description": "Grass-roots discrete attitude",
+            "quantity": 8,
+            "unit_price": 184.02,
+            "total_price": 1472.16
+        },
+        {
+            "description": "Decentralized asynchronous hierarchy",
+            "quantity": 3,
+            "unit_price": 381.4,
+            "total_price": 1144.2
+        }
+    ],
+    "amount": 5943.39
+}

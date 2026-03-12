@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Zimmerman-Mills",
+    "invoice_number": "INV-51599",
+    "date": "2025-04-06",
+    "items": [
+        {
+            "description": "Organized object-oriented moratorium",
+            "quantity": 2,
+            "unit_price": 116.51,
+            "total_price": 233.02
+        },
+        {
+            "description": "Exclusive solution-oriented middleware",
+            "quantity": 8,
+            "unit_price": 428.01,
+            "total_price": 3424.08
+        }
+    ],
+    "amount": 3657.1
+}

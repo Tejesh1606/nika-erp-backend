@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Cobb PLC",
+    "invoice_number": "INV-87060",
+    "date": "2025-09-07",
+    "items": [
+        {
+            "description": "Virtual mobile policy",
+            "quantity": 7,
+            "unit_price": 378.89,
+            "total_price": 2652.23
+        },
+        {
+            "description": "Synergized grid-enabled task-force",
+            "quantity": 6,
+            "unit_price": 491.91,
+            "total_price": 2951.46
+        },
+        {
+            "description": "Balanced bottom-line software",
+            "quantity": 4,
+            "unit_price": 450.98,
+            "total_price": 1803.92
+        },
+        {
+            "description": "Innovative homogeneous knowledge user",
+            "quantity": 1,
+            "unit_price": 197.03,
+            "total_price": 197.03
+        }
+    ],
+    "amount": 7604.64
+}

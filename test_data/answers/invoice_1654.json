@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Robinson Inc",
+    "invoice_number": "INV-14799",
+    "date": "2025-06-16",
+    "items": [
+        {
+            "description": "Advanced optimizing installation",
+            "quantity": 1,
+            "unit_price": 220.06,
+            "total_price": 220.06
+        }
+    ],
+    "amount": 220.06
+}

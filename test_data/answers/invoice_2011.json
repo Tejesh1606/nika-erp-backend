@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Santos, Shelton and Williams",
+    "invoice_number": "INV-75171",
+    "date": "2025-05-23",
+    "items": [
+        {
+            "description": "Stand-alone cohesive project",
+            "quantity": 4,
+            "unit_price": 55.13,
+            "total_price": 220.52
+        },
+        {
+            "description": "Synergistic 4thgeneration solution",
+            "quantity": 1,
+            "unit_price": 220.46,
+            "total_price": 220.46
+        },
+        {
+            "description": "Progressive incremental utilization",
+            "quantity": 4,
+            "unit_price": 164.12,
+            "total_price": 656.48
+        }
+    ],
+    "amount": 1097.46
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Pearson-Charles",
+    "invoice_number": "INV-72974",
+    "date": "2025-07-16",
+    "items": [
+        {
+            "description": "Synergistic local moderator",
+            "quantity": 8,
+            "unit_price": 235.03,
+            "total_price": 1880.24
+        }
+    ],
+    "amount": 1880.24
+}

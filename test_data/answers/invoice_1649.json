@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Weeks, Burton and Madden",
+    "invoice_number": "INV-10441",
+    "date": "2025-05-05",
+    "items": [
+        {
+            "description": "Ameliorated fresh-thinking throughput",
+            "quantity": 6,
+            "unit_price": 130.07,
+            "total_price": 780.42
+        }
+    ],
+    "amount": 780.42
+}

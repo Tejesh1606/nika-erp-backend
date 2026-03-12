@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Johnson, Morales and Higgins",
+    "invoice_number": "INV-84407",
+    "date": "2025-10-28",
+    "items": [
+        {
+            "description": "Future-proofed upward-trending paradigm",
+            "quantity": 3,
+            "unit_price": 106.71,
+            "total_price": 320.13
+        }
+    ],
+    "amount": 320.13
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Greer Inc",
+    "invoice_number": "INV-64179",
+    "date": "2025-04-19",
+    "items": [
+        {
+            "description": "Mandatory demand-driven knowledge user",
+            "quantity": 2,
+            "unit_price": 479.58,
+            "total_price": 959.16
+        },
+        {
+            "description": "Digitized client-server success",
+            "quantity": 2,
+            "unit_price": 119.14,
+            "total_price": 238.28
+        },
+        {
+            "description": "Stand-alone zero tolerance capability",
+            "quantity": 10,
+            "unit_price": 349.04,
+            "total_price": 3490.4
+        },
+        {
+            "description": "Multi-layered fresh-thinking installation",
+            "quantity": 6,
+            "unit_price": 267.53,
+            "total_price": 1605.18
+        }
+    ],
+    "amount": 6293.02
+}

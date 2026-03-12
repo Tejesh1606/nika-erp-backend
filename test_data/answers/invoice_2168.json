@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Evans PLC",
+    "invoice_number": "INV-34580",
+    "date": "2025-11-12",
+    "items": [
+        {
+            "description": "Robust local artificial intelligence",
+            "quantity": 10,
+            "unit_price": 285.01,
+            "total_price": 2850.1
+        }
+    ],
+    "amount": 2850.1
+}

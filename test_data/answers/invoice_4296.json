@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Daniels Group",
+    "invoice_number": "INV-10644",
+    "date": "2025-05-22",
+    "items": [
+        {
+            "description": "Function-based 24hour capability",
+            "quantity": 2,
+            "unit_price": 352.81,
+            "total_price": 705.62
+        },
+        {
+            "description": "Streamlined background methodology",
+            "quantity": 4,
+            "unit_price": 414.71,
+            "total_price": 1658.84
+        },
+        {
+            "description": "Open-architected background Local Area Network",
+            "quantity": 6,
+            "unit_price": 168.02,
+            "total_price": 1008.12
+        }
+    ],
+    "amount": 3372.58
+}

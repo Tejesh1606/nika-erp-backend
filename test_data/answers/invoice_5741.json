@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Thomas Ltd",
+    "invoice_number": "INV-96903",
+    "date": "2025-11-30",
+    "items": [
+        {
+            "description": "Quality-focused system-worthy definition",
+            "quantity": 3,
+            "unit_price": 464.84,
+            "total_price": 1394.52
+        },
+        {
+            "description": "Face-to-face mission-critical interface",
+            "quantity": 2,
+            "unit_price": 237.57,
+            "total_price": 475.14
+        },
+        {
+            "description": "Vision-oriented zero administration concept",
+            "quantity": 3,
+            "unit_price": 148.63,
+            "total_price": 445.89
+        },
+        {
+            "description": "Stand-alone upward-trending circuit",
+            "quantity": 4,
+            "unit_price": 398.71,
+            "total_price": 1594.84
+        }
+    ],
+    "amount": 3910.39
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Parks, Davidson and Mccarthy",
+    "invoice_number": "INV-63430",
+    "date": "2025-10-11",
+    "items": [
+        {
+            "description": "Re-contextualized optimal application",
+            "quantity": 6,
+            "unit_price": 157.36,
+            "total_price": 944.16
+        }
+    ],
+    "amount": 944.16
+}

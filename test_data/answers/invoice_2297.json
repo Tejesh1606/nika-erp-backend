@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Waters-Green",
+    "invoice_number": "INV-55462",
+    "date": "2026-01-09",
+    "items": [
+        {
+            "description": "Assimilated systemic moderator",
+            "quantity": 1,
+            "unit_price": 30.43,
+            "total_price": 30.43
+        },
+        {
+            "description": "Robust zero administration circuit",
+            "quantity": 9,
+            "unit_price": 346.33,
+            "total_price": 3116.97
+        },
+        {
+            "description": "Phased dedicated orchestration",
+            "quantity": 1,
+            "unit_price": 102.56,
+            "total_price": 102.56
+        },
+        {
+            "description": "Operative value-added artificial intelligence",
+            "quantity": 4,
+            "unit_price": 204.65,
+            "total_price": 818.6
+        }
+    ],
+    "amount": 4068.56
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Grimes-Wilson",
+    "invoice_number": "INV-41056",
+    "date": "2025-05-29",
+    "items": [
+        {
+            "description": "User-centric optimizing solution",
+            "quantity": 2,
+            "unit_price": 150.22,
+            "total_price": 300.44
+        },
+        {
+            "description": "Monitored tertiary pricing structure",
+            "quantity": 6,
+            "unit_price": 416.33,
+            "total_price": 2497.98
+        },
+        {
+            "description": "Self-enabling interactive concept",
+            "quantity": 3,
+            "unit_price": 474.8,
+            "total_price": 1424.4
+        }
+    ],
+    "amount": 4222.82
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Nichols-Alexander",
+    "invoice_number": "INV-64945",
+    "date": "2026-01-05",
+    "items": [
+        {
+            "description": "Multi-lateral uniform infrastructure",
+            "quantity": 9,
+            "unit_price": 314.98,
+            "total_price": 2834.82
+        },
+        {
+            "description": "User-friendly bandwidth-monitored challenge",
+            "quantity": 10,
+            "unit_price": 79.39,
+            "total_price": 793.9
+        },
+        {
+            "description": "Progressive analyzing installation",
+            "quantity": 10,
+            "unit_price": 319.56,
+            "total_price": 3195.6
+        }
+    ],
+    "amount": 6824.32
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Martin, Hernandez and Nichols",
+    "invoice_number": "INV-49390",
+    "date": "2025-09-02",
+    "items": [
+        {
+            "description": "Virtual impactful info-mediaries",
+            "quantity": 6,
+            "unit_price": 382.39,
+            "total_price": 2294.34
+        }
+    ],
+    "amount": 2294.34
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Donovan, Brock and Whitaker",
+    "invoice_number": "INV-17184",
+    "date": "2026-02-25",
+    "items": [
+        {
+            "description": "Reactive secondary system engine",
+            "quantity": 10,
+            "unit_price": 169.17,
+            "total_price": 1691.7
+        },
+        {
+            "description": "Reduced clear-thinking capacity",
+            "quantity": 3,
+            "unit_price": 197.21,
+            "total_price": 591.63
+        },
+        {
+            "description": "Seamless motivating customer loyalty",
+            "quantity": 10,
+            "unit_price": 98.19,
+            "total_price": 981.9
+        }
+    ],
+    "amount": 3265.23
+}

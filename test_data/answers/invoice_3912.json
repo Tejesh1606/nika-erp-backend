@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Bailey, Hartman and Schultz",
+    "invoice_number": "INV-52159",
+    "date": "2025-08-13",
+    "items": [
+        {
+            "description": "Multi-layered disintermediate Graphical User Interface",
+            "quantity": 4,
+            "unit_price": 171.7,
+            "total_price": 686.8
+        }
+    ],
+    "amount": 686.8
+}

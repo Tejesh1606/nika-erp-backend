@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Carr-Huffman",
+    "invoice_number": "INV-27125",
+    "date": "2025-09-12",
+    "items": [
+        {
+            "description": "Pre-emptive bifurcated installation",
+            "quantity": 10,
+            "unit_price": 43.72,
+            "total_price": 437.2
+        }
+    ],
+    "amount": 437.2
+}

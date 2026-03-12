@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Gilbert-Fox",
+    "invoice_number": "INV-90312",
+    "date": "2025-06-27",
+    "items": [
+        {
+            "description": "Devolved asymmetric Local Area Network",
+            "quantity": 4,
+            "unit_price": 469.73,
+            "total_price": 1878.92
+        },
+        {
+            "description": "Robust empowering complexity",
+            "quantity": 2,
+            "unit_price": 392.44,
+            "total_price": 784.88
+        },
+        {
+            "description": "Stand-alone zero-defect standardization",
+            "quantity": 6,
+            "unit_price": 470.06,
+            "total_price": 2820.36
+        }
+    ],
+    "amount": 5484.16
+}

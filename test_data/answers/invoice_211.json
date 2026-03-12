@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Woods-Gonzalez",
+    "invoice_number": "INV-47649",
+    "date": "2025-07-11",
+    "items": [
+        {
+            "description": "Horizontal secondary approach",
+            "quantity": 3,
+            "unit_price": 74.36,
+            "total_price": 223.08
+        },
+        {
+            "description": "Visionary background projection",
+            "quantity": 2,
+            "unit_price": 25.37,
+            "total_price": 50.74
+        }
+    ],
+    "amount": 273.82
+}

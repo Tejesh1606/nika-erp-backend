@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Moss-Garcia",
+    "invoice_number": "INV-30161",
+    "date": "2025-05-13",
+    "items": [
+        {
+            "description": "Distributed needs-based projection",
+            "quantity": 4,
+            "unit_price": 159.31,
+            "total_price": 637.24
+        },
+        {
+            "description": "Front-line solution-oriented strategy",
+            "quantity": 2,
+            "unit_price": 380.65,
+            "total_price": 761.3
+        },
+        {
+            "description": "Self-enabling 4thgeneration hierarchy",
+            "quantity": 7,
+            "unit_price": 185.12,
+            "total_price": 1295.84
+        },
+        {
+            "description": "Networked explicit forecast",
+            "quantity": 3,
+            "unit_price": 61.18,
+            "total_price": 183.54
+        }
+    ],
+    "amount": 2877.92
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Abbott Ltd",
+    "invoice_number": "INV-49537",
+    "date": "2025-05-27",
+    "items": [
+        {
+            "description": "Programmable real-time migration",
+            "quantity": 8,
+            "unit_price": 499.43,
+            "total_price": 3995.44
+        },
+        {
+            "description": "Ergonomic value-added infrastructure",
+            "quantity": 1,
+            "unit_price": 454.3,
+            "total_price": 454.3
+        }
+    ],
+    "amount": 4449.74
+}

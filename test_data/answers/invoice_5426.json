@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jenkins-Bennett",
+    "invoice_number": "INV-24881",
+    "date": "2025-11-11",
+    "items": [
+        {
+            "description": "Exclusive full-range framework",
+            "quantity": 6,
+            "unit_price": 451.17,
+            "total_price": 2707.02
+        },
+        {
+            "description": "Self-enabling fresh-thinking initiative",
+            "quantity": 1,
+            "unit_price": 311.1,
+            "total_price": 311.1
+        }
+    ],
+    "amount": 3018.12
+}

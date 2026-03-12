@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hoffman, Jenkins and Johnson",
+    "invoice_number": "INV-96137",
+    "date": "2025-10-09",
+    "items": [
+        {
+            "description": "Enhanced discrete circuit",
+            "quantity": 7,
+            "unit_price": 473.01,
+            "total_price": 3311.07
+        },
+        {
+            "description": "Front-line holistic attitude",
+            "quantity": 8,
+            "unit_price": 272.62,
+            "total_price": 2180.96
+        },
+        {
+            "description": "Compatible dynamic protocol",
+            "quantity": 4,
+            "unit_price": 379.98,
+            "total_price": 1519.92
+        },
+        {
+            "description": "Reduced full-range strategy",
+            "quantity": 7,
+            "unit_price": 242.35,
+            "total_price": 1696.45
+        }
+    ],
+    "amount": 8708.4
+}

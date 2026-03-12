@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Lynch, Barnett and Acosta",
+    "invoice_number": "INV-88178",
+    "date": "2025-06-03",
+    "items": [
+        {
+            "description": "Down-sized asynchronous encryption",
+            "quantity": 8,
+            "unit_price": 390.24,
+            "total_price": 3121.92
+        },
+        {
+            "description": "Multi-channeled object-oriented installation",
+            "quantity": 2,
+            "unit_price": 316.05,
+            "total_price": 632.1
+        }
+    ],
+    "amount": 3754.02
+}

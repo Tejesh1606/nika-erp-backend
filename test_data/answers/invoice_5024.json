@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gallegos, Adams and Baker",
+    "invoice_number": "INV-37849",
+    "date": "2025-11-13",
+    "items": [
+        {
+            "description": "Virtual responsive Graphical User Interface",
+            "quantity": 9,
+            "unit_price": 50.29,
+            "total_price": 452.61
+        }
+    ],
+    "amount": 452.61
+}

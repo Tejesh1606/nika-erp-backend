@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Martin-Ewing",
+    "invoice_number": "INV-49221",
+    "date": "2025-10-25",
+    "items": [
+        {
+            "description": "Mandatory motivating migration",
+            "quantity": 5,
+            "unit_price": 52.57,
+            "total_price": 262.85
+        }
+    ],
+    "amount": 262.85
+}

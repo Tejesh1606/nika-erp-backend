@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Johnson-Johnson",
+    "invoice_number": "INV-79890",
+    "date": "2026-01-15",
+    "items": [
+        {
+            "description": "Phased global Graphical User Interface",
+            "quantity": 10,
+            "unit_price": 217.21,
+            "total_price": 2172.1
+        },
+        {
+            "description": "Balanced fresh-thinking Internet solution",
+            "quantity": 4,
+            "unit_price": 222.64,
+            "total_price": 890.56
+        },
+        {
+            "description": "Diverse empowering frame",
+            "quantity": 6,
+            "unit_price": 237.53,
+            "total_price": 1425.18
+        }
+    ],
+    "amount": 4487.84
+}

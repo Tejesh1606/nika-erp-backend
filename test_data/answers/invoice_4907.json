@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Duncan-Beck",
+    "invoice_number": "INV-28271",
+    "date": "2025-09-02",
+    "items": [
+        {
+            "description": "Switchable 24hour synergy",
+            "quantity": 5,
+            "unit_price": 411.1,
+            "total_price": 2055.5
+        },
+        {
+            "description": "Enhanced full-range capacity",
+            "quantity": 10,
+            "unit_price": 108.23,
+            "total_price": 1082.3
+        }
+    ],
+    "amount": 3137.8
+}

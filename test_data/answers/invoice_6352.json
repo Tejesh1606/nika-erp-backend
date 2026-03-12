@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Allison, Torres and Garza",
+    "invoice_number": "INV-47059",
+    "date": "2025-09-06",
+    "items": [
+        {
+            "description": "Total executive emulation",
+            "quantity": 9,
+            "unit_price": 234.87,
+            "total_price": 2113.83
+        },
+        {
+            "description": "Business-focused discrete frame",
+            "quantity": 2,
+            "unit_price": 494.8,
+            "total_price": 989.6
+        },
+        {
+            "description": "Stand-alone client-server Internet solution",
+            "quantity": 8,
+            "unit_price": 497.26,
+            "total_price": 3978.08
+        },
+        {
+            "description": "Persistent neutral synergy",
+            "quantity": 1,
+            "unit_price": 100.66,
+            "total_price": 100.66
+        }
+    ],
+    "amount": 7182.17
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith PLC",
+    "invoice_number": "INV-49883",
+    "date": "2025-11-24",
+    "items": [
+        {
+            "description": "Configurable user-facing hardware",
+            "quantity": 8,
+            "unit_price": 73.57,
+            "total_price": 588.56
+        }
+    ],
+    "amount": 588.56
+}

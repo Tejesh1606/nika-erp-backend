@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hess LLC",
+    "invoice_number": "INV-19725",
+    "date": "2025-03-16",
+    "items": [
+        {
+            "description": "Distributed logistical artificial intelligence",
+            "quantity": 3,
+            "unit_price": 236.6,
+            "total_price": 709.8
+        },
+        {
+            "description": "Seamless 3rdgeneration help-desk",
+            "quantity": 9,
+            "unit_price": 193.81,
+            "total_price": 1744.29
+        }
+    ],
+    "amount": 2454.09
+}

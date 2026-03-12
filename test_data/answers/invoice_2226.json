@@ -1,0 +1,20 @@
+{
+    "vendor_name": "King Group",
+    "invoice_number": "INV-10347",
+    "date": "2025-03-17",
+    "items": [
+        {
+            "description": "Reduced background info-mediaries",
+            "quantity": 5,
+            "unit_price": 229.78,
+            "total_price": 1148.9
+        },
+        {
+            "description": "Re-contextualized web-enabled support",
+            "quantity": 3,
+            "unit_price": 482.25,
+            "total_price": 1446.75
+        }
+    ],
+    "amount": 2595.65
+}

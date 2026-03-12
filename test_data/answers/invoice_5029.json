@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Miller Ltd",
+    "invoice_number": "INV-36288",
+    "date": "2025-04-24",
+    "items": [
+        {
+            "description": "Grass-roots didactic encoding",
+            "quantity": 3,
+            "unit_price": 111.04,
+            "total_price": 333.12
+        },
+        {
+            "description": "Operative 24hour help-desk",
+            "quantity": 8,
+            "unit_price": 326.3,
+            "total_price": 2610.4
+        },
+        {
+            "description": "Proactive empowering customer loyalty",
+            "quantity": 10,
+            "unit_price": 111.8,
+            "total_price": 1118.0
+        }
+    ],
+    "amount": 4061.52
+}

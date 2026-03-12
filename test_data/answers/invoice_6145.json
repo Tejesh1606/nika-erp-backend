@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Walker LLC",
+    "invoice_number": "INV-84513",
+    "date": "2026-02-01",
+    "items": [
+        {
+            "description": "Profit-focused even-keeled workforce",
+            "quantity": 1,
+            "unit_price": 379.49,
+            "total_price": 379.49
+        },
+        {
+            "description": "Public-key motivating matrix",
+            "quantity": 4,
+            "unit_price": 293.52,
+            "total_price": 1174.08
+        }
+    ],
+    "amount": 1553.57
+}

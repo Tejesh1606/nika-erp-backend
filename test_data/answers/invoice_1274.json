@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Duncan LLC",
+    "invoice_number": "INV-90685",
+    "date": "2025-09-24",
+    "items": [
+        {
+            "description": "Quality-focused dynamic solution",
+            "quantity": 10,
+            "unit_price": 123.78,
+            "total_price": 1237.8
+        },
+        {
+            "description": "Business-focused holistic orchestration",
+            "quantity": 3,
+            "unit_price": 52.42,
+            "total_price": 157.26
+        },
+        {
+            "description": "Phased didactic task-force",
+            "quantity": 1,
+            "unit_price": 484.82,
+            "total_price": 484.82
+        },
+        {
+            "description": "Optional even-keeled synergy",
+            "quantity": 5,
+            "unit_price": 105.99,
+            "total_price": 529.95
+        }
+    ],
+    "amount": 2409.83
+}

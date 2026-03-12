@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Johnson and Sons",
+    "invoice_number": "INV-67708",
+    "date": "2025-11-16",
+    "items": [
+        {
+            "description": "Virtual logistical budgetary management",
+            "quantity": 1,
+            "unit_price": 354.82,
+            "total_price": 354.82
+        }
+    ],
+    "amount": 354.82
+}

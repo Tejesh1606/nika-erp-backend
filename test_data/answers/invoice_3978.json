@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Garrison, Ellis and Bass",
+    "invoice_number": "INV-63645",
+    "date": "2026-02-07",
+    "items": [
+        {
+            "description": "Object-based asynchronous success",
+            "quantity": 3,
+            "unit_price": 487.74,
+            "total_price": 1463.22
+        },
+        {
+            "description": "Front-line needs-based monitoring",
+            "quantity": 5,
+            "unit_price": 464.72,
+            "total_price": 2323.6
+        }
+    ],
+    "amount": 3786.82
+}

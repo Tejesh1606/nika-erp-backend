@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Johnson-Hill",
+    "invoice_number": "INV-45225",
+    "date": "2025-11-20",
+    "items": [
+        {
+            "description": "Function-based zero tolerance projection",
+            "quantity": 1,
+            "unit_price": 157.1,
+            "total_price": 157.1
+        },
+        {
+            "description": "Visionary real-time access",
+            "quantity": 2,
+            "unit_price": 198.38,
+            "total_price": 396.76
+        },
+        {
+            "description": "Decentralized fault-tolerant open system",
+            "quantity": 10,
+            "unit_price": 447.27,
+            "total_price": 4472.7
+        }
+    ],
+    "amount": 5026.56
+}

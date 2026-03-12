@@ -1,0 +1,32 @@
+{
+    "vendor_name": "James Inc",
+    "invoice_number": "INV-42215",
+    "date": "2026-01-31",
+    "items": [
+        {
+            "description": "Programmable national leverage",
+            "quantity": 4,
+            "unit_price": 475.03,
+            "total_price": 1900.12
+        },
+        {
+            "description": "Centralized tertiary Graphic Interface",
+            "quantity": 7,
+            "unit_price": 461.79,
+            "total_price": 3232.53
+        },
+        {
+            "description": "Phased bi-directional Internet solution",
+            "quantity": 2,
+            "unit_price": 337.87,
+            "total_price": 675.74
+        },
+        {
+            "description": "Diverse regional middleware",
+            "quantity": 6,
+            "unit_price": 303.31,
+            "total_price": 1819.86
+        }
+    ],
+    "amount": 7628.25
+}

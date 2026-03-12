@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Fitzgerald Ltd",
+    "invoice_number": "INV-56608",
+    "date": "2026-02-27",
+    "items": [
+        {
+            "description": "Configurable radical process improvement",
+            "quantity": 1,
+            "unit_price": 216.91,
+            "total_price": 216.91
+        }
+    ],
+    "amount": 216.91
+}

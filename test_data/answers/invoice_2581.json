@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Logan-Ramos",
+    "invoice_number": "INV-34109",
+    "date": "2025-07-12",
+    "items": [
+        {
+            "description": "Stand-alone even-keeled circuit",
+            "quantity": 1,
+            "unit_price": 225.34,
+            "total_price": 225.34
+        },
+        {
+            "description": "User-friendly optimal productivity",
+            "quantity": 3,
+            "unit_price": 117.97,
+            "total_price": 353.91
+        },
+        {
+            "description": "Down-sized human-resource standardization",
+            "quantity": 1,
+            "unit_price": 349.72,
+            "total_price": 349.72
+        }
+    ],
+    "amount": 928.97
+}

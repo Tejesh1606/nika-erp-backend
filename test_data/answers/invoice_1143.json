@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Salazar, Miller and Arnold",
+    "invoice_number": "INV-26969",
+    "date": "2025-06-22",
+    "items": [
+        {
+            "description": "Up-sized 6thgeneration benchmark",
+            "quantity": 2,
+            "unit_price": 208.55,
+            "total_price": 417.1
+        },
+        {
+            "description": "Automated modular middleware",
+            "quantity": 3,
+            "unit_price": 380.24,
+            "total_price": 1140.72
+        },
+        {
+            "description": "Face-to-face solution-oriented hardware",
+            "quantity": 4,
+            "unit_price": 73.83,
+            "total_price": 295.32
+        }
+    ],
+    "amount": 1853.14
+}

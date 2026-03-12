@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Johnson, Perkins and Austin",
+    "invoice_number": "INV-19609",
+    "date": "2025-05-02",
+    "items": [
+        {
+            "description": "Extended foreground concept",
+            "quantity": 6,
+            "unit_price": 58.4,
+            "total_price": 350.4
+        },
+        {
+            "description": "Reactive multi-tasking moratorium",
+            "quantity": 4,
+            "unit_price": 54.59,
+            "total_price": 218.36
+        }
+    ],
+    "amount": 568.76
+}

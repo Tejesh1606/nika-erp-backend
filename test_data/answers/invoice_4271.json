@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gentry LLC",
+    "invoice_number": "INV-97157",
+    "date": "2025-08-07",
+    "items": [
+        {
+            "description": "Enhanced hybrid utilization",
+            "quantity": 2,
+            "unit_price": 174.07,
+            "total_price": 348.14
+        },
+        {
+            "description": "Balanced mission-critical ability",
+            "quantity": 10,
+            "unit_price": 54.74,
+            "total_price": 547.4
+        }
+    ],
+    "amount": 895.54
+}

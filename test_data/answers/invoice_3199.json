@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Patterson-Porter",
+    "invoice_number": "INV-73869",
+    "date": "2026-01-01",
+    "items": [
+        {
+            "description": "Public-key real-time website",
+            "quantity": 1,
+            "unit_price": 454.53,
+            "total_price": 454.53
+        }
+    ],
+    "amount": 454.53
+}

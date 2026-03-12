@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Solis-Martinez",
+    "invoice_number": "INV-14363",
+    "date": "2026-01-30",
+    "items": [
+        {
+            "description": "De-engineered full-range approach",
+            "quantity": 7,
+            "unit_price": 109.37,
+            "total_price": 765.59
+        }
+    ],
+    "amount": 765.59
+}

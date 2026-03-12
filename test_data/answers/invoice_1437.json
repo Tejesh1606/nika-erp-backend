@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Morgan-Thompson",
+    "invoice_number": "INV-49746",
+    "date": "2025-04-17",
+    "items": [
+        {
+            "description": "Realigned cohesive collaboration",
+            "quantity": 7,
+            "unit_price": 234.68,
+            "total_price": 1642.76
+        },
+        {
+            "description": "Diverse intangible capability",
+            "quantity": 1,
+            "unit_price": 85.34,
+            "total_price": 85.34
+        },
+        {
+            "description": "Public-key regional installation",
+            "quantity": 6,
+            "unit_price": 133.38,
+            "total_price": 800.28
+        },
+        {
+            "description": "Diverse next generation neural-net",
+            "quantity": 4,
+            "unit_price": 233.36,
+            "total_price": 933.44
+        }
+    ],
+    "amount": 3461.82
+}

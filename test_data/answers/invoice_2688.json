@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith PLC",
+    "invoice_number": "INV-54691",
+    "date": "2025-05-27",
+    "items": [
+        {
+            "description": "Diverse maximized conglomeration",
+            "quantity": 9,
+            "unit_price": 262.21,
+            "total_price": 2359.89
+        },
+        {
+            "description": "Polarized web-enabled info-mediaries",
+            "quantity": 3,
+            "unit_price": 469.73,
+            "total_price": 1409.19
+        },
+        {
+            "description": "Optional optimizing open architecture",
+            "quantity": 1,
+            "unit_price": 206.37,
+            "total_price": 206.37
+        }
+    ],
+    "amount": 3975.45
+}

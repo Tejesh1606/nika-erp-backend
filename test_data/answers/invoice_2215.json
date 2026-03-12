@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Johnson, Arellano and Anderson",
+    "invoice_number": "INV-55212",
+    "date": "2026-01-24",
+    "items": [
+        {
+            "description": "Team-oriented heuristic paradigm",
+            "quantity": 8,
+            "unit_price": 228.47,
+            "total_price": 1827.76
+        },
+        {
+            "description": "Quality-focused grid-enabled budgetary management",
+            "quantity": 5,
+            "unit_price": 195.1,
+            "total_price": 975.5
+        },
+        {
+            "description": "Multi-tiered 5thgeneration capacity",
+            "quantity": 2,
+            "unit_price": 388.81,
+            "total_price": 777.62
+        }
+    ],
+    "amount": 3580.88
+}

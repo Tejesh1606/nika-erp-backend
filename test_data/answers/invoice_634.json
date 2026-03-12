@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Duran PLC",
+    "invoice_number": "INV-32734",
+    "date": "2025-07-17",
+    "items": [
+        {
+            "description": "Cloned bottom-line focus group",
+            "quantity": 2,
+            "unit_price": 279.14,
+            "total_price": 558.28
+        },
+        {
+            "description": "Digitized web-enabled instruction set",
+            "quantity": 10,
+            "unit_price": 18.15,
+            "total_price": 181.5
+        }
+    ],
+    "amount": 739.78
+}

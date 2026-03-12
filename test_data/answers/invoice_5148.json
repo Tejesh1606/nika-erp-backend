@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Thomas and Sons",
+    "invoice_number": "INV-99093",
+    "date": "2025-07-04",
+    "items": [
+        {
+            "description": "De-engineered secondary benchmark",
+            "quantity": 8,
+            "unit_price": 233.46,
+            "total_price": 1867.68
+        },
+        {
+            "description": "Universal optimizing matrices",
+            "quantity": 1,
+            "unit_price": 494.34,
+            "total_price": 494.34
+        },
+        {
+            "description": "Ergonomic multimedia array",
+            "quantity": 10,
+            "unit_price": 66.66,
+            "total_price": 666.6
+        }
+    ],
+    "amount": 3028.62
+}

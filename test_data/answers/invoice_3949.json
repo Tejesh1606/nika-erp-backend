@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Heath Group",
+    "invoice_number": "INV-83358",
+    "date": "2025-10-21",
+    "items": [
+        {
+            "description": "Innovative 6thgeneration open system",
+            "quantity": 4,
+            "unit_price": 447.56,
+            "total_price": 1790.24
+        },
+        {
+            "description": "Front-line intangible synergy",
+            "quantity": 5,
+            "unit_price": 88.31,
+            "total_price": 441.55
+        }
+    ],
+    "amount": 2231.79
+}

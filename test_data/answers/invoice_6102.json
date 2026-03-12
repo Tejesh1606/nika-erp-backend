@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Schwartz-Cole",
+    "invoice_number": "INV-63971",
+    "date": "2025-06-15",
+    "items": [
+        {
+            "description": "Versatile mission-critical budgetary management",
+            "quantity": 8,
+            "unit_price": 265.33,
+            "total_price": 2122.64
+        }
+    ],
+    "amount": 2122.64
+}

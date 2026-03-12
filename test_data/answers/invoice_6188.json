@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hendricks, Rocha and Martinez",
+    "invoice_number": "INV-16513",
+    "date": "2025-12-29",
+    "items": [
+        {
+            "description": "Horizontal mission-critical database",
+            "quantity": 6,
+            "unit_price": 17.34,
+            "total_price": 104.04
+        },
+        {
+            "description": "Ameliorated multi-tasking intranet",
+            "quantity": 2,
+            "unit_price": 207.01,
+            "total_price": 414.02
+        }
+    ],
+    "amount": 518.06
+}

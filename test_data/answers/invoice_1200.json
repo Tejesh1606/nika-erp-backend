@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Fields-Williams",
+    "invoice_number": "INV-68672",
+    "date": "2025-08-15",
+    "items": [
+        {
+            "description": "Face-to-face object-oriented concept",
+            "quantity": 2,
+            "unit_price": 45.18,
+            "total_price": 90.36
+        },
+        {
+            "description": "Public-key demand-driven time-frame",
+            "quantity": 7,
+            "unit_price": 295.19,
+            "total_price": 2066.33
+        },
+        {
+            "description": "Self-enabling bifurcated pricing structure",
+            "quantity": 7,
+            "unit_price": 466.65,
+            "total_price": 3266.55
+        }
+    ],
+    "amount": 5423.24
+}

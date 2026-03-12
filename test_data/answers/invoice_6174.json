@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Valdez Ltd",
+    "invoice_number": "INV-75236",
+    "date": "2025-07-03",
+    "items": [
+        {
+            "description": "User-centric leadingedge model",
+            "quantity": 1,
+            "unit_price": 17.06,
+            "total_price": 17.06
+        },
+        {
+            "description": "Front-line 5thgeneration array",
+            "quantity": 8,
+            "unit_price": 135.34,
+            "total_price": 1082.72
+        },
+        {
+            "description": "Secured well-modulated function",
+            "quantity": 5,
+            "unit_price": 449.16,
+            "total_price": 2245.8
+        }
+    ],
+    "amount": 3345.58
+}

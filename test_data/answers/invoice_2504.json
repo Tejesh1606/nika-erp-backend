@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Fisher, Sanchez and Miranda",
+    "invoice_number": "INV-32061",
+    "date": "2026-02-18",
+    "items": [
+        {
+            "description": "Optimized 4thgeneration support",
+            "quantity": 3,
+            "unit_price": 63.13,
+            "total_price": 189.39
+        },
+        {
+            "description": "Stand-alone high-level success",
+            "quantity": 8,
+            "unit_price": 455.98,
+            "total_price": 3647.84
+        }
+    ],
+    "amount": 3837.23
+}

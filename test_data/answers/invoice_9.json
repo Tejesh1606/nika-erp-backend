@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Morales-Jones",
+    "invoice_number": "INV-84341",
+    "date": "2026-02-12",
+    "items": [
+        {
+            "description": "Universal foreground data-warehouse",
+            "quantity": 6,
+            "unit_price": 272.03,
+            "total_price": 1632.18
+        },
+        {
+            "description": "Streamlined modular infrastructure",
+            "quantity": 1,
+            "unit_price": 180.61,
+            "total_price": 180.61
+        }
+    ],
+    "amount": 1812.79
+}

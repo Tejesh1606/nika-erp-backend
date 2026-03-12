@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wolf Ltd",
+    "invoice_number": "INV-66917",
+    "date": "2025-12-09",
+    "items": [
+        {
+            "description": "Persistent mission-critical concept",
+            "quantity": 7,
+            "unit_price": 247.95,
+            "total_price": 1735.65
+        },
+        {
+            "description": "Versatile empowering framework",
+            "quantity": 4,
+            "unit_price": 14.56,
+            "total_price": 58.24
+        },
+        {
+            "description": "Ergonomic scalable function",
+            "quantity": 3,
+            "unit_price": 405.5,
+            "total_price": 1216.5
+        },
+        {
+            "description": "Exclusive responsive Graphical User Interface",
+            "quantity": 10,
+            "unit_price": 53.57,
+            "total_price": 535.7
+        }
+    ],
+    "amount": 3546.09
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Morris and Sons",
+    "invoice_number": "INV-61745",
+    "date": "2026-03-07",
+    "items": [
+        {
+            "description": "Persevering homogeneous process improvement",
+            "quantity": 6,
+            "unit_price": 18.7,
+            "total_price": 112.2
+        }
+    ],
+    "amount": 112.2
+}

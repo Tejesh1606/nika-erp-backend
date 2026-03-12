@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Morrison Group",
+    "invoice_number": "INV-70028",
+    "date": "2025-12-07",
+    "items": [
+        {
+            "description": "Grass-roots explicit project",
+            "quantity": 9,
+            "unit_price": 16.42,
+            "total_price": 147.78
+        },
+        {
+            "description": "Vision-oriented executive emulation",
+            "quantity": 1,
+            "unit_price": 489.95,
+            "total_price": 489.95
+        }
+    ],
+    "amount": 637.73
+}

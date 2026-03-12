@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Shah LLC",
+    "invoice_number": "INV-74569",
+    "date": "2025-04-23",
+    "items": [
+        {
+            "description": "Cross-platform disintermediate monitoring",
+            "quantity": 8,
+            "unit_price": 397.06,
+            "total_price": 3176.48
+        }
+    ],
+    "amount": 3176.48
+}

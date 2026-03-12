@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gonzalez-Schneider",
+    "invoice_number": "INV-61290",
+    "date": "2025-08-03",
+    "items": [
+        {
+            "description": "Distributed explicit middleware",
+            "quantity": 5,
+            "unit_price": 432.33,
+            "total_price": 2161.65
+        },
+        {
+            "description": "Cloned directional contingency",
+            "quantity": 5,
+            "unit_price": 69.01,
+            "total_price": 345.05
+        }
+    ],
+    "amount": 2506.7
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Webb Group",
+    "invoice_number": "INV-87902",
+    "date": "2026-01-05",
+    "items": [
+        {
+            "description": "Reduced high-level paradigm",
+            "quantity": 7,
+            "unit_price": 43.15,
+            "total_price": 302.05
+        },
+        {
+            "description": "Universal exuding website",
+            "quantity": 6,
+            "unit_price": 258.27,
+            "total_price": 1549.62
+        }
+    ],
+    "amount": 1851.67
+}

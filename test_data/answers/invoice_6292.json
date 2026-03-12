@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Garza and Sons",
+    "invoice_number": "INV-19900",
+    "date": "2025-12-30",
+    "items": [
+        {
+            "description": "Face-to-face demand-driven Local Area Network",
+            "quantity": 6,
+            "unit_price": 254.78,
+            "total_price": 1528.68
+        },
+        {
+            "description": "Assimilated eco-centric secured line",
+            "quantity": 6,
+            "unit_price": 413.9,
+            "total_price": 2483.4
+        },
+        {
+            "description": "Inverse zero tolerance standardization",
+            "quantity": 5,
+            "unit_price": 224.2,
+            "total_price": 1121.0
+        },
+        {
+            "description": "Balanced didactic project",
+            "quantity": 10,
+            "unit_price": 243.26,
+            "total_price": 2432.6
+        }
+    ],
+    "amount": 7565.68
+}

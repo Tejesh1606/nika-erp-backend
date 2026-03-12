@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Stone-White",
+    "invoice_number": "INV-59005",
+    "date": "2025-09-29",
+    "items": [
+        {
+            "description": "Team-oriented mission-critical structure",
+            "quantity": 7,
+            "unit_price": 363.59,
+            "total_price": 2545.13
+        }
+    ],
+    "amount": 2545.13
+}

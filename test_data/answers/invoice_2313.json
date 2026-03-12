@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Chavez-Brewer",
+    "invoice_number": "INV-32497",
+    "date": "2025-09-01",
+    "items": [
+        {
+            "description": "Down-sized neutral project",
+            "quantity": 6,
+            "unit_price": 220.88,
+            "total_price": 1325.28
+        }
+    ],
+    "amount": 1325.28
+}

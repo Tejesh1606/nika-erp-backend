@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Martinez-Lane",
+    "invoice_number": "INV-47521",
+    "date": "2025-05-13",
+    "items": [
+        {
+            "description": "Fully-configurable secondary collaboration",
+            "quantity": 1,
+            "unit_price": 40.33,
+            "total_price": 40.33
+        },
+        {
+            "description": "Decentralized grid-enabled forecast",
+            "quantity": 2,
+            "unit_price": 340.84,
+            "total_price": 681.68
+        }
+    ],
+    "amount": 722.01
+}

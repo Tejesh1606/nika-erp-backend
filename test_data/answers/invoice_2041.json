@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Young-Walsh",
+    "invoice_number": "INV-37263",
+    "date": "2026-03-09",
+    "items": [
+        {
+            "description": "Self-enabling systemic orchestration",
+            "quantity": 5,
+            "unit_price": 45.18,
+            "total_price": 225.9
+        },
+        {
+            "description": "Total system-worthy function",
+            "quantity": 3,
+            "unit_price": 445.41,
+            "total_price": 1336.23
+        },
+        {
+            "description": "Exclusive bifurcated portal",
+            "quantity": 8,
+            "unit_price": 90.9,
+            "total_price": 727.2
+        },
+        {
+            "description": "Cross-group responsive throughput",
+            "quantity": 9,
+            "unit_price": 126.01,
+            "total_price": 1134.09
+        }
+    ],
+    "amount": 3423.42
+}

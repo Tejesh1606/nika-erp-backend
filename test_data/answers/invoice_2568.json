@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Santiago, Weber and Camacho",
+    "invoice_number": "INV-41785",
+    "date": "2025-06-24",
+    "items": [
+        {
+            "description": "Switchable object-oriented neural-net",
+            "quantity": 8,
+            "unit_price": 428.04,
+            "total_price": 3424.32
+        }
+    ],
+    "amount": 3424.32
+}

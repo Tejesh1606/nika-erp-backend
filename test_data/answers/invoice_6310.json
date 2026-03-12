@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Morse and Sons",
+    "invoice_number": "INV-56856",
+    "date": "2025-09-26",
+    "items": [
+        {
+            "description": "Versatile next generation migration",
+            "quantity": 6,
+            "unit_price": 60.12,
+            "total_price": 360.72
+        },
+        {
+            "description": "Fundamental zero administration project",
+            "quantity": 4,
+            "unit_price": 308.36,
+            "total_price": 1233.44
+        },
+        {
+            "description": "Vision-oriented system-worthy adapter",
+            "quantity": 2,
+            "unit_price": 367.99,
+            "total_price": 735.98
+        }
+    ],
+    "amount": 2330.14
+}

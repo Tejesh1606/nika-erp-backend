@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bruce-Newman",
+    "invoice_number": "INV-53420",
+    "date": "2025-10-14",
+    "items": [
+        {
+            "description": "Cross-platform multi-tasking analyzer",
+            "quantity": 3,
+            "unit_price": 150.76,
+            "total_price": 452.28
+        },
+        {
+            "description": "Focused didactic solution",
+            "quantity": 4,
+            "unit_price": 443.52,
+            "total_price": 1774.08
+        }
+    ],
+    "amount": 2226.36
+}

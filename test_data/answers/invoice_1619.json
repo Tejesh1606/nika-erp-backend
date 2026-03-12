@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mendoza Ltd",
+    "invoice_number": "INV-56056",
+    "date": "2025-03-20",
+    "items": [
+        {
+            "description": "Mandatory human-resource utilization",
+            "quantity": 1,
+            "unit_price": 472.93,
+            "total_price": 472.93
+        }
+    ],
+    "amount": 472.93
+}

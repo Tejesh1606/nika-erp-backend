@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Howell PLC",
+    "invoice_number": "INV-44574",
+    "date": "2025-06-29",
+    "items": [
+        {
+            "description": "User-friendly 6thgeneration budgetary management",
+            "quantity": 5,
+            "unit_price": 165.93,
+            "total_price": 829.65
+        },
+        {
+            "description": "Front-line exuding neural-net",
+            "quantity": 6,
+            "unit_price": 132.86,
+            "total_price": 797.16
+        }
+    ],
+    "amount": 1626.81
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Livingston, Edwards and Joseph",
+    "invoice_number": "INV-84419",
+    "date": "2025-08-16",
+    "items": [
+        {
+            "description": "Organic zero administration architecture",
+            "quantity": 7,
+            "unit_price": 466.57,
+            "total_price": 3265.99
+        }
+    ],
+    "amount": 3265.99
+}

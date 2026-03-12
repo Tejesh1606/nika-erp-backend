@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Avery-Cohen",
+    "invoice_number": "INV-13581",
+    "date": "2025-08-03",
+    "items": [
+        {
+            "description": "Automated mobile task-force",
+            "quantity": 5,
+            "unit_price": 161.78,
+            "total_price": 808.9
+        },
+        {
+            "description": "Cross-group methodical extranet",
+            "quantity": 6,
+            "unit_price": 90.55,
+            "total_price": 543.3
+        }
+    ],
+    "amount": 1352.2
+}

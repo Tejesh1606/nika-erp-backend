@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Schmidt, Coleman and Reese",
+    "invoice_number": "INV-53357",
+    "date": "2025-07-23",
+    "items": [
+        {
+            "description": "Total logistical flexibility",
+            "quantity": 10,
+            "unit_price": 449.6,
+            "total_price": 4496.0
+        },
+        {
+            "description": "Integrated eco-centric emulation",
+            "quantity": 6,
+            "unit_price": 169.28,
+            "total_price": 1015.68
+        },
+        {
+            "description": "Decentralized uniform core",
+            "quantity": 2,
+            "unit_price": 456.37,
+            "total_price": 912.74
+        },
+        {
+            "description": "Intuitive bottom-line synergy",
+            "quantity": 6,
+            "unit_price": 149.15,
+            "total_price": 894.9
+        }
+    ],
+    "amount": 7319.32
+}

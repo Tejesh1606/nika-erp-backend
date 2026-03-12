@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Simpson Ltd",
+    "invoice_number": "INV-51343",
+    "date": "2025-12-31",
+    "items": [
+        {
+            "description": "Exclusive system-worthy neural-net",
+            "quantity": 7,
+            "unit_price": 410.67,
+            "total_price": 2874.69
+        },
+        {
+            "description": "Adaptive high-level customer loyalty",
+            "quantity": 10,
+            "unit_price": 374.24,
+            "total_price": 3742.4
+        },
+        {
+            "description": "User-centric hybrid Graphical User Interface",
+            "quantity": 3,
+            "unit_price": 373.98,
+            "total_price": 1121.94
+        }
+    ],
+    "amount": 7739.03
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wall-Stevenson",
+    "invoice_number": "INV-43418",
+    "date": "2025-08-01",
+    "items": [
+        {
+            "description": "Profit-focused intermediate interface",
+            "quantity": 6,
+            "unit_price": 420.79,
+            "total_price": 2524.74
+        }
+    ],
+    "amount": 2524.74
+}

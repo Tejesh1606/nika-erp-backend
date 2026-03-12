@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Diaz-Morales",
+    "invoice_number": "INV-69077",
+    "date": "2025-05-17",
+    "items": [
+        {
+            "description": "Re-engineered clear-thinking orchestration",
+            "quantity": 3,
+            "unit_price": 487.16,
+            "total_price": 1461.48
+        },
+        {
+            "description": "Synergized discrete attitude",
+            "quantity": 9,
+            "unit_price": 98.65,
+            "total_price": 887.85
+        },
+        {
+            "description": "Up-sized encompassing website",
+            "quantity": 1,
+            "unit_price": 495.58,
+            "total_price": 495.58
+        },
+        {
+            "description": "Front-line next generation Internet solution",
+            "quantity": 8,
+            "unit_price": 438.6,
+            "total_price": 3508.8
+        }
+    ],
+    "amount": 6353.71
+}

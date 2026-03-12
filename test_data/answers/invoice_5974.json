@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Tapia, Freeman and Friedman",
+    "invoice_number": "INV-97057",
+    "date": "2025-08-04",
+    "items": [
+        {
+            "description": "Polarized well-modulated hierarchy",
+            "quantity": 6,
+            "unit_price": 486.41,
+            "total_price": 2918.46
+        },
+        {
+            "description": "Profit-focused heuristic paradigm",
+            "quantity": 3,
+            "unit_price": 55.0,
+            "total_price": 165.0
+        },
+        {
+            "description": "Programmable leadingedge matrix",
+            "quantity": 6,
+            "unit_price": 231.6,
+            "total_price": 1389.6
+        }
+    ],
+    "amount": 4473.06
+}

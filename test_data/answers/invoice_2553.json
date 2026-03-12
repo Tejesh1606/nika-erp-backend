@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Davis-Lee",
+    "invoice_number": "INV-79250",
+    "date": "2026-01-15",
+    "items": [
+        {
+            "description": "Multi-layered motivating application",
+            "quantity": 1,
+            "unit_price": 296.56,
+            "total_price": 296.56
+        }
+    ],
+    "amount": 296.56
+}

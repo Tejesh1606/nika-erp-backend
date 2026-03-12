@@ -1,0 +1,26 @@
+{
+    "vendor_name": "King-Scott",
+    "invoice_number": "INV-52803",
+    "date": "2025-07-30",
+    "items": [
+        {
+            "description": "Organic client-server function",
+            "quantity": 6,
+            "unit_price": 458.17,
+            "total_price": 2749.02
+        },
+        {
+            "description": "Proactive web-enabled Local Area Network",
+            "quantity": 5,
+            "unit_price": 325.23,
+            "total_price": 1626.15
+        },
+        {
+            "description": "Down-sized attitude-oriented utilization",
+            "quantity": 3,
+            "unit_price": 23.31,
+            "total_price": 69.93
+        }
+    ],
+    "amount": 4445.1
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wade-Garcia",
+    "invoice_number": "INV-73945",
+    "date": "2025-10-12",
+    "items": [
+        {
+            "description": "Robust non-volatile implementation",
+            "quantity": 7,
+            "unit_price": 351.55,
+            "total_price": 2460.85
+        },
+        {
+            "description": "Robust multi-state secured line",
+            "quantity": 6,
+            "unit_price": 420.67,
+            "total_price": 2524.02
+        },
+        {
+            "description": "Multi-tiered 6thgeneration portal",
+            "quantity": 9,
+            "unit_price": 105.3,
+            "total_price": 947.7
+        }
+    ],
+    "amount": 5932.57
+}

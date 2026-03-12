@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Kemp PLC",
+    "invoice_number": "INV-52960",
+    "date": "2025-05-05",
+    "items": [
+        {
+            "description": "Implemented homogeneous access",
+            "quantity": 3,
+            "unit_price": 94.48,
+            "total_price": 283.44
+        }
+    ],
+    "amount": 283.44
+}

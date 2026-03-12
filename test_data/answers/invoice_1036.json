@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Brown-Peterson",
+    "invoice_number": "INV-89215",
+    "date": "2025-09-13",
+    "items": [
+        {
+            "description": "Extended tangible support",
+            "quantity": 9,
+            "unit_price": 274.65,
+            "total_price": 2471.85
+        }
+    ],
+    "amount": 2471.85
+}

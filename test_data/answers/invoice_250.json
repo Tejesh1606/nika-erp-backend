@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Miller-Chung",
+    "invoice_number": "INV-70161",
+    "date": "2025-10-14",
+    "items": [
+        {
+            "description": "Fully-configurable tangible definition",
+            "quantity": 10,
+            "unit_price": 207.52,
+            "total_price": 2075.2
+        },
+        {
+            "description": "Innovative systemic artificial intelligence",
+            "quantity": 7,
+            "unit_price": 51.41,
+            "total_price": 359.87
+        }
+    ],
+    "amount": 2435.07
+}

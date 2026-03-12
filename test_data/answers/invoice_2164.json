@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ortiz, Boyd and Conway",
+    "invoice_number": "INV-32308",
+    "date": "2025-11-16",
+    "items": [
+        {
+            "description": "Implemented human-resource focus group",
+            "quantity": 3,
+            "unit_price": 13.5,
+            "total_price": 40.5
+        },
+        {
+            "description": "User-centric multimedia time-frame",
+            "quantity": 10,
+            "unit_price": 191.5,
+            "total_price": 1915.0
+        }
+    ],
+    "amount": 1955.5
+}

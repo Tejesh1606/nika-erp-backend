@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Gardner, Parrish and Harris",
+    "invoice_number": "INV-54532",
+    "date": "2025-09-27",
+    "items": [
+        {
+            "description": "Horizontal full-range flexibility",
+            "quantity": 2,
+            "unit_price": 196.87,
+            "total_price": 393.74
+        },
+        {
+            "description": "Monitored 24hour product",
+            "quantity": 8,
+            "unit_price": 185.01,
+            "total_price": 1480.08
+        },
+        {
+            "description": "Inverse tertiary protocol",
+            "quantity": 6,
+            "unit_price": 288.21,
+            "total_price": 1729.26
+        }
+    ],
+    "amount": 3603.08
+}

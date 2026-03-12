@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Guerrero, Evans and Gonzalez",
+    "invoice_number": "INV-35722",
+    "date": "2026-03-08",
+    "items": [
+        {
+            "description": "Cross-group intermediate Graphic Interface",
+            "quantity": 4,
+            "unit_price": 26.37,
+            "total_price": 105.48
+        },
+        {
+            "description": "Automated radical moratorium",
+            "quantity": 9,
+            "unit_price": 200.58,
+            "total_price": 1805.22
+        },
+        {
+            "description": "Extended directional monitoring",
+            "quantity": 9,
+            "unit_price": 427.62,
+            "total_price": 3848.58
+        },
+        {
+            "description": "Cloned stable contingency",
+            "quantity": 2,
+            "unit_price": 112.46,
+            "total_price": 224.92
+        }
+    ],
+    "amount": 5984.2
+}

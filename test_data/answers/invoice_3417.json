@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cabrera-Peterson",
+    "invoice_number": "INV-66423",
+    "date": "2025-10-10",
+    "items": [
+        {
+            "description": "Switchable system-worthy middleware",
+            "quantity": 3,
+            "unit_price": 202.22,
+            "total_price": 606.66
+        },
+        {
+            "description": "Total real-time benchmark",
+            "quantity": 7,
+            "unit_price": 171.22,
+            "total_price": 1198.54
+        }
+    ],
+    "amount": 1805.2
+}

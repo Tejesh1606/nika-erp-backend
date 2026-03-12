@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Brown-Berry",
+    "invoice_number": "INV-90645",
+    "date": "2025-03-15",
+    "items": [
+        {
+            "description": "Cloned stable strategy",
+            "quantity": 5,
+            "unit_price": 277.06,
+            "total_price": 1385.3
+        },
+        {
+            "description": "Fundamental 4thgeneration solution",
+            "quantity": 8,
+            "unit_price": 100.21,
+            "total_price": 801.68
+        }
+    ],
+    "amount": 2186.98
+}

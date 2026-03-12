@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Cook Ltd",
+    "invoice_number": "INV-45358",
+    "date": "2025-06-04",
+    "items": [
+        {
+            "description": "Pre-emptive system-worthy installation",
+            "quantity": 4,
+            "unit_price": 403.27,
+            "total_price": 1613.08
+        },
+        {
+            "description": "Exclusive intangible initiative",
+            "quantity": 5,
+            "unit_price": 28.9,
+            "total_price": 144.5
+        },
+        {
+            "description": "Enhanced motivating methodology",
+            "quantity": 7,
+            "unit_price": 236.45,
+            "total_price": 1655.15
+        },
+        {
+            "description": "Cross-platform asynchronous Local Area Network",
+            "quantity": 1,
+            "unit_price": 341.13,
+            "total_price": 341.13
+        }
+    ],
+    "amount": 3753.86
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Swanson-Anderson",
+    "invoice_number": "INV-82888",
+    "date": "2025-05-30",
+    "items": [
+        {
+            "description": "Sharable object-oriented alliance",
+            "quantity": 5,
+            "unit_price": 279.39,
+            "total_price": 1396.95
+        }
+    ],
+    "amount": 1396.95
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wilson-Burns",
+    "invoice_number": "INV-74955",
+    "date": "2026-01-13",
+    "items": [
+        {
+            "description": "Synergized transitional capacity",
+            "quantity": 7,
+            "unit_price": 325.26,
+            "total_price": 2276.82
+        }
+    ],
+    "amount": 2276.82
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rivera, Bell and Vincent",
+    "invoice_number": "INV-28444",
+    "date": "2026-02-21",
+    "items": [
+        {
+            "description": "Persevering cohesive application",
+            "quantity": 4,
+            "unit_price": 295.94,
+            "total_price": 1183.76
+        },
+        {
+            "description": "Secured encompassing migration",
+            "quantity": 6,
+            "unit_price": 410.76,
+            "total_price": 2464.56
+        },
+        {
+            "description": "Automated upward-trending toolset",
+            "quantity": 3,
+            "unit_price": 105.61,
+            "total_price": 316.83
+        },
+        {
+            "description": "Ergonomic homogeneous parallelism",
+            "quantity": 2,
+            "unit_price": 118.85,
+            "total_price": 237.7
+        }
+    ],
+    "amount": 4202.85
+}

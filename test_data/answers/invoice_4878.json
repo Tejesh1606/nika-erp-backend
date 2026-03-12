@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Lane LLC",
+    "invoice_number": "INV-11316",
+    "date": "2025-07-05",
+    "items": [
+        {
+            "description": "Function-based logistical hub",
+            "quantity": 4,
+            "unit_price": 450.54,
+            "total_price": 1802.16
+        },
+        {
+            "description": "Assimilated bi-directional knowledgebase",
+            "quantity": 8,
+            "unit_price": 92.86,
+            "total_price": 742.88
+        }
+    ],
+    "amount": 2545.04
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Schroeder PLC",
+    "invoice_number": "INV-35564",
+    "date": "2025-07-21",
+    "items": [
+        {
+            "description": "Future-proofed value-added extranet",
+            "quantity": 6,
+            "unit_price": 302.2,
+            "total_price": 1813.2
+        },
+        {
+            "description": "Advanced logistical archive",
+            "quantity": 2,
+            "unit_price": 180.02,
+            "total_price": 360.04
+        },
+        {
+            "description": "Cloned secondary access",
+            "quantity": 2,
+            "unit_price": 412.88,
+            "total_price": 825.76
+        }
+    ],
+    "amount": 2999.0
+}

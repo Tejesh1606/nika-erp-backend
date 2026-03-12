@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mckee, Lee and Harvey",
+    "invoice_number": "INV-59457",
+    "date": "2025-03-23",
+    "items": [
+        {
+            "description": "Horizontal clear-thinking flexibility",
+            "quantity": 10,
+            "unit_price": 42.42,
+            "total_price": 424.2
+        }
+    ],
+    "amount": 424.2
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brown, Hughes and Bradley",
+    "invoice_number": "INV-39428",
+    "date": "2025-12-29",
+    "items": [
+        {
+            "description": "Self-enabling 5thgeneration open system",
+            "quantity": 5,
+            "unit_price": 457.25,
+            "total_price": 2286.25
+        },
+        {
+            "description": "Quality-focused asynchronous adapter",
+            "quantity": 6,
+            "unit_price": 486.75,
+            "total_price": 2920.5
+        },
+        {
+            "description": "Streamlined methodical orchestration",
+            "quantity": 10,
+            "unit_price": 399.08,
+            "total_price": 3990.8
+        }
+    ],
+    "amount": 9197.55
+}

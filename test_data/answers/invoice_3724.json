@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Garcia-Ortiz",
+    "invoice_number": "INV-45471",
+    "date": "2025-12-09",
+    "items": [
+        {
+            "description": "Assimilated zero administration secured line",
+            "quantity": 8,
+            "unit_price": 87.78,
+            "total_price": 702.24
+        },
+        {
+            "description": "Grass-roots 6thgeneration focus group",
+            "quantity": 1,
+            "unit_price": 369.36,
+            "total_price": 369.36
+        },
+        {
+            "description": "Upgradable human-resource Graphical User Interface",
+            "quantity": 8,
+            "unit_price": 260.47,
+            "total_price": 2083.76
+        }
+    ],
+    "amount": 3155.36
+}

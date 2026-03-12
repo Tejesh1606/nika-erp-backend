@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mccarty, Gonzalez and Johnston",
+    "invoice_number": "INV-95082",
+    "date": "2025-10-04",
+    "items": [
+        {
+            "description": "Enhanced zero-defect forecast",
+            "quantity": 9,
+            "unit_price": 260.87,
+            "total_price": 2347.83
+        }
+    ],
+    "amount": 2347.83
+}

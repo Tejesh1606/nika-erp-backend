@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith LLC",
+    "invoice_number": "INV-34266",
+    "date": "2025-03-22",
+    "items": [
+        {
+            "description": "Organic radical encoding",
+            "quantity": 5,
+            "unit_price": 258.71,
+            "total_price": 1293.55
+        }
+    ],
+    "amount": 1293.55
+}

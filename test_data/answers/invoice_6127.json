@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Boyle-Gutierrez",
+    "invoice_number": "INV-84091",
+    "date": "2025-05-31",
+    "items": [
+        {
+            "description": "Face-to-face exuding secured line",
+            "quantity": 9,
+            "unit_price": 263.23,
+            "total_price": 2369.07
+        },
+        {
+            "description": "Right-sized fresh-thinking interface",
+            "quantity": 10,
+            "unit_price": 456.33,
+            "total_price": 4563.3
+        },
+        {
+            "description": "Managed bi-directional groupware",
+            "quantity": 9,
+            "unit_price": 208.63,
+            "total_price": 1877.67
+        }
+    ],
+    "amount": 8810.04
+}

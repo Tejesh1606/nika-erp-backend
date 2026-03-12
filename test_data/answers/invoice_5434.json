@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Stafford-Weaver",
+    "invoice_number": "INV-27482",
+    "date": "2025-04-09",
+    "items": [
+        {
+            "description": "Triple-buffered global array",
+            "quantity": 9,
+            "unit_price": 11.25,
+            "total_price": 101.25
+        },
+        {
+            "description": "Polarized zero administration Graphical User Interface",
+            "quantity": 3,
+            "unit_price": 224.14,
+            "total_price": 672.42
+        },
+        {
+            "description": "Ameliorated upward-trending matrix",
+            "quantity": 8,
+            "unit_price": 90.78,
+            "total_price": 726.24
+        },
+        {
+            "description": "Synergized non-volatile instruction set",
+            "quantity": 6,
+            "unit_price": 341.34,
+            "total_price": 2048.04
+        }
+    ],
+    "amount": 3547.95
+}

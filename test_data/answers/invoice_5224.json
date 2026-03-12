@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith, Carpenter and Powers",
+    "invoice_number": "INV-46923",
+    "date": "2025-06-20",
+    "items": [
+        {
+            "description": "Total homogeneous challenge",
+            "quantity": 6,
+            "unit_price": 246.52,
+            "total_price": 1479.12
+        }
+    ],
+    "amount": 1479.12
+}

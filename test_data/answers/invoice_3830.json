@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Frazier PLC",
+    "invoice_number": "INV-93071",
+    "date": "2025-07-07",
+    "items": [
+        {
+            "description": "Expanded multi-state installation",
+            "quantity": 8,
+            "unit_price": 433.5,
+            "total_price": 3468.0
+        },
+        {
+            "description": "Profit-focused cohesive software",
+            "quantity": 5,
+            "unit_price": 187.89,
+            "total_price": 939.45
+        },
+        {
+            "description": "User-friendly heuristic superstructure",
+            "quantity": 6,
+            "unit_price": 373.21,
+            "total_price": 2239.26
+        },
+        {
+            "description": "Ameliorated multi-tasking Graphic Interface",
+            "quantity": 9,
+            "unit_price": 170.99,
+            "total_price": 1538.91
+        }
+    ],
+    "amount": 8185.62
+}

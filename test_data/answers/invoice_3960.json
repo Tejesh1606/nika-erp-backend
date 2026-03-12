@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith LLC",
+    "invoice_number": "INV-11100",
+    "date": "2026-01-28",
+    "items": [
+        {
+            "description": "Triple-buffered 5thgeneration data-warehouse",
+            "quantity": 8,
+            "unit_price": 460.48,
+            "total_price": 3683.84
+        },
+        {
+            "description": "User-friendly cohesive leverage",
+            "quantity": 7,
+            "unit_price": 84.57,
+            "total_price": 591.99
+        },
+        {
+            "description": "Expanded 3rdgeneration data-warehouse",
+            "quantity": 2,
+            "unit_price": 238.44,
+            "total_price": 476.88
+        }
+    ],
+    "amount": 4752.71
+}

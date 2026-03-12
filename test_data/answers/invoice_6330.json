@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jones-Foster",
+    "invoice_number": "INV-43604",
+    "date": "2025-08-12",
+    "items": [
+        {
+            "description": "Innovative dynamic algorithm",
+            "quantity": 9,
+            "unit_price": 358.1,
+            "total_price": 3222.9
+        },
+        {
+            "description": "Up-sized 4thgeneration intranet",
+            "quantity": 7,
+            "unit_price": 349.34,
+            "total_price": 2445.38
+        },
+        {
+            "description": "Diverse fault-tolerant Local Area Network",
+            "quantity": 7,
+            "unit_price": 239.38,
+            "total_price": 1675.66
+        }
+    ],
+    "amount": 7343.94
+}

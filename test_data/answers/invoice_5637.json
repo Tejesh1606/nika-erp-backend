@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Guerra LLC",
+    "invoice_number": "INV-40679",
+    "date": "2025-03-17",
+    "items": [
+        {
+            "description": "Grass-roots well-modulated frame",
+            "quantity": 3,
+            "unit_price": 298.13,
+            "total_price": 894.39
+        }
+    ],
+    "amount": 894.39
+}

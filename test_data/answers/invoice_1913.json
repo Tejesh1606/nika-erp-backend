@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Knight, Kennedy and Cooley",
+    "invoice_number": "INV-96561",
+    "date": "2025-11-12",
+    "items": [
+        {
+            "description": "Pre-emptive zero tolerance pricing structure",
+            "quantity": 10,
+            "unit_price": 330.23,
+            "total_price": 3302.3
+        },
+        {
+            "description": "Compatible high-level algorithm",
+            "quantity": 2,
+            "unit_price": 362.21,
+            "total_price": 724.42
+        },
+        {
+            "description": "Multi-layered optimizing interface",
+            "quantity": 9,
+            "unit_price": 59.93,
+            "total_price": 539.37
+        }
+    ],
+    "amount": 4566.09
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Schultz-West",
+    "invoice_number": "INV-90337",
+    "date": "2025-08-30",
+    "items": [
+        {
+            "description": "Re-engineered non-volatile throughput",
+            "quantity": 2,
+            "unit_price": 429.76,
+            "total_price": 859.52
+        }
+    ],
+    "amount": 859.52
+}

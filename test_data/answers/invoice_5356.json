@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Rogers-Knight",
+    "invoice_number": "INV-29141",
+    "date": "2025-08-29",
+    "items": [
+        {
+            "description": "Stand-alone incremental product",
+            "quantity": 1,
+            "unit_price": 176.42,
+            "total_price": 176.42
+        },
+        {
+            "description": "Ergonomic neutral access",
+            "quantity": 3,
+            "unit_price": 348.01,
+            "total_price": 1044.03
+        }
+    ],
+    "amount": 1220.45
+}

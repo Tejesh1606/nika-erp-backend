@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Moore-Carroll",
+    "invoice_number": "INV-66866",
+    "date": "2025-07-21",
+    "items": [
+        {
+            "description": "Stand-alone systemic utilization",
+            "quantity": 2,
+            "unit_price": 26.96,
+            "total_price": 53.92
+        }
+    ],
+    "amount": 53.92
+}

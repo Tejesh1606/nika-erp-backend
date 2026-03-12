@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Green-Carrillo",
+    "invoice_number": "INV-87165",
+    "date": "2025-11-01",
+    "items": [
+        {
+            "description": "Phased explicit ability",
+            "quantity": 3,
+            "unit_price": 81.54,
+            "total_price": 244.62
+        },
+        {
+            "description": "Digitized dedicated customer loyalty",
+            "quantity": 8,
+            "unit_price": 196.14,
+            "total_price": 1569.12
+        },
+        {
+            "description": "Progressive incremental monitoring",
+            "quantity": 6,
+            "unit_price": 274.3,
+            "total_price": 1645.8
+        },
+        {
+            "description": "Optimized 3rdgeneration migration",
+            "quantity": 4,
+            "unit_price": 297.99,
+            "total_price": 1191.96
+        }
+    ],
+    "amount": 4651.5
+}

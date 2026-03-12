@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Clark-Taylor",
+    "invoice_number": "INV-20573",
+    "date": "2025-04-18",
+    "items": [
+        {
+            "description": "Phased client-server productivity",
+            "quantity": 1,
+            "unit_price": 81.75,
+            "total_price": 81.75
+        },
+        {
+            "description": "Exclusive actuating core",
+            "quantity": 4,
+            "unit_price": 491.78,
+            "total_price": 1967.12
+        }
+    ],
+    "amount": 2048.87
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Shaffer Group",
+    "invoice_number": "INV-65869",
+    "date": "2025-07-11",
+    "items": [
+        {
+            "description": "Function-based web-enabled superstructure",
+            "quantity": 5,
+            "unit_price": 319.71,
+            "total_price": 1598.55
+        }
+    ],
+    "amount": 1598.55
+}

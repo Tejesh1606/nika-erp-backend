@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Turner, Rodriguez and Glover",
+    "invoice_number": "INV-36489",
+    "date": "2026-02-26",
+    "items": [
+        {
+            "description": "Cross-group leadingedge middleware",
+            "quantity": 9,
+            "unit_price": 248.25,
+            "total_price": 2234.25
+        }
+    ],
+    "amount": 2234.25
+}

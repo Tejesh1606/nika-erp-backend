@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Morris Inc",
+    "invoice_number": "INV-27953",
+    "date": "2025-09-23",
+    "items": [
+        {
+            "description": "Organic interactive secured line",
+            "quantity": 1,
+            "unit_price": 275.77,
+            "total_price": 275.77
+        }
+    ],
+    "amount": 275.77
+}

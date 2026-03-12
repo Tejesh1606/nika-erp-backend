@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Dillon-Brown",
+    "invoice_number": "INV-30490",
+    "date": "2026-02-18",
+    "items": [
+        {
+            "description": "Devolved 24/7 productivity",
+            "quantity": 6,
+            "unit_price": 360.78,
+            "total_price": 2164.68
+        },
+        {
+            "description": "Public-key 3rdgeneration hub",
+            "quantity": 4,
+            "unit_price": 290.64,
+            "total_price": 1162.56
+        },
+        {
+            "description": "Ergonomic needs-based strategy",
+            "quantity": 6,
+            "unit_price": 142.36,
+            "total_price": 854.16
+        }
+    ],
+    "amount": 4181.4
+}

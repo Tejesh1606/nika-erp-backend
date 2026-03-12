@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brewer-Patton",
+    "invoice_number": "INV-98534",
+    "date": "2025-12-30",
+    "items": [
+        {
+            "description": "Organized user-facing matrix",
+            "quantity": 1,
+            "unit_price": 332.43,
+            "total_price": 332.43
+        },
+        {
+            "description": "Phased explicit capability",
+            "quantity": 8,
+            "unit_price": 278.75,
+            "total_price": 2230.0
+        },
+        {
+            "description": "Stand-alone explicit instruction set",
+            "quantity": 9,
+            "unit_price": 348.23,
+            "total_price": 3134.07
+        }
+    ],
+    "amount": 5696.5
+}

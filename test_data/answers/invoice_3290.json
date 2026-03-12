@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Martin, Mendoza and Stewart",
+    "invoice_number": "INV-84472",
+    "date": "2025-04-01",
+    "items": [
+        {
+            "description": "Triple-buffered 4thgeneration forecast",
+            "quantity": 4,
+            "unit_price": 387.24,
+            "total_price": 1548.96
+        },
+        {
+            "description": "Polarized real-time extranet",
+            "quantity": 7,
+            "unit_price": 473.81,
+            "total_price": 3316.67
+        },
+        {
+            "description": "Cross-group client-driven website",
+            "quantity": 4,
+            "unit_price": 295.74,
+            "total_price": 1182.96
+        },
+        {
+            "description": "Streamlined disintermediate collaboration",
+            "quantity": 10,
+            "unit_price": 21.72,
+            "total_price": 217.2
+        }
+    ],
+    "amount": 6265.79
+}

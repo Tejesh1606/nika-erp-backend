@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Kelly LLC",
+    "invoice_number": "INV-35637",
+    "date": "2025-06-20",
+    "items": [
+        {
+            "description": "Operative zero administration functionalities",
+            "quantity": 8,
+            "unit_price": 14.76,
+            "total_price": 118.08
+        },
+        {
+            "description": "Public-key attitude-oriented hardware",
+            "quantity": 9,
+            "unit_price": 39.62,
+            "total_price": 356.58
+        }
+    ],
+    "amount": 474.66
+}

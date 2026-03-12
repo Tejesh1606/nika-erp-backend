@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Knight Inc",
+    "invoice_number": "INV-55428",
+    "date": "2025-07-02",
+    "items": [
+        {
+            "description": "Progressive executive strategy",
+            "quantity": 1,
+            "unit_price": 171.1,
+            "total_price": 171.1
+        },
+        {
+            "description": "Organized didactic model",
+            "quantity": 2,
+            "unit_price": 316.83,
+            "total_price": 633.66
+        },
+        {
+            "description": "Multi-channeled leadingedge system engine",
+            "quantity": 8,
+            "unit_price": 323.32,
+            "total_price": 2586.56
+        },
+        {
+            "description": "Pre-emptive radical knowledge user",
+            "quantity": 2,
+            "unit_price": 437.37,
+            "total_price": 874.74
+        }
+    ],
+    "amount": 4266.06
+}

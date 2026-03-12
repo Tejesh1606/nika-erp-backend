@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cunningham, Harris and Davis",
+    "invoice_number": "INV-57107",
+    "date": "2025-06-03",
+    "items": [
+        {
+            "description": "Streamlined well-modulated encoding",
+            "quantity": 1,
+            "unit_price": 463.01,
+            "total_price": 463.01
+        },
+        {
+            "description": "Seamless zero tolerance Local Area Network",
+            "quantity": 7,
+            "unit_price": 70.77,
+            "total_price": 495.39
+        },
+        {
+            "description": "Inverse dedicated benchmark",
+            "quantity": 7,
+            "unit_price": 61.49,
+            "total_price": 430.43
+        }
+    ],
+    "amount": 1388.83
+}

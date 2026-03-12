@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Duran-Garrett",
+    "invoice_number": "INV-85882",
+    "date": "2025-04-26",
+    "items": [
+        {
+            "description": "Configurable analyzing alliance",
+            "quantity": 8,
+            "unit_price": 269.55,
+            "total_price": 2156.4
+        }
+    ],
+    "amount": 2156.4
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Young PLC",
+    "invoice_number": "INV-49844",
+    "date": "2025-03-21",
+    "items": [
+        {
+            "description": "Down-sized systematic leverage",
+            "quantity": 3,
+            "unit_price": 378.22,
+            "total_price": 1134.66
+        },
+        {
+            "description": "Multi-lateral optimizing frame",
+            "quantity": 1,
+            "unit_price": 315.07,
+            "total_price": 315.07
+        },
+        {
+            "description": "Enterprise-wide heuristic analyzer",
+            "quantity": 9,
+            "unit_price": 295.46,
+            "total_price": 2659.14
+        },
+        {
+            "description": "Cloned impactful hub",
+            "quantity": 6,
+            "unit_price": 71.9,
+            "total_price": 431.4
+        }
+    ],
+    "amount": 4540.27
+}

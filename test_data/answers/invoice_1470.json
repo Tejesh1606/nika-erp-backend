@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Price-Lee",
+    "invoice_number": "INV-46203",
+    "date": "2025-12-10",
+    "items": [
+        {
+            "description": "Digitized high-level time-frame",
+            "quantity": 3,
+            "unit_price": 21.63,
+            "total_price": 64.89
+        },
+        {
+            "description": "Centralized methodical encryption",
+            "quantity": 8,
+            "unit_price": 13.94,
+            "total_price": 111.52
+        }
+    ],
+    "amount": 176.41
+}

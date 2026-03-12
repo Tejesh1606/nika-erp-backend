@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Williams, Lawson and Graham",
+    "invoice_number": "INV-97091",
+    "date": "2026-01-25",
+    "items": [
+        {
+            "description": "Configurable multi-tasking superstructure",
+            "quantity": 4,
+            "unit_price": 247.11,
+            "total_price": 988.44
+        },
+        {
+            "description": "Managed encompassing capability",
+            "quantity": 10,
+            "unit_price": 323.55,
+            "total_price": 3235.5
+        },
+        {
+            "description": "Ergonomic didactic service-desk",
+            "quantity": 1,
+            "unit_price": 198.03,
+            "total_price": 198.03
+        }
+    ],
+    "amount": 4421.97
+}

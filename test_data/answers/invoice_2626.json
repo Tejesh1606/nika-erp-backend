@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wallace Inc",
+    "invoice_number": "INV-39185",
+    "date": "2025-08-18",
+    "items": [
+        {
+            "description": "Switchable next generation architecture",
+            "quantity": 3,
+            "unit_price": 168.48,
+            "total_price": 505.44
+        },
+        {
+            "description": "Innovative optimizing neural-net",
+            "quantity": 2,
+            "unit_price": 326.17,
+            "total_price": 652.34
+        },
+        {
+            "description": "Centralized client-driven help-desk",
+            "quantity": 7,
+            "unit_price": 35.14,
+            "total_price": 245.98
+        },
+        {
+            "description": "Face-to-face scalable adapter",
+            "quantity": 5,
+            "unit_price": 230.72,
+            "total_price": 1153.6
+        }
+    ],
+    "amount": 2557.36
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mueller-Vargas",
+    "invoice_number": "INV-50116",
+    "date": "2025-12-05",
+    "items": [
+        {
+            "description": "Visionary 3rdgeneration moratorium",
+            "quantity": 6,
+            "unit_price": 215.59,
+            "total_price": 1293.54
+        },
+        {
+            "description": "Virtual even-keeled contingency",
+            "quantity": 10,
+            "unit_price": 447.68,
+            "total_price": 4476.8
+        }
+    ],
+    "amount": 5770.34
+}

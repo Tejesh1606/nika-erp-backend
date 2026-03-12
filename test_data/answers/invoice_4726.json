@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Fisher, Johnson and King",
+    "invoice_number": "INV-61970",
+    "date": "2025-07-29",
+    "items": [
+        {
+            "description": "Grass-roots non-volatile matrix",
+            "quantity": 5,
+            "unit_price": 261.89,
+            "total_price": 1309.45
+        },
+        {
+            "description": "Organized 4thgeneration time-frame",
+            "quantity": 10,
+            "unit_price": 16.51,
+            "total_price": 165.1
+        }
+    ],
+    "amount": 1474.55
+}

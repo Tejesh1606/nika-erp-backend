@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Logan-Lynch",
+    "invoice_number": "INV-24742",
+    "date": "2025-03-09",
+    "items": [
+        {
+            "description": "Mandatory directional algorithm",
+            "quantity": 4,
+            "unit_price": 210.71,
+            "total_price": 842.84
+        },
+        {
+            "description": "Polarized attitude-oriented complexity",
+            "quantity": 9,
+            "unit_price": 372.53,
+            "total_price": 3352.77
+        }
+    ],
+    "amount": 4195.61
+}

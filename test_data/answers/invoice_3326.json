@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brennan, Clark and Yates",
+    "invoice_number": "INV-40376",
+    "date": "2025-10-02",
+    "items": [
+        {
+            "description": "Multi-layered stable toolset",
+            "quantity": 6,
+            "unit_price": 236.48,
+            "total_price": 1418.88
+        },
+        {
+            "description": "Centralized optimal Graphic Interface",
+            "quantity": 2,
+            "unit_price": 109.36,
+            "total_price": 218.72
+        },
+        {
+            "description": "Synergistic responsive knowledge user",
+            "quantity": 5,
+            "unit_price": 394.96,
+            "total_price": 1974.8
+        }
+    ],
+    "amount": 3612.4
+}

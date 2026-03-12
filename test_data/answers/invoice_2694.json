@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Deleon Inc",
+    "invoice_number": "INV-11129",
+    "date": "2025-08-27",
+    "items": [
+        {
+            "description": "Configurable client-server archive",
+            "quantity": 6,
+            "unit_price": 81.53,
+            "total_price": 489.18
+        },
+        {
+            "description": "Business-focused client-server structure",
+            "quantity": 4,
+            "unit_price": 73.2,
+            "total_price": 292.8
+        },
+        {
+            "description": "Grass-roots client-server core",
+            "quantity": 2,
+            "unit_price": 252.12,
+            "total_price": 504.24
+        },
+        {
+            "description": "Implemented systematic frame",
+            "quantity": 4,
+            "unit_price": 58.31,
+            "total_price": 233.24
+        }
+    ],
+    "amount": 1519.46
+}

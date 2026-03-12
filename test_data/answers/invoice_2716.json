@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Long-Ferguson",
+    "invoice_number": "INV-94239",
+    "date": "2025-03-18",
+    "items": [
+        {
+            "description": "Profound zero tolerance workforce",
+            "quantity": 2,
+            "unit_price": 99.33,
+            "total_price": 198.66
+        },
+        {
+            "description": "Configurable client-driven challenge",
+            "quantity": 2,
+            "unit_price": 258.45,
+            "total_price": 516.9
+        },
+        {
+            "description": "Synergistic scalable interface",
+            "quantity": 1,
+            "unit_price": 123.47,
+            "total_price": 123.47
+        }
+    ],
+    "amount": 839.03
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Beard, Smith and Mitchell",
+    "invoice_number": "INV-62854",
+    "date": "2026-01-07",
+    "items": [
+        {
+            "description": "Customizable system-worthy circuit",
+            "quantity": 2,
+            "unit_price": 257.87,
+            "total_price": 515.74
+        }
+    ],
+    "amount": 515.74
+}

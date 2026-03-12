@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Carter, Johnson and Martin",
+    "invoice_number": "INV-31236",
+    "date": "2025-04-15",
+    "items": [
+        {
+            "description": "Ameliorated national database",
+            "quantity": 6,
+            "unit_price": 250.69,
+            "total_price": 1504.14
+        },
+        {
+            "description": "Advanced neutral database",
+            "quantity": 9,
+            "unit_price": 310.56,
+            "total_price": 2795.04
+        },
+        {
+            "description": "Enterprise-wide 3rdgeneration task-force",
+            "quantity": 1,
+            "unit_price": 206.61,
+            "total_price": 206.61
+        },
+        {
+            "description": "Reduced background framework",
+            "quantity": 9,
+            "unit_price": 421.51,
+            "total_price": 3793.59
+        }
+    ],
+    "amount": 8299.38
+}

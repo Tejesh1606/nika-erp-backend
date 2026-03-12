@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mercer, Shaw and Patel",
+    "invoice_number": "INV-84212",
+    "date": "2025-10-24",
+    "items": [
+        {
+            "description": "Reactive modular conglomeration",
+            "quantity": 9,
+            "unit_price": 385.44,
+            "total_price": 3468.96
+        },
+        {
+            "description": "Future-proofed encompassing task-force",
+            "quantity": 7,
+            "unit_price": 51.15,
+            "total_price": 358.05
+        },
+        {
+            "description": "Innovative human-resource encryption",
+            "quantity": 10,
+            "unit_price": 293.51,
+            "total_price": 2935.1
+        }
+    ],
+    "amount": 6762.11
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Holmes-Holder",
+    "invoice_number": "INV-25547",
+    "date": "2025-08-15",
+    "items": [
+        {
+            "description": "Horizontal zero tolerance time-frame",
+            "quantity": 8,
+            "unit_price": 164.66,
+            "total_price": 1317.28
+        }
+    ],
+    "amount": 1317.28
+}

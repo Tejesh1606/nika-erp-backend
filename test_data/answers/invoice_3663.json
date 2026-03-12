@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gould-Henderson",
+    "invoice_number": "INV-75279",
+    "date": "2026-02-18",
+    "items": [
+        {
+            "description": "Extended asynchronous array",
+            "quantity": 9,
+            "unit_price": 404.6,
+            "total_price": 3641.4
+        },
+        {
+            "description": "Integrated real-time database",
+            "quantity": 1,
+            "unit_price": 137.65,
+            "total_price": 137.65
+        }
+    ],
+    "amount": 3779.05
+}

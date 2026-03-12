@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Daniels-Santos",
+    "invoice_number": "INV-51950",
+    "date": "2025-09-30",
+    "items": [
+        {
+            "description": "Advanced bi-directional ability",
+            "quantity": 7,
+            "unit_price": 169.17,
+            "total_price": 1184.19
+        },
+        {
+            "description": "Realigned secondary open architecture",
+            "quantity": 6,
+            "unit_price": 410.33,
+            "total_price": 2461.98
+        }
+    ],
+    "amount": 3646.17
+}

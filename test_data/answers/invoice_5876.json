@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hall, Walker and Williams",
+    "invoice_number": "INV-91780",
+    "date": "2025-08-19",
+    "items": [
+        {
+            "description": "User-centric multimedia application",
+            "quantity": 5,
+            "unit_price": 354.03,
+            "total_price": 1770.15
+        },
+        {
+            "description": "Customer-focused non-volatile challenge",
+            "quantity": 1,
+            "unit_price": 197.09,
+            "total_price": 197.09
+        },
+        {
+            "description": "Digitized logistical capability",
+            "quantity": 8,
+            "unit_price": 116.2,
+            "total_price": 929.6
+        },
+        {
+            "description": "Virtual zero-defect instruction set",
+            "quantity": 9,
+            "unit_price": 183.6,
+            "total_price": 1652.4
+        }
+    ],
+    "amount": 4549.24
+}

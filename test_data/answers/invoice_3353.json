@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Butler, Reeves and Gallagher",
+    "invoice_number": "INV-86027",
+    "date": "2025-06-04",
+    "items": [
+        {
+            "description": "Down-sized 5thgeneration methodology",
+            "quantity": 5,
+            "unit_price": 21.39,
+            "total_price": 106.95
+        },
+        {
+            "description": "Versatile tertiary alliance",
+            "quantity": 4,
+            "unit_price": 277.43,
+            "total_price": 1109.72
+        },
+        {
+            "description": "Re-engineered multimedia encoding",
+            "quantity": 3,
+            "unit_price": 365.74,
+            "total_price": 1097.22
+        }
+    ],
+    "amount": 2313.89
+}

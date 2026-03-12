@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hall Group",
+    "invoice_number": "INV-50334",
+    "date": "2025-09-22",
+    "items": [
+        {
+            "description": "Open-architected full-range adapter",
+            "quantity": 6,
+            "unit_price": 212.88,
+            "total_price": 1277.28
+        },
+        {
+            "description": "Business-focused local frame",
+            "quantity": 6,
+            "unit_price": 64.76,
+            "total_price": 388.56
+        },
+        {
+            "description": "Fundamental demand-driven Graphic Interface",
+            "quantity": 1,
+            "unit_price": 378.79,
+            "total_price": 378.79
+        }
+    ],
+    "amount": 2044.63
+}

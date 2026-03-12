@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Clark, Powers and Clements",
+    "invoice_number": "INV-57624",
+    "date": "2026-01-23",
+    "items": [
+        {
+            "description": "Business-focused directional knowledgebase",
+            "quantity": 4,
+            "unit_price": 99.68,
+            "total_price": 398.72
+        },
+        {
+            "description": "Managed next generation throughput",
+            "quantity": 9,
+            "unit_price": 73.85,
+            "total_price": 664.65
+        }
+    ],
+    "amount": 1063.37
+}

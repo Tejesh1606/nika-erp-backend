@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Brooks, Bennett and Huff",
+    "invoice_number": "INV-57196",
+    "date": "2025-03-20",
+    "items": [
+        {
+            "description": "Monitored regional adapter",
+            "quantity": 8,
+            "unit_price": 47.49,
+            "total_price": 379.92
+        }
+    ],
+    "amount": 379.92
+}

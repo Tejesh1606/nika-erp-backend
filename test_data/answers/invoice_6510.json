@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Thomas-Grant",
+    "invoice_number": "INV-42840",
+    "date": "2025-05-07",
+    "items": [
+        {
+            "description": "Compatible zero administration data-warehouse",
+            "quantity": 1,
+            "unit_price": 164.19,
+            "total_price": 164.19
+        },
+        {
+            "description": "Optional actuating budgetary management",
+            "quantity": 2,
+            "unit_price": 276.88,
+            "total_price": 553.76
+        },
+        {
+            "description": "Polarized background framework",
+            "quantity": 8,
+            "unit_price": 143.81,
+            "total_price": 1150.48
+        },
+        {
+            "description": "Polarized cohesive conglomeration",
+            "quantity": 7,
+            "unit_price": 286.53,
+            "total_price": 2005.71
+        }
+    ],
+    "amount": 3874.14
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Kane, Robertson and Keller",
+    "invoice_number": "INV-10410",
+    "date": "2025-11-11",
+    "items": [
+        {
+            "description": "Inverse 3rdgeneration productivity",
+            "quantity": 6,
+            "unit_price": 323.63,
+            "total_price": 1941.78
+        },
+        {
+            "description": "Multi-lateral 6thgeneration workforce",
+            "quantity": 5,
+            "unit_price": 116.99,
+            "total_price": 584.95
+        }
+    ],
+    "amount": 2526.73
+}

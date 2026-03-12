@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hudson-Sanchez",
+    "invoice_number": "INV-82173",
+    "date": "2025-11-18",
+    "items": [
+        {
+            "description": "Synergized global extranet",
+            "quantity": 10,
+            "unit_price": 385.59,
+            "total_price": 3855.9
+        },
+        {
+            "description": "Virtual mobile success",
+            "quantity": 1,
+            "unit_price": 148.8,
+            "total_price": 148.8
+        },
+        {
+            "description": "Stand-alone user-facing matrix",
+            "quantity": 7,
+            "unit_price": 84.4,
+            "total_price": 590.8
+        },
+        {
+            "description": "Persevering composite superstructure",
+            "quantity": 1,
+            "unit_price": 436.41,
+            "total_price": 436.41
+        }
+    ],
+    "amount": 5031.91
+}

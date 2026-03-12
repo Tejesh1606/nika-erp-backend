@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gonzalez-Clay",
+    "invoice_number": "INV-97385",
+    "date": "2025-06-01",
+    "items": [
+        {
+            "description": "Customizable disintermediate productivity",
+            "quantity": 5,
+            "unit_price": 230.15,
+            "total_price": 1150.75
+        },
+        {
+            "description": "Optional fresh-thinking access",
+            "quantity": 6,
+            "unit_price": 105.89,
+            "total_price": 635.34
+        }
+    ],
+    "amount": 1786.09
+}

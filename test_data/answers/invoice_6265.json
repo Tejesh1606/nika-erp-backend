@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Drake-Matthews",
+    "invoice_number": "INV-64113",
+    "date": "2025-09-03",
+    "items": [
+        {
+            "description": "Universal radical extranet",
+            "quantity": 4,
+            "unit_price": 223.31,
+            "total_price": 893.24
+        },
+        {
+            "description": "Phased bifurcated middleware",
+            "quantity": 8,
+            "unit_price": 417.06,
+            "total_price": 3336.48
+        },
+        {
+            "description": "Robust asynchronous standardization",
+            "quantity": 6,
+            "unit_price": 397.54,
+            "total_price": 2385.24
+        }
+    ],
+    "amount": 6614.96
+}

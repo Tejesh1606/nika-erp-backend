@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mckinney-Stephens",
+    "invoice_number": "INV-14296",
+    "date": "2026-01-05",
+    "items": [
+        {
+            "description": "Intuitive bandwidth-monitored application",
+            "quantity": 10,
+            "unit_price": 248.86,
+            "total_price": 2488.6
+        },
+        {
+            "description": "Robust directional core",
+            "quantity": 10,
+            "unit_price": 429.33,
+            "total_price": 4293.3
+        }
+    ],
+    "amount": 6781.9
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Smith, Conner and Jones",
+    "invoice_number": "INV-78407",
+    "date": "2025-06-26",
+    "items": [
+        {
+            "description": "Vision-oriented asynchronous approach",
+            "quantity": 8,
+            "unit_price": 98.67,
+            "total_price": 789.36
+        },
+        {
+            "description": "Synchronized global algorithm",
+            "quantity": 10,
+            "unit_price": 491.67,
+            "total_price": 4916.7
+        }
+    ],
+    "amount": 5706.06
+}

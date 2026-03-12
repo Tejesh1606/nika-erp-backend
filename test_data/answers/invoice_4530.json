@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Ward-Williams",
+    "invoice_number": "INV-24753",
+    "date": "2026-01-14",
+    "items": [
+        {
+            "description": "Ameliorated 3rdgeneration toolset",
+            "quantity": 6,
+            "unit_price": 411.31,
+            "total_price": 2467.86
+        },
+        {
+            "description": "Balanced composite methodology",
+            "quantity": 3,
+            "unit_price": 271.36,
+            "total_price": 814.08
+        },
+        {
+            "description": "Progressive interactive function",
+            "quantity": 10,
+            "unit_price": 480.61,
+            "total_price": 4806.1
+        },
+        {
+            "description": "Switchable reciprocal throughput",
+            "quantity": 9,
+            "unit_price": 368.61,
+            "total_price": 3317.49
+        }
+    ],
+    "amount": 11405.53
+}

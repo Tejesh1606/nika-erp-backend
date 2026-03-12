@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Cole-Lucero",
+    "invoice_number": "INV-19760",
+    "date": "2025-05-20",
+    "items": [
+        {
+            "description": "Enhanced user-facing migration",
+            "quantity": 1,
+            "unit_price": 205.2,
+            "total_price": 205.2
+        },
+        {
+            "description": "Decentralized homogeneous analyzer",
+            "quantity": 4,
+            "unit_price": 74.14,
+            "total_price": 296.56
+        },
+        {
+            "description": "Optimized even-keeled open architecture",
+            "quantity": 3,
+            "unit_price": 401.06,
+            "total_price": 1203.18
+        },
+        {
+            "description": "Fundamental clear-thinking complexity",
+            "quantity": 7,
+            "unit_price": 141.41,
+            "total_price": 989.87
+        }
+    ],
+    "amount": 2694.81
+}

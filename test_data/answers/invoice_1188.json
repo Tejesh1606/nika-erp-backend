@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wood LLC",
+    "invoice_number": "INV-84863",
+    "date": "2025-08-21",
+    "items": [
+        {
+            "description": "Upgradable leadingedge model",
+            "quantity": 10,
+            "unit_price": 85.19,
+            "total_price": 851.9
+        },
+        {
+            "description": "De-engineered logistical frame",
+            "quantity": 4,
+            "unit_price": 93.38,
+            "total_price": 373.52
+        },
+        {
+            "description": "Customizable transitional strategy",
+            "quantity": 1,
+            "unit_price": 19.36,
+            "total_price": 19.36
+        }
+    ],
+    "amount": 1244.78
+}

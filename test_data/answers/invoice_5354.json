@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brown-Rios",
+    "invoice_number": "INV-89114",
+    "date": "2025-10-11",
+    "items": [
+        {
+            "description": "Cross-group analyzing algorithm",
+            "quantity": 6,
+            "unit_price": 252.77,
+            "total_price": 1516.62
+        },
+        {
+            "description": "Stand-alone optimal firmware",
+            "quantity": 10,
+            "unit_price": 323.46,
+            "total_price": 3234.6
+        },
+        {
+            "description": "Implemented directional access",
+            "quantity": 8,
+            "unit_price": 439.77,
+            "total_price": 3518.16
+        }
+    ],
+    "amount": 8269.38
+}

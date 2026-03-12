@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Price, Martin and Spears",
+    "invoice_number": "INV-77010",
+    "date": "2026-02-25",
+    "items": [
+        {
+            "description": "Self-enabling homogeneous paradigm",
+            "quantity": 7,
+            "unit_price": 404.94,
+            "total_price": 2834.58
+        },
+        {
+            "description": "Persistent user-facing extranet",
+            "quantity": 4,
+            "unit_price": 459.85,
+            "total_price": 1839.4
+        },
+        {
+            "description": "Polarized intangible success",
+            "quantity": 7,
+            "unit_price": 189.44,
+            "total_price": 1326.08
+        }
+    ],
+    "amount": 6000.06
+}

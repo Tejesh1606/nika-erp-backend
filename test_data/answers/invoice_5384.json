@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Bryan, Reed and Garcia",
+    "invoice_number": "INV-37520",
+    "date": "2025-04-15",
+    "items": [
+        {
+            "description": "Open-architected dynamic customer loyalty",
+            "quantity": 3,
+            "unit_price": 305.69,
+            "total_price": 917.07
+        },
+        {
+            "description": "Versatile context-sensitive hierarchy",
+            "quantity": 9,
+            "unit_price": 35.87,
+            "total_price": 322.83
+        },
+        {
+            "description": "Face-to-face zero tolerance encryption",
+            "quantity": 3,
+            "unit_price": 348.56,
+            "total_price": 1045.68
+        },
+        {
+            "description": "Triple-buffered intermediate customer loyalty",
+            "quantity": 10,
+            "unit_price": 15.13,
+            "total_price": 151.3
+        }
+    ],
+    "amount": 2436.88
+}

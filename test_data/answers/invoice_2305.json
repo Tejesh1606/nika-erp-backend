@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Burgess PLC",
+    "invoice_number": "INV-82036",
+    "date": "2025-03-14",
+    "items": [
+        {
+            "description": "Cross-platform encompassing contingency",
+            "quantity": 10,
+            "unit_price": 254.35,
+            "total_price": 2543.5
+        },
+        {
+            "description": "Synergistic hybrid flexibility",
+            "quantity": 7,
+            "unit_price": 303.86,
+            "total_price": 2127.02
+        },
+        {
+            "description": "Proactive asynchronous approach",
+            "quantity": 8,
+            "unit_price": 172.67,
+            "total_price": 1381.36
+        }
+    ],
+    "amount": 6051.88
+}

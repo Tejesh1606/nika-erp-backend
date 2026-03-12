@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jones Ltd",
+    "invoice_number": "INV-76426",
+    "date": "2025-08-12",
+    "items": [
+        {
+            "description": "Devolved zero-defect moderator",
+            "quantity": 5,
+            "unit_price": 350.76,
+            "total_price": 1753.8
+        },
+        {
+            "description": "Re-contextualized 4thgeneration conglomeration",
+            "quantity": 8,
+            "unit_price": 383.22,
+            "total_price": 3065.76
+        }
+    ],
+    "amount": 4819.56
+}

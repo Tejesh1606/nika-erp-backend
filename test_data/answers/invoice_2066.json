@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Rodriguez, Turner and Alvarado",
+    "invoice_number": "INV-85949",
+    "date": "2025-08-17",
+    "items": [
+        {
+            "description": "Profit-focused user-facing solution",
+            "quantity": 1,
+            "unit_price": 216.51,
+            "total_price": 216.51
+        }
+    ],
+    "amount": 216.51
+}

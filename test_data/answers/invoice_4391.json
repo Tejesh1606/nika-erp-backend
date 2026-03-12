@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Dalton, Thompson and Deleon",
+    "invoice_number": "INV-91725",
+    "date": "2025-06-26",
+    "items": [
+        {
+            "description": "Cross-platform neutral ability",
+            "quantity": 7,
+            "unit_price": 299.78,
+            "total_price": 2098.46
+        },
+        {
+            "description": "Cross-group tangible implementation",
+            "quantity": 9,
+            "unit_price": 306.77,
+            "total_price": 2760.93
+        },
+        {
+            "description": "Synergistic object-oriented productivity",
+            "quantity": 3,
+            "unit_price": 360.48,
+            "total_price": 1081.44
+        }
+    ],
+    "amount": 5940.83
+}

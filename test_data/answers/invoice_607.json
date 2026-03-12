@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Green, Soto and Lane",
+    "invoice_number": "INV-85085",
+    "date": "2025-03-29",
+    "items": [
+        {
+            "description": "Switchable explicit workforce",
+            "quantity": 1,
+            "unit_price": 187.78,
+            "total_price": 187.78
+        }
+    ],
+    "amount": 187.78
+}

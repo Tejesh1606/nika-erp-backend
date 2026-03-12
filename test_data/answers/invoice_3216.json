@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Ashley-Hernandez",
+    "invoice_number": "INV-50149",
+    "date": "2025-05-08",
+    "items": [
+        {
+            "description": "Open-architected multi-state approach",
+            "quantity": 2,
+            "unit_price": 44.06,
+            "total_price": 88.12
+        },
+        {
+            "description": "Right-sized client-driven migration",
+            "quantity": 1,
+            "unit_price": 362.9,
+            "total_price": 362.9
+        },
+        {
+            "description": "Digitized impactful software",
+            "quantity": 5,
+            "unit_price": 227.75,
+            "total_price": 1138.75
+        },
+        {
+            "description": "Up-sized asynchronous strategy",
+            "quantity": 6,
+            "unit_price": 455.23,
+            "total_price": 2731.38
+        }
+    ],
+    "amount": 4321.15
+}

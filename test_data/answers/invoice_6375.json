@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mcintyre-Dunn",
+    "invoice_number": "INV-36241",
+    "date": "2025-03-28",
+    "items": [
+        {
+            "description": "Automated empowering Graphic Interface",
+            "quantity": 9,
+            "unit_price": 216.3,
+            "total_price": 1946.7
+        },
+        {
+            "description": "Multi-layered methodical solution",
+            "quantity": 9,
+            "unit_price": 142.91,
+            "total_price": 1286.19
+        },
+        {
+            "description": "Streamlined multimedia initiative",
+            "quantity": 2,
+            "unit_price": 261.52,
+            "total_price": 523.04
+        }
+    ],
+    "amount": 3755.93
+}

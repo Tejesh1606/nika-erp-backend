@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Robinson-Hooper",
+    "invoice_number": "INV-96445",
+    "date": "2025-05-16",
+    "items": [
+        {
+            "description": "Customer-focused well-modulated capacity",
+            "quantity": 9,
+            "unit_price": 368.61,
+            "total_price": 3317.49
+        }
+    ],
+    "amount": 3317.49
+}

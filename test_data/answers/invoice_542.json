@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Avery, Perez and Peterson",
+    "invoice_number": "INV-61491",
+    "date": "2025-11-19",
+    "items": [
+        {
+            "description": "Devolved background superstructure",
+            "quantity": 3,
+            "unit_price": 438.84,
+            "total_price": 1316.52
+        },
+        {
+            "description": "Multi-tiered multi-state service-desk",
+            "quantity": 4,
+            "unit_price": 178.93,
+            "total_price": 715.72
+        },
+        {
+            "description": "Seamless responsive software",
+            "quantity": 1,
+            "unit_price": 189.39,
+            "total_price": 189.39
+        }
+    ],
+    "amount": 2221.63
+}

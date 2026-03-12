@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Saunders Inc",
+    "invoice_number": "INV-94425",
+    "date": "2025-10-27",
+    "items": [
+        {
+            "description": "Seamless client-server neural-net",
+            "quantity": 5,
+            "unit_price": 450.39,
+            "total_price": 2251.95
+        },
+        {
+            "description": "Operative stable monitoring",
+            "quantity": 7,
+            "unit_price": 314.87,
+            "total_price": 2204.09
+        },
+        {
+            "description": "Switchable uniform strategy",
+            "quantity": 2,
+            "unit_price": 426.13,
+            "total_price": 852.26
+        },
+        {
+            "description": "Phased next generation frame",
+            "quantity": 10,
+            "unit_price": 338.93,
+            "total_price": 3389.3
+        }
+    ],
+    "amount": 8697.6
+}

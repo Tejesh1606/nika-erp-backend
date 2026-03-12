@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Martinez-Dudley",
+    "invoice_number": "INV-89806",
+    "date": "2026-01-13",
+    "items": [
+        {
+            "description": "Front-line tertiary complexity",
+            "quantity": 9,
+            "unit_price": 240.32,
+            "total_price": 2162.88
+        },
+        {
+            "description": "Integrated neutral access",
+            "quantity": 8,
+            "unit_price": 332.26,
+            "total_price": 2658.08
+        },
+        {
+            "description": "Reactive incremental array",
+            "quantity": 4,
+            "unit_price": 224.38,
+            "total_price": 897.52
+        },
+        {
+            "description": "Face-to-face bifurcated Local Area Network",
+            "quantity": 5,
+            "unit_price": 329.5,
+            "total_price": 1647.5
+        }
+    ],
+    "amount": 7365.98
+}

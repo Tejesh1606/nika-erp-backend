@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mcdonald, Stark and Smith",
+    "invoice_number": "INV-73723",
+    "date": "2025-07-13",
+    "items": [
+        {
+            "description": "Configurable composite array",
+            "quantity": 6,
+            "unit_price": 70.28,
+            "total_price": 421.68
+        },
+        {
+            "description": "Centralized background middleware",
+            "quantity": 9,
+            "unit_price": 464.29,
+            "total_price": 4178.61
+        }
+    ],
+    "amount": 4600.29
+}

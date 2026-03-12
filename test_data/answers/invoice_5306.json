@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Stafford-Andersen",
+    "invoice_number": "INV-94527",
+    "date": "2025-06-04",
+    "items": [
+        {
+            "description": "Optimized empowering Graphic Interface",
+            "quantity": 7,
+            "unit_price": 164.14,
+            "total_price": 1148.98
+        }
+    ],
+    "amount": 1148.98
+}

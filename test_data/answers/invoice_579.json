@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Lloyd PLC",
+    "invoice_number": "INV-30195",
+    "date": "2025-05-21",
+    "items": [
+        {
+            "description": "Mandatory mission-critical superstructure",
+            "quantity": 4,
+            "unit_price": 384.59,
+            "total_price": 1538.36
+        },
+        {
+            "description": "Progressive fault-tolerant time-frame",
+            "quantity": 10,
+            "unit_price": 77.93,
+            "total_price": 779.3
+        }
+    ],
+    "amount": 2317.66
+}

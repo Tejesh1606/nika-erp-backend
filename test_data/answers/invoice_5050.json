@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Smith LLC",
+    "invoice_number": "INV-77463",
+    "date": "2026-01-21",
+    "items": [
+        {
+            "description": "Multi-channeled exuding superstructure",
+            "quantity": 8,
+            "unit_price": 286.82,
+            "total_price": 2294.56
+        },
+        {
+            "description": "Switchable bi-directional success",
+            "quantity": 2,
+            "unit_price": 34.87,
+            "total_price": 69.74
+        },
+        {
+            "description": "Visionary user-facing challenge",
+            "quantity": 7,
+            "unit_price": 54.49,
+            "total_price": 381.43
+        },
+        {
+            "description": "Synergized content-based secured line",
+            "quantity": 5,
+            "unit_price": 314.47,
+            "total_price": 1572.35
+        }
+    ],
+    "amount": 4318.08
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Harvey, Simmons and Hunt",
+    "invoice_number": "INV-50459",
+    "date": "2025-05-26",
+    "items": [
+        {
+            "description": "Multi-channeled national standardization",
+            "quantity": 6,
+            "unit_price": 280.85,
+            "total_price": 1685.1
+        },
+        {
+            "description": "Synergized static hierarchy",
+            "quantity": 8,
+            "unit_price": 74.3,
+            "total_price": 594.4
+        },
+        {
+            "description": "Secured optimal benchmark",
+            "quantity": 4,
+            "unit_price": 400.25,
+            "total_price": 1601.0
+        },
+        {
+            "description": "Robust maximized time-frame",
+            "quantity": 2,
+            "unit_price": 241.83,
+            "total_price": 483.66
+        }
+    ],
+    "amount": 4364.16
+}

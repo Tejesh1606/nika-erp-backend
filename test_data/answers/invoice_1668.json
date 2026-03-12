@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ryan and Sons",
+    "invoice_number": "INV-26571",
+    "date": "2025-06-10",
+    "items": [
+        {
+            "description": "Business-focused multimedia portal",
+            "quantity": 3,
+            "unit_price": 165.8,
+            "total_price": 497.4
+        }
+    ],
+    "amount": 497.4
+}

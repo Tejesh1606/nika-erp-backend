@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Padilla, Wells and Clements",
+    "invoice_number": "INV-63937",
+    "date": "2025-12-23",
+    "items": [
+        {
+            "description": "Organic secondary knowledge user",
+            "quantity": 8,
+            "unit_price": 85.58,
+            "total_price": 684.64
+        },
+        {
+            "description": "Progressive static utilization",
+            "quantity": 5,
+            "unit_price": 411.32,
+            "total_price": 2056.6
+        },
+        {
+            "description": "Cloned multi-state task-force",
+            "quantity": 4,
+            "unit_price": 469.98,
+            "total_price": 1879.92
+        },
+        {
+            "description": "Re-contextualized multi-state toolset",
+            "quantity": 2,
+            "unit_price": 13.06,
+            "total_price": 26.12
+        }
+    ],
+    "amount": 4647.28
+}

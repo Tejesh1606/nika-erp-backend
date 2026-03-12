@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith-Gallegos",
+    "invoice_number": "INV-53769",
+    "date": "2025-05-28",
+    "items": [
+        {
+            "description": "Proactive uniform info-mediaries",
+            "quantity": 7,
+            "unit_price": 340.37,
+            "total_price": 2382.59
+        }
+    ],
+    "amount": 2382.59
+}

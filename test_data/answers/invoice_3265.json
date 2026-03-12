@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Adams Ltd",
+    "invoice_number": "INV-55476",
+    "date": "2026-01-18",
+    "items": [
+        {
+            "description": "Versatile web-enabled productivity",
+            "quantity": 3,
+            "unit_price": 49.35,
+            "total_price": 148.05
+        }
+    ],
+    "amount": 148.05
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "White-Carlson",
+    "invoice_number": "INV-94302",
+    "date": "2025-12-05",
+    "items": [
+        {
+            "description": "Inverse non-volatile installation",
+            "quantity": 3,
+            "unit_price": 299.78,
+            "total_price": 899.34
+        },
+        {
+            "description": "Visionary 5thgeneration capacity",
+            "quantity": 4,
+            "unit_price": 118.53,
+            "total_price": 474.12
+        }
+    ],
+    "amount": 1373.46
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Johnson, Decker and Williams",
+    "invoice_number": "INV-89746",
+    "date": "2025-03-29",
+    "items": [
+        {
+            "description": "Reactive didactic analyzer",
+            "quantity": 6,
+            "unit_price": 57.65,
+            "total_price": 345.9
+        }
+    ],
+    "amount": 345.9
+}

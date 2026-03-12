@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Harrison, Gonzales and Lewis",
+    "invoice_number": "INV-52702",
+    "date": "2025-03-12",
+    "items": [
+        {
+            "description": "Open-source well-modulated frame",
+            "quantity": 6,
+            "unit_price": 136.45,
+            "total_price": 818.7
+        },
+        {
+            "description": "Enhanced tangible knowledgebase",
+            "quantity": 4,
+            "unit_price": 469.24,
+            "total_price": 1876.96
+        },
+        {
+            "description": "Diverse non-volatile success",
+            "quantity": 1,
+            "unit_price": 98.81,
+            "total_price": 98.81
+        }
+    ],
+    "amount": 2794.47
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mann-Hansen",
+    "invoice_number": "INV-81137",
+    "date": "2025-12-04",
+    "items": [
+        {
+            "description": "Pre-emptive content-based open system",
+            "quantity": 9,
+            "unit_price": 494.79,
+            "total_price": 4453.11
+        },
+        {
+            "description": "Enterprise-wide needs-based hardware",
+            "quantity": 1,
+            "unit_price": 277.01,
+            "total_price": 277.01
+        },
+        {
+            "description": "Inverse upward-trending Local Area Network",
+            "quantity": 3,
+            "unit_price": 329.73,
+            "total_price": 989.19
+        }
+    ],
+    "amount": 5719.31
+}

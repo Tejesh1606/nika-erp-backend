@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Bush Inc",
+    "invoice_number": "INV-96673",
+    "date": "2025-06-05",
+    "items": [
+        {
+            "description": "Visionary explicit artificial intelligence",
+            "quantity": 10,
+            "unit_price": 278.6,
+            "total_price": 2786.0
+        }
+    ],
+    "amount": 2786.0
+}

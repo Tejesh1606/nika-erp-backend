@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Sanchez-Espinoza",
+    "invoice_number": "INV-73059",
+    "date": "2025-06-08",
+    "items": [
+        {
+            "description": "Centralized value-added help-desk",
+            "quantity": 7,
+            "unit_price": 391.46,
+            "total_price": 2740.22
+        },
+        {
+            "description": "Reactive global monitoring",
+            "quantity": 3,
+            "unit_price": 271.64,
+            "total_price": 814.92
+        },
+        {
+            "description": "Enhanced asynchronous process improvement",
+            "quantity": 9,
+            "unit_price": 143.7,
+            "total_price": 1293.3
+        }
+    ],
+    "amount": 4848.44
+}

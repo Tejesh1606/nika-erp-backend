@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Randall-Black",
+    "invoice_number": "INV-24577",
+    "date": "2025-06-11",
+    "items": [
+        {
+            "description": "Customer-focused explicit hierarchy",
+            "quantity": 9,
+            "unit_price": 220.66,
+            "total_price": 1985.94
+        },
+        {
+            "description": "Virtual homogeneous challenge",
+            "quantity": 6,
+            "unit_price": 324.05,
+            "total_price": 1944.3
+        }
+    ],
+    "amount": 3930.24
+}

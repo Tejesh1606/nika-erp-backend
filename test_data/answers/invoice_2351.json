@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Munoz-White",
+    "invoice_number": "INV-15898",
+    "date": "2026-01-20",
+    "items": [
+        {
+            "description": "Grass-roots interactive workforce",
+            "quantity": 5,
+            "unit_price": 174.44,
+            "total_price": 872.2
+        }
+    ],
+    "amount": 872.2
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Scott Inc",
+    "invoice_number": "INV-40928",
+    "date": "2025-07-25",
+    "items": [
+        {
+            "description": "Streamlined 3rdgeneration Graphical User Interface",
+            "quantity": 6,
+            "unit_price": 130.77,
+            "total_price": 784.62
+        }
+    ],
+    "amount": 784.62
+}

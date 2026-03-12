@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Schneider LLC",
+    "invoice_number": "INV-75480",
+    "date": "2025-10-31",
+    "items": [
+        {
+            "description": "Versatile disintermediate process improvement",
+            "quantity": 4,
+            "unit_price": 389.08,
+            "total_price": 1556.32
+        }
+    ],
+    "amount": 1556.32
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Kaufman, Roberts and Hughes",
+    "invoice_number": "INV-16484",
+    "date": "2025-08-05",
+    "items": [
+        {
+            "description": "Total asynchronous superstructure",
+            "quantity": 6,
+            "unit_price": 311.56,
+            "total_price": 1869.36
+        }
+    ],
+    "amount": 1869.36
+}

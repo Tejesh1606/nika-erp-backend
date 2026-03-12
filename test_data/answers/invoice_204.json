@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bennett, Frye and Stevens",
+    "invoice_number": "INV-79878",
+    "date": "2025-07-19",
+    "items": [
+        {
+            "description": "Quality-focused heuristic service-desk",
+            "quantity": 2,
+            "unit_price": 236.3,
+            "total_price": 472.6
+        },
+        {
+            "description": "Visionary uniform software",
+            "quantity": 3,
+            "unit_price": 396.66,
+            "total_price": 1189.98
+        }
+    ],
+    "amount": 1662.58
+}

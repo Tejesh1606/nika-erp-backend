@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Fox, Soto and Davis",
+    "invoice_number": "INV-47765",
+    "date": "2025-03-13",
+    "items": [
+        {
+            "description": "Versatile 24hour benchmark",
+            "quantity": 1,
+            "unit_price": 140.72,
+            "total_price": 140.72
+        },
+        {
+            "description": "Cross-group client-driven parallelism",
+            "quantity": 7,
+            "unit_price": 46.88,
+            "total_price": 328.16
+        },
+        {
+            "description": "Monitored client-driven application",
+            "quantity": 7,
+            "unit_price": 140.85,
+            "total_price": 985.95
+        },
+        {
+            "description": "Pre-emptive stable success",
+            "quantity": 1,
+            "unit_price": 380.59,
+            "total_price": 380.59
+        }
+    ],
+    "amount": 1835.42
+}

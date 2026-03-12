@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson-Clark",
+    "invoice_number": "INV-80517",
+    "date": "2025-05-30",
+    "items": [
+        {
+            "description": "Expanded needs-based model",
+            "quantity": 5,
+            "unit_price": 121.92,
+            "total_price": 609.6
+        },
+        {
+            "description": "Versatile empowering neural-net",
+            "quantity": 5,
+            "unit_price": 100.56,
+            "total_price": 502.8
+        },
+        {
+            "description": "Polarized regional superstructure",
+            "quantity": 6,
+            "unit_price": 418.83,
+            "total_price": 2512.98
+        },
+        {
+            "description": "Digitized system-worthy standardization",
+            "quantity": 10,
+            "unit_price": 489.0,
+            "total_price": 4890.0
+        }
+    ],
+    "amount": 8515.38
+}

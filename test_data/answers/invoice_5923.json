@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Phillips, Garcia and Miller",
+    "invoice_number": "INV-17034",
+    "date": "2025-07-25",
+    "items": [
+        {
+            "description": "Robust dynamic approach",
+            "quantity": 8,
+            "unit_price": 87.26,
+            "total_price": 698.08
+        },
+        {
+            "description": "Reactive object-oriented model",
+            "quantity": 7,
+            "unit_price": 170.94,
+            "total_price": 1196.58
+        },
+        {
+            "description": "Secured transitional emulation",
+            "quantity": 8,
+            "unit_price": 336.56,
+            "total_price": 2692.48
+        },
+        {
+            "description": "Assimilated non-volatile standardization",
+            "quantity": 6,
+            "unit_price": 147.59,
+            "total_price": 885.54
+        }
+    ],
+    "amount": 5472.68
+}

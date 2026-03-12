@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Macias, Collins and Hoffman",
+    "invoice_number": "INV-22931",
+    "date": "2025-07-31",
+    "items": [
+        {
+            "description": "Team-oriented scalable moratorium",
+            "quantity": 6,
+            "unit_price": 224.22,
+            "total_price": 1345.32
+        }
+    ],
+    "amount": 1345.32
+}

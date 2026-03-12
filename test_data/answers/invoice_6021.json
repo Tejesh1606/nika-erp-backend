@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Smith, Becker and Chavez",
+    "invoice_number": "INV-51575",
+    "date": "2025-10-06",
+    "items": [
+        {
+            "description": "De-engineered full-range extranet",
+            "quantity": 4,
+            "unit_price": 136.26,
+            "total_price": 545.04
+        },
+        {
+            "description": "Optimized methodical intranet",
+            "quantity": 10,
+            "unit_price": 303.08,
+            "total_price": 3030.8
+        },
+        {
+            "description": "Distributed disintermediate process improvement",
+            "quantity": 2,
+            "unit_price": 385.22,
+            "total_price": 770.44
+        },
+        {
+            "description": "Multi-tiered leadingedge secured line",
+            "quantity": 8,
+            "unit_price": 405.79,
+            "total_price": 3246.32
+        }
+    ],
+    "amount": 7592.6
+}

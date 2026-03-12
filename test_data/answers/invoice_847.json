@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Greene-Rivera",
+    "invoice_number": "INV-85813",
+    "date": "2025-10-14",
+    "items": [
+        {
+            "description": "Managed reciprocal framework",
+            "quantity": 5,
+            "unit_price": 459.64,
+            "total_price": 2298.2
+        },
+        {
+            "description": "Operative full-range complexity",
+            "quantity": 6,
+            "unit_price": 96.54,
+            "total_price": 579.24
+        }
+    ],
+    "amount": 2877.44
+}

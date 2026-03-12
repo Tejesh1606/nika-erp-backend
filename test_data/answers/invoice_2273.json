@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Clarke Group",
+    "invoice_number": "INV-88966",
+    "date": "2025-11-23",
+    "items": [
+        {
+            "description": "Virtual homogeneous neural-net",
+            "quantity": 4,
+            "unit_price": 151.87,
+            "total_price": 607.48
+        },
+        {
+            "description": "Multi-channeled logistical firmware",
+            "quantity": 4,
+            "unit_price": 155.67,
+            "total_price": 622.68
+        }
+    ],
+    "amount": 1230.16
+}

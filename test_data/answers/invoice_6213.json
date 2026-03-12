@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hess-Dillon",
+    "invoice_number": "INV-34738",
+    "date": "2025-12-20",
+    "items": [
+        {
+            "description": "User-centric discrete access",
+            "quantity": 9,
+            "unit_price": 278.32,
+            "total_price": 2504.88
+        },
+        {
+            "description": "Implemented directional extranet",
+            "quantity": 2,
+            "unit_price": 249.55,
+            "total_price": 499.1
+        },
+        {
+            "description": "Secured encompassing open architecture",
+            "quantity": 6,
+            "unit_price": 130.82,
+            "total_price": 784.92
+        }
+    ],
+    "amount": 3788.9
+}

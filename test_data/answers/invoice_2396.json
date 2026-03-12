@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Bennett and Sons",
+    "invoice_number": "INV-50414",
+    "date": "2025-03-25",
+    "items": [
+        {
+            "description": "Multi-channeled heuristic definition",
+            "quantity": 3,
+            "unit_price": 53.83,
+            "total_price": 161.49
+        }
+    ],
+    "amount": 161.49
+}

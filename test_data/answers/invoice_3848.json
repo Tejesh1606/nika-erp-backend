@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mitchell-Vasquez",
+    "invoice_number": "INV-67063",
+    "date": "2025-11-04",
+    "items": [
+        {
+            "description": "Customizable bifurcated Local Area Network",
+            "quantity": 4,
+            "unit_price": 263.43,
+            "total_price": 1053.72
+        },
+        {
+            "description": "Self-enabling analyzing structure",
+            "quantity": 5,
+            "unit_price": 229.84,
+            "total_price": 1149.2
+        },
+        {
+            "description": "Team-oriented neutral knowledge user",
+            "quantity": 7,
+            "unit_price": 275.16,
+            "total_price": 1926.12
+        },
+        {
+            "description": "Advanced client-driven matrices",
+            "quantity": 4,
+            "unit_price": 78.04,
+            "total_price": 312.16
+        }
+    ],
+    "amount": 4441.2
+}

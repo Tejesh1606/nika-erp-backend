@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hardy, Garcia and Thomas",
+    "invoice_number": "INV-96090",
+    "date": "2025-07-23",
+    "items": [
+        {
+            "description": "Re-engineered 4thgeneration focus group",
+            "quantity": 2,
+            "unit_price": 499.1,
+            "total_price": 998.2
+        }
+    ],
+    "amount": 998.2
+}

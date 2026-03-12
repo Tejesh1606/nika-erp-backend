@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jenkins Group",
+    "invoice_number": "INV-57722",
+    "date": "2025-09-26",
+    "items": [
+        {
+            "description": "Integrated incremental instruction set",
+            "quantity": 4,
+            "unit_price": 81.12,
+            "total_price": 324.48
+        },
+        {
+            "description": "Grass-roots multi-state Internet solution",
+            "quantity": 3,
+            "unit_price": 237.85,
+            "total_price": 713.55
+        },
+        {
+            "description": "User-centric mission-critical structure",
+            "quantity": 5,
+            "unit_price": 263.35,
+            "total_price": 1316.75
+        }
+    ],
+    "amount": 2354.78
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Stephenson-Acevedo",
+    "invoice_number": "INV-66180",
+    "date": "2025-07-31",
+    "items": [
+        {
+            "description": "Stand-alone encompassing methodology",
+            "quantity": 9,
+            "unit_price": 468.62,
+            "total_price": 4217.58
+        },
+        {
+            "description": "Object-based heuristic attitude",
+            "quantity": 2,
+            "unit_price": 403.0,
+            "total_price": 806.0
+        },
+        {
+            "description": "Enterprise-wide interactive matrices",
+            "quantity": 6,
+            "unit_price": 193.23,
+            "total_price": 1159.38
+        }
+    ],
+    "amount": 6182.96
+}

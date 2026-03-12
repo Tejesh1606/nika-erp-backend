@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Peterson Group",
+    "invoice_number": "INV-69243",
+    "date": "2025-10-19",
+    "items": [
+        {
+            "description": "Right-sized methodical project",
+            "quantity": 3,
+            "unit_price": 256.99,
+            "total_price": 770.97
+        }
+    ],
+    "amount": 770.97
+}

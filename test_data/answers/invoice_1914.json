@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cox Inc",
+    "invoice_number": "INV-84625",
+    "date": "2025-09-01",
+    "items": [
+        {
+            "description": "Multi-tiered 3rdgeneration solution",
+            "quantity": 9,
+            "unit_price": 281.04,
+            "total_price": 2529.36
+        },
+        {
+            "description": "Right-sized disintermediate capacity",
+            "quantity": 5,
+            "unit_price": 156.35,
+            "total_price": 781.75
+        }
+    ],
+    "amount": 3311.11
+}

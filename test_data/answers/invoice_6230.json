@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gomez, Spence and Beck",
+    "invoice_number": "INV-83176",
+    "date": "2025-03-30",
+    "items": [
+        {
+            "description": "User-friendly local extranet",
+            "quantity": 4,
+            "unit_price": 36.16,
+            "total_price": 144.64
+        }
+    ],
+    "amount": 144.64
+}

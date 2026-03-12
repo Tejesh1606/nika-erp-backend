@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Swanson PLC",
+    "invoice_number": "INV-75944",
+    "date": "2025-09-19",
+    "items": [
+        {
+            "description": "Phased context-sensitive instruction set",
+            "quantity": 4,
+            "unit_price": 429.84,
+            "total_price": 1719.36
+        },
+        {
+            "description": "Expanded tertiary firmware",
+            "quantity": 6,
+            "unit_price": 428.48,
+            "total_price": 2570.88
+        },
+        {
+            "description": "Synergized object-oriented conglomeration",
+            "quantity": 5,
+            "unit_price": 71.24,
+            "total_price": 356.2
+        }
+    ],
+    "amount": 4646.44
+}

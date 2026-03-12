@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Nguyen PLC",
+    "invoice_number": "INV-93155",
+    "date": "2025-07-13",
+    "items": [
+        {
+            "description": "Polarized multimedia utilization",
+            "quantity": 10,
+            "unit_price": 320.56,
+            "total_price": 3205.6
+        }
+    ],
+    "amount": 3205.6
+}

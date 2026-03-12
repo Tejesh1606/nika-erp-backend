@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Shaw, Murray and Jordan",
+    "invoice_number": "INV-15076",
+    "date": "2025-05-18",
+    "items": [
+        {
+            "description": "Persistent dedicated capability",
+            "quantity": 5,
+            "unit_price": 491.24,
+            "total_price": 2456.2
+        },
+        {
+            "description": "Optimized 3rdgeneration encoding",
+            "quantity": 1,
+            "unit_price": 237.48,
+            "total_price": 237.48
+        }
+    ],
+    "amount": 2693.68
+}

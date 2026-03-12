@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Medina Group",
+    "invoice_number": "INV-74444",
+    "date": "2025-08-12",
+    "items": [
+        {
+            "description": "User-friendly 5thgeneration framework",
+            "quantity": 5,
+            "unit_price": 442.19,
+            "total_price": 2210.95
+        },
+        {
+            "description": "Centralized incremental circuit",
+            "quantity": 8,
+            "unit_price": 342.29,
+            "total_price": 2738.32
+        },
+        {
+            "description": "Fully-configurable contextually-based attitude",
+            "quantity": 8,
+            "unit_price": 296.95,
+            "total_price": 2375.6
+        }
+    ],
+    "amount": 7324.87
+}

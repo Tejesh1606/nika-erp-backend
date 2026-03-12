@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gibson-Baxter",
+    "invoice_number": "INV-81961",
+    "date": "2025-05-01",
+    "items": [
+        {
+            "description": "Cross-group cohesive info-mediaries",
+            "quantity": 2,
+            "unit_price": 355.01,
+            "total_price": 710.02
+        },
+        {
+            "description": "Enterprise-wide intangible firmware",
+            "quantity": 10,
+            "unit_price": 355.1,
+            "total_price": 3551.0
+        }
+    ],
+    "amount": 4261.02
+}

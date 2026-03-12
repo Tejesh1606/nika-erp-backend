@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jones and Sons",
+    "invoice_number": "INV-27187",
+    "date": "2025-11-13",
+    "items": [
+        {
+            "description": "Customizable fresh-thinking functionalities",
+            "quantity": 7,
+            "unit_price": 161.36,
+            "total_price": 1129.52
+        },
+        {
+            "description": "Cloned demand-driven ability",
+            "quantity": 10,
+            "unit_price": 155.36,
+            "total_price": 1553.6
+        },
+        {
+            "description": "Inverse global matrices",
+            "quantity": 9,
+            "unit_price": 261.02,
+            "total_price": 2349.18
+        },
+        {
+            "description": "Automated multi-state database",
+            "quantity": 4,
+            "unit_price": 364.13,
+            "total_price": 1456.52
+        }
+    ],
+    "amount": 6488.82
+}

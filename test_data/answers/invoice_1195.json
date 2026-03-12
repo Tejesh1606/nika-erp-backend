@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Myers, Howard and Castillo",
+    "invoice_number": "INV-22652",
+    "date": "2025-06-02",
+    "items": [
+        {
+            "description": "Customizable web-enabled task-force",
+            "quantity": 1,
+            "unit_price": 488.35,
+            "total_price": 488.35
+        },
+        {
+            "description": "Horizontal intangible knowledge user",
+            "quantity": 6,
+            "unit_price": 87.3,
+            "total_price": 523.8
+        },
+        {
+            "description": "Inverse dynamic protocol",
+            "quantity": 5,
+            "unit_price": 211.82,
+            "total_price": 1059.1
+        }
+    ],
+    "amount": 2071.25
+}

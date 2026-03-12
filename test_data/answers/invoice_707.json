@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Henry and Sons",
+    "invoice_number": "INV-50954",
+    "date": "2025-12-11",
+    "items": [
+        {
+            "description": "Networked mobile task-force",
+            "quantity": 10,
+            "unit_price": 19.31,
+            "total_price": 193.1
+        },
+        {
+            "description": "Customizable non-volatile service-desk",
+            "quantity": 1,
+            "unit_price": 31.32,
+            "total_price": 31.32
+        },
+        {
+            "description": "Pre-emptive stable neural-net",
+            "quantity": 2,
+            "unit_price": 291.89,
+            "total_price": 583.78
+        },
+        {
+            "description": "Synergized needs-based orchestration",
+            "quantity": 4,
+            "unit_price": 88.39,
+            "total_price": 353.56
+        }
+    ],
+    "amount": 1161.76
+}

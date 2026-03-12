@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Garcia LLC",
+    "invoice_number": "INV-30929",
+    "date": "2025-05-05",
+    "items": [
+        {
+            "description": "Adaptive bandwidth-monitored encoding",
+            "quantity": 4,
+            "unit_price": 214.92,
+            "total_price": 859.68
+        },
+        {
+            "description": "Public-key stable neural-net",
+            "quantity": 9,
+            "unit_price": 419.61,
+            "total_price": 3776.49
+        },
+        {
+            "description": "Down-sized high-level utilization",
+            "quantity": 6,
+            "unit_price": 369.35,
+            "total_price": 2216.1
+        }
+    ],
+    "amount": 6852.27
+}

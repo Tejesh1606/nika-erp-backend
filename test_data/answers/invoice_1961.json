@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Perkins Ltd",
+    "invoice_number": "INV-34480",
+    "date": "2025-11-20",
+    "items": [
+        {
+            "description": "Re-engineered tangible time-frame",
+            "quantity": 1,
+            "unit_price": 430.86,
+            "total_price": 430.86
+        }
+    ],
+    "amount": 430.86
+}

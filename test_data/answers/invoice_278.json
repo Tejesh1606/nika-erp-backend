@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lloyd PLC",
+    "invoice_number": "INV-34505",
+    "date": "2025-07-29",
+    "items": [
+        {
+            "description": "Inverse dedicated knowledgebase",
+            "quantity": 2,
+            "unit_price": 118.27,
+            "total_price": 236.54
+        },
+        {
+            "description": "Customizable empowering secured line",
+            "quantity": 10,
+            "unit_price": 251.98,
+            "total_price": 2519.8
+        },
+        {
+            "description": "Pre-emptive multi-tasking productivity",
+            "quantity": 9,
+            "unit_price": 446.49,
+            "total_price": 4018.41
+        }
+    ],
+    "amount": 6774.75
+}

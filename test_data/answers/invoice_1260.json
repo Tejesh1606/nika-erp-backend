@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Long, Jones and Freeman",
+    "invoice_number": "INV-86864",
+    "date": "2025-03-19",
+    "items": [
+        {
+            "description": "Face-to-face real-time conglomeration",
+            "quantity": 9,
+            "unit_price": 483.3,
+            "total_price": 4349.7
+        }
+    ],
+    "amount": 4349.7
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Marquez, Porter and Campbell",
+    "invoice_number": "INV-62746",
+    "date": "2025-03-23",
+    "items": [
+        {
+            "description": "Decentralized maximized algorithm",
+            "quantity": 4,
+            "unit_price": 220.66,
+            "total_price": 882.64
+        },
+        {
+            "description": "Ergonomic real-time info-mediaries",
+            "quantity": 2,
+            "unit_price": 13.48,
+            "total_price": 26.96
+        },
+        {
+            "description": "Cross-platform 3rdgeneration archive",
+            "quantity": 2,
+            "unit_price": 232.18,
+            "total_price": 464.36
+        }
+    ],
+    "amount": 1373.96
+}

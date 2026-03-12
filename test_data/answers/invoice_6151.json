@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Carroll LLC",
+    "invoice_number": "INV-63983",
+    "date": "2025-04-23",
+    "items": [
+        {
+            "description": "Future-proofed homogeneous orchestration",
+            "quantity": 6,
+            "unit_price": 244.15,
+            "total_price": 1464.9
+        },
+        {
+            "description": "Seamless even-keeled migration",
+            "quantity": 1,
+            "unit_price": 70.9,
+            "total_price": 70.9
+        },
+        {
+            "description": "Fully-configurable multimedia product",
+            "quantity": 5,
+            "unit_price": 86.89,
+            "total_price": 434.45
+        },
+        {
+            "description": "Multi-channeled impactful success",
+            "quantity": 9,
+            "unit_price": 413.05,
+            "total_price": 3717.45
+        }
+    ],
+    "amount": 5687.7
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Anderson Group",
+    "invoice_number": "INV-75277",
+    "date": "2025-07-26",
+    "items": [
+        {
+            "description": "De-engineered tangible benchmark",
+            "quantity": 9,
+            "unit_price": 24.85,
+            "total_price": 223.65
+        }
+    ],
+    "amount": 223.65
+}

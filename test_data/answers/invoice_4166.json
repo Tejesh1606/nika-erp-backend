@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brown-Jacobs",
+    "invoice_number": "INV-54157",
+    "date": "2025-08-08",
+    "items": [
+        {
+            "description": "Open-architected didactic adapter",
+            "quantity": 5,
+            "unit_price": 156.86,
+            "total_price": 784.3
+        },
+        {
+            "description": "Centralized solution-oriented infrastructure",
+            "quantity": 3,
+            "unit_price": 372.25,
+            "total_price": 1116.75
+        },
+        {
+            "description": "Exclusive human-resource circuit",
+            "quantity": 6,
+            "unit_price": 164.61,
+            "total_price": 987.66
+        }
+    ],
+    "amount": 2888.71
+}

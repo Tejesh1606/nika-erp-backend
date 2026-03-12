@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hernandez-Meyer",
+    "invoice_number": "INV-92160",
+    "date": "2025-04-16",
+    "items": [
+        {
+            "description": "Optimized systemic toolset",
+            "quantity": 3,
+            "unit_price": 439.82,
+            "total_price": 1319.46
+        },
+        {
+            "description": "Compatible clear-thinking paradigm",
+            "quantity": 8,
+            "unit_price": 400.01,
+            "total_price": 3200.08
+        }
+    ],
+    "amount": 4519.54
+}

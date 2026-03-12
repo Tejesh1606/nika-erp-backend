@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ali, Mayer and Moore",
+    "invoice_number": "INV-15529",
+    "date": "2025-12-23",
+    "items": [
+        {
+            "description": "Reactive multi-state capability",
+            "quantity": 4,
+            "unit_price": 83.33,
+            "total_price": 333.32
+        },
+        {
+            "description": "Function-based mission-critical productivity",
+            "quantity": 2,
+            "unit_price": 373.25,
+            "total_price": 746.5
+        }
+    ],
+    "amount": 1079.82
+}

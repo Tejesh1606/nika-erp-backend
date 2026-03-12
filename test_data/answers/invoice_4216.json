@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Carroll-Olsen",
+    "invoice_number": "INV-30393",
+    "date": "2025-04-21",
+    "items": [
+        {
+            "description": "Horizontal uniform orchestration",
+            "quantity": 5,
+            "unit_price": 66.73,
+            "total_price": 333.65
+        },
+        {
+            "description": "Down-sized fault-tolerant artificial intelligence",
+            "quantity": 3,
+            "unit_price": 15.71,
+            "total_price": 47.13
+        }
+    ],
+    "amount": 380.78
+}

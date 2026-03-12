@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Bush Group",
+    "invoice_number": "INV-46872",
+    "date": "2025-11-20",
+    "items": [
+        {
+            "description": "Synergistic bottom-line function",
+            "quantity": 7,
+            "unit_price": 85.7,
+            "total_price": 599.9
+        },
+        {
+            "description": "Optional empowering task-force",
+            "quantity": 7,
+            "unit_price": 456.35,
+            "total_price": 3194.45
+        },
+        {
+            "description": "Future-proofed 24hour utilization",
+            "quantity": 1,
+            "unit_price": 190.46,
+            "total_price": 190.46
+        },
+        {
+            "description": "Down-sized intermediate solution",
+            "quantity": 1,
+            "unit_price": 66.28,
+            "total_price": 66.28
+        }
+    ],
+    "amount": 4051.09
+}

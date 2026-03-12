@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Williams and Sons",
+    "invoice_number": "INV-80781",
+    "date": "2025-12-26",
+    "items": [
+        {
+            "description": "Stand-alone object-oriented protocol",
+            "quantity": 1,
+            "unit_price": 103.43,
+            "total_price": 103.43
+        },
+        {
+            "description": "Enterprise-wide composite core",
+            "quantity": 9,
+            "unit_price": 279.29,
+            "total_price": 2513.61
+        },
+        {
+            "description": "Programmable empowering database",
+            "quantity": 4,
+            "unit_price": 57.12,
+            "total_price": 228.48
+        },
+        {
+            "description": "Multi-lateral maximized portal",
+            "quantity": 6,
+            "unit_price": 337.53,
+            "total_price": 2025.18
+        }
+    ],
+    "amount": 4870.7
+}

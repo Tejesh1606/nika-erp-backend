@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Guerrero-Moore",
+    "invoice_number": "INV-32782",
+    "date": "2025-10-09",
+    "items": [
+        {
+            "description": "Compatible cohesive ability",
+            "quantity": 9,
+            "unit_price": 83.24,
+            "total_price": 749.16
+        },
+        {
+            "description": "Open-source local solution",
+            "quantity": 9,
+            "unit_price": 34.69,
+            "total_price": 312.21
+        }
+    ],
+    "amount": 1061.37
+}

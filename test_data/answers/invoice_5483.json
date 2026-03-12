@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Roman, Wong and Brown",
+    "invoice_number": "INV-35001",
+    "date": "2025-03-18",
+    "items": [
+        {
+            "description": "Synergized homogeneous orchestration",
+            "quantity": 8,
+            "unit_price": 62.9,
+            "total_price": 503.2
+        },
+        {
+            "description": "Right-sized discrete moderator",
+            "quantity": 6,
+            "unit_price": 412.99,
+            "total_price": 2477.94
+        },
+        {
+            "description": "Digitized asymmetric focus group",
+            "quantity": 6,
+            "unit_price": 463.35,
+            "total_price": 2780.1
+        }
+    ],
+    "amount": 5761.24
+}

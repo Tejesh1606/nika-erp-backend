@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Reeves, Carpenter and Flores",
+    "invoice_number": "INV-34285",
+    "date": "2025-06-02",
+    "items": [
+        {
+            "description": "Realigned stable benchmark",
+            "quantity": 3,
+            "unit_price": 255.34,
+            "total_price": 766.02
+        },
+        {
+            "description": "Reactive composite utilization",
+            "quantity": 8,
+            "unit_price": 388.76,
+            "total_price": 3110.08
+        }
+    ],
+    "amount": 3876.1
+}

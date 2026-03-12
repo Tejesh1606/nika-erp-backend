@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Monroe and Sons",
+    "invoice_number": "INV-56728",
+    "date": "2026-02-22",
+    "items": [
+        {
+            "description": "Cloned attitude-oriented protocol",
+            "quantity": 3,
+            "unit_price": 451.56,
+            "total_price": 1354.68
+        },
+        {
+            "description": "Pre-emptive zero administration framework",
+            "quantity": 4,
+            "unit_price": 122.92,
+            "total_price": 491.68
+        }
+    ],
+    "amount": 1846.36
+}

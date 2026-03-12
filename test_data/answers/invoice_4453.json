@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ward, Clark and Grimes",
+    "invoice_number": "INV-25776",
+    "date": "2026-02-12",
+    "items": [
+        {
+            "description": "Progressive scalable flexibility",
+            "quantity": 10,
+            "unit_price": 45.43,
+            "total_price": 454.3
+        },
+        {
+            "description": "Cross-group multimedia algorithm",
+            "quantity": 2,
+            "unit_price": 250.18,
+            "total_price": 500.36
+        },
+        {
+            "description": "Multi-channeled value-added array",
+            "quantity": 6,
+            "unit_price": 488.27,
+            "total_price": 2929.62
+        }
+    ],
+    "amount": 3884.28
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mclaughlin-Larson",
+    "invoice_number": "INV-82653",
+    "date": "2025-06-29",
+    "items": [
+        {
+            "description": "Automated mobile initiative",
+            "quantity": 7,
+            "unit_price": 297.39,
+            "total_price": 2081.73
+        },
+        {
+            "description": "Pre-emptive multimedia parallelism",
+            "quantity": 1,
+            "unit_price": 421.61,
+            "total_price": 421.61
+        },
+        {
+            "description": "Up-sized reciprocal service-desk",
+            "quantity": 6,
+            "unit_price": 64.19,
+            "total_price": 385.14
+        },
+        {
+            "description": "Pre-emptive discrete structure",
+            "quantity": 6,
+            "unit_price": 452.23,
+            "total_price": 2713.38
+        }
+    ],
+    "amount": 5601.86
+}

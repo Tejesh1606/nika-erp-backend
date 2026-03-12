@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Powell, Moreno and Horton",
+    "invoice_number": "INV-30827",
+    "date": "2025-10-09",
+    "items": [
+        {
+            "description": "Down-sized homogeneous strategy",
+            "quantity": 10,
+            "unit_price": 94.98,
+            "total_price": 949.8
+        },
+        {
+            "description": "Open-source local frame",
+            "quantity": 1,
+            "unit_price": 443.61,
+            "total_price": 443.61
+        }
+    ],
+    "amount": 1393.41
+}

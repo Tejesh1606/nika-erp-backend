@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ortiz-Davis",
+    "invoice_number": "INV-83495",
+    "date": "2025-03-14",
+    "items": [
+        {
+            "description": "Profound transitional migration",
+            "quantity": 1,
+            "unit_price": 283.25,
+            "total_price": 283.25
+        },
+        {
+            "description": "Open-architected eco-centric function",
+            "quantity": 6,
+            "unit_price": 73.83,
+            "total_price": 442.98
+        }
+    ],
+    "amount": 726.23
+}

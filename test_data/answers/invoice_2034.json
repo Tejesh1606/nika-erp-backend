@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Richardson Group",
+    "invoice_number": "INV-45083",
+    "date": "2025-04-05",
+    "items": [
+        {
+            "description": "Compatible non-volatile throughput",
+            "quantity": 3,
+            "unit_price": 125.15,
+            "total_price": 375.45
+        },
+        {
+            "description": "Synergistic global groupware",
+            "quantity": 8,
+            "unit_price": 71.75,
+            "total_price": 574.0
+        },
+        {
+            "description": "Optimized encompassing adapter",
+            "quantity": 9,
+            "unit_price": 124.43,
+            "total_price": 1119.87
+        }
+    ],
+    "amount": 2069.32
+}

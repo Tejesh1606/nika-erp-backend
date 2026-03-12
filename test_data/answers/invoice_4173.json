@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Robinson Ltd",
+    "invoice_number": "INV-23745",
+    "date": "2025-05-30",
+    "items": [
+        {
+            "description": "De-engineered hybrid migration",
+            "quantity": 5,
+            "unit_price": 143.52,
+            "total_price": 717.6
+        },
+        {
+            "description": "Re-engineered content-based leverage",
+            "quantity": 6,
+            "unit_price": 477.11,
+            "total_price": 2862.66
+        },
+        {
+            "description": "Fundamental intangible adapter",
+            "quantity": 7,
+            "unit_price": 14.26,
+            "total_price": 99.82
+        }
+    ],
+    "amount": 3680.08
+}

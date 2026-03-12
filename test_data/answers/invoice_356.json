@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith-Roth",
+    "invoice_number": "INV-49722",
+    "date": "2025-07-07",
+    "items": [
+        {
+            "description": "Grass-roots mobile standardization",
+            "quantity": 4,
+            "unit_price": 478.79,
+            "total_price": 1915.16
+        }
+    ],
+    "amount": 1915.16
+}

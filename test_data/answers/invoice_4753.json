@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Romero, Gill and Payne",
+    "invoice_number": "INV-79567",
+    "date": "2026-03-01",
+    "items": [
+        {
+            "description": "Enterprise-wide zero tolerance moderator",
+            "quantity": 7,
+            "unit_price": 137.69,
+            "total_price": 963.83
+        },
+        {
+            "description": "Advanced systematic open system",
+            "quantity": 8,
+            "unit_price": 229.89,
+            "total_price": 1839.12
+        }
+    ],
+    "amount": 2802.95
+}

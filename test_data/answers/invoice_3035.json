@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Holland, Conley and Austin",
+    "invoice_number": "INV-84888",
+    "date": "2025-03-27",
+    "items": [
+        {
+            "description": "Virtual directional flexibility",
+            "quantity": 5,
+            "unit_price": 143.12,
+            "total_price": 715.6
+        },
+        {
+            "description": "Public-key secondary adapter",
+            "quantity": 1,
+            "unit_price": 82.2,
+            "total_price": 82.2
+        },
+        {
+            "description": "Stand-alone explicit capacity",
+            "quantity": 2,
+            "unit_price": 434.05,
+            "total_price": 868.1
+        }
+    ],
+    "amount": 1665.9
+}

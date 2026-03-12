@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hoover-Parrish",
+    "invoice_number": "INV-86607",
+    "date": "2025-12-17",
+    "items": [
+        {
+            "description": "Integrated holistic process improvement",
+            "quantity": 6,
+            "unit_price": 244.21,
+            "total_price": 1465.26
+        },
+        {
+            "description": "Visionary impactful extranet",
+            "quantity": 3,
+            "unit_price": 132.78,
+            "total_price": 398.34
+        },
+        {
+            "description": "Realigned needs-based project",
+            "quantity": 8,
+            "unit_price": 409.21,
+            "total_price": 3273.68
+        },
+        {
+            "description": "Switchable dedicated archive",
+            "quantity": 10,
+            "unit_price": 252.08,
+            "total_price": 2520.8
+        }
+    ],
+    "amount": 7658.08
+}

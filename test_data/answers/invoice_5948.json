@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wood, Cochran and Ewing",
+    "invoice_number": "INV-28121",
+    "date": "2025-07-07",
+    "items": [
+        {
+            "description": "Compatible modular capability",
+            "quantity": 8,
+            "unit_price": 161.13,
+            "total_price": 1289.04
+        },
+        {
+            "description": "Optional multi-state methodology",
+            "quantity": 9,
+            "unit_price": 456.4,
+            "total_price": 4107.6
+        },
+        {
+            "description": "Innovative mobile neural-net",
+            "quantity": 2,
+            "unit_price": 39.65,
+            "total_price": 79.3
+        },
+        {
+            "description": "Diverse foreground installation",
+            "quantity": 3,
+            "unit_price": 151.99,
+            "total_price": 455.97
+        }
+    ],
+    "amount": 5931.91
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Holmes-Lopez",
+    "invoice_number": "INV-33688",
+    "date": "2025-04-03",
+    "items": [
+        {
+            "description": "Realigned bifurcated open system",
+            "quantity": 3,
+            "unit_price": 275.45,
+            "total_price": 826.35
+        },
+        {
+            "description": "Managed attitude-oriented intranet",
+            "quantity": 4,
+            "unit_price": 60.6,
+            "total_price": 242.4
+        },
+        {
+            "description": "Cross-group zero tolerance portal",
+            "quantity": 2,
+            "unit_price": 317.14,
+            "total_price": 634.28
+        },
+        {
+            "description": "Adaptive local algorithm",
+            "quantity": 9,
+            "unit_price": 183.09,
+            "total_price": 1647.81
+        }
+    ],
+    "amount": 3350.84
+}

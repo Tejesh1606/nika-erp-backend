@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jones, Walker and Wolf",
+    "invoice_number": "INV-77611",
+    "date": "2025-09-16",
+    "items": [
+        {
+            "description": "Multi-channeled zero tolerance database",
+            "quantity": 3,
+            "unit_price": 61.28,
+            "total_price": 183.84
+        },
+        {
+            "description": "Stand-alone zero-defect software",
+            "quantity": 4,
+            "unit_price": 387.39,
+            "total_price": 1549.56
+        }
+    ],
+    "amount": 1733.4
+}

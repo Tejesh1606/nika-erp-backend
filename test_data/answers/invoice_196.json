@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wilson, Hester and Long",
+    "invoice_number": "INV-54444",
+    "date": "2025-10-11",
+    "items": [
+        {
+            "description": "Multi-lateral web-enabled circuit",
+            "quantity": 8,
+            "unit_price": 319.4,
+            "total_price": 2555.2
+        },
+        {
+            "description": "Exclusive real-time migration",
+            "quantity": 6,
+            "unit_price": 305.3,
+            "total_price": 1831.8
+        },
+        {
+            "description": "Open-architected motivating analyzer",
+            "quantity": 6,
+            "unit_price": 382.01,
+            "total_price": 2292.06
+        }
+    ],
+    "amount": 6679.06
+}

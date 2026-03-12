@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Clarke-Hogan",
+    "invoice_number": "INV-61835",
+    "date": "2025-12-21",
+    "items": [
+        {
+            "description": "Re-engineered zero administration toolset",
+            "quantity": 2,
+            "unit_price": 348.39,
+            "total_price": 696.78
+        },
+        {
+            "description": "Synergized real-time knowledge user",
+            "quantity": 6,
+            "unit_price": 145.53,
+            "total_price": 873.18
+        },
+        {
+            "description": "Multi-tiered national budgetary management",
+            "quantity": 4,
+            "unit_price": 288.18,
+            "total_price": 1152.72
+        },
+        {
+            "description": "User-friendly systematic implementation",
+            "quantity": 4,
+            "unit_price": 239.99,
+            "total_price": 959.96
+        }
+    ],
+    "amount": 3682.64
+}

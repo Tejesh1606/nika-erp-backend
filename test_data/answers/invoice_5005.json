@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Martin-Gonzales",
+    "invoice_number": "INV-70994",
+    "date": "2025-04-18",
+    "items": [
+        {
+            "description": "Customizable grid-enabled knowledge user",
+            "quantity": 5,
+            "unit_price": 50.05,
+            "total_price": 250.25
+        },
+        {
+            "description": "Reactive logistical core",
+            "quantity": 7,
+            "unit_price": 291.71,
+            "total_price": 2041.97
+        }
+    ],
+    "amount": 2292.22
+}

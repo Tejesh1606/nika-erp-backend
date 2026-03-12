@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hansen LLC",
+    "invoice_number": "INV-10573",
+    "date": "2025-03-17",
+    "items": [
+        {
+            "description": "Implemented clear-thinking customer loyalty",
+            "quantity": 3,
+            "unit_price": 392.68,
+            "total_price": 1178.04
+        },
+        {
+            "description": "Configurable static monitoring",
+            "quantity": 2,
+            "unit_price": 433.27,
+            "total_price": 866.54
+        }
+    ],
+    "amount": 2044.58
+}

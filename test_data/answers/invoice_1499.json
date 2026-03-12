@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Pham Inc",
+    "invoice_number": "INV-97981",
+    "date": "2025-06-22",
+    "items": [
+        {
+            "description": "Ergonomic disintermediate solution",
+            "quantity": 1,
+            "unit_price": 151.69,
+            "total_price": 151.69
+        },
+        {
+            "description": "Organized 24hour projection",
+            "quantity": 1,
+            "unit_price": 300.44,
+            "total_price": 300.44
+        },
+        {
+            "description": "Balanced non-volatile Internet solution",
+            "quantity": 8,
+            "unit_price": 122.35,
+            "total_price": 978.8
+        },
+        {
+            "description": "Realigned tangible matrix",
+            "quantity": 2,
+            "unit_price": 256.28,
+            "total_price": 512.56
+        }
+    ],
+    "amount": 1943.49
+}

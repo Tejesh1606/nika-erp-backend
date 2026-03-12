@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Johnson-Stevens",
+    "invoice_number": "INV-79340",
+    "date": "2025-06-19",
+    "items": [
+        {
+            "description": "Open-source logistical parallelism",
+            "quantity": 6,
+            "unit_price": 65.7,
+            "total_price": 394.2
+        }
+    ],
+    "amount": 394.2
+}

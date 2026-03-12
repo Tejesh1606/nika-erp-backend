@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Cole PLC",
+    "invoice_number": "INV-87788",
+    "date": "2025-11-27",
+    "items": [
+        {
+            "description": "Open-source logistical Local Area Network",
+            "quantity": 9,
+            "unit_price": 438.02,
+            "total_price": 3942.18
+        },
+        {
+            "description": "Total motivating moderator",
+            "quantity": 1,
+            "unit_price": 84.54,
+            "total_price": 84.54
+        },
+        {
+            "description": "Public-key optimizing concept",
+            "quantity": 3,
+            "unit_price": 325.52,
+            "total_price": 976.56
+        },
+        {
+            "description": "Stand-alone transitional superstructure",
+            "quantity": 5,
+            "unit_price": 140.19,
+            "total_price": 700.95
+        }
+    ],
+    "amount": 5704.23
+}

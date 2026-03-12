@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cox-Goodwin",
+    "invoice_number": "INV-45173",
+    "date": "2025-03-27",
+    "items": [
+        {
+            "description": "Automated systematic interface",
+            "quantity": 9,
+            "unit_price": 181.68,
+            "total_price": 1635.12
+        },
+        {
+            "description": "Function-based fault-tolerant projection",
+            "quantity": 3,
+            "unit_price": 372.46,
+            "total_price": 1117.38
+        }
+    ],
+    "amount": 2752.5
+}

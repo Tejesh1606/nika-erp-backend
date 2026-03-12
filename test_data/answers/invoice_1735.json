@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ho, Marshall and Harris",
+    "invoice_number": "INV-31531",
+    "date": "2025-11-27",
+    "items": [
+        {
+            "description": "Customer-focused attitude-oriented portal",
+            "quantity": 5,
+            "unit_price": 72.8,
+            "total_price": 364.0
+        },
+        {
+            "description": "Diverse 24hour implementation",
+            "quantity": 6,
+            "unit_price": 56.35,
+            "total_price": 338.1
+        },
+        {
+            "description": "Customizable directional system engine",
+            "quantity": 9,
+            "unit_price": 28.26,
+            "total_price": 254.34
+        }
+    ],
+    "amount": 956.44
+}

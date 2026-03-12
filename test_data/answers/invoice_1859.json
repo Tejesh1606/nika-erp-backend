@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Berry, Payne and Williams",
+    "invoice_number": "INV-80915",
+    "date": "2026-02-24",
+    "items": [
+        {
+            "description": "Upgradable 24hour initiative",
+            "quantity": 10,
+            "unit_price": 165.84,
+            "total_price": 1658.4
+        },
+        {
+            "description": "Persistent neutral circuit",
+            "quantity": 10,
+            "unit_price": 495.88,
+            "total_price": 4958.8
+        }
+    ],
+    "amount": 6617.2
+}

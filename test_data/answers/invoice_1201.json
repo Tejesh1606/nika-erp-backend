@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Rivera, Jacobs and Smith",
+    "invoice_number": "INV-12767",
+    "date": "2026-01-14",
+    "items": [
+        {
+            "description": "Multi-tiered background time-frame",
+            "quantity": 1,
+            "unit_price": 163.16,
+            "total_price": 163.16
+        }
+    ],
+    "amount": 163.16
+}

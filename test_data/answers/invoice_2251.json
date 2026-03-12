@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Clark, Smith and Gutierrez",
+    "invoice_number": "INV-24267",
+    "date": "2026-01-16",
+    "items": [
+        {
+            "description": "Profound exuding middleware",
+            "quantity": 1,
+            "unit_price": 171.96,
+            "total_price": 171.96
+        },
+        {
+            "description": "Re-contextualized mission-critical framework",
+            "quantity": 6,
+            "unit_price": 333.92,
+            "total_price": 2003.52
+        },
+        {
+            "description": "Digitized clear-thinking encoding",
+            "quantity": 3,
+            "unit_price": 341.37,
+            "total_price": 1024.11
+        }
+    ],
+    "amount": 3199.59
+}

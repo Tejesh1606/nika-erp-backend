@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Matthews PLC",
+    "invoice_number": "INV-29708",
+    "date": "2025-06-22",
+    "items": [
+        {
+            "description": "Universal full-range productivity",
+            "quantity": 7,
+            "unit_price": 447.23,
+            "total_price": 3130.61
+        }
+    ],
+    "amount": 3130.61
+}

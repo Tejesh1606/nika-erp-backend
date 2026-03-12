@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hester Ltd",
+    "invoice_number": "INV-10152",
+    "date": "2026-01-24",
+    "items": [
+        {
+            "description": "Advanced content-based software",
+            "quantity": 1,
+            "unit_price": 378.02,
+            "total_price": 378.02
+        }
+    ],
+    "amount": 378.02
+}

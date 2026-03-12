@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Stephens-Levine",
+    "invoice_number": "INV-57012",
+    "date": "2025-04-01",
+    "items": [
+        {
+            "description": "Object-based even-keeled core",
+            "quantity": 5,
+            "unit_price": 125.02,
+            "total_price": 625.1
+        }
+    ],
+    "amount": 625.1
+}

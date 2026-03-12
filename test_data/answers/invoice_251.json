@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Frey, Santos and Johnson",
+    "invoice_number": "INV-63120",
+    "date": "2025-08-03",
+    "items": [
+        {
+            "description": "Multi-tiered neutral leverage",
+            "quantity": 9,
+            "unit_price": 200.75,
+            "total_price": 1806.75
+        },
+        {
+            "description": "Centralized scalable access",
+            "quantity": 8,
+            "unit_price": 295.06,
+            "total_price": 2360.48
+        },
+        {
+            "description": "Total composite artificial intelligence",
+            "quantity": 4,
+            "unit_price": 180.6,
+            "total_price": 722.4
+        }
+    ],
+    "amount": 4889.63
+}

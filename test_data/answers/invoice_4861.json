@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Terry-Henry",
+    "invoice_number": "INV-18141",
+    "date": "2025-05-02",
+    "items": [
+        {
+            "description": "Self-enabling national system engine",
+            "quantity": 8,
+            "unit_price": 281.61,
+            "total_price": 2252.88
+        }
+    ],
+    "amount": 2252.88
+}

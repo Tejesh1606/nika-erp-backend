@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Meyer Group",
+    "invoice_number": "INV-94940",
+    "date": "2026-01-18",
+    "items": [
+        {
+            "description": "Horizontal web-enabled algorithm",
+            "quantity": 2,
+            "unit_price": 105.94,
+            "total_price": 211.88
+        },
+        {
+            "description": "Focused upward-trending groupware",
+            "quantity": 7,
+            "unit_price": 290.17,
+            "total_price": 2031.19
+        },
+        {
+            "description": "Mandatory dynamic database",
+            "quantity": 6,
+            "unit_price": 355.98,
+            "total_price": 2135.88
+        },
+        {
+            "description": "Quality-focused actuating secured line",
+            "quantity": 10,
+            "unit_price": 321.49,
+            "total_price": 3214.9
+        }
+    ],
+    "amount": 7593.85
+}

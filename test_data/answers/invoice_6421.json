@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Garner Group",
+    "invoice_number": "INV-80373",
+    "date": "2025-06-04",
+    "items": [
+        {
+            "description": "Multi-layered content-based capacity",
+            "quantity": 4,
+            "unit_price": 170.1,
+            "total_price": 680.4
+        },
+        {
+            "description": "Grass-roots methodical moderator",
+            "quantity": 9,
+            "unit_price": 178.59,
+            "total_price": 1607.31
+        },
+        {
+            "description": "Configurable transitional budgetary management",
+            "quantity": 4,
+            "unit_price": 73.49,
+            "total_price": 293.96
+        }
+    ],
+    "amount": 2581.67
+}

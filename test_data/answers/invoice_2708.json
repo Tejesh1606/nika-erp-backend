@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Henderson-Thomas",
+    "invoice_number": "INV-77953",
+    "date": "2025-05-03",
+    "items": [
+        {
+            "description": "Integrated hybrid monitoring",
+            "quantity": 5,
+            "unit_price": 406.72,
+            "total_price": 2033.6
+        }
+    ],
+    "amount": 2033.6
+}

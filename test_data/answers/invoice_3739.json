@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cantu Inc",
+    "invoice_number": "INV-68156",
+    "date": "2025-09-24",
+    "items": [
+        {
+            "description": "Self-enabling needs-based interface",
+            "quantity": 4,
+            "unit_price": 59.56,
+            "total_price": 238.24
+        },
+        {
+            "description": "Proactive solution-oriented hardware",
+            "quantity": 8,
+            "unit_price": 101.02,
+            "total_price": 808.16
+        }
+    ],
+    "amount": 1046.4
+}

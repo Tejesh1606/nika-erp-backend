@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Caldwell-Lopez",
+    "invoice_number": "INV-28430",
+    "date": "2025-09-10",
+    "items": [
+        {
+            "description": "Inverse dynamic ability",
+            "quantity": 6,
+            "unit_price": 298.58,
+            "total_price": 1791.48
+        },
+        {
+            "description": "Fundamental human-resource encoding",
+            "quantity": 1,
+            "unit_price": 390.82,
+            "total_price": 390.82
+        }
+    ],
+    "amount": 2182.3
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Benson PLC",
+    "invoice_number": "INV-34795",
+    "date": "2025-05-24",
+    "items": [
+        {
+            "description": "Stand-alone logistical focus group",
+            "quantity": 6,
+            "unit_price": 134.84,
+            "total_price": 809.04
+        },
+        {
+            "description": "Customizable heuristic customer loyalty",
+            "quantity": 5,
+            "unit_price": 375.55,
+            "total_price": 1877.75
+        },
+        {
+            "description": "Mandatory neutral workforce",
+            "quantity": 5,
+            "unit_price": 42.75,
+            "total_price": 213.75
+        }
+    ],
+    "amount": 2900.54
+}

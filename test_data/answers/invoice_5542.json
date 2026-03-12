@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Henderson-Barton",
+    "invoice_number": "INV-17632",
+    "date": "2025-05-29",
+    "items": [
+        {
+            "description": "Configurable user-facing ability",
+            "quantity": 4,
+            "unit_price": 139.07,
+            "total_price": 556.28
+        },
+        {
+            "description": "Configurable composite capacity",
+            "quantity": 6,
+            "unit_price": 390.03,
+            "total_price": 2340.18
+        }
+    ],
+    "amount": 2896.46
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Brown Ltd",
+    "invoice_number": "INV-18841",
+    "date": "2025-03-15",
+    "items": [
+        {
+            "description": "Innovative client-server matrix",
+            "quantity": 3,
+            "unit_price": 182.19,
+            "total_price": 546.57
+        },
+        {
+            "description": "Vision-oriented value-added parallelism",
+            "quantity": 6,
+            "unit_price": 462.29,
+            "total_price": 2773.74
+        },
+        {
+            "description": "Phased empowering process improvement",
+            "quantity": 8,
+            "unit_price": 499.0,
+            "total_price": 3992.0
+        },
+        {
+            "description": "Ergonomic grid-enabled focus group",
+            "quantity": 1,
+            "unit_price": 230.22,
+            "total_price": 230.22
+        }
+    ],
+    "amount": 7542.53
+}

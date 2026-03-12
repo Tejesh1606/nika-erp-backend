@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Schmidt, Fuller and Johnson",
+    "invoice_number": "INV-22722",
+    "date": "2026-01-08",
+    "items": [
+        {
+            "description": "Cloned attitude-oriented adapter",
+            "quantity": 10,
+            "unit_price": 339.66,
+            "total_price": 3396.6
+        },
+        {
+            "description": "Advanced actuating groupware",
+            "quantity": 10,
+            "unit_price": 57.47,
+            "total_price": 574.7
+        }
+    ],
+    "amount": 3971.3
+}

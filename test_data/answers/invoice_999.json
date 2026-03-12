@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Davis-White",
+    "invoice_number": "INV-34251",
+    "date": "2026-01-19",
+    "items": [
+        {
+            "description": "Enhanced content-based open system",
+            "quantity": 1,
+            "unit_price": 126.53,
+            "total_price": 126.53
+        },
+        {
+            "description": "Pre-emptive upward-trending contingency",
+            "quantity": 1,
+            "unit_price": 120.49,
+            "total_price": 120.49
+        },
+        {
+            "description": "Stand-alone executive adapter",
+            "quantity": 1,
+            "unit_price": 207.03,
+            "total_price": 207.03
+        },
+        {
+            "description": "Integrated cohesive conglomeration",
+            "quantity": 5,
+            "unit_price": 92.96,
+            "total_price": 464.8
+        }
+    ],
+    "amount": 918.85
+}

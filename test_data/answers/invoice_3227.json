@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Kennedy, Wong and Craig",
+    "invoice_number": "INV-95714",
+    "date": "2025-11-21",
+    "items": [
+        {
+            "description": "Managed scalable emulation",
+            "quantity": 6,
+            "unit_price": 189.45,
+            "total_price": 1136.7
+        }
+    ],
+    "amount": 1136.7
+}

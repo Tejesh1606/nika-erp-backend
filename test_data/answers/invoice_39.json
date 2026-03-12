@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Zavala, Herrera and Crosby",
+    "invoice_number": "INV-25118",
+    "date": "2026-02-12",
+    "items": [
+        {
+            "description": "Fundamental context-sensitive paradigm",
+            "quantity": 8,
+            "unit_price": 296.37,
+            "total_price": 2370.96
+        }
+    ],
+    "amount": 2370.96
+}

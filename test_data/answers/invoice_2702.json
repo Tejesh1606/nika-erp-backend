@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Kramer-Willis",
+    "invoice_number": "INV-20828",
+    "date": "2026-02-24",
+    "items": [
+        {
+            "description": "Managed 5thgeneration synergy",
+            "quantity": 4,
+            "unit_price": 345.65,
+            "total_price": 1382.6
+        },
+        {
+            "description": "Total bandwidth-monitored analyzer",
+            "quantity": 9,
+            "unit_price": 473.94,
+            "total_price": 4265.46
+        },
+        {
+            "description": "Cloned hybrid strategy",
+            "quantity": 8,
+            "unit_price": 367.63,
+            "total_price": 2941.04
+        }
+    ],
+    "amount": 8589.1
+}

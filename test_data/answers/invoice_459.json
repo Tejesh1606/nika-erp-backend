@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Moore Ltd",
+    "invoice_number": "INV-86725",
+    "date": "2025-06-15",
+    "items": [
+        {
+            "description": "Fundamental national interface",
+            "quantity": 3,
+            "unit_price": 202.43,
+            "total_price": 607.29
+        }
+    ],
+    "amount": 607.29
+}

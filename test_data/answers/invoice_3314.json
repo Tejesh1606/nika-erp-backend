@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Randall, Lee and Benton",
+    "invoice_number": "INV-79715",
+    "date": "2025-03-15",
+    "items": [
+        {
+            "description": "Automated empowering solution",
+            "quantity": 7,
+            "unit_price": 122.67,
+            "total_price": 858.69
+        }
+    ],
+    "amount": 858.69
+}

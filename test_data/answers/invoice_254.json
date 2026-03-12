@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hickman-Evans",
+    "invoice_number": "INV-83919",
+    "date": "2025-06-10",
+    "items": [
+        {
+            "description": "Re-contextualized human-resource service-desk",
+            "quantity": 10,
+            "unit_price": 324.52,
+            "total_price": 3245.2
+        },
+        {
+            "description": "Quality-focused full-range info-mediaries",
+            "quantity": 7,
+            "unit_price": 202.45,
+            "total_price": 1417.15
+        },
+        {
+            "description": "Versatile user-facing challenge",
+            "quantity": 8,
+            "unit_price": 176.74,
+            "total_price": 1413.92
+        },
+        {
+            "description": "Team-oriented uniform artificial intelligence",
+            "quantity": 2,
+            "unit_price": 42.36,
+            "total_price": 84.72
+        }
+    ],
+    "amount": 6160.99
+}

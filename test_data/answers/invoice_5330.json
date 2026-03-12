@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Buchanan-Larson",
+    "invoice_number": "INV-51437",
+    "date": "2025-07-13",
+    "items": [
+        {
+            "description": "Automated cohesive strategy",
+            "quantity": 2,
+            "unit_price": 465.3,
+            "total_price": 930.6
+        },
+        {
+            "description": "Grass-roots user-facing complexity",
+            "quantity": 5,
+            "unit_price": 472.45,
+            "total_price": 2362.25
+        },
+        {
+            "description": "Universal attitude-oriented model",
+            "quantity": 9,
+            "unit_price": 27.25,
+            "total_price": 245.25
+        },
+        {
+            "description": "Switchable client-server Graphic Interface",
+            "quantity": 7,
+            "unit_price": 51.99,
+            "total_price": 363.93
+        }
+    ],
+    "amount": 3902.03
+}

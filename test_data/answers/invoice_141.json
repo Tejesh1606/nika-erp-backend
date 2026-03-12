@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wilson-Smith",
+    "invoice_number": "INV-52568",
+    "date": "2025-05-14",
+    "items": [
+        {
+            "description": "Secured logistical solution",
+            "quantity": 5,
+            "unit_price": 345.18,
+            "total_price": 1725.9
+        },
+        {
+            "description": "Multi-lateral background Internet solution",
+            "quantity": 8,
+            "unit_price": 343.55,
+            "total_price": 2748.4
+        },
+        {
+            "description": "Customer-focused dynamic Internet solution",
+            "quantity": 10,
+            "unit_price": 212.55,
+            "total_price": 2125.5
+        },
+        {
+            "description": "Reverse-engineered impactful moderator",
+            "quantity": 10,
+            "unit_price": 26.0,
+            "total_price": 260.0
+        }
+    ],
+    "amount": 6859.8
+}

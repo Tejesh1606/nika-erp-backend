@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mitchell-Horton",
+    "invoice_number": "INV-82845",
+    "date": "2025-11-21",
+    "items": [
+        {
+            "description": "Universal mobile collaboration",
+            "quantity": 5,
+            "unit_price": 82.26,
+            "total_price": 411.3
+        },
+        {
+            "description": "Ergonomic explicit data-warehouse",
+            "quantity": 3,
+            "unit_price": 390.13,
+            "total_price": 1170.39
+        }
+    ],
+    "amount": 1581.69
+}

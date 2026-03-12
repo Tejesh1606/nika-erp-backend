@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Kelly-Bailey",
+    "invoice_number": "INV-89225",
+    "date": "2025-09-07",
+    "items": [
+        {
+            "description": "Vision-oriented actuating throughput",
+            "quantity": 6,
+            "unit_price": 113.42,
+            "total_price": 680.52
+        },
+        {
+            "description": "Enterprise-wide executive model",
+            "quantity": 2,
+            "unit_price": 12.44,
+            "total_price": 24.88
+        },
+        {
+            "description": "Reverse-engineered asynchronous ability",
+            "quantity": 1,
+            "unit_price": 179.2,
+            "total_price": 179.2
+        },
+        {
+            "description": "Mandatory secondary hierarchy",
+            "quantity": 2,
+            "unit_price": 207.01,
+            "total_price": 414.02
+        }
+    ],
+    "amount": 1298.62
+}

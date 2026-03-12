@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Foster, Ayers and Casey",
+    "invoice_number": "INV-76527",
+    "date": "2025-06-27",
+    "items": [
+        {
+            "description": "Future-proofed stable firmware",
+            "quantity": 9,
+            "unit_price": 251.94,
+            "total_price": 2267.46
+        },
+        {
+            "description": "Integrated intangible service-desk",
+            "quantity": 1,
+            "unit_price": 94.08,
+            "total_price": 94.08
+        },
+        {
+            "description": "Front-line 24hour instruction set",
+            "quantity": 5,
+            "unit_price": 281.36,
+            "total_price": 1406.8
+        }
+    ],
+    "amount": 3768.34
+}

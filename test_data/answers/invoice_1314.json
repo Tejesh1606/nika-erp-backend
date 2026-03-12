@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hodges Ltd",
+    "invoice_number": "INV-49929",
+    "date": "2025-04-14",
+    "items": [
+        {
+            "description": "Organic global productivity",
+            "quantity": 5,
+            "unit_price": 61.55,
+            "total_price": 307.75
+        }
+    ],
+    "amount": 307.75
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Parker LLC",
+    "invoice_number": "INV-69122",
+    "date": "2026-02-08",
+    "items": [
+        {
+            "description": "Fully-configurable didactic neural-net",
+            "quantity": 7,
+            "unit_price": 206.59,
+            "total_price": 1446.13
+        }
+    ],
+    "amount": 1446.13
+}

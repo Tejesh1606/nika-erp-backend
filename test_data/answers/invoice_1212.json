@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cook-Pacheco",
+    "invoice_number": "INV-20962",
+    "date": "2025-04-15",
+    "items": [
+        {
+            "description": "Realigned composite database",
+            "quantity": 1,
+            "unit_price": 360.21,
+            "total_price": 360.21
+        },
+        {
+            "description": "Pre-emptive optimizing encryption",
+            "quantity": 4,
+            "unit_price": 371.97,
+            "total_price": 1487.88
+        },
+        {
+            "description": "Configurable client-server initiative",
+            "quantity": 7,
+            "unit_price": 474.18,
+            "total_price": 3319.26
+        }
+    ],
+    "amount": 5167.35
+}

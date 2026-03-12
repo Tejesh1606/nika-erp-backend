@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Johnson-Zavala",
+    "invoice_number": "INV-52959",
+    "date": "2025-05-19",
+    "items": [
+        {
+            "description": "Universal background challenge",
+            "quantity": 3,
+            "unit_price": 330.32,
+            "total_price": 990.96
+        },
+        {
+            "description": "Progressive real-time policy",
+            "quantity": 6,
+            "unit_price": 499.22,
+            "total_price": 2995.32
+        },
+        {
+            "description": "Cross-platform high-level budgetary management",
+            "quantity": 7,
+            "unit_price": 397.73,
+            "total_price": 2784.11
+        }
+    ],
+    "amount": 6770.39
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith Ltd",
+    "invoice_number": "INV-59446",
+    "date": "2025-11-29",
+    "items": [
+        {
+            "description": "Expanded client-server matrices",
+            "quantity": 4,
+            "unit_price": 43.12,
+            "total_price": 172.48
+        },
+        {
+            "description": "Cloned tertiary database",
+            "quantity": 2,
+            "unit_price": 13.28,
+            "total_price": 26.56
+        },
+        {
+            "description": "Mandatory demand-driven superstructure",
+            "quantity": 2,
+            "unit_price": 486.27,
+            "total_price": 972.54
+        }
+    ],
+    "amount": 1171.58
+}

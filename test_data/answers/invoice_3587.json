@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Huffman Ltd",
+    "invoice_number": "INV-84107",
+    "date": "2025-12-23",
+    "items": [
+        {
+            "description": "Phased background knowledge user",
+            "quantity": 10,
+            "unit_price": 449.25,
+            "total_price": 4492.5
+        },
+        {
+            "description": "Stand-alone needs-based hub",
+            "quantity": 7,
+            "unit_price": 340.58,
+            "total_price": 2384.06
+        },
+        {
+            "description": "Multi-tiered multi-tasking benchmark",
+            "quantity": 10,
+            "unit_price": 314.1,
+            "total_price": 3141.0
+        },
+        {
+            "description": "Persevering homogeneous portal",
+            "quantity": 5,
+            "unit_price": 494.83,
+            "total_price": 2474.15
+        }
+    ],
+    "amount": 12491.71
+}

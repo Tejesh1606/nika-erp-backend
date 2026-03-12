@@ -1,0 +1,14 @@
+{
+    "vendor_name": "James, Russell and Brooks",
+    "invoice_number": "INV-77306",
+    "date": "2025-03-26",
+    "items": [
+        {
+            "description": "Reduced foreground open system",
+            "quantity": 6,
+            "unit_price": 143.96,
+            "total_price": 863.76
+        }
+    ],
+    "amount": 863.76
+}

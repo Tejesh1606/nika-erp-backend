@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Blevins-Ross",
+    "invoice_number": "INV-89559",
+    "date": "2025-07-19",
+    "items": [
+        {
+            "description": "Balanced transitional paradigm",
+            "quantity": 3,
+            "unit_price": 403.15,
+            "total_price": 1209.45
+        },
+        {
+            "description": "Ameliorated eco-centric artificial intelligence",
+            "quantity": 9,
+            "unit_price": 60.96,
+            "total_price": 548.64
+        }
+    ],
+    "amount": 1758.09
+}

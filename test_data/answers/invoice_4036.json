@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rivera, Gilbert and House",
+    "invoice_number": "INV-59592",
+    "date": "2025-05-07",
+    "items": [
+        {
+            "description": "Diverse object-oriented help-desk",
+            "quantity": 8,
+            "unit_price": 141.21,
+            "total_price": 1129.68
+        },
+        {
+            "description": "Compatible well-modulated benchmark",
+            "quantity": 2,
+            "unit_price": 368.97,
+            "total_price": 737.94
+        },
+        {
+            "description": "Sharable 24hour migration",
+            "quantity": 8,
+            "unit_price": 308.6,
+            "total_price": 2468.8
+        },
+        {
+            "description": "Integrated multi-tasking interface",
+            "quantity": 9,
+            "unit_price": 139.93,
+            "total_price": 1259.37
+        }
+    ],
+    "amount": 5595.79
+}

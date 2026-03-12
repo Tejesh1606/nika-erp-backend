@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Burns Inc",
+    "invoice_number": "INV-78515",
+    "date": "2026-01-13",
+    "items": [
+        {
+            "description": "Virtual radical task-force",
+            "quantity": 2,
+            "unit_price": 405.78,
+            "total_price": 811.56
+        },
+        {
+            "description": "Realigned optimal neural-net",
+            "quantity": 9,
+            "unit_price": 40.14,
+            "total_price": 361.26
+        }
+    ],
+    "amount": 1172.82
+}

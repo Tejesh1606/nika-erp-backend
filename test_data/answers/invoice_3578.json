@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Campbell, Aguilar and Flores",
+    "invoice_number": "INV-20734",
+    "date": "2026-02-10",
+    "items": [
+        {
+            "description": "Operative full-range leverage",
+            "quantity": 8,
+            "unit_price": 27.01,
+            "total_price": 216.08
+        },
+        {
+            "description": "Centralized leadingedge paradigm",
+            "quantity": 3,
+            "unit_price": 10.48,
+            "total_price": 31.44
+        },
+        {
+            "description": "Implemented content-based circuit",
+            "quantity": 5,
+            "unit_price": 171.54,
+            "total_price": 857.7
+        }
+    ],
+    "amount": 1105.22
+}

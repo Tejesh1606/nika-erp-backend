@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Rangel Group",
+    "invoice_number": "INV-96462",
+    "date": "2025-12-08",
+    "items": [
+        {
+            "description": "Versatile optimizing attitude",
+            "quantity": 9,
+            "unit_price": 398.66,
+            "total_price": 3587.94
+        },
+        {
+            "description": "Programmable background protocol",
+            "quantity": 10,
+            "unit_price": 197.96,
+            "total_price": 1979.6
+        }
+    ],
+    "amount": 5567.54
+}

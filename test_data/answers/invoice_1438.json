@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Harrison, Lucero and Vaughn",
+    "invoice_number": "INV-42688",
+    "date": "2025-04-22",
+    "items": [
+        {
+            "description": "Switchable client-server intranet",
+            "quantity": 7,
+            "unit_price": 311.09,
+            "total_price": 2177.63
+        }
+    ],
+    "amount": 2177.63
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bates, Velez and Santos",
+    "invoice_number": "INV-78184",
+    "date": "2025-05-01",
+    "items": [
+        {
+            "description": "Switchable next generation system engine",
+            "quantity": 9,
+            "unit_price": 270.68,
+            "total_price": 2436.12
+        },
+        {
+            "description": "Ameliorated executive ability",
+            "quantity": 7,
+            "unit_price": 114.72,
+            "total_price": 803.04
+        },
+        {
+            "description": "Monitored incremental protocol",
+            "quantity": 4,
+            "unit_price": 360.75,
+            "total_price": 1443.0
+        }
+    ],
+    "amount": 4682.16
+}

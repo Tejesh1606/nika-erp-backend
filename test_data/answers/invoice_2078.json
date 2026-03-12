@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Pacheco, Robles and Lowery",
+    "invoice_number": "INV-12147",
+    "date": "2025-04-13",
+    "items": [
+        {
+            "description": "Persevering transitional complexity",
+            "quantity": 1,
+            "unit_price": 413.76,
+            "total_price": 413.76
+        }
+    ],
+    "amount": 413.76
+}

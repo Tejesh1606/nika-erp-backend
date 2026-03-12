@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bruce-Hernandez",
+    "invoice_number": "INV-77562",
+    "date": "2025-11-16",
+    "items": [
+        {
+            "description": "Face-to-face empowering initiative",
+            "quantity": 9,
+            "unit_price": 193.02,
+            "total_price": 1737.18
+        },
+        {
+            "description": "Streamlined didactic project",
+            "quantity": 6,
+            "unit_price": 225.16,
+            "total_price": 1350.96
+        },
+        {
+            "description": "Programmable real-time attitude",
+            "quantity": 8,
+            "unit_price": 427.1,
+            "total_price": 3416.8
+        }
+    ],
+    "amount": 6504.94
+}

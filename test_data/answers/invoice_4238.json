@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gomez, Jimenez and Reese",
+    "invoice_number": "INV-86593",
+    "date": "2026-03-09",
+    "items": [
+        {
+            "description": "Integrated mobile focus group",
+            "quantity": 9,
+            "unit_price": 328.37,
+            "total_price": 2955.33
+        },
+        {
+            "description": "Multi-lateral 5thgeneration open architecture",
+            "quantity": 1,
+            "unit_price": 287.47,
+            "total_price": 287.47
+        }
+    ],
+    "amount": 3242.8
+}

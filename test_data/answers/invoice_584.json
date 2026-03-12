@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jackson LLC",
+    "invoice_number": "INV-90381",
+    "date": "2026-02-18",
+    "items": [
+        {
+            "description": "Mandatory needs-based intranet",
+            "quantity": 1,
+            "unit_price": 131.43,
+            "total_price": 131.43
+        },
+        {
+            "description": "Business-focused clear-thinking algorithm",
+            "quantity": 2,
+            "unit_price": 176.73,
+            "total_price": 353.46
+        }
+    ],
+    "amount": 484.89
+}

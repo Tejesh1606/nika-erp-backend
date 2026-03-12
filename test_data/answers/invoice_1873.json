@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Dickerson and Sons",
+    "invoice_number": "INV-64884",
+    "date": "2025-07-17",
+    "items": [
+        {
+            "description": "Total explicit application",
+            "quantity": 5,
+            "unit_price": 492.66,
+            "total_price": 2463.3
+        }
+    ],
+    "amount": 2463.3
+}

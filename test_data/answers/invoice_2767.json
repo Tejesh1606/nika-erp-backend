@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Scott Group",
+    "invoice_number": "INV-57423",
+    "date": "2025-12-31",
+    "items": [
+        {
+            "description": "Multi-layered leadingedge implementation",
+            "quantity": 8,
+            "unit_price": 353.87,
+            "total_price": 2830.96
+        },
+        {
+            "description": "Persistent contextually-based portal",
+            "quantity": 9,
+            "unit_price": 261.22,
+            "total_price": 2350.98
+        },
+        {
+            "description": "Seamless asymmetric budgetary management",
+            "quantity": 6,
+            "unit_price": 150.93,
+            "total_price": 905.58
+        }
+    ],
+    "amount": 6087.52
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Franklin, Owens and Taylor",
+    "invoice_number": "INV-45367",
+    "date": "2025-03-10",
+    "items": [
+        {
+            "description": "Innovative zero tolerance customer loyalty",
+            "quantity": 9,
+            "unit_price": 247.08,
+            "total_price": 2223.72
+        },
+        {
+            "description": "Cross-group 4thgeneration process improvement",
+            "quantity": 5,
+            "unit_price": 467.82,
+            "total_price": 2339.1
+        },
+        {
+            "description": "Advanced maximized matrices",
+            "quantity": 9,
+            "unit_price": 337.16,
+            "total_price": 3034.44
+        },
+        {
+            "description": "Cross-platform static open architecture",
+            "quantity": 2,
+            "unit_price": 218.86,
+            "total_price": 437.72
+        }
+    ],
+    "amount": 8034.98
+}

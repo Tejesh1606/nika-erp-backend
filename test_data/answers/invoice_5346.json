@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lambert-Turner",
+    "invoice_number": "INV-93151",
+    "date": "2025-05-05",
+    "items": [
+        {
+            "description": "Synchronized 24hour toolset",
+            "quantity": 1,
+            "unit_price": 361.64,
+            "total_price": 361.64
+        }
+    ],
+    "amount": 361.64
+}

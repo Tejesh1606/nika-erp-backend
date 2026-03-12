@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Vaughn-Martinez",
+    "invoice_number": "INV-60987",
+    "date": "2025-03-31",
+    "items": [
+        {
+            "description": "Organic fresh-thinking Internet solution",
+            "quantity": 4,
+            "unit_price": 144.24,
+            "total_price": 576.96
+        },
+        {
+            "description": "Re-contextualized system-worthy portal",
+            "quantity": 8,
+            "unit_price": 205.06,
+            "total_price": 1640.48
+        }
+    ],
+    "amount": 2217.44
+}

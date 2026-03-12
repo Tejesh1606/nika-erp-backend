@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Short-Clark",
+    "invoice_number": "INV-24676",
+    "date": "2025-11-16",
+    "items": [
+        {
+            "description": "Cloned client-driven model",
+            "quantity": 8,
+            "unit_price": 269.61,
+            "total_price": 2156.88
+        },
+        {
+            "description": "Pre-emptive explicit analyzer",
+            "quantity": 2,
+            "unit_price": 488.04,
+            "total_price": 976.08
+        }
+    ],
+    "amount": 3132.96
+}

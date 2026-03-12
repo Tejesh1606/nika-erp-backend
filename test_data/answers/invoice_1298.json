@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Parker-Baldwin",
+    "invoice_number": "INV-84401",
+    "date": "2025-11-10",
+    "items": [
+        {
+            "description": "Integrated methodical structure",
+            "quantity": 3,
+            "unit_price": 27.21,
+            "total_price": 81.63
+        },
+        {
+            "description": "Organic systematic frame",
+            "quantity": 3,
+            "unit_price": 137.31,
+            "total_price": 411.93
+        },
+        {
+            "description": "Distributed value-added workforce",
+            "quantity": 9,
+            "unit_price": 409.28,
+            "total_price": 3683.52
+        }
+    ],
+    "amount": 4177.08
+}

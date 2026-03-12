@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wilkinson-Newton",
+    "invoice_number": "INV-30595",
+    "date": "2025-10-28",
+    "items": [
+        {
+            "description": "Adaptive tangible firmware",
+            "quantity": 8,
+            "unit_price": 211.38,
+            "total_price": 1691.04
+        },
+        {
+            "description": "Triple-buffered intermediate synergy",
+            "quantity": 8,
+            "unit_price": 307.49,
+            "total_price": 2459.92
+        },
+        {
+            "description": "Re-engineered value-added pricing structure",
+            "quantity": 8,
+            "unit_price": 131.08,
+            "total_price": 1048.64
+        }
+    ],
+    "amount": 5199.6
+}

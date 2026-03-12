@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Martinez-Munoz",
+    "invoice_number": "INV-38869",
+    "date": "2025-08-24",
+    "items": [
+        {
+            "description": "Persevering analyzing groupware",
+            "quantity": 5,
+            "unit_price": 69.45,
+            "total_price": 347.25
+        },
+        {
+            "description": "Re-engineered analyzing flexibility",
+            "quantity": 5,
+            "unit_price": 249.87,
+            "total_price": 1249.35
+        },
+        {
+            "description": "Decentralized bottom-line knowledgebase",
+            "quantity": 3,
+            "unit_price": 397.54,
+            "total_price": 1192.62
+        },
+        {
+            "description": "Switchable object-oriented productivity",
+            "quantity": 9,
+            "unit_price": 468.14,
+            "total_price": 4213.26
+        }
+    ],
+    "amount": 7002.48
+}

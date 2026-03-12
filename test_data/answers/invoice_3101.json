@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gibson LLC",
+    "invoice_number": "INV-13581",
+    "date": "2025-06-03",
+    "items": [
+        {
+            "description": "Extended local firmware",
+            "quantity": 10,
+            "unit_price": 134.69,
+            "total_price": 1346.9
+        },
+        {
+            "description": "Fundamental regional product",
+            "quantity": 8,
+            "unit_price": 18.5,
+            "total_price": 148.0
+        }
+    ],
+    "amount": 1494.9
+}

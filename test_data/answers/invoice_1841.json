@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Randolph-Ryan",
+    "invoice_number": "INV-18089",
+    "date": "2026-01-18",
+    "items": [
+        {
+            "description": "Assimilated empowering moratorium",
+            "quantity": 9,
+            "unit_price": 90.98,
+            "total_price": 818.82
+        }
+    ],
+    "amount": 818.82
+}

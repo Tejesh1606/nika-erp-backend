@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Fisher PLC",
+    "invoice_number": "INV-59194",
+    "date": "2025-05-01",
+    "items": [
+        {
+            "description": "Ameliorated value-added collaboration",
+            "quantity": 10,
+            "unit_price": 484.13,
+            "total_price": 4841.3
+        }
+    ],
+    "amount": 4841.3
+}

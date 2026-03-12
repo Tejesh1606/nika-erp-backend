@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Lara, Waters and Lawson",
+    "invoice_number": "INV-30523",
+    "date": "2026-01-22",
+    "items": [
+        {
+            "description": "Organic eco-centric Internet solution",
+            "quantity": 1,
+            "unit_price": 183.47,
+            "total_price": 183.47
+        },
+        {
+            "description": "Object-based intermediate collaboration",
+            "quantity": 10,
+            "unit_price": 96.47,
+            "total_price": 964.7
+        }
+    ],
+    "amount": 1148.17
+}

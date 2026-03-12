@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Smith, Rodriguez and Brooks",
+    "invoice_number": "INV-94194",
+    "date": "2025-04-17",
+    "items": [
+        {
+            "description": "Switchable exuding hardware",
+            "quantity": 1,
+            "unit_price": 271.61,
+            "total_price": 271.61
+        },
+        {
+            "description": "Customer-focused fault-tolerant paradigm",
+            "quantity": 3,
+            "unit_price": 354.37,
+            "total_price": 1063.11
+        },
+        {
+            "description": "Multi-channeled bandwidth-monitored focus group",
+            "quantity": 3,
+            "unit_price": 111.76,
+            "total_price": 335.28
+        },
+        {
+            "description": "Reduced system-worthy projection",
+            "quantity": 9,
+            "unit_price": 263.1,
+            "total_price": 2367.9
+        }
+    ],
+    "amount": 4037.9
+}

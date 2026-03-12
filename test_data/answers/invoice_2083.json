@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cruz-Chang",
+    "invoice_number": "INV-46929",
+    "date": "2025-12-10",
+    "items": [
+        {
+            "description": "Function-based motivating success",
+            "quantity": 8,
+            "unit_price": 233.73,
+            "total_price": 1869.84
+        },
+        {
+            "description": "User-centric client-server encryption",
+            "quantity": 6,
+            "unit_price": 400.08,
+            "total_price": 2400.48
+        }
+    ],
+    "amount": 4270.32
+}

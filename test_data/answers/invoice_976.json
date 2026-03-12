@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Potter-Deleon",
+    "invoice_number": "INV-62412",
+    "date": "2025-09-19",
+    "items": [
+        {
+            "description": "Up-sized user-facing info-mediaries",
+            "quantity": 8,
+            "unit_price": 333.05,
+            "total_price": 2664.4
+        },
+        {
+            "description": "De-engineered bifurcated benchmark",
+            "quantity": 9,
+            "unit_price": 172.14,
+            "total_price": 1549.26
+        },
+        {
+            "description": "Ameliorated clear-thinking collaboration",
+            "quantity": 10,
+            "unit_price": 59.88,
+            "total_price": 598.8
+        },
+        {
+            "description": "Monitored motivating access",
+            "quantity": 7,
+            "unit_price": 223.03,
+            "total_price": 1561.21
+        }
+    ],
+    "amount": 6373.67
+}

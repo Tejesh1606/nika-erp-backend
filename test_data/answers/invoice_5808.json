@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Garcia, Thompson and Cannon",
+    "invoice_number": "INV-46735",
+    "date": "2025-12-26",
+    "items": [
+        {
+            "description": "Front-line multi-state firmware",
+            "quantity": 6,
+            "unit_price": 282.18,
+            "total_price": 1693.08
+        },
+        {
+            "description": "Versatile methodical structure",
+            "quantity": 1,
+            "unit_price": 400.29,
+            "total_price": 400.29
+        }
+    ],
+    "amount": 2093.37
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bryant-Fitzgerald",
+    "invoice_number": "INV-68190",
+    "date": "2025-06-04",
+    "items": [
+        {
+            "description": "Reactive incremental frame",
+            "quantity": 8,
+            "unit_price": 106.71,
+            "total_price": 853.68
+        },
+        {
+            "description": "Optimized content-based architecture",
+            "quantity": 3,
+            "unit_price": 59.86,
+            "total_price": 179.58
+        }
+    ],
+    "amount": 1033.26
+}

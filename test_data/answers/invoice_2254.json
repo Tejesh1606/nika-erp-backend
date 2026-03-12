@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Martin-Scott",
+    "invoice_number": "INV-32553",
+    "date": "2025-03-15",
+    "items": [
+        {
+            "description": "Open-architected stable solution",
+            "quantity": 1,
+            "unit_price": 185.22,
+            "total_price": 185.22
+        },
+        {
+            "description": "Grass-roots executive project",
+            "quantity": 8,
+            "unit_price": 374.76,
+            "total_price": 2998.08
+        },
+        {
+            "description": "Cross-group zero administration capability",
+            "quantity": 3,
+            "unit_price": 118.48,
+            "total_price": 355.44
+        },
+        {
+            "description": "Cross-platform static strategy",
+            "quantity": 1,
+            "unit_price": 350.7,
+            "total_price": 350.7
+        }
+    ],
+    "amount": 3889.44
+}

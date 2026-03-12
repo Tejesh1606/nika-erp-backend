@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cooper-Brooks",
+    "invoice_number": "INV-49817",
+    "date": "2025-08-22",
+    "items": [
+        {
+            "description": "Secured optimizing matrices",
+            "quantity": 5,
+            "unit_price": 447.22,
+            "total_price": 2236.1
+        },
+        {
+            "description": "Sharable reciprocal parallelism",
+            "quantity": 2,
+            "unit_price": 191.29,
+            "total_price": 382.58
+        },
+        {
+            "description": "Balanced systematic matrix",
+            "quantity": 9,
+            "unit_price": 192.77,
+            "total_price": 1734.93
+        }
+    ],
+    "amount": 4353.61
+}

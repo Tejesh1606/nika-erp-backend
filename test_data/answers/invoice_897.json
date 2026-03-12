@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Braun, Mays and Martinez",
+    "invoice_number": "INV-32764",
+    "date": "2025-10-25",
+    "items": [
+        {
+            "description": "Reactive demand-driven encoding",
+            "quantity": 3,
+            "unit_price": 273.52,
+            "total_price": 820.56
+        },
+        {
+            "description": "Profit-focused attitude-oriented interface",
+            "quantity": 7,
+            "unit_price": 25.1,
+            "total_price": 175.7
+        },
+        {
+            "description": "Up-sized maximized function",
+            "quantity": 1,
+            "unit_price": 403.63,
+            "total_price": 403.63
+        },
+        {
+            "description": "Down-sized uniform customer loyalty",
+            "quantity": 10,
+            "unit_price": 197.46,
+            "total_price": 1974.6
+        }
+    ],
+    "amount": 3374.49
+}

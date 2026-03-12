@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lynch, Fry and Peterson",
+    "invoice_number": "INV-79066",
+    "date": "2025-06-01",
+    "items": [
+        {
+            "description": "Seamless didactic matrix",
+            "quantity": 9,
+            "unit_price": 498.65,
+            "total_price": 4487.85
+        }
+    ],
+    "amount": 4487.85
+}

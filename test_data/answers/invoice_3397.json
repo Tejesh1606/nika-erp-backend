@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Barajas and Sons",
+    "invoice_number": "INV-23385",
+    "date": "2025-11-30",
+    "items": [
+        {
+            "description": "Multi-channeled human-resource alliance",
+            "quantity": 2,
+            "unit_price": 486.42,
+            "total_price": 972.84
+        },
+        {
+            "description": "Front-line motivating knowledge user",
+            "quantity": 5,
+            "unit_price": 355.28,
+            "total_price": 1776.4
+        },
+        {
+            "description": "Cloned 24hour model",
+            "quantity": 4,
+            "unit_price": 231.35,
+            "total_price": 925.4
+        }
+    ],
+    "amount": 3674.64
+}

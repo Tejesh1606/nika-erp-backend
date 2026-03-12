@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Ferrell-Pearson",
+    "invoice_number": "INV-78703",
+    "date": "2025-07-27",
+    "items": [
+        {
+            "description": "Synchronized grid-enabled definition",
+            "quantity": 2,
+            "unit_price": 82.22,
+            "total_price": 164.44
+        },
+        {
+            "description": "Networked 24hour instruction set",
+            "quantity": 10,
+            "unit_price": 92.26,
+            "total_price": 922.6
+        },
+        {
+            "description": "Distributed context-sensitive core",
+            "quantity": 9,
+            "unit_price": 239.05,
+            "total_price": 2151.45
+        },
+        {
+            "description": "Advanced incremental core",
+            "quantity": 9,
+            "unit_price": 207.61,
+            "total_price": 1868.49
+        }
+    ],
+    "amount": 5106.98
+}

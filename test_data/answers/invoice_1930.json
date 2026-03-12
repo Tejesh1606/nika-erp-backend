@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Smith, Krueger and Scott",
+    "invoice_number": "INV-95674",
+    "date": "2025-04-11",
+    "items": [
+        {
+            "description": "Profit-focused object-oriented toolset",
+            "quantity": 5,
+            "unit_price": 331.52,
+            "total_price": 1657.6
+        },
+        {
+            "description": "Integrated next generation structure",
+            "quantity": 2,
+            "unit_price": 496.36,
+            "total_price": 992.72
+        }
+    ],
+    "amount": 2650.32
+}

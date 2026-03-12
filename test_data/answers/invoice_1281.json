@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Forbes-Johnson",
+    "invoice_number": "INV-47209",
+    "date": "2025-10-11",
+    "items": [
+        {
+            "description": "User-friendly mobile encoding",
+            "quantity": 4,
+            "unit_price": 310.33,
+            "total_price": 1241.32
+        },
+        {
+            "description": "Multi-tiered national capacity",
+            "quantity": 1,
+            "unit_price": 295.33,
+            "total_price": 295.33
+        },
+        {
+            "description": "Multi-tiered real-time capability",
+            "quantity": 7,
+            "unit_price": 202.76,
+            "total_price": 1419.32
+        }
+    ],
+    "amount": 2955.97
+}

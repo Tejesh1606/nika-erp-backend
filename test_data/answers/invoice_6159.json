@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cruz, Molina and Myers",
+    "invoice_number": "INV-82336",
+    "date": "2025-11-23",
+    "items": [
+        {
+            "description": "Versatile bifurcated database",
+            "quantity": 5,
+            "unit_price": 43.57,
+            "total_price": 217.85
+        },
+        {
+            "description": "Secured client-server utilization",
+            "quantity": 10,
+            "unit_price": 193.25,
+            "total_price": 1932.5
+        }
+    ],
+    "amount": 2150.35
+}

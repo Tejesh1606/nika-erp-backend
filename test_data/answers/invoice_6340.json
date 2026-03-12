@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Stevenson, Stafford and Jones",
+    "invoice_number": "INV-33902",
+    "date": "2025-03-18",
+    "items": [
+        {
+            "description": "Mandatory empowering budgetary management",
+            "quantity": 2,
+            "unit_price": 74.48,
+            "total_price": 148.96
+        },
+        {
+            "description": "Multi-channeled clear-thinking middleware",
+            "quantity": 2,
+            "unit_price": 446.02,
+            "total_price": 892.04
+        }
+    ],
+    "amount": 1041.0
+}

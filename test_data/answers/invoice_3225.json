@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mclaughlin, Johnson and Thompson",
+    "invoice_number": "INV-58788",
+    "date": "2025-03-27",
+    "items": [
+        {
+            "description": "Distributed grid-enabled secured line",
+            "quantity": 6,
+            "unit_price": 17.51,
+            "total_price": 105.06
+        },
+        {
+            "description": "Horizontal non-volatile leverage",
+            "quantity": 1,
+            "unit_price": 45.46,
+            "total_price": 45.46
+        },
+        {
+            "description": "Diverse systemic task-force",
+            "quantity": 9,
+            "unit_price": 24.68,
+            "total_price": 222.12
+        }
+    ],
+    "amount": 372.64
+}

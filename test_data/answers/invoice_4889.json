@@ -1,0 +1,20 @@
+{
+    "vendor_name": "White-Ramirez",
+    "invoice_number": "INV-78084",
+    "date": "2025-06-23",
+    "items": [
+        {
+            "description": "Open-source user-facing matrix",
+            "quantity": 10,
+            "unit_price": 86.17,
+            "total_price": 861.7
+        },
+        {
+            "description": "Multi-tiered executive approach",
+            "quantity": 2,
+            "unit_price": 197.01,
+            "total_price": 394.02
+        }
+    ],
+    "amount": 1255.72
+}

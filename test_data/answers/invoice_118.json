@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rush Group",
+    "invoice_number": "INV-22015",
+    "date": "2025-11-21",
+    "items": [
+        {
+            "description": "Extended secondary productivity",
+            "quantity": 2,
+            "unit_price": 113.07,
+            "total_price": 226.14
+        },
+        {
+            "description": "Right-sized 3rdgeneration application",
+            "quantity": 9,
+            "unit_price": 225.94,
+            "total_price": 2033.46
+        },
+        {
+            "description": "Managed dynamic capacity",
+            "quantity": 10,
+            "unit_price": 203.89,
+            "total_price": 2038.9
+        },
+        {
+            "description": "Re-contextualized demand-driven architecture",
+            "quantity": 10,
+            "unit_price": 423.51,
+            "total_price": 4235.1
+        }
+    ],
+    "amount": 8533.6
+}

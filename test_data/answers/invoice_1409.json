@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Thompson, Edwards and Williams",
+    "invoice_number": "INV-13665",
+    "date": "2025-03-27",
+    "items": [
+        {
+            "description": "Innovative human-resource core",
+            "quantity": 3,
+            "unit_price": 418.16,
+            "total_price": 1254.48
+        },
+        {
+            "description": "Multi-channeled national application",
+            "quantity": 4,
+            "unit_price": 201.34,
+            "total_price": 805.36
+        },
+        {
+            "description": "Synergized intermediate support",
+            "quantity": 9,
+            "unit_price": 181.49,
+            "total_price": 1633.41
+        },
+        {
+            "description": "Profound multi-tasking conglomeration",
+            "quantity": 1,
+            "unit_price": 400.21,
+            "total_price": 400.21
+        }
+    ],
+    "amount": 4093.46
+}

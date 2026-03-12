@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith, Marks and Williams",
+    "invoice_number": "INV-60709",
+    "date": "2025-07-31",
+    "items": [
+        {
+            "description": "Function-based value-added adapter",
+            "quantity": 9,
+            "unit_price": 53.04,
+            "total_price": 477.36
+        },
+        {
+            "description": "Multi-channeled zero tolerance architecture",
+            "quantity": 10,
+            "unit_price": 320.67,
+            "total_price": 3206.7
+        },
+        {
+            "description": "Monitored disintermediate superstructure",
+            "quantity": 5,
+            "unit_price": 476.27,
+            "total_price": 2381.35
+        }
+    ],
+    "amount": 6065.41
+}

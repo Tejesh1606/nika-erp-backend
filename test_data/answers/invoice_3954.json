@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Coleman, Walker and Bailey",
+    "invoice_number": "INV-74836",
+    "date": "2025-11-07",
+    "items": [
+        {
+            "description": "Business-focused empowering strategy",
+            "quantity": 2,
+            "unit_price": 302.49,
+            "total_price": 604.98
+        },
+        {
+            "description": "Expanded human-resource orchestration",
+            "quantity": 1,
+            "unit_price": 300.9,
+            "total_price": 300.9
+        }
+    ],
+    "amount": 905.88
+}

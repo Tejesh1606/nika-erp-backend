@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Velez-Rivera",
+    "invoice_number": "INV-22908",
+    "date": "2025-04-30",
+    "items": [
+        {
+            "description": "Focused optimizing hub",
+            "quantity": 2,
+            "unit_price": 268.9,
+            "total_price": 537.8
+        },
+        {
+            "description": "Virtual non-volatile methodology",
+            "quantity": 6,
+            "unit_price": 276.73,
+            "total_price": 1660.38
+        },
+        {
+            "description": "Profit-focused bandwidth-monitored Graphical User Interface",
+            "quantity": 3,
+            "unit_price": 494.04,
+            "total_price": 1482.12
+        }
+    ],
+    "amount": 3680.3
+}

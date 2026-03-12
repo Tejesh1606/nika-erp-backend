@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Stewart Inc",
+    "invoice_number": "INV-96068",
+    "date": "2025-05-23",
+    "items": [
+        {
+            "description": "Polarized stable process improvement",
+            "quantity": 6,
+            "unit_price": 217.02,
+            "total_price": 1302.12
+        }
+    ],
+    "amount": 1302.12
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wagner LLC",
+    "invoice_number": "INV-27644",
+    "date": "2025-03-26",
+    "items": [
+        {
+            "description": "Synergistic coherent complexity",
+            "quantity": 9,
+            "unit_price": 453.19,
+            "total_price": 4078.71
+        }
+    ],
+    "amount": 4078.71
+}

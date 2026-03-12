@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mendoza-Kane",
+    "invoice_number": "INV-26418",
+    "date": "2025-11-19",
+    "items": [
+        {
+            "description": "Progressive needs-based workforce",
+            "quantity": 2,
+            "unit_price": 378.18,
+            "total_price": 756.36
+        },
+        {
+            "description": "Extended incremental encoding",
+            "quantity": 2,
+            "unit_price": 27.79,
+            "total_price": 55.58
+        },
+        {
+            "description": "Optional needs-based moderator",
+            "quantity": 8,
+            "unit_price": 135.15,
+            "total_price": 1081.2
+        },
+        {
+            "description": "Synchronized static help-desk",
+            "quantity": 3,
+            "unit_price": 324.85,
+            "total_price": 974.55
+        }
+    ],
+    "amount": 2867.69
+}

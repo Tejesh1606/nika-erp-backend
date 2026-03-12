@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lynch Group",
+    "invoice_number": "INV-91226",
+    "date": "2025-11-29",
+    "items": [
+        {
+            "description": "Front-line modular paradigm",
+            "quantity": 5,
+            "unit_price": 147.71,
+            "total_price": 738.55
+        },
+        {
+            "description": "Digitized discrete Local Area Network",
+            "quantity": 2,
+            "unit_price": 257.76,
+            "total_price": 515.52
+        },
+        {
+            "description": "Sharable eco-centric knowledgebase",
+            "quantity": 2,
+            "unit_price": 23.79,
+            "total_price": 47.58
+        },
+        {
+            "description": "Function-based static access",
+            "quantity": 2,
+            "unit_price": 330.6,
+            "total_price": 661.2
+        }
+    ],
+    "amount": 1962.85
+}

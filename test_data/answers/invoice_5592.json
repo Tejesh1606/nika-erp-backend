@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jones Group",
+    "invoice_number": "INV-93963",
+    "date": "2025-07-20",
+    "items": [
+        {
+            "description": "Exclusive tertiary implementation",
+            "quantity": 3,
+            "unit_price": 430.17,
+            "total_price": 1290.51
+        },
+        {
+            "description": "Optional modular array",
+            "quantity": 10,
+            "unit_price": 267.01,
+            "total_price": 2670.1
+        }
+    ],
+    "amount": 3960.61
+}

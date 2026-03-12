@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jones LLC",
+    "invoice_number": "INV-56375",
+    "date": "2026-02-04",
+    "items": [
+        {
+            "description": "Persistent bandwidth-monitored moratorium",
+            "quantity": 1,
+            "unit_price": 165.92,
+            "total_price": 165.92
+        },
+        {
+            "description": "Cross-group holistic open architecture",
+            "quantity": 6,
+            "unit_price": 287.66,
+            "total_price": 1725.96
+        },
+        {
+            "description": "Centralized human-resource synergy",
+            "quantity": 9,
+            "unit_price": 296.55,
+            "total_price": 2668.95
+        }
+    ],
+    "amount": 4560.83
+}

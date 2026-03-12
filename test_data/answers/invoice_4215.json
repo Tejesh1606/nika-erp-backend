@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Tran Inc",
+    "invoice_number": "INV-34007",
+    "date": "2025-09-12",
+    "items": [
+        {
+            "description": "Programmable full-range definition",
+            "quantity": 9,
+            "unit_price": 320.24,
+            "total_price": 2882.16
+        }
+    ],
+    "amount": 2882.16
+}

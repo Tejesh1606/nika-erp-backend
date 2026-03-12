@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Tucker Ltd",
+    "invoice_number": "INV-26629",
+    "date": "2025-03-26",
+    "items": [
+        {
+            "description": "Function-based impactful utilization",
+            "quantity": 1,
+            "unit_price": 213.83,
+            "total_price": 213.83
+        }
+    ],
+    "amount": 213.83
+}

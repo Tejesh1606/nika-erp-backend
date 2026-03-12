@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Johnson-Reese",
+    "invoice_number": "INV-79330",
+    "date": "2025-06-06",
+    "items": [
+        {
+            "description": "Adaptive tertiary core",
+            "quantity": 5,
+            "unit_price": 395.49,
+            "total_price": 1977.45
+        }
+    ],
+    "amount": 1977.45
+}

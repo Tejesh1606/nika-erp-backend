@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Sanchez LLC",
+    "invoice_number": "INV-72872",
+    "date": "2026-03-09",
+    "items": [
+        {
+            "description": "Up-sized optimizing leverage",
+            "quantity": 9,
+            "unit_price": 370.31,
+            "total_price": 3332.79
+        },
+        {
+            "description": "Balanced zero-defect protocol",
+            "quantity": 4,
+            "unit_price": 68.82,
+            "total_price": 275.28
+        }
+    ],
+    "amount": 3608.07
+}

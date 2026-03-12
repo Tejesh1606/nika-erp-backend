@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Carroll, Carson and Hoffman",
+    "invoice_number": "INV-83983",
+    "date": "2025-12-06",
+    "items": [
+        {
+            "description": "Ameliorated fresh-thinking core",
+            "quantity": 9,
+            "unit_price": 226.85,
+            "total_price": 2041.65
+        },
+        {
+            "description": "Persevering 4thgeneration capability",
+            "quantity": 4,
+            "unit_price": 417.41,
+            "total_price": 1669.64
+        },
+        {
+            "description": "User-friendly discrete project",
+            "quantity": 7,
+            "unit_price": 21.26,
+            "total_price": 148.82
+        },
+        {
+            "description": "Polarized tertiary infrastructure",
+            "quantity": 1,
+            "unit_price": 456.45,
+            "total_price": 456.45
+        }
+    ],
+    "amount": 4316.56
+}

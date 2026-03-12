@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Watson-Tate",
+    "invoice_number": "INV-37550",
+    "date": "2025-07-26",
+    "items": [
+        {
+            "description": "Automated actuating capacity",
+            "quantity": 4,
+            "unit_price": 224.36,
+            "total_price": 897.44
+        },
+        {
+            "description": "Cross-platform foreground protocol",
+            "quantity": 2,
+            "unit_price": 10.84,
+            "total_price": 21.68
+        },
+        {
+            "description": "Upgradable incremental encoding",
+            "quantity": 10,
+            "unit_price": 392.99,
+            "total_price": 3929.9
+        }
+    ],
+    "amount": 4849.02
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Martinez Group",
+    "invoice_number": "INV-38257",
+    "date": "2025-09-02",
+    "items": [
+        {
+            "description": "Ergonomic transitional Graphical User Interface",
+            "quantity": 5,
+            "unit_price": 396.92,
+            "total_price": 1984.6
+        },
+        {
+            "description": "Customer-focused web-enabled instruction set",
+            "quantity": 2,
+            "unit_price": 363.82,
+            "total_price": 727.64
+        },
+        {
+            "description": "Balanced scalable service-desk",
+            "quantity": 2,
+            "unit_price": 358.49,
+            "total_price": 716.98
+        }
+    ],
+    "amount": 3429.22
+}

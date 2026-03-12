@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Nguyen PLC",
+    "invoice_number": "INV-47938",
+    "date": "2025-11-27",
+    "items": [
+        {
+            "description": "Persevering homogeneous task-force",
+            "quantity": 4,
+            "unit_price": 184.71,
+            "total_price": 738.84
+        },
+        {
+            "description": "Customer-focused reciprocal concept",
+            "quantity": 7,
+            "unit_price": 87.15,
+            "total_price": 610.05
+        },
+        {
+            "description": "Persistent user-facing moderator",
+            "quantity": 8,
+            "unit_price": 72.59,
+            "total_price": 580.72
+        }
+    ],
+    "amount": 1929.61
+}

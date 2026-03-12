@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Greene-Manning",
+    "invoice_number": "INV-21394",
+    "date": "2025-10-07",
+    "items": [
+        {
+            "description": "Business-focused homogeneous migration",
+            "quantity": 8,
+            "unit_price": 250.97,
+            "total_price": 2007.76
+        },
+        {
+            "description": "Object-based composite middleware",
+            "quantity": 7,
+            "unit_price": 378.41,
+            "total_price": 2648.87
+        },
+        {
+            "description": "Reactive human-resource system engine",
+            "quantity": 1,
+            "unit_price": 276.71,
+            "total_price": 276.71
+        }
+    ],
+    "amount": 4933.34
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Reed, Cain and Wong",
+    "invoice_number": "INV-35859",
+    "date": "2026-02-14",
+    "items": [
+        {
+            "description": "Innovative attitude-oriented alliance",
+            "quantity": 6,
+            "unit_price": 152.24,
+            "total_price": 913.44
+        },
+        {
+            "description": "Public-key full-range info-mediaries",
+            "quantity": 5,
+            "unit_price": 277.12,
+            "total_price": 1385.6
+        }
+    ],
+    "amount": 2299.04
+}

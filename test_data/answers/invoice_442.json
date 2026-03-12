@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Griffin and Sons",
+    "invoice_number": "INV-84233",
+    "date": "2025-10-14",
+    "items": [
+        {
+            "description": "Switchable client-server support",
+            "quantity": 8,
+            "unit_price": 163.05,
+            "total_price": 1304.4
+        },
+        {
+            "description": "Upgradable mission-critical help-desk",
+            "quantity": 8,
+            "unit_price": 431.65,
+            "total_price": 3453.2
+        },
+        {
+            "description": "Balanced directional task-force",
+            "quantity": 6,
+            "unit_price": 289.41,
+            "total_price": 1736.46
+        },
+        {
+            "description": "Pre-emptive discrete architecture",
+            "quantity": 2,
+            "unit_price": 492.47,
+            "total_price": 984.94
+        }
+    ],
+    "amount": 7479.0
+}

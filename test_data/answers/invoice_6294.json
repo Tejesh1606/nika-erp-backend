@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Rogers-Taylor",
+    "invoice_number": "INV-58385",
+    "date": "2026-01-23",
+    "items": [
+        {
+            "description": "Customizable reciprocal intranet",
+            "quantity": 10,
+            "unit_price": 412.43,
+            "total_price": 4124.3
+        },
+        {
+            "description": "Synergistic systemic circuit",
+            "quantity": 9,
+            "unit_price": 396.28,
+            "total_price": 3566.52
+        }
+    ],
+    "amount": 7690.82
+}

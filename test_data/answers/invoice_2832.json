@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Blankenship, White and Dalton",
+    "invoice_number": "INV-97477",
+    "date": "2026-02-22",
+    "items": [
+        {
+            "description": "Vision-oriented asynchronous algorithm",
+            "quantity": 7,
+            "unit_price": 264.83,
+            "total_price": 1853.81
+        },
+        {
+            "description": "Stand-alone dedicated functionalities",
+            "quantity": 9,
+            "unit_price": 421.92,
+            "total_price": 3797.28
+        }
+    ],
+    "amount": 5651.09
+}

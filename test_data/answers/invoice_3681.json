@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Stanley Ltd",
+    "invoice_number": "INV-28377",
+    "date": "2025-03-21",
+    "items": [
+        {
+            "description": "Multi-lateral even-keeled function",
+            "quantity": 2,
+            "unit_price": 406.39,
+            "total_price": 812.78
+        },
+        {
+            "description": "Right-sized content-based throughput",
+            "quantity": 5,
+            "unit_price": 405.79,
+            "total_price": 2028.95
+        },
+        {
+            "description": "Front-line optimal contingency",
+            "quantity": 7,
+            "unit_price": 111.82,
+            "total_price": 782.74
+        }
+    ],
+    "amount": 3624.47
+}

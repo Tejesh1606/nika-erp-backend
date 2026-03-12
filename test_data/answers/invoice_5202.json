@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Reyes Ltd",
+    "invoice_number": "INV-73023",
+    "date": "2025-06-04",
+    "items": [
+        {
+            "description": "Face-to-face didactic model",
+            "quantity": 10,
+            "unit_price": 416.52,
+            "total_price": 4165.2
+        },
+        {
+            "description": "Enterprise-wide leadingedge info-mediaries",
+            "quantity": 9,
+            "unit_price": 255.72,
+            "total_price": 2301.48
+        },
+        {
+            "description": "Intuitive didactic task-force",
+            "quantity": 8,
+            "unit_price": 215.16,
+            "total_price": 1721.28
+        }
+    ],
+    "amount": 8187.96
+}

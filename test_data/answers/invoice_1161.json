@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Morris, Baker and White",
+    "invoice_number": "INV-70650",
+    "date": "2025-03-15",
+    "items": [
+        {
+            "description": "Organic 24/7 Local Area Network",
+            "quantity": 6,
+            "unit_price": 359.87,
+            "total_price": 2159.22
+        },
+        {
+            "description": "Automated heuristic matrices",
+            "quantity": 8,
+            "unit_price": 89.89,
+            "total_price": 719.12
+        }
+    ],
+    "amount": 2878.34
+}

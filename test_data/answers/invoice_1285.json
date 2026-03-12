@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hines-Douglas",
+    "invoice_number": "INV-99568",
+    "date": "2026-02-24",
+    "items": [
+        {
+            "description": "Cross-platform human-resource paradigm",
+            "quantity": 8,
+            "unit_price": 51.56,
+            "total_price": 412.48
+        },
+        {
+            "description": "Streamlined intangible instruction set",
+            "quantity": 5,
+            "unit_price": 197.53,
+            "total_price": 987.65
+        },
+        {
+            "description": "Open-source content-based productivity",
+            "quantity": 7,
+            "unit_price": 376.49,
+            "total_price": 2635.43
+        },
+        {
+            "description": "Assimilated regional definition",
+            "quantity": 1,
+            "unit_price": 58.36,
+            "total_price": 58.36
+        }
+    ],
+    "amount": 4093.92
+}

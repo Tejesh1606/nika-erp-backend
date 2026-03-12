@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cook-Austin",
+    "invoice_number": "INV-55472",
+    "date": "2025-11-05",
+    "items": [
+        {
+            "description": "Inverse executive hub",
+            "quantity": 1,
+            "unit_price": 163.49,
+            "total_price": 163.49
+        },
+        {
+            "description": "Business-focused multi-state paradigm",
+            "quantity": 7,
+            "unit_price": 64.44,
+            "total_price": 451.08
+        },
+        {
+            "description": "Decentralized leadingedge task-force",
+            "quantity": 3,
+            "unit_price": 139.16,
+            "total_price": 417.48
+        }
+    ],
+    "amount": 1032.05
+}

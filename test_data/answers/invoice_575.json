@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gregory, Peters and Smith",
+    "invoice_number": "INV-85680",
+    "date": "2025-11-30",
+    "items": [
+        {
+            "description": "Managed heuristic architecture",
+            "quantity": 10,
+            "unit_price": 240.33,
+            "total_price": 2403.3
+        },
+        {
+            "description": "Distributed even-keeled algorithm",
+            "quantity": 2,
+            "unit_price": 255.36,
+            "total_price": 510.72
+        }
+    ],
+    "amount": 2914.02
+}

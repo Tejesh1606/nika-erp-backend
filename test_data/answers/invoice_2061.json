@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Maxwell and Sons",
+    "invoice_number": "INV-70485",
+    "date": "2025-07-16",
+    "items": [
+        {
+            "description": "Object-based heuristic moderator",
+            "quantity": 7,
+            "unit_price": 191.9,
+            "total_price": 1343.3
+        }
+    ],
+    "amount": 1343.3
+}

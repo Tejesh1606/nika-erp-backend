@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Miller, Murphy and Craig",
+    "invoice_number": "INV-79942",
+    "date": "2025-08-03",
+    "items": [
+        {
+            "description": "Intuitive responsive structure",
+            "quantity": 10,
+            "unit_price": 365.88,
+            "total_price": 3658.8
+        },
+        {
+            "description": "Virtual mobile moratorium",
+            "quantity": 7,
+            "unit_price": 324.26,
+            "total_price": 2269.82
+        },
+        {
+            "description": "Automated regional architecture",
+            "quantity": 7,
+            "unit_price": 264.92,
+            "total_price": 1854.44
+        },
+        {
+            "description": "Front-line responsive software",
+            "quantity": 3,
+            "unit_price": 431.59,
+            "total_price": 1294.77
+        }
+    ],
+    "amount": 9077.83
+}

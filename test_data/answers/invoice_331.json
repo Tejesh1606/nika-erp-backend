@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Harrington, Cooper and Cunningham",
+    "invoice_number": "INV-52153",
+    "date": "2025-08-06",
+    "items": [
+        {
+            "description": "Future-proofed contextually-based algorithm",
+            "quantity": 2,
+            "unit_price": 417.02,
+            "total_price": 834.04
+        },
+        {
+            "description": "Intuitive radical definition",
+            "quantity": 4,
+            "unit_price": 446.71,
+            "total_price": 1786.84
+        },
+        {
+            "description": "Assimilated zero-defect focus group",
+            "quantity": 9,
+            "unit_price": 427.43,
+            "total_price": 3846.87
+        },
+        {
+            "description": "Centralized methodical moderator",
+            "quantity": 8,
+            "unit_price": 191.3,
+            "total_price": 1530.4
+        }
+    ],
+    "amount": 7998.15
+}

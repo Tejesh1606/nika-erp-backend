@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Todd, Snyder and Sims",
+    "invoice_number": "INV-51230",
+    "date": "2025-07-07",
+    "items": [
+        {
+            "description": "Implemented value-added contingency",
+            "quantity": 6,
+            "unit_price": 334.58,
+            "total_price": 2007.48
+        },
+        {
+            "description": "De-engineered scalable Graphic Interface",
+            "quantity": 3,
+            "unit_price": 421.93,
+            "total_price": 1265.79
+        },
+        {
+            "description": "Exclusive fresh-thinking budgetary management",
+            "quantity": 6,
+            "unit_price": 93.53,
+            "total_price": 561.18
+        },
+        {
+            "description": "Cloned maximized moderator",
+            "quantity": 8,
+            "unit_price": 413.98,
+            "total_price": 3311.84
+        }
+    ],
+    "amount": 7146.29
+}

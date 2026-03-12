@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Duran and Sons",
+    "invoice_number": "INV-19596",
+    "date": "2025-05-07",
+    "items": [
+        {
+            "description": "Operative bi-directional Internet solution",
+            "quantity": 7,
+            "unit_price": 181.64,
+            "total_price": 1271.48
+        }
+    ],
+    "amount": 1271.48
+}

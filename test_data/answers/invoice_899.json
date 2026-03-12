@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Harris, Huffman and Olson",
+    "invoice_number": "INV-57131",
+    "date": "2025-08-10",
+    "items": [
+        {
+            "description": "Multi-tiered composite leverage",
+            "quantity": 4,
+            "unit_price": 23.77,
+            "total_price": 95.08
+        },
+        {
+            "description": "Organic interactive middleware",
+            "quantity": 8,
+            "unit_price": 362.04,
+            "total_price": 2896.32
+        }
+    ],
+    "amount": 2991.4
+}

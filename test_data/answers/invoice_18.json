@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Walker LLC",
+    "invoice_number": "INV-12757",
+    "date": "2025-10-23",
+    "items": [
+        {
+            "description": "Reactive discrete parallelism",
+            "quantity": 5,
+            "unit_price": 307.55,
+            "total_price": 1537.75
+        },
+        {
+            "description": "Face-to-face 24hour archive",
+            "quantity": 1,
+            "unit_price": 227.14,
+            "total_price": 227.14
+        },
+        {
+            "description": "Triple-buffered responsive approach",
+            "quantity": 10,
+            "unit_price": 157.58,
+            "total_price": 1575.8
+        },
+        {
+            "description": "Focused asymmetric alliance",
+            "quantity": 3,
+            "unit_price": 387.23,
+            "total_price": 1161.69
+        }
+    ],
+    "amount": 4502.38
+}

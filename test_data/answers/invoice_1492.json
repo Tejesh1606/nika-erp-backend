@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Murphy, Joyce and Guzman",
+    "invoice_number": "INV-31660",
+    "date": "2026-03-01",
+    "items": [
+        {
+            "description": "Pre-emptive mission-critical open architecture",
+            "quantity": 4,
+            "unit_price": 496.42,
+            "total_price": 1985.68
+        },
+        {
+            "description": "Right-sized executive utilization",
+            "quantity": 5,
+            "unit_price": 213.22,
+            "total_price": 1066.1
+        },
+        {
+            "description": "Synchronized dynamic archive",
+            "quantity": 6,
+            "unit_price": 447.18,
+            "total_price": 2683.08
+        },
+        {
+            "description": "Seamless bi-directional ability",
+            "quantity": 2,
+            "unit_price": 467.26,
+            "total_price": 934.52
+        }
+    ],
+    "amount": 6669.38
+}

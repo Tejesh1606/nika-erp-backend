@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jackson-Garcia",
+    "invoice_number": "INV-56198",
+    "date": "2025-10-14",
+    "items": [
+        {
+            "description": "Virtual impactful encoding",
+            "quantity": 7,
+            "unit_price": 322.53,
+            "total_price": 2257.71
+        },
+        {
+            "description": "Synergistic leadingedge frame",
+            "quantity": 2,
+            "unit_price": 167.26,
+            "total_price": 334.52
+        }
+    ],
+    "amount": 2592.23
+}

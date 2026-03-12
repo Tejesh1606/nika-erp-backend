@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ramsey Group",
+    "invoice_number": "INV-62105",
+    "date": "2025-12-24",
+    "items": [
+        {
+            "description": "Reduced coherent hierarchy",
+            "quantity": 9,
+            "unit_price": 179.49,
+            "total_price": 1615.41
+        },
+        {
+            "description": "Inverse clear-thinking portal",
+            "quantity": 2,
+            "unit_price": 222.09,
+            "total_price": 444.18
+        },
+        {
+            "description": "Streamlined analyzing groupware",
+            "quantity": 9,
+            "unit_price": 173.58,
+            "total_price": 1562.22
+        }
+    ],
+    "amount": 3621.81
+}

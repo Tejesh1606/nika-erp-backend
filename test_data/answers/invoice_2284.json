@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Green-Chaney",
+    "invoice_number": "INV-74301",
+    "date": "2025-09-21",
+    "items": [
+        {
+            "description": "Reduced zero tolerance interface",
+            "quantity": 10,
+            "unit_price": 147.25,
+            "total_price": 1472.5
+        },
+        {
+            "description": "Decentralized foreground leverage",
+            "quantity": 3,
+            "unit_price": 287.04,
+            "total_price": 861.12
+        }
+    ],
+    "amount": 2333.62
+}

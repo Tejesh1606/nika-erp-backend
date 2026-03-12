@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Harris Ltd",
+    "invoice_number": "INV-16876",
+    "date": "2025-08-17",
+    "items": [
+        {
+            "description": "Stand-alone clear-thinking challenge",
+            "quantity": 7,
+            "unit_price": 275.99,
+            "total_price": 1931.93
+        }
+    ],
+    "amount": 1931.93
+}

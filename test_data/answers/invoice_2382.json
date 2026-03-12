@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Short, Jones and Hardy",
+    "invoice_number": "INV-24633",
+    "date": "2025-08-16",
+    "items": [
+        {
+            "description": "Phased motivating ability",
+            "quantity": 2,
+            "unit_price": 45.64,
+            "total_price": 91.28
+        },
+        {
+            "description": "Networked scalable implementation",
+            "quantity": 10,
+            "unit_price": 228.24,
+            "total_price": 2282.4
+        },
+        {
+            "description": "Stand-alone encompassing protocol",
+            "quantity": 8,
+            "unit_price": 73.01,
+            "total_price": 584.08
+        }
+    ],
+    "amount": 2957.76
+}

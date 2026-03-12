@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Chavez Inc",
+    "invoice_number": "INV-83505",
+    "date": "2025-04-28",
+    "items": [
+        {
+            "description": "Intuitive uniform portal",
+            "quantity": 1,
+            "unit_price": 247.58,
+            "total_price": 247.58
+        },
+        {
+            "description": "Expanded 4thgeneration moratorium",
+            "quantity": 3,
+            "unit_price": 129.33,
+            "total_price": 387.99
+        },
+        {
+            "description": "Proactive multi-state throughput",
+            "quantity": 4,
+            "unit_price": 384.42,
+            "total_price": 1537.68
+        },
+        {
+            "description": "Proactive non-volatile algorithm",
+            "quantity": 8,
+            "unit_price": 364.31,
+            "total_price": 2914.48
+        }
+    ],
+    "amount": 5087.73
+}

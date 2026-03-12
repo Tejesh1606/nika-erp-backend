@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Parsons, Bryant and Martinez",
+    "invoice_number": "INV-77922",
+    "date": "2025-09-03",
+    "items": [
+        {
+            "description": "Intuitive system-worthy access",
+            "quantity": 8,
+            "unit_price": 435.27,
+            "total_price": 3482.16
+        },
+        {
+            "description": "Advanced systematic database",
+            "quantity": 7,
+            "unit_price": 315.89,
+            "total_price": 2211.23
+        },
+        {
+            "description": "Multi-tiered optimal attitude",
+            "quantity": 7,
+            "unit_price": 370.51,
+            "total_price": 2593.57
+        },
+        {
+            "description": "Inverse high-level pricing structure",
+            "quantity": 3,
+            "unit_price": 247.29,
+            "total_price": 741.87
+        }
+    ],
+    "amount": 9028.83
+}

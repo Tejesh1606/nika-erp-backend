@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Castillo, Powell and Collins",
+    "invoice_number": "INV-55956",
+    "date": "2025-12-25",
+    "items": [
+        {
+            "description": "Assimilated value-added service-desk",
+            "quantity": 5,
+            "unit_price": 144.43,
+            "total_price": 722.15
+        }
+    ],
+    "amount": 722.15
+}

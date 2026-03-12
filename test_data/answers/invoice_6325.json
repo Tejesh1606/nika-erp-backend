@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Scott PLC",
+    "invoice_number": "INV-31585",
+    "date": "2025-10-29",
+    "items": [
+        {
+            "description": "Down-sized solution-oriented array",
+            "quantity": 10,
+            "unit_price": 421.81,
+            "total_price": 4218.1
+        },
+        {
+            "description": "Fully-configurable discrete challenge",
+            "quantity": 10,
+            "unit_price": 413.93,
+            "total_price": 4139.3
+        },
+        {
+            "description": "Integrated 24hour infrastructure",
+            "quantity": 5,
+            "unit_price": 117.33,
+            "total_price": 586.65
+        },
+        {
+            "description": "Compatible multi-state initiative",
+            "quantity": 3,
+            "unit_price": 466.65,
+            "total_price": 1399.95
+        }
+    ],
+    "amount": 10344.0
+}

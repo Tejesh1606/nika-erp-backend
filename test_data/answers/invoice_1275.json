@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Osborne, Hill and Powers",
+    "invoice_number": "INV-89249",
+    "date": "2025-08-10",
+    "items": [
+        {
+            "description": "Enterprise-wide systematic forecast",
+            "quantity": 8,
+            "unit_price": 488.53,
+            "total_price": 3908.24
+        },
+        {
+            "description": "Future-proofed 24hour installation",
+            "quantity": 8,
+            "unit_price": 94.44,
+            "total_price": 755.52
+        },
+        {
+            "description": "Expanded 3rdgeneration toolset",
+            "quantity": 10,
+            "unit_price": 312.45,
+            "total_price": 3124.5
+        }
+    ],
+    "amount": 7788.26
+}

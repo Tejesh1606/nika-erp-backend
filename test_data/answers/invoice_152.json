@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Myers, Larson and Hurley",
+    "invoice_number": "INV-50577",
+    "date": "2025-10-12",
+    "items": [
+        {
+            "description": "Multi-tiered secondary utilization",
+            "quantity": 8,
+            "unit_price": 290.65,
+            "total_price": 2325.2
+        },
+        {
+            "description": "Managed clear-thinking secured line",
+            "quantity": 6,
+            "unit_price": 283.8,
+            "total_price": 1702.8
+        },
+        {
+            "description": "Total user-facing software",
+            "quantity": 4,
+            "unit_price": 184.95,
+            "total_price": 739.8
+        }
+    ],
+    "amount": 4767.8
+}

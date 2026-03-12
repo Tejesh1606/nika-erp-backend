@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Willis-Jones",
+    "invoice_number": "INV-28095",
+    "date": "2025-08-03",
+    "items": [
+        {
+            "description": "Sharable multi-state success",
+            "quantity": 9,
+            "unit_price": 390.33,
+            "total_price": 3512.97
+        },
+        {
+            "description": "Horizontal secondary migration",
+            "quantity": 3,
+            "unit_price": 346.84,
+            "total_price": 1040.52
+        }
+    ],
+    "amount": 4553.49
+}

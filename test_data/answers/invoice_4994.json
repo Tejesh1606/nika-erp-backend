@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gill-Campbell",
+    "invoice_number": "INV-25005",
+    "date": "2026-02-16",
+    "items": [
+        {
+            "description": "Ergonomic local flexibility",
+            "quantity": 1,
+            "unit_price": 363.85,
+            "total_price": 363.85
+        }
+    ],
+    "amount": 363.85
+}

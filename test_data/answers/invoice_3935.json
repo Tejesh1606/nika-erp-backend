@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Zhang, Guerrero and Chavez",
+    "invoice_number": "INV-85877",
+    "date": "2025-09-01",
+    "items": [
+        {
+            "description": "Fully-configurable actuating conglomeration",
+            "quantity": 3,
+            "unit_price": 349.87,
+            "total_price": 1049.61
+        },
+        {
+            "description": "Reduced executive application",
+            "quantity": 3,
+            "unit_price": 475.11,
+            "total_price": 1425.33
+        },
+        {
+            "description": "Optional non-volatile Graphic Interface",
+            "quantity": 6,
+            "unit_price": 61.68,
+            "total_price": 370.08
+        },
+        {
+            "description": "Polarized composite hardware",
+            "quantity": 9,
+            "unit_price": 330.91,
+            "total_price": 2978.19
+        }
+    ],
+    "amount": 5823.21
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Durham PLC",
+    "invoice_number": "INV-58952",
+    "date": "2025-03-15",
+    "items": [
+        {
+            "description": "Re-contextualized intermediate alliance",
+            "quantity": 10,
+            "unit_price": 290.31,
+            "total_price": 2903.1
+        }
+    ],
+    "amount": 2903.1
+}

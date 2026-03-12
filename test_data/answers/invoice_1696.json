@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Vasquez and Sons",
+    "invoice_number": "INV-63083",
+    "date": "2025-11-14",
+    "items": [
+        {
+            "description": "Inverse directional analyzer",
+            "quantity": 8,
+            "unit_price": 432.39,
+            "total_price": 3459.12
+        },
+        {
+            "description": "Open-source 5thgeneration success",
+            "quantity": 1,
+            "unit_price": 473.42,
+            "total_price": 473.42
+        },
+        {
+            "description": "Compatible attitude-oriented system engine",
+            "quantity": 3,
+            "unit_price": 186.28,
+            "total_price": 558.84
+        }
+    ],
+    "amount": 4491.38
+}

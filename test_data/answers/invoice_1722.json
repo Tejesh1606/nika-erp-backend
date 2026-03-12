@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jarvis Ltd",
+    "invoice_number": "INV-84221",
+    "date": "2025-10-31",
+    "items": [
+        {
+            "description": "Optional global algorithm",
+            "quantity": 9,
+            "unit_price": 392.76,
+            "total_price": 3534.84
+        },
+        {
+            "description": "Reactive zero tolerance circuit",
+            "quantity": 10,
+            "unit_price": 452.9,
+            "total_price": 4529.0
+        },
+        {
+            "description": "Open-architected optimizing task-force",
+            "quantity": 6,
+            "unit_price": 165.74,
+            "total_price": 994.44
+        }
+    ],
+    "amount": 9058.28
+}

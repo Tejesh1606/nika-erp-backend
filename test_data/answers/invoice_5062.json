@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mendez Ltd",
+    "invoice_number": "INV-45432",
+    "date": "2025-05-10",
+    "items": [
+        {
+            "description": "Progressive secondary architecture",
+            "quantity": 4,
+            "unit_price": 26.52,
+            "total_price": 106.08
+        }
+    ],
+    "amount": 106.08
+}

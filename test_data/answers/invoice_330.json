@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Miller Group",
+    "invoice_number": "INV-27987",
+    "date": "2025-08-18",
+    "items": [
+        {
+            "description": "Exclusive secondary website",
+            "quantity": 1,
+            "unit_price": 47.21,
+            "total_price": 47.21
+        },
+        {
+            "description": "Progressive dynamic product",
+            "quantity": 10,
+            "unit_price": 35.8,
+            "total_price": 358.0
+        },
+        {
+            "description": "Quality-focused 3rdgeneration implementation",
+            "quantity": 2,
+            "unit_price": 136.28,
+            "total_price": 272.56
+        },
+        {
+            "description": "Universal heuristic matrices",
+            "quantity": 3,
+            "unit_price": 226.39,
+            "total_price": 679.17
+        }
+    ],
+    "amount": 1356.94
+}

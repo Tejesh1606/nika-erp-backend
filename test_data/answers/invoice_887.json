@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Lopez, Clark and Weaver",
+    "invoice_number": "INV-66083",
+    "date": "2025-04-24",
+    "items": [
+        {
+            "description": "Focused didactic benchmark",
+            "quantity": 2,
+            "unit_price": 209.56,
+            "total_price": 419.12
+        },
+        {
+            "description": "Multi-channeled fresh-thinking conglomeration",
+            "quantity": 7,
+            "unit_price": 384.07,
+            "total_price": 2688.49
+        }
+    ],
+    "amount": 3107.61
+}

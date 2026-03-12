@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hernandez PLC",
+    "invoice_number": "INV-39287",
+    "date": "2025-10-15",
+    "items": [
+        {
+            "description": "Business-focused 4thgeneration circuit",
+            "quantity": 3,
+            "unit_price": 370.09,
+            "total_price": 1110.27
+        },
+        {
+            "description": "User-centric heuristic benchmark",
+            "quantity": 7,
+            "unit_price": 221.7,
+            "total_price": 1551.9
+        }
+    ],
+    "amount": 2662.17
+}

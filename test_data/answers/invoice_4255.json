@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Medina-Griffin",
+    "invoice_number": "INV-70005",
+    "date": "2025-12-26",
+    "items": [
+        {
+            "description": "Implemented optimal software",
+            "quantity": 8,
+            "unit_price": 385.32,
+            "total_price": 3082.56
+        },
+        {
+            "description": "Distributed object-oriented frame",
+            "quantity": 9,
+            "unit_price": 171.3,
+            "total_price": 1541.7
+        },
+        {
+            "description": "Future-proofed real-time pricing structure",
+            "quantity": 9,
+            "unit_price": 467.49,
+            "total_price": 4207.41
+        }
+    ],
+    "amount": 8831.67
+}

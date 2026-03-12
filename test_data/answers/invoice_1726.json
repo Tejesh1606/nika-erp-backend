@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Garrett-Williams",
+    "invoice_number": "INV-13860",
+    "date": "2026-01-26",
+    "items": [
+        {
+            "description": "Down-sized mission-critical system engine",
+            "quantity": 5,
+            "unit_price": 185.31,
+            "total_price": 926.55
+        }
+    ],
+    "amount": 926.55
+}

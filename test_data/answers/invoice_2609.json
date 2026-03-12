@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mcdowell Inc",
+    "invoice_number": "INV-93646",
+    "date": "2026-01-18",
+    "items": [
+        {
+            "description": "Open-source incremental moratorium",
+            "quantity": 1,
+            "unit_price": 408.63,
+            "total_price": 408.63
+        },
+        {
+            "description": "Right-sized analyzing service-desk",
+            "quantity": 2,
+            "unit_price": 154.73,
+            "total_price": 309.46
+        },
+        {
+            "description": "Future-proofed well-modulated attitude",
+            "quantity": 10,
+            "unit_price": 178.33,
+            "total_price": 1783.3
+        },
+        {
+            "description": "Pre-emptive client-driven monitoring",
+            "quantity": 9,
+            "unit_price": 322.65,
+            "total_price": 2903.85
+        }
+    ],
+    "amount": 5405.24
+}

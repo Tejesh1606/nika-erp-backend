@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Kim, Cox and Diaz",
+    "invoice_number": "INV-24900",
+    "date": "2025-11-18",
+    "items": [
+        {
+            "description": "Integrated asymmetric migration",
+            "quantity": 5,
+            "unit_price": 436.14,
+            "total_price": 2180.7
+        },
+        {
+            "description": "Optimized user-facing flexibility",
+            "quantity": 3,
+            "unit_price": 44.96,
+            "total_price": 134.88
+        }
+    ],
+    "amount": 2315.58
+}

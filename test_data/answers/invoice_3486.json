@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wallace, Figueroa and Cruz",
+    "invoice_number": "INV-43984",
+    "date": "2026-01-21",
+    "items": [
+        {
+            "description": "Reduced scalable firmware",
+            "quantity": 6,
+            "unit_price": 29.02,
+            "total_price": 174.12
+        }
+    ],
+    "amount": 174.12
+}

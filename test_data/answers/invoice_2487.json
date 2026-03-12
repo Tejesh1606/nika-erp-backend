@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hodge, Wallace and Harris",
+    "invoice_number": "INV-25640",
+    "date": "2025-03-28",
+    "items": [
+        {
+            "description": "Quality-focused analyzing orchestration",
+            "quantity": 2,
+            "unit_price": 42.17,
+            "total_price": 84.34
+        },
+        {
+            "description": "Digitized intangible artificial intelligence",
+            "quantity": 8,
+            "unit_price": 420.32,
+            "total_price": 3362.56
+        },
+        {
+            "description": "Networked impactful capacity",
+            "quantity": 3,
+            "unit_price": 251.14,
+            "total_price": 753.42
+        }
+    ],
+    "amount": 4200.32
+}

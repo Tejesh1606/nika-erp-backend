@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Harris Ltd",
+    "invoice_number": "INV-74400",
+    "date": "2025-11-01",
+    "items": [
+        {
+            "description": "Business-focused transitional conglomeration",
+            "quantity": 10,
+            "unit_price": 403.18,
+            "total_price": 4031.8
+        },
+        {
+            "description": "Synchronized stable policy",
+            "quantity": 1,
+            "unit_price": 132.92,
+            "total_price": 132.92
+        },
+        {
+            "description": "Grass-roots 4thgeneration definition",
+            "quantity": 4,
+            "unit_price": 185.45,
+            "total_price": 741.8
+        }
+    ],
+    "amount": 4906.52
+}

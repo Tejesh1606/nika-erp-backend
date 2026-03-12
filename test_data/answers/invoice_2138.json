@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Reynolds-Hudson",
+    "invoice_number": "INV-75883",
+    "date": "2025-12-29",
+    "items": [
+        {
+            "description": "Polarized uniform adapter",
+            "quantity": 5,
+            "unit_price": 147.23,
+            "total_price": 736.15
+        },
+        {
+            "description": "Streamlined bottom-line moderator",
+            "quantity": 2,
+            "unit_price": 455.16,
+            "total_price": 910.32
+        }
+    ],
+    "amount": 1646.47
+}

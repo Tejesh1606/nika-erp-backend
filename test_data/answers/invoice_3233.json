@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Meyer-Gilbert",
+    "invoice_number": "INV-61247",
+    "date": "2025-09-25",
+    "items": [
+        {
+            "description": "Profound attitude-oriented focus group",
+            "quantity": 7,
+            "unit_price": 29.61,
+            "total_price": 207.27
+        },
+        {
+            "description": "Future-proofed optimizing pricing structure",
+            "quantity": 7,
+            "unit_price": 140.79,
+            "total_price": 985.53
+        }
+    ],
+    "amount": 1192.8
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Castillo, Mathews and Lopez",
+    "invoice_number": "INV-85654",
+    "date": "2025-08-13",
+    "items": [
+        {
+            "description": "Organized didactic knowledgebase",
+            "quantity": 2,
+            "unit_price": 212.62,
+            "total_price": 425.24
+        }
+    ],
+    "amount": 425.24
+}

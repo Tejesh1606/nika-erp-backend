@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Trujillo, Johnson and Anderson",
+    "invoice_number": "INV-58434",
+    "date": "2025-06-17",
+    "items": [
+        {
+            "description": "Open-architected homogeneous toolset",
+            "quantity": 3,
+            "unit_price": 349.69,
+            "total_price": 1049.07
+        }
+    ],
+    "amount": 1049.07
+}

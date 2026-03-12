@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jenkins, Gonzalez and Morgan",
+    "invoice_number": "INV-30541",
+    "date": "2025-11-20",
+    "items": [
+        {
+            "description": "Networked multi-state Internet solution",
+            "quantity": 1,
+            "unit_price": 69.37,
+            "total_price": 69.37
+        },
+        {
+            "description": "Enterprise-wide leadingedge algorithm",
+            "quantity": 6,
+            "unit_price": 404.61,
+            "total_price": 2427.66
+        },
+        {
+            "description": "Team-oriented demand-driven info-mediaries",
+            "quantity": 7,
+            "unit_price": 39.61,
+            "total_price": 277.27
+        }
+    ],
+    "amount": 2774.3
+}

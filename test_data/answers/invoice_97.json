@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Booker, Jones and Harrington",
+    "invoice_number": "INV-44737",
+    "date": "2025-07-18",
+    "items": [
+        {
+            "description": "Secured system-worthy infrastructure",
+            "quantity": 6,
+            "unit_price": 221.94,
+            "total_price": 1331.64
+        }
+    ],
+    "amount": 1331.64
+}

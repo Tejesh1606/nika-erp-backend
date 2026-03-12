@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Vincent and Sons",
+    "invoice_number": "INV-39697",
+    "date": "2025-07-06",
+    "items": [
+        {
+            "description": "De-engineered demand-driven capacity",
+            "quantity": 1,
+            "unit_price": 111.16,
+            "total_price": 111.16
+        }
+    ],
+    "amount": 111.16
+}

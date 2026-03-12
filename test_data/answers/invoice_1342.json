@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Smith-James",
+    "invoice_number": "INV-65052",
+    "date": "2025-08-11",
+    "items": [
+        {
+            "description": "Cross-platform heuristic hierarchy",
+            "quantity": 8,
+            "unit_price": 266.81,
+            "total_price": 2134.48
+        },
+        {
+            "description": "Integrated asymmetric Internet solution",
+            "quantity": 5,
+            "unit_price": 158.96,
+            "total_price": 794.8
+        },
+        {
+            "description": "Streamlined exuding emulation",
+            "quantity": 7,
+            "unit_price": 132.76,
+            "total_price": 929.32
+        },
+        {
+            "description": "Total attitude-oriented projection",
+            "quantity": 8,
+            "unit_price": 80.32,
+            "total_price": 642.56
+        }
+    ],
+    "amount": 4501.16
+}

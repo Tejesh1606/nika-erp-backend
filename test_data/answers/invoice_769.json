@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Miller-Taylor",
+    "invoice_number": "INV-35008",
+    "date": "2025-04-21",
+    "items": [
+        {
+            "description": "Ameliorated tangible core",
+            "quantity": 6,
+            "unit_price": 489.51,
+            "total_price": 2937.06
+        },
+        {
+            "description": "Assimilated demand-driven matrices",
+            "quantity": 7,
+            "unit_price": 54.74,
+            "total_price": 383.18
+        },
+        {
+            "description": "Streamlined client-server projection",
+            "quantity": 3,
+            "unit_price": 94.35,
+            "total_price": 283.05
+        }
+    ],
+    "amount": 3603.29
+}

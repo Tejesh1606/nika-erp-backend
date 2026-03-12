@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Alvarado-Roth",
+    "invoice_number": "INV-38918",
+    "date": "2025-12-23",
+    "items": [
+        {
+            "description": "Switchable transitional encoding",
+            "quantity": 4,
+            "unit_price": 60.74,
+            "total_price": 242.96
+        },
+        {
+            "description": "Monitored incremental circuit",
+            "quantity": 8,
+            "unit_price": 476.48,
+            "total_price": 3811.84
+        },
+        {
+            "description": "Ergonomic optimal groupware",
+            "quantity": 4,
+            "unit_price": 264.46,
+            "total_price": 1057.84
+        },
+        {
+            "description": "Assimilated context-sensitive archive",
+            "quantity": 6,
+            "unit_price": 491.3,
+            "total_price": 2947.8
+        }
+    ],
+    "amount": 8060.44
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jones, Mcgrath and Marks",
+    "invoice_number": "INV-10436",
+    "date": "2025-06-10",
+    "items": [
+        {
+            "description": "Cloned zero-defect throughput",
+            "quantity": 10,
+            "unit_price": 322.8,
+            "total_price": 3228.0
+        },
+        {
+            "description": "Virtual encompassing conglomeration",
+            "quantity": 1,
+            "unit_price": 409.94,
+            "total_price": 409.94
+        }
+    ],
+    "amount": 3637.94
+}

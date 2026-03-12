@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Kemp-Baker",
+    "invoice_number": "INV-54601",
+    "date": "2025-04-23",
+    "items": [
+        {
+            "description": "Vision-oriented 24hour framework",
+            "quantity": 3,
+            "unit_price": 433.67,
+            "total_price": 1301.01
+        },
+        {
+            "description": "Quality-focused even-keeled monitoring",
+            "quantity": 10,
+            "unit_price": 267.34,
+            "total_price": 2673.4
+        },
+        {
+            "description": "Balanced optimizing framework",
+            "quantity": 4,
+            "unit_price": 108.54,
+            "total_price": 434.16
+        }
+    ],
+    "amount": 4408.57
+}

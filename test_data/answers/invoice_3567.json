@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cook and Sons",
+    "invoice_number": "INV-72007",
+    "date": "2025-03-16",
+    "items": [
+        {
+            "description": "Triple-buffered contextually-based hardware",
+            "quantity": 9,
+            "unit_price": 30.23,
+            "total_price": 272.07
+        },
+        {
+            "description": "Seamless regional interface",
+            "quantity": 8,
+            "unit_price": 349.52,
+            "total_price": 2796.16
+        },
+        {
+            "description": "Cross-platform bifurcated website",
+            "quantity": 2,
+            "unit_price": 448.23,
+            "total_price": 896.46
+        }
+    ],
+    "amount": 3964.69
+}

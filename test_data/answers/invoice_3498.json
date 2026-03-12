@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Alvarez-Schultz",
+    "invoice_number": "INV-36500",
+    "date": "2025-09-26",
+    "items": [
+        {
+            "description": "Exclusive disintermediate adapter",
+            "quantity": 4,
+            "unit_price": 363.17,
+            "total_price": 1452.68
+        },
+        {
+            "description": "Optimized background firmware",
+            "quantity": 5,
+            "unit_price": 148.33,
+            "total_price": 741.65
+        }
+    ],
+    "amount": 2194.33
+}

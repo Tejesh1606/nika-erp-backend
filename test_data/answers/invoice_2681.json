@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rodriguez-Randall",
+    "invoice_number": "INV-69087",
+    "date": "2025-10-08",
+    "items": [
+        {
+            "description": "Fundamental 5thgeneration array",
+            "quantity": 2,
+            "unit_price": 308.72,
+            "total_price": 617.44
+        },
+        {
+            "description": "Robust 5thgeneration collaboration",
+            "quantity": 10,
+            "unit_price": 459.98,
+            "total_price": 4599.8
+        },
+        {
+            "description": "Persistent stable benchmark",
+            "quantity": 3,
+            "unit_price": 12.6,
+            "total_price": 37.8
+        },
+        {
+            "description": "Open-architected real-time moderator",
+            "quantity": 2,
+            "unit_price": 488.01,
+            "total_price": 976.02
+        }
+    ],
+    "amount": 6231.06
+}

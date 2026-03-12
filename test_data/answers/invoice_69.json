@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Miller Ltd",
+    "invoice_number": "INV-63271",
+    "date": "2025-09-14",
+    "items": [
+        {
+            "description": "Realigned well-modulated encoding",
+            "quantity": 5,
+            "unit_price": 305.52,
+            "total_price": 1527.6
+        },
+        {
+            "description": "Team-oriented methodical project",
+            "quantity": 10,
+            "unit_price": 383.76,
+            "total_price": 3837.6
+        },
+        {
+            "description": "Universal mobile knowledge user",
+            "quantity": 6,
+            "unit_price": 266.59,
+            "total_price": 1599.54
+        },
+        {
+            "description": "Ameliorated background frame",
+            "quantity": 2,
+            "unit_price": 115.22,
+            "total_price": 230.44
+        }
+    ],
+    "amount": 7195.18
+}

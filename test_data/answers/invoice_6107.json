@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Henderson Group",
+    "invoice_number": "INV-73556",
+    "date": "2025-04-27",
+    "items": [
+        {
+            "description": "Managed context-sensitive knowledge user",
+            "quantity": 5,
+            "unit_price": 225.49,
+            "total_price": 1127.45
+        },
+        {
+            "description": "Reverse-engineered content-based system engine",
+            "quantity": 9,
+            "unit_price": 268.74,
+            "total_price": 2418.66
+        }
+    ],
+    "amount": 3546.11
+}

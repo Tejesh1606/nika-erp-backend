@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Miles-Cunningham",
+    "invoice_number": "INV-84198",
+    "date": "2025-09-04",
+    "items": [
+        {
+            "description": "Focused client-driven solution",
+            "quantity": 3,
+            "unit_price": 280.98,
+            "total_price": 842.94
+        },
+        {
+            "description": "Enhanced secondary paradigm",
+            "quantity": 5,
+            "unit_price": 109.63,
+            "total_price": 548.15
+        },
+        {
+            "description": "Devolved mission-critical moderator",
+            "quantity": 1,
+            "unit_price": 347.95,
+            "total_price": 347.95
+        },
+        {
+            "description": "Automated regional parallelism",
+            "quantity": 3,
+            "unit_price": 242.68,
+            "total_price": 728.04
+        }
+    ],
+    "amount": 2467.08
+}

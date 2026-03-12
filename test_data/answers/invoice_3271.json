@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Perry PLC",
+    "invoice_number": "INV-80442",
+    "date": "2026-02-03",
+    "items": [
+        {
+            "description": "Cloned high-level toolset",
+            "quantity": 9,
+            "unit_price": 277.37,
+            "total_price": 2496.33
+        },
+        {
+            "description": "Reduced intangible productivity",
+            "quantity": 7,
+            "unit_price": 46.12,
+            "total_price": 322.84
+        }
+    ],
+    "amount": 2819.17
+}

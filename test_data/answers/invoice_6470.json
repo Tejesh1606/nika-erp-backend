@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Browning Inc",
+    "invoice_number": "INV-56588",
+    "date": "2025-04-15",
+    "items": [
+        {
+            "description": "Progressive disintermediate focus group",
+            "quantity": 2,
+            "unit_price": 449.36,
+            "total_price": 898.72
+        },
+        {
+            "description": "Integrated 4thgeneration contingency",
+            "quantity": 6,
+            "unit_price": 248.0,
+            "total_price": 1488.0
+        },
+        {
+            "description": "Persevering high-level hierarchy",
+            "quantity": 1,
+            "unit_price": 59.28,
+            "total_price": 59.28
+        }
+    ],
+    "amount": 2446.0
+}

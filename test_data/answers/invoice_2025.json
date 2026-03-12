@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Graham, Zimmerman and Baker",
+    "invoice_number": "INV-43852",
+    "date": "2026-01-05",
+    "items": [
+        {
+            "description": "Open-architected mission-critical customer loyalty",
+            "quantity": 10,
+            "unit_price": 346.1,
+            "total_price": 3461.0
+        },
+        {
+            "description": "Inverse leadingedge system engine",
+            "quantity": 1,
+            "unit_price": 154.63,
+            "total_price": 154.63
+        }
+    ],
+    "amount": 3615.63
+}

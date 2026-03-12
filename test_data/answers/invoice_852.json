@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Smith LLC",
+    "invoice_number": "INV-23263",
+    "date": "2025-03-17",
+    "items": [
+        {
+            "description": "Synergistic client-driven implementation",
+            "quantity": 5,
+            "unit_price": 67.66,
+            "total_price": 338.3
+        },
+        {
+            "description": "Streamlined zero tolerance budgetary management",
+            "quantity": 8,
+            "unit_price": 328.78,
+            "total_price": 2630.24
+        },
+        {
+            "description": "Mandatory demand-driven function",
+            "quantity": 8,
+            "unit_price": 49.97,
+            "total_price": 399.76
+        },
+        {
+            "description": "Persevering disintermediate hub",
+            "quantity": 2,
+            "unit_price": 329.85,
+            "total_price": 659.7
+        }
+    ],
+    "amount": 4028.0
+}

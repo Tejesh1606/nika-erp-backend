@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Lee and Sons",
+    "invoice_number": "INV-32633",
+    "date": "2025-12-19",
+    "items": [
+        {
+            "description": "Business-focused motivating circuit",
+            "quantity": 2,
+            "unit_price": 259.77,
+            "total_price": 519.54
+        },
+        {
+            "description": "Enterprise-wide actuating function",
+            "quantity": 3,
+            "unit_price": 313.73,
+            "total_price": 941.19
+        }
+    ],
+    "amount": 1460.73
+}

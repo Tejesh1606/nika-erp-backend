@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Miller, Perry and Murray",
+    "invoice_number": "INV-75827",
+    "date": "2025-07-16",
+    "items": [
+        {
+            "description": "Object-based zero administration productivity",
+            "quantity": 5,
+            "unit_price": 157.82,
+            "total_price": 789.1
+        },
+        {
+            "description": "Open-source cohesive archive",
+            "quantity": 6,
+            "unit_price": 83.06,
+            "total_price": 498.36
+        },
+        {
+            "description": "Phased tertiary system engine",
+            "quantity": 9,
+            "unit_price": 483.81,
+            "total_price": 4354.29
+        },
+        {
+            "description": "Object-based cohesive service-desk",
+            "quantity": 8,
+            "unit_price": 215.22,
+            "total_price": 1721.76
+        }
+    ],
+    "amount": 7363.51
+}

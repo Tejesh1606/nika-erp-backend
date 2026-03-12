@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Newman-Rubio",
+    "invoice_number": "INV-64422",
+    "date": "2025-08-13",
+    "items": [
+        {
+            "description": "Triple-buffered dynamic service-desk",
+            "quantity": 8,
+            "unit_price": 156.36,
+            "total_price": 1250.88
+        }
+    ],
+    "amount": 1250.88
+}

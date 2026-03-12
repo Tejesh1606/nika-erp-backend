@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Miller Inc",
+    "invoice_number": "INV-28351",
+    "date": "2025-12-26",
+    "items": [
+        {
+            "description": "Decentralized optimizing superstructure",
+            "quantity": 7,
+            "unit_price": 162.55,
+            "total_price": 1137.85
+        },
+        {
+            "description": "Networked grid-enabled interface",
+            "quantity": 5,
+            "unit_price": 398.55,
+            "total_price": 1992.75
+        }
+    ],
+    "amount": 3130.6
+}

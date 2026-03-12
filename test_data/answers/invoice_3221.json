@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Miller, Jensen and Becker",
+    "invoice_number": "INV-82897",
+    "date": "2025-03-16",
+    "items": [
+        {
+            "description": "Programmable leadingedge ability",
+            "quantity": 2,
+            "unit_price": 481.3,
+            "total_price": 962.6
+        },
+        {
+            "description": "Total bottom-line leverage",
+            "quantity": 9,
+            "unit_price": 42.87,
+            "total_price": 385.83
+        },
+        {
+            "description": "Adaptive system-worthy migration",
+            "quantity": 10,
+            "unit_price": 367.05,
+            "total_price": 3670.5
+        },
+        {
+            "description": "Vision-oriented uniform software",
+            "quantity": 5,
+            "unit_price": 333.34,
+            "total_price": 1666.7
+        }
+    ],
+    "amount": 6685.63
+}

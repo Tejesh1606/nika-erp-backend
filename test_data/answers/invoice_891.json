@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Stewart, York and Olson",
+    "invoice_number": "INV-53922",
+    "date": "2025-03-15",
+    "items": [
+        {
+            "description": "Robust optimal knowledge user",
+            "quantity": 6,
+            "unit_price": 415.14,
+            "total_price": 2490.84
+        },
+        {
+            "description": "Multi-tiered multimedia productivity",
+            "quantity": 6,
+            "unit_price": 254.67,
+            "total_price": 1528.02
+        },
+        {
+            "description": "User-centric discrete middleware",
+            "quantity": 4,
+            "unit_price": 431.21,
+            "total_price": 1724.84
+        }
+    ],
+    "amount": 5743.7
+}

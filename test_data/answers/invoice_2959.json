@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Gibson and Sons",
+    "invoice_number": "INV-79989",
+    "date": "2025-10-04",
+    "items": [
+        {
+            "description": "Extended encompassing time-frame",
+            "quantity": 5,
+            "unit_price": 177.0,
+            "total_price": 885.0
+        },
+        {
+            "description": "Configurable didactic emulation",
+            "quantity": 1,
+            "unit_price": 184.53,
+            "total_price": 184.53
+        },
+        {
+            "description": "Monitored bi-directional system engine",
+            "quantity": 6,
+            "unit_price": 477.4,
+            "total_price": 2864.4
+        }
+    ],
+    "amount": 3933.93
+}

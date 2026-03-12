@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Arellano Group",
+    "invoice_number": "INV-84227",
+    "date": "2025-07-08",
+    "items": [
+        {
+            "description": "Triple-buffered impactful archive",
+            "quantity": 1,
+            "unit_price": 126.3,
+            "total_price": 126.3
+        },
+        {
+            "description": "Integrated zero-defect artificial intelligence",
+            "quantity": 1,
+            "unit_price": 76.96,
+            "total_price": 76.96
+        },
+        {
+            "description": "Versatile 24/7 open system",
+            "quantity": 3,
+            "unit_price": 207.88,
+            "total_price": 623.64
+        },
+        {
+            "description": "Multi-tiered homogeneous architecture",
+            "quantity": 3,
+            "unit_price": 444.9,
+            "total_price": 1334.7
+        }
+    ],
+    "amount": 2161.6
+}

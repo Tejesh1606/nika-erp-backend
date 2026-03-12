@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cruz-Anderson",
+    "invoice_number": "INV-58588",
+    "date": "2025-06-14",
+    "items": [
+        {
+            "description": "Mandatory scalable toolset",
+            "quantity": 8,
+            "unit_price": 295.44,
+            "total_price": 2363.52
+        }
+    ],
+    "amount": 2363.52
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Rivera-Arnold",
+    "invoice_number": "INV-34703",
+    "date": "2025-10-17",
+    "items": [
+        {
+            "description": "Cloned client-driven parallelism",
+            "quantity": 3,
+            "unit_price": 210.16,
+            "total_price": 630.48
+        }
+    ],
+    "amount": 630.48
+}

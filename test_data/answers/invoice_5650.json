@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Price-Ellis",
+    "invoice_number": "INV-53931",
+    "date": "2025-09-03",
+    "items": [
+        {
+            "description": "Visionary bifurcated artificial intelligence",
+            "quantity": 6,
+            "unit_price": 123.4,
+            "total_price": 740.4
+        },
+        {
+            "description": "Decentralized client-driven alliance",
+            "quantity": 3,
+            "unit_price": 428.55,
+            "total_price": 1285.65
+        },
+        {
+            "description": "Proactive 3rdgeneration benchmark",
+            "quantity": 9,
+            "unit_price": 209.85,
+            "total_price": 1888.65
+        }
+    ],
+    "amount": 3914.7
+}

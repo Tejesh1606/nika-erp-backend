@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Preston, Moore and Garcia",
+    "invoice_number": "INV-36941",
+    "date": "2025-05-21",
+    "items": [
+        {
+            "description": "Open-source tangible neural-net",
+            "quantity": 10,
+            "unit_price": 29.27,
+            "total_price": 292.7
+        },
+        {
+            "description": "Up-sized upward-trending moratorium",
+            "quantity": 2,
+            "unit_price": 314.17,
+            "total_price": 628.34
+        },
+        {
+            "description": "Fundamental stable forecast",
+            "quantity": 3,
+            "unit_price": 71.15,
+            "total_price": 213.45
+        },
+        {
+            "description": "Innovative disintermediate attitude",
+            "quantity": 3,
+            "unit_price": 491.47,
+            "total_price": 1474.41
+        }
+    ],
+    "amount": 2608.9
+}

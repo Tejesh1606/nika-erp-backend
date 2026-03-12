@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mcguire-Barker",
+    "invoice_number": "INV-40645",
+    "date": "2025-10-04",
+    "items": [
+        {
+            "description": "Organic zero administration neural-net",
+            "quantity": 1,
+            "unit_price": 216.75,
+            "total_price": 216.75
+        },
+        {
+            "description": "Centralized value-added throughput",
+            "quantity": 5,
+            "unit_price": 311.94,
+            "total_price": 1559.7
+        }
+    ],
+    "amount": 1776.45
+}

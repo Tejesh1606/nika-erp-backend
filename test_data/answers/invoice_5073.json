@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Miller and Sons",
+    "invoice_number": "INV-70944",
+    "date": "2025-11-13",
+    "items": [
+        {
+            "description": "Polarized motivating service-desk",
+            "quantity": 6,
+            "unit_price": 330.76,
+            "total_price": 1984.56
+        },
+        {
+            "description": "Synergistic 4thgeneration hub",
+            "quantity": 5,
+            "unit_price": 403.92,
+            "total_price": 2019.6
+        },
+        {
+            "description": "Managed stable pricing structure",
+            "quantity": 4,
+            "unit_price": 324.23,
+            "total_price": 1296.92
+        }
+    ],
+    "amount": 5301.08
+}

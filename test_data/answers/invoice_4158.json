@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Carlson, Olson and Baker",
+    "invoice_number": "INV-61685",
+    "date": "2025-08-08",
+    "items": [
+        {
+            "description": "Triple-buffered incremental portal",
+            "quantity": 7,
+            "unit_price": 460.28,
+            "total_price": 3221.96
+        },
+        {
+            "description": "Virtual modular secured line",
+            "quantity": 8,
+            "unit_price": 473.87,
+            "total_price": 3790.96
+        }
+    ],
+    "amount": 7012.92
+}

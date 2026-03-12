@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hanna-Martinez",
+    "invoice_number": "INV-87356",
+    "date": "2025-07-15",
+    "items": [
+        {
+            "description": "Cross-platform leadingedge attitude",
+            "quantity": 8,
+            "unit_price": 176.01,
+            "total_price": 1408.08
+        },
+        {
+            "description": "Progressive logistical access",
+            "quantity": 8,
+            "unit_price": 295.42,
+            "total_price": 2363.36
+        },
+        {
+            "description": "Up-sized client-server installation",
+            "quantity": 5,
+            "unit_price": 65.83,
+            "total_price": 329.15
+        }
+    ],
+    "amount": 4100.59
+}

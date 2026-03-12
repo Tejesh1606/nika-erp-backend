@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wright-Stanley",
+    "invoice_number": "INV-70620",
+    "date": "2025-06-13",
+    "items": [
+        {
+            "description": "Public-key 6thgeneration architecture",
+            "quantity": 2,
+            "unit_price": 246.83,
+            "total_price": 493.66
+        },
+        {
+            "description": "Extended asynchronous moderator",
+            "quantity": 9,
+            "unit_price": 157.56,
+            "total_price": 1418.04
+        }
+    ],
+    "amount": 1911.7
+}

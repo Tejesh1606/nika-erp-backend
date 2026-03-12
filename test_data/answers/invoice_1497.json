@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Castillo, Simon and Hernandez",
+    "invoice_number": "INV-18540",
+    "date": "2025-08-10",
+    "items": [
+        {
+            "description": "Synergistic homogeneous algorithm",
+            "quantity": 4,
+            "unit_price": 152.27,
+            "total_price": 609.08
+        },
+        {
+            "description": "Automated modular Internet solution",
+            "quantity": 5,
+            "unit_price": 417.77,
+            "total_price": 2088.85
+        }
+    ],
+    "amount": 2697.93
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hopkins, Miller and Blackwell",
+    "invoice_number": "INV-10746",
+    "date": "2025-04-15",
+    "items": [
+        {
+            "description": "Switchable explicit open system",
+            "quantity": 8,
+            "unit_price": 52.72,
+            "total_price": 421.76
+        },
+        {
+            "description": "Down-sized incremental complexity",
+            "quantity": 4,
+            "unit_price": 303.35,
+            "total_price": 1213.4
+        }
+    ],
+    "amount": 1635.16
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Vaughn-Perry",
+    "invoice_number": "INV-64216",
+    "date": "2025-08-02",
+    "items": [
+        {
+            "description": "Grass-roots content-based time-frame",
+            "quantity": 5,
+            "unit_price": 94.56,
+            "total_price": 472.8
+        },
+        {
+            "description": "Pre-emptive eco-centric policy",
+            "quantity": 4,
+            "unit_price": 283.0,
+            "total_price": 1132.0
+        },
+        {
+            "description": "Advanced responsive solution",
+            "quantity": 10,
+            "unit_price": 297.93,
+            "total_price": 2979.3
+        }
+    ],
+    "amount": 4584.1
+}

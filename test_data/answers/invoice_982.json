@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Simmons-Brown",
+    "invoice_number": "INV-65977",
+    "date": "2025-11-14",
+    "items": [
+        {
+            "description": "Business-focused exuding budgetary management",
+            "quantity": 4,
+            "unit_price": 378.82,
+            "total_price": 1515.28
+        }
+    ],
+    "amount": 1515.28
+}

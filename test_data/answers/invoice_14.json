@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ryan PLC",
+    "invoice_number": "INV-10074",
+    "date": "2025-10-27",
+    "items": [
+        {
+            "description": "Inverse mobile adapter",
+            "quantity": 1,
+            "unit_price": 328.51,
+            "total_price": 328.51
+        }
+    ],
+    "amount": 328.51
+}

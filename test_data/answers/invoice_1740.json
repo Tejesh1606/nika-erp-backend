@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Contreras-Jackson",
+    "invoice_number": "INV-34464",
+    "date": "2025-04-07",
+    "items": [
+        {
+            "description": "Advanced cohesive productivity",
+            "quantity": 1,
+            "unit_price": 144.33,
+            "total_price": 144.33
+        },
+        {
+            "description": "Cross-group mobile parallelism",
+            "quantity": 10,
+            "unit_price": 493.28,
+            "total_price": 4932.8
+        },
+        {
+            "description": "Public-key contextually-based benchmark",
+            "quantity": 8,
+            "unit_price": 17.76,
+            "total_price": 142.08
+        },
+        {
+            "description": "Self-enabling content-based firmware",
+            "quantity": 4,
+            "unit_price": 74.39,
+            "total_price": 297.56
+        }
+    ],
+    "amount": 5516.77
+}

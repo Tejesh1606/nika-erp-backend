@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Miller-Elliott",
+    "invoice_number": "INV-42985",
+    "date": "2025-03-21",
+    "items": [
+        {
+            "description": "Open-source discrete model",
+            "quantity": 6,
+            "unit_price": 466.06,
+            "total_price": 2796.36
+        },
+        {
+            "description": "Intuitive intangible knowledgebase",
+            "quantity": 5,
+            "unit_price": 323.15,
+            "total_price": 1615.75
+        }
+    ],
+    "amount": 4412.11
+}

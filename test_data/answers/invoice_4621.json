@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Adams LLC",
+    "invoice_number": "INV-10712",
+    "date": "2026-01-25",
+    "items": [
+        {
+            "description": "Ameliorated directional orchestration",
+            "quantity": 9,
+            "unit_price": 136.98,
+            "total_price": 1232.82
+        },
+        {
+            "description": "Function-based zero administration productivity",
+            "quantity": 7,
+            "unit_price": 102.72,
+            "total_price": 719.04
+        },
+        {
+            "description": "Multi-layered high-level migration",
+            "quantity": 10,
+            "unit_price": 169.71,
+            "total_price": 1697.1
+        }
+    ],
+    "amount": 3648.96
+}

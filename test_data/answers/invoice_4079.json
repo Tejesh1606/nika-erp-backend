@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Navarro, Johnson and Wallace",
+    "invoice_number": "INV-63778",
+    "date": "2025-03-26",
+    "items": [
+        {
+            "description": "Distributed disintermediate time-frame",
+            "quantity": 9,
+            "unit_price": 495.8,
+            "total_price": 4462.2
+        },
+        {
+            "description": "Decentralized actuating superstructure",
+            "quantity": 4,
+            "unit_price": 346.47,
+            "total_price": 1385.88
+        },
+        {
+            "description": "Optimized fault-tolerant time-frame",
+            "quantity": 4,
+            "unit_price": 100.17,
+            "total_price": 400.68
+        }
+    ],
+    "amount": 6248.76
+}

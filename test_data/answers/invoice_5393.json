@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gutierrez Inc",
+    "invoice_number": "INV-22756",
+    "date": "2026-02-01",
+    "items": [
+        {
+            "description": "Progressive asynchronous Local Area Network",
+            "quantity": 5,
+            "unit_price": 91.33,
+            "total_price": 456.65
+        },
+        {
+            "description": "User-centric high-level knowledgebase",
+            "quantity": 5,
+            "unit_price": 313.4,
+            "total_price": 1567.0
+        },
+        {
+            "description": "Operative value-added access",
+            "quantity": 9,
+            "unit_price": 316.67,
+            "total_price": 2850.03
+        },
+        {
+            "description": "Customer-focused multimedia alliance",
+            "quantity": 5,
+            "unit_price": 42.58,
+            "total_price": 212.9
+        }
+    ],
+    "amount": 5086.58
+}

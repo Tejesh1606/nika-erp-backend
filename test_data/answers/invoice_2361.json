@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Blanchard, Mills and Hill",
+    "invoice_number": "INV-69904",
+    "date": "2025-03-28",
+    "items": [
+        {
+            "description": "Object-based upward-trending implementation",
+            "quantity": 9,
+            "unit_price": 287.63,
+            "total_price": 2588.67
+        },
+        {
+            "description": "Configurable needs-based system engine",
+            "quantity": 3,
+            "unit_price": 251.57,
+            "total_price": 754.71
+        },
+        {
+            "description": "Organized solution-oriented hardware",
+            "quantity": 10,
+            "unit_price": 178.06,
+            "total_price": 1780.6
+        }
+    ],
+    "amount": 5123.98
+}

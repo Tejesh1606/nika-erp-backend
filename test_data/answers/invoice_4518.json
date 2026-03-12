@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Davis Ltd",
+    "invoice_number": "INV-76960",
+    "date": "2025-04-08",
+    "items": [
+        {
+            "description": "Intuitive eco-centric firmware",
+            "quantity": 1,
+            "unit_price": 373.47,
+            "total_price": 373.47
+        }
+    ],
+    "amount": 373.47
+}

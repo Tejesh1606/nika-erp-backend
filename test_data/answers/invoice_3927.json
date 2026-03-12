@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jacobs, Gonzalez and Walker",
+    "invoice_number": "INV-82525",
+    "date": "2025-10-04",
+    "items": [
+        {
+            "description": "Business-focused upward-trending complexity",
+            "quantity": 7,
+            "unit_price": 134.87,
+            "total_price": 944.09
+        },
+        {
+            "description": "Synergized asymmetric alliance",
+            "quantity": 3,
+            "unit_price": 435.81,
+            "total_price": 1307.43
+        },
+        {
+            "description": "Reduced disintermediate instruction set",
+            "quantity": 10,
+            "unit_price": 470.84,
+            "total_price": 4708.4
+        },
+        {
+            "description": "Pre-emptive uniform success",
+            "quantity": 1,
+            "unit_price": 351.81,
+            "total_price": 351.81
+        }
+    ],
+    "amount": 7311.73
+}

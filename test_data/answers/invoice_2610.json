@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith Group",
+    "invoice_number": "INV-32085",
+    "date": "2025-05-22",
+    "items": [
+        {
+            "description": "Profit-focused uniform budgetary management",
+            "quantity": 3,
+            "unit_price": 147.0,
+            "total_price": 441.0
+        }
+    ],
+    "amount": 441.0
+}

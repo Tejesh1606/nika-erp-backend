@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mccann-Cardenas",
+    "invoice_number": "INV-58916",
+    "date": "2025-09-24",
+    "items": [
+        {
+            "description": "Upgradable object-oriented adapter",
+            "quantity": 6,
+            "unit_price": 38.33,
+            "total_price": 229.98
+        },
+        {
+            "description": "Fundamental cohesive paradigm",
+            "quantity": 10,
+            "unit_price": 175.82,
+            "total_price": 1758.2
+        },
+        {
+            "description": "Centralized client-server functionalities",
+            "quantity": 10,
+            "unit_price": 143.78,
+            "total_price": 1437.8
+        }
+    ],
+    "amount": 3425.98
+}

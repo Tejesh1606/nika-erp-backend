@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Santana, Lopez and Bell",
+    "invoice_number": "INV-21898",
+    "date": "2025-05-04",
+    "items": [
+        {
+            "description": "User-friendly even-keeled paradigm",
+            "quantity": 7,
+            "unit_price": 111.94,
+            "total_price": 783.58
+        }
+    ],
+    "amount": 783.58
+}

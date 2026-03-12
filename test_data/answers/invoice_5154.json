@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Morris Inc",
+    "invoice_number": "INV-73539",
+    "date": "2026-01-14",
+    "items": [
+        {
+            "description": "Open-source needs-based orchestration",
+            "quantity": 7,
+            "unit_price": 368.67,
+            "total_price": 2580.69
+        },
+        {
+            "description": "Digitized system-worthy service-desk",
+            "quantity": 2,
+            "unit_price": 159.78,
+            "total_price": 319.56
+        },
+        {
+            "description": "Digitized 5thgeneration infrastructure",
+            "quantity": 3,
+            "unit_price": 47.17,
+            "total_price": 141.51
+        }
+    ],
+    "amount": 3041.76
+}

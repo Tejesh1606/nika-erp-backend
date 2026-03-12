@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Stewart-Nelson",
+    "invoice_number": "INV-19789",
+    "date": "2025-05-26",
+    "items": [
+        {
+            "description": "Devolved zero-defect throughput",
+            "quantity": 8,
+            "unit_price": 25.45,
+            "total_price": 203.6
+        }
+    ],
+    "amount": 203.6
+}

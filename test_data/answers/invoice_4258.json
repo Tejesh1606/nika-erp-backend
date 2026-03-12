@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hines Inc",
+    "invoice_number": "INV-35085",
+    "date": "2025-04-07",
+    "items": [
+        {
+            "description": "Object-based bottom-line structure",
+            "quantity": 6,
+            "unit_price": 228.67,
+            "total_price": 1372.02
+        },
+        {
+            "description": "Universal zero-defect database",
+            "quantity": 3,
+            "unit_price": 459.1,
+            "total_price": 1377.3
+        },
+        {
+            "description": "Customer-focused mission-critical knowledge user",
+            "quantity": 3,
+            "unit_price": 160.53,
+            "total_price": 481.59
+        }
+    ],
+    "amount": 3230.91
+}

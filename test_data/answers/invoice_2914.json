@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Allen, Howard and Davis",
+    "invoice_number": "INV-63587",
+    "date": "2025-09-09",
+    "items": [
+        {
+            "description": "Extended scalable approach",
+            "quantity": 5,
+            "unit_price": 184.69,
+            "total_price": 923.45
+        },
+        {
+            "description": "Re-contextualized full-range superstructure",
+            "quantity": 10,
+            "unit_price": 459.25,
+            "total_price": 4592.5
+        },
+        {
+            "description": "Face-to-face clear-thinking protocol",
+            "quantity": 10,
+            "unit_price": 129.98,
+            "total_price": 1299.8
+        }
+    ],
+    "amount": 6815.75
+}

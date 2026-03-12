@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Fischer-Nichols",
+    "invoice_number": "INV-43797",
+    "date": "2025-04-18",
+    "items": [
+        {
+            "description": "Pre-emptive stable neural-net",
+            "quantity": 4,
+            "unit_price": 120.04,
+            "total_price": 480.16
+        }
+    ],
+    "amount": 480.16
+}

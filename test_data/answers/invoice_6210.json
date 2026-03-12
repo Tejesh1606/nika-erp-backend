@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Miller-Hoffman",
+    "invoice_number": "INV-98291",
+    "date": "2025-03-23",
+    "items": [
+        {
+            "description": "Triple-buffered cohesive website",
+            "quantity": 7,
+            "unit_price": 64.34,
+            "total_price": 450.38
+        },
+        {
+            "description": "Optional fault-tolerant contingency",
+            "quantity": 2,
+            "unit_price": 413.77,
+            "total_price": 827.54
+        },
+        {
+            "description": "Customizable scalable framework",
+            "quantity": 10,
+            "unit_price": 42.41,
+            "total_price": 424.1
+        },
+        {
+            "description": "Reduced client-driven monitoring",
+            "quantity": 1,
+            "unit_price": 252.64,
+            "total_price": 252.64
+        }
+    ],
+    "amount": 1954.66
+}

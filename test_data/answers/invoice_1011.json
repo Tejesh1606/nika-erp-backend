@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Thomas-Morris",
+    "invoice_number": "INV-26716",
+    "date": "2025-05-18",
+    "items": [
+        {
+            "description": "Visionary human-resource help-desk",
+            "quantity": 1,
+            "unit_price": 134.94,
+            "total_price": 134.94
+        },
+        {
+            "description": "Intuitive modular interface",
+            "quantity": 8,
+            "unit_price": 47.36,
+            "total_price": 378.88
+        },
+        {
+            "description": "Polarized system-worthy installation",
+            "quantity": 9,
+            "unit_price": 291.77,
+            "total_price": 2625.93
+        }
+    ],
+    "amount": 3139.75
+}

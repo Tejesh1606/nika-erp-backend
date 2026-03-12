@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Lowe, Higgins and Roberts",
+    "invoice_number": "INV-47692",
+    "date": "2025-11-13",
+    "items": [
+        {
+            "description": "Diverse analyzing attitude",
+            "quantity": 4,
+            "unit_price": 230.1,
+            "total_price": 920.4
+        },
+        {
+            "description": "Profit-focused bi-directional task-force",
+            "quantity": 9,
+            "unit_price": 434.92,
+            "total_price": 3914.28
+        }
+    ],
+    "amount": 4834.68
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Montgomery-Burns",
+    "invoice_number": "INV-73860",
+    "date": "2025-04-10",
+    "items": [
+        {
+            "description": "Robust analyzing ability",
+            "quantity": 6,
+            "unit_price": 164.29,
+            "total_price": 985.74
+        },
+        {
+            "description": "Centralized secondary adapter",
+            "quantity": 7,
+            "unit_price": 223.24,
+            "total_price": 1562.68
+        },
+        {
+            "description": "Enterprise-wide tertiary paradigm",
+            "quantity": 5,
+            "unit_price": 335.75,
+            "total_price": 1678.75
+        }
+    ],
+    "amount": 4227.17
+}

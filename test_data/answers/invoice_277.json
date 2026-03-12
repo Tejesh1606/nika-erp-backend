@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith-Lewis",
+    "invoice_number": "INV-46483",
+    "date": "2025-12-26",
+    "items": [
+        {
+            "description": "Triple-buffered asymmetric orchestration",
+            "quantity": 3,
+            "unit_price": 294.25,
+            "total_price": 882.75
+        }
+    ],
+    "amount": 882.75
+}

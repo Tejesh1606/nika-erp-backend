@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Kaiser, Wilkerson and Harris",
+    "invoice_number": "INV-95982",
+    "date": "2025-12-27",
+    "items": [
+        {
+            "description": "Integrated dedicated initiative",
+            "quantity": 6,
+            "unit_price": 118.75,
+            "total_price": 712.5
+        },
+        {
+            "description": "Cloned even-keeled Graphical User Interface",
+            "quantity": 7,
+            "unit_price": 64.13,
+            "total_price": 448.91
+        },
+        {
+            "description": "Multi-lateral 5thgeneration artificial intelligence",
+            "quantity": 2,
+            "unit_price": 241.31,
+            "total_price": 482.62
+        },
+        {
+            "description": "Diverse radical adapter",
+            "quantity": 7,
+            "unit_price": 33.27,
+            "total_price": 232.89
+        }
+    ],
+    "amount": 1876.92
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Shields, Figueroa and Smith",
+    "invoice_number": "INV-82523",
+    "date": "2026-03-07",
+    "items": [
+        {
+            "description": "Reduced optimal success",
+            "quantity": 7,
+            "unit_price": 338.37,
+            "total_price": 2368.59
+        },
+        {
+            "description": "Operative explicit collaboration",
+            "quantity": 9,
+            "unit_price": 498.16,
+            "total_price": 4483.44
+        },
+        {
+            "description": "Exclusive full-range emulation",
+            "quantity": 8,
+            "unit_price": 158.6,
+            "total_price": 1268.8
+        }
+    ],
+    "amount": 8120.83
+}

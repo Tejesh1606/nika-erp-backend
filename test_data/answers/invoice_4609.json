@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Davis, Miller and Stewart",
+    "invoice_number": "INV-31857",
+    "date": "2025-03-18",
+    "items": [
+        {
+            "description": "Operative didactic algorithm",
+            "quantity": 3,
+            "unit_price": 247.58,
+            "total_price": 742.74
+        },
+        {
+            "description": "Fundamental bifurcated implementation",
+            "quantity": 9,
+            "unit_price": 484.13,
+            "total_price": 4357.17
+        }
+    ],
+    "amount": 5099.91
+}

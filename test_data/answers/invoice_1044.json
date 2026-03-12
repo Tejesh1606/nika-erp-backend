@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bryan, Quinn and Smith",
+    "invoice_number": "INV-70117",
+    "date": "2026-03-06",
+    "items": [
+        {
+            "description": "Digitized modular functionalities",
+            "quantity": 3,
+            "unit_price": 79.65,
+            "total_price": 238.95
+        },
+        {
+            "description": "Customizable systematic installation",
+            "quantity": 3,
+            "unit_price": 147.92,
+            "total_price": 443.76
+        }
+    ],
+    "amount": 682.71
+}

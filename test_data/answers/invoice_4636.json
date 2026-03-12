@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wood-Shelton",
+    "invoice_number": "INV-22611",
+    "date": "2025-08-06",
+    "items": [
+        {
+            "description": "Fully-configurable local pricing structure",
+            "quantity": 10,
+            "unit_price": 184.18,
+            "total_price": 1841.8
+        }
+    ],
+    "amount": 1841.8
+}

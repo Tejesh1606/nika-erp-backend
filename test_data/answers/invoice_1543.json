@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Silva, Hill and Bradley",
+    "invoice_number": "INV-36108",
+    "date": "2025-06-20",
+    "items": [
+        {
+            "description": "Business-focused interactive product",
+            "quantity": 3,
+            "unit_price": 328.91,
+            "total_price": 986.73
+        }
+    ],
+    "amount": 986.73
+}

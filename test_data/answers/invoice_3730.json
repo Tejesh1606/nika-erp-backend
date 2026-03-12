@@ -1,0 +1,32 @@
+{
+    "vendor_name": "King, Barajas and Boyd",
+    "invoice_number": "INV-84612",
+    "date": "2025-11-22",
+    "items": [
+        {
+            "description": "Multi-tiered global data-warehouse",
+            "quantity": 4,
+            "unit_price": 161.58,
+            "total_price": 646.32
+        },
+        {
+            "description": "Proactive asymmetric hierarchy",
+            "quantity": 6,
+            "unit_price": 359.95,
+            "total_price": 2159.7
+        },
+        {
+            "description": "Multi-channeled methodical encryption",
+            "quantity": 6,
+            "unit_price": 350.97,
+            "total_price": 2105.82
+        },
+        {
+            "description": "Customizable 4thgeneration help-desk",
+            "quantity": 2,
+            "unit_price": 258.98,
+            "total_price": 517.96
+        }
+    ],
+    "amount": 5429.8
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Henderson, Harper and Jones",
+    "invoice_number": "INV-83007",
+    "date": "2025-03-31",
+    "items": [
+        {
+            "description": "Business-focused full-range encoding",
+            "quantity": 2,
+            "unit_price": 133.25,
+            "total_price": 266.5
+        },
+        {
+            "description": "Phased heuristic portal",
+            "quantity": 7,
+            "unit_price": 75.68,
+            "total_price": 529.76
+        }
+    ],
+    "amount": 796.26
+}

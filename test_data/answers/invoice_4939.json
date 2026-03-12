@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jones, Snyder and Dixon",
+    "invoice_number": "INV-27662",
+    "date": "2025-06-14",
+    "items": [
+        {
+            "description": "Business-focused motivating pricing structure",
+            "quantity": 5,
+            "unit_price": 447.95,
+            "total_price": 2239.75
+        }
+    ],
+    "amount": 2239.75
+}

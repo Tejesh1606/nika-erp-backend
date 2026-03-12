@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Terry-Matthews",
+    "invoice_number": "INV-90262",
+    "date": "2025-05-21",
+    "items": [
+        {
+            "description": "Multi-layered web-enabled firmware",
+            "quantity": 2,
+            "unit_price": 108.68,
+            "total_price": 217.36
+        }
+    ],
+    "amount": 217.36
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Chung, Hernandez and Ballard",
+    "invoice_number": "INV-21753",
+    "date": "2025-11-15",
+    "items": [
+        {
+            "description": "Switchable mobile intranet",
+            "quantity": 4,
+            "unit_price": 389.11,
+            "total_price": 1556.44
+        }
+    ],
+    "amount": 1556.44
+}

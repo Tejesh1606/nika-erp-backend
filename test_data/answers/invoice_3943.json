@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Brown Ltd",
+    "invoice_number": "INV-50578",
+    "date": "2025-11-22",
+    "items": [
+        {
+            "description": "Compatible maximized matrices",
+            "quantity": 9,
+            "unit_price": 400.03,
+            "total_price": 3600.27
+        }
+    ],
+    "amount": 3600.27
+}

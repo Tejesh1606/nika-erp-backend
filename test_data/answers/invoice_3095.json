@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Barber-Ortiz",
+    "invoice_number": "INV-82379",
+    "date": "2025-11-23",
+    "items": [
+        {
+            "description": "Vision-oriented didactic frame",
+            "quantity": 6,
+            "unit_price": 251.59,
+            "total_price": 1509.54
+        },
+        {
+            "description": "Cloned 6thgeneration definition",
+            "quantity": 9,
+            "unit_price": 398.41,
+            "total_price": 3585.69
+        },
+        {
+            "description": "Fundamental attitude-oriented focus group",
+            "quantity": 8,
+            "unit_price": 453.98,
+            "total_price": 3631.84
+        },
+        {
+            "description": "Cross-group dedicated system engine",
+            "quantity": 9,
+            "unit_price": 188.52,
+            "total_price": 1696.68
+        }
+    ],
+    "amount": 10423.75
+}

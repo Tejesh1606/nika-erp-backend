@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brown-Patterson",
+    "invoice_number": "INV-31942",
+    "date": "2025-05-15",
+    "items": [
+        {
+            "description": "Multi-lateral composite groupware",
+            "quantity": 9,
+            "unit_price": 164.02,
+            "total_price": 1476.18
+        },
+        {
+            "description": "Inverse dedicated protocol",
+            "quantity": 5,
+            "unit_price": 423.55,
+            "total_price": 2117.75
+        },
+        {
+            "description": "Switchable attitude-oriented core",
+            "quantity": 5,
+            "unit_price": 181.43,
+            "total_price": 907.15
+        }
+    ],
+    "amount": 4501.08
+}

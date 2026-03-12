@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Black-Carter",
+    "invoice_number": "INV-38900",
+    "date": "2025-06-09",
+    "items": [
+        {
+            "description": "Synergistic modular database",
+            "quantity": 4,
+            "unit_price": 364.05,
+            "total_price": 1456.2
+        },
+        {
+            "description": "Customizable empowering product",
+            "quantity": 5,
+            "unit_price": 417.24,
+            "total_price": 2086.2
+        },
+        {
+            "description": "Advanced client-server portal",
+            "quantity": 7,
+            "unit_price": 215.68,
+            "total_price": 1509.76
+        }
+    ],
+    "amount": 5052.16
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Garrison, Scott and Stevens",
+    "invoice_number": "INV-38990",
+    "date": "2025-08-12",
+    "items": [
+        {
+            "description": "Networked incremental task-force",
+            "quantity": 1,
+            "unit_price": 215.72,
+            "total_price": 215.72
+        },
+        {
+            "description": "Multi-channeled impactful access",
+            "quantity": 3,
+            "unit_price": 406.77,
+            "total_price": 1220.31
+        },
+        {
+            "description": "Adaptive systematic knowledge user",
+            "quantity": 1,
+            "unit_price": 296.04,
+            "total_price": 296.04
+        },
+        {
+            "description": "Multi-tiered transitional challenge",
+            "quantity": 7,
+            "unit_price": 120.91,
+            "total_price": 846.37
+        }
+    ],
+    "amount": 2578.44
+}

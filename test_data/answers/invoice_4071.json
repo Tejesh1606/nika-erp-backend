@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wells Ltd",
+    "invoice_number": "INV-31174",
+    "date": "2026-01-15",
+    "items": [
+        {
+            "description": "Customer-focused systemic middleware",
+            "quantity": 5,
+            "unit_price": 17.71,
+            "total_price": 88.55
+        },
+        {
+            "description": "Switchable motivating knowledgebase",
+            "quantity": 6,
+            "unit_price": 221.23,
+            "total_price": 1327.38
+        },
+        {
+            "description": "Switchable logistical website",
+            "quantity": 3,
+            "unit_price": 215.1,
+            "total_price": 645.3
+        },
+        {
+            "description": "Cloned systematic success",
+            "quantity": 7,
+            "unit_price": 390.0,
+            "total_price": 2730.0
+        }
+    ],
+    "amount": 4791.23
+}

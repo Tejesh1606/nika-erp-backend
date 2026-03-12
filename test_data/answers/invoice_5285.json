@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Rollins, Williams and Turner",
+    "invoice_number": "INV-24612",
+    "date": "2025-10-15",
+    "items": [
+        {
+            "description": "Profit-focused stable conglomeration",
+            "quantity": 8,
+            "unit_price": 309.96,
+            "total_price": 2479.68
+        },
+        {
+            "description": "Phased well-modulated complexity",
+            "quantity": 4,
+            "unit_price": 405.9,
+            "total_price": 1623.6
+        }
+    ],
+    "amount": 4103.28
+}

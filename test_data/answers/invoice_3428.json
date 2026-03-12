@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Chambers-Bennett",
+    "invoice_number": "INV-77993",
+    "date": "2025-07-11",
+    "items": [
+        {
+            "description": "Reduced 24/7 challenge",
+            "quantity": 6,
+            "unit_price": 276.85,
+            "total_price": 1661.1
+        }
+    ],
+    "amount": 1661.1
+}

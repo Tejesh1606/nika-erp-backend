@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gardner, Parker and Watkins",
+    "invoice_number": "INV-32111",
+    "date": "2026-02-07",
+    "items": [
+        {
+            "description": "Reduced fresh-thinking application",
+            "quantity": 7,
+            "unit_price": 488.07,
+            "total_price": 3416.49
+        }
+    ],
+    "amount": 3416.49
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cherry Inc",
+    "invoice_number": "INV-87639",
+    "date": "2025-09-05",
+    "items": [
+        {
+            "description": "Object-based value-added infrastructure",
+            "quantity": 5,
+            "unit_price": 458.18,
+            "total_price": 2290.9
+        },
+        {
+            "description": "Customizable homogeneous concept",
+            "quantity": 9,
+            "unit_price": 114.29,
+            "total_price": 1028.61
+        }
+    ],
+    "amount": 3319.51
+}

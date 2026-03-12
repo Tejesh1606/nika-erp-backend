@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Castro-Williams",
+    "invoice_number": "INV-40884",
+    "date": "2025-12-14",
+    "items": [
+        {
+            "description": "Upgradable dynamic capability",
+            "quantity": 5,
+            "unit_price": 326.09,
+            "total_price": 1630.45
+        }
+    ],
+    "amount": 1630.45
+}

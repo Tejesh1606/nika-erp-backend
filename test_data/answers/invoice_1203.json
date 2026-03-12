@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Massey Group",
+    "invoice_number": "INV-40059",
+    "date": "2025-06-29",
+    "items": [
+        {
+            "description": "Diverse holistic groupware",
+            "quantity": 10,
+            "unit_price": 274.55,
+            "total_price": 2745.5
+        },
+        {
+            "description": "Open-source didactic neural-net",
+            "quantity": 1,
+            "unit_price": 458.57,
+            "total_price": 458.57
+        },
+        {
+            "description": "Upgradable dynamic access",
+            "quantity": 9,
+            "unit_price": 379.94,
+            "total_price": 3419.46
+        },
+        {
+            "description": "Automated 3rdgeneration system engine",
+            "quantity": 5,
+            "unit_price": 342.1,
+            "total_price": 1710.5
+        }
+    ],
+    "amount": 8334.03
+}

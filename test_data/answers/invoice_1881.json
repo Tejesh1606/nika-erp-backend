@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Harris LLC",
+    "invoice_number": "INV-39990",
+    "date": "2025-12-19",
+    "items": [
+        {
+            "description": "Virtual mission-critical Graphical User Interface",
+            "quantity": 2,
+            "unit_price": 280.92,
+            "total_price": 561.84
+        }
+    ],
+    "amount": 561.84
+}

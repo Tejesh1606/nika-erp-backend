@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Fry, Washington and Colon",
+    "invoice_number": "INV-95418",
+    "date": "2025-07-05",
+    "items": [
+        {
+            "description": "Managed real-time knowledgebase",
+            "quantity": 4,
+            "unit_price": 473.8,
+            "total_price": 1895.2
+        },
+        {
+            "description": "Re-contextualized next generation parallelism",
+            "quantity": 5,
+            "unit_price": 461.68,
+            "total_price": 2308.4
+        },
+        {
+            "description": "Quality-focused context-sensitive contingency",
+            "quantity": 2,
+            "unit_price": 103.95,
+            "total_price": 207.9
+        }
+    ],
+    "amount": 4411.5
+}

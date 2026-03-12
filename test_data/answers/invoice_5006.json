@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Casey-Herrera",
+    "invoice_number": "INV-54745",
+    "date": "2026-02-17",
+    "items": [
+        {
+            "description": "Open-source bottom-line initiative",
+            "quantity": 4,
+            "unit_price": 347.72,
+            "total_price": 1390.88
+        },
+        {
+            "description": "Diverse asymmetric support",
+            "quantity": 2,
+            "unit_price": 320.33,
+            "total_price": 640.66
+        }
+    ],
+    "amount": 2031.54
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Barton-Marshall",
+    "invoice_number": "INV-21930",
+    "date": "2026-02-11",
+    "items": [
+        {
+            "description": "Reduced bifurcated utilization",
+            "quantity": 5,
+            "unit_price": 289.46,
+            "total_price": 1447.3
+        },
+        {
+            "description": "Team-oriented clear-thinking application",
+            "quantity": 8,
+            "unit_price": 459.57,
+            "total_price": 3676.56
+        }
+    ],
+    "amount": 5123.86
+}

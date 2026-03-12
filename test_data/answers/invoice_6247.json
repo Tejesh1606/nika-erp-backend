@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Schmidt, Fry and Clark",
+    "invoice_number": "INV-38330",
+    "date": "2025-11-12",
+    "items": [
+        {
+            "description": "Visionary upward-trending open architecture",
+            "quantity": 10,
+            "unit_price": 64.08,
+            "total_price": 640.8
+        },
+        {
+            "description": "Reduced asynchronous leverage",
+            "quantity": 3,
+            "unit_price": 463.42,
+            "total_price": 1390.26
+        }
+    ],
+    "amount": 2031.06
+}

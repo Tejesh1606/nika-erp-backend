@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hernandez, Ross and Edwards",
+    "invoice_number": "INV-13270",
+    "date": "2025-03-22",
+    "items": [
+        {
+            "description": "Networked secondary contingency",
+            "quantity": 8,
+            "unit_price": 406.54,
+            "total_price": 3252.32
+        },
+        {
+            "description": "Managed static hardware",
+            "quantity": 8,
+            "unit_price": 34.59,
+            "total_price": 276.72
+        },
+        {
+            "description": "Cloned high-level array",
+            "quantity": 10,
+            "unit_price": 21.74,
+            "total_price": 217.4
+        },
+        {
+            "description": "Polarized well-modulated parallelism",
+            "quantity": 6,
+            "unit_price": 288.55,
+            "total_price": 1731.3
+        }
+    ],
+    "amount": 5477.74
+}

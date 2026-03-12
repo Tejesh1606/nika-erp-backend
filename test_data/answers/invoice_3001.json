@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Garrison, Harmon and Smith",
+    "invoice_number": "INV-66868",
+    "date": "2025-08-03",
+    "items": [
+        {
+            "description": "Up-sized optimizing superstructure",
+            "quantity": 4,
+            "unit_price": 18.32,
+            "total_price": 73.28
+        },
+        {
+            "description": "Right-sized contextually-based projection",
+            "quantity": 5,
+            "unit_price": 357.89,
+            "total_price": 1789.45
+        },
+        {
+            "description": "Universal incremental architecture",
+            "quantity": 6,
+            "unit_price": 143.02,
+            "total_price": 858.12
+        }
+    ],
+    "amount": 2720.85
+}

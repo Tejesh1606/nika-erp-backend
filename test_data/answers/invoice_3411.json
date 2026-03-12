@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Acevedo and Sons",
+    "invoice_number": "INV-72652",
+    "date": "2026-02-10",
+    "items": [
+        {
+            "description": "Synergistic asynchronous leverage",
+            "quantity": 3,
+            "unit_price": 92.06,
+            "total_price": 276.18
+        },
+        {
+            "description": "Proactive high-level model",
+            "quantity": 4,
+            "unit_price": 358.3,
+            "total_price": 1433.2
+        }
+    ],
+    "amount": 1709.38
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Henson-Ortiz",
+    "invoice_number": "INV-81536",
+    "date": "2025-08-27",
+    "items": [
+        {
+            "description": "Profound encompassing utilization",
+            "quantity": 10,
+            "unit_price": 80.38,
+            "total_price": 803.8
+        },
+        {
+            "description": "Secured explicit leverage",
+            "quantity": 9,
+            "unit_price": 129.31,
+            "total_price": 1163.79
+        },
+        {
+            "description": "Persistent attitude-oriented protocol",
+            "quantity": 5,
+            "unit_price": 144.47,
+            "total_price": 722.35
+        },
+        {
+            "description": "Diverse optimal approach",
+            "quantity": 3,
+            "unit_price": 306.79,
+            "total_price": 920.37
+        }
+    ],
+    "amount": 3610.31
+}

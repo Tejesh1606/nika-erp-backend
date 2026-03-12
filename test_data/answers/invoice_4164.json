@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Davis-Lynch",
+    "invoice_number": "INV-93756",
+    "date": "2026-01-09",
+    "items": [
+        {
+            "description": "Robust demand-driven protocol",
+            "quantity": 9,
+            "unit_price": 117.71,
+            "total_price": 1059.39
+        }
+    ],
+    "amount": 1059.39
+}

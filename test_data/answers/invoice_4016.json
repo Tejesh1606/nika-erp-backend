@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Walker, Hamilton and Park",
+    "invoice_number": "INV-33262",
+    "date": "2025-12-28",
+    "items": [
+        {
+            "description": "Pre-emptive foreground migration",
+            "quantity": 3,
+            "unit_price": 364.91,
+            "total_price": 1094.73
+        },
+        {
+            "description": "Optimized actuating encryption",
+            "quantity": 9,
+            "unit_price": 342.69,
+            "total_price": 3084.21
+        }
+    ],
+    "amount": 4178.94
+}

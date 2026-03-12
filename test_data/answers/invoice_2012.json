@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hutchinson-Hoover",
+    "invoice_number": "INV-39171",
+    "date": "2026-02-23",
+    "items": [
+        {
+            "description": "Organic maximized knowledge user",
+            "quantity": 9,
+            "unit_price": 139.99,
+            "total_price": 1259.91
+        },
+        {
+            "description": "De-engineered object-oriented Internet solution",
+            "quantity": 5,
+            "unit_price": 373.25,
+            "total_price": 1866.25
+        }
+    ],
+    "amount": 3126.16
+}

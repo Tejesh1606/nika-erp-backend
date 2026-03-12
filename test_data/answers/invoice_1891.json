@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Gardner, Gallegos and Adams",
+    "invoice_number": "INV-40072",
+    "date": "2025-07-15",
+    "items": [
+        {
+            "description": "Focused fault-tolerant access",
+            "quantity": 1,
+            "unit_price": 160.21,
+            "total_price": 160.21
+        },
+        {
+            "description": "Automated tangible toolset",
+            "quantity": 2,
+            "unit_price": 154.15,
+            "total_price": 308.3
+        },
+        {
+            "description": "Sharable user-facing benchmark",
+            "quantity": 10,
+            "unit_price": 200.03,
+            "total_price": 2000.3
+        }
+    ],
+    "amount": 2468.81
+}

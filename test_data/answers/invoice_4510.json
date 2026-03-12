@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Johnson PLC",
+    "invoice_number": "INV-67972",
+    "date": "2025-10-12",
+    "items": [
+        {
+            "description": "Implemented explicit conglomeration",
+            "quantity": 9,
+            "unit_price": 219.97,
+            "total_price": 1979.73
+        },
+        {
+            "description": "Seamless multimedia concept",
+            "quantity": 4,
+            "unit_price": 404.85,
+            "total_price": 1619.4
+        },
+        {
+            "description": "Reduced non-volatile encryption",
+            "quantity": 10,
+            "unit_price": 228.56,
+            "total_price": 2285.6
+        }
+    ],
+    "amount": 5884.73
+}

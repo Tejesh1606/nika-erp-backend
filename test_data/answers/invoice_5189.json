@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Gonzalez, Brown and Taylor",
+    "invoice_number": "INV-21691",
+    "date": "2025-05-28",
+    "items": [
+        {
+            "description": "Balanced bottom-line interface",
+            "quantity": 8,
+            "unit_price": 296.7,
+            "total_price": 2373.6
+        },
+        {
+            "description": "Business-focused impactful protocol",
+            "quantity": 1,
+            "unit_price": 151.77,
+            "total_price": 151.77
+        },
+        {
+            "description": "Visionary eco-centric protocol",
+            "quantity": 2,
+            "unit_price": 94.44,
+            "total_price": 188.88
+        }
+    ],
+    "amount": 2714.25
+}

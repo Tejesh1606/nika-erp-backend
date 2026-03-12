@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Thompson, Jones and Brown",
+    "invoice_number": "INV-42307",
+    "date": "2025-11-22",
+    "items": [
+        {
+            "description": "Right-sized maximized task-force",
+            "quantity": 1,
+            "unit_price": 177.52,
+            "total_price": 177.52
+        },
+        {
+            "description": "Progressive modular success",
+            "quantity": 5,
+            "unit_price": 486.43,
+            "total_price": 2432.15
+        }
+    ],
+    "amount": 2609.67
+}

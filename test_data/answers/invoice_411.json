@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mills Inc",
+    "invoice_number": "INV-59921",
+    "date": "2025-05-04",
+    "items": [
+        {
+            "description": "Business-focused static approach",
+            "quantity": 5,
+            "unit_price": 260.33,
+            "total_price": 1301.65
+        }
+    ],
+    "amount": 1301.65
+}

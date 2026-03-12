@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Francis, Dominguez and Sosa",
+    "invoice_number": "INV-90750",
+    "date": "2025-05-13",
+    "items": [
+        {
+            "description": "Future-proofed eco-centric portal",
+            "quantity": 3,
+            "unit_price": 236.22,
+            "total_price": 708.66
+        },
+        {
+            "description": "Function-based 3rdgeneration system engine",
+            "quantity": 9,
+            "unit_price": 208.64,
+            "total_price": 1877.76
+        },
+        {
+            "description": "Fully-configurable systemic utilization",
+            "quantity": 2,
+            "unit_price": 470.08,
+            "total_price": 940.16
+        },
+        {
+            "description": "Virtual solution-oriented service-desk",
+            "quantity": 8,
+            "unit_price": 363.03,
+            "total_price": 2904.24
+        }
+    ],
+    "amount": 6430.82
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Reilly-Sanders",
+    "invoice_number": "INV-38053",
+    "date": "2025-08-13",
+    "items": [
+        {
+            "description": "Optional disintermediate forecast",
+            "quantity": 3,
+            "unit_price": 274.12,
+            "total_price": 822.36
+        },
+        {
+            "description": "Fully-configurable reciprocal website",
+            "quantity": 3,
+            "unit_price": 85.9,
+            "total_price": 257.7
+        }
+    ],
+    "amount": 1080.06
+}

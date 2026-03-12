@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Morris Group",
+    "invoice_number": "INV-82029",
+    "date": "2025-04-29",
+    "items": [
+        {
+            "description": "Upgradable actuating open architecture",
+            "quantity": 3,
+            "unit_price": 409.55,
+            "total_price": 1228.65
+        },
+        {
+            "description": "Business-focused multimedia conglomeration",
+            "quantity": 3,
+            "unit_price": 398.09,
+            "total_price": 1194.27
+        },
+        {
+            "description": "Ameliorated uniform leverage",
+            "quantity": 7,
+            "unit_price": 130.71,
+            "total_price": 914.97
+        }
+    ],
+    "amount": 3337.89
+}

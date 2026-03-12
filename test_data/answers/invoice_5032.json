@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Lloyd, Williams and Lin",
+    "invoice_number": "INV-40794",
+    "date": "2025-08-03",
+    "items": [
+        {
+            "description": "Implemented asymmetric matrix",
+            "quantity": 7,
+            "unit_price": 339.69,
+            "total_price": 2377.83
+        },
+        {
+            "description": "Stand-alone intangible functionalities",
+            "quantity": 6,
+            "unit_price": 444.1,
+            "total_price": 2664.6
+        }
+    ],
+    "amount": 5042.43
+}

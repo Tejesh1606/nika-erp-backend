@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Walker-Wright",
+    "invoice_number": "INV-51934",
+    "date": "2025-06-22",
+    "items": [
+        {
+            "description": "Compatible object-oriented hub",
+            "quantity": 3,
+            "unit_price": 201.59,
+            "total_price": 604.77
+        }
+    ],
+    "amount": 604.77
+}

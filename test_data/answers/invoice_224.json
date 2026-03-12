@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cummings-Foster",
+    "invoice_number": "INV-10395",
+    "date": "2025-12-23",
+    "items": [
+        {
+            "description": "Extended optimal archive",
+            "quantity": 1,
+            "unit_price": 386.96,
+            "total_price": 386.96
+        }
+    ],
+    "amount": 386.96
+}

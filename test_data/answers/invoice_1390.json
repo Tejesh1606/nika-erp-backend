@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Fleming Inc",
+    "invoice_number": "INV-46187",
+    "date": "2025-10-16",
+    "items": [
+        {
+            "description": "Function-based upward-trending algorithm",
+            "quantity": 5,
+            "unit_price": 426.57,
+            "total_price": 2132.85
+        },
+        {
+            "description": "Universal radical matrix",
+            "quantity": 8,
+            "unit_price": 55.91,
+            "total_price": 447.28
+        }
+    ],
+    "amount": 2580.13
+}

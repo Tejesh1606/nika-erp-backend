@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Montgomery-Buchanan",
+    "invoice_number": "INV-12227",
+    "date": "2026-01-02",
+    "items": [
+        {
+            "description": "Secured zero-defect productivity",
+            "quantity": 8,
+            "unit_price": 10.8,
+            "total_price": 86.4
+        },
+        {
+            "description": "Progressive contextually-based capacity",
+            "quantity": 8,
+            "unit_price": 361.58,
+            "total_price": 2892.64
+        }
+    ],
+    "amount": 2979.04
+}

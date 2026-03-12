@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Sanchez and Sons",
+    "invoice_number": "INV-14614",
+    "date": "2025-10-24",
+    "items": [
+        {
+            "description": "Function-based logistical orchestration",
+            "quantity": 1,
+            "unit_price": 114.9,
+            "total_price": 114.9
+        },
+        {
+            "description": "User-centric tertiary knowledge user",
+            "quantity": 8,
+            "unit_price": 71.6,
+            "total_price": 572.8
+        }
+    ],
+    "amount": 687.7
+}

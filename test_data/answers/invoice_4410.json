@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Baldwin, Benitez and Steele",
+    "invoice_number": "INV-46075",
+    "date": "2025-10-15",
+    "items": [
+        {
+            "description": "Ergonomic background knowledge user",
+            "quantity": 3,
+            "unit_price": 410.92,
+            "total_price": 1232.76
+        },
+        {
+            "description": "Multi-lateral intangible algorithm",
+            "quantity": 9,
+            "unit_price": 193.91,
+            "total_price": 1745.19
+        },
+        {
+            "description": "Proactive discrete ability",
+            "quantity": 9,
+            "unit_price": 190.38,
+            "total_price": 1713.42
+        }
+    ],
+    "amount": 4691.37
+}

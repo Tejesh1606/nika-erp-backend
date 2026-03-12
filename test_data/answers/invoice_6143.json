@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Spencer Group",
+    "invoice_number": "INV-67980",
+    "date": "2026-01-29",
+    "items": [
+        {
+            "description": "Business-focused encompassing service-desk",
+            "quantity": 5,
+            "unit_price": 401.23,
+            "total_price": 2006.15
+        }
+    ],
+    "amount": 2006.15
+}

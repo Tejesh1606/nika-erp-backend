@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gregory Inc",
+    "invoice_number": "INV-65115",
+    "date": "2025-04-28",
+    "items": [
+        {
+            "description": "Re-contextualized explicit hierarchy",
+            "quantity": 4,
+            "unit_price": 488.05,
+            "total_price": 1952.2
+        },
+        {
+            "description": "Ameliorated client-driven synergy",
+            "quantity": 2,
+            "unit_price": 93.42,
+            "total_price": 186.84
+        }
+    ],
+    "amount": 2139.04
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Brown Group",
+    "invoice_number": "INV-81437",
+    "date": "2026-01-30",
+    "items": [
+        {
+            "description": "Public-key executive archive",
+            "quantity": 3,
+            "unit_price": 202.64,
+            "total_price": 607.92
+        },
+        {
+            "description": "Multi-lateral modular matrices",
+            "quantity": 2,
+            "unit_price": 467.9,
+            "total_price": 935.8
+        },
+        {
+            "description": "Configurable system-worthy challenge",
+            "quantity": 1,
+            "unit_price": 79.79,
+            "total_price": 79.79
+        },
+        {
+            "description": "User-centric real-time architecture",
+            "quantity": 4,
+            "unit_price": 369.06,
+            "total_price": 1476.24
+        }
+    ],
+    "amount": 3099.75
+}

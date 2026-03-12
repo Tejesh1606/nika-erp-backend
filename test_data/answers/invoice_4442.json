@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Weiss-Short",
+    "invoice_number": "INV-95123",
+    "date": "2026-02-06",
+    "items": [
+        {
+            "description": "Realigned modular attitude",
+            "quantity": 2,
+            "unit_price": 311.91,
+            "total_price": 623.82
+        },
+        {
+            "description": "Public-key dedicated productivity",
+            "quantity": 2,
+            "unit_price": 167.18,
+            "total_price": 334.36
+        }
+    ],
+    "amount": 958.18
+}

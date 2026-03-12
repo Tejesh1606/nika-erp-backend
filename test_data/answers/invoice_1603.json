@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Simpson, Ramirez and Harris",
+    "invoice_number": "INV-33660",
+    "date": "2025-08-18",
+    "items": [
+        {
+            "description": "Automated zero administration access",
+            "quantity": 7,
+            "unit_price": 478.6,
+            "total_price": 3350.2
+        },
+        {
+            "description": "Self-enabling high-level structure",
+            "quantity": 4,
+            "unit_price": 317.12,
+            "total_price": 1268.48
+        }
+    ],
+    "amount": 4618.68
+}

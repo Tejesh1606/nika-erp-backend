@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Christensen and Sons",
+    "invoice_number": "INV-25298",
+    "date": "2025-05-13",
+    "items": [
+        {
+            "description": "Total hybrid open architecture",
+            "quantity": 3,
+            "unit_price": 321.74,
+            "total_price": 965.22
+        }
+    ],
+    "amount": 965.22
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "James, Silva and Little",
+    "invoice_number": "INV-73469",
+    "date": "2025-10-01",
+    "items": [
+        {
+            "description": "Switchable contextually-based framework",
+            "quantity": 4,
+            "unit_price": 293.05,
+            "total_price": 1172.2
+        },
+        {
+            "description": "Focused explicit secured line",
+            "quantity": 10,
+            "unit_price": 372.57,
+            "total_price": 3725.7
+        },
+        {
+            "description": "Pre-emptive mobile utilization",
+            "quantity": 1,
+            "unit_price": 198.01,
+            "total_price": 198.01
+        }
+    ],
+    "amount": 5095.91
+}

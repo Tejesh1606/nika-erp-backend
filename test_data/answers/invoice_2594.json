@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Woods, Joyce and Davis",
+    "invoice_number": "INV-87552",
+    "date": "2025-04-16",
+    "items": [
+        {
+            "description": "Expanded needs-based implementation",
+            "quantity": 7,
+            "unit_price": 222.78,
+            "total_price": 1559.46
+        },
+        {
+            "description": "Centralized attitude-oriented Graphic Interface",
+            "quantity": 3,
+            "unit_price": 148.62,
+            "total_price": 445.86
+        },
+        {
+            "description": "Polarized bandwidth-monitored standardization",
+            "quantity": 1,
+            "unit_price": 454.17,
+            "total_price": 454.17
+        },
+        {
+            "description": "Cross-group modular budgetary management",
+            "quantity": 1,
+            "unit_price": 202.68,
+            "total_price": 202.68
+        }
+    ],
+    "amount": 2662.17
+}

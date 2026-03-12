@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Miller Ltd",
+    "invoice_number": "INV-70304",
+    "date": "2025-09-23",
+    "items": [
+        {
+            "description": "Optional full-range access",
+            "quantity": 3,
+            "unit_price": 95.23,
+            "total_price": 285.69
+        },
+        {
+            "description": "Fully-configurable non-volatile projection",
+            "quantity": 6,
+            "unit_price": 350.04,
+            "total_price": 2100.24
+        },
+        {
+            "description": "Grass-roots systemic success",
+            "quantity": 3,
+            "unit_price": 357.97,
+            "total_price": 1073.91
+        }
+    ],
+    "amount": 3459.84
+}

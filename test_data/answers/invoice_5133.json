@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Butler, Jones and Mason",
+    "invoice_number": "INV-87270",
+    "date": "2026-01-13",
+    "items": [
+        {
+            "description": "Profit-focused web-enabled algorithm",
+            "quantity": 2,
+            "unit_price": 296.45,
+            "total_price": 592.9
+        }
+    ],
+    "amount": 592.9
+}

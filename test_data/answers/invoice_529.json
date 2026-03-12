@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Brown-Warren",
+    "invoice_number": "INV-51853",
+    "date": "2025-10-04",
+    "items": [
+        {
+            "description": "Re-contextualized coherent Graphic Interface",
+            "quantity": 8,
+            "unit_price": 94.83,
+            "total_price": 758.64
+        },
+        {
+            "description": "Profit-focused tangible definition",
+            "quantity": 8,
+            "unit_price": 216.07,
+            "total_price": 1728.56
+        },
+        {
+            "description": "Distributed actuating service-desk",
+            "quantity": 6,
+            "unit_price": 371.94,
+            "total_price": 2231.64
+        },
+        {
+            "description": "Upgradable hybrid knowledge user",
+            "quantity": 8,
+            "unit_price": 275.74,
+            "total_price": 2205.92
+        }
+    ],
+    "amount": 6924.76
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Riley-Barnett",
+    "invoice_number": "INV-56945",
+    "date": "2026-02-01",
+    "items": [
+        {
+            "description": "Re-engineered well-modulated system engine",
+            "quantity": 1,
+            "unit_price": 455.81,
+            "total_price": 455.81
+        },
+        {
+            "description": "Organized methodical analyzer",
+            "quantity": 5,
+            "unit_price": 15.64,
+            "total_price": 78.2
+        },
+        {
+            "description": "Focused bandwidth-monitored standardization",
+            "quantity": 6,
+            "unit_price": 296.88,
+            "total_price": 1781.28
+        }
+    ],
+    "amount": 2315.29
+}

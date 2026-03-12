@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Walker Group",
+    "invoice_number": "INV-41349",
+    "date": "2025-06-14",
+    "items": [
+        {
+            "description": "Mandatory encompassing capacity",
+            "quantity": 4,
+            "unit_price": 469.85,
+            "total_price": 1879.4
+        },
+        {
+            "description": "Horizontal mission-critical system engine",
+            "quantity": 6,
+            "unit_price": 175.58,
+            "total_price": 1053.48
+        },
+        {
+            "description": "Cross-platform asymmetric hardware",
+            "quantity": 10,
+            "unit_price": 392.84,
+            "total_price": 3928.4
+        }
+    ],
+    "amount": 6861.28
+}

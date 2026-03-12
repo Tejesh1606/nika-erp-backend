@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Carson, Patton and Lee",
+    "invoice_number": "INV-98710",
+    "date": "2025-03-15",
+    "items": [
+        {
+            "description": "Secured discrete toolset",
+            "quantity": 2,
+            "unit_price": 440.05,
+            "total_price": 880.1
+        },
+        {
+            "description": "Integrated clear-thinking focus group",
+            "quantity": 8,
+            "unit_price": 260.44,
+            "total_price": 2083.52
+        },
+        {
+            "description": "Streamlined responsive collaboration",
+            "quantity": 2,
+            "unit_price": 265.33,
+            "total_price": 530.66
+        }
+    ],
+    "amount": 3494.28
+}

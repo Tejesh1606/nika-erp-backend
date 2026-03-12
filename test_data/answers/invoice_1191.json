@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hamilton Ltd",
+    "invoice_number": "INV-78327",
+    "date": "2025-07-10",
+    "items": [
+        {
+            "description": "Ergonomic next generation protocol",
+            "quantity": 9,
+            "unit_price": 367.33,
+            "total_price": 3305.97
+        },
+        {
+            "description": "Self-enabling 5thgeneration productivity",
+            "quantity": 7,
+            "unit_price": 271.66,
+            "total_price": 1901.62
+        }
+    ],
+    "amount": 5207.59
+}

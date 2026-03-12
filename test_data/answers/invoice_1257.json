@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lopez and Sons",
+    "invoice_number": "INV-67219",
+    "date": "2025-04-13",
+    "items": [
+        {
+            "description": "Up-sized dynamic collaboration",
+            "quantity": 5,
+            "unit_price": 64.12,
+            "total_price": 320.6
+        },
+        {
+            "description": "Synergized next generation time-frame",
+            "quantity": 7,
+            "unit_price": 170.18,
+            "total_price": 1191.26
+        },
+        {
+            "description": "Multi-layered 24hour matrices",
+            "quantity": 6,
+            "unit_price": 134.71,
+            "total_price": 808.26
+        },
+        {
+            "description": "Diverse grid-enabled attitude",
+            "quantity": 8,
+            "unit_price": 290.35,
+            "total_price": 2322.8
+        }
+    ],
+    "amount": 4642.92
+}

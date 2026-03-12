@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Martinez and Sons",
+    "invoice_number": "INV-43792",
+    "date": "2025-09-19",
+    "items": [
+        {
+            "description": "User-friendly full-range framework",
+            "quantity": 4,
+            "unit_price": 253.59,
+            "total_price": 1014.36
+        }
+    ],
+    "amount": 1014.36
+}

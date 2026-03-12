@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Fisher, Fisher and Smith",
+    "invoice_number": "INV-16391",
+    "date": "2025-04-10",
+    "items": [
+        {
+            "description": "Integrated impactful algorithm",
+            "quantity": 2,
+            "unit_price": 278.79,
+            "total_price": 557.58
+        }
+    ],
+    "amount": 557.58
+}

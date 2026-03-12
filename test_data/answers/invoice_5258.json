@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Powell-Miller",
+    "invoice_number": "INV-60511",
+    "date": "2025-08-31",
+    "items": [
+        {
+            "description": "Advanced scalable application",
+            "quantity": 6,
+            "unit_price": 463.99,
+            "total_price": 2783.94
+        },
+        {
+            "description": "Operative composite analyzer",
+            "quantity": 2,
+            "unit_price": 87.83,
+            "total_price": 175.66
+        },
+        {
+            "description": "Profound client-driven benchmark",
+            "quantity": 8,
+            "unit_price": 499.46,
+            "total_price": 3995.68
+        }
+    ],
+    "amount": 6955.28
+}

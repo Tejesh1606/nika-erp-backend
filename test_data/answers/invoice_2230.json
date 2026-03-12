@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Sharp and Sons",
+    "invoice_number": "INV-68414",
+    "date": "2025-04-10",
+    "items": [
+        {
+            "description": "Cross-platform multi-state artificial intelligence",
+            "quantity": 4,
+            "unit_price": 437.87,
+            "total_price": 1751.48
+        },
+        {
+            "description": "Intuitive background protocol",
+            "quantity": 3,
+            "unit_price": 442.15,
+            "total_price": 1326.45
+        },
+        {
+            "description": "Robust next generation project",
+            "quantity": 1,
+            "unit_price": 119.67,
+            "total_price": 119.67
+        }
+    ],
+    "amount": 3197.6
+}

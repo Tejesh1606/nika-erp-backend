@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Griffith LLC",
+    "invoice_number": "INV-54555",
+    "date": "2025-10-06",
+    "items": [
+        {
+            "description": "Synergized contextually-based frame",
+            "quantity": 5,
+            "unit_price": 470.42,
+            "total_price": 2352.1
+        }
+    ],
+    "amount": 2352.1
+}

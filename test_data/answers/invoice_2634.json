@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Conway Ltd",
+    "invoice_number": "INV-90902",
+    "date": "2025-10-28",
+    "items": [
+        {
+            "description": "Cross-group leadingedge complexity",
+            "quantity": 1,
+            "unit_price": 48.65,
+            "total_price": 48.65
+        },
+        {
+            "description": "Cross-platform mobile frame",
+            "quantity": 4,
+            "unit_price": 101.86,
+            "total_price": 407.44
+        },
+        {
+            "description": "Diverse radical challenge",
+            "quantity": 10,
+            "unit_price": 282.28,
+            "total_price": 2822.8
+        }
+    ],
+    "amount": 3278.89
+}

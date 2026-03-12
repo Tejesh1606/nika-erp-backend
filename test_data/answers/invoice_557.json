@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cole, Cox and Mills",
+    "invoice_number": "INV-60343",
+    "date": "2025-12-16",
+    "items": [
+        {
+            "description": "Profound reciprocal complexity",
+            "quantity": 4,
+            "unit_price": 225.45,
+            "total_price": 901.8
+        }
+    ],
+    "amount": 901.8
+}

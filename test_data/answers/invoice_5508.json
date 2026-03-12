@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hall PLC",
+    "invoice_number": "INV-23406",
+    "date": "2026-01-27",
+    "items": [
+        {
+            "description": "Optimized contextually-based contingency",
+            "quantity": 3,
+            "unit_price": 236.42,
+            "total_price": 709.26
+        }
+    ],
+    "amount": 709.26
+}

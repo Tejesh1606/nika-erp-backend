@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jones PLC",
+    "invoice_number": "INV-64444",
+    "date": "2025-03-16",
+    "items": [
+        {
+            "description": "Advanced value-added moratorium",
+            "quantity": 9,
+            "unit_price": 436.49,
+            "total_price": 3928.41
+        }
+    ],
+    "amount": 3928.41
+}

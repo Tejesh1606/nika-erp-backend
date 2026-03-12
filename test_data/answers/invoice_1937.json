@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Macdonald-Galvan",
+    "invoice_number": "INV-75979",
+    "date": "2025-05-23",
+    "items": [
+        {
+            "description": "Reactive exuding conglomeration",
+            "quantity": 2,
+            "unit_price": 246.75,
+            "total_price": 493.5
+        }
+    ],
+    "amount": 493.5
+}

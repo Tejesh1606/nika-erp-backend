@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Graves Group",
+    "invoice_number": "INV-34251",
+    "date": "2025-09-06",
+    "items": [
+        {
+            "description": "Horizontal bottom-line application",
+            "quantity": 8,
+            "unit_price": 38.08,
+            "total_price": 304.64
+        }
+    ],
+    "amount": 304.64
+}

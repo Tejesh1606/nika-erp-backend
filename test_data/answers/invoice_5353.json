@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Eaton-Wilkins",
+    "invoice_number": "INV-89364",
+    "date": "2025-12-26",
+    "items": [
+        {
+            "description": "Virtual client-driven capability",
+            "quantity": 8,
+            "unit_price": 490.2,
+            "total_price": 3921.6
+        }
+    ],
+    "amount": 3921.6
+}

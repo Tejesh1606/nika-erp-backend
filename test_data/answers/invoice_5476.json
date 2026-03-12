@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Johnson PLC",
+    "invoice_number": "INV-90973",
+    "date": "2025-11-29",
+    "items": [
+        {
+            "description": "Configurable grid-enabled hierarchy",
+            "quantity": 5,
+            "unit_price": 129.89,
+            "total_price": 649.45
+        },
+        {
+            "description": "Progressive grid-enabled open system",
+            "quantity": 9,
+            "unit_price": 88.27,
+            "total_price": 794.43
+        }
+    ],
+    "amount": 1443.88
+}

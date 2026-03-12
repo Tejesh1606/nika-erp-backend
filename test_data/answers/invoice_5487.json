@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Fisher, Baker and Walls",
+    "invoice_number": "INV-18907",
+    "date": "2025-10-07",
+    "items": [
+        {
+            "description": "Future-proofed encompassing access",
+            "quantity": 8,
+            "unit_price": 388.67,
+            "total_price": 3109.36
+        },
+        {
+            "description": "Right-sized disintermediate moratorium",
+            "quantity": 5,
+            "unit_price": 417.26,
+            "total_price": 2086.3
+        }
+    ],
+    "amount": 5195.66
+}

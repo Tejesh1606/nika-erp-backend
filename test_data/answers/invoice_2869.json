@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Sutton, Sexton and Farmer",
+    "invoice_number": "INV-14825",
+    "date": "2025-06-18",
+    "items": [
+        {
+            "description": "Persistent 4thgeneration orchestration",
+            "quantity": 8,
+            "unit_price": 233.71,
+            "total_price": 1869.68
+        },
+        {
+            "description": "User-centric attitude-oriented architecture",
+            "quantity": 6,
+            "unit_price": 419.1,
+            "total_price": 2514.6
+        },
+        {
+            "description": "Centralized user-facing encryption",
+            "quantity": 4,
+            "unit_price": 49.55,
+            "total_price": 198.2
+        }
+    ],
+    "amount": 4582.48
+}

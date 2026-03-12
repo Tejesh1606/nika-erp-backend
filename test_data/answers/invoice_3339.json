@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ayala-Cobb",
+    "invoice_number": "INV-81017",
+    "date": "2025-05-26",
+    "items": [
+        {
+            "description": "Sharable didactic matrices",
+            "quantity": 7,
+            "unit_price": 428.37,
+            "total_price": 2998.59
+        }
+    ],
+    "amount": 2998.59
+}

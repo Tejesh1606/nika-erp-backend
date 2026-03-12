@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gibson, Garcia and Anderson",
+    "invoice_number": "INV-57884",
+    "date": "2025-11-11",
+    "items": [
+        {
+            "description": "Compatible object-oriented analyzer",
+            "quantity": 5,
+            "unit_price": 420.54,
+            "total_price": 2102.7
+        },
+        {
+            "description": "Sharable even-keeled help-desk",
+            "quantity": 5,
+            "unit_price": 230.9,
+            "total_price": 1154.5
+        },
+        {
+            "description": "Upgradable homogeneous concept",
+            "quantity": 7,
+            "unit_price": 419.43,
+            "total_price": 2936.01
+        },
+        {
+            "description": "Integrated uniform flexibility",
+            "quantity": 8,
+            "unit_price": 332.66,
+            "total_price": 2661.28
+        }
+    ],
+    "amount": 8854.49
+}

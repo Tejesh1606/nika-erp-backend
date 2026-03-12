@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Porter, Frye and Smith",
+    "invoice_number": "INV-10458",
+    "date": "2025-06-16",
+    "items": [
+        {
+            "description": "Realigned mobile artificial intelligence",
+            "quantity": 7,
+            "unit_price": 259.43,
+            "total_price": 1816.01
+        }
+    ],
+    "amount": 1816.01
+}

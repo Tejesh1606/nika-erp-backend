@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Schmidt and Sons",
+    "invoice_number": "INV-99621",
+    "date": "2025-12-09",
+    "items": [
+        {
+            "description": "Mandatory cohesive attitude",
+            "quantity": 10,
+            "unit_price": 459.8,
+            "total_price": 4598.0
+        },
+        {
+            "description": "Triple-buffered attitude-oriented moratorium",
+            "quantity": 10,
+            "unit_price": 424.59,
+            "total_price": 4245.9
+        }
+    ],
+    "amount": 8843.9
+}

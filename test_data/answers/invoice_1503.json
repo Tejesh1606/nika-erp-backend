@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Russell, Ali and Miller",
+    "invoice_number": "INV-43187",
+    "date": "2026-02-15",
+    "items": [
+        {
+            "description": "Devolved full-range help-desk",
+            "quantity": 3,
+            "unit_price": 241.53,
+            "total_price": 724.59
+        },
+        {
+            "description": "Stand-alone maximized knowledge user",
+            "quantity": 2,
+            "unit_price": 162.22,
+            "total_price": 324.44
+        },
+        {
+            "description": "Versatile needs-based software",
+            "quantity": 9,
+            "unit_price": 412.03,
+            "total_price": 3708.27
+        },
+        {
+            "description": "Down-sized 6thgeneration Graphical User Interface",
+            "quantity": 2,
+            "unit_price": 496.51,
+            "total_price": 993.02
+        }
+    ],
+    "amount": 5750.32
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Lewis, Kennedy and Francis",
+    "invoice_number": "INV-83272",
+    "date": "2025-07-30",
+    "items": [
+        {
+            "description": "Decentralized real-time installation",
+            "quantity": 2,
+            "unit_price": 186.26,
+            "total_price": 372.52
+        },
+        {
+            "description": "Customizable bottom-line hub",
+            "quantity": 10,
+            "unit_price": 114.82,
+            "total_price": 1148.2
+        }
+    ],
+    "amount": 1520.72
+}

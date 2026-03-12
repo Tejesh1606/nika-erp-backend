@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Williams Group",
+    "invoice_number": "INV-55044",
+    "date": "2025-05-30",
+    "items": [
+        {
+            "description": "Re-contextualized bifurcated policy",
+            "quantity": 7,
+            "unit_price": 116.78,
+            "total_price": 817.46
+        },
+        {
+            "description": "Cross-group well-modulated protocol",
+            "quantity": 6,
+            "unit_price": 213.74,
+            "total_price": 1282.44
+        }
+    ],
+    "amount": 2099.9
+}

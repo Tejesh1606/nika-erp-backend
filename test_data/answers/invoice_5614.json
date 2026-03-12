@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Sanchez Inc",
+    "invoice_number": "INV-93206",
+    "date": "2025-10-09",
+    "items": [
+        {
+            "description": "Universal explicit contingency",
+            "quantity": 9,
+            "unit_price": 210.78,
+            "total_price": 1897.02
+        }
+    ],
+    "amount": 1897.02
+}

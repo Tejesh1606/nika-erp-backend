@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Tucker-Villanueva",
+    "invoice_number": "INV-58105",
+    "date": "2025-05-14",
+    "items": [
+        {
+            "description": "Balanced mission-critical Local Area Network",
+            "quantity": 5,
+            "unit_price": 407.34,
+            "total_price": 2036.7
+        }
+    ],
+    "amount": 2036.7
+}

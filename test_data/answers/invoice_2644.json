@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Patton Inc",
+    "invoice_number": "INV-90601",
+    "date": "2025-07-01",
+    "items": [
+        {
+            "description": "Versatile heuristic customer loyalty",
+            "quantity": 1,
+            "unit_price": 337.4,
+            "total_price": 337.4
+        },
+        {
+            "description": "Synergistic reciprocal standardization",
+            "quantity": 8,
+            "unit_price": 294.14,
+            "total_price": 2353.12
+        }
+    ],
+    "amount": 2690.52
+}

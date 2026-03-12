@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Higgins, Nelson and Johnson",
+    "invoice_number": "INV-29371",
+    "date": "2025-12-23",
+    "items": [
+        {
+            "description": "Customer-focused logistical challenge",
+            "quantity": 5,
+            "unit_price": 158.29,
+            "total_price": 791.45
+        },
+        {
+            "description": "Vision-oriented contextually-based analyzer",
+            "quantity": 6,
+            "unit_price": 269.26,
+            "total_price": 1615.56
+        },
+        {
+            "description": "Reverse-engineered exuding definition",
+            "quantity": 7,
+            "unit_price": 13.62,
+            "total_price": 95.34
+        }
+    ],
+    "amount": 2502.35
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith-Garner",
+    "invoice_number": "INV-21564",
+    "date": "2025-07-10",
+    "items": [
+        {
+            "description": "Reverse-engineered zero administration hierarchy",
+            "quantity": 9,
+            "unit_price": 459.66,
+            "total_price": 4136.94
+        },
+        {
+            "description": "Total systemic portal",
+            "quantity": 1,
+            "unit_price": 31.18,
+            "total_price": 31.18
+        },
+        {
+            "description": "Synergistic asymmetric open system",
+            "quantity": 7,
+            "unit_price": 491.4,
+            "total_price": 3439.8
+        }
+    ],
+    "amount": 7607.92
+}

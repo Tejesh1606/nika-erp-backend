@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Smith-Salazar",
+    "invoice_number": "INV-91746",
+    "date": "2025-06-06",
+    "items": [
+        {
+            "description": "Horizontal stable collaboration",
+            "quantity": 4,
+            "unit_price": 389.99,
+            "total_price": 1559.96
+        },
+        {
+            "description": "Fully-configurable coherent capacity",
+            "quantity": 10,
+            "unit_price": 38.66,
+            "total_price": 386.6
+        }
+    ],
+    "amount": 1946.56
+}

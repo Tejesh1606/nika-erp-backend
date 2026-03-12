@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jones, Tran and Nichols",
+    "invoice_number": "INV-80481",
+    "date": "2026-02-10",
+    "items": [
+        {
+            "description": "Configurable analyzing knowledge user",
+            "quantity": 10,
+            "unit_price": 443.1,
+            "total_price": 4431.0
+        },
+        {
+            "description": "Re-contextualized multi-state encryption",
+            "quantity": 3,
+            "unit_price": 264.24,
+            "total_price": 792.72
+        },
+        {
+            "description": "Fully-configurable eco-centric website",
+            "quantity": 9,
+            "unit_price": 182.17,
+            "total_price": 1639.53
+        },
+        {
+            "description": "User-centric contextually-based solution",
+            "quantity": 4,
+            "unit_price": 298.13,
+            "total_price": 1192.52
+        }
+    ],
+    "amount": 8055.77
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Robinson-Taylor",
+    "invoice_number": "INV-51851",
+    "date": "2025-09-11",
+    "items": [
+        {
+            "description": "Extended well-modulated methodology",
+            "quantity": 6,
+            "unit_price": 297.89,
+            "total_price": 1787.34
+        },
+        {
+            "description": "Profit-focused stable database",
+            "quantity": 9,
+            "unit_price": 478.95,
+            "total_price": 4310.55
+        },
+        {
+            "description": "Decentralized heuristic paradigm",
+            "quantity": 5,
+            "unit_price": 220.79,
+            "total_price": 1103.95
+        }
+    ],
+    "amount": 7201.84
+}

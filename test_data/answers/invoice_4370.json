@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Roberts, Figueroa and Mcbride",
+    "invoice_number": "INV-74793",
+    "date": "2025-10-12",
+    "items": [
+        {
+            "description": "Ameliorated secondary matrices",
+            "quantity": 2,
+            "unit_price": 405.93,
+            "total_price": 811.86
+        },
+        {
+            "description": "Versatile dynamic matrices",
+            "quantity": 10,
+            "unit_price": 460.79,
+            "total_price": 4607.9
+        },
+        {
+            "description": "Object-based static productivity",
+            "quantity": 3,
+            "unit_price": 257.11,
+            "total_price": 771.33
+        }
+    ],
+    "amount": 6191.09
+}

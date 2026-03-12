@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Williams LLC",
+    "invoice_number": "INV-64735",
+    "date": "2025-12-18",
+    "items": [
+        {
+            "description": "Cross-platform actuating superstructure",
+            "quantity": 7,
+            "unit_price": 318.07,
+            "total_price": 2226.49
+        },
+        {
+            "description": "Extended radical collaboration",
+            "quantity": 1,
+            "unit_price": 108.78,
+            "total_price": 108.78
+        },
+        {
+            "description": "Pre-emptive multimedia moderator",
+            "quantity": 4,
+            "unit_price": 25.88,
+            "total_price": 103.52
+        },
+        {
+            "description": "Profit-focused next generation attitude",
+            "quantity": 2,
+            "unit_price": 484.44,
+            "total_price": 968.88
+        }
+    ],
+    "amount": 3407.67
+}

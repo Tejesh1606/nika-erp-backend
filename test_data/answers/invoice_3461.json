@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Bond PLC",
+    "invoice_number": "INV-30270",
+    "date": "2025-04-24",
+    "items": [
+        {
+            "description": "Enterprise-wide zero tolerance software",
+            "quantity": 8,
+            "unit_price": 451.28,
+            "total_price": 3610.24
+        },
+        {
+            "description": "Stand-alone national capacity",
+            "quantity": 4,
+            "unit_price": 180.77,
+            "total_price": 723.08
+        },
+        {
+            "description": "Decentralized optimal data-warehouse",
+            "quantity": 5,
+            "unit_price": 261.78,
+            "total_price": 1308.9
+        },
+        {
+            "description": "Profit-focused intangible monitoring",
+            "quantity": 8,
+            "unit_price": 451.81,
+            "total_price": 3614.48
+        }
+    ],
+    "amount": 9256.7
+}

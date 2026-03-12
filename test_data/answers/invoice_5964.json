@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Smith and Sons",
+    "invoice_number": "INV-29560",
+    "date": "2025-05-18",
+    "items": [
+        {
+            "description": "Down-sized bottom-line capacity",
+            "quantity": 10,
+            "unit_price": 52.55,
+            "total_price": 525.5
+        },
+        {
+            "description": "Profound neutral benchmark",
+            "quantity": 10,
+            "unit_price": 21.64,
+            "total_price": 216.4
+        },
+        {
+            "description": "Open-architected regional adapter",
+            "quantity": 9,
+            "unit_price": 457.81,
+            "total_price": 4120.29
+        },
+        {
+            "description": "Expanded foreground monitoring",
+            "quantity": 7,
+            "unit_price": 196.78,
+            "total_price": 1377.46
+        }
+    ],
+    "amount": 6239.65
+}

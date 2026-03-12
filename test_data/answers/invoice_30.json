@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Kim PLC",
+    "invoice_number": "INV-49651",
+    "date": "2025-11-01",
+    "items": [
+        {
+            "description": "Streamlined multi-tasking access",
+            "quantity": 1,
+            "unit_price": 357.55,
+            "total_price": 357.55
+        },
+        {
+            "description": "Synchronized neutral framework",
+            "quantity": 7,
+            "unit_price": 153.07,
+            "total_price": 1071.49
+        },
+        {
+            "description": "Switchable bi-directional challenge",
+            "quantity": 8,
+            "unit_price": 288.17,
+            "total_price": 2305.36
+        }
+    ],
+    "amount": 3734.4
+}

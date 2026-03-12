@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Obrien-Ruiz",
+    "invoice_number": "INV-73133",
+    "date": "2025-05-14",
+    "items": [
+        {
+            "description": "Face-to-face incremental policy",
+            "quantity": 5,
+            "unit_price": 98.21,
+            "total_price": 491.05
+        },
+        {
+            "description": "Digitized optimal throughput",
+            "quantity": 3,
+            "unit_price": 70.89,
+            "total_price": 212.67
+        },
+        {
+            "description": "Enterprise-wide regional protocol",
+            "quantity": 1,
+            "unit_price": 125.6,
+            "total_price": 125.6
+        }
+    ],
+    "amount": 829.32
+}

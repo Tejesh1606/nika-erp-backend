@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Cook Group",
+    "invoice_number": "INV-51164",
+    "date": "2025-07-26",
+    "items": [
+        {
+            "description": "Proactive bottom-line infrastructure",
+            "quantity": 6,
+            "unit_price": 278.56,
+            "total_price": 1671.36
+        },
+        {
+            "description": "Optional discrete conglomeration",
+            "quantity": 8,
+            "unit_price": 86.24,
+            "total_price": 689.92
+        },
+        {
+            "description": "Profound responsive projection",
+            "quantity": 8,
+            "unit_price": 455.14,
+            "total_price": 3641.12
+        },
+        {
+            "description": "De-engineered even-keeled installation",
+            "quantity": 7,
+            "unit_price": 378.14,
+            "total_price": 2646.98
+        }
+    ],
+    "amount": 8649.38
+}

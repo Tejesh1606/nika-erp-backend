@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mendoza Inc",
+    "invoice_number": "INV-20250",
+    "date": "2025-12-31",
+    "items": [
+        {
+            "description": "Reactive leadingedge infrastructure",
+            "quantity": 4,
+            "unit_price": 421.72,
+            "total_price": 1686.88
+        },
+        {
+            "description": "Monitored incremental matrix",
+            "quantity": 3,
+            "unit_price": 10.93,
+            "total_price": 32.79
+        }
+    ],
+    "amount": 1719.67
+}

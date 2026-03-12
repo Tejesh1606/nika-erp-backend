@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mccormick PLC",
+    "invoice_number": "INV-45557",
+    "date": "2025-03-29",
+    "items": [
+        {
+            "description": "Persistent solution-oriented access",
+            "quantity": 9,
+            "unit_price": 47.1,
+            "total_price": 423.9
+        },
+        {
+            "description": "Cloned human-resource protocol",
+            "quantity": 3,
+            "unit_price": 349.28,
+            "total_price": 1047.84
+        },
+        {
+            "description": "Future-proofed stable protocol",
+            "quantity": 6,
+            "unit_price": 274.64,
+            "total_price": 1647.84
+        }
+    ],
+    "amount": 3119.58
+}

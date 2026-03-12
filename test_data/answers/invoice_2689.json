@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Walker, Stewart and Little",
+    "invoice_number": "INV-18025",
+    "date": "2025-05-11",
+    "items": [
+        {
+            "description": "Intuitive clear-thinking model",
+            "quantity": 9,
+            "unit_price": 161.51,
+            "total_price": 1453.59
+        }
+    ],
+    "amount": 1453.59
+}

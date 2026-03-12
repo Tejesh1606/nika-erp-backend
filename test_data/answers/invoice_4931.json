@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Casey PLC",
+    "invoice_number": "INV-22895",
+    "date": "2026-01-03",
+    "items": [
+        {
+            "description": "Triple-buffered encompassing throughput",
+            "quantity": 6,
+            "unit_price": 24.52,
+            "total_price": 147.12
+        }
+    ],
+    "amount": 147.12
+}

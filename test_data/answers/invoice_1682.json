@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Brown Inc",
+    "invoice_number": "INV-26044",
+    "date": "2026-02-08",
+    "items": [
+        {
+            "description": "Object-based eco-centric moderator",
+            "quantity": 8,
+            "unit_price": 497.21,
+            "total_price": 3977.68
+        }
+    ],
+    "amount": 3977.68
+}

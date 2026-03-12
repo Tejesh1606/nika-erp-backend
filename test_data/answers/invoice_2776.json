@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Miller, Boyer and Brown",
+    "invoice_number": "INV-45935",
+    "date": "2025-07-10",
+    "items": [
+        {
+            "description": "Business-focused 24/7 workforce",
+            "quantity": 4,
+            "unit_price": 78.81,
+            "total_price": 315.24
+        }
+    ],
+    "amount": 315.24
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Tucker, Weaver and Stone",
+    "invoice_number": "INV-56237",
+    "date": "2026-02-14",
+    "items": [
+        {
+            "description": "Digitized multimedia hierarchy",
+            "quantity": 3,
+            "unit_price": 451.39,
+            "total_price": 1354.17
+        },
+        {
+            "description": "Upgradable secondary open architecture",
+            "quantity": 1,
+            "unit_price": 402.87,
+            "total_price": 402.87
+        }
+    ],
+    "amount": 1757.04
+}

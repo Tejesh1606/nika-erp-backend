@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Oliver-Barnes",
+    "invoice_number": "INV-72968",
+    "date": "2025-05-11",
+    "items": [
+        {
+            "description": "Visionary zero-defect knowledgebase",
+            "quantity": 1,
+            "unit_price": 373.81,
+            "total_price": 373.81
+        },
+        {
+            "description": "Profit-focused tangible encoding",
+            "quantity": 3,
+            "unit_price": 312.95,
+            "total_price": 938.85
+        },
+        {
+            "description": "Extended context-sensitive workforce",
+            "quantity": 10,
+            "unit_price": 155.2,
+            "total_price": 1552.0
+        }
+    ],
+    "amount": 2864.66
+}

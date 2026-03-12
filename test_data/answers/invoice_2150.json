@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Burns-Mendez",
+    "invoice_number": "INV-68802",
+    "date": "2025-04-03",
+    "items": [
+        {
+            "description": "Centralized global application",
+            "quantity": 8,
+            "unit_price": 339.21,
+            "total_price": 2713.68
+        }
+    ],
+    "amount": 2713.68
+}

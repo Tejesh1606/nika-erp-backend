@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Barnett-Medina",
+    "invoice_number": "INV-12047",
+    "date": "2026-02-18",
+    "items": [
+        {
+            "description": "Grass-roots bandwidth-monitored adapter",
+            "quantity": 2,
+            "unit_price": 156.01,
+            "total_price": 312.02
+        }
+    ],
+    "amount": 312.02
+}

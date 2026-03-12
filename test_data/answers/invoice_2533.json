@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Price-Acosta",
+    "invoice_number": "INV-55269",
+    "date": "2025-12-22",
+    "items": [
+        {
+            "description": "Self-enabling object-oriented help-desk",
+            "quantity": 7,
+            "unit_price": 271.95,
+            "total_price": 1903.65
+        },
+        {
+            "description": "Quality-focused executive projection",
+            "quantity": 4,
+            "unit_price": 398.6,
+            "total_price": 1594.4
+        },
+        {
+            "description": "Configurable responsive matrix",
+            "quantity": 3,
+            "unit_price": 278.51,
+            "total_price": 835.53
+        },
+        {
+            "description": "Future-proofed user-facing pricing structure",
+            "quantity": 4,
+            "unit_price": 221.73,
+            "total_price": 886.92
+        }
+    ],
+    "amount": 5220.5
+}

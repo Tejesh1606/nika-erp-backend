@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Moore PLC",
+    "invoice_number": "INV-19077",
+    "date": "2025-07-23",
+    "items": [
+        {
+            "description": "Assimilated zero-defect hardware",
+            "quantity": 10,
+            "unit_price": 401.22,
+            "total_price": 4012.2
+        },
+        {
+            "description": "Pre-emptive homogeneous flexibility",
+            "quantity": 7,
+            "unit_price": 309.19,
+            "total_price": 2164.33
+        }
+    ],
+    "amount": 6176.53
+}

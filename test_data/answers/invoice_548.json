@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Anderson-Mathis",
+    "invoice_number": "INV-71441",
+    "date": "2025-12-10",
+    "items": [
+        {
+            "description": "Streamlined holistic contingency",
+            "quantity": 9,
+            "unit_price": 117.69,
+            "total_price": 1059.21
+        },
+        {
+            "description": "Networked mobile leverage",
+            "quantity": 4,
+            "unit_price": 185.01,
+            "total_price": 740.04
+        },
+        {
+            "description": "Devolved cohesive core",
+            "quantity": 9,
+            "unit_price": 455.33,
+            "total_price": 4097.97
+        },
+        {
+            "description": "Face-to-face 5thgeneration installation",
+            "quantity": 8,
+            "unit_price": 94.14,
+            "total_price": 753.12
+        }
+    ],
+    "amount": 6650.34
+}

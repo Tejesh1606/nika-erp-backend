@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson-Shelton",
+    "invoice_number": "INV-77543",
+    "date": "2025-08-22",
+    "items": [
+        {
+            "description": "Synergized leadingedge process improvement",
+            "quantity": 2,
+            "unit_price": 311.36,
+            "total_price": 622.72
+        },
+        {
+            "description": "Future-proofed non-volatile time-frame",
+            "quantity": 6,
+            "unit_price": 353.72,
+            "total_price": 2122.32
+        },
+        {
+            "description": "Networked content-based service-desk",
+            "quantity": 10,
+            "unit_price": 448.21,
+            "total_price": 4482.1
+        },
+        {
+            "description": "Quality-focused disintermediate ability",
+            "quantity": 5,
+            "unit_price": 172.31,
+            "total_price": 861.55
+        }
+    ],
+    "amount": 8088.69
+}

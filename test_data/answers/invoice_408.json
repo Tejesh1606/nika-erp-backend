@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cameron-Kelley",
+    "invoice_number": "INV-51144",
+    "date": "2025-12-10",
+    "items": [
+        {
+            "description": "User-centric neutral product",
+            "quantity": 2,
+            "unit_price": 303.35,
+            "total_price": 606.7
+        }
+    ],
+    "amount": 606.7
+}

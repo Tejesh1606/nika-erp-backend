@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Aguilar-Robinson",
+    "invoice_number": "INV-82405",
+    "date": "2025-08-22",
+    "items": [
+        {
+            "description": "Multi-lateral mobile synergy",
+            "quantity": 5,
+            "unit_price": 206.95,
+            "total_price": 1034.75
+        },
+        {
+            "description": "Decentralized bifurcated solution",
+            "quantity": 1,
+            "unit_price": 244.61,
+            "total_price": 244.61
+        },
+        {
+            "description": "Robust composite strategy",
+            "quantity": 5,
+            "unit_price": 17.79,
+            "total_price": 88.95
+        }
+    ],
+    "amount": 1368.31
+}

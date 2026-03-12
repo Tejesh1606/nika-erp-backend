@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Carlson PLC",
+    "invoice_number": "INV-68353",
+    "date": "2025-09-03",
+    "items": [
+        {
+            "description": "Multi-channeled hybrid hierarchy",
+            "quantity": 4,
+            "unit_price": 156.84,
+            "total_price": 627.36
+        }
+    ],
+    "amount": 627.36
+}

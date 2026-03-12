@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Conner LLC",
+    "invoice_number": "INV-56428",
+    "date": "2025-03-16",
+    "items": [
+        {
+            "description": "Progressive secondary algorithm",
+            "quantity": 10,
+            "unit_price": 43.38,
+            "total_price": 433.8
+        }
+    ],
+    "amount": 433.8
+}

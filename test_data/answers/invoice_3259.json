@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bush, James and Silva",
+    "invoice_number": "INV-51431",
+    "date": "2026-01-26",
+    "items": [
+        {
+            "description": "Seamless encompassing info-mediaries",
+            "quantity": 2,
+            "unit_price": 75.84,
+            "total_price": 151.68
+        },
+        {
+            "description": "Reverse-engineered transitional portal",
+            "quantity": 10,
+            "unit_price": 60.62,
+            "total_price": 606.2
+        },
+        {
+            "description": "Progressive well-modulated function",
+            "quantity": 1,
+            "unit_price": 193.19,
+            "total_price": 193.19
+        }
+    ],
+    "amount": 951.07
+}

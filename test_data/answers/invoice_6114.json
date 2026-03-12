@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Martin Inc",
+    "invoice_number": "INV-99495",
+    "date": "2026-02-17",
+    "items": [
+        {
+            "description": "Self-enabling static complexity",
+            "quantity": 3,
+            "unit_price": 14.68,
+            "total_price": 44.04
+        }
+    ],
+    "amount": 44.04
+}

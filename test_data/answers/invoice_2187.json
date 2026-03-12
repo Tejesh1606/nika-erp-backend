@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Johnson Ltd",
+    "invoice_number": "INV-83428",
+    "date": "2025-10-07",
+    "items": [
+        {
+            "description": "Adaptive client-driven matrix",
+            "quantity": 3,
+            "unit_price": 146.14,
+            "total_price": 438.42
+        },
+        {
+            "description": "Extended 24/7 firmware",
+            "quantity": 4,
+            "unit_price": 109.83,
+            "total_price": 439.32
+        },
+        {
+            "description": "Digitized mobile instruction set",
+            "quantity": 8,
+            "unit_price": 423.26,
+            "total_price": 3386.08
+        }
+    ],
+    "amount": 4263.82
+}

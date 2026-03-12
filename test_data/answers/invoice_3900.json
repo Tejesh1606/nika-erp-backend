@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wagner-Green",
+    "invoice_number": "INV-14249",
+    "date": "2026-03-05",
+    "items": [
+        {
+            "description": "Centralized secondary architecture",
+            "quantity": 3,
+            "unit_price": 374.04,
+            "total_price": 1122.12
+        },
+        {
+            "description": "Horizontal attitude-oriented focus group",
+            "quantity": 1,
+            "unit_price": 462.05,
+            "total_price": 462.05
+        }
+    ],
+    "amount": 1584.17
+}

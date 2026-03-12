@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Eaton Inc",
+    "invoice_number": "INV-85628",
+    "date": "2025-05-26",
+    "items": [
+        {
+            "description": "Progressive maximized approach",
+            "quantity": 1,
+            "unit_price": 156.18,
+            "total_price": 156.18
+        },
+        {
+            "description": "Organic even-keeled structure",
+            "quantity": 9,
+            "unit_price": 16.09,
+            "total_price": 144.81
+        },
+        {
+            "description": "Configurable exuding concept",
+            "quantity": 7,
+            "unit_price": 33.44,
+            "total_price": 234.08
+        },
+        {
+            "description": "Ameliorated bandwidth-monitored encoding",
+            "quantity": 6,
+            "unit_price": 355.74,
+            "total_price": 2134.44
+        }
+    ],
+    "amount": 2669.51
+}

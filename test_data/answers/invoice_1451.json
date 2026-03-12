@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Davis Inc",
+    "invoice_number": "INV-10503",
+    "date": "2025-08-24",
+    "items": [
+        {
+            "description": "Synergized discrete database",
+            "quantity": 2,
+            "unit_price": 430.33,
+            "total_price": 860.66
+        },
+        {
+            "description": "Business-focused transitional artificial intelligence",
+            "quantity": 4,
+            "unit_price": 43.69,
+            "total_price": 174.76
+        },
+        {
+            "description": "Networked fresh-thinking product",
+            "quantity": 7,
+            "unit_price": 459.08,
+            "total_price": 3213.56
+        },
+        {
+            "description": "Progressive content-based leverage",
+            "quantity": 7,
+            "unit_price": 129.94,
+            "total_price": 909.58
+        }
+    ],
+    "amount": 5158.56
+}

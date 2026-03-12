@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wong Ltd",
+    "invoice_number": "INV-18782",
+    "date": "2025-10-12",
+    "items": [
+        {
+            "description": "Triple-buffered zero-defect database",
+            "quantity": 8,
+            "unit_price": 76.74,
+            "total_price": 613.92
+        },
+        {
+            "description": "Devolved full-range encoding",
+            "quantity": 9,
+            "unit_price": 270.82,
+            "total_price": 2437.38
+        }
+    ],
+    "amount": 3051.3
+}

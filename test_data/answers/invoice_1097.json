@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Edwards Inc",
+    "invoice_number": "INV-31842",
+    "date": "2025-05-20",
+    "items": [
+        {
+            "description": "Managed logistical circuit",
+            "quantity": 5,
+            "unit_price": 173.42,
+            "total_price": 867.1
+        }
+    ],
+    "amount": 867.1
+}

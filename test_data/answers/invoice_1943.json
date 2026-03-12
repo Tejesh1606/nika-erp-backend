@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Padilla-Wallace",
+    "invoice_number": "INV-60995",
+    "date": "2025-03-29",
+    "items": [
+        {
+            "description": "Synergized tangible conglomeration",
+            "quantity": 4,
+            "unit_price": 135.74,
+            "total_price": 542.96
+        }
+    ],
+    "amount": 542.96
+}

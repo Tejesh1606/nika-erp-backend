@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cruz-Poole",
+    "invoice_number": "INV-60774",
+    "date": "2025-11-13",
+    "items": [
+        {
+            "description": "Diverse 3rdgeneration artificial intelligence",
+            "quantity": 7,
+            "unit_price": 176.69,
+            "total_price": 1236.83
+        },
+        {
+            "description": "Organized coherent parallelism",
+            "quantity": 10,
+            "unit_price": 340.98,
+            "total_price": 3409.8
+        },
+        {
+            "description": "Inverse upward-trending budgetary management",
+            "quantity": 9,
+            "unit_price": 466.62,
+            "total_price": 4199.58
+        }
+    ],
+    "amount": 8846.21
+}

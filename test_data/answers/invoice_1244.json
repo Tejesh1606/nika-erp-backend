@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Collins Group",
+    "invoice_number": "INV-47627",
+    "date": "2025-05-17",
+    "items": [
+        {
+            "description": "Grass-roots client-driven open system",
+            "quantity": 7,
+            "unit_price": 439.49,
+            "total_price": 3076.43
+        },
+        {
+            "description": "Intuitive incremental definition",
+            "quantity": 3,
+            "unit_price": 175.16,
+            "total_price": 525.48
+        },
+        {
+            "description": "Ergonomic encompassing customer loyalty",
+            "quantity": 3,
+            "unit_price": 354.18,
+            "total_price": 1062.54
+        },
+        {
+            "description": "Enhanced explicit firmware",
+            "quantity": 1,
+            "unit_price": 426.85,
+            "total_price": 426.85
+        }
+    ],
+    "amount": 5091.3
+}

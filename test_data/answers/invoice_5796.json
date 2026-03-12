@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Zamora, Alvarez and Miller",
+    "invoice_number": "INV-77595",
+    "date": "2026-02-08",
+    "items": [
+        {
+            "description": "Robust neutral secured line",
+            "quantity": 1,
+            "unit_price": 493.26,
+            "total_price": 493.26
+        },
+        {
+            "description": "Ameliorated coherent conglomeration",
+            "quantity": 1,
+            "unit_price": 209.35,
+            "total_price": 209.35
+        }
+    ],
+    "amount": 702.61
+}

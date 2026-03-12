@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Baird LLC",
+    "invoice_number": "INV-14822",
+    "date": "2025-06-26",
+    "items": [
+        {
+            "description": "Proactive tertiary strategy",
+            "quantity": 9,
+            "unit_price": 334.56,
+            "total_price": 3011.04
+        },
+        {
+            "description": "Robust demand-driven ability",
+            "quantity": 7,
+            "unit_price": 263.28,
+            "total_price": 1842.96
+        }
+    ],
+    "amount": 4854.0
+}

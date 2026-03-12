@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wilson, Frederick and Wong",
+    "invoice_number": "INV-13337",
+    "date": "2025-09-22",
+    "items": [
+        {
+            "description": "Open-source system-worthy encoding",
+            "quantity": 8,
+            "unit_price": 453.98,
+            "total_price": 3631.84
+        },
+        {
+            "description": "Expanded exuding system engine",
+            "quantity": 6,
+            "unit_price": 209.44,
+            "total_price": 1256.64
+        },
+        {
+            "description": "Upgradable even-keeled hardware",
+            "quantity": 1,
+            "unit_price": 33.95,
+            "total_price": 33.95
+        }
+    ],
+    "amount": 4922.43
+}

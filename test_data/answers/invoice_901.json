@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Blake LLC",
+    "invoice_number": "INV-88011",
+    "date": "2025-10-03",
+    "items": [
+        {
+            "description": "Distributed neutral superstructure",
+            "quantity": 1,
+            "unit_price": 406.96,
+            "total_price": 406.96
+        },
+        {
+            "description": "Enhanced eco-centric implementation",
+            "quantity": 10,
+            "unit_price": 148.56,
+            "total_price": 1485.6
+        },
+        {
+            "description": "Persistent fault-tolerant knowledgebase",
+            "quantity": 2,
+            "unit_price": 203.7,
+            "total_price": 407.4
+        }
+    ],
+    "amount": 2299.96
+}

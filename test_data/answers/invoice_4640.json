@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Reyes-Rivera",
+    "invoice_number": "INV-16257",
+    "date": "2025-10-10",
+    "items": [
+        {
+            "description": "Fundamental heuristic approach",
+            "quantity": 3,
+            "unit_price": 328.7,
+            "total_price": 986.1
+        },
+        {
+            "description": "User-friendly systemic archive",
+            "quantity": 7,
+            "unit_price": 157.94,
+            "total_price": 1105.58
+        },
+        {
+            "description": "Streamlined fault-tolerant encryption",
+            "quantity": 7,
+            "unit_price": 311.31,
+            "total_price": 2179.17
+        },
+        {
+            "description": "Re-engineered optimal open system",
+            "quantity": 6,
+            "unit_price": 238.36,
+            "total_price": 1430.16
+        }
+    ],
+    "amount": 5701.01
+}

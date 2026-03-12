@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Washington, Carson and Greene",
+    "invoice_number": "INV-59130",
+    "date": "2025-04-22",
+    "items": [
+        {
+            "description": "Stand-alone radical matrices",
+            "quantity": 10,
+            "unit_price": 79.92,
+            "total_price": 799.2
+        }
+    ],
+    "amount": 799.2
+}

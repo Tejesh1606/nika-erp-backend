@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Young, Sanchez and Smith",
+    "invoice_number": "INV-17261",
+    "date": "2025-07-07",
+    "items": [
+        {
+            "description": "Secured system-worthy website",
+            "quantity": 9,
+            "unit_price": 291.67,
+            "total_price": 2625.03
+        },
+        {
+            "description": "Reduced optimal contingency",
+            "quantity": 1,
+            "unit_price": 441.92,
+            "total_price": 441.92
+        },
+        {
+            "description": "Networked responsive initiative",
+            "quantity": 4,
+            "unit_price": 400.21,
+            "total_price": 1600.84
+        },
+        {
+            "description": "Monitored didactic success",
+            "quantity": 7,
+            "unit_price": 67.53,
+            "total_price": 472.71
+        }
+    ],
+    "amount": 5140.5
+}

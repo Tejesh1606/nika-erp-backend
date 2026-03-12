@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jackson-Guerrero",
+    "invoice_number": "INV-14257",
+    "date": "2025-08-14",
+    "items": [
+        {
+            "description": "Quality-focused solution-oriented concept",
+            "quantity": 8,
+            "unit_price": 165.12,
+            "total_price": 1320.96
+        }
+    ],
+    "amount": 1320.96
+}

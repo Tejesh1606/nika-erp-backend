@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Luna-James",
+    "invoice_number": "INV-65780",
+    "date": "2025-12-04",
+    "items": [
+        {
+            "description": "Seamless regional encoding",
+            "quantity": 5,
+            "unit_price": 47.51,
+            "total_price": 237.55
+        }
+    ],
+    "amount": 237.55
+}

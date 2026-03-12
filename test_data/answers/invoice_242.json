@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hunt-Crawford",
+    "invoice_number": "INV-22924",
+    "date": "2026-01-14",
+    "items": [
+        {
+            "description": "Up-sized methodical task-force",
+            "quantity": 6,
+            "unit_price": 373.37,
+            "total_price": 2240.22
+        },
+        {
+            "description": "Intuitive demand-driven hub",
+            "quantity": 1,
+            "unit_price": 418.67,
+            "total_price": 418.67
+        },
+        {
+            "description": "Intuitive incremental analyzer",
+            "quantity": 4,
+            "unit_price": 348.53,
+            "total_price": 1394.12
+        }
+    ],
+    "amount": 4053.01
+}

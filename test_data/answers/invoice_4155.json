@@ -1,0 +1,26 @@
+{
+    "vendor_name": "West, Webb and Wallace",
+    "invoice_number": "INV-42858",
+    "date": "2026-02-22",
+    "items": [
+        {
+            "description": "Up-sized zero tolerance capacity",
+            "quantity": 1,
+            "unit_price": 176.92,
+            "total_price": 176.92
+        },
+        {
+            "description": "Networked zero administration groupware",
+            "quantity": 7,
+            "unit_price": 187.77,
+            "total_price": 1314.39
+        },
+        {
+            "description": "Public-key mission-critical Graphic Interface",
+            "quantity": 3,
+            "unit_price": 365.39,
+            "total_price": 1096.17
+        }
+    ],
+    "amount": 2587.48
+}

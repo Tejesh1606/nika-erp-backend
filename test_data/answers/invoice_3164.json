@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Walls, Nguyen and Monroe",
+    "invoice_number": "INV-35310",
+    "date": "2025-09-02",
+    "items": [
+        {
+            "description": "Stand-alone leadingedge productivity",
+            "quantity": 10,
+            "unit_price": 470.9,
+            "total_price": 4709.0
+        },
+        {
+            "description": "Innovative disintermediate hardware",
+            "quantity": 9,
+            "unit_price": 478.53,
+            "total_price": 4306.77
+        },
+        {
+            "description": "Future-proofed user-facing approach",
+            "quantity": 2,
+            "unit_price": 262.58,
+            "total_price": 525.16
+        },
+        {
+            "description": "Total transitional function",
+            "quantity": 1,
+            "unit_price": 259.12,
+            "total_price": 259.12
+        }
+    ],
+    "amount": 9800.05
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Williams, Carter and Duarte",
+    "invoice_number": "INV-45973",
+    "date": "2025-04-21",
+    "items": [
+        {
+            "description": "Face-to-face 24hour implementation",
+            "quantity": 3,
+            "unit_price": 268.36,
+            "total_price": 805.08
+        },
+        {
+            "description": "Profound secondary instruction set",
+            "quantity": 1,
+            "unit_price": 211.52,
+            "total_price": 211.52
+        },
+        {
+            "description": "Enterprise-wide empowering analyzer",
+            "quantity": 4,
+            "unit_price": 263.09,
+            "total_price": 1052.36
+        },
+        {
+            "description": "Total multimedia intranet",
+            "quantity": 2,
+            "unit_price": 190.45,
+            "total_price": 380.9
+        }
+    ],
+    "amount": 2449.86
+}

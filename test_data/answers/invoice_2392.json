@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Pratt-James",
+    "invoice_number": "INV-95322",
+    "date": "2025-05-19",
+    "items": [
+        {
+            "description": "Stand-alone eco-centric groupware",
+            "quantity": 4,
+            "unit_price": 376.69,
+            "total_price": 1506.76
+        },
+        {
+            "description": "Programmable systemic matrix",
+            "quantity": 2,
+            "unit_price": 189.22,
+            "total_price": 378.44
+        },
+        {
+            "description": "Adaptive attitude-oriented conglomeration",
+            "quantity": 3,
+            "unit_price": 401.29,
+            "total_price": 1203.87
+        }
+    ],
+    "amount": 3089.07
+}

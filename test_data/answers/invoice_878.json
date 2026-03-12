@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Medina, Estrada and Jones",
+    "invoice_number": "INV-38476",
+    "date": "2026-02-24",
+    "items": [
+        {
+            "description": "Proactive incremental task-force",
+            "quantity": 6,
+            "unit_price": 403.33,
+            "total_price": 2419.98
+        },
+        {
+            "description": "Reactive bottom-line hub",
+            "quantity": 3,
+            "unit_price": 492.01,
+            "total_price": 1476.03
+        },
+        {
+            "description": "Compatible web-enabled benchmark",
+            "quantity": 1,
+            "unit_price": 175.32,
+            "total_price": 175.32
+        }
+    ],
+    "amount": 4071.33
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Thompson, Pearson and Mitchell",
+    "invoice_number": "INV-47410",
+    "date": "2025-09-24",
+    "items": [
+        {
+            "description": "Inverse solution-oriented knowledge user",
+            "quantity": 8,
+            "unit_price": 81.54,
+            "total_price": 652.32
+        },
+        {
+            "description": "Secured multi-state structure",
+            "quantity": 2,
+            "unit_price": 358.68,
+            "total_price": 717.36
+        },
+        {
+            "description": "Public-key multi-tasking pricing structure",
+            "quantity": 9,
+            "unit_price": 153.3,
+            "total_price": 1379.7
+        }
+    ],
+    "amount": 2749.38
+}

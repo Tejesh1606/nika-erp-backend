@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Taylor, Brown and Garcia",
+    "invoice_number": "INV-19207",
+    "date": "2025-11-24",
+    "items": [
+        {
+            "description": "Profit-focused system-worthy algorithm",
+            "quantity": 4,
+            "unit_price": 323.86,
+            "total_price": 1295.44
+        }
+    ],
+    "amount": 1295.44
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Robinson and Sons",
+    "invoice_number": "INV-50332",
+    "date": "2025-07-15",
+    "items": [
+        {
+            "description": "Cross-platform asymmetric access",
+            "quantity": 1,
+            "unit_price": 414.21,
+            "total_price": 414.21
+        }
+    ],
+    "amount": 414.21
+}

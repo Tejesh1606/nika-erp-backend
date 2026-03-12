@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Giles, Odom and Vasquez",
+    "invoice_number": "INV-46435",
+    "date": "2025-04-19",
+    "items": [
+        {
+            "description": "Organic non-volatile open system",
+            "quantity": 1,
+            "unit_price": 136.48,
+            "total_price": 136.48
+        },
+        {
+            "description": "Stand-alone incremental functionalities",
+            "quantity": 1,
+            "unit_price": 150.05,
+            "total_price": 150.05
+        }
+    ],
+    "amount": 286.53
+}

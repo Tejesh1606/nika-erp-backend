@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Walter Inc",
+    "invoice_number": "INV-39840",
+    "date": "2025-06-09",
+    "items": [
+        {
+            "description": "Centralized systemic productivity",
+            "quantity": 9,
+            "unit_price": 380.52,
+            "total_price": 3424.68
+        }
+    ],
+    "amount": 3424.68
+}

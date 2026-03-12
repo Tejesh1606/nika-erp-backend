@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Taylor, Snyder and Ferrell",
+    "invoice_number": "INV-54656",
+    "date": "2025-04-24",
+    "items": [
+        {
+            "description": "Secured 5thgeneration toolset",
+            "quantity": 8,
+            "unit_price": 219.46,
+            "total_price": 1755.68
+        },
+        {
+            "description": "Sharable foreground encryption",
+            "quantity": 9,
+            "unit_price": 409.55,
+            "total_price": 3685.95
+        }
+    ],
+    "amount": 5441.63
+}

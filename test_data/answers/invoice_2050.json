@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Richardson Inc",
+    "invoice_number": "INV-31169",
+    "date": "2025-09-30",
+    "items": [
+        {
+            "description": "Diverse maximized installation",
+            "quantity": 1,
+            "unit_price": 490.16,
+            "total_price": 490.16
+        },
+        {
+            "description": "Synergistic demand-driven interface",
+            "quantity": 4,
+            "unit_price": 310.51,
+            "total_price": 1242.04
+        },
+        {
+            "description": "Innovative disintermediate artificial intelligence",
+            "quantity": 7,
+            "unit_price": 188.86,
+            "total_price": 1322.02
+        }
+    ],
+    "amount": 3054.22
+}

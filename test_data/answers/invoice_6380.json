@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Vance, Grant and Lloyd",
+    "invoice_number": "INV-90032",
+    "date": "2025-08-06",
+    "items": [
+        {
+            "description": "Digitized bottom-line artificial intelligence",
+            "quantity": 1,
+            "unit_price": 288.6,
+            "total_price": 288.6
+        }
+    ],
+    "amount": 288.6
+}

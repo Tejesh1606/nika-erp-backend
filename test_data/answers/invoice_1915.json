@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Harding and Sons",
+    "invoice_number": "INV-66572",
+    "date": "2026-02-14",
+    "items": [
+        {
+            "description": "Total well-modulated help-desk",
+            "quantity": 3,
+            "unit_price": 379.75,
+            "total_price": 1139.25
+        }
+    ],
+    "amount": 1139.25
+}

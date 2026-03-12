@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Richardson, Hayes and Duncan",
+    "invoice_number": "INV-31653",
+    "date": "2026-01-13",
+    "items": [
+        {
+            "description": "De-engineered client-driven paradigm",
+            "quantity": 2,
+            "unit_price": 129.31,
+            "total_price": 258.62
+        }
+    ],
+    "amount": 258.62
+}

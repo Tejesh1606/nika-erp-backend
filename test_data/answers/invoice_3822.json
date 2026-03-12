@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Morgan-Castillo",
+    "invoice_number": "INV-87053",
+    "date": "2025-11-10",
+    "items": [
+        {
+            "description": "Multi-layered uniform customer loyalty",
+            "quantity": 8,
+            "unit_price": 142.56,
+            "total_price": 1140.48
+        },
+        {
+            "description": "Persevering secondary capacity",
+            "quantity": 9,
+            "unit_price": 497.42,
+            "total_price": 4476.78
+        },
+        {
+            "description": "Focused mobile infrastructure",
+            "quantity": 6,
+            "unit_price": 355.82,
+            "total_price": 2134.92
+        }
+    ],
+    "amount": 7752.18
+}

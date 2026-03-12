@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Shields PLC",
+    "invoice_number": "INV-61613",
+    "date": "2025-04-15",
+    "items": [
+        {
+            "description": "Networked zero-defect extranet",
+            "quantity": 2,
+            "unit_price": 156.37,
+            "total_price": 312.74
+        },
+        {
+            "description": "Persevering tertiary portal",
+            "quantity": 9,
+            "unit_price": 309.21,
+            "total_price": 2782.89
+        },
+        {
+            "description": "Ameliorated fault-tolerant product",
+            "quantity": 7,
+            "unit_price": 132.05,
+            "total_price": 924.35
+        }
+    ],
+    "amount": 4019.98
+}

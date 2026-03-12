@@ -1,0 +1,20 @@
+{
+    "vendor_name": "White Ltd",
+    "invoice_number": "INV-55783",
+    "date": "2025-07-14",
+    "items": [
+        {
+            "description": "Synergistic cohesive array",
+            "quantity": 4,
+            "unit_price": 309.81,
+            "total_price": 1239.24
+        },
+        {
+            "description": "Object-based systematic protocol",
+            "quantity": 4,
+            "unit_price": 39.83,
+            "total_price": 159.32
+        }
+    ],
+    "amount": 1398.56
+}

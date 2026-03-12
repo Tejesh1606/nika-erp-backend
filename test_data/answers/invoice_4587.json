@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Medina, Smith and Johnson",
+    "invoice_number": "INV-53616",
+    "date": "2025-06-13",
+    "items": [
+        {
+            "description": "Profit-focused contextually-based moratorium",
+            "quantity": 3,
+            "unit_price": 382.76,
+            "total_price": 1148.28
+        },
+        {
+            "description": "Reduced neutral support",
+            "quantity": 4,
+            "unit_price": 423.27,
+            "total_price": 1693.08
+        }
+    ],
+    "amount": 2841.36
+}

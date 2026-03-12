@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Romero PLC",
+    "invoice_number": "INV-79013",
+    "date": "2025-03-23",
+    "items": [
+        {
+            "description": "Switchable global throughput",
+            "quantity": 4,
+            "unit_price": 373.04,
+            "total_price": 1492.16
+        },
+        {
+            "description": "Secured clear-thinking policy",
+            "quantity": 9,
+            "unit_price": 204.8,
+            "total_price": 1843.2
+        },
+        {
+            "description": "Multi-tiered coherent complexity",
+            "quantity": 9,
+            "unit_price": 381.23,
+            "total_price": 3431.07
+        }
+    ],
+    "amount": 6766.43
+}

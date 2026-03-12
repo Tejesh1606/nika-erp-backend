@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Anderson, Cook and Chapman",
+    "invoice_number": "INV-24138",
+    "date": "2025-09-17",
+    "items": [
+        {
+            "description": "Optional bifurcated budgetary management",
+            "quantity": 5,
+            "unit_price": 180.91,
+            "total_price": 904.55
+        }
+    ],
+    "amount": 904.55
+}

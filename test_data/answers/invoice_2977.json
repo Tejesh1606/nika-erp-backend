@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jordan, Evans and Chapman",
+    "invoice_number": "INV-20920",
+    "date": "2025-08-11",
+    "items": [
+        {
+            "description": "Automated fresh-thinking structure",
+            "quantity": 1,
+            "unit_price": 212.99,
+            "total_price": 212.99
+        },
+        {
+            "description": "Synergized web-enabled emulation",
+            "quantity": 10,
+            "unit_price": 189.38,
+            "total_price": 1893.8
+        },
+        {
+            "description": "Robust systemic adapter",
+            "quantity": 5,
+            "unit_price": 334.58,
+            "total_price": 1672.9
+        },
+        {
+            "description": "Networked zero tolerance extranet",
+            "quantity": 5,
+            "unit_price": 252.54,
+            "total_price": 1262.7
+        }
+    ],
+    "amount": 5042.39
+}

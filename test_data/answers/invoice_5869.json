@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Collins-Baker",
+    "invoice_number": "INV-71380",
+    "date": "2025-08-24",
+    "items": [
+        {
+            "description": "Total 3rdgeneration approach",
+            "quantity": 1,
+            "unit_price": 404.54,
+            "total_price": 404.54
+        },
+        {
+            "description": "Function-based stable challenge",
+            "quantity": 5,
+            "unit_price": 273.76,
+            "total_price": 1368.8
+        },
+        {
+            "description": "Monitored real-time intranet",
+            "quantity": 5,
+            "unit_price": 91.82,
+            "total_price": 459.1
+        },
+        {
+            "description": "Open-source foreground methodology",
+            "quantity": 1,
+            "unit_price": 159.46,
+            "total_price": 159.46
+        }
+    ],
+    "amount": 2391.9
+}

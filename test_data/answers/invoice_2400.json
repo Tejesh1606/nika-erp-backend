@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Campbell-Jones",
+    "invoice_number": "INV-58867",
+    "date": "2025-10-20",
+    "items": [
+        {
+            "description": "Integrated non-volatile matrix",
+            "quantity": 6,
+            "unit_price": 368.1,
+            "total_price": 2208.6
+        },
+        {
+            "description": "Synchronized context-sensitive challenge",
+            "quantity": 6,
+            "unit_price": 12.26,
+            "total_price": 73.56
+        },
+        {
+            "description": "User-friendly actuating extranet",
+            "quantity": 2,
+            "unit_price": 489.07,
+            "total_price": 978.14
+        },
+        {
+            "description": "Enterprise-wide real-time moderator",
+            "quantity": 3,
+            "unit_price": 196.33,
+            "total_price": 588.99
+        }
+    ],
+    "amount": 3849.29
+}

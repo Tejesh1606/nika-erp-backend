@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Richardson, Yang and Khan",
+    "invoice_number": "INV-62052",
+    "date": "2025-03-25",
+    "items": [
+        {
+            "description": "Programmable solution-oriented monitoring",
+            "quantity": 2,
+            "unit_price": 303.38,
+            "total_price": 606.76
+        }
+    ],
+    "amount": 606.76
+}

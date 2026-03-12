@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Sims, Jones and Byrd",
+    "invoice_number": "INV-83303",
+    "date": "2025-03-29",
+    "items": [
+        {
+            "description": "Implemented homogeneous initiative",
+            "quantity": 5,
+            "unit_price": 227.84,
+            "total_price": 1139.2
+        }
+    ],
+    "amount": 1139.2
+}

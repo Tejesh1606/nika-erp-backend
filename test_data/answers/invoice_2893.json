@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Garcia, Williams and Cooke",
+    "invoice_number": "INV-63381",
+    "date": "2025-07-27",
+    "items": [
+        {
+            "description": "Seamless neutral framework",
+            "quantity": 4,
+            "unit_price": 241.79,
+            "total_price": 967.16
+        },
+        {
+            "description": "Switchable zero administration functionalities",
+            "quantity": 4,
+            "unit_price": 75.19,
+            "total_price": 300.76
+        }
+    ],
+    "amount": 1267.92
+}

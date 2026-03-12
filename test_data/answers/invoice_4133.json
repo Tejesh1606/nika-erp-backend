@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Henderson-Tucker",
+    "invoice_number": "INV-43686",
+    "date": "2025-09-07",
+    "items": [
+        {
+            "description": "Polarized secondary productivity",
+            "quantity": 4,
+            "unit_price": 128.62,
+            "total_price": 514.48
+        },
+        {
+            "description": "Devolved web-enabled application",
+            "quantity": 3,
+            "unit_price": 121.95,
+            "total_price": 365.85
+        },
+        {
+            "description": "Universal bandwidth-monitored artificial intelligence",
+            "quantity": 4,
+            "unit_price": 72.95,
+            "total_price": 291.8
+        },
+        {
+            "description": "Switchable analyzing frame",
+            "quantity": 9,
+            "unit_price": 387.65,
+            "total_price": 3488.85
+        }
+    ],
+    "amount": 4660.98
+}

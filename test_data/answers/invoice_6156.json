@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Warren, Craig and Hayes",
+    "invoice_number": "INV-71250",
+    "date": "2025-04-06",
+    "items": [
+        {
+            "description": "Reactive intermediate Graphic Interface",
+            "quantity": 4,
+            "unit_price": 392.02,
+            "total_price": 1568.08
+        }
+    ],
+    "amount": 1568.08
+}

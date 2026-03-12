@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cortez-Adams",
+    "invoice_number": "INV-21185",
+    "date": "2025-04-06",
+    "items": [
+        {
+            "description": "Cloned mission-critical service-desk",
+            "quantity": 5,
+            "unit_price": 120.31,
+            "total_price": 601.55
+        }
+    ],
+    "amount": 601.55
+}

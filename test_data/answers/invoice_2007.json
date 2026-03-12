@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Perez-Woodward",
+    "invoice_number": "INV-99216",
+    "date": "2026-02-22",
+    "items": [
+        {
+            "description": "Ameliorated 4thgeneration monitoring",
+            "quantity": 10,
+            "unit_price": 357.1,
+            "total_price": 3571.0
+        },
+        {
+            "description": "Stand-alone systemic superstructure",
+            "quantity": 6,
+            "unit_price": 178.5,
+            "total_price": 1071.0
+        },
+        {
+            "description": "Decentralized modular moderator",
+            "quantity": 7,
+            "unit_price": 166.56,
+            "total_price": 1165.92
+        }
+    ],
+    "amount": 5807.92
+}

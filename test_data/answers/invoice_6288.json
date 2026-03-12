@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Armstrong-Moore",
+    "invoice_number": "INV-72089",
+    "date": "2026-01-17",
+    "items": [
+        {
+            "description": "Total tangible initiative",
+            "quantity": 2,
+            "unit_price": 402.57,
+            "total_price": 805.14
+        },
+        {
+            "description": "Customizable maximized focus group",
+            "quantity": 4,
+            "unit_price": 396.4,
+            "total_price": 1585.6
+        },
+        {
+            "description": "Business-focused discrete Graphic Interface",
+            "quantity": 8,
+            "unit_price": 49.93,
+            "total_price": 399.44
+        },
+        {
+            "description": "Sharable transitional database",
+            "quantity": 4,
+            "unit_price": 165.65,
+            "total_price": 662.6
+        }
+    ],
+    "amount": 3452.78
+}

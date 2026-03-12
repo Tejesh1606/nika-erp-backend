@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Esparza Group",
+    "invoice_number": "INV-33616",
+    "date": "2025-10-05",
+    "items": [
+        {
+            "description": "Cross-group cohesive orchestration",
+            "quantity": 7,
+            "unit_price": 320.49,
+            "total_price": 2243.43
+        }
+    ],
+    "amount": 2243.43
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Gibson-Brennan",
+    "invoice_number": "INV-72903",
+    "date": "2025-06-13",
+    "items": [
+        {
+            "description": "Multi-layered bifurcated analyzer",
+            "quantity": 10,
+            "unit_price": 184.19,
+            "total_price": 1841.9
+        },
+        {
+            "description": "Operative logistical structure",
+            "quantity": 8,
+            "unit_price": 214.82,
+            "total_price": 1718.56
+        },
+        {
+            "description": "Innovative exuding firmware",
+            "quantity": 5,
+            "unit_price": 346.0,
+            "total_price": 1730.0
+        }
+    ],
+    "amount": 5290.46
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "King and Sons",
+    "invoice_number": "INV-86099",
+    "date": "2025-09-14",
+    "items": [
+        {
+            "description": "Managed heuristic capacity",
+            "quantity": 10,
+            "unit_price": 37.89,
+            "total_price": 378.9
+        }
+    ],
+    "amount": 378.9
+}

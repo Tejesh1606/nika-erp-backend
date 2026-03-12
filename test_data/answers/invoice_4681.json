@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Ramirez, Henry and Cooley",
+    "invoice_number": "INV-46300",
+    "date": "2025-12-07",
+    "items": [
+        {
+            "description": "Compatible coherent open architecture",
+            "quantity": 10,
+            "unit_price": 489.44,
+            "total_price": 4894.4
+        },
+        {
+            "description": "Adaptive eco-centric frame",
+            "quantity": 5,
+            "unit_price": 226.21,
+            "total_price": 1131.05
+        },
+        {
+            "description": "Organic bi-directional complexity",
+            "quantity": 4,
+            "unit_price": 458.93,
+            "total_price": 1835.72
+        },
+        {
+            "description": "Automated next generation customer loyalty",
+            "quantity": 6,
+            "unit_price": 444.89,
+            "total_price": 2669.34
+        }
+    ],
+    "amount": 10530.51
+}

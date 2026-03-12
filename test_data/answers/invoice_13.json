@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Liu, Baker and Mason",
+    "invoice_number": "INV-33416",
+    "date": "2025-09-22",
+    "items": [
+        {
+            "description": "Customer-focused responsive framework",
+            "quantity": 7,
+            "unit_price": 82.12,
+            "total_price": 574.84
+        },
+        {
+            "description": "Sharable motivating portal",
+            "quantity": 4,
+            "unit_price": 484.28,
+            "total_price": 1937.12
+        },
+        {
+            "description": "Exclusive coherent hub",
+            "quantity": 10,
+            "unit_price": 358.09,
+            "total_price": 3580.9
+        }
+    ],
+    "amount": 6092.86
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cobb, Duncan and Day",
+    "invoice_number": "INV-65280",
+    "date": "2026-01-28",
+    "items": [
+        {
+            "description": "Synergistic 6thgeneration help-desk",
+            "quantity": 3,
+            "unit_price": 167.92,
+            "total_price": 503.76
+        },
+        {
+            "description": "Fully-configurable 24hour productivity",
+            "quantity": 3,
+            "unit_price": 259.03,
+            "total_price": 777.09
+        },
+        {
+            "description": "Virtual needs-based open architecture",
+            "quantity": 10,
+            "unit_price": 363.85,
+            "total_price": 3638.5
+        }
+    ],
+    "amount": 4919.35
+}

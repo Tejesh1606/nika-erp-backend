@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Benton, Hughes and Norman",
+    "invoice_number": "INV-39115",
+    "date": "2025-05-07",
+    "items": [
+        {
+            "description": "Triple-buffered upward-trending throughput",
+            "quantity": 9,
+            "unit_price": 385.96,
+            "total_price": 3473.64
+        }
+    ],
+    "amount": 3473.64
+}

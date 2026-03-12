@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Roberts Ltd",
+    "invoice_number": "INV-69682",
+    "date": "2025-11-03",
+    "items": [
+        {
+            "description": "Organized encompassing standardization",
+            "quantity": 1,
+            "unit_price": 381.68,
+            "total_price": 381.68
+        }
+    ],
+    "amount": 381.68
+}

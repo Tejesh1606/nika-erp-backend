@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Townsend-Young",
+    "invoice_number": "INV-67695",
+    "date": "2025-12-15",
+    "items": [
+        {
+            "description": "Sharable composite database",
+            "quantity": 8,
+            "unit_price": 142.73,
+            "total_price": 1141.84
+        },
+        {
+            "description": "Re-engineered upward-trending hardware",
+            "quantity": 7,
+            "unit_price": 350.46,
+            "total_price": 2453.22
+        }
+    ],
+    "amount": 3595.06
+}

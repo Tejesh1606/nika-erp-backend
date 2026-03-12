@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Gomez-Dean",
+    "invoice_number": "INV-54067",
+    "date": "2026-02-16",
+    "items": [
+        {
+            "description": "Multi-lateral intermediate website",
+            "quantity": 4,
+            "unit_price": 25.27,
+            "total_price": 101.08
+        },
+        {
+            "description": "Enterprise-wide bottom-line interface",
+            "quantity": 7,
+            "unit_price": 351.99,
+            "total_price": 2463.93
+        },
+        {
+            "description": "Realigned stable data-warehouse",
+            "quantity": 6,
+            "unit_price": 271.82,
+            "total_price": 1630.92
+        }
+    ],
+    "amount": 4195.93
+}

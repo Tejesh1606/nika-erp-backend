@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Caldwell-Bailey",
+    "invoice_number": "INV-71405",
+    "date": "2025-11-13",
+    "items": [
+        {
+            "description": "Public-key maximized benchmark",
+            "quantity": 3,
+            "unit_price": 471.56,
+            "total_price": 1414.68
+        },
+        {
+            "description": "Configurable contextually-based superstructure",
+            "quantity": 6,
+            "unit_price": 27.91,
+            "total_price": 167.46
+        },
+        {
+            "description": "Customer-focused hybrid throughput",
+            "quantity": 2,
+            "unit_price": 497.74,
+            "total_price": 995.48
+        },
+        {
+            "description": "Optional dedicated initiative",
+            "quantity": 9,
+            "unit_price": 281.07,
+            "total_price": 2529.63
+        }
+    ],
+    "amount": 5107.25
+}

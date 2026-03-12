@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wiley, Riley and Tran",
+    "invoice_number": "INV-78890",
+    "date": "2025-09-12",
+    "items": [
+        {
+            "description": "Re-engineered web-enabled middleware",
+            "quantity": 3,
+            "unit_price": 103.94,
+            "total_price": 311.82
+        },
+        {
+            "description": "Self-enabling real-time installation",
+            "quantity": 4,
+            "unit_price": 205.2,
+            "total_price": 820.8
+        },
+        {
+            "description": "User-centric dedicated artificial intelligence",
+            "quantity": 9,
+            "unit_price": 385.92,
+            "total_price": 3473.28
+        }
+    ],
+    "amount": 4605.9
+}

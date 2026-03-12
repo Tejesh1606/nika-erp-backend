@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Serrano-Jones",
+    "invoice_number": "INV-31747",
+    "date": "2026-01-10",
+    "items": [
+        {
+            "description": "Integrated radical synergy",
+            "quantity": 9,
+            "unit_price": 111.6,
+            "total_price": 1004.4
+        },
+        {
+            "description": "Re-contextualized executive intranet",
+            "quantity": 1,
+            "unit_price": 399.93,
+            "total_price": 399.93
+        },
+        {
+            "description": "Decentralized maximized solution",
+            "quantity": 8,
+            "unit_price": 132.06,
+            "total_price": 1056.48
+        }
+    ],
+    "amount": 2460.81
+}

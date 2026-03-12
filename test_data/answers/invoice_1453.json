@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Lowe, Hancock and Brown",
+    "invoice_number": "INV-34238",
+    "date": "2025-09-22",
+    "items": [
+        {
+            "description": "Adaptive attitude-oriented conglomeration",
+            "quantity": 4,
+            "unit_price": 477.21,
+            "total_price": 1908.84
+        },
+        {
+            "description": "Exclusive empowering circuit",
+            "quantity": 2,
+            "unit_price": 218.61,
+            "total_price": 437.22
+        }
+    ],
+    "amount": 2346.06
+}

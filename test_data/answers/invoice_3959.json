@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Butler-Harris",
+    "invoice_number": "INV-56240",
+    "date": "2025-09-15",
+    "items": [
+        {
+            "description": "Persevering holistic infrastructure",
+            "quantity": 1,
+            "unit_price": 159.38,
+            "total_price": 159.38
+        },
+        {
+            "description": "Secured upward-trending frame",
+            "quantity": 1,
+            "unit_price": 258.47,
+            "total_price": 258.47
+        },
+        {
+            "description": "Down-sized zero administration portal",
+            "quantity": 3,
+            "unit_price": 44.84,
+            "total_price": 134.52
+        },
+        {
+            "description": "Programmable fault-tolerant website",
+            "quantity": 10,
+            "unit_price": 244.55,
+            "total_price": 2445.5
+        }
+    ],
+    "amount": 2997.87
+}

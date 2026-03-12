@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Richardson, Mathews and Andrews",
+    "invoice_number": "INV-34467",
+    "date": "2025-08-08",
+    "items": [
+        {
+            "description": "Balanced actuating process improvement",
+            "quantity": 8,
+            "unit_price": 323.49,
+            "total_price": 2587.92
+        },
+        {
+            "description": "Universal national Internet solution",
+            "quantity": 4,
+            "unit_price": 447.45,
+            "total_price": 1789.8
+        },
+        {
+            "description": "Balanced client-driven Local Area Network",
+            "quantity": 4,
+            "unit_price": 100.78,
+            "total_price": 403.12
+        },
+        {
+            "description": "Monitored modular frame",
+            "quantity": 3,
+            "unit_price": 268.57,
+            "total_price": 805.71
+        }
+    ],
+    "amount": 5586.55
+}

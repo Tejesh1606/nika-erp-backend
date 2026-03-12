@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Silva-Anderson",
+    "invoice_number": "INV-25355",
+    "date": "2025-07-22",
+    "items": [
+        {
+            "description": "Enhanced multi-state system engine",
+            "quantity": 5,
+            "unit_price": 294.48,
+            "total_price": 1472.4
+        },
+        {
+            "description": "Synergized systematic encoding",
+            "quantity": 1,
+            "unit_price": 103.71,
+            "total_price": 103.71
+        }
+    ],
+    "amount": 1576.11
+}

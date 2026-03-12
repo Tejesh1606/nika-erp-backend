@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Sandoval-Hughes",
+    "invoice_number": "INV-51134",
+    "date": "2025-12-17",
+    "items": [
+        {
+            "description": "Grass-roots methodical analyzer",
+            "quantity": 5,
+            "unit_price": 313.29,
+            "total_price": 1566.45
+        },
+        {
+            "description": "Multi-lateral foreground extranet",
+            "quantity": 3,
+            "unit_price": 194.5,
+            "total_price": 583.5
+        },
+        {
+            "description": "Re-contextualized asynchronous website",
+            "quantity": 6,
+            "unit_price": 349.28,
+            "total_price": 2095.68
+        },
+        {
+            "description": "Enhanced responsive protocol",
+            "quantity": 9,
+            "unit_price": 457.61,
+            "total_price": 4118.49
+        }
+    ],
+    "amount": 8364.12
+}

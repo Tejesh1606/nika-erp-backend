@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lawson LLC",
+    "invoice_number": "INV-38705",
+    "date": "2025-11-11",
+    "items": [
+        {
+            "description": "Ergonomic regional extranet",
+            "quantity": 9,
+            "unit_price": 427.8,
+            "total_price": 3850.2
+        },
+        {
+            "description": "Synergistic web-enabled success",
+            "quantity": 9,
+            "unit_price": 335.43,
+            "total_price": 3018.87
+        },
+        {
+            "description": "Visionary stable software",
+            "quantity": 8,
+            "unit_price": 39.49,
+            "total_price": 315.92
+        },
+        {
+            "description": "Devolved responsive attitude",
+            "quantity": 2,
+            "unit_price": 228.41,
+            "total_price": 456.82
+        }
+    ],
+    "amount": 7641.81
+}

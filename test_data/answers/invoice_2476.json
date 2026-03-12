@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Carrillo, Shelton and Goodman",
+    "invoice_number": "INV-80999",
+    "date": "2025-12-08",
+    "items": [
+        {
+            "description": "Grass-roots radical utilization",
+            "quantity": 2,
+            "unit_price": 320.51,
+            "total_price": 641.02
+        },
+        {
+            "description": "Compatible eco-centric policy",
+            "quantity": 8,
+            "unit_price": 164.15,
+            "total_price": 1313.2
+        },
+        {
+            "description": "Triple-buffered motivating interface",
+            "quantity": 3,
+            "unit_price": 325.73,
+            "total_price": 977.19
+        }
+    ],
+    "amount": 2931.41
+}

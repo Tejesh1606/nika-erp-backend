@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Navarro-Lee",
+    "invoice_number": "INV-36840",
+    "date": "2025-04-05",
+    "items": [
+        {
+            "description": "Stand-alone local orchestration",
+            "quantity": 9,
+            "unit_price": 255.44,
+            "total_price": 2298.96
+        },
+        {
+            "description": "Vision-oriented discrete archive",
+            "quantity": 3,
+            "unit_price": 142.92,
+            "total_price": 428.76
+        }
+    ],
+    "amount": 2727.72
+}

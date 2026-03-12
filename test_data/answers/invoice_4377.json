@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Garza, Lambert and Baird",
+    "invoice_number": "INV-73561",
+    "date": "2025-03-27",
+    "items": [
+        {
+            "description": "Switchable exuding focus group",
+            "quantity": 6,
+            "unit_price": 57.53,
+            "total_price": 345.18
+        }
+    ],
+    "amount": 345.18
+}

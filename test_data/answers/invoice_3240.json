@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Rich Inc",
+    "invoice_number": "INV-30473",
+    "date": "2025-05-05",
+    "items": [
+        {
+            "description": "Switchable intangible firmware",
+            "quantity": 4,
+            "unit_price": 87.03,
+            "total_price": 348.12
+        },
+        {
+            "description": "Distributed grid-enabled pricing structure",
+            "quantity": 4,
+            "unit_price": 244.97,
+            "total_price": 979.88
+        }
+    ],
+    "amount": 1328.0
+}

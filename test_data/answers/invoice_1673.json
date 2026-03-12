@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Miller and Sons",
+    "invoice_number": "INV-73016",
+    "date": "2026-01-15",
+    "items": [
+        {
+            "description": "Cross-platform leadingedge toolset",
+            "quantity": 9,
+            "unit_price": 347.26,
+            "total_price": 3125.34
+        },
+        {
+            "description": "Public-key secondary hub",
+            "quantity": 7,
+            "unit_price": 239.26,
+            "total_price": 1674.82
+        },
+        {
+            "description": "Centralized zero tolerance product",
+            "quantity": 9,
+            "unit_price": 457.62,
+            "total_price": 4118.58
+        }
+    ],
+    "amount": 8918.74
+}

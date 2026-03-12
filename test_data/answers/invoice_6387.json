@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wallace, Smith and Yang",
+    "invoice_number": "INV-84241",
+    "date": "2025-12-02",
+    "items": [
+        {
+            "description": "Innovative demand-driven function",
+            "quantity": 2,
+            "unit_price": 441.59,
+            "total_price": 883.18
+        },
+        {
+            "description": "Integrated executive website",
+            "quantity": 5,
+            "unit_price": 173.46,
+            "total_price": 867.3
+        },
+        {
+            "description": "Customizable static Local Area Network",
+            "quantity": 4,
+            "unit_price": 292.46,
+            "total_price": 1169.84
+        },
+        {
+            "description": "Multi-layered homogeneous interface",
+            "quantity": 8,
+            "unit_price": 417.2,
+            "total_price": 3337.6
+        }
+    ],
+    "amount": 6257.92
+}

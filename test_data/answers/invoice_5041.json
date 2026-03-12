@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ashley, Roberts and Miller",
+    "invoice_number": "INV-93911",
+    "date": "2025-10-14",
+    "items": [
+        {
+            "description": "Expanded holistic customer loyalty",
+            "quantity": 8,
+            "unit_price": 65.36,
+            "total_price": 522.88
+        }
+    ],
+    "amount": 522.88
+}

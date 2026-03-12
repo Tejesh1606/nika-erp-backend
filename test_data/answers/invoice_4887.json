@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Stephens Ltd",
+    "invoice_number": "INV-31117",
+    "date": "2025-06-19",
+    "items": [
+        {
+            "description": "Switchable disintermediate groupware",
+            "quantity": 4,
+            "unit_price": 211.4,
+            "total_price": 845.6
+        }
+    ],
+    "amount": 845.6
+}

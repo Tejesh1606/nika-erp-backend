@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Carroll-Carr",
+    "invoice_number": "INV-58608",
+    "date": "2025-07-29",
+    "items": [
+        {
+            "description": "Assimilated global Graphic Interface",
+            "quantity": 9,
+            "unit_price": 160.54,
+            "total_price": 1444.86
+        },
+        {
+            "description": "Streamlined disintermediate solution",
+            "quantity": 7,
+            "unit_price": 412.56,
+            "total_price": 2887.92
+        }
+    ],
+    "amount": 4332.78
+}

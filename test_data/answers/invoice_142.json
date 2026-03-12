@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Foster LLC",
+    "invoice_number": "INV-54500",
+    "date": "2025-06-03",
+    "items": [
+        {
+            "description": "Managed zero-defect concept",
+            "quantity": 3,
+            "unit_price": 279.53,
+            "total_price": 838.59
+        },
+        {
+            "description": "Compatible multimedia productivity",
+            "quantity": 3,
+            "unit_price": 354.62,
+            "total_price": 1063.86
+        },
+        {
+            "description": "Customizable multi-tasking migration",
+            "quantity": 1,
+            "unit_price": 178.65,
+            "total_price": 178.65
+        },
+        {
+            "description": "Ergonomic zero-defect hardware",
+            "quantity": 9,
+            "unit_price": 383.01,
+            "total_price": 3447.09
+        }
+    ],
+    "amount": 5528.19
+}

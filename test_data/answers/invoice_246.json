@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gutierrez Ltd",
+    "invoice_number": "INV-40334",
+    "date": "2025-04-04",
+    "items": [
+        {
+            "description": "Triple-buffered coherent access",
+            "quantity": 3,
+            "unit_price": 197.05,
+            "total_price": 591.15
+        },
+        {
+            "description": "Extended motivating knowledgebase",
+            "quantity": 7,
+            "unit_price": 352.34,
+            "total_price": 2466.38
+        }
+    ],
+    "amount": 3057.53
+}

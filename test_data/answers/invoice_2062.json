@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Larson, Lee and Aguilar",
+    "invoice_number": "INV-92313",
+    "date": "2025-11-27",
+    "items": [
+        {
+            "description": "Phased 24hour open architecture",
+            "quantity": 4,
+            "unit_price": 99.23,
+            "total_price": 396.92
+        }
+    ],
+    "amount": 396.92
+}

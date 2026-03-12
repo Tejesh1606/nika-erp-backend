@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Herrera, Hughes and Smith",
+    "invoice_number": "INV-34772",
+    "date": "2026-02-13",
+    "items": [
+        {
+            "description": "Multi-lateral dynamic function",
+            "quantity": 5,
+            "unit_price": 430.46,
+            "total_price": 2152.3
+        }
+    ],
+    "amount": 2152.3
+}

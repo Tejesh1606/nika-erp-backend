@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Garcia Group",
+    "invoice_number": "INV-77675",
+    "date": "2026-03-05",
+    "items": [
+        {
+            "description": "Intuitive homogeneous forecast",
+            "quantity": 7,
+            "unit_price": 374.82,
+            "total_price": 2623.74
+        }
+    ],
+    "amount": 2623.74
+}

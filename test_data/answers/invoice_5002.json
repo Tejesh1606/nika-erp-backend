@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Norris, Owens and Love",
+    "invoice_number": "INV-81973",
+    "date": "2025-07-10",
+    "items": [
+        {
+            "description": "Integrated encompassing conglomeration",
+            "quantity": 6,
+            "unit_price": 41.5,
+            "total_price": 249.0
+        }
+    ],
+    "amount": 249.0
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Parker-Rojas",
+    "invoice_number": "INV-44467",
+    "date": "2025-08-05",
+    "items": [
+        {
+            "description": "Multi-layered full-range collaboration",
+            "quantity": 2,
+            "unit_price": 262.93,
+            "total_price": 525.86
+        }
+    ],
+    "amount": 525.86
+}

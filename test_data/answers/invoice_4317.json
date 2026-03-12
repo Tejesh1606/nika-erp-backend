@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Sosa and Sons",
+    "invoice_number": "INV-53165",
+    "date": "2025-08-07",
+    "items": [
+        {
+            "description": "Pre-emptive modular challenge",
+            "quantity": 7,
+            "unit_price": 131.62,
+            "total_price": 921.34
+        },
+        {
+            "description": "Monitored 24hour solution",
+            "quantity": 4,
+            "unit_price": 131.25,
+            "total_price": 525.0
+        },
+        {
+            "description": "Triple-buffered didactic model",
+            "quantity": 1,
+            "unit_price": 113.67,
+            "total_price": 113.67
+        },
+        {
+            "description": "Monitored web-enabled interface",
+            "quantity": 1,
+            "unit_price": 188.8,
+            "total_price": 188.8
+        }
+    ],
+    "amount": 1748.81
+}

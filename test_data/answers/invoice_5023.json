@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hill PLC",
+    "invoice_number": "INV-48604",
+    "date": "2025-05-05",
+    "items": [
+        {
+            "description": "Seamless reciprocal challenge",
+            "quantity": 6,
+            "unit_price": 143.88,
+            "total_price": 863.28
+        },
+        {
+            "description": "Versatile asynchronous array",
+            "quantity": 9,
+            "unit_price": 127.36,
+            "total_price": 1146.24
+        }
+    ],
+    "amount": 2009.52
+}

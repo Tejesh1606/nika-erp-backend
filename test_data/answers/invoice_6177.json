@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Porter, Moore and Silva",
+    "invoice_number": "INV-76439",
+    "date": "2025-11-24",
+    "items": [
+        {
+            "description": "Sharable content-based artificial intelligence",
+            "quantity": 1,
+            "unit_price": 368.97,
+            "total_price": 368.97
+        }
+    ],
+    "amount": 368.97
+}

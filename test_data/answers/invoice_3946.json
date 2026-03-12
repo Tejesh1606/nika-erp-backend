@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Booth PLC",
+    "invoice_number": "INV-62378",
+    "date": "2025-09-15",
+    "items": [
+        {
+            "description": "Synergized motivating Graphical User Interface",
+            "quantity": 4,
+            "unit_price": 424.71,
+            "total_price": 1698.84
+        }
+    ],
+    "amount": 1698.84
+}

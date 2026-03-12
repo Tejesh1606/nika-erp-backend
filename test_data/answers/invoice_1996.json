@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Avery Inc",
+    "invoice_number": "INV-41573",
+    "date": "2025-04-08",
+    "items": [
+        {
+            "description": "Configurable tertiary hierarchy",
+            "quantity": 2,
+            "unit_price": 321.95,
+            "total_price": 643.9
+        }
+    ],
+    "amount": 643.9
+}

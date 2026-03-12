@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bond, Hayes and Gomez",
+    "invoice_number": "INV-64749",
+    "date": "2025-05-20",
+    "items": [
+        {
+            "description": "Seamless eco-centric customer loyalty",
+            "quantity": 7,
+            "unit_price": 457.67,
+            "total_price": 3203.69
+        },
+        {
+            "description": "Exclusive object-oriented attitude",
+            "quantity": 3,
+            "unit_price": 455.6,
+            "total_price": 1366.8
+        },
+        {
+            "description": "Open-source national implementation",
+            "quantity": 3,
+            "unit_price": 306.86,
+            "total_price": 920.58
+        }
+    ],
+    "amount": 5491.07
+}

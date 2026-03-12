@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Allen-Horn",
+    "invoice_number": "INV-74819",
+    "date": "2026-01-27",
+    "items": [
+        {
+            "description": "Total intermediate instruction set",
+            "quantity": 8,
+            "unit_price": 212.24,
+            "total_price": 1697.92
+        },
+        {
+            "description": "Centralized scalable benchmark",
+            "quantity": 6,
+            "unit_price": 80.73,
+            "total_price": 484.38
+        },
+        {
+            "description": "Visionary even-keeled success",
+            "quantity": 2,
+            "unit_price": 479.42,
+            "total_price": 958.84
+        },
+        {
+            "description": "Upgradable even-keeled extranet",
+            "quantity": 7,
+            "unit_price": 150.2,
+            "total_price": 1051.4
+        }
+    ],
+    "amount": 4192.54
+}

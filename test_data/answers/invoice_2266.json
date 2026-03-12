@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wong, Bruce and Fields",
+    "invoice_number": "INV-78666",
+    "date": "2025-07-14",
+    "items": [
+        {
+            "description": "Multi-lateral 24/7 product",
+            "quantity": 7,
+            "unit_price": 363.44,
+            "total_price": 2544.08
+        },
+        {
+            "description": "Decentralized asynchronous database",
+            "quantity": 7,
+            "unit_price": 406.35,
+            "total_price": 2844.45
+        },
+        {
+            "description": "Organic global definition",
+            "quantity": 5,
+            "unit_price": 248.56,
+            "total_price": 1242.8
+        }
+    ],
+    "amount": 6631.33
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Scott, Skinner and Johnston",
+    "invoice_number": "INV-32847",
+    "date": "2025-08-19",
+    "items": [
+        {
+            "description": "Enterprise-wide neutral time-frame",
+            "quantity": 8,
+            "unit_price": 325.97,
+            "total_price": 2607.76
+        },
+        {
+            "description": "Programmable hybrid hardware",
+            "quantity": 7,
+            "unit_price": 256.72,
+            "total_price": 1797.04
+        },
+        {
+            "description": "User-centric needs-based adapter",
+            "quantity": 2,
+            "unit_price": 23.08,
+            "total_price": 46.16
+        },
+        {
+            "description": "Proactive stable contingency",
+            "quantity": 8,
+            "unit_price": 278.84,
+            "total_price": 2230.72
+        }
+    ],
+    "amount": 6681.68
+}

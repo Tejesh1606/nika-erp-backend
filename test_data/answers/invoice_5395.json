@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Patton, Cook and Parks",
+    "invoice_number": "INV-90566",
+    "date": "2025-06-04",
+    "items": [
+        {
+            "description": "Down-sized multimedia benchmark",
+            "quantity": 10,
+            "unit_price": 303.28,
+            "total_price": 3032.8
+        },
+        {
+            "description": "Open-architected intermediate Graphical User Interface",
+            "quantity": 2,
+            "unit_price": 70.61,
+            "total_price": 141.22
+        }
+    ],
+    "amount": 3174.02
+}

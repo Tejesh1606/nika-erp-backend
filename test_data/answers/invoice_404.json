@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Martinez, Snow and Ellis",
+    "invoice_number": "INV-87242",
+    "date": "2025-09-20",
+    "items": [
+        {
+            "description": "Devolved modular ability",
+            "quantity": 6,
+            "unit_price": 339.24,
+            "total_price": 2035.44
+        },
+        {
+            "description": "Progressive user-facing application",
+            "quantity": 8,
+            "unit_price": 144.04,
+            "total_price": 1152.32
+        }
+    ],
+    "amount": 3187.76
+}

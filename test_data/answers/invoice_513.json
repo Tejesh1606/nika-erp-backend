@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Parsons-Allen",
+    "invoice_number": "INV-18302",
+    "date": "2025-11-19",
+    "items": [
+        {
+            "description": "Public-key human-resource core",
+            "quantity": 1,
+            "unit_price": 412.66,
+            "total_price": 412.66
+        },
+        {
+            "description": "Progressive systemic methodology",
+            "quantity": 3,
+            "unit_price": 299.28,
+            "total_price": 897.84
+        },
+        {
+            "description": "Visionary neutral collaboration",
+            "quantity": 4,
+            "unit_price": 145.86,
+            "total_price": 583.44
+        },
+        {
+            "description": "Seamless executive Graphic Interface",
+            "quantity": 9,
+            "unit_price": 68.36,
+            "total_price": 615.24
+        }
+    ],
+    "amount": 2509.18
+}

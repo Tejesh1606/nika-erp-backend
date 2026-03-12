@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Miller, Newton and Lindsey",
+    "invoice_number": "INV-80340",
+    "date": "2025-10-01",
+    "items": [
+        {
+            "description": "Switchable human-resource intranet",
+            "quantity": 2,
+            "unit_price": 116.14,
+            "total_price": 232.28
+        },
+        {
+            "description": "Programmable optimizing structure",
+            "quantity": 4,
+            "unit_price": 455.24,
+            "total_price": 1820.96
+        },
+        {
+            "description": "Multi-layered 4thgeneration attitude",
+            "quantity": 10,
+            "unit_price": 218.99,
+            "total_price": 2189.9
+        }
+    ],
+    "amount": 4243.14
+}

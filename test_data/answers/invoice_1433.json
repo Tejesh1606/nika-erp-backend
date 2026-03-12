@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Estrada, Nelson and Reese",
+    "invoice_number": "INV-83841",
+    "date": "2026-01-01",
+    "items": [
+        {
+            "description": "Distributed secondary initiative",
+            "quantity": 2,
+            "unit_price": 273.52,
+            "total_price": 547.04
+        },
+        {
+            "description": "Re-engineered zero tolerance website",
+            "quantity": 9,
+            "unit_price": 132.42,
+            "total_price": 1191.78
+        },
+        {
+            "description": "Exclusive coherent installation",
+            "quantity": 1,
+            "unit_price": 302.06,
+            "total_price": 302.06
+        }
+    ],
+    "amount": 2040.88
+}

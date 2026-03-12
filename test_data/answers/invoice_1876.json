@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Patterson-Keith",
+    "invoice_number": "INV-96067",
+    "date": "2025-09-09",
+    "items": [
+        {
+            "description": "Integrated impactful challenge",
+            "quantity": 4,
+            "unit_price": 40.6,
+            "total_price": 162.4
+        },
+        {
+            "description": "Virtual foreground pricing structure",
+            "quantity": 9,
+            "unit_price": 172.68,
+            "total_price": 1554.12
+        },
+        {
+            "description": "Cloned human-resource algorithm",
+            "quantity": 4,
+            "unit_price": 314.35,
+            "total_price": 1257.4
+        },
+        {
+            "description": "Customer-focused attitude-oriented conglomeration",
+            "quantity": 5,
+            "unit_price": 451.28,
+            "total_price": 2256.4
+        }
+    ],
+    "amount": 5230.32
+}

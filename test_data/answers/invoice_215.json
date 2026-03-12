@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rosales Group",
+    "invoice_number": "INV-45761",
+    "date": "2025-05-22",
+    "items": [
+        {
+            "description": "Customizable full-range complexity",
+            "quantity": 1,
+            "unit_price": 344.04,
+            "total_price": 344.04
+        },
+        {
+            "description": "Upgradable logistical project",
+            "quantity": 6,
+            "unit_price": 271.53,
+            "total_price": 1629.18
+        },
+        {
+            "description": "Function-based transitional contingency",
+            "quantity": 5,
+            "unit_price": 452.11,
+            "total_price": 2260.55
+        },
+        {
+            "description": "Advanced user-facing Graphical User Interface",
+            "quantity": 7,
+            "unit_price": 320.21,
+            "total_price": 2241.47
+        }
+    ],
+    "amount": 6475.24
+}

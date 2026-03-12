@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Carter, Sullivan and Obrien",
+    "invoice_number": "INV-27248",
+    "date": "2026-03-02",
+    "items": [
+        {
+            "description": "Adaptive mission-critical time-frame",
+            "quantity": 10,
+            "unit_price": 222.61,
+            "total_price": 2226.1
+        },
+        {
+            "description": "Total context-sensitive orchestration",
+            "quantity": 6,
+            "unit_price": 300.76,
+            "total_price": 1804.56
+        },
+        {
+            "description": "Persevering coherent capacity",
+            "quantity": 2,
+            "unit_price": 183.77,
+            "total_price": 367.54
+        },
+        {
+            "description": "Versatile zero-defect encoding",
+            "quantity": 4,
+            "unit_price": 114.69,
+            "total_price": 458.76
+        }
+    ],
+    "amount": 4856.96
+}

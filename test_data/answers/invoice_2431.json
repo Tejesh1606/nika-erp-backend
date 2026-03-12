@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Werner Ltd",
+    "invoice_number": "INV-25398",
+    "date": "2025-10-27",
+    "items": [
+        {
+            "description": "Total reciprocal array",
+            "quantity": 3,
+            "unit_price": 19.52,
+            "total_price": 58.56
+        },
+        {
+            "description": "Quality-focused uniform solution",
+            "quantity": 8,
+            "unit_price": 231.01,
+            "total_price": 1848.08
+        }
+    ],
+    "amount": 1906.64
+}

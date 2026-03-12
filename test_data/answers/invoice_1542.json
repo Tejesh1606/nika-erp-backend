@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Obrien-King",
+    "invoice_number": "INV-59356",
+    "date": "2026-01-18",
+    "items": [
+        {
+            "description": "Reactive hybrid ability",
+            "quantity": 10,
+            "unit_price": 127.7,
+            "total_price": 1277.0
+        },
+        {
+            "description": "Cloned content-based workforce",
+            "quantity": 4,
+            "unit_price": 293.95,
+            "total_price": 1175.8
+        },
+        {
+            "description": "Function-based modular knowledgebase",
+            "quantity": 10,
+            "unit_price": 287.19,
+            "total_price": 2871.9
+        }
+    ],
+    "amount": 5324.7
+}

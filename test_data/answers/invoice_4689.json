@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hall, Jones and Dudley",
+    "invoice_number": "INV-77247",
+    "date": "2026-02-26",
+    "items": [
+        {
+            "description": "Total content-based intranet",
+            "quantity": 4,
+            "unit_price": 427.05,
+            "total_price": 1708.2
+        },
+        {
+            "description": "Implemented fault-tolerant moratorium",
+            "quantity": 8,
+            "unit_price": 230.02,
+            "total_price": 1840.16
+        }
+    ],
+    "amount": 3548.36
+}

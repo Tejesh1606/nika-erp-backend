@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Solomon-Wood",
+    "invoice_number": "INV-99688",
+    "date": "2025-11-15",
+    "items": [
+        {
+            "description": "Persevering attitude-oriented access",
+            "quantity": 2,
+            "unit_price": 332.24,
+            "total_price": 664.48
+        }
+    ],
+    "amount": 664.48
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Adams LLC",
+    "invoice_number": "INV-21289",
+    "date": "2026-01-17",
+    "items": [
+        {
+            "description": "Multi-channeled full-range parallelism",
+            "quantity": 10,
+            "unit_price": 322.79,
+            "total_price": 3227.9
+        },
+        {
+            "description": "Optimized local focus group",
+            "quantity": 3,
+            "unit_price": 286.28,
+            "total_price": 858.84
+        },
+        {
+            "description": "Focused discrete emulation",
+            "quantity": 7,
+            "unit_price": 98.33,
+            "total_price": 688.31
+        },
+        {
+            "description": "Synchronized stable model",
+            "quantity": 1,
+            "unit_price": 17.37,
+            "total_price": 17.37
+        }
+    ],
+    "amount": 4792.42
+}

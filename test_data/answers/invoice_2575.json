@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ellis, Newman and Villa",
+    "invoice_number": "INV-35757",
+    "date": "2025-12-23",
+    "items": [
+        {
+            "description": "Self-enabling neutral definition",
+            "quantity": 5,
+            "unit_price": 181.2,
+            "total_price": 906.0
+        },
+        {
+            "description": "Inverse encompassing data-warehouse",
+            "quantity": 3,
+            "unit_price": 402.12,
+            "total_price": 1206.36
+        },
+        {
+            "description": "Switchable executive installation",
+            "quantity": 6,
+            "unit_price": 116.0,
+            "total_price": 696.0
+        }
+    ],
+    "amount": 2808.36
+}

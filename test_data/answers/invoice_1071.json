@@ -1,0 +1,14 @@
+{
+    "vendor_name": "King, Ortiz and Munoz",
+    "invoice_number": "INV-94554",
+    "date": "2025-10-01",
+    "items": [
+        {
+            "description": "Multi-channeled hybrid algorithm",
+            "quantity": 4,
+            "unit_price": 345.47,
+            "total_price": 1381.88
+        }
+    ],
+    "amount": 1381.88
+}

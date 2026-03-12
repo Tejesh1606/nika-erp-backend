@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Johnston-Rodriguez",
+    "invoice_number": "INV-42716",
+    "date": "2025-09-25",
+    "items": [
+        {
+            "description": "Universal zero administration projection",
+            "quantity": 9,
+            "unit_price": 70.65,
+            "total_price": 635.85
+        },
+        {
+            "description": "Virtual clear-thinking policy",
+            "quantity": 9,
+            "unit_price": 26.86,
+            "total_price": 241.74
+        },
+        {
+            "description": "Synergized incremental utilization",
+            "quantity": 7,
+            "unit_price": 377.45,
+            "total_price": 2642.15
+        }
+    ],
+    "amount": 3519.74
+}

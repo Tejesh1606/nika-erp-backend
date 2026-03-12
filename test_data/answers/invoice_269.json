@@ -1,0 +1,32 @@
+{
+    "vendor_name": "King and Sons",
+    "invoice_number": "INV-65460",
+    "date": "2026-01-09",
+    "items": [
+        {
+            "description": "Multi-tiered asynchronous knowledge user",
+            "quantity": 6,
+            "unit_price": 411.11,
+            "total_price": 2466.66
+        },
+        {
+            "description": "Right-sized mission-critical paradigm",
+            "quantity": 8,
+            "unit_price": 331.01,
+            "total_price": 2648.08
+        },
+        {
+            "description": "Open-architected national middleware",
+            "quantity": 7,
+            "unit_price": 385.38,
+            "total_price": 2697.66
+        },
+        {
+            "description": "Team-oriented intangible moratorium",
+            "quantity": 4,
+            "unit_price": 82.11,
+            "total_price": 328.44
+        }
+    ],
+    "amount": 8140.84
+}

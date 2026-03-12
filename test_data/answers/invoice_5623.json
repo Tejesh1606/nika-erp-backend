@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Figueroa, Wang and Holden",
+    "invoice_number": "INV-25028",
+    "date": "2026-02-18",
+    "items": [
+        {
+            "description": "Streamlined solution-oriented interface",
+            "quantity": 5,
+            "unit_price": 80.33,
+            "total_price": 401.65
+        },
+        {
+            "description": "Focused clear-thinking encoding",
+            "quantity": 3,
+            "unit_price": 186.1,
+            "total_price": 558.3
+        },
+        {
+            "description": "Profit-focused bi-directional customer loyalty",
+            "quantity": 4,
+            "unit_price": 252.84,
+            "total_price": 1011.36
+        }
+    ],
+    "amount": 1971.31
+}

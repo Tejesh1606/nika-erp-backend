@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Roberts-Ruiz",
+    "invoice_number": "INV-40343",
+    "date": "2025-10-15",
+    "items": [
+        {
+            "description": "Customer-focused system-worthy archive",
+            "quantity": 10,
+            "unit_price": 20.64,
+            "total_price": 206.4
+        }
+    ],
+    "amount": 206.4
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Phelps, Schneider and Horton",
+    "invoice_number": "INV-66124",
+    "date": "2025-07-15",
+    "items": [
+        {
+            "description": "Pre-emptive national orchestration",
+            "quantity": 5,
+            "unit_price": 402.54,
+            "total_price": 2012.7
+        },
+        {
+            "description": "Extended methodical orchestration",
+            "quantity": 6,
+            "unit_price": 208.8,
+            "total_price": 1252.8
+        },
+        {
+            "description": "Total dynamic paradigm",
+            "quantity": 4,
+            "unit_price": 367.24,
+            "total_price": 1468.96
+        }
+    ],
+    "amount": 4734.46
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Edwards-Hurst",
+    "invoice_number": "INV-38764",
+    "date": "2025-05-13",
+    "items": [
+        {
+            "description": "Total foreground artificial intelligence",
+            "quantity": 7,
+            "unit_price": 265.99,
+            "total_price": 1861.93
+        },
+        {
+            "description": "Triple-buffered responsive extranet",
+            "quantity": 4,
+            "unit_price": 69.64,
+            "total_price": 278.56
+        }
+    ],
+    "amount": 2140.49
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Burke-Miller",
+    "invoice_number": "INV-90005",
+    "date": "2025-11-15",
+    "items": [
+        {
+            "description": "Expanded 24hour task-force",
+            "quantity": 1,
+            "unit_price": 100.26,
+            "total_price": 100.26
+        },
+        {
+            "description": "Implemented secondary middleware",
+            "quantity": 1,
+            "unit_price": 257.48,
+            "total_price": 257.48
+        },
+        {
+            "description": "Multi-layered client-server strategy",
+            "quantity": 3,
+            "unit_price": 271.79,
+            "total_price": 815.37
+        }
+    ],
+    "amount": 1173.11
+}

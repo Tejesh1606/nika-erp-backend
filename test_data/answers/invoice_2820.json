@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Curtis Group",
+    "invoice_number": "INV-96717",
+    "date": "2025-07-05",
+    "items": [
+        {
+            "description": "Multi-lateral zero tolerance paradigm",
+            "quantity": 10,
+            "unit_price": 388.95,
+            "total_price": 3889.5
+        },
+        {
+            "description": "Public-key maximized challenge",
+            "quantity": 3,
+            "unit_price": 411.3,
+            "total_price": 1233.9
+        },
+        {
+            "description": "Self-enabling even-keeled superstructure",
+            "quantity": 10,
+            "unit_price": 385.6,
+            "total_price": 3856.0
+        },
+        {
+            "description": "Automated next generation synergy",
+            "quantity": 8,
+            "unit_price": 465.99,
+            "total_price": 3727.92
+        }
+    ],
+    "amount": 12707.32
+}

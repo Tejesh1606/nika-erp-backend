@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gray LLC",
+    "invoice_number": "INV-18423",
+    "date": "2025-07-19",
+    "items": [
+        {
+            "description": "Assimilated optimal encoding",
+            "quantity": 8,
+            "unit_price": 250.98,
+            "total_price": 2007.84
+        },
+        {
+            "description": "Polarized mobile service-desk",
+            "quantity": 7,
+            "unit_price": 64.5,
+            "total_price": 451.5
+        }
+    ],
+    "amount": 2459.34
+}

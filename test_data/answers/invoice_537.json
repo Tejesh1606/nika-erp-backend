@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith, Aguilar and Alvarado",
+    "invoice_number": "INV-15699",
+    "date": "2025-06-16",
+    "items": [
+        {
+            "description": "Down-sized analyzing forecast",
+            "quantity": 3,
+            "unit_price": 68.86,
+            "total_price": 206.58
+        }
+    ],
+    "amount": 206.58
+}

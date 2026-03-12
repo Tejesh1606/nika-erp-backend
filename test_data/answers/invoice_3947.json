@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Chung Ltd",
+    "invoice_number": "INV-16845",
+    "date": "2025-08-20",
+    "items": [
+        {
+            "description": "Object-based multi-state migration",
+            "quantity": 2,
+            "unit_price": 468.41,
+            "total_price": 936.82
+        }
+    ],
+    "amount": 936.82
+}

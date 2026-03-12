@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Anderson-Wood",
+    "invoice_number": "INV-83616",
+    "date": "2025-04-19",
+    "items": [
+        {
+            "description": "Intuitive disintermediate Local Area Network",
+            "quantity": 5,
+            "unit_price": 202.53,
+            "total_price": 1012.65
+        },
+        {
+            "description": "Decentralized encompassing knowledge user",
+            "quantity": 6,
+            "unit_price": 309.27,
+            "total_price": 1855.62
+        },
+        {
+            "description": "Fully-configurable client-server attitude",
+            "quantity": 3,
+            "unit_price": 187.74,
+            "total_price": 563.22
+        },
+        {
+            "description": "Business-focused explicit info-mediaries",
+            "quantity": 10,
+            "unit_price": 11.97,
+            "total_price": 119.7
+        }
+    ],
+    "amount": 3551.19
+}

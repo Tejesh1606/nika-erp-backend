@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Sanders-Williams",
+    "invoice_number": "INV-39053",
+    "date": "2025-05-26",
+    "items": [
+        {
+            "description": "Open-architected background installation",
+            "quantity": 3,
+            "unit_price": 37.12,
+            "total_price": 111.36
+        },
+        {
+            "description": "Multi-channeled global migration",
+            "quantity": 5,
+            "unit_price": 475.11,
+            "total_price": 2375.55
+        }
+    ],
+    "amount": 2486.91
+}

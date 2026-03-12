@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bird, Maynard and Parker",
+    "invoice_number": "INV-29516",
+    "date": "2025-06-17",
+    "items": [
+        {
+            "description": "Front-line grid-enabled open architecture",
+            "quantity": 3,
+            "unit_price": 231.45,
+            "total_price": 694.35
+        },
+        {
+            "description": "Operative attitude-oriented matrix",
+            "quantity": 5,
+            "unit_price": 201.16,
+            "total_price": 1005.8
+        }
+    ],
+    "amount": 1700.15
+}

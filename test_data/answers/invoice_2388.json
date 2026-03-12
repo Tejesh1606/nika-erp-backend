@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Church, Bean and White",
+    "invoice_number": "INV-94783",
+    "date": "2025-09-06",
+    "items": [
+        {
+            "description": "Self-enabling even-keeled array",
+            "quantity": 8,
+            "unit_price": 354.04,
+            "total_price": 2832.32
+        }
+    ],
+    "amount": 2832.32
+}

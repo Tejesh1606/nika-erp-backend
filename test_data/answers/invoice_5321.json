@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gutierrez-Williams",
+    "invoice_number": "INV-15653",
+    "date": "2025-03-15",
+    "items": [
+        {
+            "description": "Open-architected scalable portal",
+            "quantity": 5,
+            "unit_price": 39.67,
+            "total_price": 198.35
+        },
+        {
+            "description": "Streamlined leadingedge leverage",
+            "quantity": 7,
+            "unit_price": 346.68,
+            "total_price": 2426.76
+        },
+        {
+            "description": "Implemented actuating ability",
+            "quantity": 9,
+            "unit_price": 431.02,
+            "total_price": 3879.18
+        },
+        {
+            "description": "Right-sized system-worthy Local Area Network",
+            "quantity": 8,
+            "unit_price": 317.95,
+            "total_price": 2543.6
+        }
+    ],
+    "amount": 9047.89
+}

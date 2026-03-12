@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wright, Dennis and Harris",
+    "invoice_number": "INV-52552",
+    "date": "2025-04-12",
+    "items": [
+        {
+            "description": "Advanced bottom-line artificial intelligence",
+            "quantity": 9,
+            "unit_price": 338.39,
+            "total_price": 3045.51
+        }
+    ],
+    "amount": 3045.51
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cooper-Alexander",
+    "invoice_number": "INV-18502",
+    "date": "2025-08-25",
+    "items": [
+        {
+            "description": "De-engineered leadingedge help-desk",
+            "quantity": 3,
+            "unit_price": 221.88,
+            "total_price": 665.64
+        }
+    ],
+    "amount": 665.64
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bautista LLC",
+    "invoice_number": "INV-35748",
+    "date": "2025-07-17",
+    "items": [
+        {
+            "description": "Exclusive responsive utilization",
+            "quantity": 6,
+            "unit_price": 267.97,
+            "total_price": 1607.82
+        },
+        {
+            "description": "Assimilated heuristic definition",
+            "quantity": 7,
+            "unit_price": 41.09,
+            "total_price": 287.63
+        },
+        {
+            "description": "Enhanced zero administration hardware",
+            "quantity": 4,
+            "unit_price": 243.18,
+            "total_price": 972.72
+        }
+    ],
+    "amount": 2868.17
+}

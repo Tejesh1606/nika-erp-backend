@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cardenas, Young and Walter",
+    "invoice_number": "INV-96535",
+    "date": "2025-09-27",
+    "items": [
+        {
+            "description": "Face-to-face incremental framework",
+            "quantity": 5,
+            "unit_price": 365.9,
+            "total_price": 1829.5
+        }
+    ],
+    "amount": 1829.5
+}

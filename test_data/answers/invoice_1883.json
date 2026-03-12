@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Beltran-Reid",
+    "invoice_number": "INV-58299",
+    "date": "2025-06-19",
+    "items": [
+        {
+            "description": "Profound context-sensitive function",
+            "quantity": 10,
+            "unit_price": 136.48,
+            "total_price": 1364.8
+        },
+        {
+            "description": "De-engineered bottom-line secured line",
+            "quantity": 5,
+            "unit_price": 30.76,
+            "total_price": 153.8
+        },
+        {
+            "description": "Realigned system-worthy system engine",
+            "quantity": 2,
+            "unit_price": 175.11,
+            "total_price": 350.22
+        },
+        {
+            "description": "Focused motivating Graphic Interface",
+            "quantity": 4,
+            "unit_price": 341.87,
+            "total_price": 1367.48
+        }
+    ],
+    "amount": 3236.3
+}

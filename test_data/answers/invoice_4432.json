@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Smith Ltd",
+    "invoice_number": "INV-87577",
+    "date": "2026-01-11",
+    "items": [
+        {
+            "description": "Distributed bifurcated hierarchy",
+            "quantity": 3,
+            "unit_price": 310.47,
+            "total_price": 931.41
+        },
+        {
+            "description": "Diverse local conglomeration",
+            "quantity": 3,
+            "unit_price": 93.78,
+            "total_price": 281.34
+        }
+    ],
+    "amount": 1212.75
+}

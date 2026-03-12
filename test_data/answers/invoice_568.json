@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Simmons-Abbott",
+    "invoice_number": "INV-44034",
+    "date": "2025-09-29",
+    "items": [
+        {
+            "description": "Re-engineered regional help-desk",
+            "quantity": 2,
+            "unit_price": 267.03,
+            "total_price": 534.06
+        },
+        {
+            "description": "De-engineered reciprocal open system",
+            "quantity": 3,
+            "unit_price": 133.98,
+            "total_price": 401.94
+        }
+    ],
+    "amount": 936.0
+}

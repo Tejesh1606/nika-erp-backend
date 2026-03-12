@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Dunlap-Oneal",
+    "invoice_number": "INV-42549",
+    "date": "2025-06-17",
+    "items": [
+        {
+            "description": "Switchable tangible methodology",
+            "quantity": 4,
+            "unit_price": 376.99,
+            "total_price": 1507.96
+        }
+    ],
+    "amount": 1507.96
+}

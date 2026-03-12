@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Carrillo-Hernandez",
+    "invoice_number": "INV-65567",
+    "date": "2025-08-19",
+    "items": [
+        {
+            "description": "Enhanced client-server workforce",
+            "quantity": 6,
+            "unit_price": 335.97,
+            "total_price": 2015.82
+        },
+        {
+            "description": "Switchable eco-centric matrix",
+            "quantity": 8,
+            "unit_price": 117.33,
+            "total_price": 938.64
+        }
+    ],
+    "amount": 2954.46
+}

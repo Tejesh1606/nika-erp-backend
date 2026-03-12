@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Miller Ltd",
+    "invoice_number": "INV-15931",
+    "date": "2026-03-05",
+    "items": [
+        {
+            "description": "Persevering logistical concept",
+            "quantity": 9,
+            "unit_price": 461.68,
+            "total_price": 4155.12
+        },
+        {
+            "description": "Down-sized client-server open architecture",
+            "quantity": 3,
+            "unit_price": 121.34,
+            "total_price": 364.02
+        }
+    ],
+    "amount": 4519.14
+}

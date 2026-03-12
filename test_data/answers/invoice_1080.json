@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Allison-Coffey",
+    "invoice_number": "INV-25913",
+    "date": "2026-01-30",
+    "items": [
+        {
+            "description": "Multi-layered regional benchmark",
+            "quantity": 8,
+            "unit_price": 33.35,
+            "total_price": 266.8
+        },
+        {
+            "description": "Assimilated directional application",
+            "quantity": 10,
+            "unit_price": 453.74,
+            "total_price": 4537.4
+        },
+        {
+            "description": "Advanced client-driven benchmark",
+            "quantity": 6,
+            "unit_price": 482.64,
+            "total_price": 2895.84
+        },
+        {
+            "description": "Inverse system-worthy success",
+            "quantity": 2,
+            "unit_price": 256.74,
+            "total_price": 513.48
+        }
+    ],
+    "amount": 8213.52
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Guerrero, Ruiz and Patrick",
+    "invoice_number": "INV-79869",
+    "date": "2025-12-13",
+    "items": [
+        {
+            "description": "Balanced uniform benchmark",
+            "quantity": 1,
+            "unit_price": 28.22,
+            "total_price": 28.22
+        }
+    ],
+    "amount": 28.22
+}

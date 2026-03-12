@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hudson Ltd",
+    "invoice_number": "INV-10782",
+    "date": "2025-05-03",
+    "items": [
+        {
+            "description": "Triple-buffered multi-state focus group",
+            "quantity": 10,
+            "unit_price": 378.28,
+            "total_price": 3782.8
+        },
+        {
+            "description": "Streamlined empowering task-force",
+            "quantity": 1,
+            "unit_price": 40.98,
+            "total_price": 40.98
+        }
+    ],
+    "amount": 3823.78
+}

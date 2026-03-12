@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Curtis, Mcdaniel and Martin",
+    "invoice_number": "INV-19661",
+    "date": "2026-01-13",
+    "items": [
+        {
+            "description": "Automated explicit adapter",
+            "quantity": 6,
+            "unit_price": 143.31,
+            "total_price": 859.86
+        },
+        {
+            "description": "Intuitive empowering benchmark",
+            "quantity": 6,
+            "unit_price": 122.43,
+            "total_price": 734.58
+        }
+    ],
+    "amount": 1594.44
+}

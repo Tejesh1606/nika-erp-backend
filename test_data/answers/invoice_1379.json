@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Trujillo, Church and Stewart",
+    "invoice_number": "INV-50086",
+    "date": "2025-04-17",
+    "items": [
+        {
+            "description": "Up-sized background productivity",
+            "quantity": 10,
+            "unit_price": 283.6,
+            "total_price": 2836.0
+        }
+    ],
+    "amount": 2836.0
+}

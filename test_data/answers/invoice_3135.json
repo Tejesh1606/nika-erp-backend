@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Trujillo-Buck",
+    "invoice_number": "INV-32912",
+    "date": "2025-08-03",
+    "items": [
+        {
+            "description": "Robust disintermediate Local Area Network",
+            "quantity": 6,
+            "unit_price": 166.54,
+            "total_price": 999.24
+        },
+        {
+            "description": "Reduced empowering portal",
+            "quantity": 6,
+            "unit_price": 345.69,
+            "total_price": 2074.14
+        },
+        {
+            "description": "Secured non-volatile Graphic Interface",
+            "quantity": 10,
+            "unit_price": 352.75,
+            "total_price": 3527.5
+        }
+    ],
+    "amount": 6600.88
+}

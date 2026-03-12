@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Pearson, Munoz and Webb",
+    "invoice_number": "INV-44581",
+    "date": "2025-09-16",
+    "items": [
+        {
+            "description": "Devolved transitional moratorium",
+            "quantity": 10,
+            "unit_price": 144.06,
+            "total_price": 1440.6
+        },
+        {
+            "description": "Decentralized value-added Graphic Interface",
+            "quantity": 2,
+            "unit_price": 157.32,
+            "total_price": 314.64
+        },
+        {
+            "description": "Synchronized local algorithm",
+            "quantity": 5,
+            "unit_price": 123.26,
+            "total_price": 616.3
+        },
+        {
+            "description": "Optimized interactive conglomeration",
+            "quantity": 7,
+            "unit_price": 233.13,
+            "total_price": 1631.91
+        }
+    ],
+    "amount": 4003.45
+}

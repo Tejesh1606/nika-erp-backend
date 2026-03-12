@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Roth-Hernandez",
+    "invoice_number": "INV-18205",
+    "date": "2025-06-30",
+    "items": [
+        {
+            "description": "Self-enabling leadingedge capability",
+            "quantity": 6,
+            "unit_price": 134.77,
+            "total_price": 808.62
+        },
+        {
+            "description": "Profound object-oriented matrices",
+            "quantity": 3,
+            "unit_price": 121.78,
+            "total_price": 365.34
+        }
+    ],
+    "amount": 1173.96
+}

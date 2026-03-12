@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Young LLC",
+    "invoice_number": "INV-41657",
+    "date": "2026-03-08",
+    "items": [
+        {
+            "description": "De-engineered web-enabled matrix",
+            "quantity": 8,
+            "unit_price": 208.95,
+            "total_price": 1671.6
+        },
+        {
+            "description": "Phased responsive project",
+            "quantity": 8,
+            "unit_price": 140.03,
+            "total_price": 1120.24
+        },
+        {
+            "description": "Face-to-face mobile Internet solution",
+            "quantity": 10,
+            "unit_price": 497.14,
+            "total_price": 4971.4
+        }
+    ],
+    "amount": 7763.24
+}

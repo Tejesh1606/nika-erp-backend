@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Taylor, Hampton and Wilson",
+    "invoice_number": "INV-63655",
+    "date": "2025-04-20",
+    "items": [
+        {
+            "description": "Synergized foreground secured line",
+            "quantity": 9,
+            "unit_price": 26.24,
+            "total_price": 236.16
+        },
+        {
+            "description": "Virtual regional orchestration",
+            "quantity": 10,
+            "unit_price": 14.38,
+            "total_price": 143.8
+        },
+        {
+            "description": "Universal reciprocal function",
+            "quantity": 9,
+            "unit_price": 391.69,
+            "total_price": 3525.21
+        },
+        {
+            "description": "Future-proofed user-facing circuit",
+            "quantity": 2,
+            "unit_price": 427.17,
+            "total_price": 854.34
+        }
+    ],
+    "amount": 4759.51
+}

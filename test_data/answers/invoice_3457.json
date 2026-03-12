@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Levine-Robinson",
+    "invoice_number": "INV-26720",
+    "date": "2025-09-15",
+    "items": [
+        {
+            "description": "Horizontal optimal analyzer",
+            "quantity": 3,
+            "unit_price": 198.96,
+            "total_price": 596.88
+        },
+        {
+            "description": "Expanded didactic capability",
+            "quantity": 1,
+            "unit_price": 317.76,
+            "total_price": 317.76
+        }
+    ],
+    "amount": 914.64
+}

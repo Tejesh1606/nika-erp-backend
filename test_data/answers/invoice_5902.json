@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Barton-Maxwell",
+    "invoice_number": "INV-40159",
+    "date": "2026-01-23",
+    "items": [
+        {
+            "description": "Re-engineered contextually-based support",
+            "quantity": 9,
+            "unit_price": 453.56,
+            "total_price": 4082.04
+        },
+        {
+            "description": "Right-sized 24/7 concept",
+            "quantity": 2,
+            "unit_price": 56.52,
+            "total_price": 113.04
+        },
+        {
+            "description": "Mandatory didactic contingency",
+            "quantity": 6,
+            "unit_price": 361.83,
+            "total_price": 2170.98
+        }
+    ],
+    "amount": 6366.06
+}

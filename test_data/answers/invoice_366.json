@@ -1,0 +1,32 @@
+{
+    "vendor_name": "King-Owens",
+    "invoice_number": "INV-98761",
+    "date": "2025-09-27",
+    "items": [
+        {
+            "description": "Secured hybrid paradigm",
+            "quantity": 4,
+            "unit_price": 133.44,
+            "total_price": 533.76
+        },
+        {
+            "description": "Customer-focused 24hour migration",
+            "quantity": 2,
+            "unit_price": 414.11,
+            "total_price": 828.22
+        },
+        {
+            "description": "Switchable holistic open architecture",
+            "quantity": 1,
+            "unit_price": 179.53,
+            "total_price": 179.53
+        },
+        {
+            "description": "Stand-alone radical portal",
+            "quantity": 8,
+            "unit_price": 252.59,
+            "total_price": 2020.72
+        }
+    ],
+    "amount": 3562.23
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Sheppard Inc",
+    "invoice_number": "INV-34607",
+    "date": "2025-06-04",
+    "items": [
+        {
+            "description": "Synergistic needs-based matrices",
+            "quantity": 9,
+            "unit_price": 126.32,
+            "total_price": 1136.88
+        },
+        {
+            "description": "Sharable demand-driven neural-net",
+            "quantity": 10,
+            "unit_price": 65.18,
+            "total_price": 651.8
+        }
+    ],
+    "amount": 1788.68
+}

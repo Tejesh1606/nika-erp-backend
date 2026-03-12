@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Daniels, Bush and Hill",
+    "invoice_number": "INV-78906",
+    "date": "2026-02-27",
+    "items": [
+        {
+            "description": "Multi-channeled interactive info-mediaries",
+            "quantity": 4,
+            "unit_price": 100.12,
+            "total_price": 400.48
+        },
+        {
+            "description": "Robust executive middleware",
+            "quantity": 7,
+            "unit_price": 252.94,
+            "total_price": 1770.58
+        },
+        {
+            "description": "Re-contextualized radical definition",
+            "quantity": 3,
+            "unit_price": 475.74,
+            "total_price": 1427.22
+        },
+        {
+            "description": "Centralized 4thgeneration hub",
+            "quantity": 5,
+            "unit_price": 411.99,
+            "total_price": 2059.95
+        }
+    ],
+    "amount": 5658.23
+}

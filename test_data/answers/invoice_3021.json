@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Sullivan Ltd",
+    "invoice_number": "INV-84862",
+    "date": "2025-08-29",
+    "items": [
+        {
+            "description": "Function-based even-keeled concept",
+            "quantity": 10,
+            "unit_price": 272.11,
+            "total_price": 2721.1
+        },
+        {
+            "description": "Business-focused discrete success",
+            "quantity": 1,
+            "unit_price": 104.6,
+            "total_price": 104.6
+        },
+        {
+            "description": "Object-based analyzing matrices",
+            "quantity": 9,
+            "unit_price": 10.69,
+            "total_price": 96.21
+        },
+        {
+            "description": "Public-key zero administration Graphical User Interface",
+            "quantity": 5,
+            "unit_price": 164.76,
+            "total_price": 823.8
+        }
+    ],
+    "amount": 3745.71
+}

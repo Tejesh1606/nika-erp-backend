@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Padilla and Sons",
+    "invoice_number": "INV-50862",
+    "date": "2026-02-27",
+    "items": [
+        {
+            "description": "Diverse bi-directional solution",
+            "quantity": 2,
+            "unit_price": 371.48,
+            "total_price": 742.96
+        }
+    ],
+    "amount": 742.96
+}

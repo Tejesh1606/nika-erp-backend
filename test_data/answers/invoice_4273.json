@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brown and Sons",
+    "invoice_number": "INV-70535",
+    "date": "2025-06-05",
+    "items": [
+        {
+            "description": "Public-key bottom-line groupware",
+            "quantity": 10,
+            "unit_price": 184.45,
+            "total_price": 1844.5
+        },
+        {
+            "description": "Enhanced coherent policy",
+            "quantity": 1,
+            "unit_price": 456.61,
+            "total_price": 456.61
+        },
+        {
+            "description": "Expanded context-sensitive challenge",
+            "quantity": 1,
+            "unit_price": 347.82,
+            "total_price": 347.82
+        }
+    ],
+    "amount": 2648.93
+}

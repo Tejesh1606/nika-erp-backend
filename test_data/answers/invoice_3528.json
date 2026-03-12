@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Burton-Peck",
+    "invoice_number": "INV-45587",
+    "date": "2025-07-31",
+    "items": [
+        {
+            "description": "Re-engineered contextually-based hub",
+            "quantity": 4,
+            "unit_price": 214.42,
+            "total_price": 857.68
+        },
+        {
+            "description": "Horizontal tertiary capability",
+            "quantity": 2,
+            "unit_price": 358.53,
+            "total_price": 717.06
+        },
+        {
+            "description": "De-engineered didactic migration",
+            "quantity": 4,
+            "unit_price": 92.2,
+            "total_price": 368.8
+        }
+    ],
+    "amount": 1943.54
+}

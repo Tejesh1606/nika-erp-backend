@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Morse, Morris and Carter",
+    "invoice_number": "INV-14048",
+    "date": "2025-05-28",
+    "items": [
+        {
+            "description": "Re-engineered maximized knowledgebase",
+            "quantity": 4,
+            "unit_price": 158.1,
+            "total_price": 632.4
+        }
+    ],
+    "amount": 632.4
+}

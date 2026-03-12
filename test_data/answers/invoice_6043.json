@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Baker and Sons",
+    "invoice_number": "INV-95309",
+    "date": "2025-05-08",
+    "items": [
+        {
+            "description": "Multi-channeled executive migration",
+            "quantity": 1,
+            "unit_price": 498.42,
+            "total_price": 498.42
+        },
+        {
+            "description": "Inverse object-oriented software",
+            "quantity": 10,
+            "unit_price": 19.67,
+            "total_price": 196.7
+        },
+        {
+            "description": "Down-sized motivating website",
+            "quantity": 6,
+            "unit_price": 247.63,
+            "total_price": 1485.78
+        },
+        {
+            "description": "Self-enabling context-sensitive synergy",
+            "quantity": 7,
+            "unit_price": 129.42,
+            "total_price": 905.94
+        }
+    ],
+    "amount": 3086.84
+}

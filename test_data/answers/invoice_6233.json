@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hunt and Sons",
+    "invoice_number": "INV-68693",
+    "date": "2025-06-25",
+    "items": [
+        {
+            "description": "Intuitive stable knowledge user",
+            "quantity": 9,
+            "unit_price": 186.0,
+            "total_price": 1674.0
+        }
+    ],
+    "amount": 1674.0
+}

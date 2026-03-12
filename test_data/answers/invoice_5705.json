@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Melendez-Long",
+    "invoice_number": "INV-89973",
+    "date": "2025-09-28",
+    "items": [
+        {
+            "description": "Grass-roots grid-enabled open system",
+            "quantity": 10,
+            "unit_price": 111.79,
+            "total_price": 1117.9
+        }
+    ],
+    "amount": 1117.9
+}

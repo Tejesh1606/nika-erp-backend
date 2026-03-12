@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Morrow-Rosales",
+    "invoice_number": "INV-16521",
+    "date": "2025-04-10",
+    "items": [
+        {
+            "description": "Grass-roots static parallelism",
+            "quantity": 8,
+            "unit_price": 30.43,
+            "total_price": 243.44
+        },
+        {
+            "description": "Persistent client-driven standardization",
+            "quantity": 8,
+            "unit_price": 279.5,
+            "total_price": 2236.0
+        },
+        {
+            "description": "Networked motivating capacity",
+            "quantity": 9,
+            "unit_price": 95.28,
+            "total_price": 857.52
+        },
+        {
+            "description": "Cross-platform bi-directional open system",
+            "quantity": 1,
+            "unit_price": 48.54,
+            "total_price": 48.54
+        }
+    ],
+    "amount": 3385.5
+}

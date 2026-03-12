@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Pace, Horton and Taylor",
+    "invoice_number": "INV-64206",
+    "date": "2025-07-12",
+    "items": [
+        {
+            "description": "Organized 4thgeneration conglomeration",
+            "quantity": 8,
+            "unit_price": 381.55,
+            "total_price": 3052.4
+        },
+        {
+            "description": "Persevering optimizing structure",
+            "quantity": 6,
+            "unit_price": 229.54,
+            "total_price": 1377.24
+        }
+    ],
+    "amount": 4429.64
+}

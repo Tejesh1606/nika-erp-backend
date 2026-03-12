@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hayes-Vasquez",
+    "invoice_number": "INV-10909",
+    "date": "2025-10-12",
+    "items": [
+        {
+            "description": "Streamlined uniform emulation",
+            "quantity": 3,
+            "unit_price": 412.94,
+            "total_price": 1238.82
+        },
+        {
+            "description": "Assimilated solution-oriented knowledge user",
+            "quantity": 4,
+            "unit_price": 25.75,
+            "total_price": 103.0
+        },
+        {
+            "description": "Object-based encompassing protocol",
+            "quantity": 1,
+            "unit_price": 369.68,
+            "total_price": 369.68
+        }
+    ],
+    "amount": 1711.5
+}

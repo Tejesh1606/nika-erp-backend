@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Chambers PLC",
+    "invoice_number": "INV-77108",
+    "date": "2025-05-02",
+    "items": [
+        {
+            "description": "Streamlined well-modulated core",
+            "quantity": 6,
+            "unit_price": 451.97,
+            "total_price": 2711.82
+        },
+        {
+            "description": "Progressive exuding secured line",
+            "quantity": 3,
+            "unit_price": 147.96,
+            "total_price": 443.88
+        }
+    ],
+    "amount": 3155.7
+}

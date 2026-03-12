@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Buck PLC",
+    "invoice_number": "INV-64471",
+    "date": "2025-09-07",
+    "items": [
+        {
+            "description": "Configurable demand-driven software",
+            "quantity": 8,
+            "unit_price": 282.31,
+            "total_price": 2258.48
+        },
+        {
+            "description": "Reverse-engineered modular array",
+            "quantity": 10,
+            "unit_price": 306.24,
+            "total_price": 3062.4
+        },
+        {
+            "description": "Robust bifurcated circuit",
+            "quantity": 10,
+            "unit_price": 81.46,
+            "total_price": 814.6
+        }
+    ],
+    "amount": 6135.48
+}

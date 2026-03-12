@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Clark, Robinson and Kane",
+    "invoice_number": "INV-53064",
+    "date": "2026-01-03",
+    "items": [
+        {
+            "description": "Digitized zero tolerance policy",
+            "quantity": 8,
+            "unit_price": 155.33,
+            "total_price": 1242.64
+        }
+    ],
+    "amount": 1242.64
+}

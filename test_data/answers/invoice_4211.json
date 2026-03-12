@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Buchanan, Abbott and Stevens",
+    "invoice_number": "INV-14495",
+    "date": "2025-09-21",
+    "items": [
+        {
+            "description": "Synchronized motivating framework",
+            "quantity": 3,
+            "unit_price": 198.52,
+            "total_price": 595.56
+        }
+    ],
+    "amount": 595.56
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Villarreal, Rhodes and Griffin",
+    "invoice_number": "INV-66293",
+    "date": "2025-10-26",
+    "items": [
+        {
+            "description": "Function-based modular algorithm",
+            "quantity": 5,
+            "unit_price": 328.66,
+            "total_price": 1643.3
+        },
+        {
+            "description": "Expanded bottom-line open architecture",
+            "quantity": 2,
+            "unit_price": 303.54,
+            "total_price": 607.08
+        },
+        {
+            "description": "Adaptive full-range customer loyalty",
+            "quantity": 7,
+            "unit_price": 300.98,
+            "total_price": 2106.86
+        }
+    ],
+    "amount": 4357.24
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "White PLC",
+    "invoice_number": "INV-48509",
+    "date": "2026-01-15",
+    "items": [
+        {
+            "description": "Adaptive leadingedge open system",
+            "quantity": 10,
+            "unit_price": 113.01,
+            "total_price": 1130.1
+        }
+    ],
+    "amount": 1130.1
+}

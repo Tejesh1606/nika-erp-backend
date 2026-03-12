@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Estrada Group",
+    "invoice_number": "INV-73099",
+    "date": "2025-07-15",
+    "items": [
+        {
+            "description": "Customer-focused foreground definition",
+            "quantity": 2,
+            "unit_price": 354.33,
+            "total_price": 708.66
+        },
+        {
+            "description": "Object-based stable intranet",
+            "quantity": 4,
+            "unit_price": 229.07,
+            "total_price": 916.28
+        },
+        {
+            "description": "Devolved actuating solution",
+            "quantity": 1,
+            "unit_price": 226.1,
+            "total_price": 226.1
+        }
+    ],
+    "amount": 1851.04
+}

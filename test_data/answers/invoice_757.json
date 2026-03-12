@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Solis LLC",
+    "invoice_number": "INV-52358",
+    "date": "2026-01-12",
+    "items": [
+        {
+            "description": "Centralized value-added archive",
+            "quantity": 7,
+            "unit_price": 372.07,
+            "total_price": 2604.49
+        },
+        {
+            "description": "Reactive real-time implementation",
+            "quantity": 5,
+            "unit_price": 39.87,
+            "total_price": 199.35
+        },
+        {
+            "description": "Cross-group impactful extranet",
+            "quantity": 4,
+            "unit_price": 214.44,
+            "total_price": 857.76
+        },
+        {
+            "description": "Enhanced disintermediate throughput",
+            "quantity": 10,
+            "unit_price": 38.18,
+            "total_price": 381.8
+        }
+    ],
+    "amount": 4043.4
+}

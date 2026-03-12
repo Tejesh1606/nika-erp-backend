@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Conway, Cook and Key",
+    "invoice_number": "INV-54756",
+    "date": "2025-05-31",
+    "items": [
+        {
+            "description": "Vision-oriented 24/7 software",
+            "quantity": 4,
+            "unit_price": 305.91,
+            "total_price": 1223.64
+        },
+        {
+            "description": "Organized cohesive leverage",
+            "quantity": 1,
+            "unit_price": 141.64,
+            "total_price": 141.64
+        },
+        {
+            "description": "Upgradable methodical capacity",
+            "quantity": 9,
+            "unit_price": 164.8,
+            "total_price": 1483.2
+        },
+        {
+            "description": "Progressive responsive strategy",
+            "quantity": 1,
+            "unit_price": 42.11,
+            "total_price": 42.11
+        }
+    ],
+    "amount": 2890.59
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Harris, Spencer and Ponce",
+    "invoice_number": "INV-96603",
+    "date": "2025-05-22",
+    "items": [
+        {
+            "description": "Innovative tangible info-mediaries",
+            "quantity": 7,
+            "unit_price": 160.93,
+            "total_price": 1126.51
+        },
+        {
+            "description": "Customer-focused responsive solution",
+            "quantity": 1,
+            "unit_price": 221.12,
+            "total_price": 221.12
+        },
+        {
+            "description": "Multi-channeled mobile artificial intelligence",
+            "quantity": 10,
+            "unit_price": 18.52,
+            "total_price": 185.2
+        }
+    ],
+    "amount": 1532.83
+}

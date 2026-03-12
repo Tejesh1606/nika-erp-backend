@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jones-Butler",
+    "invoice_number": "INV-48613",
+    "date": "2025-12-28",
+    "items": [
+        {
+            "description": "Reverse-engineered static middleware",
+            "quantity": 6,
+            "unit_price": 309.19,
+            "total_price": 1855.14
+        }
+    ],
+    "amount": 1855.14
+}

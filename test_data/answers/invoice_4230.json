@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Davis, Johnson and Blair",
+    "invoice_number": "INV-40895",
+    "date": "2025-07-22",
+    "items": [
+        {
+            "description": "Cloned zero tolerance task-force",
+            "quantity": 6,
+            "unit_price": 386.35,
+            "total_price": 2318.1
+        }
+    ],
+    "amount": 2318.1
+}

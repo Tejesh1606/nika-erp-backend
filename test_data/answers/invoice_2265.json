@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Sutton-Jensen",
+    "invoice_number": "INV-16675",
+    "date": "2025-12-14",
+    "items": [
+        {
+            "description": "Profit-focused empowering attitude",
+            "quantity": 2,
+            "unit_price": 349.78,
+            "total_price": 699.56
+        }
+    ],
+    "amount": 699.56
+}

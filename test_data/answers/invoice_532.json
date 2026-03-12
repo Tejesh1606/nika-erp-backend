@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Duncan, Hoffman and Shea",
+    "invoice_number": "INV-78714",
+    "date": "2025-06-12",
+    "items": [
+        {
+            "description": "Fully-configurable asynchronous flexibility",
+            "quantity": 9,
+            "unit_price": 117.55,
+            "total_price": 1057.95
+        },
+        {
+            "description": "Vision-oriented intermediate Graphic Interface",
+            "quantity": 4,
+            "unit_price": 275.4,
+            "total_price": 1101.6
+        },
+        {
+            "description": "Synergized object-oriented array",
+            "quantity": 10,
+            "unit_price": 188.99,
+            "total_price": 1889.9
+        },
+        {
+            "description": "Customizable static installation",
+            "quantity": 4,
+            "unit_price": 103.09,
+            "total_price": 412.36
+        }
+    ],
+    "amount": 4461.81
+}

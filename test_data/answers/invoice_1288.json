@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Boyer, Jefferson and Martin",
+    "invoice_number": "INV-58373",
+    "date": "2025-12-14",
+    "items": [
+        {
+            "description": "Front-line context-sensitive leverage",
+            "quantity": 1,
+            "unit_price": 18.46,
+            "total_price": 18.46
+        }
+    ],
+    "amount": 18.46
+}

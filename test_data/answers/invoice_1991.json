@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Phillips and Sons",
+    "invoice_number": "INV-43518",
+    "date": "2025-06-01",
+    "items": [
+        {
+            "description": "Open-source static challenge",
+            "quantity": 1,
+            "unit_price": 120.04,
+            "total_price": 120.04
+        },
+        {
+            "description": "User-centric global projection",
+            "quantity": 1,
+            "unit_price": 436.93,
+            "total_price": 436.93
+        }
+    ],
+    "amount": 556.97
+}

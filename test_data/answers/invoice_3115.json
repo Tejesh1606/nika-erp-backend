@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Vang and Sons",
+    "invoice_number": "INV-84439",
+    "date": "2026-02-09",
+    "items": [
+        {
+            "description": "Innovative well-modulated interface",
+            "quantity": 9,
+            "unit_price": 193.73,
+            "total_price": 1743.57
+        },
+        {
+            "description": "Team-oriented coherent flexibility",
+            "quantity": 8,
+            "unit_price": 215.5,
+            "total_price": 1724.0
+        }
+    ],
+    "amount": 3467.57
+}

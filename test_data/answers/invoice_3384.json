@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bennett, Vega and Dudley",
+    "invoice_number": "INV-55996",
+    "date": "2025-12-19",
+    "items": [
+        {
+            "description": "Networked stable utilization",
+            "quantity": 1,
+            "unit_price": 171.23,
+            "total_price": 171.23
+        },
+        {
+            "description": "Persistent demand-driven success",
+            "quantity": 7,
+            "unit_price": 108.5,
+            "total_price": 759.5
+        },
+        {
+            "description": "Triple-buffered contextually-based concept",
+            "quantity": 4,
+            "unit_price": 248.33,
+            "total_price": 993.32
+        }
+    ],
+    "amount": 1924.05
+}

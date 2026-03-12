@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Boone Ltd",
+    "invoice_number": "INV-25515",
+    "date": "2026-01-11",
+    "items": [
+        {
+            "description": "Optimized coherent budgetary management",
+            "quantity": 8,
+            "unit_price": 34.98,
+            "total_price": 279.84
+        }
+    ],
+    "amount": 279.84
+}

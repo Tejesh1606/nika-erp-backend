@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rios, Burton and Williams",
+    "invoice_number": "INV-34986",
+    "date": "2025-03-12",
+    "items": [
+        {
+            "description": "Persevering asynchronous approach",
+            "quantity": 8,
+            "unit_price": 18.68,
+            "total_price": 149.44
+        },
+        {
+            "description": "Quality-focused asymmetric task-force",
+            "quantity": 1,
+            "unit_price": 400.85,
+            "total_price": 400.85
+        },
+        {
+            "description": "Optimized object-oriented support",
+            "quantity": 6,
+            "unit_price": 131.37,
+            "total_price": 788.22
+        },
+        {
+            "description": "Down-sized composite database",
+            "quantity": 7,
+            "unit_price": 326.97,
+            "total_price": 2288.79
+        }
+    ],
+    "amount": 3627.3
+}

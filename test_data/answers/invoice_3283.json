@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Stevenson Ltd",
+    "invoice_number": "INV-58099",
+    "date": "2025-05-03",
+    "items": [
+        {
+            "description": "Centralized logistical secured line",
+            "quantity": 9,
+            "unit_price": 226.52,
+            "total_price": 2038.68
+        },
+        {
+            "description": "Vision-oriented multi-tasking project",
+            "quantity": 3,
+            "unit_price": 77.7,
+            "total_price": 233.1
+        }
+    ],
+    "amount": 2271.78
+}

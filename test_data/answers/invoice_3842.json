@@ -1,0 +1,14 @@
+{
+    "vendor_name": "White-Smith",
+    "invoice_number": "INV-30091",
+    "date": "2025-06-10",
+    "items": [
+        {
+            "description": "Reduced bandwidth-monitored hierarchy",
+            "quantity": 5,
+            "unit_price": 208.41,
+            "total_price": 1042.05
+        }
+    ],
+    "amount": 1042.05
+}

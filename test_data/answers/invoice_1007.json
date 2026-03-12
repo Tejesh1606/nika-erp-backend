@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Carson, Rodriguez and Jackson",
+    "invoice_number": "INV-24435",
+    "date": "2025-06-04",
+    "items": [
+        {
+            "description": "Customer-focused executive help-desk",
+            "quantity": 6,
+            "unit_price": 469.67,
+            "total_price": 2818.02
+        },
+        {
+            "description": "Compatible reciprocal groupware",
+            "quantity": 2,
+            "unit_price": 350.26,
+            "total_price": 700.52
+        },
+        {
+            "description": "Decentralized high-level artificial intelligence",
+            "quantity": 4,
+            "unit_price": 297.91,
+            "total_price": 1191.64
+        }
+    ],
+    "amount": 4710.18
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Green and Sons",
+    "invoice_number": "INV-89443",
+    "date": "2025-06-18",
+    "items": [
+        {
+            "description": "Digitized optimizing access",
+            "quantity": 5,
+            "unit_price": 283.02,
+            "total_price": 1415.1
+        },
+        {
+            "description": "Automated multimedia service-desk",
+            "quantity": 8,
+            "unit_price": 251.73,
+            "total_price": 2013.84
+        },
+        {
+            "description": "Switchable multi-tasking parallelism",
+            "quantity": 4,
+            "unit_price": 202.08,
+            "total_price": 808.32
+        }
+    ],
+    "amount": 4237.26
+}

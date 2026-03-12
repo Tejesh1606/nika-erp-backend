@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hatfield Inc",
+    "invoice_number": "INV-68591",
+    "date": "2025-10-05",
+    "items": [
+        {
+            "description": "Inverse bandwidth-monitored initiative",
+            "quantity": 3,
+            "unit_price": 128.11,
+            "total_price": 384.33
+        }
+    ],
+    "amount": 384.33
+}

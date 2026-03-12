@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Carter Inc",
+    "invoice_number": "INV-72020",
+    "date": "2026-03-06",
+    "items": [
+        {
+            "description": "Multi-channeled dynamic workforce",
+            "quantity": 10,
+            "unit_price": 245.91,
+            "total_price": 2459.1
+        }
+    ],
+    "amount": 2459.1
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Phillips, Graves and Torres",
+    "invoice_number": "INV-43154",
+    "date": "2025-10-04",
+    "items": [
+        {
+            "description": "Digitized bifurcated migration",
+            "quantity": 5,
+            "unit_price": 36.53,
+            "total_price": 182.65
+        }
+    ],
+    "amount": 182.65
+}

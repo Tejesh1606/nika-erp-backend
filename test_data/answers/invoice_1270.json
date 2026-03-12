@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Rodgers, Wright and Miller",
+    "invoice_number": "INV-22395",
+    "date": "2025-04-26",
+    "items": [
+        {
+            "description": "Upgradable client-server productivity",
+            "quantity": 5,
+            "unit_price": 180.62,
+            "total_price": 903.1
+        },
+        {
+            "description": "Proactive intermediate focus group",
+            "quantity": 9,
+            "unit_price": 324.82,
+            "total_price": 2923.38
+        },
+        {
+            "description": "Monitored logistical solution",
+            "quantity": 8,
+            "unit_price": 214.7,
+            "total_price": 1717.6
+        }
+    ],
+    "amount": 5544.08
+}

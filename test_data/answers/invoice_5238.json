@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hodges Inc",
+    "invoice_number": "INV-32522",
+    "date": "2026-01-20",
+    "items": [
+        {
+            "description": "Quality-focused empowering toolset",
+            "quantity": 9,
+            "unit_price": 326.44,
+            "total_price": 2937.96
+        },
+        {
+            "description": "Realigned demand-driven implementation",
+            "quantity": 10,
+            "unit_price": 171.0,
+            "total_price": 1710.0
+        },
+        {
+            "description": "Right-sized foreground time-frame",
+            "quantity": 10,
+            "unit_price": 151.87,
+            "total_price": 1518.7
+        },
+        {
+            "description": "Multi-lateral optimizing hierarchy",
+            "quantity": 8,
+            "unit_price": 68.38,
+            "total_price": 547.04
+        }
+    ],
+    "amount": 6713.7
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lucas, Nichols and Castillo",
+    "invoice_number": "INV-10055",
+    "date": "2026-02-17",
+    "items": [
+        {
+            "description": "Up-sized methodical help-desk",
+            "quantity": 8,
+            "unit_price": 135.8,
+            "total_price": 1086.4
+        },
+        {
+            "description": "Assimilated bi-directional core",
+            "quantity": 2,
+            "unit_price": 21.19,
+            "total_price": 42.38
+        },
+        {
+            "description": "Re-engineered solution-oriented service-desk",
+            "quantity": 7,
+            "unit_price": 93.49,
+            "total_price": 654.43
+        }
+    ],
+    "amount": 1783.21
+}

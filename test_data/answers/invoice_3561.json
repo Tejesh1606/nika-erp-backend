@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Baldwin-Grimes",
+    "invoice_number": "INV-27994",
+    "date": "2025-03-28",
+    "items": [
+        {
+            "description": "Fully-configurable fresh-thinking artificial intelligence",
+            "quantity": 7,
+            "unit_price": 84.18,
+            "total_price": 589.26
+        },
+        {
+            "description": "Self-enabling object-oriented array",
+            "quantity": 4,
+            "unit_price": 298.21,
+            "total_price": 1192.84
+        }
+    ],
+    "amount": 1782.1
+}

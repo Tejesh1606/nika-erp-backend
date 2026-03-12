@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jones-Johnson",
+    "invoice_number": "INV-85431",
+    "date": "2025-05-10",
+    "items": [
+        {
+            "description": "Reactive background standardization",
+            "quantity": 8,
+            "unit_price": 318.24,
+            "total_price": 2545.92
+        }
+    ],
+    "amount": 2545.92
+}

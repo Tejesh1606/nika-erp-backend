@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Smith PLC",
+    "invoice_number": "INV-83325",
+    "date": "2025-05-23",
+    "items": [
+        {
+            "description": "Cloned next generation knowledgebase",
+            "quantity": 3,
+            "unit_price": 345.85,
+            "total_price": 1037.55
+        },
+        {
+            "description": "Face-to-face 4thgeneration secured line",
+            "quantity": 3,
+            "unit_price": 285.3,
+            "total_price": 855.9
+        }
+    ],
+    "amount": 1893.45
+}

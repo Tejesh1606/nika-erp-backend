@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Turner PLC",
+    "invoice_number": "INV-53636",
+    "date": "2026-02-10",
+    "items": [
+        {
+            "description": "Virtual clear-thinking toolset",
+            "quantity": 1,
+            "unit_price": 265.42,
+            "total_price": 265.42
+        },
+        {
+            "description": "Virtual multimedia task-force",
+            "quantity": 1,
+            "unit_price": 128.92,
+            "total_price": 128.92
+        },
+        {
+            "description": "Cross-platform solution-oriented firmware",
+            "quantity": 9,
+            "unit_price": 431.01,
+            "total_price": 3879.09
+        },
+        {
+            "description": "Horizontal methodical open architecture",
+            "quantity": 6,
+            "unit_price": 390.75,
+            "total_price": 2344.5
+        }
+    ],
+    "amount": 6617.93
+}

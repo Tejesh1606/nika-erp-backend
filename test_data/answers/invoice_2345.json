@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Evans Group",
+    "invoice_number": "INV-22274",
+    "date": "2025-04-11",
+    "items": [
+        {
+            "description": "Reverse-engineered directional implementation",
+            "quantity": 8,
+            "unit_price": 320.03,
+            "total_price": 2560.24
+        },
+        {
+            "description": "Adaptive system-worthy analyzer",
+            "quantity": 10,
+            "unit_price": 182.66,
+            "total_price": 1826.6
+        },
+        {
+            "description": "Operative 3rdgeneration moderator",
+            "quantity": 3,
+            "unit_price": 102.98,
+            "total_price": 308.94
+        },
+        {
+            "description": "Digitized maximized matrix",
+            "quantity": 1,
+            "unit_price": 407.59,
+            "total_price": 407.59
+        }
+    ],
+    "amount": 5103.37
+}

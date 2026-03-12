@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Phillips PLC",
+    "invoice_number": "INV-50579",
+    "date": "2025-10-16",
+    "items": [
+        {
+            "description": "Secured content-based conglomeration",
+            "quantity": 3,
+            "unit_price": 415.57,
+            "total_price": 1246.71
+        }
+    ],
+    "amount": 1246.71
+}

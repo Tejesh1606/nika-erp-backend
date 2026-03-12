@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Munoz, Pham and Coffey",
+    "invoice_number": "INV-64317",
+    "date": "2025-10-04",
+    "items": [
+        {
+            "description": "User-friendly empowering focus group",
+            "quantity": 6,
+            "unit_price": 310.86,
+            "total_price": 1865.16
+        },
+        {
+            "description": "Inverse intermediate Graphic Interface",
+            "quantity": 6,
+            "unit_price": 431.56,
+            "total_price": 2589.36
+        },
+        {
+            "description": "Triple-buffered local synergy",
+            "quantity": 6,
+            "unit_price": 406.72,
+            "total_price": 2440.32
+        }
+    ],
+    "amount": 6894.84
+}

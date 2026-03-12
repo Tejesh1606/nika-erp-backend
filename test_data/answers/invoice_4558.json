@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brown-Ramirez",
+    "invoice_number": "INV-93869",
+    "date": "2025-05-13",
+    "items": [
+        {
+            "description": "Switchable zero tolerance data-warehouse",
+            "quantity": 1,
+            "unit_price": 268.91,
+            "total_price": 268.91
+        },
+        {
+            "description": "Switchable bi-directional hub",
+            "quantity": 2,
+            "unit_price": 144.48,
+            "total_price": 288.96
+        },
+        {
+            "description": "Re-contextualized incremental productivity",
+            "quantity": 8,
+            "unit_price": 436.64,
+            "total_price": 3493.12
+        }
+    ],
+    "amount": 4050.99
+}

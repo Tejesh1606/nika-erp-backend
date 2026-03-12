@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Moran-Sampson",
+    "invoice_number": "INV-27276",
+    "date": "2025-03-27",
+    "items": [
+        {
+            "description": "De-engineered needs-based frame",
+            "quantity": 9,
+            "unit_price": 147.35,
+            "total_price": 1326.15
+        },
+        {
+            "description": "Persevering asymmetric website",
+            "quantity": 1,
+            "unit_price": 225.83,
+            "total_price": 225.83
+        }
+    ],
+    "amount": 1551.98
+}

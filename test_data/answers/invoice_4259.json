@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Smith, Sanchez and Williams",
+    "invoice_number": "INV-37180",
+    "date": "2025-10-10",
+    "items": [
+        {
+            "description": "Synergized national definition",
+            "quantity": 4,
+            "unit_price": 190.12,
+            "total_price": 760.48
+        },
+        {
+            "description": "Ergonomic dedicated benchmark",
+            "quantity": 6,
+            "unit_price": 390.85,
+            "total_price": 2345.1
+        }
+    ],
+    "amount": 3105.58
+}

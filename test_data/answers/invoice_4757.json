@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bowman-Smith",
+    "invoice_number": "INV-37420",
+    "date": "2026-02-26",
+    "items": [
+        {
+            "description": "Diverse local attitude",
+            "quantity": 1,
+            "unit_price": 380.51,
+            "total_price": 380.51
+        },
+        {
+            "description": "Public-key scalable middleware",
+            "quantity": 10,
+            "unit_price": 233.42,
+            "total_price": 2334.2
+        },
+        {
+            "description": "Organized heuristic model",
+            "quantity": 2,
+            "unit_price": 417.39,
+            "total_price": 834.78
+        }
+    ],
+    "amount": 3549.49
+}

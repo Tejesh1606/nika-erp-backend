@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mcdonald LLC",
+    "invoice_number": "INV-50769",
+    "date": "2026-01-25",
+    "items": [
+        {
+            "description": "Sharable client-driven framework",
+            "quantity": 9,
+            "unit_price": 426.56,
+            "total_price": 3839.04
+        },
+        {
+            "description": "Inverse background software",
+            "quantity": 6,
+            "unit_price": 88.54,
+            "total_price": 531.24
+        },
+        {
+            "description": "Sharable regional approach",
+            "quantity": 1,
+            "unit_price": 345.8,
+            "total_price": 345.8
+        }
+    ],
+    "amount": 4716.08
+}

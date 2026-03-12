@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Vargas Ltd",
+    "invoice_number": "INV-36152",
+    "date": "2025-09-02",
+    "items": [
+        {
+            "description": "Self-enabling zero administration paradigm",
+            "quantity": 8,
+            "unit_price": 240.55,
+            "total_price": 1924.4
+        },
+        {
+            "description": "Automated responsive architecture",
+            "quantity": 5,
+            "unit_price": 451.24,
+            "total_price": 2256.2
+        },
+        {
+            "description": "Object-based neutral moderator",
+            "quantity": 3,
+            "unit_price": 324.95,
+            "total_price": 974.85
+        },
+        {
+            "description": "Horizontal systematic access",
+            "quantity": 4,
+            "unit_price": 137.28,
+            "total_price": 549.12
+        }
+    ],
+    "amount": 5704.57
+}

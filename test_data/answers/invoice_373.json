@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lam, Pena and Walker",
+    "invoice_number": "INV-39272",
+    "date": "2025-12-23",
+    "items": [
+        {
+            "description": "Integrated intangible toolset",
+            "quantity": 6,
+            "unit_price": 434.19,
+            "total_price": 2605.14
+        },
+        {
+            "description": "Managed holistic firmware",
+            "quantity": 4,
+            "unit_price": 244.82,
+            "total_price": 979.28
+        },
+        {
+            "description": "Reduced explicit Local Area Network",
+            "quantity": 1,
+            "unit_price": 59.55,
+            "total_price": 59.55
+        }
+    ],
+    "amount": 3643.97
+}

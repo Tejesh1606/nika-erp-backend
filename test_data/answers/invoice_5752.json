@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jones Group",
+    "invoice_number": "INV-42716",
+    "date": "2025-06-05",
+    "items": [
+        {
+            "description": "Pre-emptive stable alliance",
+            "quantity": 9,
+            "unit_price": 134.46,
+            "total_price": 1210.14
+        }
+    ],
+    "amount": 1210.14
+}

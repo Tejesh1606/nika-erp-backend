@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wong Ltd",
+    "invoice_number": "INV-89319",
+    "date": "2025-07-30",
+    "items": [
+        {
+            "description": "Inverse attitude-oriented strategy",
+            "quantity": 9,
+            "unit_price": 39.69,
+            "total_price": 357.21
+        },
+        {
+            "description": "Reactive empowering success",
+            "quantity": 5,
+            "unit_price": 124.7,
+            "total_price": 623.5
+        }
+    ],
+    "amount": 980.71
+}

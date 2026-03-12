@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hicks, Nelson and Macdonald",
+    "invoice_number": "INV-86765",
+    "date": "2025-05-30",
+    "items": [
+        {
+            "description": "Reduced 24hour moderator",
+            "quantity": 10,
+            "unit_price": 223.21,
+            "total_price": 2232.1
+        },
+        {
+            "description": "Visionary object-oriented contingency",
+            "quantity": 9,
+            "unit_price": 379.45,
+            "total_price": 3415.05
+        }
+    ],
+    "amount": 5647.15
+}

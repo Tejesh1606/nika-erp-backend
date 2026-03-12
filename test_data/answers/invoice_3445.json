@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hawkins, Lopez and Johnson",
+    "invoice_number": "INV-16037",
+    "date": "2025-06-13",
+    "items": [
+        {
+            "description": "Function-based global hierarchy",
+            "quantity": 9,
+            "unit_price": 247.54,
+            "total_price": 2227.86
+        },
+        {
+            "description": "Focused neutral support",
+            "quantity": 7,
+            "unit_price": 73.86,
+            "total_price": 517.02
+        },
+        {
+            "description": "Progressive contextually-based migration",
+            "quantity": 2,
+            "unit_price": 342.01,
+            "total_price": 684.02
+        }
+    ],
+    "amount": 3428.9
+}

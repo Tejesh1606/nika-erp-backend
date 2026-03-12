@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Yang-Davis",
+    "invoice_number": "INV-30106",
+    "date": "2025-03-19",
+    "items": [
+        {
+            "description": "Open-architected incremental matrices",
+            "quantity": 6,
+            "unit_price": 213.61,
+            "total_price": 1281.66
+        },
+        {
+            "description": "Automated bi-directional functionalities",
+            "quantity": 5,
+            "unit_price": 13.82,
+            "total_price": 69.1
+        },
+        {
+            "description": "Compatible eco-centric functionalities",
+            "quantity": 8,
+            "unit_price": 418.73,
+            "total_price": 3349.84
+        },
+        {
+            "description": "User-centric optimizing open system",
+            "quantity": 7,
+            "unit_price": 435.51,
+            "total_price": 3048.57
+        }
+    ],
+    "amount": 7749.17
+}

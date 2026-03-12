@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Luna, Henderson and Smith",
+    "invoice_number": "INV-22572",
+    "date": "2025-08-05",
+    "items": [
+        {
+            "description": "Pre-emptive stable frame",
+            "quantity": 5,
+            "unit_price": 277.97,
+            "total_price": 1389.85
+        },
+        {
+            "description": "Fundamental non-volatile success",
+            "quantity": 5,
+            "unit_price": 144.62,
+            "total_price": 723.1
+        },
+        {
+            "description": "Synergized contextually-based database",
+            "quantity": 4,
+            "unit_price": 167.72,
+            "total_price": 670.88
+        },
+        {
+            "description": "Horizontal system-worthy database",
+            "quantity": 10,
+            "unit_price": 437.94,
+            "total_price": 4379.4
+        }
+    ],
+    "amount": 7163.23
+}

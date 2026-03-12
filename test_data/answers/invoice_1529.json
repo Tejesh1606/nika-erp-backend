@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Thomas and Sons",
+    "invoice_number": "INV-76829",
+    "date": "2025-05-04",
+    "items": [
+        {
+            "description": "Virtual asymmetric matrices",
+            "quantity": 3,
+            "unit_price": 487.81,
+            "total_price": 1463.43
+        }
+    ],
+    "amount": 1463.43
+}

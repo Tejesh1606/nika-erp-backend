@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lopez Group",
+    "invoice_number": "INV-77856",
+    "date": "2025-06-21",
+    "items": [
+        {
+            "description": "Adaptive uniform process improvement",
+            "quantity": 9,
+            "unit_price": 383.14,
+            "total_price": 3448.26
+        },
+        {
+            "description": "Cross-group dedicated flexibility",
+            "quantity": 2,
+            "unit_price": 429.03,
+            "total_price": 858.06
+        },
+        {
+            "description": "Compatible responsive matrix",
+            "quantity": 4,
+            "unit_price": 43.72,
+            "total_price": 174.88
+        },
+        {
+            "description": "Profit-focused asymmetric access",
+            "quantity": 7,
+            "unit_price": 356.49,
+            "total_price": 2495.43
+        }
+    ],
+    "amount": 6976.63
+}

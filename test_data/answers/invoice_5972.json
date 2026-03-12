@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Austin-Dalton",
+    "invoice_number": "INV-36298",
+    "date": "2025-03-21",
+    "items": [
+        {
+            "description": "Extended mobile extranet",
+            "quantity": 6,
+            "unit_price": 126.47,
+            "total_price": 758.82
+        },
+        {
+            "description": "Profound high-level project",
+            "quantity": 3,
+            "unit_price": 486.86,
+            "total_price": 1460.58
+        },
+        {
+            "description": "Business-focused multi-tasking data-warehouse",
+            "quantity": 1,
+            "unit_price": 62.5,
+            "total_price": 62.5
+        },
+        {
+            "description": "Organic encompassing definition",
+            "quantity": 10,
+            "unit_price": 197.44,
+            "total_price": 1974.4
+        }
+    ],
+    "amount": 4256.3
+}

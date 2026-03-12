@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Black, Welch and King",
+    "invoice_number": "INV-45155",
+    "date": "2026-03-06",
+    "items": [
+        {
+            "description": "Future-proofed executive policy",
+            "quantity": 4,
+            "unit_price": 31.68,
+            "total_price": 126.72
+        },
+        {
+            "description": "Profound discrete functionalities",
+            "quantity": 7,
+            "unit_price": 237.95,
+            "total_price": 1665.65
+        },
+        {
+            "description": "Inverse disintermediate open system",
+            "quantity": 10,
+            "unit_price": 302.4,
+            "total_price": 3024.0
+        },
+        {
+            "description": "Ergonomic grid-enabled function",
+            "quantity": 6,
+            "unit_price": 468.27,
+            "total_price": 2809.62
+        }
+    ],
+    "amount": 7625.99
+}

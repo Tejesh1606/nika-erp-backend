@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Meyers, Thompson and Cobb",
+    "invoice_number": "INV-14230",
+    "date": "2025-03-09",
+    "items": [
+        {
+            "description": "Assimilated coherent infrastructure",
+            "quantity": 6,
+            "unit_price": 164.7,
+            "total_price": 988.2
+        },
+        {
+            "description": "Visionary maximized hardware",
+            "quantity": 2,
+            "unit_price": 439.43,
+            "total_price": 878.86
+        },
+        {
+            "description": "Mandatory empowering knowledge user",
+            "quantity": 5,
+            "unit_price": 417.16,
+            "total_price": 2085.8
+        }
+    ],
+    "amount": 3952.86
+}

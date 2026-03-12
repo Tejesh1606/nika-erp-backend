@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gomez Inc",
+    "invoice_number": "INV-78762",
+    "date": "2025-06-10",
+    "items": [
+        {
+            "description": "Devolved tangible leverage",
+            "quantity": 10,
+            "unit_price": 365.56,
+            "total_price": 3655.6
+        }
+    ],
+    "amount": 3655.6
+}

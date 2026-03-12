@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Johnson Ltd",
+    "invoice_number": "INV-34885",
+    "date": "2025-11-30",
+    "items": [
+        {
+            "description": "Synergistic upward-trending encoding",
+            "quantity": 7,
+            "unit_price": 181.73,
+            "total_price": 1272.11
+        },
+        {
+            "description": "Triple-buffered didactic orchestration",
+            "quantity": 2,
+            "unit_price": 135.45,
+            "total_price": 270.9
+        },
+        {
+            "description": "Optional dynamic methodology",
+            "quantity": 6,
+            "unit_price": 127.23,
+            "total_price": 763.38
+        }
+    ],
+    "amount": 2306.39
+}

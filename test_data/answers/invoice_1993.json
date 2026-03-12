@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Clements, Williamson and Singh",
+    "invoice_number": "INV-63420",
+    "date": "2025-05-05",
+    "items": [
+        {
+            "description": "Sharable disintermediate success",
+            "quantity": 4,
+            "unit_price": 412.99,
+            "total_price": 1651.96
+        },
+        {
+            "description": "Integrated transitional artificial intelligence",
+            "quantity": 3,
+            "unit_price": 482.79,
+            "total_price": 1448.37
+        }
+    ],
+    "amount": 3100.33
+}

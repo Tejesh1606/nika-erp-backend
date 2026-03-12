@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Simpson, Gentry and Hill",
+    "invoice_number": "INV-16364",
+    "date": "2025-10-12",
+    "items": [
+        {
+            "description": "Operative dedicated encryption",
+            "quantity": 7,
+            "unit_price": 203.0,
+            "total_price": 1421.0
+        },
+        {
+            "description": "Enterprise-wide didactic framework",
+            "quantity": 5,
+            "unit_price": 231.95,
+            "total_price": 1159.75
+        },
+        {
+            "description": "Extended 4thgeneration website",
+            "quantity": 5,
+            "unit_price": 268.72,
+            "total_price": 1343.6
+        }
+    ],
+    "amount": 3924.35
+}

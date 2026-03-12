@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Caldwell Group",
+    "invoice_number": "INV-40388",
+    "date": "2025-08-02",
+    "items": [
+        {
+            "description": "Visionary secondary project",
+            "quantity": 10,
+            "unit_price": 17.11,
+            "total_price": 171.1
+        },
+        {
+            "description": "Automated regional approach",
+            "quantity": 4,
+            "unit_price": 466.37,
+            "total_price": 1865.48
+        },
+        {
+            "description": "Profound full-range intranet",
+            "quantity": 9,
+            "unit_price": 156.36,
+            "total_price": 1407.24
+        }
+    ],
+    "amount": 3443.82
+}

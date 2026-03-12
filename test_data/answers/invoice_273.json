@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Chapman, Mason and Cooper",
+    "invoice_number": "INV-13219",
+    "date": "2025-09-12",
+    "items": [
+        {
+            "description": "Customer-focused explicit instruction set",
+            "quantity": 5,
+            "unit_price": 202.78,
+            "total_price": 1013.9
+        },
+        {
+            "description": "Configurable bifurcated superstructure",
+            "quantity": 2,
+            "unit_price": 359.44,
+            "total_price": 718.88
+        },
+        {
+            "description": "Digitized grid-enabled function",
+            "quantity": 8,
+            "unit_price": 139.64,
+            "total_price": 1117.12
+        },
+        {
+            "description": "Mandatory logistical toolset",
+            "quantity": 3,
+            "unit_price": 70.23,
+            "total_price": 210.69
+        }
+    ],
+    "amount": 3060.59
+}

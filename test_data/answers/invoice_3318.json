@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Garcia, Curry and Adams",
+    "invoice_number": "INV-20416",
+    "date": "2025-07-30",
+    "items": [
+        {
+            "description": "Organic context-sensitive moratorium",
+            "quantity": 2,
+            "unit_price": 178.5,
+            "total_price": 357.0
+        },
+        {
+            "description": "Customizable tertiary function",
+            "quantity": 2,
+            "unit_price": 293.01,
+            "total_price": 586.02
+        },
+        {
+            "description": "Universal didactic standardization",
+            "quantity": 9,
+            "unit_price": 52.18,
+            "total_price": 469.62
+        },
+        {
+            "description": "Multi-tiered asymmetric archive",
+            "quantity": 6,
+            "unit_price": 319.27,
+            "total_price": 1915.62
+        }
+    ],
+    "amount": 3328.26
+}

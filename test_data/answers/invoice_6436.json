@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Holmes-Wheeler",
+    "invoice_number": "INV-49299",
+    "date": "2025-05-06",
+    "items": [
+        {
+            "description": "Mandatory didactic complexity",
+            "quantity": 6,
+            "unit_price": 91.78,
+            "total_price": 550.68
+        },
+        {
+            "description": "Profound content-based infrastructure",
+            "quantity": 4,
+            "unit_price": 419.57,
+            "total_price": 1678.28
+        },
+        {
+            "description": "Reduced discrete ability",
+            "quantity": 4,
+            "unit_price": 330.89,
+            "total_price": 1323.56
+        },
+        {
+            "description": "Self-enabling neutral algorithm",
+            "quantity": 7,
+            "unit_price": 470.74,
+            "total_price": 3295.18
+        }
+    ],
+    "amount": 6847.7
+}

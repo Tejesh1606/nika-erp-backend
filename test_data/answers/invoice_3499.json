@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lewis-Morris",
+    "invoice_number": "INV-95891",
+    "date": "2025-07-31",
+    "items": [
+        {
+            "description": "Future-proofed tertiary leverage",
+            "quantity": 5,
+            "unit_price": 42.24,
+            "total_price": 211.2
+        },
+        {
+            "description": "Progressive optimizing database",
+            "quantity": 3,
+            "unit_price": 350.23,
+            "total_price": 1050.69
+        },
+        {
+            "description": "Mandatory 3rdgeneration workforce",
+            "quantity": 5,
+            "unit_price": 183.65,
+            "total_price": 918.25
+        },
+        {
+            "description": "Monitored static system engine",
+            "quantity": 9,
+            "unit_price": 18.56,
+            "total_price": 167.04
+        }
+    ],
+    "amount": 2347.18
+}

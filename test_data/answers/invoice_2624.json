@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Howard-Hernandez",
+    "invoice_number": "INV-89657",
+    "date": "2026-01-14",
+    "items": [
+        {
+            "description": "Quality-focused interactive access",
+            "quantity": 9,
+            "unit_price": 265.13,
+            "total_price": 2386.17
+        }
+    ],
+    "amount": 2386.17
+}

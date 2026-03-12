@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Harmon, Miller and Miller",
+    "invoice_number": "INV-33254",
+    "date": "2025-04-22",
+    "items": [
+        {
+            "description": "Mandatory 6thgeneration system engine",
+            "quantity": 7,
+            "unit_price": 356.21,
+            "total_price": 2493.47
+        },
+        {
+            "description": "Front-line upward-trending orchestration",
+            "quantity": 2,
+            "unit_price": 19.8,
+            "total_price": 39.6
+        },
+        {
+            "description": "Synergized impactful standardization",
+            "quantity": 7,
+            "unit_price": 365.85,
+            "total_price": 2560.95
+        },
+        {
+            "description": "Intuitive grid-enabled neural-net",
+            "quantity": 1,
+            "unit_price": 127.88,
+            "total_price": 127.88
+        }
+    ],
+    "amount": 5221.9
+}

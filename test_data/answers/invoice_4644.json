@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Johnson, Bailey and Moreno",
+    "invoice_number": "INV-36890",
+    "date": "2026-01-17",
+    "items": [
+        {
+            "description": "Robust zero administration analyzer",
+            "quantity": 5,
+            "unit_price": 214.77,
+            "total_price": 1073.85
+        },
+        {
+            "description": "Mandatory content-based access",
+            "quantity": 5,
+            "unit_price": 344.96,
+            "total_price": 1724.8
+        },
+        {
+            "description": "Optional mobile definition",
+            "quantity": 4,
+            "unit_price": 212.22,
+            "total_price": 848.88
+        }
+    ],
+    "amount": 3647.53
+}

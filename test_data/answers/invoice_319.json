@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Harris and Sons",
+    "invoice_number": "INV-65026",
+    "date": "2025-09-16",
+    "items": [
+        {
+            "description": "Centralized client-server structure",
+            "quantity": 6,
+            "unit_price": 389.38,
+            "total_price": 2336.28
+        },
+        {
+            "description": "Grass-roots background analyzer",
+            "quantity": 4,
+            "unit_price": 399.58,
+            "total_price": 1598.32
+        }
+    ],
+    "amount": 3934.6
+}

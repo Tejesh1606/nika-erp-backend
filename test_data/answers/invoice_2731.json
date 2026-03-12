@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith PLC",
+    "invoice_number": "INV-34069",
+    "date": "2025-06-18",
+    "items": [
+        {
+            "description": "Future-proofed radical strategy",
+            "quantity": 4,
+            "unit_price": 270.3,
+            "total_price": 1081.2
+        }
+    ],
+    "amount": 1081.2
+}

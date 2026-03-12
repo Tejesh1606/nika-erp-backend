@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Shaffer, Lewis and Davidson",
+    "invoice_number": "INV-46913",
+    "date": "2025-06-15",
+    "items": [
+        {
+            "description": "Cloned fault-tolerant framework",
+            "quantity": 10,
+            "unit_price": 452.47,
+            "total_price": 4524.7
+        },
+        {
+            "description": "Profit-focused neutral Graphic Interface",
+            "quantity": 1,
+            "unit_price": 333.51,
+            "total_price": 333.51
+        },
+        {
+            "description": "Visionary 24hour budgetary management",
+            "quantity": 8,
+            "unit_price": 182.93,
+            "total_price": 1463.44
+        },
+        {
+            "description": "Synergized full-range Graphical User Interface",
+            "quantity": 3,
+            "unit_price": 347.94,
+            "total_price": 1043.82
+        }
+    ],
+    "amount": 7365.47
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wilson, Yang and Smith",
+    "invoice_number": "INV-11610",
+    "date": "2025-06-11",
+    "items": [
+        {
+            "description": "Balanced methodical hierarchy",
+            "quantity": 8,
+            "unit_price": 44.83,
+            "total_price": 358.64
+        },
+        {
+            "description": "Networked coherent conglomeration",
+            "quantity": 7,
+            "unit_price": 249.45,
+            "total_price": 1746.15
+        },
+        {
+            "description": "Automated neutral website",
+            "quantity": 3,
+            "unit_price": 196.09,
+            "total_price": 588.27
+        },
+        {
+            "description": "Universal user-facing projection",
+            "quantity": 10,
+            "unit_price": 479.6,
+            "total_price": 4796.0
+        }
+    ],
+    "amount": 7489.06
+}

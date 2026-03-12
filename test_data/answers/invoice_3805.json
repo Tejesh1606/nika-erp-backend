@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bush PLC",
+    "invoice_number": "INV-19158",
+    "date": "2026-01-25",
+    "items": [
+        {
+            "description": "De-engineered real-time portal",
+            "quantity": 6,
+            "unit_price": 115.63,
+            "total_price": 693.78
+        },
+        {
+            "description": "Balanced directional knowledge user",
+            "quantity": 6,
+            "unit_price": 189.81,
+            "total_price": 1138.86
+        }
+    ],
+    "amount": 1832.64
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Fleming-Payne",
+    "invoice_number": "INV-53071",
+    "date": "2025-04-16",
+    "items": [
+        {
+            "description": "Robust well-modulated definition",
+            "quantity": 2,
+            "unit_price": 481.99,
+            "total_price": 963.98
+        },
+        {
+            "description": "Seamless eco-centric collaboration",
+            "quantity": 5,
+            "unit_price": 275.42,
+            "total_price": 1377.1
+        }
+    ],
+    "amount": 2341.08
+}

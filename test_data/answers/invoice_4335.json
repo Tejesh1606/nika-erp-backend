@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lambert PLC",
+    "invoice_number": "INV-44941",
+    "date": "2025-08-09",
+    "items": [
+        {
+            "description": "Down-sized fault-tolerant hierarchy",
+            "quantity": 8,
+            "unit_price": 458.01,
+            "total_price": 3664.08
+        },
+        {
+            "description": "Intuitive fault-tolerant algorithm",
+            "quantity": 5,
+            "unit_price": 289.69,
+            "total_price": 1448.45
+        },
+        {
+            "description": "Organic mobile access",
+            "quantity": 10,
+            "unit_price": 177.67,
+            "total_price": 1776.7
+        }
+    ],
+    "amount": 6889.23
+}

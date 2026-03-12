@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Yates Ltd",
+    "invoice_number": "INV-29665",
+    "date": "2025-11-18",
+    "items": [
+        {
+            "description": "Vision-oriented directional protocol",
+            "quantity": 7,
+            "unit_price": 80.15,
+            "total_price": 561.05
+        }
+    ],
+    "amount": 561.05
+}

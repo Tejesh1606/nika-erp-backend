@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hayes-Mcdonald",
+    "invoice_number": "INV-30434",
+    "date": "2025-11-06",
+    "items": [
+        {
+            "description": "Reduced composite process improvement",
+            "quantity": 4,
+            "unit_price": 429.55,
+            "total_price": 1718.2
+        },
+        {
+            "description": "Multi-channeled non-volatile Internet solution",
+            "quantity": 6,
+            "unit_price": 102.03,
+            "total_price": 612.18
+        }
+    ],
+    "amount": 2330.38
+}

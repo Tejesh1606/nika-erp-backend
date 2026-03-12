@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bruce, Brown and Jones",
+    "invoice_number": "INV-31587",
+    "date": "2025-12-09",
+    "items": [
+        {
+            "description": "Expanded directional standardization",
+            "quantity": 3,
+            "unit_price": 191.05,
+            "total_price": 573.15
+        },
+        {
+            "description": "Ameliorated bottom-line instruction set",
+            "quantity": 2,
+            "unit_price": 188.37,
+            "total_price": 376.74
+        }
+    ],
+    "amount": 949.89
+}

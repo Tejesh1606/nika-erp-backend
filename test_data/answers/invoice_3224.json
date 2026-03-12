@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hernandez, Barr and Gutierrez",
+    "invoice_number": "INV-97777",
+    "date": "2025-03-29",
+    "items": [
+        {
+            "description": "Inverse asymmetric array",
+            "quantity": 4,
+            "unit_price": 197.72,
+            "total_price": 790.88
+        },
+        {
+            "description": "Automated object-oriented ability",
+            "quantity": 7,
+            "unit_price": 307.02,
+            "total_price": 2149.14
+        },
+        {
+            "description": "Business-focused systematic leverage",
+            "quantity": 4,
+            "unit_price": 166.58,
+            "total_price": 666.32
+        },
+        {
+            "description": "Business-focused bi-directional methodology",
+            "quantity": 6,
+            "unit_price": 295.68,
+            "total_price": 1774.08
+        }
+    ],
+    "amount": 5380.42
+}

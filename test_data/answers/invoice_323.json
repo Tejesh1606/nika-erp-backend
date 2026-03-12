@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Rodriguez, Garcia and Cole",
+    "invoice_number": "INV-51160",
+    "date": "2025-08-13",
+    "items": [
+        {
+            "description": "Decentralized national help-desk",
+            "quantity": 7,
+            "unit_price": 492.78,
+            "total_price": 3449.46
+        },
+        {
+            "description": "Visionary demand-driven knowledge user",
+            "quantity": 9,
+            "unit_price": 245.31,
+            "total_price": 2207.79
+        },
+        {
+            "description": "Integrated maximized firmware",
+            "quantity": 1,
+            "unit_price": 108.11,
+            "total_price": 108.11
+        }
+    ],
+    "amount": 5765.36
+}

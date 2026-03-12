@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Carrillo-Wolfe",
+    "invoice_number": "INV-37470",
+    "date": "2025-08-26",
+    "items": [
+        {
+            "description": "Organized next generation algorithm",
+            "quantity": 8,
+            "unit_price": 115.2,
+            "total_price": 921.6
+        },
+        {
+            "description": "Multi-layered client-driven orchestration",
+            "quantity": 8,
+            "unit_price": 259.39,
+            "total_price": 2075.12
+        },
+        {
+            "description": "De-engineered fault-tolerant support",
+            "quantity": 3,
+            "unit_price": 298.04,
+            "total_price": 894.12
+        }
+    ],
+    "amount": 3890.84
+}

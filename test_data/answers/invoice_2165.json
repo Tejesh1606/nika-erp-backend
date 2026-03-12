@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Evans, Potter and Santana",
+    "invoice_number": "INV-97817",
+    "date": "2025-11-02",
+    "items": [
+        {
+            "description": "Up-sized logistical paradigm",
+            "quantity": 7,
+            "unit_price": 303.88,
+            "total_price": 2127.16
+        },
+        {
+            "description": "Multi-layered leadingedge concept",
+            "quantity": 7,
+            "unit_price": 458.84,
+            "total_price": 3211.88
+        },
+        {
+            "description": "Realigned holistic time-frame",
+            "quantity": 9,
+            "unit_price": 397.77,
+            "total_price": 3579.93
+        }
+    ],
+    "amount": 8918.97
+}

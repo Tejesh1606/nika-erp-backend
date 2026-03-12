@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Banks Group",
+    "invoice_number": "INV-10923",
+    "date": "2026-02-27",
+    "items": [
+        {
+            "description": "Open-architected human-resource structure",
+            "quantity": 10,
+            "unit_price": 407.9,
+            "total_price": 4079.0
+        }
+    ],
+    "amount": 4079.0
+}

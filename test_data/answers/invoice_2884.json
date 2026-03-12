@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Tapia PLC",
+    "invoice_number": "INV-80512",
+    "date": "2025-07-28",
+    "items": [
+        {
+            "description": "Sharable composite solution",
+            "quantity": 1,
+            "unit_price": 18.97,
+            "total_price": 18.97
+        },
+        {
+            "description": "Decentralized mobile neural-net",
+            "quantity": 5,
+            "unit_price": 447.17,
+            "total_price": 2235.85
+        }
+    ],
+    "amount": 2254.82
+}

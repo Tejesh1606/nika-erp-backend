@@ -1,0 +1,32 @@
+{
+    "vendor_name": "May Inc",
+    "invoice_number": "INV-16884",
+    "date": "2025-05-13",
+    "items": [
+        {
+            "description": "Persistent impactful leverage",
+            "quantity": 2,
+            "unit_price": 490.79,
+            "total_price": 981.58
+        },
+        {
+            "description": "Innovative methodical synergy",
+            "quantity": 10,
+            "unit_price": 346.39,
+            "total_price": 3463.9
+        },
+        {
+            "description": "Versatile national emulation",
+            "quantity": 6,
+            "unit_price": 346.85,
+            "total_price": 2081.1
+        },
+        {
+            "description": "Multi-tiered systemic strategy",
+            "quantity": 1,
+            "unit_price": 351.02,
+            "total_price": 351.02
+        }
+    ],
+    "amount": 6877.6
+}

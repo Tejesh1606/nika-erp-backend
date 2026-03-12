@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mccoy Inc",
+    "invoice_number": "INV-31433",
+    "date": "2026-02-19",
+    "items": [
+        {
+            "description": "Function-based analyzing knowledge user",
+            "quantity": 3,
+            "unit_price": 430.75,
+            "total_price": 1292.25
+        },
+        {
+            "description": "User-centric stable portal",
+            "quantity": 3,
+            "unit_price": 414.48,
+            "total_price": 1243.44
+        },
+        {
+            "description": "Assimilated fault-tolerant productivity",
+            "quantity": 10,
+            "unit_price": 453.7,
+            "total_price": 4537.0
+        },
+        {
+            "description": "Innovative needs-based software",
+            "quantity": 4,
+            "unit_price": 481.14,
+            "total_price": 1924.56
+        }
+    ],
+    "amount": 8997.25
+}

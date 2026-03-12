@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Haynes, Russo and Griffith",
+    "invoice_number": "INV-51116",
+    "date": "2026-02-25",
+    "items": [
+        {
+            "description": "Monitored 24/7 focus group",
+            "quantity": 8,
+            "unit_price": 425.69,
+            "total_price": 3405.52
+        }
+    ],
+    "amount": 3405.52
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jacobs LLC",
+    "invoice_number": "INV-68655",
+    "date": "2025-04-10",
+    "items": [
+        {
+            "description": "Reduced upward-trending ability",
+            "quantity": 6,
+            "unit_price": 465.26,
+            "total_price": 2791.56
+        },
+        {
+            "description": "Team-oriented clear-thinking secured line",
+            "quantity": 4,
+            "unit_price": 449.17,
+            "total_price": 1796.68
+        },
+        {
+            "description": "Fully-configurable context-sensitive methodology",
+            "quantity": 8,
+            "unit_price": 114.0,
+            "total_price": 912.0
+        }
+    ],
+    "amount": 5500.24
+}

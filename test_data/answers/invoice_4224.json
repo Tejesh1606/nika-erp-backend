@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Sullivan Inc",
+    "invoice_number": "INV-78550",
+    "date": "2025-11-24",
+    "items": [
+        {
+            "description": "Decentralized interactive throughput",
+            "quantity": 9,
+            "unit_price": 418.94,
+            "total_price": 3770.46
+        },
+        {
+            "description": "Synergized bifurcated array",
+            "quantity": 4,
+            "unit_price": 125.41,
+            "total_price": 501.64
+        },
+        {
+            "description": "Mandatory scalable hierarchy",
+            "quantity": 7,
+            "unit_price": 390.57,
+            "total_price": 2733.99
+        },
+        {
+            "description": "Self-enabling homogeneous Internet solution",
+            "quantity": 4,
+            "unit_price": 218.87,
+            "total_price": 875.48
+        }
+    ],
+    "amount": 7881.57
+}

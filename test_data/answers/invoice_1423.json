@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hawkins-Thomas",
+    "invoice_number": "INV-51622",
+    "date": "2025-03-31",
+    "items": [
+        {
+            "description": "Customizable systemic architecture",
+            "quantity": 6,
+            "unit_price": 21.16,
+            "total_price": 126.96
+        },
+        {
+            "description": "Open-source multi-state monitoring",
+            "quantity": 2,
+            "unit_price": 435.67,
+            "total_price": 871.34
+        },
+        {
+            "description": "Ameliorated regional success",
+            "quantity": 6,
+            "unit_price": 465.69,
+            "total_price": 2794.14
+        },
+        {
+            "description": "Down-sized uniform Graphic Interface",
+            "quantity": 2,
+            "unit_price": 161.04,
+            "total_price": 322.08
+        }
+    ],
+    "amount": 4114.52
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Steele-Bennett",
+    "invoice_number": "INV-70689",
+    "date": "2025-12-06",
+    "items": [
+        {
+            "description": "Reverse-engineered background migration",
+            "quantity": 4,
+            "unit_price": 72.16,
+            "total_price": 288.64
+        },
+        {
+            "description": "Configurable explicit data-warehouse",
+            "quantity": 2,
+            "unit_price": 253.94,
+            "total_price": 507.88
+        },
+        {
+            "description": "Focused well-modulated solution",
+            "quantity": 4,
+            "unit_price": 25.14,
+            "total_price": 100.56
+        }
+    ],
+    "amount": 897.08
+}

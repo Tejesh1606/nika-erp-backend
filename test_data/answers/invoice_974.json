@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Foster Ltd",
+    "invoice_number": "INV-53412",
+    "date": "2026-02-21",
+    "items": [
+        {
+            "description": "Automated cohesive secured line",
+            "quantity": 10,
+            "unit_price": 89.46,
+            "total_price": 894.6
+        },
+        {
+            "description": "Exclusive mission-critical secured line",
+            "quantity": 9,
+            "unit_price": 403.23,
+            "total_price": 3629.07
+        }
+    ],
+    "amount": 4523.67
+}

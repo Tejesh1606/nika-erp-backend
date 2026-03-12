@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Klein Ltd",
+    "invoice_number": "INV-79769",
+    "date": "2025-05-31",
+    "items": [
+        {
+            "description": "Organic tangible application",
+            "quantity": 3,
+            "unit_price": 207.48,
+            "total_price": 622.44
+        },
+        {
+            "description": "Sharable multi-state project",
+            "quantity": 3,
+            "unit_price": 452.11,
+            "total_price": 1356.33
+        },
+        {
+            "description": "Switchable transitional protocol",
+            "quantity": 4,
+            "unit_price": 90.59,
+            "total_price": 362.36
+        },
+        {
+            "description": "Customer-focused human-resource solution",
+            "quantity": 2,
+            "unit_price": 336.27,
+            "total_price": 672.54
+        }
+    ],
+    "amount": 3013.67
+}

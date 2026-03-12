@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hernandez, Brown and Garcia",
+    "invoice_number": "INV-55015",
+    "date": "2025-12-11",
+    "items": [
+        {
+            "description": "Configurable motivating project",
+            "quantity": 7,
+            "unit_price": 151.86,
+            "total_price": 1063.02
+        },
+        {
+            "description": "Enhanced 6thgeneration encryption",
+            "quantity": 6,
+            "unit_price": 432.28,
+            "total_price": 2593.68
+        }
+    ],
+    "amount": 3656.7
+}

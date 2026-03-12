@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Kennedy, Brown and Oconnor",
+    "invoice_number": "INV-27253",
+    "date": "2025-12-28",
+    "items": [
+        {
+            "description": "Polarized 24hour flexibility",
+            "quantity": 10,
+            "unit_price": 382.21,
+            "total_price": 3822.1
+        },
+        {
+            "description": "Multi-lateral clear-thinking encoding",
+            "quantity": 9,
+            "unit_price": 196.55,
+            "total_price": 1768.95
+        },
+        {
+            "description": "Profound multi-tasking open architecture",
+            "quantity": 5,
+            "unit_price": 103.05,
+            "total_price": 515.25
+        }
+    ],
+    "amount": 6106.3
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Brooks and Sons",
+    "invoice_number": "INV-43509",
+    "date": "2025-07-04",
+    "items": [
+        {
+            "description": "Compatible demand-driven encryption",
+            "quantity": 3,
+            "unit_price": 94.6,
+            "total_price": 283.8
+        },
+        {
+            "description": "Reverse-engineered fresh-thinking function",
+            "quantity": 6,
+            "unit_price": 447.21,
+            "total_price": 2683.26
+        },
+        {
+            "description": "Organic non-volatile firmware",
+            "quantity": 6,
+            "unit_price": 369.35,
+            "total_price": 2216.1
+        },
+        {
+            "description": "Centralized tertiary implementation",
+            "quantity": 4,
+            "unit_price": 293.83,
+            "total_price": 1175.32
+        }
+    ],
+    "amount": 6358.48
+}

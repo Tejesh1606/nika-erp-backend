@@ -1,0 +1,26 @@
+{
+    "vendor_name": "White-Buchanan",
+    "invoice_number": "INV-27075",
+    "date": "2025-05-22",
+    "items": [
+        {
+            "description": "Exclusive real-time portal",
+            "quantity": 5,
+            "unit_price": 351.19,
+            "total_price": 1755.95
+        },
+        {
+            "description": "Advanced systematic workforce",
+            "quantity": 1,
+            "unit_price": 213.77,
+            "total_price": 213.77
+        },
+        {
+            "description": "Pre-emptive impactful budgetary management",
+            "quantity": 3,
+            "unit_price": 358.06,
+            "total_price": 1074.18
+        }
+    ],
+    "amount": 3043.9
+}

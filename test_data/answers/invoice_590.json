@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Roth-Robles",
+    "invoice_number": "INV-52712",
+    "date": "2025-10-10",
+    "items": [
+        {
+            "description": "Streamlined asynchronous utilization",
+            "quantity": 5,
+            "unit_price": 103.07,
+            "total_price": 515.35
+        },
+        {
+            "description": "Innovative national Local Area Network",
+            "quantity": 7,
+            "unit_price": 98.47,
+            "total_price": 689.29
+        },
+        {
+            "description": "Open-architected optimizing installation",
+            "quantity": 4,
+            "unit_price": 226.36,
+            "total_price": 905.44
+        }
+    ],
+    "amount": 2110.08
+}

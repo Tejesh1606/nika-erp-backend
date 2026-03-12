@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ryan and Sons",
+    "invoice_number": "INV-40323",
+    "date": "2025-08-10",
+    "items": [
+        {
+            "description": "Progressive mission-critical Graphical User Interface",
+            "quantity": 9,
+            "unit_price": 293.68,
+            "total_price": 2643.12
+        }
+    ],
+    "amount": 2643.12
+}

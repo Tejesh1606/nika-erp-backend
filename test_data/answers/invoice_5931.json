@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Browning-Rivera",
+    "invoice_number": "INV-74721",
+    "date": "2025-05-18",
+    "items": [
+        {
+            "description": "Ameliorated grid-enabled hub",
+            "quantity": 10,
+            "unit_price": 195.29,
+            "total_price": 1952.9
+        },
+        {
+            "description": "Intuitive discrete complexity",
+            "quantity": 6,
+            "unit_price": 461.17,
+            "total_price": 2767.02
+        },
+        {
+            "description": "Cross-platform hybrid workforce",
+            "quantity": 1,
+            "unit_price": 141.86,
+            "total_price": 141.86
+        },
+        {
+            "description": "User-centric user-facing projection",
+            "quantity": 1,
+            "unit_price": 259.61,
+            "total_price": 259.61
+        }
+    ],
+    "amount": 5121.39
+}

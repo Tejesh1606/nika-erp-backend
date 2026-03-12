@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Miles, Flowers and Martinez",
+    "invoice_number": "INV-69641",
+    "date": "2025-10-15",
+    "items": [
+        {
+            "description": "Monitored executive budgetary management",
+            "quantity": 9,
+            "unit_price": 348.5,
+            "total_price": 3136.5
+        }
+    ],
+    "amount": 3136.5
+}

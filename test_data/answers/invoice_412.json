@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Adams and Sons",
+    "invoice_number": "INV-47567",
+    "date": "2025-11-29",
+    "items": [
+        {
+            "description": "Function-based client-server approach",
+            "quantity": 3,
+            "unit_price": 192.67,
+            "total_price": 578.01
+        },
+        {
+            "description": "Team-oriented zero tolerance frame",
+            "quantity": 3,
+            "unit_price": 217.32,
+            "total_price": 651.96
+        },
+        {
+            "description": "Expanded web-enabled moratorium",
+            "quantity": 7,
+            "unit_price": 394.03,
+            "total_price": 2758.21
+        }
+    ],
+    "amount": 3988.18
+}

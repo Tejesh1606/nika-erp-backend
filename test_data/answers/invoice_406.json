@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Obrien, Morris and Keith",
+    "invoice_number": "INV-64875",
+    "date": "2025-10-31",
+    "items": [
+        {
+            "description": "Team-oriented well-modulated encryption",
+            "quantity": 8,
+            "unit_price": 335.11,
+            "total_price": 2680.88
+        },
+        {
+            "description": "Grass-roots hybrid Graphical User Interface",
+            "quantity": 7,
+            "unit_price": 199.07,
+            "total_price": 1393.49
+        }
+    ],
+    "amount": 4074.37
+}

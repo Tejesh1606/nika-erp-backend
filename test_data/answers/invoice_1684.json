@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jimenez-Galvan",
+    "invoice_number": "INV-77589",
+    "date": "2025-05-23",
+    "items": [
+        {
+            "description": "Multi-tiered transitional task-force",
+            "quantity": 2,
+            "unit_price": 418.35,
+            "total_price": 836.7
+        },
+        {
+            "description": "Ergonomic multi-tasking project",
+            "quantity": 7,
+            "unit_price": 453.32,
+            "total_price": 3173.24
+        },
+        {
+            "description": "Cloned impactful flexibility",
+            "quantity": 9,
+            "unit_price": 301.64,
+            "total_price": 2714.76
+        }
+    ],
+    "amount": 6724.7
+}

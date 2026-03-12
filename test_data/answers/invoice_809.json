@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Roman PLC",
+    "invoice_number": "INV-51999",
+    "date": "2025-08-12",
+    "items": [
+        {
+            "description": "Reverse-engineered 6thgeneration matrix",
+            "quantity": 10,
+            "unit_price": 350.61,
+            "total_price": 3506.1
+        },
+        {
+            "description": "Ameliorated global Internet solution",
+            "quantity": 7,
+            "unit_price": 160.87,
+            "total_price": 1126.09
+        },
+        {
+            "description": "Enterprise-wide intangible algorithm",
+            "quantity": 3,
+            "unit_price": 103.12,
+            "total_price": 309.36
+        }
+    ],
+    "amount": 4941.55
+}

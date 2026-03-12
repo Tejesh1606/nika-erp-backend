@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Smith, Hicks and Clark",
+    "invoice_number": "INV-25892",
+    "date": "2025-12-29",
+    "items": [
+        {
+            "description": "Up-sized upward-trending extranet",
+            "quantity": 1,
+            "unit_price": 350.55,
+            "total_price": 350.55
+        },
+        {
+            "description": "Programmable optimizing website",
+            "quantity": 9,
+            "unit_price": 227.73,
+            "total_price": 2049.57
+        },
+        {
+            "description": "Virtual fresh-thinking superstructure",
+            "quantity": 8,
+            "unit_price": 435.86,
+            "total_price": 3486.88
+        },
+        {
+            "description": "Fully-configurable next generation concept",
+            "quantity": 1,
+            "unit_price": 476.81,
+            "total_price": 476.81
+        }
+    ],
+    "amount": 6363.81
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Decker-Yates",
+    "invoice_number": "INV-64457",
+    "date": "2025-06-29",
+    "items": [
+        {
+            "description": "Vision-oriented dedicated hub",
+            "quantity": 4,
+            "unit_price": 447.13,
+            "total_price": 1788.52
+        },
+        {
+            "description": "Versatile discrete methodology",
+            "quantity": 4,
+            "unit_price": 222.02,
+            "total_price": 888.08
+        },
+        {
+            "description": "Customizable contextually-based attitude",
+            "quantity": 6,
+            "unit_price": 54.96,
+            "total_price": 329.76
+        }
+    ],
+    "amount": 3006.36
+}

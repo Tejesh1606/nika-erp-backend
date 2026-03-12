@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Escobar, Murphy and Long",
+    "invoice_number": "INV-16375",
+    "date": "2026-02-26",
+    "items": [
+        {
+            "description": "Face-to-face didactic model",
+            "quantity": 3,
+            "unit_price": 205.39,
+            "total_price": 616.17
+        }
+    ],
+    "amount": 616.17
+}

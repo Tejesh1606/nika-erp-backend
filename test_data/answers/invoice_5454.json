@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hogan, Boyd and Gibbs",
+    "invoice_number": "INV-29615",
+    "date": "2025-07-21",
+    "items": [
+        {
+            "description": "Profound bottom-line knowledge user",
+            "quantity": 9,
+            "unit_price": 494.05,
+            "total_price": 4446.45
+        },
+        {
+            "description": "Expanded next generation success",
+            "quantity": 3,
+            "unit_price": 135.78,
+            "total_price": 407.34
+        },
+        {
+            "description": "Optional national benchmark",
+            "quantity": 1,
+            "unit_price": 191.69,
+            "total_price": 191.69
+        }
+    ],
+    "amount": 5045.48
+}

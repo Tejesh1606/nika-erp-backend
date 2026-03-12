@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Howell, Sawyer and Murphy",
+    "invoice_number": "INV-30683",
+    "date": "2025-09-18",
+    "items": [
+        {
+            "description": "Operative user-facing capacity",
+            "quantity": 3,
+            "unit_price": 37.95,
+            "total_price": 113.85
+        },
+        {
+            "description": "Seamless dynamic superstructure",
+            "quantity": 5,
+            "unit_price": 160.9,
+            "total_price": 804.5
+        },
+        {
+            "description": "Upgradable well-modulated encryption",
+            "quantity": 1,
+            "unit_price": 268.67,
+            "total_price": 268.67
+        },
+        {
+            "description": "Object-based upward-trending orchestration",
+            "quantity": 5,
+            "unit_price": 460.5,
+            "total_price": 2302.5
+        }
+    ],
+    "amount": 3489.52
+}

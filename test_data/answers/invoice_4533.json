@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Clark, Cross and Mcdonald",
+    "invoice_number": "INV-85437",
+    "date": "2026-02-24",
+    "items": [
+        {
+            "description": "Synergized composite strategy",
+            "quantity": 10,
+            "unit_price": 356.05,
+            "total_price": 3560.5
+        },
+        {
+            "description": "Proactive executive service-desk",
+            "quantity": 10,
+            "unit_price": 482.04,
+            "total_price": 4820.4
+        },
+        {
+            "description": "Networked zero-defect contingency",
+            "quantity": 1,
+            "unit_price": 287.33,
+            "total_price": 287.33
+        },
+        {
+            "description": "Enhanced hybrid migration",
+            "quantity": 4,
+            "unit_price": 129.88,
+            "total_price": 519.52
+        }
+    ],
+    "amount": 9187.75
+}

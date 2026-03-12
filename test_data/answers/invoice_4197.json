@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Brooks-Watkins",
+    "invoice_number": "INV-97662",
+    "date": "2025-10-03",
+    "items": [
+        {
+            "description": "Face-to-face clear-thinking superstructure",
+            "quantity": 3,
+            "unit_price": 391.82,
+            "total_price": 1175.46
+        }
+    ],
+    "amount": 1175.46
+}

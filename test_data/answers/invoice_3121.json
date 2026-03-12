@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Turner-Clark",
+    "invoice_number": "INV-87664",
+    "date": "2025-10-02",
+    "items": [
+        {
+            "description": "Team-oriented radical knowledge user",
+            "quantity": 2,
+            "unit_price": 471.16,
+            "total_price": 942.32
+        },
+        {
+            "description": "Advanced bi-directional frame",
+            "quantity": 4,
+            "unit_price": 120.69,
+            "total_price": 482.76
+        }
+    ],
+    "amount": 1425.08
+}

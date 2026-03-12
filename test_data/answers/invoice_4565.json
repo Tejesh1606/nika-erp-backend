@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Dalton-Patterson",
+    "invoice_number": "INV-93713",
+    "date": "2025-08-21",
+    "items": [
+        {
+            "description": "Up-sized human-resource attitude",
+            "quantity": 2,
+            "unit_price": 307.59,
+            "total_price": 615.18
+        },
+        {
+            "description": "Customer-focused mission-critical task-force",
+            "quantity": 4,
+            "unit_price": 189.49,
+            "total_price": 757.96
+        },
+        {
+            "description": "Persistent systemic collaboration",
+            "quantity": 1,
+            "unit_price": 309.47,
+            "total_price": 309.47
+        },
+        {
+            "description": "Robust even-keeled complexity",
+            "quantity": 7,
+            "unit_price": 415.17,
+            "total_price": 2906.19
+        }
+    ],
+    "amount": 4588.8
+}

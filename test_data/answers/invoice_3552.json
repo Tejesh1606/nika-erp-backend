@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Price, Barnes and Ferrell",
+    "invoice_number": "INV-78073",
+    "date": "2025-04-02",
+    "items": [
+        {
+            "description": "Decentralized stable monitoring",
+            "quantity": 1,
+            "unit_price": 124.88,
+            "total_price": 124.88
+        }
+    ],
+    "amount": 124.88
+}

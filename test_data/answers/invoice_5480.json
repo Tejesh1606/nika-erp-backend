@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Clark Inc",
+    "invoice_number": "INV-41256",
+    "date": "2025-10-09",
+    "items": [
+        {
+            "description": "Configurable foreground Internet solution",
+            "quantity": 3,
+            "unit_price": 49.47,
+            "total_price": 148.41
+        }
+    ],
+    "amount": 148.41
+}

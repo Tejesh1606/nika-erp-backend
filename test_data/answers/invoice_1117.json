@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Martinez-Santiago",
+    "invoice_number": "INV-70661",
+    "date": "2026-01-16",
+    "items": [
+        {
+            "description": "Virtual multi-state knowledgebase",
+            "quantity": 4,
+            "unit_price": 104.79,
+            "total_price": 419.16
+        }
+    ],
+    "amount": 419.16
+}

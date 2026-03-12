@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Williams-Lawrence",
+    "invoice_number": "INV-77808",
+    "date": "2025-08-04",
+    "items": [
+        {
+            "description": "Universal didactic implementation",
+            "quantity": 5,
+            "unit_price": 318.82,
+            "total_price": 1594.1
+        },
+        {
+            "description": "Digitized web-enabled emulation",
+            "quantity": 2,
+            "unit_price": 139.28,
+            "total_price": 278.56
+        },
+        {
+            "description": "Cloned mobile Graphical User Interface",
+            "quantity": 6,
+            "unit_price": 21.18,
+            "total_price": 127.08
+        },
+        {
+            "description": "Sharable grid-enabled database",
+            "quantity": 1,
+            "unit_price": 50.66,
+            "total_price": 50.66
+        }
+    ],
+    "amount": 2050.4
+}

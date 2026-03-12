@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lee, Stafford and Davis",
+    "invoice_number": "INV-40469",
+    "date": "2025-05-28",
+    "items": [
+        {
+            "description": "Face-to-face clear-thinking matrix",
+            "quantity": 4,
+            "unit_price": 347.76,
+            "total_price": 1391.04
+        },
+        {
+            "description": "Seamless zero-defect open architecture",
+            "quantity": 1,
+            "unit_price": 110.22,
+            "total_price": 110.22
+        },
+        {
+            "description": "User-centric uniform neural-net",
+            "quantity": 2,
+            "unit_price": 232.41,
+            "total_price": 464.82
+        }
+    ],
+    "amount": 1966.08
+}

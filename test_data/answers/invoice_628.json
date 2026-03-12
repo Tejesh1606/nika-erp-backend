@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Kim, Lopez and Johnson",
+    "invoice_number": "INV-13324",
+    "date": "2025-12-13",
+    "items": [
+        {
+            "description": "Reverse-engineered disintermediate matrix",
+            "quantity": 5,
+            "unit_price": 360.19,
+            "total_price": 1800.95
+        }
+    ],
+    "amount": 1800.95
+}

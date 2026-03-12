@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Willis LLC",
+    "invoice_number": "INV-64397",
+    "date": "2025-04-21",
+    "items": [
+        {
+            "description": "Reactive clear-thinking policy",
+            "quantity": 5,
+            "unit_price": 479.76,
+            "total_price": 2398.8
+        }
+    ],
+    "amount": 2398.8
+}

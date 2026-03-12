@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Stanley and Sons",
+    "invoice_number": "INV-78497",
+    "date": "2025-12-01",
+    "items": [
+        {
+            "description": "Face-to-face solution-oriented policy",
+            "quantity": 9,
+            "unit_price": 23.85,
+            "total_price": 214.65
+        },
+        {
+            "description": "Innovative maximized info-mediaries",
+            "quantity": 5,
+            "unit_price": 33.64,
+            "total_price": 168.2
+        }
+    ],
+    "amount": 382.85
+}

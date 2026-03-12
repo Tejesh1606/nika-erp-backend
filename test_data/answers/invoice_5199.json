@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jones Ltd",
+    "invoice_number": "INV-55220",
+    "date": "2025-11-05",
+    "items": [
+        {
+            "description": "Compatible empowering Graphic Interface",
+            "quantity": 5,
+            "unit_price": 407.31,
+            "total_price": 2036.55
+        }
+    ],
+    "amount": 2036.55
+}

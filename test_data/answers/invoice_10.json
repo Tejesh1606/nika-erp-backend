@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ellis, Baker and Wright",
+    "invoice_number": "INV-83579",
+    "date": "2025-10-04",
+    "items": [
+        {
+            "description": "Fundamental value-added paradigm",
+            "quantity": 9,
+            "unit_price": 268.56,
+            "total_price": 2417.04
+        },
+        {
+            "description": "Optimized optimal initiative",
+            "quantity": 8,
+            "unit_price": 264.18,
+            "total_price": 2113.44
+        },
+        {
+            "description": "Multi-lateral directional challenge",
+            "quantity": 8,
+            "unit_price": 404.85,
+            "total_price": 3238.8
+        }
+    ],
+    "amount": 7769.28
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Robertson-Ryan",
+    "invoice_number": "INV-13366",
+    "date": "2025-05-21",
+    "items": [
+        {
+            "description": "Right-sized bandwidth-monitored circuit",
+            "quantity": 2,
+            "unit_price": 58.96,
+            "total_price": 117.92
+        }
+    ],
+    "amount": 117.92
+}

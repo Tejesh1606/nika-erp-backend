@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Evans-Patton",
+    "invoice_number": "INV-57333",
+    "date": "2025-06-14",
+    "items": [
+        {
+            "description": "Fully-configurable uniform product",
+            "quantity": 2,
+            "unit_price": 303.27,
+            "total_price": 606.54
+        }
+    ],
+    "amount": 606.54
+}

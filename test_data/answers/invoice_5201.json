@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gilbert-Mendez",
+    "invoice_number": "INV-40874",
+    "date": "2025-10-18",
+    "items": [
+        {
+            "description": "Sharable zero tolerance array",
+            "quantity": 3,
+            "unit_price": 38.23,
+            "total_price": 114.69
+        }
+    ],
+    "amount": 114.69
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Ellis Inc",
+    "invoice_number": "INV-50981",
+    "date": "2025-03-25",
+    "items": [
+        {
+            "description": "Implemented coherent approach",
+            "quantity": 7,
+            "unit_price": 143.87,
+            "total_price": 1007.09
+        },
+        {
+            "description": "Intuitive real-time open architecture",
+            "quantity": 10,
+            "unit_price": 140.34,
+            "total_price": 1403.4
+        },
+        {
+            "description": "Switchable human-resource middleware",
+            "quantity": 9,
+            "unit_price": 244.81,
+            "total_price": 2203.29
+        },
+        {
+            "description": "Multi-channeled static projection",
+            "quantity": 9,
+            "unit_price": 185.89,
+            "total_price": 1673.01
+        }
+    ],
+    "amount": 6286.79
+}

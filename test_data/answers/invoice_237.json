@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Faulkner-Grant",
+    "invoice_number": "INV-27575",
+    "date": "2025-08-06",
+    "items": [
+        {
+            "description": "Fully-configurable eco-centric database",
+            "quantity": 1,
+            "unit_price": 106.12,
+            "total_price": 106.12
+        }
+    ],
+    "amount": 106.12
+}

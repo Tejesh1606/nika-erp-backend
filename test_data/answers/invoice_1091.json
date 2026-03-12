@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bell-Wilson",
+    "invoice_number": "INV-82129",
+    "date": "2025-04-10",
+    "items": [
+        {
+            "description": "Multi-channeled intermediate data-warehouse",
+            "quantity": 10,
+            "unit_price": 117.59,
+            "total_price": 1175.9
+        },
+        {
+            "description": "Distributed hybrid middleware",
+            "quantity": 8,
+            "unit_price": 264.37,
+            "total_price": 2114.96
+        },
+        {
+            "description": "Optional multimedia groupware",
+            "quantity": 8,
+            "unit_price": 442.05,
+            "total_price": 3536.4
+        }
+    ],
+    "amount": 6827.26
+}

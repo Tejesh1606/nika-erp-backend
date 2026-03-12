@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Williams, Watson and Phillips",
+    "invoice_number": "INV-12731",
+    "date": "2025-12-25",
+    "items": [
+        {
+            "description": "Digitized maximized intranet",
+            "quantity": 1,
+            "unit_price": 202.91,
+            "total_price": 202.91
+        },
+        {
+            "description": "Networked analyzing budgetary management",
+            "quantity": 1,
+            "unit_price": 211.25,
+            "total_price": 211.25
+        },
+        {
+            "description": "Synchronized clear-thinking definition",
+            "quantity": 4,
+            "unit_price": 281.22,
+            "total_price": 1124.88
+        }
+    ],
+    "amount": 1539.04
+}

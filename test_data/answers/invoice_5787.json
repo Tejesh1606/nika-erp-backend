@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Sherman, Brown and Mills",
+    "invoice_number": "INV-38218",
+    "date": "2025-09-18",
+    "items": [
+        {
+            "description": "Synergized 5thgeneration intranet",
+            "quantity": 10,
+            "unit_price": 426.98,
+            "total_price": 4269.8
+        },
+        {
+            "description": "Right-sized upward-trending paradigm",
+            "quantity": 10,
+            "unit_price": 457.53,
+            "total_price": 4575.3
+        }
+    ],
+    "amount": 8845.1
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gomez, Lucas and Brown",
+    "invoice_number": "INV-67657",
+    "date": "2026-01-12",
+    "items": [
+        {
+            "description": "Stand-alone asynchronous hardware",
+            "quantity": 4,
+            "unit_price": 437.16,
+            "total_price": 1748.64
+        },
+        {
+            "description": "Stand-alone zero administration attitude",
+            "quantity": 7,
+            "unit_price": 437.61,
+            "total_price": 3063.27
+        }
+    ],
+    "amount": 4811.91
+}

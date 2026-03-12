@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Zavala Group",
+    "invoice_number": "INV-70051",
+    "date": "2025-11-16",
+    "items": [
+        {
+            "description": "Automated explicit benchmark",
+            "quantity": 2,
+            "unit_price": 237.15,
+            "total_price": 474.3
+        }
+    ],
+    "amount": 474.3
+}

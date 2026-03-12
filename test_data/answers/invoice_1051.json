@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Walton, Ho and Garcia",
+    "invoice_number": "INV-68209",
+    "date": "2025-09-20",
+    "items": [
+        {
+            "description": "Reduced 5thgeneration secured line",
+            "quantity": 9,
+            "unit_price": 113.5,
+            "total_price": 1021.5
+        },
+        {
+            "description": "Implemented intangible data-warehouse",
+            "quantity": 4,
+            "unit_price": 40.29,
+            "total_price": 161.16
+        }
+    ],
+    "amount": 1182.66
+}

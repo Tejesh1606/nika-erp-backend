@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Miller, Garcia and Aguilar",
+    "invoice_number": "INV-76170",
+    "date": "2025-06-10",
+    "items": [
+        {
+            "description": "Centralized well-modulated orchestration",
+            "quantity": 7,
+            "unit_price": 54.19,
+            "total_price": 379.33
+        }
+    ],
+    "amount": 379.33
+}

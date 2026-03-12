@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ware and Sons",
+    "invoice_number": "INV-31773",
+    "date": "2025-11-10",
+    "items": [
+        {
+            "description": "Grass-roots transitional circuit",
+            "quantity": 7,
+            "unit_price": 465.68,
+            "total_price": 3259.76
+        },
+        {
+            "description": "Optional next generation intranet",
+            "quantity": 5,
+            "unit_price": 111.02,
+            "total_price": 555.1
+        }
+    ],
+    "amount": 3814.86
+}

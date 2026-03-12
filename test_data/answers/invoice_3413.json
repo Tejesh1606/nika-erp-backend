@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Le Ltd",
+    "invoice_number": "INV-40087",
+    "date": "2026-02-28",
+    "items": [
+        {
+            "description": "Centralized human-resource parallelism",
+            "quantity": 9,
+            "unit_price": 444.81,
+            "total_price": 4003.29
+        },
+        {
+            "description": "Multi-layered asynchronous interface",
+            "quantity": 4,
+            "unit_price": 332.89,
+            "total_price": 1331.56
+        },
+        {
+            "description": "Intuitive mobile service-desk",
+            "quantity": 5,
+            "unit_price": 381.89,
+            "total_price": 1909.45
+        },
+        {
+            "description": "Cross-group composite budgetary management",
+            "quantity": 9,
+            "unit_price": 151.01,
+            "total_price": 1359.09
+        }
+    ],
+    "amount": 8603.39
+}

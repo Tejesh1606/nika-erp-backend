@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cameron, Perez and Williams",
+    "invoice_number": "INV-38704",
+    "date": "2025-12-28",
+    "items": [
+        {
+            "description": "Focused coherent challenge",
+            "quantity": 10,
+            "unit_price": 130.84,
+            "total_price": 1308.4
+        },
+        {
+            "description": "Profit-focused foreground Graphic Interface",
+            "quantity": 7,
+            "unit_price": 69.38,
+            "total_price": 485.66
+        },
+        {
+            "description": "Networked web-enabled productivity",
+            "quantity": 10,
+            "unit_price": 191.49,
+            "total_price": 1914.9
+        }
+    ],
+    "amount": 3708.96
+}

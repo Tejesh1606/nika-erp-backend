@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Anderson-Allen",
+    "invoice_number": "INV-11503",
+    "date": "2025-03-16",
+    "items": [
+        {
+            "description": "Organized high-level hub",
+            "quantity": 7,
+            "unit_price": 451.36,
+            "total_price": 3159.52
+        },
+        {
+            "description": "Advanced eco-centric access",
+            "quantity": 9,
+            "unit_price": 334.32,
+            "total_price": 3008.88
+        }
+    ],
+    "amount": 6168.4
+}

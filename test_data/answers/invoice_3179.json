@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hunt, Hunt and Garcia",
+    "invoice_number": "INV-43843",
+    "date": "2026-01-04",
+    "items": [
+        {
+            "description": "Front-line object-oriented Local Area Network",
+            "quantity": 7,
+            "unit_price": 268.92,
+            "total_price": 1882.44
+        },
+        {
+            "description": "Object-based tangible encryption",
+            "quantity": 4,
+            "unit_price": 356.46,
+            "total_price": 1425.84
+        }
+    ],
+    "amount": 3308.28
+}

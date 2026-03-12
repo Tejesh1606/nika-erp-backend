@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Myers, Carey and Chavez",
+    "invoice_number": "INV-57679",
+    "date": "2026-01-31",
+    "items": [
+        {
+            "description": "Ergonomic well-modulated project",
+            "quantity": 2,
+            "unit_price": 188.84,
+            "total_price": 377.68
+        },
+        {
+            "description": "Pre-emptive well-modulated info-mediaries",
+            "quantity": 7,
+            "unit_price": 185.64,
+            "total_price": 1299.48
+        }
+    ],
+    "amount": 1677.16
+}

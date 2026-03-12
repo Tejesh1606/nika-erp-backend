@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ho-Martinez",
+    "invoice_number": "INV-28590",
+    "date": "2025-06-26",
+    "items": [
+        {
+            "description": "Fundamental contextually-based array",
+            "quantity": 3,
+            "unit_price": 98.51,
+            "total_price": 295.53
+        },
+        {
+            "description": "Compatible modular hierarchy",
+            "quantity": 8,
+            "unit_price": 210.61,
+            "total_price": 1684.88
+        }
+    ],
+    "amount": 1980.41
+}

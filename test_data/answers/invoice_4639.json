@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Taylor Inc",
+    "invoice_number": "INV-60170",
+    "date": "2025-06-27",
+    "items": [
+        {
+            "description": "Networked even-keeled success",
+            "quantity": 9,
+            "unit_price": 490.01,
+            "total_price": 4410.09
+        },
+        {
+            "description": "Open-source mission-critical implementation",
+            "quantity": 2,
+            "unit_price": 306.82,
+            "total_price": 613.64
+        },
+        {
+            "description": "Fundamental maximized open architecture",
+            "quantity": 6,
+            "unit_price": 102.5,
+            "total_price": 615.0
+        }
+    ],
+    "amount": 5638.73
+}

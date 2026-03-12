@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Nguyen PLC",
+    "invoice_number": "INV-96371",
+    "date": "2025-05-07",
+    "items": [
+        {
+            "description": "Proactive 3rdgeneration firmware",
+            "quantity": 9,
+            "unit_price": 166.47,
+            "total_price": 1498.23
+        },
+        {
+            "description": "Adaptive 4thgeneration time-frame",
+            "quantity": 8,
+            "unit_price": 44.42,
+            "total_price": 355.36
+        },
+        {
+            "description": "Integrated dynamic time-frame",
+            "quantity": 3,
+            "unit_price": 233.65,
+            "total_price": 700.95
+        }
+    ],
+    "amount": 2554.54
+}

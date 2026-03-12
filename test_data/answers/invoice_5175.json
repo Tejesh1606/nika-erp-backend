@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Medina-Young",
+    "invoice_number": "INV-18013",
+    "date": "2025-10-30",
+    "items": [
+        {
+            "description": "Re-engineered upward-trending Local Area Network",
+            "quantity": 3,
+            "unit_price": 292.25,
+            "total_price": 876.75
+        },
+        {
+            "description": "Triple-buffered coherent model",
+            "quantity": 4,
+            "unit_price": 384.79,
+            "total_price": 1539.16
+        },
+        {
+            "description": "Managed fresh-thinking solution",
+            "quantity": 9,
+            "unit_price": 339.1,
+            "total_price": 3051.9
+        },
+        {
+            "description": "Self-enabling even-keeled capability",
+            "quantity": 7,
+            "unit_price": 272.56,
+            "total_price": 1907.92
+        }
+    ],
+    "amount": 7375.73
+}

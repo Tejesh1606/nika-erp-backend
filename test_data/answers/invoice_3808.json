@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Whitaker Ltd",
+    "invoice_number": "INV-61327",
+    "date": "2026-02-04",
+    "items": [
+        {
+            "description": "Streamlined uniform service-desk",
+            "quantity": 2,
+            "unit_price": 425.3,
+            "total_price": 850.6
+        },
+        {
+            "description": "Inverse radical array",
+            "quantity": 1,
+            "unit_price": 449.23,
+            "total_price": 449.23
+        }
+    ],
+    "amount": 1299.83
+}

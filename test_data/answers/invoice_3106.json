@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Phillips-Buchanan",
+    "invoice_number": "INV-31724",
+    "date": "2025-07-12",
+    "items": [
+        {
+            "description": "Face-to-face hybrid alliance",
+            "quantity": 6,
+            "unit_price": 276.28,
+            "total_price": 1657.68
+        },
+        {
+            "description": "Networked executive adapter",
+            "quantity": 2,
+            "unit_price": 329.63,
+            "total_price": 659.26
+        },
+        {
+            "description": "Centralized even-keeled intranet",
+            "quantity": 4,
+            "unit_price": 20.44,
+            "total_price": 81.76
+        },
+        {
+            "description": "Implemented multi-state initiative",
+            "quantity": 1,
+            "unit_price": 314.26,
+            "total_price": 314.26
+        }
+    ],
+    "amount": 2712.96
+}

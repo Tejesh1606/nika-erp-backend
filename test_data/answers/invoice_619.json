@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Kemp Ltd",
+    "invoice_number": "INV-34151",
+    "date": "2025-06-15",
+    "items": [
+        {
+            "description": "Implemented maximized protocol",
+            "quantity": 3,
+            "unit_price": 405.12,
+            "total_price": 1215.36
+        }
+    ],
+    "amount": 1215.36
+}

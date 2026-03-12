@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Johnson, Hawkins and Marsh",
+    "invoice_number": "INV-64563",
+    "date": "2025-04-10",
+    "items": [
+        {
+            "description": "Inverse client-driven leverage",
+            "quantity": 4,
+            "unit_price": 115.49,
+            "total_price": 461.96
+        }
+    ],
+    "amount": 461.96
+}

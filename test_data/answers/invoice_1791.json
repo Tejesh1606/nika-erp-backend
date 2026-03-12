@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Butler-Burns",
+    "invoice_number": "INV-94489",
+    "date": "2025-09-04",
+    "items": [
+        {
+            "description": "User-centric value-added methodology",
+            "quantity": 4,
+            "unit_price": 465.2,
+            "total_price": 1860.8
+        }
+    ],
+    "amount": 1860.8
+}

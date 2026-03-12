@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bryant-Wagner",
+    "invoice_number": "INV-64342",
+    "date": "2025-04-26",
+    "items": [
+        {
+            "description": "Visionary asynchronous encoding",
+            "quantity": 8,
+            "unit_price": 307.23,
+            "total_price": 2457.84
+        },
+        {
+            "description": "Quality-focused 24/7 workforce",
+            "quantity": 8,
+            "unit_price": 219.88,
+            "total_price": 1759.04
+        },
+        {
+            "description": "Inverse optimal help-desk",
+            "quantity": 8,
+            "unit_price": 312.03,
+            "total_price": 2496.24
+        }
+    ],
+    "amount": 6713.12
+}

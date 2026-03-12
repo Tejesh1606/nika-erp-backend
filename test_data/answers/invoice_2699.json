@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Reeves, Hernandez and Mayer",
+    "invoice_number": "INV-46903",
+    "date": "2025-05-01",
+    "items": [
+        {
+            "description": "Synergistic homogeneous software",
+            "quantity": 8,
+            "unit_price": 480.63,
+            "total_price": 3845.04
+        }
+    ],
+    "amount": 3845.04
+}

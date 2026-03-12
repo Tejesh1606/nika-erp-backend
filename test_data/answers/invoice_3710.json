@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ramirez Ltd",
+    "invoice_number": "INV-72044",
+    "date": "2025-09-16",
+    "items": [
+        {
+            "description": "Pre-emptive mission-critical extranet",
+            "quantity": 7,
+            "unit_price": 453.82,
+            "total_price": 3176.74
+        },
+        {
+            "description": "Horizontal zero-defect focus group",
+            "quantity": 6,
+            "unit_price": 183.94,
+            "total_price": 1103.64
+        },
+        {
+            "description": "Re-contextualized human-resource firmware",
+            "quantity": 9,
+            "unit_price": 439.7,
+            "total_price": 3957.3
+        }
+    ],
+    "amount": 8237.68
+}

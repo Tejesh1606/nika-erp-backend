@@ -1,0 +1,26 @@
+{
+    "vendor_name": "English-Morgan",
+    "invoice_number": "INV-37993",
+    "date": "2026-01-26",
+    "items": [
+        {
+            "description": "Managed content-based model",
+            "quantity": 2,
+            "unit_price": 428.02,
+            "total_price": 856.04
+        },
+        {
+            "description": "Sharable solution-oriented benchmark",
+            "quantity": 10,
+            "unit_price": 86.54,
+            "total_price": 865.4
+        },
+        {
+            "description": "Grass-roots multimedia project",
+            "quantity": 6,
+            "unit_price": 186.08,
+            "total_price": 1116.48
+        }
+    ],
+    "amount": 2837.92
+}

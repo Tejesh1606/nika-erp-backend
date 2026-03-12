@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Garcia LLC",
+    "invoice_number": "INV-20769",
+    "date": "2025-09-04",
+    "items": [
+        {
+            "description": "Balanced human-resource frame",
+            "quantity": 9,
+            "unit_price": 212.3,
+            "total_price": 1910.7
+        }
+    ],
+    "amount": 1910.7
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ochoa, Carter and Miller",
+    "invoice_number": "INV-95210",
+    "date": "2025-07-04",
+    "items": [
+        {
+            "description": "Fully-configurable intangible projection",
+            "quantity": 7,
+            "unit_price": 114.43,
+            "total_price": 801.01
+        },
+        {
+            "description": "Optional actuating secured line",
+            "quantity": 10,
+            "unit_price": 329.21,
+            "total_price": 3292.1
+        },
+        {
+            "description": "Enterprise-wide systematic adapter",
+            "quantity": 10,
+            "unit_price": 212.88,
+            "total_price": 2128.8
+        }
+    ],
+    "amount": 6221.91
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Young, Perry and Johnson",
+    "invoice_number": "INV-53879",
+    "date": "2025-07-30",
+    "items": [
+        {
+            "description": "Team-oriented composite contingency",
+            "quantity": 9,
+            "unit_price": 332.52,
+            "total_price": 2992.68
+        }
+    ],
+    "amount": 2992.68
+}

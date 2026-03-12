@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hernandez LLC",
+    "invoice_number": "INV-87352",
+    "date": "2025-06-17",
+    "items": [
+        {
+            "description": "Exclusive multimedia pricing structure",
+            "quantity": 5,
+            "unit_price": 134.76,
+            "total_price": 673.8
+        },
+        {
+            "description": "Upgradable logistical Internet solution",
+            "quantity": 5,
+            "unit_price": 470.68,
+            "total_price": 2353.4
+        },
+        {
+            "description": "Business-focused maximized forecast",
+            "quantity": 7,
+            "unit_price": 94.86,
+            "total_price": 664.02
+        }
+    ],
+    "amount": 3691.22
+}

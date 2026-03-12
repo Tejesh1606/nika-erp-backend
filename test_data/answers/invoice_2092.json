@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cannon-Cohen",
+    "invoice_number": "INV-19354",
+    "date": "2025-11-01",
+    "items": [
+        {
+            "description": "Visionary foreground core",
+            "quantity": 6,
+            "unit_price": 305.22,
+            "total_price": 1831.32
+        }
+    ],
+    "amount": 1831.32
+}

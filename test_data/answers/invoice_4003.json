@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Garcia, Gonzalez and Allen",
+    "invoice_number": "INV-84511",
+    "date": "2025-11-22",
+    "items": [
+        {
+            "description": "Expanded scalable process improvement",
+            "quantity": 10,
+            "unit_price": 427.77,
+            "total_price": 4277.7
+        }
+    ],
+    "amount": 4277.7
+}

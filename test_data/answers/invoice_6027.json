@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Castro-Jones",
+    "invoice_number": "INV-93781",
+    "date": "2025-06-22",
+    "items": [
+        {
+            "description": "Re-engineered context-sensitive workforce",
+            "quantity": 3,
+            "unit_price": 275.15,
+            "total_price": 825.45
+        },
+        {
+            "description": "De-engineered national definition",
+            "quantity": 6,
+            "unit_price": 349.37,
+            "total_price": 2096.22
+        },
+        {
+            "description": "Inverse transitional initiative",
+            "quantity": 3,
+            "unit_price": 419.57,
+            "total_price": 1258.71
+        },
+        {
+            "description": "Automated tertiary challenge",
+            "quantity": 2,
+            "unit_price": 198.21,
+            "total_price": 396.42
+        }
+    ],
+    "amount": 4576.8
+}

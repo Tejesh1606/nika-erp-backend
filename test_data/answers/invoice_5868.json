@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Rojas Group",
+    "invoice_number": "INV-64869",
+    "date": "2025-04-16",
+    "items": [
+        {
+            "description": "Multi-lateral bandwidth-monitored moratorium",
+            "quantity": 8,
+            "unit_price": 59.02,
+            "total_price": 472.16
+        },
+        {
+            "description": "Assimilated local middleware",
+            "quantity": 6,
+            "unit_price": 493.18,
+            "total_price": 2959.08
+        }
+    ],
+    "amount": 3431.24
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Riley-Gentry",
+    "invoice_number": "INV-43742",
+    "date": "2025-10-06",
+    "items": [
+        {
+            "description": "Object-based mission-critical analyzer",
+            "quantity": 9,
+            "unit_price": 459.76,
+            "total_price": 4137.84
+        },
+        {
+            "description": "Persistent solution-oriented implementation",
+            "quantity": 5,
+            "unit_price": 485.73,
+            "total_price": 2428.65
+        },
+        {
+            "description": "Total reciprocal monitoring",
+            "quantity": 5,
+            "unit_price": 375.98,
+            "total_price": 1879.9
+        }
+    ],
+    "amount": 8446.39
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Woods-Harrington",
+    "invoice_number": "INV-39852",
+    "date": "2025-03-17",
+    "items": [
+        {
+            "description": "Centralized 4thgeneration time-frame",
+            "quantity": 10,
+            "unit_price": 181.14,
+            "total_price": 1811.4
+        },
+        {
+            "description": "Exclusive national portal",
+            "quantity": 4,
+            "unit_price": 437.14,
+            "total_price": 1748.56
+        },
+        {
+            "description": "Multi-tiered systemic software",
+            "quantity": 1,
+            "unit_price": 48.12,
+            "total_price": 48.12
+        },
+        {
+            "description": "User-centric 3rdgeneration neural-net",
+            "quantity": 5,
+            "unit_price": 360.0,
+            "total_price": 1800.0
+        }
+    ],
+    "amount": 5408.08
+}

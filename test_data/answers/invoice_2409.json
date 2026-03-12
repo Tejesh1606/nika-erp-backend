@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Simpson, Hernandez and Reid",
+    "invoice_number": "INV-81246",
+    "date": "2025-09-07",
+    "items": [
+        {
+            "description": "De-engineered 5thgeneration parallelism",
+            "quantity": 5,
+            "unit_price": 204.11,
+            "total_price": 1020.55
+        }
+    ],
+    "amount": 1020.55
+}

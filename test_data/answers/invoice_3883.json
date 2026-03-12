@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Diaz Inc",
+    "invoice_number": "INV-47134",
+    "date": "2025-06-24",
+    "items": [
+        {
+            "description": "Future-proofed high-level hierarchy",
+            "quantity": 10,
+            "unit_price": 163.7,
+            "total_price": 1637.0
+        },
+        {
+            "description": "Universal bottom-line support",
+            "quantity": 5,
+            "unit_price": 269.98,
+            "total_price": 1349.9
+        },
+        {
+            "description": "Streamlined fault-tolerant database",
+            "quantity": 4,
+            "unit_price": 461.88,
+            "total_price": 1847.52
+        }
+    ],
+    "amount": 4834.42
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hardy Group",
+    "invoice_number": "INV-60399",
+    "date": "2025-06-20",
+    "items": [
+        {
+            "description": "Profit-focused mission-critical moderator",
+            "quantity": 9,
+            "unit_price": 99.67,
+            "total_price": 897.03
+        },
+        {
+            "description": "Down-sized stable initiative",
+            "quantity": 1,
+            "unit_price": 203.55,
+            "total_price": 203.55
+        },
+        {
+            "description": "Integrated multimedia leverage",
+            "quantity": 3,
+            "unit_price": 259.1,
+            "total_price": 777.3
+        },
+        {
+            "description": "Customizable directional analyzer",
+            "quantity": 4,
+            "unit_price": 174.67,
+            "total_price": 698.68
+        }
+    ],
+    "amount": 2576.56
+}

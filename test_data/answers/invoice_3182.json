@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Perkins-Clayton",
+    "invoice_number": "INV-65842",
+    "date": "2025-04-30",
+    "items": [
+        {
+            "description": "Networked scalable throughput",
+            "quantity": 9,
+            "unit_price": 384.73,
+            "total_price": 3462.57
+        },
+        {
+            "description": "Mandatory executive projection",
+            "quantity": 4,
+            "unit_price": 292.18,
+            "total_price": 1168.72
+        },
+        {
+            "description": "Focused exuding throughput",
+            "quantity": 10,
+            "unit_price": 48.78,
+            "total_price": 487.8
+        },
+        {
+            "description": "Organized heuristic open system",
+            "quantity": 9,
+            "unit_price": 171.54,
+            "total_price": 1543.86
+        }
+    ],
+    "amount": 6662.95
+}

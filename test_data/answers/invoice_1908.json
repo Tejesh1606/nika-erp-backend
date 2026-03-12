@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Williams, Reynolds and Prince",
+    "invoice_number": "INV-61109",
+    "date": "2025-08-19",
+    "items": [
+        {
+            "description": "Future-proofed background archive",
+            "quantity": 6,
+            "unit_price": 388.34,
+            "total_price": 2330.04
+        },
+        {
+            "description": "Advanced secondary infrastructure",
+            "quantity": 5,
+            "unit_price": 251.92,
+            "total_price": 1259.6
+        },
+        {
+            "description": "Multi-layered exuding array",
+            "quantity": 5,
+            "unit_price": 275.22,
+            "total_price": 1376.1
+        },
+        {
+            "description": "Triple-buffered background strategy",
+            "quantity": 7,
+            "unit_price": 110.12,
+            "total_price": 770.84
+        }
+    ],
+    "amount": 5736.58
+}

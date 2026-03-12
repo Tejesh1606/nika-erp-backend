@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Schmitt Ltd",
+    "invoice_number": "INV-53633",
+    "date": "2025-03-30",
+    "items": [
+        {
+            "description": "Universal encompassing encoding",
+            "quantity": 3,
+            "unit_price": 12.92,
+            "total_price": 38.76
+        },
+        {
+            "description": "Future-proofed 24hour throughput",
+            "quantity": 10,
+            "unit_price": 268.6,
+            "total_price": 2686.0
+        }
+    ],
+    "amount": 2724.76
+}

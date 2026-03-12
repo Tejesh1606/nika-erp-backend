@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Moore Ltd",
+    "invoice_number": "INV-52891",
+    "date": "2025-07-24",
+    "items": [
+        {
+            "description": "Managed background software",
+            "quantity": 1,
+            "unit_price": 376.92,
+            "total_price": 376.92
+        },
+        {
+            "description": "Triple-buffered 3rdgeneration adapter",
+            "quantity": 5,
+            "unit_price": 18.09,
+            "total_price": 90.45
+        }
+    ],
+    "amount": 467.37
+}

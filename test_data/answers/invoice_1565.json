@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Flowers, Berry and Ramirez",
+    "invoice_number": "INV-42216",
+    "date": "2025-09-01",
+    "items": [
+        {
+            "description": "Enhanced tertiary budgetary management",
+            "quantity": 10,
+            "unit_price": 469.47,
+            "total_price": 4694.7
+        },
+        {
+            "description": "Universal dynamic complexity",
+            "quantity": 5,
+            "unit_price": 475.75,
+            "total_price": 2378.75
+        }
+    ],
+    "amount": 7073.45
+}

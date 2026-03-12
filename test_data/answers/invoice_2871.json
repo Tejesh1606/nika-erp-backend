@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Shaw, Vargas and Ross",
+    "invoice_number": "INV-51203",
+    "date": "2025-04-09",
+    "items": [
+        {
+            "description": "Cross-group neutral benchmark",
+            "quantity": 6,
+            "unit_price": 227.16,
+            "total_price": 1362.96
+        }
+    ],
+    "amount": 1362.96
+}

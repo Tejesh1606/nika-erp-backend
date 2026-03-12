@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Garrett, Flynn and Gallegos",
+    "invoice_number": "INV-64267",
+    "date": "2026-01-29",
+    "items": [
+        {
+            "description": "Ergonomic impactful knowledgebase",
+            "quantity": 3,
+            "unit_price": 499.15,
+            "total_price": 1497.45
+        },
+        {
+            "description": "Progressive systemic conglomeration",
+            "quantity": 5,
+            "unit_price": 13.69,
+            "total_price": 68.45
+        }
+    ],
+    "amount": 1565.9
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Stone Group",
+    "invoice_number": "INV-15616",
+    "date": "2026-01-25",
+    "items": [
+        {
+            "description": "Multi-lateral responsive adapter",
+            "quantity": 3,
+            "unit_price": 153.86,
+            "total_price": 461.58
+        }
+    ],
+    "amount": 461.58
+}

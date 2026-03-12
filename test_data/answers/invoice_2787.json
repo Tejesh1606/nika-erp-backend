@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bryant Group",
+    "invoice_number": "INV-41646",
+    "date": "2025-06-21",
+    "items": [
+        {
+            "description": "Realigned high-level utilization",
+            "quantity": 3,
+            "unit_price": 62.34,
+            "total_price": 187.02
+        },
+        {
+            "description": "Assimilated solution-oriented secured line",
+            "quantity": 8,
+            "unit_price": 90.82,
+            "total_price": 726.56
+        }
+    ],
+    "amount": 913.58
+}

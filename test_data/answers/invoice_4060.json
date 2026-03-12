@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Torres PLC",
+    "invoice_number": "INV-42383",
+    "date": "2026-01-03",
+    "items": [
+        {
+            "description": "Multi-lateral bifurcated initiative",
+            "quantity": 10,
+            "unit_price": 491.58,
+            "total_price": 4915.8
+        },
+        {
+            "description": "Ameliorated client-driven infrastructure",
+            "quantity": 5,
+            "unit_price": 258.43,
+            "total_price": 1292.15
+        },
+        {
+            "description": "Robust zero-defect strategy",
+            "quantity": 10,
+            "unit_price": 106.35,
+            "total_price": 1063.5
+        }
+    ],
+    "amount": 7271.45
+}

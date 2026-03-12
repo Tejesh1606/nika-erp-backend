@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Holt, Parker and Smith",
+    "invoice_number": "INV-17505",
+    "date": "2025-04-28",
+    "items": [
+        {
+            "description": "Synergized didactic benchmark",
+            "quantity": 6,
+            "unit_price": 294.39,
+            "total_price": 1766.34
+        },
+        {
+            "description": "Devolved asynchronous matrix",
+            "quantity": 8,
+            "unit_price": 95.21,
+            "total_price": 761.68
+        },
+        {
+            "description": "Progressive bifurcated knowledge user",
+            "quantity": 2,
+            "unit_price": 289.77,
+            "total_price": 579.54
+        },
+        {
+            "description": "Versatile 3rdgeneration function",
+            "quantity": 2,
+            "unit_price": 249.13,
+            "total_price": 498.26
+        }
+    ],
+    "amount": 3605.82
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mitchell-Mcdonald",
+    "invoice_number": "INV-29089",
+    "date": "2026-02-09",
+    "items": [
+        {
+            "description": "Exclusive asynchronous budgetary management",
+            "quantity": 7,
+            "unit_price": 185.64,
+            "total_price": 1299.48
+        },
+        {
+            "description": "Devolved content-based collaboration",
+            "quantity": 10,
+            "unit_price": 223.18,
+            "total_price": 2231.8
+        }
+    ],
+    "amount": 3531.28
+}

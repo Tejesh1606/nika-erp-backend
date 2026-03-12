@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Valenzuela Group",
+    "invoice_number": "INV-64041",
+    "date": "2025-11-05",
+    "items": [
+        {
+            "description": "Implemented systematic infrastructure",
+            "quantity": 8,
+            "unit_price": 330.22,
+            "total_price": 2641.76
+        },
+        {
+            "description": "De-engineered local conglomeration",
+            "quantity": 8,
+            "unit_price": 178.01,
+            "total_price": 1424.08
+        },
+        {
+            "description": "Profit-focused interactive Graphical User Interface",
+            "quantity": 5,
+            "unit_price": 104.49,
+            "total_price": 522.45
+        }
+    ],
+    "amount": 4588.29
+}

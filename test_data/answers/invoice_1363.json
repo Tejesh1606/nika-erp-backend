@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Price-Boyd",
+    "invoice_number": "INV-65215",
+    "date": "2026-02-19",
+    "items": [
+        {
+            "description": "Phased maximized Graphic Interface",
+            "quantity": 9,
+            "unit_price": 341.7,
+            "total_price": 3075.3
+        },
+        {
+            "description": "Devolved uniform framework",
+            "quantity": 2,
+            "unit_price": 145.65,
+            "total_price": 291.3
+        }
+    ],
+    "amount": 3366.6
+}

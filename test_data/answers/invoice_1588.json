@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Good-Cook",
+    "invoice_number": "INV-58546",
+    "date": "2025-04-23",
+    "items": [
+        {
+            "description": "Integrated disintermediate matrix",
+            "quantity": 5,
+            "unit_price": 35.18,
+            "total_price": 175.9
+        }
+    ],
+    "amount": 175.9
+}

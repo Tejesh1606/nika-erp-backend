@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Flores PLC",
+    "invoice_number": "INV-14665",
+    "date": "2026-03-09",
+    "items": [
+        {
+            "description": "Pre-emptive zero administration model",
+            "quantity": 1,
+            "unit_price": 317.02,
+            "total_price": 317.02
+        },
+        {
+            "description": "Compatible optimizing array",
+            "quantity": 5,
+            "unit_price": 451.34,
+            "total_price": 2256.7
+        },
+        {
+            "description": "Fully-configurable upward-trending hardware",
+            "quantity": 1,
+            "unit_price": 497.41,
+            "total_price": 497.41
+        }
+    ],
+    "amount": 3071.13
+}

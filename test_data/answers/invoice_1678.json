@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gray-Martinez",
+    "invoice_number": "INV-64129",
+    "date": "2025-05-05",
+    "items": [
+        {
+            "description": "Future-proofed multimedia emulation",
+            "quantity": 1,
+            "unit_price": 343.82,
+            "total_price": 343.82
+        }
+    ],
+    "amount": 343.82
+}

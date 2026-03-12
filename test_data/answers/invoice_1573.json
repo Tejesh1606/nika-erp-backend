@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Kelly-Hunt",
+    "invoice_number": "INV-72535",
+    "date": "2025-03-24",
+    "items": [
+        {
+            "description": "Polarized asymmetric help-desk",
+            "quantity": 2,
+            "unit_price": 462.28,
+            "total_price": 924.56
+        },
+        {
+            "description": "Managed content-based function",
+            "quantity": 2,
+            "unit_price": 343.4,
+            "total_price": 686.8
+        },
+        {
+            "description": "Profit-focused composite access",
+            "quantity": 4,
+            "unit_price": 64.02,
+            "total_price": 256.08
+        },
+        {
+            "description": "Cross-platform client-server synergy",
+            "quantity": 5,
+            "unit_price": 193.19,
+            "total_price": 965.95
+        }
+    ],
+    "amount": 2833.39
+}

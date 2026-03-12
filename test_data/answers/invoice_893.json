@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Brown LLC",
+    "invoice_number": "INV-75369",
+    "date": "2025-07-02",
+    "items": [
+        {
+            "description": "Exclusive coherent implementation",
+            "quantity": 10,
+            "unit_price": 359.44,
+            "total_price": 3594.4
+        },
+        {
+            "description": "Expanded secondary alliance",
+            "quantity": 5,
+            "unit_price": 426.04,
+            "total_price": 2130.2
+        }
+    ],
+    "amount": 5724.6
+}

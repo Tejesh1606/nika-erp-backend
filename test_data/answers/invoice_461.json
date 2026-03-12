@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Schroeder-Sanders",
+    "invoice_number": "INV-28096",
+    "date": "2026-02-04",
+    "items": [
+        {
+            "description": "Switchable bottom-line synergy",
+            "quantity": 9,
+            "unit_price": 459.69,
+            "total_price": 4137.21
+        },
+        {
+            "description": "Focused local toolset",
+            "quantity": 3,
+            "unit_price": 351.37,
+            "total_price": 1054.11
+        }
+    ],
+    "amount": 5191.32
+}

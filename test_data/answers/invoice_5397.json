@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Taylor-Mata",
+    "invoice_number": "INV-74082",
+    "date": "2025-11-26",
+    "items": [
+        {
+            "description": "Optimized contextually-based toolset",
+            "quantity": 7,
+            "unit_price": 352.56,
+            "total_price": 2467.92
+        },
+        {
+            "description": "Monitored global pricing structure",
+            "quantity": 1,
+            "unit_price": 52.58,
+            "total_price": 52.58
+        },
+        {
+            "description": "Fully-configurable mobile interface",
+            "quantity": 6,
+            "unit_price": 224.52,
+            "total_price": 1347.12
+        }
+    ],
+    "amount": 3867.62
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Morgan-Perez",
+    "invoice_number": "INV-68642",
+    "date": "2026-02-13",
+    "items": [
+        {
+            "description": "Operative next generation benchmark",
+            "quantity": 2,
+            "unit_price": 454.21,
+            "total_price": 908.42
+        },
+        {
+            "description": "Adaptive contextually-based website",
+            "quantity": 8,
+            "unit_price": 430.23,
+            "total_price": 3441.84
+        },
+        {
+            "description": "Horizontal neutral access",
+            "quantity": 9,
+            "unit_price": 93.41,
+            "total_price": 840.69
+        }
+    ],
+    "amount": 5190.95
+}

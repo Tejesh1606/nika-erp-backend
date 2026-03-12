@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Fitzgerald LLC",
+    "invoice_number": "INV-96759",
+    "date": "2026-03-05",
+    "items": [
+        {
+            "description": "Switchable client-server framework",
+            "quantity": 4,
+            "unit_price": 374.45,
+            "total_price": 1497.8
+        },
+        {
+            "description": "Diverse stable hub",
+            "quantity": 5,
+            "unit_price": 264.59,
+            "total_price": 1322.95
+        },
+        {
+            "description": "Extended incremental policy",
+            "quantity": 8,
+            "unit_price": 49.48,
+            "total_price": 395.84
+        },
+        {
+            "description": "Ameliorated optimal array",
+            "quantity": 4,
+            "unit_price": 232.67,
+            "total_price": 930.68
+        }
+    ],
+    "amount": 4147.27
+}

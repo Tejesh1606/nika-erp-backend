@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hernandez, Gillespie and Rosario",
+    "invoice_number": "INV-62163",
+    "date": "2025-12-12",
+    "items": [
+        {
+            "description": "Profit-focused disintermediate functionalities",
+            "quantity": 4,
+            "unit_price": 88.34,
+            "total_price": 353.36
+        },
+        {
+            "description": "Diverse maximized migration",
+            "quantity": 4,
+            "unit_price": 385.56,
+            "total_price": 1542.24
+        },
+        {
+            "description": "Business-focused responsive middleware",
+            "quantity": 7,
+            "unit_price": 259.37,
+            "total_price": 1815.59
+        }
+    ],
+    "amount": 3711.19
+}

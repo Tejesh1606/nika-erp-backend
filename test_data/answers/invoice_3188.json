@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lee Ltd",
+    "invoice_number": "INV-75673",
+    "date": "2025-07-11",
+    "items": [
+        {
+            "description": "Horizontal 24/7 encoding",
+            "quantity": 10,
+            "unit_price": 95.2,
+            "total_price": 952.0
+        }
+    ],
+    "amount": 952.0
+}

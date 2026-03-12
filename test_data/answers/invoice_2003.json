@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Berg-Hill",
+    "invoice_number": "INV-41404",
+    "date": "2025-07-29",
+    "items": [
+        {
+            "description": "Vision-oriented transitional parallelism",
+            "quantity": 10,
+            "unit_price": 175.0,
+            "total_price": 1750.0
+        }
+    ],
+    "amount": 1750.0
+}

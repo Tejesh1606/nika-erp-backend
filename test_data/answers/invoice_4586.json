@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hicks, Lowe and Lewis",
+    "invoice_number": "INV-73904",
+    "date": "2025-04-12",
+    "items": [
+        {
+            "description": "Front-line leadingedge parallelism",
+            "quantity": 6,
+            "unit_price": 211.42,
+            "total_price": 1268.52
+        }
+    ],
+    "amount": 1268.52
+}

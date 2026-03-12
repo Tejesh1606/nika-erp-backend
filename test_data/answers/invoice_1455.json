@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gutierrez, Davidson and Robinson",
+    "invoice_number": "INV-42892",
+    "date": "2026-01-23",
+    "items": [
+        {
+            "description": "Monitored user-facing encoding",
+            "quantity": 7,
+            "unit_price": 86.76,
+            "total_price": 607.32
+        },
+        {
+            "description": "Progressive 24hour projection",
+            "quantity": 9,
+            "unit_price": 109.86,
+            "total_price": 988.74
+        },
+        {
+            "description": "Synergized eco-centric forecast",
+            "quantity": 7,
+            "unit_price": 422.68,
+            "total_price": 2958.76
+        },
+        {
+            "description": "Versatile cohesive architecture",
+            "quantity": 6,
+            "unit_price": 275.73,
+            "total_price": 1654.38
+        }
+    ],
+    "amount": 6209.2
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hammond-Bradford",
+    "invoice_number": "INV-55545",
+    "date": "2026-02-25",
+    "items": [
+        {
+            "description": "Universal directional archive",
+            "quantity": 8,
+            "unit_price": 234.53,
+            "total_price": 1876.24
+        },
+        {
+            "description": "Cross-group 5thgeneration hardware",
+            "quantity": 9,
+            "unit_price": 58.16,
+            "total_price": 523.44
+        }
+    ],
+    "amount": 2399.68
+}

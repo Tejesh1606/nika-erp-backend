@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Gill Ltd",
+    "invoice_number": "INV-77730",
+    "date": "2025-08-10",
+    "items": [
+        {
+            "description": "Object-based multi-state interface",
+            "quantity": 4,
+            "unit_price": 364.15,
+            "total_price": 1456.6
+        },
+        {
+            "description": "Quality-focused stable portal",
+            "quantity": 5,
+            "unit_price": 65.47,
+            "total_price": 327.35
+        },
+        {
+            "description": "Re-engineered multi-tasking framework",
+            "quantity": 3,
+            "unit_price": 275.25,
+            "total_price": 825.75
+        }
+    ],
+    "amount": 2609.7
+}

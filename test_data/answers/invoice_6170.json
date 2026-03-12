@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Escobar Ltd",
+    "invoice_number": "INV-51885",
+    "date": "2025-10-03",
+    "items": [
+        {
+            "description": "Customer-focused motivating budgetary management",
+            "quantity": 10,
+            "unit_price": 127.25,
+            "total_price": 1272.5
+        },
+        {
+            "description": "Stand-alone asynchronous access",
+            "quantity": 1,
+            "unit_price": 342.11,
+            "total_price": 342.11
+        },
+        {
+            "description": "Object-based tangible pricing structure",
+            "quantity": 9,
+            "unit_price": 299.19,
+            "total_price": 2692.71
+        },
+        {
+            "description": "Robust executive protocol",
+            "quantity": 4,
+            "unit_price": 433.77,
+            "total_price": 1735.08
+        }
+    ],
+    "amount": 6042.4
+}

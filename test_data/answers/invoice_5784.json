@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Griffin Ltd",
+    "invoice_number": "INV-81384",
+    "date": "2026-02-23",
+    "items": [
+        {
+            "description": "Multi-layered empowering initiative",
+            "quantity": 5,
+            "unit_price": 46.43,
+            "total_price": 232.15
+        },
+        {
+            "description": "Adaptive value-added synergy",
+            "quantity": 10,
+            "unit_price": 218.14,
+            "total_price": 2181.4
+        },
+        {
+            "description": "Versatile high-level collaboration",
+            "quantity": 6,
+            "unit_price": 320.66,
+            "total_price": 1923.96
+        },
+        {
+            "description": "Configurable logistical database",
+            "quantity": 4,
+            "unit_price": 395.0,
+            "total_price": 1580.0
+        }
+    ],
+    "amount": 5917.51
+}

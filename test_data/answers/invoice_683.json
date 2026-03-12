@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Marsh, Nelson and Wolfe",
+    "invoice_number": "INV-57516",
+    "date": "2025-04-15",
+    "items": [
+        {
+            "description": "Public-key optimal help-desk",
+            "quantity": 6,
+            "unit_price": 237.57,
+            "total_price": 1425.42
+        }
+    ],
+    "amount": 1425.42
+}

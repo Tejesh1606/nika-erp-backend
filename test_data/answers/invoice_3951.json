@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wilson-Knox",
+    "invoice_number": "INV-38715",
+    "date": "2025-05-28",
+    "items": [
+        {
+            "description": "Reverse-engineered full-range instruction set",
+            "quantity": 5,
+            "unit_price": 375.07,
+            "total_price": 1875.35
+        },
+        {
+            "description": "Ergonomic contextually-based capacity",
+            "quantity": 6,
+            "unit_price": 446.44,
+            "total_price": 2678.64
+        },
+        {
+            "description": "Fundamental holistic archive",
+            "quantity": 7,
+            "unit_price": 29.6,
+            "total_price": 207.2
+        },
+        {
+            "description": "Profound coherent hub",
+            "quantity": 4,
+            "unit_price": 218.71,
+            "total_price": 874.84
+        }
+    ],
+    "amount": 5636.03
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Anderson-Wood",
+    "invoice_number": "INV-65252",
+    "date": "2025-07-27",
+    "items": [
+        {
+            "description": "Reactive clear-thinking system engine",
+            "quantity": 3,
+            "unit_price": 192.62,
+            "total_price": 577.86
+        }
+    ],
+    "amount": 577.86
+}

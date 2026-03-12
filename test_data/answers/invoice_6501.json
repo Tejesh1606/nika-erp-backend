@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Carter Group",
+    "invoice_number": "INV-92180",
+    "date": "2025-11-22",
+    "items": [
+        {
+            "description": "Focused even-keeled function",
+            "quantity": 10,
+            "unit_price": 154.39,
+            "total_price": 1543.9
+        },
+        {
+            "description": "Integrated human-resource database",
+            "quantity": 9,
+            "unit_price": 430.43,
+            "total_price": 3873.87
+        },
+        {
+            "description": "Switchable explicit info-mediaries",
+            "quantity": 4,
+            "unit_price": 128.8,
+            "total_price": 515.2
+        },
+        {
+            "description": "Fundamental mission-critical extranet",
+            "quantity": 4,
+            "unit_price": 35.85,
+            "total_price": 143.4
+        }
+    ],
+    "amount": 6076.37
+}

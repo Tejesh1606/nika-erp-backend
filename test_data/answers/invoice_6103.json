@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hawkins, Maldonado and Holt",
+    "invoice_number": "INV-92567",
+    "date": "2025-10-23",
+    "items": [
+        {
+            "description": "Future-proofed content-based installation",
+            "quantity": 9,
+            "unit_price": 298.44,
+            "total_price": 2685.96
+        }
+    ],
+    "amount": 2685.96
+}

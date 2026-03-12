@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mcdonald, Nielsen and Jones",
+    "invoice_number": "INV-75480",
+    "date": "2025-03-19",
+    "items": [
+        {
+            "description": "Grass-roots uniform interface",
+            "quantity": 9,
+            "unit_price": 379.07,
+            "total_price": 3411.63
+        },
+        {
+            "description": "Operative multi-tasking leverage",
+            "quantity": 5,
+            "unit_price": 56.18,
+            "total_price": 280.9
+        },
+        {
+            "description": "Stand-alone 4thgeneration protocol",
+            "quantity": 4,
+            "unit_price": 392.96,
+            "total_price": 1571.84
+        }
+    ],
+    "amount": 5264.37
+}

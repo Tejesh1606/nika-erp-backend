@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Baker, Bradford and Terry",
+    "invoice_number": "INV-94320",
+    "date": "2026-01-14",
+    "items": [
+        {
+            "description": "Customer-focused executive throughput",
+            "quantity": 4,
+            "unit_price": 407.28,
+            "total_price": 1629.12
+        }
+    ],
+    "amount": 1629.12
+}

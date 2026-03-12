@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Whitaker PLC",
+    "invoice_number": "INV-68057",
+    "date": "2025-05-15",
+    "items": [
+        {
+            "description": "Inverse full-range alliance",
+            "quantity": 6,
+            "unit_price": 164.21,
+            "total_price": 985.26
+        },
+        {
+            "description": "Triple-buffered holistic function",
+            "quantity": 8,
+            "unit_price": 444.18,
+            "total_price": 3553.44
+        }
+    ],
+    "amount": 4538.7
+}

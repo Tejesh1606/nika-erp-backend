@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Horton-Becker",
+    "invoice_number": "INV-49899",
+    "date": "2025-03-14",
+    "items": [
+        {
+            "description": "Progressive local function",
+            "quantity": 8,
+            "unit_price": 287.81,
+            "total_price": 2302.48
+        },
+        {
+            "description": "Organized even-keeled algorithm",
+            "quantity": 3,
+            "unit_price": 244.35,
+            "total_price": 733.05
+        }
+    ],
+    "amount": 3035.53
+}

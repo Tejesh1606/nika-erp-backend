@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ward-Reed",
+    "invoice_number": "INV-76685",
+    "date": "2025-12-05",
+    "items": [
+        {
+            "description": "Enterprise-wide grid-enabled workforce",
+            "quantity": 8,
+            "unit_price": 198.13,
+            "total_price": 1585.04
+        },
+        {
+            "description": "Polarized clear-thinking definition",
+            "quantity": 6,
+            "unit_price": 335.87,
+            "total_price": 2015.22
+        }
+    ],
+    "amount": 3600.26
+}

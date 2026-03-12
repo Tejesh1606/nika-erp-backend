@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Garcia-Clayton",
+    "invoice_number": "INV-76026",
+    "date": "2025-10-21",
+    "items": [
+        {
+            "description": "Universal intermediate projection",
+            "quantity": 5,
+            "unit_price": 73.78,
+            "total_price": 368.9
+        },
+        {
+            "description": "Devolved background core",
+            "quantity": 5,
+            "unit_price": 147.99,
+            "total_price": 739.95
+        },
+        {
+            "description": "Digitized zero-defect support",
+            "quantity": 6,
+            "unit_price": 178.16,
+            "total_price": 1068.96
+        }
+    ],
+    "amount": 2177.81
+}

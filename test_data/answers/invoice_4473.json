@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mitchell, Wade and Lynch",
+    "invoice_number": "INV-69813",
+    "date": "2025-10-29",
+    "items": [
+        {
+            "description": "Organic 24/7 data-warehouse",
+            "quantity": 3,
+            "unit_price": 468.93,
+            "total_price": 1406.79
+        },
+        {
+            "description": "Decentralized 6thgeneration open architecture",
+            "quantity": 5,
+            "unit_price": 81.4,
+            "total_price": 407.0
+        },
+        {
+            "description": "Centralized multi-tasking data-warehouse",
+            "quantity": 5,
+            "unit_price": 220.35,
+            "total_price": 1101.75
+        }
+    ],
+    "amount": 2915.54
+}

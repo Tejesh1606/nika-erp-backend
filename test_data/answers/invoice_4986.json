@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Marquez-Pearson",
+    "invoice_number": "INV-61440",
+    "date": "2026-02-05",
+    "items": [
+        {
+            "description": "Organized demand-driven data-warehouse",
+            "quantity": 7,
+            "unit_price": 341.1,
+            "total_price": 2387.7
+        }
+    ],
+    "amount": 2387.7
+}

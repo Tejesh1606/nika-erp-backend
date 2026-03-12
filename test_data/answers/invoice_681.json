@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Johns-Taylor",
+    "invoice_number": "INV-31405",
+    "date": "2025-03-29",
+    "items": [
+        {
+            "description": "Future-proofed high-level instruction set",
+            "quantity": 7,
+            "unit_price": 230.06,
+            "total_price": 1610.42
+        },
+        {
+            "description": "Sharable heuristic application",
+            "quantity": 10,
+            "unit_price": 195.73,
+            "total_price": 1957.3
+        }
+    ],
+    "amount": 3567.72
+}

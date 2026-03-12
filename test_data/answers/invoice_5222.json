@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Phillips, Butler and Hines",
+    "invoice_number": "INV-53285",
+    "date": "2025-03-09",
+    "items": [
+        {
+            "description": "Self-enabling scalable complexity",
+            "quantity": 2,
+            "unit_price": 409.71,
+            "total_price": 819.42
+        },
+        {
+            "description": "Assimilated scalable pricing structure",
+            "quantity": 2,
+            "unit_price": 335.0,
+            "total_price": 670.0
+        }
+    ],
+    "amount": 1489.42
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Reed Inc",
+    "invoice_number": "INV-27385",
+    "date": "2025-04-02",
+    "items": [
+        {
+            "description": "Implemented asynchronous service-desk",
+            "quantity": 6,
+            "unit_price": 74.08,
+            "total_price": 444.48
+        },
+        {
+            "description": "Focused transitional model",
+            "quantity": 3,
+            "unit_price": 157.06,
+            "total_price": 471.18
+        }
+    ],
+    "amount": 915.66
+}

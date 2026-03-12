@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cruz and Sons",
+    "invoice_number": "INV-56605",
+    "date": "2025-10-20",
+    "items": [
+        {
+            "description": "Virtual dynamic product",
+            "quantity": 8,
+            "unit_price": 355.93,
+            "total_price": 2847.44
+        },
+        {
+            "description": "Open-source even-keeled moratorium",
+            "quantity": 3,
+            "unit_price": 483.28,
+            "total_price": 1449.84
+        }
+    ],
+    "amount": 4297.28
+}

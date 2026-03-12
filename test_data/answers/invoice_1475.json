@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Farmer, Miller and Marshall",
+    "invoice_number": "INV-29348",
+    "date": "2025-08-29",
+    "items": [
+        {
+            "description": "Self-enabling homogeneous open architecture",
+            "quantity": 10,
+            "unit_price": 328.81,
+            "total_price": 3288.1
+        },
+        {
+            "description": "Diverse radical intranet",
+            "quantity": 6,
+            "unit_price": 87.08,
+            "total_price": 522.48
+        },
+        {
+            "description": "Virtual foreground benchmark",
+            "quantity": 2,
+            "unit_price": 224.33,
+            "total_price": 448.66
+        }
+    ],
+    "amount": 4259.24
+}

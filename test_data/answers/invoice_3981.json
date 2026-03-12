@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Terry, Dudley and Mueller",
+    "invoice_number": "INV-57788",
+    "date": "2026-03-07",
+    "items": [
+        {
+            "description": "Versatile optimizing system engine",
+            "quantity": 5,
+            "unit_price": 421.95,
+            "total_price": 2109.75
+        },
+        {
+            "description": "Ergonomic human-resource workforce",
+            "quantity": 10,
+            "unit_price": 420.3,
+            "total_price": 4203.0
+        }
+    ],
+    "amount": 6312.75
+}

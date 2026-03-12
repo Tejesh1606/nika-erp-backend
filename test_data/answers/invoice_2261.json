@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Brown Ltd",
+    "invoice_number": "INV-36429",
+    "date": "2025-04-18",
+    "items": [
+        {
+            "description": "Right-sized local neural-net",
+            "quantity": 5,
+            "unit_price": 486.66,
+            "total_price": 2433.3
+        }
+    ],
+    "amount": 2433.3
+}

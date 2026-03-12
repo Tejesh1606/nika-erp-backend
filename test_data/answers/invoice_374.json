@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ruiz Ltd",
+    "invoice_number": "INV-86490",
+    "date": "2025-10-20",
+    "items": [
+        {
+            "description": "Secured asynchronous leverage",
+            "quantity": 3,
+            "unit_price": 418.58,
+            "total_price": 1255.74
+        },
+        {
+            "description": "Ergonomic motivating capability",
+            "quantity": 4,
+            "unit_price": 381.91,
+            "total_price": 1527.64
+        }
+    ],
+    "amount": 2783.38
+}

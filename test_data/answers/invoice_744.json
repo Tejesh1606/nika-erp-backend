@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Anderson-Morris",
+    "invoice_number": "INV-62108",
+    "date": "2025-11-30",
+    "items": [
+        {
+            "description": "Extended transitional info-mediaries",
+            "quantity": 7,
+            "unit_price": 105.97,
+            "total_price": 741.79
+        }
+    ],
+    "amount": 741.79
+}

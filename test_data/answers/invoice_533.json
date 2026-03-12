@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Diaz-Lee",
+    "invoice_number": "INV-55157",
+    "date": "2025-10-25",
+    "items": [
+        {
+            "description": "Streamlined 4thgeneration throughput",
+            "quantity": 2,
+            "unit_price": 173.64,
+            "total_price": 347.28
+        },
+        {
+            "description": "Integrated composite hardware",
+            "quantity": 3,
+            "unit_price": 474.12,
+            "total_price": 1422.36
+        }
+    ],
+    "amount": 1769.64
+}

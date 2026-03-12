@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Martin-Jones",
+    "invoice_number": "INV-72957",
+    "date": "2026-01-07",
+    "items": [
+        {
+            "description": "Phased real-time protocol",
+            "quantity": 5,
+            "unit_price": 399.25,
+            "total_price": 1996.25
+        }
+    ],
+    "amount": 1996.25
+}

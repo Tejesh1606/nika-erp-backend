@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wilson, Schneider and Olson",
+    "invoice_number": "INV-17556",
+    "date": "2025-08-04",
+    "items": [
+        {
+            "description": "Managed radical definition",
+            "quantity": 6,
+            "unit_price": 245.32,
+            "total_price": 1471.92
+        }
+    ],
+    "amount": 1471.92
+}

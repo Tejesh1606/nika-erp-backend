@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Poole-Brooks",
+    "invoice_number": "INV-66313",
+    "date": "2026-02-26",
+    "items": [
+        {
+            "description": "Compatible regional installation",
+            "quantity": 8,
+            "unit_price": 266.7,
+            "total_price": 2133.6
+        },
+        {
+            "description": "Open-architected upward-trending knowledgebase",
+            "quantity": 1,
+            "unit_price": 416.24,
+            "total_price": 416.24
+        },
+        {
+            "description": "Synergized homogeneous utilization",
+            "quantity": 7,
+            "unit_price": 181.54,
+            "total_price": 1270.78
+        }
+    ],
+    "amount": 3820.62
+}

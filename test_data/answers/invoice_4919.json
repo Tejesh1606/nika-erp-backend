@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Olson, Moran and Delgado",
+    "invoice_number": "INV-13344",
+    "date": "2025-06-25",
+    "items": [
+        {
+            "description": "Function-based optimal architecture",
+            "quantity": 2,
+            "unit_price": 87.19,
+            "total_price": 174.38
+        },
+        {
+            "description": "Business-focused stable time-frame",
+            "quantity": 6,
+            "unit_price": 194.29,
+            "total_price": 1165.74
+        },
+        {
+            "description": "Up-sized analyzing intranet",
+            "quantity": 6,
+            "unit_price": 298.14,
+            "total_price": 1788.84
+        }
+    ],
+    "amount": 3128.96
+}

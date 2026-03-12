@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Valdez and Sons",
+    "invoice_number": "INV-29862",
+    "date": "2025-12-10",
+    "items": [
+        {
+            "description": "Balanced composite structure",
+            "quantity": 9,
+            "unit_price": 45.27,
+            "total_price": 407.43
+        },
+        {
+            "description": "Integrated asymmetric workforce",
+            "quantity": 5,
+            "unit_price": 76.47,
+            "total_price": 382.35
+        },
+        {
+            "description": "Proactive interactive installation",
+            "quantity": 3,
+            "unit_price": 163.28,
+            "total_price": 489.84
+        },
+        {
+            "description": "Reverse-engineered leadingedge analyzer",
+            "quantity": 4,
+            "unit_price": 290.15,
+            "total_price": 1160.6
+        }
+    ],
+    "amount": 2440.22
+}

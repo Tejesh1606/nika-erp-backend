@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lewis-Berger",
+    "invoice_number": "INV-76034",
+    "date": "2026-01-22",
+    "items": [
+        {
+            "description": "Ergonomic 6thgeneration function",
+            "quantity": 4,
+            "unit_price": 12.79,
+            "total_price": 51.16
+        },
+        {
+            "description": "Adaptive responsive matrices",
+            "quantity": 10,
+            "unit_price": 497.41,
+            "total_price": 4974.1
+        },
+        {
+            "description": "Polarized upward-trending support",
+            "quantity": 6,
+            "unit_price": 34.36,
+            "total_price": 206.16
+        }
+    ],
+    "amount": 5231.42
+}

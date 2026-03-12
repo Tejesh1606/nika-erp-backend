@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hill PLC",
+    "invoice_number": "INV-90734",
+    "date": "2025-03-24",
+    "items": [
+        {
+            "description": "Re-engineered intangible knowledgebase",
+            "quantity": 9,
+            "unit_price": 232.54,
+            "total_price": 2092.86
+        },
+        {
+            "description": "Public-key asymmetric portal",
+            "quantity": 5,
+            "unit_price": 457.17,
+            "total_price": 2285.85
+        },
+        {
+            "description": "Integrated high-level utilization",
+            "quantity": 4,
+            "unit_price": 361.89,
+            "total_price": 1447.56
+        }
+    ],
+    "amount": 5826.27
+}

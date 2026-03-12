@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Byrd-Cherry",
+    "invoice_number": "INV-64146",
+    "date": "2025-10-25",
+    "items": [
+        {
+            "description": "Managed needs-based alliance",
+            "quantity": 5,
+            "unit_price": 302.63,
+            "total_price": 1513.15
+        },
+        {
+            "description": "Multi-lateral value-added archive",
+            "quantity": 10,
+            "unit_price": 354.44,
+            "total_price": 3544.4
+        }
+    ],
+    "amount": 5057.55
+}

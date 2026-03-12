@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Joyce Ltd",
+    "invoice_number": "INV-61915",
+    "date": "2025-04-21",
+    "items": [
+        {
+            "description": "Grass-roots non-volatile middleware",
+            "quantity": 4,
+            "unit_price": 58.87,
+            "total_price": 235.48
+        },
+        {
+            "description": "Proactive composite neural-net",
+            "quantity": 6,
+            "unit_price": 279.39,
+            "total_price": 1676.34
+        },
+        {
+            "description": "Ergonomic stable support",
+            "quantity": 3,
+            "unit_price": 82.84,
+            "total_price": 248.52
+        }
+    ],
+    "amount": 2160.34
+}

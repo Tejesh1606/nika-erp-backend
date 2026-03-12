@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Harper, Frye and Hernandez",
+    "invoice_number": "INV-98735",
+    "date": "2025-12-18",
+    "items": [
+        {
+            "description": "Versatile zero tolerance access",
+            "quantity": 6,
+            "unit_price": 432.63,
+            "total_price": 2595.78
+        },
+        {
+            "description": "Operative fresh-thinking algorithm",
+            "quantity": 10,
+            "unit_price": 406.69,
+            "total_price": 4066.9
+        }
+    ],
+    "amount": 6662.68
+}

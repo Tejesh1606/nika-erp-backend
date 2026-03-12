@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Villarreal and Sons",
+    "invoice_number": "INV-85487",
+    "date": "2025-09-23",
+    "items": [
+        {
+            "description": "Assimilated system-worthy capability",
+            "quantity": 4,
+            "unit_price": 245.81,
+            "total_price": 983.24
+        },
+        {
+            "description": "Front-line uniform middleware",
+            "quantity": 3,
+            "unit_price": 42.23,
+            "total_price": 126.69
+        },
+        {
+            "description": "Proactive background task-force",
+            "quantity": 2,
+            "unit_price": 129.99,
+            "total_price": 259.98
+        },
+        {
+            "description": "Multi-tiered client-server moratorium",
+            "quantity": 4,
+            "unit_price": 154.11,
+            "total_price": 616.44
+        }
+    ],
+    "amount": 1986.35
+}

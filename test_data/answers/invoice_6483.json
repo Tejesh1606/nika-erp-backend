@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wade LLC",
+    "invoice_number": "INV-78315",
+    "date": "2025-06-26",
+    "items": [
+        {
+            "description": "Re-engineered incremental collaboration",
+            "quantity": 1,
+            "unit_price": 478.32,
+            "total_price": 478.32
+        }
+    ],
+    "amount": 478.32
+}

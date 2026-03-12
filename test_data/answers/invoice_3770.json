@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Kelley-Monroe",
+    "invoice_number": "INV-85593",
+    "date": "2025-04-10",
+    "items": [
+        {
+            "description": "Cross-platform impactful software",
+            "quantity": 1,
+            "unit_price": 229.46,
+            "total_price": 229.46
+        },
+        {
+            "description": "User-centric fault-tolerant hub",
+            "quantity": 8,
+            "unit_price": 423.0,
+            "total_price": 3384.0
+        },
+        {
+            "description": "Organic solution-oriented initiative",
+            "quantity": 10,
+            "unit_price": 494.22,
+            "total_price": 4942.2
+        },
+        {
+            "description": "Pre-emptive zero tolerance secured line",
+            "quantity": 2,
+            "unit_price": 177.63,
+            "total_price": 355.26
+        }
+    ],
+    "amount": 8910.92
+}

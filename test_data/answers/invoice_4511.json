@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gray LLC",
+    "invoice_number": "INV-27188",
+    "date": "2025-04-25",
+    "items": [
+        {
+            "description": "De-engineered motivating capacity",
+            "quantity": 10,
+            "unit_price": 431.7,
+            "total_price": 4317.0
+        }
+    ],
+    "amount": 4317.0
+}

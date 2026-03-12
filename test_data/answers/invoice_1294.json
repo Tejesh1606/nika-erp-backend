@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cox Ltd",
+    "invoice_number": "INV-77051",
+    "date": "2025-11-08",
+    "items": [
+        {
+            "description": "Streamlined leadingedge interface",
+            "quantity": 6,
+            "unit_price": 383.01,
+            "total_price": 2298.06
+        },
+        {
+            "description": "Decentralized bi-directional circuit",
+            "quantity": 2,
+            "unit_price": 46.61,
+            "total_price": 93.22
+        },
+        {
+            "description": "Fundamental well-modulated paradigm",
+            "quantity": 5,
+            "unit_price": 13.68,
+            "total_price": 68.4
+        }
+    ],
+    "amount": 2459.68
+}

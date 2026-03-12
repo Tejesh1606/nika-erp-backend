@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wilkerson, Allen and Tran",
+    "invoice_number": "INV-54448",
+    "date": "2025-09-28",
+    "items": [
+        {
+            "description": "Public-key background firmware",
+            "quantity": 2,
+            "unit_price": 427.14,
+            "total_price": 854.28
+        },
+        {
+            "description": "Fundamental full-range neural-net",
+            "quantity": 3,
+            "unit_price": 398.54,
+            "total_price": 1195.62
+        },
+        {
+            "description": "Devolved context-sensitive analyzer",
+            "quantity": 10,
+            "unit_price": 406.86,
+            "total_price": 4068.6
+        },
+        {
+            "description": "Optimized mobile database",
+            "quantity": 8,
+            "unit_price": 330.33,
+            "total_price": 2642.64
+        }
+    ],
+    "amount": 8761.14
+}

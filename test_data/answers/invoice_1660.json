@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Phillips Inc",
+    "invoice_number": "INV-96725",
+    "date": "2025-08-30",
+    "items": [
+        {
+            "description": "Face-to-face regional challenge",
+            "quantity": 6,
+            "unit_price": 85.48,
+            "total_price": 512.88
+        },
+        {
+            "description": "Automated bottom-line success",
+            "quantity": 10,
+            "unit_price": 349.88,
+            "total_price": 3498.8
+        },
+        {
+            "description": "Up-sized demand-driven hierarchy",
+            "quantity": 6,
+            "unit_price": 112.36,
+            "total_price": 674.16
+        },
+        {
+            "description": "Self-enabling web-enabled task-force",
+            "quantity": 9,
+            "unit_price": 298.83,
+            "total_price": 2689.47
+        }
+    ],
+    "amount": 7375.31
+}

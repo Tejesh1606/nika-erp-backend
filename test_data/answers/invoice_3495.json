@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lucero, Kramer and Lester",
+    "invoice_number": "INV-66607",
+    "date": "2025-12-23",
+    "items": [
+        {
+            "description": "Automated dynamic data-warehouse",
+            "quantity": 3,
+            "unit_price": 91.31,
+            "total_price": 273.93
+        },
+        {
+            "description": "Devolved mobile customer loyalty",
+            "quantity": 10,
+            "unit_price": 119.64,
+            "total_price": 1196.4
+        },
+        {
+            "description": "Re-engineered regional leverage",
+            "quantity": 3,
+            "unit_price": 78.96,
+            "total_price": 236.88
+        }
+    ],
+    "amount": 1707.21
+}

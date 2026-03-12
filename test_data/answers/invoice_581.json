@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hancock, Wilson and Collins",
+    "invoice_number": "INV-15771",
+    "date": "2025-11-30",
+    "items": [
+        {
+            "description": "Right-sized background groupware",
+            "quantity": 5,
+            "unit_price": 31.18,
+            "total_price": 155.9
+        },
+        {
+            "description": "Persistent 6thgeneration benchmark",
+            "quantity": 8,
+            "unit_price": 391.97,
+            "total_price": 3135.76
+        },
+        {
+            "description": "Programmable zero administration protocol",
+            "quantity": 6,
+            "unit_price": 478.26,
+            "total_price": 2869.56
+        }
+    ],
+    "amount": 6161.22
+}

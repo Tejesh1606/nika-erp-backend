@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Clark-Meadows",
+    "invoice_number": "INV-49739",
+    "date": "2026-02-25",
+    "items": [
+        {
+            "description": "Advanced didactic core",
+            "quantity": 6,
+            "unit_price": 23.88,
+            "total_price": 143.28
+        },
+        {
+            "description": "User-centric bottom-line synergy",
+            "quantity": 4,
+            "unit_price": 234.52,
+            "total_price": 938.08
+        },
+        {
+            "description": "Versatile mission-critical encryption",
+            "quantity": 8,
+            "unit_price": 370.72,
+            "total_price": 2965.76
+        }
+    ],
+    "amount": 4047.12
+}

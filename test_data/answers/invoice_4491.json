@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hall-Diaz",
+    "invoice_number": "INV-94872",
+    "date": "2025-08-10",
+    "items": [
+        {
+            "description": "Automated actuating superstructure",
+            "quantity": 8,
+            "unit_price": 351.48,
+            "total_price": 2811.84
+        },
+        {
+            "description": "Compatible coherent interface",
+            "quantity": 7,
+            "unit_price": 109.98,
+            "total_price": 769.86
+        }
+    ],
+    "amount": 3581.7
+}

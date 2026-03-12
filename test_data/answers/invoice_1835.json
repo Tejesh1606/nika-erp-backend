@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Martin-Jordan",
+    "invoice_number": "INV-96549",
+    "date": "2025-05-02",
+    "items": [
+        {
+            "description": "Assimilated didactic Local Area Network",
+            "quantity": 9,
+            "unit_price": 461.62,
+            "total_price": 4154.58
+        },
+        {
+            "description": "Business-focused multimedia knowledgebase",
+            "quantity": 9,
+            "unit_price": 244.94,
+            "total_price": 2204.46
+        },
+        {
+            "description": "Quality-focused composite benchmark",
+            "quantity": 4,
+            "unit_price": 337.01,
+            "total_price": 1348.04
+        }
+    ],
+    "amount": 7707.08
+}

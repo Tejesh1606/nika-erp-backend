@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Anderson-Martin",
+    "invoice_number": "INV-27927",
+    "date": "2025-08-03",
+    "items": [
+        {
+            "description": "Integrated solution-oriented forecast",
+            "quantity": 3,
+            "unit_price": 479.61,
+            "total_price": 1438.83
+        }
+    ],
+    "amount": 1438.83
+}

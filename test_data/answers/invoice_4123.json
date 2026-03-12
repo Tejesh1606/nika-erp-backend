@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Garcia-Robinson",
+    "invoice_number": "INV-84515",
+    "date": "2025-07-28",
+    "items": [
+        {
+            "description": "Vision-oriented high-level matrix",
+            "quantity": 4,
+            "unit_price": 417.19,
+            "total_price": 1668.76
+        }
+    ],
+    "amount": 1668.76
+}

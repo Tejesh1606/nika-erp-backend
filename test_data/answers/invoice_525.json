@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Howe, Moore and Johnson",
+    "invoice_number": "INV-56616",
+    "date": "2025-05-08",
+    "items": [
+        {
+            "description": "Devolved empowering hierarchy",
+            "quantity": 6,
+            "unit_price": 429.34,
+            "total_price": 2576.04
+        }
+    ],
+    "amount": 2576.04
+}

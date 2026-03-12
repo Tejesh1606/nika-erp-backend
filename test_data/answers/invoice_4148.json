@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Davis LLC",
+    "invoice_number": "INV-33318",
+    "date": "2025-09-20",
+    "items": [
+        {
+            "description": "Open-source static instruction set",
+            "quantity": 3,
+            "unit_price": 182.68,
+            "total_price": 548.04
+        },
+        {
+            "description": "Right-sized analyzing infrastructure",
+            "quantity": 3,
+            "unit_price": 252.72,
+            "total_price": 758.16
+        },
+        {
+            "description": "Enterprise-wide foreground artificial intelligence",
+            "quantity": 5,
+            "unit_price": 226.64,
+            "total_price": 1133.2
+        }
+    ],
+    "amount": 2439.4
+}

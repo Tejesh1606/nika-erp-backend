@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hernandez, Thomas and James",
+    "invoice_number": "INV-86312",
+    "date": "2025-09-25",
+    "items": [
+        {
+            "description": "Upgradable homogeneous access",
+            "quantity": 1,
+            "unit_price": 206.99,
+            "total_price": 206.99
+        },
+        {
+            "description": "Integrated system-worthy contingency",
+            "quantity": 10,
+            "unit_price": 275.12,
+            "total_price": 2751.2
+        },
+        {
+            "description": "Pre-emptive motivating hub",
+            "quantity": 6,
+            "unit_price": 431.82,
+            "total_price": 2590.92
+        },
+        {
+            "description": "Total modular utilization",
+            "quantity": 5,
+            "unit_price": 290.38,
+            "total_price": 1451.9
+        }
+    ],
+    "amount": 7001.01
+}

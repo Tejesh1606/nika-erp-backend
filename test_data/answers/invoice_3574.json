@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Fisher and Sons",
+    "invoice_number": "INV-17096",
+    "date": "2025-11-25",
+    "items": [
+        {
+            "description": "Front-line impactful product",
+            "quantity": 9,
+            "unit_price": 470.47,
+            "total_price": 4234.23
+        },
+        {
+            "description": "Phased value-added approach",
+            "quantity": 3,
+            "unit_price": 422.94,
+            "total_price": 1268.82
+        },
+        {
+            "description": "Digitized logistical success",
+            "quantity": 9,
+            "unit_price": 488.16,
+            "total_price": 4393.44
+        }
+    ],
+    "amount": 9896.49
+}

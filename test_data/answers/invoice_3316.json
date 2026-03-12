@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Garcia-Hall",
+    "invoice_number": "INV-21578",
+    "date": "2025-04-28",
+    "items": [
+        {
+            "description": "Automated impactful emulation",
+            "quantity": 7,
+            "unit_price": 374.89,
+            "total_price": 2624.23
+        },
+        {
+            "description": "Customer-focused logistical groupware",
+            "quantity": 5,
+            "unit_price": 391.27,
+            "total_price": 1956.35
+        },
+        {
+            "description": "Monitored composite orchestration",
+            "quantity": 5,
+            "unit_price": 498.8,
+            "total_price": 2494.0
+        }
+    ],
+    "amount": 7074.58
+}

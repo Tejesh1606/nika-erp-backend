@@ -1,0 +1,32 @@
+{
+    "vendor_name": "George Group",
+    "invoice_number": "INV-78706",
+    "date": "2025-06-10",
+    "items": [
+        {
+            "description": "Assimilated clear-thinking moratorium",
+            "quantity": 2,
+            "unit_price": 417.2,
+            "total_price": 834.4
+        },
+        {
+            "description": "Ameliorated asynchronous algorithm",
+            "quantity": 4,
+            "unit_price": 416.12,
+            "total_price": 1664.48
+        },
+        {
+            "description": "Innovative bi-directional process improvement",
+            "quantity": 6,
+            "unit_price": 179.71,
+            "total_price": 1078.26
+        },
+        {
+            "description": "Horizontal transitional groupware",
+            "quantity": 7,
+            "unit_price": 126.12,
+            "total_price": 882.84
+        }
+    ],
+    "amount": 4459.98
+}

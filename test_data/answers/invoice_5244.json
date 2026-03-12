@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bradley-Hunt",
+    "invoice_number": "INV-45202",
+    "date": "2025-10-25",
+    "items": [
+        {
+            "description": "Team-oriented attitude-oriented encryption",
+            "quantity": 2,
+            "unit_price": 462.23,
+            "total_price": 924.46
+        },
+        {
+            "description": "Upgradable needs-based support",
+            "quantity": 7,
+            "unit_price": 259.41,
+            "total_price": 1815.87
+        }
+    ],
+    "amount": 2740.33
+}

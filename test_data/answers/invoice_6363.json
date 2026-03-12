@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Moreno LLC",
+    "invoice_number": "INV-65625",
+    "date": "2025-04-10",
+    "items": [
+        {
+            "description": "Ergonomic solution-oriented adapter",
+            "quantity": 1,
+            "unit_price": 173.97,
+            "total_price": 173.97
+        },
+        {
+            "description": "De-engineered responsive emulation",
+            "quantity": 3,
+            "unit_price": 238.57,
+            "total_price": 715.71
+        }
+    ],
+    "amount": 889.68
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Warren Inc",
+    "invoice_number": "INV-72805",
+    "date": "2025-05-08",
+    "items": [
+        {
+            "description": "Universal mobile complexity",
+            "quantity": 2,
+            "unit_price": 418.08,
+            "total_price": 836.16
+        },
+        {
+            "description": "Adaptive uniform productivity",
+            "quantity": 10,
+            "unit_price": 329.37,
+            "total_price": 3293.7
+        },
+        {
+            "description": "Reactive bifurcated service-desk",
+            "quantity": 4,
+            "unit_price": 312.19,
+            "total_price": 1248.76
+        },
+        {
+            "description": "Synchronized explicit knowledge user",
+            "quantity": 5,
+            "unit_price": 279.02,
+            "total_price": 1395.1
+        }
+    ],
+    "amount": 6773.72
+}

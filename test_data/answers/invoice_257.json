@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Tran-Bennett",
+    "invoice_number": "INV-34345",
+    "date": "2025-11-27",
+    "items": [
+        {
+            "description": "Reduced stable implementation",
+            "quantity": 2,
+            "unit_price": 167.18,
+            "total_price": 334.36
+        }
+    ],
+    "amount": 334.36
+}

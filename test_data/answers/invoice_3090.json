@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Carr-Calderon",
+    "invoice_number": "INV-46942",
+    "date": "2025-07-04",
+    "items": [
+        {
+            "description": "Innovative coherent access",
+            "quantity": 2,
+            "unit_price": 435.89,
+            "total_price": 871.78
+        },
+        {
+            "description": "Digitized cohesive website",
+            "quantity": 1,
+            "unit_price": 338.86,
+            "total_price": 338.86
+        },
+        {
+            "description": "Fundamental system-worthy open architecture",
+            "quantity": 2,
+            "unit_price": 400.24,
+            "total_price": 800.48
+        },
+        {
+            "description": "Distributed eco-centric monitoring",
+            "quantity": 6,
+            "unit_price": 431.67,
+            "total_price": 2590.02
+        }
+    ],
+    "amount": 4601.14
+}

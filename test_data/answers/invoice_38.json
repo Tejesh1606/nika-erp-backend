@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ramirez-Jones",
+    "invoice_number": "INV-46585",
+    "date": "2025-07-23",
+    "items": [
+        {
+            "description": "Stand-alone multimedia initiative",
+            "quantity": 1,
+            "unit_price": 254.72,
+            "total_price": 254.72
+        }
+    ],
+    "amount": 254.72
+}

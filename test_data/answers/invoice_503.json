@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wright, Wise and Ramos",
+    "invoice_number": "INV-14392",
+    "date": "2025-05-25",
+    "items": [
+        {
+            "description": "Persevering user-facing throughput",
+            "quantity": 5,
+            "unit_price": 314.83,
+            "total_price": 1574.15
+        },
+        {
+            "description": "Cross-platform multi-state secured line",
+            "quantity": 5,
+            "unit_price": 372.15,
+            "total_price": 1860.75
+        },
+        {
+            "description": "Expanded methodical info-mediaries",
+            "quantity": 2,
+            "unit_price": 311.44,
+            "total_price": 622.88
+        }
+    ],
+    "amount": 4057.78
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Atkins-Smith",
+    "invoice_number": "INV-61462",
+    "date": "2025-09-15",
+    "items": [
+        {
+            "description": "Persevering homogeneous task-force",
+            "quantity": 10,
+            "unit_price": 218.8,
+            "total_price": 2188.0
+        },
+        {
+            "description": "Diverse full-range Graphic Interface",
+            "quantity": 7,
+            "unit_price": 460.0,
+            "total_price": 3220.0
+        },
+        {
+            "description": "Advanced didactic complexity",
+            "quantity": 4,
+            "unit_price": 369.36,
+            "total_price": 1477.44
+        }
+    ],
+    "amount": 6885.44
+}

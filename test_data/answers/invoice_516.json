@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Robbins, Smith and Mccall",
+    "invoice_number": "INV-95950",
+    "date": "2025-09-15",
+    "items": [
+        {
+            "description": "Configurable maximized website",
+            "quantity": 10,
+            "unit_price": 365.04,
+            "total_price": 3650.4
+        },
+        {
+            "description": "Sharable analyzing hierarchy",
+            "quantity": 8,
+            "unit_price": 25.49,
+            "total_price": 203.92
+        },
+        {
+            "description": "Realigned value-added instruction set",
+            "quantity": 5,
+            "unit_price": 276.29,
+            "total_price": 1381.45
+        },
+        {
+            "description": "Multi-layered tertiary approach",
+            "quantity": 5,
+            "unit_price": 99.67,
+            "total_price": 498.35
+        }
+    ],
+    "amount": 5734.12
+}

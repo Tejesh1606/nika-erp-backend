@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Burke PLC",
+    "invoice_number": "INV-65246",
+    "date": "2025-05-28",
+    "items": [
+        {
+            "description": "Operative empowering matrices",
+            "quantity": 8,
+            "unit_price": 175.54,
+            "total_price": 1404.32
+        }
+    ],
+    "amount": 1404.32
+}

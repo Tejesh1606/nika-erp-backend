@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lane LLC",
+    "invoice_number": "INV-31376",
+    "date": "2025-12-28",
+    "items": [
+        {
+            "description": "Realigned scalable model",
+            "quantity": 1,
+            "unit_price": 18.7,
+            "total_price": 18.7
+        },
+        {
+            "description": "Secured holistic portal",
+            "quantity": 2,
+            "unit_price": 67.0,
+            "total_price": 134.0
+        },
+        {
+            "description": "Future-proofed mission-critical product",
+            "quantity": 4,
+            "unit_price": 73.98,
+            "total_price": 295.92
+        }
+    ],
+    "amount": 448.62
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Robinson-Wilson",
+    "invoice_number": "INV-20160",
+    "date": "2025-07-19",
+    "items": [
+        {
+            "description": "Open-architected explicit standardization",
+            "quantity": 3,
+            "unit_price": 192.95,
+            "total_price": 578.85
+        }
+    ],
+    "amount": 578.85
+}

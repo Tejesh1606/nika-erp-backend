@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jones-Garcia",
+    "invoice_number": "INV-60228",
+    "date": "2025-05-17",
+    "items": [
+        {
+            "description": "Total maximized flexibility",
+            "quantity": 9,
+            "unit_price": 207.9,
+            "total_price": 1871.1
+        },
+        {
+            "description": "Visionary demand-driven groupware",
+            "quantity": 3,
+            "unit_price": 242.16,
+            "total_price": 726.48
+        },
+        {
+            "description": "Customer-focused zero tolerance forecast",
+            "quantity": 2,
+            "unit_price": 242.03,
+            "total_price": 484.06
+        },
+        {
+            "description": "Right-sized clear-thinking migration",
+            "quantity": 2,
+            "unit_price": 459.81,
+            "total_price": 919.62
+        }
+    ],
+    "amount": 4001.26
+}

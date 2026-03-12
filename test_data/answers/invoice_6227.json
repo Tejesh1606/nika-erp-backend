@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Douglas-Jimenez",
+    "invoice_number": "INV-21944",
+    "date": "2025-10-02",
+    "items": [
+        {
+            "description": "Stand-alone zero-defect architecture",
+            "quantity": 5,
+            "unit_price": 389.97,
+            "total_price": 1949.85
+        },
+        {
+            "description": "Up-sized dedicated circuit",
+            "quantity": 8,
+            "unit_price": 419.88,
+            "total_price": 3359.04
+        },
+        {
+            "description": "Implemented well-modulated alliance",
+            "quantity": 7,
+            "unit_price": 494.75,
+            "total_price": 3463.25
+        }
+    ],
+    "amount": 8772.14
+}

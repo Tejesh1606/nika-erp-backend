@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Patel, Moore and Cisneros",
+    "invoice_number": "INV-38004",
+    "date": "2026-01-31",
+    "items": [
+        {
+            "description": "Business-focused radical framework",
+            "quantity": 2,
+            "unit_price": 433.05,
+            "total_price": 866.1
+        }
+    ],
+    "amount": 866.1
+}

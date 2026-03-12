@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Barker, Smith and Morgan",
+    "invoice_number": "INV-79005",
+    "date": "2026-01-01",
+    "items": [
+        {
+            "description": "Re-contextualized content-based task-force",
+            "quantity": 4,
+            "unit_price": 398.99,
+            "total_price": 1595.96
+        },
+        {
+            "description": "Multi-layered non-volatile interface",
+            "quantity": 10,
+            "unit_price": 426.37,
+            "total_price": 4263.7
+        },
+        {
+            "description": "Pre-emptive responsive parallelism",
+            "quantity": 9,
+            "unit_price": 307.19,
+            "total_price": 2764.71
+        },
+        {
+            "description": "Enterprise-wide incremental contingency",
+            "quantity": 6,
+            "unit_price": 59.46,
+            "total_price": 356.76
+        }
+    ],
+    "amount": 8981.13
+}

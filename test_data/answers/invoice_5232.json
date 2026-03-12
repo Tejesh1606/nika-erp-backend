@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Reid-Garcia",
+    "invoice_number": "INV-95774",
+    "date": "2025-08-31",
+    "items": [
+        {
+            "description": "Streamlined encompassing approach",
+            "quantity": 10,
+            "unit_price": 202.75,
+            "total_price": 2027.5
+        },
+        {
+            "description": "Assimilated tertiary hierarchy",
+            "quantity": 10,
+            "unit_price": 19.05,
+            "total_price": 190.5
+        },
+        {
+            "description": "Seamless mobile hierarchy",
+            "quantity": 7,
+            "unit_price": 401.08,
+            "total_price": 2807.56
+        }
+    ],
+    "amount": 5025.56
+}

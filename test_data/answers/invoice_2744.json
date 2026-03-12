@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Kennedy-Warren",
+    "invoice_number": "INV-10599",
+    "date": "2026-03-02",
+    "items": [
+        {
+            "description": "Profound real-time frame",
+            "quantity": 9,
+            "unit_price": 332.17,
+            "total_price": 2989.53
+        },
+        {
+            "description": "Fully-configurable cohesive throughput",
+            "quantity": 6,
+            "unit_price": 294.38,
+            "total_price": 1766.28
+        },
+        {
+            "description": "Streamlined incremental throughput",
+            "quantity": 6,
+            "unit_price": 105.31,
+            "total_price": 631.86
+        }
+    ],
+    "amount": 5387.67
+}

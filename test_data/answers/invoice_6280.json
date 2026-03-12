@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lewis-Hodges",
+    "invoice_number": "INV-33659",
+    "date": "2026-01-28",
+    "items": [
+        {
+            "description": "Re-engineered local project",
+            "quantity": 6,
+            "unit_price": 28.28,
+            "total_price": 169.68
+        }
+    ],
+    "amount": 169.68
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Goodman, Patton and Peterson",
+    "invoice_number": "INV-92653",
+    "date": "2025-06-21",
+    "items": [
+        {
+            "description": "Multi-tiered grid-enabled firmware",
+            "quantity": 7,
+            "unit_price": 84.21,
+            "total_price": 589.47
+        },
+        {
+            "description": "Enhanced user-facing infrastructure",
+            "quantity": 3,
+            "unit_price": 250.22,
+            "total_price": 750.66
+        },
+        {
+            "description": "Profit-focused dynamic implementation",
+            "quantity": 8,
+            "unit_price": 472.6,
+            "total_price": 3780.8
+        },
+        {
+            "description": "Profit-focused web-enabled extranet",
+            "quantity": 9,
+            "unit_price": 238.41,
+            "total_price": 2145.69
+        }
+    ],
+    "amount": 7266.62
+}

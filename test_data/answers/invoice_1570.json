@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Christensen, Cole and Garza",
+    "invoice_number": "INV-28329",
+    "date": "2025-11-16",
+    "items": [
+        {
+            "description": "Innovative hybrid encryption",
+            "quantity": 7,
+            "unit_price": 107.54,
+            "total_price": 752.78
+        },
+        {
+            "description": "Digitized 3rdgeneration emulation",
+            "quantity": 7,
+            "unit_price": 451.26,
+            "total_price": 3158.82
+        }
+    ],
+    "amount": 3911.6
+}

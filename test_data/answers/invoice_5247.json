@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jackson Inc",
+    "invoice_number": "INV-92509",
+    "date": "2026-02-23",
+    "items": [
+        {
+            "description": "Organic 24/7 secured line",
+            "quantity": 2,
+            "unit_price": 63.1,
+            "total_price": 126.2
+        }
+    ],
+    "amount": 126.2
+}

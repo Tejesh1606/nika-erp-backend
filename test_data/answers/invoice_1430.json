@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Marquez PLC",
+    "invoice_number": "INV-35506",
+    "date": "2026-02-11",
+    "items": [
+        {
+            "description": "Upgradable stable toolset",
+            "quantity": 7,
+            "unit_price": 320.86,
+            "total_price": 2246.02
+        },
+        {
+            "description": "Secured high-level Local Area Network",
+            "quantity": 1,
+            "unit_price": 407.44,
+            "total_price": 407.44
+        },
+        {
+            "description": "Reactive well-modulated utilization",
+            "quantity": 3,
+            "unit_price": 14.62,
+            "total_price": 43.86
+        },
+        {
+            "description": "Open-source holistic project",
+            "quantity": 10,
+            "unit_price": 98.68,
+            "total_price": 986.8
+        }
+    ],
+    "amount": 3684.12
+}

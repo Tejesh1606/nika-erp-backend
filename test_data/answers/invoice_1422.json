@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lee, Barrett and Gonzales",
+    "invoice_number": "INV-67741",
+    "date": "2025-04-04",
+    "items": [
+        {
+            "description": "Fully-configurable real-time moderator",
+            "quantity": 10,
+            "unit_price": 315.12,
+            "total_price": 3151.2
+        }
+    ],
+    "amount": 3151.2
+}

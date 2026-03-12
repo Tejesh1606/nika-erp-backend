@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bishop, James and Contreras",
+    "invoice_number": "INV-39163",
+    "date": "2025-05-02",
+    "items": [
+        {
+            "description": "Face-to-face analyzing projection",
+            "quantity": 5,
+            "unit_price": 269.21,
+            "total_price": 1346.05
+        },
+        {
+            "description": "Integrated mobile matrix",
+            "quantity": 9,
+            "unit_price": 143.29,
+            "total_price": 1289.61
+        },
+        {
+            "description": "Distributed global structure",
+            "quantity": 7,
+            "unit_price": 479.21,
+            "total_price": 3354.47
+        }
+    ],
+    "amount": 5990.13
+}

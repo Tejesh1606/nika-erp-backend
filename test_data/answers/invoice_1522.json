@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Crawford-Bauer",
+    "invoice_number": "INV-66357",
+    "date": "2025-03-16",
+    "items": [
+        {
+            "description": "Triple-buffered multi-tasking solution",
+            "quantity": 4,
+            "unit_price": 477.32,
+            "total_price": 1909.28
+        }
+    ],
+    "amount": 1909.28
+}

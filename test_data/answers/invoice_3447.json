@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Anderson, Payne and Simpson",
+    "invoice_number": "INV-52067",
+    "date": "2025-12-08",
+    "items": [
+        {
+            "description": "Total motivating knowledge user",
+            "quantity": 3,
+            "unit_price": 187.02,
+            "total_price": 561.06
+        },
+        {
+            "description": "Configurable uniform secured line",
+            "quantity": 3,
+            "unit_price": 401.37,
+            "total_price": 1204.11
+        },
+        {
+            "description": "De-engineered analyzing product",
+            "quantity": 5,
+            "unit_price": 284.84,
+            "total_price": 1424.2
+        }
+    ],
+    "amount": 3189.37
+}

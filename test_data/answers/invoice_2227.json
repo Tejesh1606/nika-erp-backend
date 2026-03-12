@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hernandez, Young and Jennings",
+    "invoice_number": "INV-36416",
+    "date": "2026-03-06",
+    "items": [
+        {
+            "description": "Persevering user-facing paradigm",
+            "quantity": 7,
+            "unit_price": 291.76,
+            "total_price": 2042.32
+        },
+        {
+            "description": "Synergistic national throughput",
+            "quantity": 5,
+            "unit_price": 194.97,
+            "total_price": 974.85
+        },
+        {
+            "description": "Re-engineered upward-trending knowledgebase",
+            "quantity": 5,
+            "unit_price": 167.69,
+            "total_price": 838.45
+        }
+    ],
+    "amount": 3855.62
+}

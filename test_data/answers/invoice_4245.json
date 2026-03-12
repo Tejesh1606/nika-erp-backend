@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Myers, Nguyen and Martin",
+    "invoice_number": "INV-32756",
+    "date": "2026-01-20",
+    "items": [
+        {
+            "description": "Phased static instruction set",
+            "quantity": 4,
+            "unit_price": 319.83,
+            "total_price": 1279.32
+        }
+    ],
+    "amount": 1279.32
+}

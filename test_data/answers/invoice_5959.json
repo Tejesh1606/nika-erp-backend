@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Williams, Taylor and Turner",
+    "invoice_number": "INV-10252",
+    "date": "2026-03-06",
+    "items": [
+        {
+            "description": "Distributed local model",
+            "quantity": 9,
+            "unit_price": 312.37,
+            "total_price": 2811.33
+        },
+        {
+            "description": "Exclusive intangible solution",
+            "quantity": 8,
+            "unit_price": 315.36,
+            "total_price": 2522.88
+        },
+        {
+            "description": "De-engineered stable implementation",
+            "quantity": 9,
+            "unit_price": 272.49,
+            "total_price": 2452.41
+        },
+        {
+            "description": "Reactive transitional focus group",
+            "quantity": 1,
+            "unit_price": 26.82,
+            "total_price": 26.82
+        }
+    ],
+    "amount": 7813.44
+}

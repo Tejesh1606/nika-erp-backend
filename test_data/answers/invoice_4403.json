@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Reyes, Jensen and Williams",
+    "invoice_number": "INV-12360",
+    "date": "2025-08-28",
+    "items": [
+        {
+            "description": "Multi-tiered tertiary toolset",
+            "quantity": 8,
+            "unit_price": 89.4,
+            "total_price": 715.2
+        },
+        {
+            "description": "Down-sized radical implementation",
+            "quantity": 9,
+            "unit_price": 31.61,
+            "total_price": 284.49
+        },
+        {
+            "description": "Secured homogeneous functionalities",
+            "quantity": 6,
+            "unit_price": 232.52,
+            "total_price": 1395.12
+        },
+        {
+            "description": "Enterprise-wide value-added forecast",
+            "quantity": 6,
+            "unit_price": 101.6,
+            "total_price": 609.6
+        }
+    ],
+    "amount": 3004.41
+}

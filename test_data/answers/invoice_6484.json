@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Johnson and Sons",
+    "invoice_number": "INV-39443",
+    "date": "2025-03-22",
+    "items": [
+        {
+            "description": "Diverse 24/7 budgetary management",
+            "quantity": 10,
+            "unit_price": 240.64,
+            "total_price": 2406.4
+        }
+    ],
+    "amount": 2406.4
+}

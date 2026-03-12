@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Martin PLC",
+    "invoice_number": "INV-97220",
+    "date": "2026-01-29",
+    "items": [
+        {
+            "description": "Proactive needs-based hub",
+            "quantity": 8,
+            "unit_price": 55.99,
+            "total_price": 447.92
+        },
+        {
+            "description": "Extended clear-thinking capability",
+            "quantity": 6,
+            "unit_price": 22.55,
+            "total_price": 135.3
+        },
+        {
+            "description": "Team-oriented system-worthy ability",
+            "quantity": 5,
+            "unit_price": 18.17,
+            "total_price": 90.85
+        }
+    ],
+    "amount": 674.07
+}

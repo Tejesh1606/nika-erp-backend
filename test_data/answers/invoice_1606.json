@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mcbride, Gibson and Ball",
+    "invoice_number": "INV-81712",
+    "date": "2025-06-29",
+    "items": [
+        {
+            "description": "Public-key web-enabled knowledgebase",
+            "quantity": 3,
+            "unit_price": 155.63,
+            "total_price": 466.89
+        },
+        {
+            "description": "Balanced executive groupware",
+            "quantity": 6,
+            "unit_price": 47.99,
+            "total_price": 287.94
+        },
+        {
+            "description": "Ameliorated incremental parallelism",
+            "quantity": 3,
+            "unit_price": 83.68,
+            "total_price": 251.04
+        }
+    ],
+    "amount": 1005.87
+}

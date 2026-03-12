@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson Inc",
+    "invoice_number": "INV-33977",
+    "date": "2025-11-05",
+    "items": [
+        {
+            "description": "Monitored real-time adapter",
+            "quantity": 1,
+            "unit_price": 163.18,
+            "total_price": 163.18
+        },
+        {
+            "description": "Fully-configurable bandwidth-monitored protocol",
+            "quantity": 9,
+            "unit_price": 123.52,
+            "total_price": 1111.68
+        },
+        {
+            "description": "Visionary logistical matrix",
+            "quantity": 9,
+            "unit_price": 387.19,
+            "total_price": 3484.71
+        },
+        {
+            "description": "Sharable foreground initiative",
+            "quantity": 4,
+            "unit_price": 336.95,
+            "total_price": 1347.8
+        }
+    ],
+    "amount": 6107.37
+}

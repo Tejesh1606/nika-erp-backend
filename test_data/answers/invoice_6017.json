@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Houston LLC",
+    "invoice_number": "INV-32884",
+    "date": "2025-10-08",
+    "items": [
+        {
+            "description": "Organized tertiary portal",
+            "quantity": 4,
+            "unit_price": 383.36,
+            "total_price": 1533.44
+        },
+        {
+            "description": "Secured methodical concept",
+            "quantity": 6,
+            "unit_price": 72.9,
+            "total_price": 437.4
+        }
+    ],
+    "amount": 1970.84
+}

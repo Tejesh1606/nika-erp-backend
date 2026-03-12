@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Marshall-Francis",
+    "invoice_number": "INV-66466",
+    "date": "2025-07-28",
+    "items": [
+        {
+            "description": "Re-contextualized zero administration hub",
+            "quantity": 5,
+            "unit_price": 26.64,
+            "total_price": 133.2
+        },
+        {
+            "description": "Reduced contextually-based functionalities",
+            "quantity": 3,
+            "unit_price": 25.12,
+            "total_price": 75.36
+        },
+        {
+            "description": "Polarized 4thgeneration methodology",
+            "quantity": 1,
+            "unit_price": 96.07,
+            "total_price": 96.07
+        },
+        {
+            "description": "Upgradable contextually-based utilization",
+            "quantity": 9,
+            "unit_price": 68.8,
+            "total_price": 619.2
+        }
+    ],
+    "amount": 923.83
+}

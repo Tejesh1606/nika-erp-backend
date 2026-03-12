@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ramsey-Gilbert",
+    "invoice_number": "INV-13816",
+    "date": "2026-01-26",
+    "items": [
+        {
+            "description": "Enhanced content-based groupware",
+            "quantity": 10,
+            "unit_price": 422.06,
+            "total_price": 4220.6
+        }
+    ],
+    "amount": 4220.6
+}

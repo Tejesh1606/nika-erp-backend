@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Cobb, Cook and Bailey",
+    "invoice_number": "INV-53167",
+    "date": "2025-12-03",
+    "items": [
+        {
+            "description": "Intuitive bandwidth-monitored intranet",
+            "quantity": 7,
+            "unit_price": 266.66,
+            "total_price": 1866.62
+        },
+        {
+            "description": "Vision-oriented human-resource functionalities",
+            "quantity": 9,
+            "unit_price": 315.98,
+            "total_price": 2843.82
+        },
+        {
+            "description": "Operative transitional pricing structure",
+            "quantity": 8,
+            "unit_price": 449.77,
+            "total_price": 3598.16
+        },
+        {
+            "description": "Realigned directional instruction set",
+            "quantity": 5,
+            "unit_price": 413.94,
+            "total_price": 2069.7
+        }
+    ],
+    "amount": 10378.3
+}

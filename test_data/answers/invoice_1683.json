@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Zamora PLC",
+    "invoice_number": "INV-10651",
+    "date": "2025-06-18",
+    "items": [
+        {
+            "description": "Self-enabling upward-trending firmware",
+            "quantity": 2,
+            "unit_price": 160.14,
+            "total_price": 320.28
+        },
+        {
+            "description": "Stand-alone context-sensitive neural-net",
+            "quantity": 3,
+            "unit_price": 498.7,
+            "total_price": 1496.1
+        }
+    ],
+    "amount": 1816.38
+}

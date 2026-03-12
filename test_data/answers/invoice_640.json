@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Romero, Marshall and Sims",
+    "invoice_number": "INV-37277",
+    "date": "2025-06-24",
+    "items": [
+        {
+            "description": "Business-focused content-based budgetary management",
+            "quantity": 7,
+            "unit_price": 117.15,
+            "total_price": 820.05
+        },
+        {
+            "description": "Distributed systemic leverage",
+            "quantity": 8,
+            "unit_price": 329.07,
+            "total_price": 2632.56
+        }
+    ],
+    "amount": 3452.61
+}

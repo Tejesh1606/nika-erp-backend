@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Thomas Group",
+    "invoice_number": "INV-96235",
+    "date": "2025-08-25",
+    "items": [
+        {
+            "description": "Devolved attitude-oriented challenge",
+            "quantity": 7,
+            "unit_price": 329.49,
+            "total_price": 2306.43
+        },
+        {
+            "description": "Stand-alone intangible knowledgebase",
+            "quantity": 1,
+            "unit_price": 118.72,
+            "total_price": 118.72
+        },
+        {
+            "description": "Total real-time interface",
+            "quantity": 8,
+            "unit_price": 323.5,
+            "total_price": 2588.0
+        }
+    ],
+    "amount": 5013.15
+}

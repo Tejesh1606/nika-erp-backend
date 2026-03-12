@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Clay PLC",
+    "invoice_number": "INV-99119",
+    "date": "2025-09-11",
+    "items": [
+        {
+            "description": "Adaptive zero administration service-desk",
+            "quantity": 3,
+            "unit_price": 269.84,
+            "total_price": 809.52
+        },
+        {
+            "description": "Devolved static utilization",
+            "quantity": 8,
+            "unit_price": 375.43,
+            "total_price": 3003.44
+        },
+        {
+            "description": "Multi-channeled local portal",
+            "quantity": 8,
+            "unit_price": 145.77,
+            "total_price": 1166.16
+        }
+    ],
+    "amount": 4979.12
+}

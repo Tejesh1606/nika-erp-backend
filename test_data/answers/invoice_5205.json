@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lyons, Berger and Middleton",
+    "invoice_number": "INV-99102",
+    "date": "2025-07-28",
+    "items": [
+        {
+            "description": "Synergistic fault-tolerant framework",
+            "quantity": 9,
+            "unit_price": 70.88,
+            "total_price": 637.92
+        },
+        {
+            "description": "Vision-oriented fault-tolerant neural-net",
+            "quantity": 5,
+            "unit_price": 195.6,
+            "total_price": 978.0
+        },
+        {
+            "description": "Integrated mobile policy",
+            "quantity": 1,
+            "unit_price": 213.18,
+            "total_price": 213.18
+        },
+        {
+            "description": "Digitized 24hour knowledge user",
+            "quantity": 7,
+            "unit_price": 156.29,
+            "total_price": 1094.03
+        }
+    ],
+    "amount": 2923.13
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Allen Ltd",
+    "invoice_number": "INV-75061",
+    "date": "2025-12-24",
+    "items": [
+        {
+            "description": "Cross-platform optimizing Local Area Network",
+            "quantity": 7,
+            "unit_price": 245.62,
+            "total_price": 1719.34
+        }
+    ],
+    "amount": 1719.34
+}

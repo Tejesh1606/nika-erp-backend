@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Christensen, Johnson and Hubbard",
+    "invoice_number": "INV-36886",
+    "date": "2026-02-14",
+    "items": [
+        {
+            "description": "Synergistic mobile Internet solution",
+            "quantity": 2,
+            "unit_price": 339.73,
+            "total_price": 679.46
+        },
+        {
+            "description": "Progressive global Graphic Interface",
+            "quantity": 7,
+            "unit_price": 416.95,
+            "total_price": 2918.65
+        },
+        {
+            "description": "Ameliorated modular middleware",
+            "quantity": 10,
+            "unit_price": 404.25,
+            "total_price": 4042.5
+        },
+        {
+            "description": "Seamless human-resource intranet",
+            "quantity": 8,
+            "unit_price": 478.54,
+            "total_price": 3828.32
+        }
+    ],
+    "amount": 11468.93
+}

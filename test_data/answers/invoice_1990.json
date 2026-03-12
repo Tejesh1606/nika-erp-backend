@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jackson-Lopez",
+    "invoice_number": "INV-32143",
+    "date": "2025-08-05",
+    "items": [
+        {
+            "description": "Devolved intermediate capability",
+            "quantity": 6,
+            "unit_price": 64.0,
+            "total_price": 384.0
+        }
+    ],
+    "amount": 384.0
+}

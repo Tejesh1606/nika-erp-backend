@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ochoa-Cervantes",
+    "invoice_number": "INV-80386",
+    "date": "2025-04-02",
+    "items": [
+        {
+            "description": "Assimilated holistic Graphic Interface",
+            "quantity": 8,
+            "unit_price": 279.69,
+            "total_price": 2237.52
+        },
+        {
+            "description": "Streamlined multi-state protocol",
+            "quantity": 9,
+            "unit_price": 384.08,
+            "total_price": 3456.72
+        },
+        {
+            "description": "Balanced 5thgeneration algorithm",
+            "quantity": 7,
+            "unit_price": 189.92,
+            "total_price": 1329.44
+        }
+    ],
+    "amount": 7023.68
+}

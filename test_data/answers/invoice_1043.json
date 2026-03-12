@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Morrow-Hoffman",
+    "invoice_number": "INV-88266",
+    "date": "2025-05-25",
+    "items": [
+        {
+            "description": "Compatible uniform secured line",
+            "quantity": 4,
+            "unit_price": 94.19,
+            "total_price": 376.76
+        },
+        {
+            "description": "Reduced reciprocal circuit",
+            "quantity": 5,
+            "unit_price": 292.4,
+            "total_price": 1462.0
+        },
+        {
+            "description": "Inverse static superstructure",
+            "quantity": 9,
+            "unit_price": 42.68,
+            "total_price": 384.12
+        }
+    ],
+    "amount": 2222.88
+}

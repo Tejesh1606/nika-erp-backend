@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Tucker, Young and Cordova",
+    "invoice_number": "INV-59499",
+    "date": "2025-03-15",
+    "items": [
+        {
+            "description": "Re-engineered national system engine",
+            "quantity": 10,
+            "unit_price": 185.21,
+            "total_price": 1852.1
+        },
+        {
+            "description": "User-centric foreground paradigm",
+            "quantity": 6,
+            "unit_price": 149.49,
+            "total_price": 896.94
+        }
+    ],
+    "amount": 2749.04
+}

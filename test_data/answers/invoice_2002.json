@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Miller, Peterson and Hodges",
+    "invoice_number": "INV-88111",
+    "date": "2025-05-03",
+    "items": [
+        {
+            "description": "Inverse zero tolerance hub",
+            "quantity": 6,
+            "unit_price": 482.38,
+            "total_price": 2894.28
+        },
+        {
+            "description": "Re-engineered homogeneous infrastructure",
+            "quantity": 10,
+            "unit_price": 10.23,
+            "total_price": 102.3
+        },
+        {
+            "description": "Innovative local contingency",
+            "quantity": 4,
+            "unit_price": 219.9,
+            "total_price": 879.6
+        },
+        {
+            "description": "Customizable disintermediate access",
+            "quantity": 6,
+            "unit_price": 351.32,
+            "total_price": 2107.92
+        }
+    ],
+    "amount": 5984.1
+}

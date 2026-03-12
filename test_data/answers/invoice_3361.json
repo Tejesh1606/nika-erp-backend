@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Thomas-Hernandez",
+    "invoice_number": "INV-70946",
+    "date": "2025-08-11",
+    "items": [
+        {
+            "description": "User-friendly mission-critical hub",
+            "quantity": 4,
+            "unit_price": 213.7,
+            "total_price": 854.8
+        },
+        {
+            "description": "Decentralized clear-thinking Graphical User Interface",
+            "quantity": 5,
+            "unit_price": 459.33,
+            "total_price": 2296.65
+        },
+        {
+            "description": "Triple-buffered next generation customer loyalty",
+            "quantity": 8,
+            "unit_price": 383.37,
+            "total_price": 3066.96
+        }
+    ],
+    "amount": 6218.41
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mason-Lamb",
+    "invoice_number": "INV-79866",
+    "date": "2025-07-30",
+    "items": [
+        {
+            "description": "Quality-focused value-added flexibility",
+            "quantity": 5,
+            "unit_price": 143.64,
+            "total_price": 718.2
+        },
+        {
+            "description": "Extended asymmetric array",
+            "quantity": 3,
+            "unit_price": 392.84,
+            "total_price": 1178.52
+        }
+    ],
+    "amount": 1896.72
+}

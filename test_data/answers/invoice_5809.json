@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Quinn PLC",
+    "invoice_number": "INV-22846",
+    "date": "2025-10-18",
+    "items": [
+        {
+            "description": "Diverse secondary adapter",
+            "quantity": 6,
+            "unit_price": 49.94,
+            "total_price": 299.64
+        },
+        {
+            "description": "Multi-lateral actuating portal",
+            "quantity": 9,
+            "unit_price": 477.92,
+            "total_price": 4301.28
+        },
+        {
+            "description": "Cross-platform human-resource data-warehouse",
+            "quantity": 2,
+            "unit_price": 156.81,
+            "total_price": 313.62
+        }
+    ],
+    "amount": 4914.54
+}

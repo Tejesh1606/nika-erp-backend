@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Perry Group",
+    "invoice_number": "INV-75799",
+    "date": "2025-08-01",
+    "items": [
+        {
+            "description": "Front-line human-resource artificial intelligence",
+            "quantity": 8,
+            "unit_price": 272.84,
+            "total_price": 2182.72
+        },
+        {
+            "description": "Multi-layered directional algorithm",
+            "quantity": 2,
+            "unit_price": 301.24,
+            "total_price": 602.48
+        },
+        {
+            "description": "Intuitive bandwidth-monitored structure",
+            "quantity": 7,
+            "unit_price": 109.76,
+            "total_price": 768.32
+        },
+        {
+            "description": "Streamlined full-range utilization",
+            "quantity": 8,
+            "unit_price": 400.72,
+            "total_price": 3205.76
+        }
+    ],
+    "amount": 6759.28
+}

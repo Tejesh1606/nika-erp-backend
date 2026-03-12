@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Perkins, Reid and Thompson",
+    "invoice_number": "INV-70851",
+    "date": "2026-01-01",
+    "items": [
+        {
+            "description": "Extended client-server toolset",
+            "quantity": 6,
+            "unit_price": 374.36,
+            "total_price": 2246.16
+        }
+    ],
+    "amount": 2246.16
+}

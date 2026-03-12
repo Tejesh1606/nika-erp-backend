@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Santana-Byrd",
+    "invoice_number": "INV-30706",
+    "date": "2025-04-06",
+    "items": [
+        {
+            "description": "Organic grid-enabled parallelism",
+            "quantity": 4,
+            "unit_price": 101.77,
+            "total_price": 407.08
+        },
+        {
+            "description": "Innovative scalable interface",
+            "quantity": 1,
+            "unit_price": 293.32,
+            "total_price": 293.32
+        }
+    ],
+    "amount": 700.4
+}

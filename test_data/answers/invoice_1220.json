@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Kennedy-Clark",
+    "invoice_number": "INV-53276",
+    "date": "2026-03-04",
+    "items": [
+        {
+            "description": "User-friendly uniform challenge",
+            "quantity": 7,
+            "unit_price": 89.04,
+            "total_price": 623.28
+        },
+        {
+            "description": "Down-sized multi-tasking structure",
+            "quantity": 3,
+            "unit_price": 437.1,
+            "total_price": 1311.3
+        },
+        {
+            "description": "Phased 24/7 functionalities",
+            "quantity": 8,
+            "unit_price": 433.9,
+            "total_price": 3471.2
+        },
+        {
+            "description": "Operative context-sensitive collaboration",
+            "quantity": 7,
+            "unit_price": 150.04,
+            "total_price": 1050.28
+        }
+    ],
+    "amount": 6456.06
+}

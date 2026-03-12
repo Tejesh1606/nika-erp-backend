@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cabrera-Kidd",
+    "invoice_number": "INV-46787",
+    "date": "2025-07-19",
+    "items": [
+        {
+            "description": "Open-source asynchronous moderator",
+            "quantity": 5,
+            "unit_price": 282.42,
+            "total_price": 1412.1
+        },
+        {
+            "description": "Multi-lateral asynchronous methodology",
+            "quantity": 4,
+            "unit_price": 352.49,
+            "total_price": 1409.96
+        },
+        {
+            "description": "Integrated user-facing framework",
+            "quantity": 2,
+            "unit_price": 120.93,
+            "total_price": 241.86
+        }
+    ],
+    "amount": 3063.92
+}

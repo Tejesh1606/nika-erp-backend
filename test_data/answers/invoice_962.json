@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Keith, Cervantes and Torres",
+    "invoice_number": "INV-21395",
+    "date": "2025-07-05",
+    "items": [
+        {
+            "description": "Open-source zero administration functionalities",
+            "quantity": 2,
+            "unit_price": 135.5,
+            "total_price": 271.0
+        },
+        {
+            "description": "Cross-group scalable artificial intelligence",
+            "quantity": 5,
+            "unit_price": 65.86,
+            "total_price": 329.3
+        }
+    ],
+    "amount": 600.3
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Sanchez, Mullins and Moreno",
+    "invoice_number": "INV-39908",
+    "date": "2025-05-01",
+    "items": [
+        {
+            "description": "Optimized incremental installation",
+            "quantity": 1,
+            "unit_price": 441.99,
+            "total_price": 441.99
+        },
+        {
+            "description": "Persevering multi-state utilization",
+            "quantity": 6,
+            "unit_price": 388.9,
+            "total_price": 2333.4
+        },
+        {
+            "description": "Synergized high-level algorithm",
+            "quantity": 8,
+            "unit_price": 339.4,
+            "total_price": 2715.2
+        },
+        {
+            "description": "Organic client-server throughput",
+            "quantity": 1,
+            "unit_price": 306.45,
+            "total_price": 306.45
+        }
+    ],
+    "amount": 5797.04
+}

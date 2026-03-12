@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Greene Group",
+    "invoice_number": "INV-66070",
+    "date": "2025-09-18",
+    "items": [
+        {
+            "description": "Configurable disintermediate intranet",
+            "quantity": 10,
+            "unit_price": 145.35,
+            "total_price": 1453.5
+        },
+        {
+            "description": "Organized upward-trending software",
+            "quantity": 10,
+            "unit_price": 294.04,
+            "total_price": 2940.4
+        },
+        {
+            "description": "Customizable system-worthy system engine",
+            "quantity": 7,
+            "unit_price": 187.61,
+            "total_price": 1313.27
+        }
+    ],
+    "amount": 5707.17
+}

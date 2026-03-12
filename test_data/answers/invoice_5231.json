@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Robbins, Noble and Brown",
+    "invoice_number": "INV-97746",
+    "date": "2025-03-10",
+    "items": [
+        {
+            "description": "Horizontal systematic system engine",
+            "quantity": 7,
+            "unit_price": 143.73,
+            "total_price": 1006.11
+        },
+        {
+            "description": "Inverse real-time system engine",
+            "quantity": 8,
+            "unit_price": 446.4,
+            "total_price": 3571.2
+        }
+    ],
+    "amount": 4577.31
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Skinner Group",
+    "invoice_number": "INV-51050",
+    "date": "2025-08-02",
+    "items": [
+        {
+            "description": "Public-key non-volatile info-mediaries",
+            "quantity": 1,
+            "unit_price": 299.71,
+            "total_price": 299.71
+        },
+        {
+            "description": "Reverse-engineered multimedia matrices",
+            "quantity": 1,
+            "unit_price": 147.18,
+            "total_price": 147.18
+        },
+        {
+            "description": "Ameliorated didactic implementation",
+            "quantity": 1,
+            "unit_price": 96.45,
+            "total_price": 96.45
+        },
+        {
+            "description": "Reactive next generation time-frame",
+            "quantity": 9,
+            "unit_price": 408.08,
+            "total_price": 3672.72
+        }
+    ],
+    "amount": 4216.06
+}

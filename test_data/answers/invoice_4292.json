@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Stewart Group",
+    "invoice_number": "INV-78503",
+    "date": "2025-11-06",
+    "items": [
+        {
+            "description": "Triple-buffered multi-tasking policy",
+            "quantity": 4,
+            "unit_price": 169.71,
+            "total_price": 678.84
+        },
+        {
+            "description": "Universal bifurcated initiative",
+            "quantity": 5,
+            "unit_price": 25.24,
+            "total_price": 126.2
+        }
+    ],
+    "amount": 805.04
+}

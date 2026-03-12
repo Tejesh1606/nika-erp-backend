@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Henderson, Larson and Goodman",
+    "invoice_number": "INV-69153",
+    "date": "2025-12-24",
+    "items": [
+        {
+            "description": "Integrated eco-centric task-force",
+            "quantity": 10,
+            "unit_price": 282.08,
+            "total_price": 2820.8
+        },
+        {
+            "description": "Down-sized grid-enabled collaboration",
+            "quantity": 2,
+            "unit_price": 28.58,
+            "total_price": 57.16
+        },
+        {
+            "description": "Networked stable service-desk",
+            "quantity": 1,
+            "unit_price": 312.41,
+            "total_price": 312.41
+        },
+        {
+            "description": "Synergized reciprocal task-force",
+            "quantity": 2,
+            "unit_price": 92.94,
+            "total_price": 185.88
+        }
+    ],
+    "amount": 3376.25
+}

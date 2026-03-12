@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Johnson-Williams",
+    "invoice_number": "INV-85168",
+    "date": "2025-10-25",
+    "items": [
+        {
+            "description": "Diverse client-driven product",
+            "quantity": 7,
+            "unit_price": 364.34,
+            "total_price": 2550.38
+        }
+    ],
+    "amount": 2550.38
+}

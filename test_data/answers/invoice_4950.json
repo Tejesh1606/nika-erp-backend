@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Roberts, Jones and Martinez",
+    "invoice_number": "INV-37680",
+    "date": "2025-08-18",
+    "items": [
+        {
+            "description": "Cloned hybrid application",
+            "quantity": 4,
+            "unit_price": 432.76,
+            "total_price": 1731.04
+        },
+        {
+            "description": "Multi-layered 24/7 standardization",
+            "quantity": 2,
+            "unit_price": 282.04,
+            "total_price": 564.08
+        }
+    ],
+    "amount": 2295.12
+}

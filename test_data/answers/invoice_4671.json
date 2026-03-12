@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Riley, Diaz and Gordon",
+    "invoice_number": "INV-42646",
+    "date": "2025-03-22",
+    "items": [
+        {
+            "description": "Enhanced background customer loyalty",
+            "quantity": 5,
+            "unit_price": 369.2,
+            "total_price": 1846.0
+        },
+        {
+            "description": "Object-based mobile architecture",
+            "quantity": 8,
+            "unit_price": 456.57,
+            "total_price": 3652.56
+        },
+        {
+            "description": "Open-source actuating projection",
+            "quantity": 4,
+            "unit_price": 11.69,
+            "total_price": 46.76
+        }
+    ],
+    "amount": 5545.32
+}

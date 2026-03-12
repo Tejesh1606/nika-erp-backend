@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Schneider-Mcintyre",
+    "invoice_number": "INV-97349",
+    "date": "2025-12-25",
+    "items": [
+        {
+            "description": "Cloned actuating access",
+            "quantity": 6,
+            "unit_price": 488.59,
+            "total_price": 2931.54
+        }
+    ],
+    "amount": 2931.54
+}

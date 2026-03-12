@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Meadows, Werner and Thompson",
+    "invoice_number": "INV-64712",
+    "date": "2026-03-07",
+    "items": [
+        {
+            "description": "Implemented zero administration migration",
+            "quantity": 2,
+            "unit_price": 26.23,
+            "total_price": 52.46
+        },
+        {
+            "description": "Multi-channeled needs-based interface",
+            "quantity": 5,
+            "unit_price": 374.09,
+            "total_price": 1870.45
+        }
+    ],
+    "amount": 1922.91
+}

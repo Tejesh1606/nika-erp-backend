@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Lucas-Lee",
+    "invoice_number": "INV-24208",
+    "date": "2025-04-18",
+    "items": [
+        {
+            "description": "Compatible high-level portal",
+            "quantity": 4,
+            "unit_price": 47.39,
+            "total_price": 189.56
+        },
+        {
+            "description": "Vision-oriented full-range algorithm",
+            "quantity": 10,
+            "unit_price": 228.63,
+            "total_price": 2286.3
+        }
+    ],
+    "amount": 2475.86
+}

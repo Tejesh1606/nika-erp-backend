@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Rowland, Brewer and Ward",
+    "invoice_number": "INV-10642",
+    "date": "2026-01-31",
+    "items": [
+        {
+            "description": "Focused radical structure",
+            "quantity": 2,
+            "unit_price": 72.58,
+            "total_price": 145.16
+        },
+        {
+            "description": "Front-line eco-centric protocol",
+            "quantity": 2,
+            "unit_price": 53.87,
+            "total_price": 107.74
+        },
+        {
+            "description": "De-engineered methodical standardization",
+            "quantity": 2,
+            "unit_price": 207.88,
+            "total_price": 415.76
+        }
+    ],
+    "amount": 668.66
+}

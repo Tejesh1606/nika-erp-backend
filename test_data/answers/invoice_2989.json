@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mason-Solomon",
+    "invoice_number": "INV-85121",
+    "date": "2025-07-04",
+    "items": [
+        {
+            "description": "Compatible clear-thinking extranet",
+            "quantity": 9,
+            "unit_price": 485.59,
+            "total_price": 4370.31
+        },
+        {
+            "description": "Total homogeneous ability",
+            "quantity": 2,
+            "unit_price": 404.22,
+            "total_price": 808.44
+        }
+    ],
+    "amount": 5178.75
+}

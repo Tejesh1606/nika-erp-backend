@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Horton-Lee",
+    "invoice_number": "INV-81828",
+    "date": "2025-08-08",
+    "items": [
+        {
+            "description": "Cross-platform clear-thinking Graphic Interface",
+            "quantity": 9,
+            "unit_price": 463.67,
+            "total_price": 4173.03
+        },
+        {
+            "description": "Versatile optimal workforce",
+            "quantity": 9,
+            "unit_price": 481.49,
+            "total_price": 4333.41
+        },
+        {
+            "description": "Business-focused tertiary framework",
+            "quantity": 6,
+            "unit_price": 319.81,
+            "total_price": 1918.86
+        }
+    ],
+    "amount": 10425.3
+}

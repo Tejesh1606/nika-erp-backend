@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Moreno-Mccarthy",
+    "invoice_number": "INV-12966",
+    "date": "2025-09-08",
+    "items": [
+        {
+            "description": "Down-sized next generation moderator",
+            "quantity": 3,
+            "unit_price": 171.73,
+            "total_price": 515.19
+        },
+        {
+            "description": "Synergistic leadingedge model",
+            "quantity": 6,
+            "unit_price": 176.54,
+            "total_price": 1059.24
+        },
+        {
+            "description": "User-friendly 24hour leverage",
+            "quantity": 6,
+            "unit_price": 382.08,
+            "total_price": 2292.48
+        }
+    ],
+    "amount": 3866.91
+}

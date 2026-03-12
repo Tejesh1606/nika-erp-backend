@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Shepherd-Wheeler",
+    "invoice_number": "INV-56582",
+    "date": "2025-06-16",
+    "items": [
+        {
+            "description": "Horizontal reciprocal synergy",
+            "quantity": 2,
+            "unit_price": 185.76,
+            "total_price": 371.52
+        },
+        {
+            "description": "Networked interactive orchestration",
+            "quantity": 10,
+            "unit_price": 381.83,
+            "total_price": 3818.3
+        },
+        {
+            "description": "Managed explicit challenge",
+            "quantity": 4,
+            "unit_price": 445.21,
+            "total_price": 1780.84
+        }
+    ],
+    "amount": 5970.66
+}

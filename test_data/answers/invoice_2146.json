@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Poole, Lam and Brown",
+    "invoice_number": "INV-42654",
+    "date": "2025-08-09",
+    "items": [
+        {
+            "description": "De-engineered stable contingency",
+            "quantity": 3,
+            "unit_price": 54.31,
+            "total_price": 162.93
+        }
+    ],
+    "amount": 162.93
+}

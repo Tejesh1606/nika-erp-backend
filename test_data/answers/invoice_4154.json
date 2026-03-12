@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Harris-Hahn",
+    "invoice_number": "INV-52932",
+    "date": "2025-06-07",
+    "items": [
+        {
+            "description": "Optional maximized hub",
+            "quantity": 6,
+            "unit_price": 180.55,
+            "total_price": 1083.3
+        }
+    ],
+    "amount": 1083.3
+}

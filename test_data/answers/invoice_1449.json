@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brown-Armstrong",
+    "invoice_number": "INV-41056",
+    "date": "2026-01-05",
+    "items": [
+        {
+            "description": "Cross-group asynchronous access",
+            "quantity": 1,
+            "unit_price": 351.0,
+            "total_price": 351.0
+        },
+        {
+            "description": "Up-sized 24/7 support",
+            "quantity": 1,
+            "unit_price": 12.06,
+            "total_price": 12.06
+        },
+        {
+            "description": "Mandatory regional archive",
+            "quantity": 1,
+            "unit_price": 213.28,
+            "total_price": 213.28
+        }
+    ],
+    "amount": 576.34
+}

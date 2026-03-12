@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Fry, Fuller and Steele",
+    "invoice_number": "INV-12757",
+    "date": "2025-11-20",
+    "items": [
+        {
+            "description": "Organic national moratorium",
+            "quantity": 5,
+            "unit_price": 404.76,
+            "total_price": 2023.8
+        }
+    ],
+    "amount": 2023.8
+}

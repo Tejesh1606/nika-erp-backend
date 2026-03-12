@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Barnes-Wolf",
+    "invoice_number": "INV-38816",
+    "date": "2026-02-16",
+    "items": [
+        {
+            "description": "Implemented real-time complexity",
+            "quantity": 5,
+            "unit_price": 45.02,
+            "total_price": 225.1
+        },
+        {
+            "description": "Sharable reciprocal concept",
+            "quantity": 6,
+            "unit_price": 491.84,
+            "total_price": 2951.04
+        },
+        {
+            "description": "Re-engineered neutral emulation",
+            "quantity": 7,
+            "unit_price": 474.91,
+            "total_price": 3324.37
+        }
+    ],
+    "amount": 6500.51
+}

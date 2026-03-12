@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Haynes LLC",
+    "invoice_number": "INV-55871",
+    "date": "2025-12-14",
+    "items": [
+        {
+            "description": "Multi-tiered asymmetric workforce",
+            "quantity": 7,
+            "unit_price": 360.68,
+            "total_price": 2524.76
+        },
+        {
+            "description": "User-centric user-facing projection",
+            "quantity": 6,
+            "unit_price": 196.62,
+            "total_price": 1179.72
+        },
+        {
+            "description": "Adaptive didactic structure",
+            "quantity": 6,
+            "unit_price": 69.16,
+            "total_price": 414.96
+        }
+    ],
+    "amount": 4119.44
+}

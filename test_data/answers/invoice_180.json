@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hayes Ltd",
+    "invoice_number": "INV-68341",
+    "date": "2025-04-12",
+    "items": [
+        {
+            "description": "Synergized foreground secured line",
+            "quantity": 3,
+            "unit_price": 257.36,
+            "total_price": 772.08
+        },
+        {
+            "description": "Monitored tertiary architecture",
+            "quantity": 1,
+            "unit_price": 301.42,
+            "total_price": 301.42
+        }
+    ],
+    "amount": 1073.5
+}

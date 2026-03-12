@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Garza, Rodriguez and Smith",
+    "invoice_number": "INV-70372",
+    "date": "2025-07-09",
+    "items": [
+        {
+            "description": "Digitized explicit definition",
+            "quantity": 3,
+            "unit_price": 471.69,
+            "total_price": 1415.07
+        }
+    ],
+    "amount": 1415.07
+}

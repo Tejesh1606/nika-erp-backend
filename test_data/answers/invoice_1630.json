@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Collins Group",
+    "invoice_number": "INV-22185",
+    "date": "2025-11-19",
+    "items": [
+        {
+            "description": "Managed encompassing support",
+            "quantity": 7,
+            "unit_price": 185.2,
+            "total_price": 1296.4
+        }
+    ],
+    "amount": 1296.4
+}

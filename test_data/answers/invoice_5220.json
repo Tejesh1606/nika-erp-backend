@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Coleman Group",
+    "invoice_number": "INV-90000",
+    "date": "2025-09-18",
+    "items": [
+        {
+            "description": "Secured heuristic analyzer",
+            "quantity": 8,
+            "unit_price": 332.03,
+            "total_price": 2656.24
+        }
+    ],
+    "amount": 2656.24
+}

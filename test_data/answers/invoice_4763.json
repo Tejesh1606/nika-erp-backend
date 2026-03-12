@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Stout Ltd",
+    "invoice_number": "INV-91807",
+    "date": "2025-12-24",
+    "items": [
+        {
+            "description": "Synergistic 24hour capability",
+            "quantity": 6,
+            "unit_price": 98.96,
+            "total_price": 593.76
+        },
+        {
+            "description": "Cloned contextually-based approach",
+            "quantity": 10,
+            "unit_price": 308.78,
+            "total_price": 3087.8
+        },
+        {
+            "description": "Versatile dedicated system engine",
+            "quantity": 10,
+            "unit_price": 222.62,
+            "total_price": 2226.2
+        }
+    ],
+    "amount": 5907.76
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bird PLC",
+    "invoice_number": "INV-12136",
+    "date": "2025-09-26",
+    "items": [
+        {
+            "description": "Devolved exuding ability",
+            "quantity": 10,
+            "unit_price": 406.47,
+            "total_price": 4064.7
+        },
+        {
+            "description": "Innovative directional data-warehouse",
+            "quantity": 5,
+            "unit_price": 268.38,
+            "total_price": 1341.9
+        }
+    ],
+    "amount": 5406.6
+}

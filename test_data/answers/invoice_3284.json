@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Martin, Malone and Foster",
+    "invoice_number": "INV-51069",
+    "date": "2025-04-15",
+    "items": [
+        {
+            "description": "Cloned reciprocal product",
+            "quantity": 1,
+            "unit_price": 152.73,
+            "total_price": 152.73
+        }
+    ],
+    "amount": 152.73
+}

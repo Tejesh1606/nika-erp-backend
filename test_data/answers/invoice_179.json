@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hughes, Hoffman and Green",
+    "invoice_number": "INV-44116",
+    "date": "2025-12-07",
+    "items": [
+        {
+            "description": "Organized didactic pricing structure",
+            "quantity": 7,
+            "unit_price": 355.8,
+            "total_price": 2490.6
+        },
+        {
+            "description": "Horizontal system-worthy matrix",
+            "quantity": 10,
+            "unit_price": 91.1,
+            "total_price": 911.0
+        },
+        {
+            "description": "Exclusive bottom-line challenge",
+            "quantity": 4,
+            "unit_price": 401.02,
+            "total_price": 1604.08
+        }
+    ],
+    "amount": 5005.68
+}

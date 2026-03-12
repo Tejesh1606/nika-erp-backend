@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Miller, Ortega and Harrison",
+    "invoice_number": "INV-34461",
+    "date": "2025-10-28",
+    "items": [
+        {
+            "description": "Configurable radical encryption",
+            "quantity": 8,
+            "unit_price": 137.04,
+            "total_price": 1096.32
+        },
+        {
+            "description": "Advanced encompassing capacity",
+            "quantity": 4,
+            "unit_price": 124.84,
+            "total_price": 499.36
+        }
+    ],
+    "amount": 1595.68
+}

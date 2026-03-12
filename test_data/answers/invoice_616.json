@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Edwards Inc",
+    "invoice_number": "INV-98185",
+    "date": "2025-03-12",
+    "items": [
+        {
+            "description": "Cloned 24/7 installation",
+            "quantity": 7,
+            "unit_price": 453.75,
+            "total_price": 3176.25
+        },
+        {
+            "description": "Cross-platform multi-tasking benchmark",
+            "quantity": 1,
+            "unit_price": 93.29,
+            "total_price": 93.29
+        },
+        {
+            "description": "Synergized local hardware",
+            "quantity": 8,
+            "unit_price": 233.27,
+            "total_price": 1866.16
+        }
+    ],
+    "amount": 5135.7
+}

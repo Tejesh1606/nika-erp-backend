@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Baldwin-Garcia",
+    "invoice_number": "INV-19557",
+    "date": "2025-04-05",
+    "items": [
+        {
+            "description": "Re-engineered upward-trending extranet",
+            "quantity": 8,
+            "unit_price": 117.34,
+            "total_price": 938.72
+        },
+        {
+            "description": "Vision-oriented local adapter",
+            "quantity": 6,
+            "unit_price": 52.41,
+            "total_price": 314.46
+        },
+        {
+            "description": "Proactive coherent projection",
+            "quantity": 5,
+            "unit_price": 208.11,
+            "total_price": 1040.55
+        },
+        {
+            "description": "Sharable 24hour alliance",
+            "quantity": 7,
+            "unit_price": 290.59,
+            "total_price": 2034.13
+        }
+    ],
+    "amount": 4327.86
+}

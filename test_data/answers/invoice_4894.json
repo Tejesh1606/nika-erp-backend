@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Armstrong, Zimmerman and Hancock",
+    "invoice_number": "INV-35622",
+    "date": "2025-10-06",
+    "items": [
+        {
+            "description": "Up-sized user-facing contingency",
+            "quantity": 1,
+            "unit_price": 142.75,
+            "total_price": 142.75
+        },
+        {
+            "description": "Team-oriented exuding core",
+            "quantity": 8,
+            "unit_price": 467.42,
+            "total_price": 3739.36
+        },
+        {
+            "description": "Profit-focused coherent architecture",
+            "quantity": 1,
+            "unit_price": 279.0,
+            "total_price": 279.0
+        }
+    ],
+    "amount": 4161.11
+}

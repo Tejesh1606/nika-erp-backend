@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ramos Inc",
+    "invoice_number": "INV-90734",
+    "date": "2026-02-07",
+    "items": [
+        {
+            "description": "Horizontal modular functionalities",
+            "quantity": 2,
+            "unit_price": 265.37,
+            "total_price": 530.74
+        }
+    ],
+    "amount": 530.74
+}

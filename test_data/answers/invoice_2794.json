@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith Ltd",
+    "invoice_number": "INV-24476",
+    "date": "2025-04-05",
+    "items": [
+        {
+            "description": "Persevering intangible time-frame",
+            "quantity": 8,
+            "unit_price": 342.73,
+            "total_price": 2741.84
+        }
+    ],
+    "amount": 2741.84
+}

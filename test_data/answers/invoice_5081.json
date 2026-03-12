@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gallagher Inc",
+    "invoice_number": "INV-49916",
+    "date": "2025-06-07",
+    "items": [
+        {
+            "description": "Extended bifurcated installation",
+            "quantity": 8,
+            "unit_price": 467.37,
+            "total_price": 3738.96
+        },
+        {
+            "description": "Compatible intermediate initiative",
+            "quantity": 6,
+            "unit_price": 126.2,
+            "total_price": 757.2
+        }
+    ],
+    "amount": 4496.16
+}

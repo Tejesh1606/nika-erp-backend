@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lee, Jenkins and Welch",
+    "invoice_number": "INV-52166",
+    "date": "2025-06-24",
+    "items": [
+        {
+            "description": "Organized upward-trending hierarchy",
+            "quantity": 1,
+            "unit_price": 403.6,
+            "total_price": 403.6
+        },
+        {
+            "description": "Profound maximized open architecture",
+            "quantity": 3,
+            "unit_price": 454.37,
+            "total_price": 1363.11
+        },
+        {
+            "description": "Total static superstructure",
+            "quantity": 10,
+            "unit_price": 73.78,
+            "total_price": 737.8
+        },
+        {
+            "description": "Fully-configurable static matrices",
+            "quantity": 5,
+            "unit_price": 423.46,
+            "total_price": 2117.3
+        }
+    ],
+    "amount": 4621.81
+}

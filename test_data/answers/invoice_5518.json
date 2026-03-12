@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Martinez-Hunter",
+    "invoice_number": "INV-88291",
+    "date": "2025-07-09",
+    "items": [
+        {
+            "description": "Fundamental full-range functionalities",
+            "quantity": 8,
+            "unit_price": 433.03,
+            "total_price": 3464.24
+        },
+        {
+            "description": "Compatible optimal protocol",
+            "quantity": 1,
+            "unit_price": 452.95,
+            "total_price": 452.95
+        },
+        {
+            "description": "De-engineered explicit benchmark",
+            "quantity": 2,
+            "unit_price": 107.02,
+            "total_price": 214.04
+        },
+        {
+            "description": "Multi-layered clear-thinking migration",
+            "quantity": 6,
+            "unit_price": 453.96,
+            "total_price": 2723.76
+        }
+    ],
+    "amount": 6854.99
+}

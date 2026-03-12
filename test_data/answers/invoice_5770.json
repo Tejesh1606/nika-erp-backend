@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Griffith LLC",
+    "invoice_number": "INV-81768",
+    "date": "2025-10-23",
+    "items": [
+        {
+            "description": "Ameliorated eco-centric access",
+            "quantity": 2,
+            "unit_price": 281.1,
+            "total_price": 562.2
+        },
+        {
+            "description": "Configurable background superstructure",
+            "quantity": 3,
+            "unit_price": 130.84,
+            "total_price": 392.52
+        },
+        {
+            "description": "Fully-configurable zero tolerance throughput",
+            "quantity": 2,
+            "unit_price": 477.17,
+            "total_price": 954.34
+        },
+        {
+            "description": "Stand-alone object-oriented complexity",
+            "quantity": 5,
+            "unit_price": 222.36,
+            "total_price": 1111.8
+        }
+    ],
+    "amount": 3020.86
+}

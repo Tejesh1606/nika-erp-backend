@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Romero PLC",
+    "invoice_number": "INV-56434",
+    "date": "2025-11-15",
+    "items": [
+        {
+            "description": "Grass-roots uniform monitoring",
+            "quantity": 10,
+            "unit_price": 210.73,
+            "total_price": 2107.3
+        },
+        {
+            "description": "Upgradable 4thgeneration Graphic Interface",
+            "quantity": 1,
+            "unit_price": 215.54,
+            "total_price": 215.54
+        },
+        {
+            "description": "User-friendly systemic toolset",
+            "quantity": 7,
+            "unit_price": 216.49,
+            "total_price": 1515.43
+        },
+        {
+            "description": "Cross-group eco-centric encoding",
+            "quantity": 2,
+            "unit_price": 112.69,
+            "total_price": 225.38
+        }
+    ],
+    "amount": 4063.65
+}

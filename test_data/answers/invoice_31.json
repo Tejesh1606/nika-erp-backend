@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wilson-Rodriguez",
+    "invoice_number": "INV-82512",
+    "date": "2025-05-08",
+    "items": [
+        {
+            "description": "Future-proofed executive portal",
+            "quantity": 8,
+            "unit_price": 309.6,
+            "total_price": 2476.8
+        },
+        {
+            "description": "Expanded transitional Graphical User Interface",
+            "quantity": 6,
+            "unit_price": 457.25,
+            "total_price": 2743.5
+        },
+        {
+            "description": "Expanded systemic productivity",
+            "quantity": 8,
+            "unit_price": 41.65,
+            "total_price": 333.2
+        },
+        {
+            "description": "Fundamental motivating matrix",
+            "quantity": 1,
+            "unit_price": 189.55,
+            "total_price": 189.55
+        }
+    ],
+    "amount": 5743.05
+}

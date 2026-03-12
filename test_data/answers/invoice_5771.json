@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Kelly Ltd",
+    "invoice_number": "INV-83213",
+    "date": "2026-02-07",
+    "items": [
+        {
+            "description": "Up-sized asynchronous paradigm",
+            "quantity": 6,
+            "unit_price": 16.44,
+            "total_price": 98.64
+        },
+        {
+            "description": "Distributed maximized throughput",
+            "quantity": 6,
+            "unit_price": 134.04,
+            "total_price": 804.24
+        }
+    ],
+    "amount": 902.88
+}

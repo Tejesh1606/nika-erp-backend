@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Vazquez, Braun and Tyler",
+    "invoice_number": "INV-36353",
+    "date": "2025-07-29",
+    "items": [
+        {
+            "description": "Function-based maximized Internet solution",
+            "quantity": 3,
+            "unit_price": 474.77,
+            "total_price": 1424.31
+        },
+        {
+            "description": "Multi-tiered discrete application",
+            "quantity": 9,
+            "unit_price": 478.45,
+            "total_price": 4306.05
+        }
+    ],
+    "amount": 5730.36
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Pierce PLC",
+    "invoice_number": "INV-20645",
+    "date": "2026-02-27",
+    "items": [
+        {
+            "description": "Decentralized actuating attitude",
+            "quantity": 3,
+            "unit_price": 68.93,
+            "total_price": 206.79
+        }
+    ],
+    "amount": 206.79
+}

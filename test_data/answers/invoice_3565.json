@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Kelley Inc",
+    "invoice_number": "INV-62718",
+    "date": "2025-03-24",
+    "items": [
+        {
+            "description": "User-friendly motivating pricing structure",
+            "quantity": 8,
+            "unit_price": 461.7,
+            "total_price": 3693.6
+        },
+        {
+            "description": "Compatible user-facing matrix",
+            "quantity": 5,
+            "unit_price": 449.09,
+            "total_price": 2245.45
+        },
+        {
+            "description": "Balanced 5thgeneration hierarchy",
+            "quantity": 10,
+            "unit_price": 352.28,
+            "total_price": 3522.8
+        },
+        {
+            "description": "Distributed clear-thinking portal",
+            "quantity": 4,
+            "unit_price": 147.25,
+            "total_price": 589.0
+        }
+    ],
+    "amount": 10050.85
+}

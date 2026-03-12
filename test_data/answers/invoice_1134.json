@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hawkins, Gonzalez and Henry",
+    "invoice_number": "INV-98978",
+    "date": "2025-06-28",
+    "items": [
+        {
+            "description": "Face-to-face dedicated support",
+            "quantity": 6,
+            "unit_price": 179.09,
+            "total_price": 1074.54
+        },
+        {
+            "description": "Diverse intermediate moderator",
+            "quantity": 1,
+            "unit_price": 30.13,
+            "total_price": 30.13
+        }
+    ],
+    "amount": 1104.67
+}

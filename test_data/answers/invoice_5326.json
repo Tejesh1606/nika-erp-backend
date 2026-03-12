@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Barber-Rodriguez",
+    "invoice_number": "INV-60073",
+    "date": "2026-02-27",
+    "items": [
+        {
+            "description": "Persistent intermediate pricing structure",
+            "quantity": 6,
+            "unit_price": 240.55,
+            "total_price": 1443.3
+        }
+    ],
+    "amount": 1443.3
+}

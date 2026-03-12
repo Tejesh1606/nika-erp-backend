@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Rice, Castillo and Frye",
+    "invoice_number": "INV-76037",
+    "date": "2025-06-30",
+    "items": [
+        {
+            "description": "Synchronized multi-tasking infrastructure",
+            "quantity": 2,
+            "unit_price": 231.76,
+            "total_price": 463.52
+        },
+        {
+            "description": "Multi-layered fresh-thinking model",
+            "quantity": 10,
+            "unit_price": 283.88,
+            "total_price": 2838.8
+        },
+        {
+            "description": "Synchronized exuding collaboration",
+            "quantity": 2,
+            "unit_price": 130.07,
+            "total_price": 260.14
+        }
+    ],
+    "amount": 3562.46
+}

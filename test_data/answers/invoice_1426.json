@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hughes, Jennings and Hughes",
+    "invoice_number": "INV-41151",
+    "date": "2025-11-29",
+    "items": [
+        {
+            "description": "Pre-emptive reciprocal extranet",
+            "quantity": 6,
+            "unit_price": 147.08,
+            "total_price": 882.48
+        },
+        {
+            "description": "Monitored scalable knowledgebase",
+            "quantity": 7,
+            "unit_price": 143.43,
+            "total_price": 1004.01
+        },
+        {
+            "description": "Polarized coherent knowledgebase",
+            "quantity": 5,
+            "unit_price": 138.38,
+            "total_price": 691.9
+        },
+        {
+            "description": "Public-key high-level definition",
+            "quantity": 4,
+            "unit_price": 47.42,
+            "total_price": 189.68
+        }
+    ],
+    "amount": 2768.07
+}

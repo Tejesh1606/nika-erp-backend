@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bailey, Murphy and Thornton",
+    "invoice_number": "INV-81490",
+    "date": "2025-07-30",
+    "items": [
+        {
+            "description": "Fully-configurable high-level encoding",
+            "quantity": 5,
+            "unit_price": 296.67,
+            "total_price": 1483.35
+        },
+        {
+            "description": "Fully-configurable optimal projection",
+            "quantity": 7,
+            "unit_price": 485.21,
+            "total_price": 3396.47
+        },
+        {
+            "description": "Reverse-engineered zero administration task-force",
+            "quantity": 8,
+            "unit_price": 460.86,
+            "total_price": 3686.88
+        }
+    ],
+    "amount": 8566.7
+}

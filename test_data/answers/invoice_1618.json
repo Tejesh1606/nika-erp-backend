@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Brock, Mcguire and Miller",
+    "invoice_number": "INV-18314",
+    "date": "2025-05-11",
+    "items": [
+        {
+            "description": "Digitized global complexity",
+            "quantity": 3,
+            "unit_price": 335.55,
+            "total_price": 1006.65
+        },
+        {
+            "description": "Programmable system-worthy monitoring",
+            "quantity": 9,
+            "unit_price": 319.46,
+            "total_price": 2875.14
+        }
+    ],
+    "amount": 3881.79
+}

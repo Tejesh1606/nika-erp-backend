@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Brown Inc",
+    "invoice_number": "INV-61166",
+    "date": "2025-08-20",
+    "items": [
+        {
+            "description": "Progressive homogeneous encryption",
+            "quantity": 8,
+            "unit_price": 389.68,
+            "total_price": 3117.44
+        },
+        {
+            "description": "Organic client-driven attitude",
+            "quantity": 5,
+            "unit_price": 443.86,
+            "total_price": 2219.3
+        },
+        {
+            "description": "Total needs-based utilization",
+            "quantity": 9,
+            "unit_price": 379.9,
+            "total_price": 3419.1
+        },
+        {
+            "description": "Multi-lateral zero tolerance open architecture",
+            "quantity": 2,
+            "unit_price": 37.53,
+            "total_price": 75.06
+        }
+    ],
+    "amount": 8830.9
+}

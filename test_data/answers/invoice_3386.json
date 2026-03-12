@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Morrison LLC",
+    "invoice_number": "INV-81921",
+    "date": "2025-09-26",
+    "items": [
+        {
+            "description": "Optional hybrid success",
+            "quantity": 3,
+            "unit_price": 496.61,
+            "total_price": 1489.83
+        },
+        {
+            "description": "Upgradable 3rdgeneration synergy",
+            "quantity": 5,
+            "unit_price": 69.5,
+            "total_price": 347.5
+        },
+        {
+            "description": "Organic demand-driven synergy",
+            "quantity": 7,
+            "unit_price": 113.0,
+            "total_price": 791.0
+        }
+    ],
+    "amount": 2628.33
+}

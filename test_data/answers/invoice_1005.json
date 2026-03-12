@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Tanner, Perry and Smith",
+    "invoice_number": "INV-39401",
+    "date": "2025-03-18",
+    "items": [
+        {
+            "description": "Focused interactive info-mediaries",
+            "quantity": 1,
+            "unit_price": 160.6,
+            "total_price": 160.6
+        }
+    ],
+    "amount": 160.6
+}

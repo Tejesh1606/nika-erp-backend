@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Allen-Barr",
+    "invoice_number": "INV-79322",
+    "date": "2025-08-24",
+    "items": [
+        {
+            "description": "Public-key interactive interface",
+            "quantity": 6,
+            "unit_price": 351.08,
+            "total_price": 2106.48
+        },
+        {
+            "description": "Persevering leadingedge hardware",
+            "quantity": 8,
+            "unit_price": 42.78,
+            "total_price": 342.24
+        },
+        {
+            "description": "Networked explicit initiative",
+            "quantity": 8,
+            "unit_price": 21.06,
+            "total_price": 168.48
+        },
+        {
+            "description": "Seamless motivating throughput",
+            "quantity": 3,
+            "unit_price": 297.58,
+            "total_price": 892.74
+        }
+    ],
+    "amount": 3509.94
+}

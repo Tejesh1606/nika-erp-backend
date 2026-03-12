@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lamb-Kennedy",
+    "invoice_number": "INV-82557",
+    "date": "2025-11-29",
+    "items": [
+        {
+            "description": "Mandatory reciprocal intranet",
+            "quantity": 4,
+            "unit_price": 89.47,
+            "total_price": 357.88
+        }
+    ],
+    "amount": 357.88
+}

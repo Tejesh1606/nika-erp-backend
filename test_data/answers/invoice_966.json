@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Park-Brady",
+    "invoice_number": "INV-42011",
+    "date": "2025-12-20",
+    "items": [
+        {
+            "description": "Switchable multi-tasking software",
+            "quantity": 2,
+            "unit_price": 413.06,
+            "total_price": 826.12
+        },
+        {
+            "description": "Robust 6thgeneration portal",
+            "quantity": 9,
+            "unit_price": 307.22,
+            "total_price": 2764.98
+        },
+        {
+            "description": "Organized composite service-desk",
+            "quantity": 3,
+            "unit_price": 339.02,
+            "total_price": 1017.06
+        },
+        {
+            "description": "Virtual multi-tasking definition",
+            "quantity": 2,
+            "unit_price": 348.13,
+            "total_price": 696.26
+        }
+    ],
+    "amount": 5304.42
+}

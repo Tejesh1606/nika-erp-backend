@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Blankenship-Cooper",
+    "invoice_number": "INV-70531",
+    "date": "2025-12-12",
+    "items": [
+        {
+            "description": "Decentralized dynamic solution",
+            "quantity": 9,
+            "unit_price": 441.5,
+            "total_price": 3973.5
+        },
+        {
+            "description": "Sharable local budgetary management",
+            "quantity": 6,
+            "unit_price": 402.63,
+            "total_price": 2415.78
+        },
+        {
+            "description": "Monitored dedicated extranet",
+            "quantity": 2,
+            "unit_price": 40.97,
+            "total_price": 81.94
+        },
+        {
+            "description": "Down-sized maximized middleware",
+            "quantity": 2,
+            "unit_price": 410.1,
+            "total_price": 820.2
+        }
+    ],
+    "amount": 7291.42
+}

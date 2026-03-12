@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Moore-Kerr",
+    "invoice_number": "INV-37908",
+    "date": "2025-11-01",
+    "items": [
+        {
+            "description": "Optimized zero tolerance focus group",
+            "quantity": 1,
+            "unit_price": 356.21,
+            "total_price": 356.21
+        },
+        {
+            "description": "Exclusive systematic time-frame",
+            "quantity": 7,
+            "unit_price": 153.97,
+            "total_price": 1077.79
+        },
+        {
+            "description": "Exclusive bottom-line Internet solution",
+            "quantity": 3,
+            "unit_price": 332.45,
+            "total_price": 997.35
+        }
+    ],
+    "amount": 2431.35
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Watson Group",
+    "invoice_number": "INV-65554",
+    "date": "2025-08-30",
+    "items": [
+        {
+            "description": "Centralized asymmetric service-desk",
+            "quantity": 5,
+            "unit_price": 253.87,
+            "total_price": 1269.35
+        },
+        {
+            "description": "Secured asynchronous migration",
+            "quantity": 7,
+            "unit_price": 103.1,
+            "total_price": 721.7
+        }
+    ],
+    "amount": 1991.05
+}

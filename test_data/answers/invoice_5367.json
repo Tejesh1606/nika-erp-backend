@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cline LLC",
+    "invoice_number": "INV-62469",
+    "date": "2025-12-03",
+    "items": [
+        {
+            "description": "Expanded logistical matrix",
+            "quantity": 7,
+            "unit_price": 473.42,
+            "total_price": 3313.94
+        }
+    ],
+    "amount": 3313.94
+}

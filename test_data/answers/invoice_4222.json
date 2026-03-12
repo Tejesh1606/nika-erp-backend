@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Rice-Hernandez",
+    "invoice_number": "INV-54906",
+    "date": "2025-09-13",
+    "items": [
+        {
+            "description": "Profit-focused explicit system engine",
+            "quantity": 3,
+            "unit_price": 322.7,
+            "total_price": 968.1
+        },
+        {
+            "description": "Multi-lateral zero tolerance leverage",
+            "quantity": 8,
+            "unit_price": 372.51,
+            "total_price": 2980.08
+        },
+        {
+            "description": "Self-enabling coherent analyzer",
+            "quantity": 8,
+            "unit_price": 397.1,
+            "total_price": 3176.8
+        }
+    ],
+    "amount": 7124.98
+}

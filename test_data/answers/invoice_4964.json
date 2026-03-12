@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jackson, Owens and Larsen",
+    "invoice_number": "INV-68184",
+    "date": "2025-04-29",
+    "items": [
+        {
+            "description": "Optional bi-directional adapter",
+            "quantity": 2,
+            "unit_price": 416.1,
+            "total_price": 832.2
+        }
+    ],
+    "amount": 832.2
+}

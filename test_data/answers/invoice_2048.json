@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Proctor-Cunningham",
+    "invoice_number": "INV-90800",
+    "date": "2025-05-20",
+    "items": [
+        {
+            "description": "Persistent leadingedge artificial intelligence",
+            "quantity": 10,
+            "unit_price": 436.35,
+            "total_price": 4363.5
+        },
+        {
+            "description": "Customizable scalable open system",
+            "quantity": 3,
+            "unit_price": 228.89,
+            "total_price": 686.67
+        },
+        {
+            "description": "Streamlined heuristic challenge",
+            "quantity": 7,
+            "unit_price": 157.77,
+            "total_price": 1104.39
+        }
+    ],
+    "amount": 6154.56
+}

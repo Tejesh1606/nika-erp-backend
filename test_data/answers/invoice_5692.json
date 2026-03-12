@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Sullivan LLC",
+    "invoice_number": "INV-63341",
+    "date": "2025-07-15",
+    "items": [
+        {
+            "description": "Cross-group national success",
+            "quantity": 6,
+            "unit_price": 475.78,
+            "total_price": 2854.68
+        },
+        {
+            "description": "Open-architected foreground throughput",
+            "quantity": 4,
+            "unit_price": 19.51,
+            "total_price": 78.04
+        }
+    ],
+    "amount": 2932.72
+}

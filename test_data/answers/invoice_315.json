@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Shaw Inc",
+    "invoice_number": "INV-33507",
+    "date": "2025-06-03",
+    "items": [
+        {
+            "description": "Programmable 6thgeneration initiative",
+            "quantity": 4,
+            "unit_price": 439.77,
+            "total_price": 1759.08
+        },
+        {
+            "description": "Cloned maximized forecast",
+            "quantity": 8,
+            "unit_price": 58.78,
+            "total_price": 470.24
+        },
+        {
+            "description": "Vision-oriented fault-tolerant Graphic Interface",
+            "quantity": 3,
+            "unit_price": 92.18,
+            "total_price": 276.54
+        }
+    ],
+    "amount": 2505.86
+}

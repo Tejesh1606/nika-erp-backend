@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Williams-Cannon",
+    "invoice_number": "INV-26415",
+    "date": "2025-08-22",
+    "items": [
+        {
+            "description": "Total interactive neural-net",
+            "quantity": 5,
+            "unit_price": 340.53,
+            "total_price": 1702.65
+        },
+        {
+            "description": "Devolved bifurcated intranet",
+            "quantity": 10,
+            "unit_price": 402.04,
+            "total_price": 4020.4
+        },
+        {
+            "description": "Decentralized reciprocal hub",
+            "quantity": 10,
+            "unit_price": 428.4,
+            "total_price": 4284.0
+        },
+        {
+            "description": "Multi-channeled content-based Graphical User Interface",
+            "quantity": 8,
+            "unit_price": 188.91,
+            "total_price": 1511.28
+        }
+    ],
+    "amount": 11518.33
+}

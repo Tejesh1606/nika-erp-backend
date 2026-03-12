@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Daniel, Hill and Abbott",
+    "invoice_number": "INV-13030",
+    "date": "2025-12-03",
+    "items": [
+        {
+            "description": "Synergistic national pricing structure",
+            "quantity": 3,
+            "unit_price": 19.19,
+            "total_price": 57.57
+        }
+    ],
+    "amount": 57.57
+}

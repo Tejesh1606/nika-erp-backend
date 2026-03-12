@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Smith, Martin and Duncan",
+    "invoice_number": "INV-90495",
+    "date": "2025-06-21",
+    "items": [
+        {
+            "description": "Pre-emptive bottom-line attitude",
+            "quantity": 8,
+            "unit_price": 168.17,
+            "total_price": 1345.36
+        },
+        {
+            "description": "Fully-configurable incremental definition",
+            "quantity": 5,
+            "unit_price": 108.43,
+            "total_price": 542.15
+        }
+    ],
+    "amount": 1887.51
+}

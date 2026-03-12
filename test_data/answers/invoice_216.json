@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bradley-Todd",
+    "invoice_number": "INV-33002",
+    "date": "2025-11-01",
+    "items": [
+        {
+            "description": "Sharable impactful interface",
+            "quantity": 1,
+            "unit_price": 277.99,
+            "total_price": 277.99
+        },
+        {
+            "description": "Profound fresh-thinking array",
+            "quantity": 6,
+            "unit_price": 445.0,
+            "total_price": 2670.0
+        }
+    ],
+    "amount": 2947.99
+}

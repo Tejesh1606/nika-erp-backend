@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Thompson, Dalton and Gill",
+    "invoice_number": "INV-72774",
+    "date": "2025-07-13",
+    "items": [
+        {
+            "description": "Innovative multi-state hardware",
+            "quantity": 4,
+            "unit_price": 205.0,
+            "total_price": 820.0
+        },
+        {
+            "description": "Ergonomic executive product",
+            "quantity": 6,
+            "unit_price": 309.63,
+            "total_price": 1857.78
+        },
+        {
+            "description": "Triple-buffered zero tolerance installation",
+            "quantity": 5,
+            "unit_price": 114.45,
+            "total_price": 572.25
+        },
+        {
+            "description": "Multi-layered global leverage",
+            "quantity": 2,
+            "unit_price": 238.0,
+            "total_price": 476.0
+        }
+    ],
+    "amount": 3726.03
+}

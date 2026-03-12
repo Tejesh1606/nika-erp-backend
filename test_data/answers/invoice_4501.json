@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lucas, Farmer and Gutierrez",
+    "invoice_number": "INV-28369",
+    "date": "2026-02-28",
+    "items": [
+        {
+            "description": "Optional systematic software",
+            "quantity": 9,
+            "unit_price": 424.12,
+            "total_price": 3817.08
+        },
+        {
+            "description": "Multi-channeled analyzing functionalities",
+            "quantity": 3,
+            "unit_price": 428.31,
+            "total_price": 1284.93
+        },
+        {
+            "description": "Ergonomic executive methodology",
+            "quantity": 2,
+            "unit_price": 204.47,
+            "total_price": 408.94
+        },
+        {
+            "description": "Pre-emptive systematic firmware",
+            "quantity": 3,
+            "unit_price": 352.22,
+            "total_price": 1056.66
+        }
+    ],
+    "amount": 6567.61
+}

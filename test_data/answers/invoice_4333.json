@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hansen, Barton and Sanchez",
+    "invoice_number": "INV-10408",
+    "date": "2025-05-24",
+    "items": [
+        {
+            "description": "Organic scalable focus group",
+            "quantity": 7,
+            "unit_price": 12.46,
+            "total_price": 87.22
+        }
+    ],
+    "amount": 87.22
+}

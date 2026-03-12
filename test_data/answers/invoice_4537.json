@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Schultz Ltd",
+    "invoice_number": "INV-36543",
+    "date": "2025-10-09",
+    "items": [
+        {
+            "description": "Grass-roots 24hour orchestration",
+            "quantity": 1,
+            "unit_price": 145.31,
+            "total_price": 145.31
+        }
+    ],
+    "amount": 145.31
+}

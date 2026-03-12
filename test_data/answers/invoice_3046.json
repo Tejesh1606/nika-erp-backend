@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Burns, Wilkinson and Thornton",
+    "invoice_number": "INV-51693",
+    "date": "2025-06-17",
+    "items": [
+        {
+            "description": "Switchable actuating structure",
+            "quantity": 7,
+            "unit_price": 64.59,
+            "total_price": 452.13
+        },
+        {
+            "description": "Horizontal context-sensitive project",
+            "quantity": 9,
+            "unit_price": 175.46,
+            "total_price": 1579.14
+        },
+        {
+            "description": "Fully-configurable bottom-line initiative",
+            "quantity": 1,
+            "unit_price": 315.23,
+            "total_price": 315.23
+        },
+        {
+            "description": "Secured modular policy",
+            "quantity": 8,
+            "unit_price": 271.54,
+            "total_price": 2172.32
+        }
+    ],
+    "amount": 4518.82
+}

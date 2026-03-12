@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hughes, Franklin and Griffin",
+    "invoice_number": "INV-60867",
+    "date": "2025-04-10",
+    "items": [
+        {
+            "description": "Decentralized well-modulated info-mediaries",
+            "quantity": 10,
+            "unit_price": 375.25,
+            "total_price": 3752.5
+        },
+        {
+            "description": "Networked client-driven throughput",
+            "quantity": 7,
+            "unit_price": 352.95,
+            "total_price": 2470.65
+        },
+        {
+            "description": "Up-sized needs-based initiative",
+            "quantity": 9,
+            "unit_price": 201.82,
+            "total_price": 1816.38
+        },
+        {
+            "description": "Optional 24/7 throughput",
+            "quantity": 4,
+            "unit_price": 498.52,
+            "total_price": 1994.08
+        }
+    ],
+    "amount": 10033.61
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jones and Sons",
+    "invoice_number": "INV-77329",
+    "date": "2025-07-24",
+    "items": [
+        {
+            "description": "Business-focused interactive methodology",
+            "quantity": 10,
+            "unit_price": 115.58,
+            "total_price": 1155.8
+        },
+        {
+            "description": "Multi-tiered composite hub",
+            "quantity": 8,
+            "unit_price": 94.14,
+            "total_price": 753.12
+        },
+        {
+            "description": "Customizable global service-desk",
+            "quantity": 7,
+            "unit_price": 305.56,
+            "total_price": 2138.92
+        },
+        {
+            "description": "Fully-configurable needs-based throughput",
+            "quantity": 3,
+            "unit_price": 22.04,
+            "total_price": 66.12
+        }
+    ],
+    "amount": 4113.96
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Johnson, Schneider and Flores",
+    "invoice_number": "INV-78732",
+    "date": "2025-03-09",
+    "items": [
+        {
+            "description": "Open-architected secondary contingency",
+            "quantity": 5,
+            "unit_price": 85.91,
+            "total_price": 429.55
+        }
+    ],
+    "amount": 429.55
+}

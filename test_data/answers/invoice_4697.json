@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Diaz-Flores",
+    "invoice_number": "INV-49489",
+    "date": "2025-09-27",
+    "items": [
+        {
+            "description": "Multi-tiered didactic productivity",
+            "quantity": 3,
+            "unit_price": 51.11,
+            "total_price": 153.33
+        },
+        {
+            "description": "Distributed next generation archive",
+            "quantity": 3,
+            "unit_price": 297.66,
+            "total_price": 892.98
+        },
+        {
+            "description": "Advanced systemic secured line",
+            "quantity": 5,
+            "unit_price": 256.99,
+            "total_price": 1284.95
+        }
+    ],
+    "amount": 2331.26
+}

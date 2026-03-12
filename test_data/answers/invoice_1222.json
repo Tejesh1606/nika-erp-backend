@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Harrison, Moore and Bell",
+    "invoice_number": "INV-83289",
+    "date": "2026-02-15",
+    "items": [
+        {
+            "description": "Face-to-face grid-enabled product",
+            "quantity": 5,
+            "unit_price": 175.83,
+            "total_price": 879.15
+        },
+        {
+            "description": "Advanced content-based focus group",
+            "quantity": 5,
+            "unit_price": 312.0,
+            "total_price": 1560.0
+        }
+    ],
+    "amount": 2439.15
+}

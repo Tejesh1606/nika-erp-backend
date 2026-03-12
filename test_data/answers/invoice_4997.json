@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Peterson-Bryan",
+    "invoice_number": "INV-11818",
+    "date": "2025-06-08",
+    "items": [
+        {
+            "description": "Vision-oriented fault-tolerant paradigm",
+            "quantity": 8,
+            "unit_price": 92.02,
+            "total_price": 736.16
+        },
+        {
+            "description": "Sharable multimedia system engine",
+            "quantity": 8,
+            "unit_price": 373.54,
+            "total_price": 2988.32
+        }
+    ],
+    "amount": 3724.48
+}

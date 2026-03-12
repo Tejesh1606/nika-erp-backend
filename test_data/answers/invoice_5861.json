@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Black Inc",
+    "invoice_number": "INV-59218",
+    "date": "2025-08-29",
+    "items": [
+        {
+            "description": "Customizable analyzing orchestration",
+            "quantity": 3,
+            "unit_price": 54.82,
+            "total_price": 164.46
+        },
+        {
+            "description": "Customer-focused leadingedge process improvement",
+            "quantity": 5,
+            "unit_price": 410.2,
+            "total_price": 2051.0
+        },
+        {
+            "description": "Multi-tiered holistic attitude",
+            "quantity": 2,
+            "unit_price": 73.2,
+            "total_price": 146.4
+        },
+        {
+            "description": "Ameliorated fresh-thinking portal",
+            "quantity": 8,
+            "unit_price": 76.09,
+            "total_price": 608.72
+        }
+    ],
+    "amount": 2970.58
+}

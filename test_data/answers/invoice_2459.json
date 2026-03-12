@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mendoza, Wells and Simon",
+    "invoice_number": "INV-81049",
+    "date": "2025-06-20",
+    "items": [
+        {
+            "description": "Fully-configurable 24hour workforce",
+            "quantity": 10,
+            "unit_price": 397.23,
+            "total_price": 3972.3
+        }
+    ],
+    "amount": 3972.3
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hicks, Lutz and Hogan",
+    "invoice_number": "INV-58388",
+    "date": "2026-01-22",
+    "items": [
+        {
+            "description": "Re-engineered cohesive service-desk",
+            "quantity": 9,
+            "unit_price": 350.22,
+            "total_price": 3151.98
+        }
+    ],
+    "amount": 3151.98
+}

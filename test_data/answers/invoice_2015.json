@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Webb Ltd",
+    "invoice_number": "INV-33354",
+    "date": "2025-12-17",
+    "items": [
+        {
+            "description": "De-engineered asymmetric function",
+            "quantity": 1,
+            "unit_price": 360.72,
+            "total_price": 360.72
+        },
+        {
+            "description": "Enterprise-wide foreground Local Area Network",
+            "quantity": 5,
+            "unit_price": 354.15,
+            "total_price": 1770.75
+        },
+        {
+            "description": "Switchable content-based capability",
+            "quantity": 2,
+            "unit_price": 389.54,
+            "total_price": 779.08
+        },
+        {
+            "description": "Optimized 4thgeneration portal",
+            "quantity": 7,
+            "unit_price": 131.74,
+            "total_price": 922.18
+        }
+    ],
+    "amount": 3832.73
+}

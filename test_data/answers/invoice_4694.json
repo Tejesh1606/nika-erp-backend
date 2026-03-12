@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Davis-Moore",
+    "invoice_number": "INV-90077",
+    "date": "2026-02-18",
+    "items": [
+        {
+            "description": "Reactive 24/7 migration",
+            "quantity": 3,
+            "unit_price": 158.29,
+            "total_price": 474.87
+        },
+        {
+            "description": "Upgradable homogeneous functionalities",
+            "quantity": 6,
+            "unit_price": 127.49,
+            "total_price": 764.94
+        },
+        {
+            "description": "Intuitive bottom-line access",
+            "quantity": 4,
+            "unit_price": 45.28,
+            "total_price": 181.12
+        },
+        {
+            "description": "Progressive incremental time-frame",
+            "quantity": 10,
+            "unit_price": 342.72,
+            "total_price": 3427.2
+        }
+    ],
+    "amount": 4848.13
+}

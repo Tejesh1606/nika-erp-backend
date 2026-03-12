@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith, Goodwin and Mcguire",
+    "invoice_number": "INV-41054",
+    "date": "2025-08-04",
+    "items": [
+        {
+            "description": "Phased attitude-oriented capacity",
+            "quantity": 7,
+            "unit_price": 377.69,
+            "total_price": 2643.83
+        }
+    ],
+    "amount": 2643.83
+}

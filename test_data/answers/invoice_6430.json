@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Nelson, Clark and Estrada",
+    "invoice_number": "INV-57358",
+    "date": "2026-02-27",
+    "items": [
+        {
+            "description": "Customizable disintermediate core",
+            "quantity": 6,
+            "unit_price": 343.8,
+            "total_price": 2062.8
+        },
+        {
+            "description": "Face-to-face asymmetric structure",
+            "quantity": 5,
+            "unit_price": 201.12,
+            "total_price": 1005.6
+        }
+    ],
+    "amount": 3068.4
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mann LLC",
+    "invoice_number": "INV-36383",
+    "date": "2025-04-26",
+    "items": [
+        {
+            "description": "Synergized hybrid time-frame",
+            "quantity": 9,
+            "unit_price": 380.3,
+            "total_price": 3422.7
+        }
+    ],
+    "amount": 3422.7
+}

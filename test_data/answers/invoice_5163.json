@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Bennett, Wallace and Frost",
+    "invoice_number": "INV-92943",
+    "date": "2025-08-31",
+    "items": [
+        {
+            "description": "Intuitive value-added solution",
+            "quantity": 8,
+            "unit_price": 335.19,
+            "total_price": 2681.52
+        }
+    ],
+    "amount": 2681.52
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Manning, Walls and Robinson",
+    "invoice_number": "INV-24000",
+    "date": "2025-05-16",
+    "items": [
+        {
+            "description": "Extended even-keeled intranet",
+            "quantity": 3,
+            "unit_price": 114.4,
+            "total_price": 343.2
+        },
+        {
+            "description": "Open-source eco-centric parallelism",
+            "quantity": 2,
+            "unit_price": 275.6,
+            "total_price": 551.2
+        },
+        {
+            "description": "Centralized mobile monitoring",
+            "quantity": 3,
+            "unit_price": 101.85,
+            "total_price": 305.55
+        }
+    ],
+    "amount": 1199.95
+}

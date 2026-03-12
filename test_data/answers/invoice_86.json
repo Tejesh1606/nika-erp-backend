@@ -1,0 +1,26 @@
+{
+    "vendor_name": "White-Richards",
+    "invoice_number": "INV-93202",
+    "date": "2026-01-19",
+    "items": [
+        {
+            "description": "Pre-emptive background leverage",
+            "quantity": 1,
+            "unit_price": 244.18,
+            "total_price": 244.18
+        },
+        {
+            "description": "Monitored incremental groupware",
+            "quantity": 5,
+            "unit_price": 80.15,
+            "total_price": 400.75
+        },
+        {
+            "description": "Inverse static benchmark",
+            "quantity": 6,
+            "unit_price": 200.59,
+            "total_price": 1203.54
+        }
+    ],
+    "amount": 1848.47
+}

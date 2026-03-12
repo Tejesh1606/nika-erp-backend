@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Monroe and Sons",
+    "invoice_number": "INV-33522",
+    "date": "2025-07-07",
+    "items": [
+        {
+            "description": "Open-architected empowering system engine",
+            "quantity": 7,
+            "unit_price": 430.59,
+            "total_price": 3014.13
+        },
+        {
+            "description": "Centralized human-resource parallelism",
+            "quantity": 6,
+            "unit_price": 222.47,
+            "total_price": 1334.82
+        },
+        {
+            "description": "Fundamental stable synergy",
+            "quantity": 3,
+            "unit_price": 166.29,
+            "total_price": 498.87
+        }
+    ],
+    "amount": 4847.82
+}

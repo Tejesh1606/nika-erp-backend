@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gonzalez-Calderon",
+    "invoice_number": "INV-91822",
+    "date": "2025-04-19",
+    "items": [
+        {
+            "description": "Up-sized homogeneous challenge",
+            "quantity": 5,
+            "unit_price": 149.34,
+            "total_price": 746.7
+        },
+        {
+            "description": "Integrated even-keeled archive",
+            "quantity": 7,
+            "unit_price": 126.51,
+            "total_price": 885.57
+        },
+        {
+            "description": "Assimilated intangible info-mediaries",
+            "quantity": 2,
+            "unit_price": 333.89,
+            "total_price": 667.78
+        },
+        {
+            "description": "Self-enabling mobile moratorium",
+            "quantity": 7,
+            "unit_price": 432.24,
+            "total_price": 3025.68
+        }
+    ],
+    "amount": 5325.73
+}

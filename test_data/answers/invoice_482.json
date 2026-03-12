@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ferguson, Stewart and Tucker",
+    "invoice_number": "INV-42895",
+    "date": "2025-10-13",
+    "items": [
+        {
+            "description": "Re-contextualized actuating infrastructure",
+            "quantity": 10,
+            "unit_price": 46.15,
+            "total_price": 461.5
+        }
+    ],
+    "amount": 461.5
+}

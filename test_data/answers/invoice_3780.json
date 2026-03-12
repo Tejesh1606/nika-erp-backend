@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith, Gomez and Shaw",
+    "invoice_number": "INV-52386",
+    "date": "2025-07-20",
+    "items": [
+        {
+            "description": "Programmable modular functionalities",
+            "quantity": 8,
+            "unit_price": 357.28,
+            "total_price": 2858.24
+        },
+        {
+            "description": "Multi-layered client-driven standardization",
+            "quantity": 5,
+            "unit_price": 290.87,
+            "total_price": 1454.35
+        },
+        {
+            "description": "Implemented heuristic collaboration",
+            "quantity": 1,
+            "unit_price": 199.6,
+            "total_price": 199.6
+        }
+    ],
+    "amount": 4512.19
+}

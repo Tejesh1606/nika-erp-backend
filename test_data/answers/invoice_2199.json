@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Garcia-Lewis",
+    "invoice_number": "INV-45484",
+    "date": "2025-07-31",
+    "items": [
+        {
+            "description": "Vision-oriented disintermediate neural-net",
+            "quantity": 3,
+            "unit_price": 302.28,
+            "total_price": 906.84
+        },
+        {
+            "description": "Stand-alone asynchronous approach",
+            "quantity": 8,
+            "unit_price": 42.37,
+            "total_price": 338.96
+        },
+        {
+            "description": "Secured mission-critical structure",
+            "quantity": 6,
+            "unit_price": 329.32,
+            "total_price": 1975.92
+        }
+    ],
+    "amount": 3221.72
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ryan, White and Maxwell",
+    "invoice_number": "INV-40382",
+    "date": "2025-05-30",
+    "items": [
+        {
+            "description": "Integrated motivating function",
+            "quantity": 3,
+            "unit_price": 236.87,
+            "total_price": 710.61
+        },
+        {
+            "description": "Intuitive zero administration moderator",
+            "quantity": 2,
+            "unit_price": 93.78,
+            "total_price": 187.56
+        }
+    ],
+    "amount": 898.17
+}

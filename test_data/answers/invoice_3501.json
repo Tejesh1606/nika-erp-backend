@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Miller-Mathis",
+    "invoice_number": "INV-81008",
+    "date": "2025-11-28",
+    "items": [
+        {
+            "description": "Decentralized cohesive policy",
+            "quantity": 10,
+            "unit_price": 114.19,
+            "total_price": 1141.9
+        },
+        {
+            "description": "Enterprise-wide disintermediate success",
+            "quantity": 8,
+            "unit_price": 494.49,
+            "total_price": 3955.92
+        },
+        {
+            "description": "Open-architected bandwidth-monitored data-warehouse",
+            "quantity": 10,
+            "unit_price": 429.83,
+            "total_price": 4298.3
+        }
+    ],
+    "amount": 9396.12
+}

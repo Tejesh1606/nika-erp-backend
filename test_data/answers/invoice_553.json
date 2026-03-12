@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Grant PLC",
+    "invoice_number": "INV-92660",
+    "date": "2025-03-28",
+    "items": [
+        {
+            "description": "Ergonomic explicit intranet",
+            "quantity": 5,
+            "unit_price": 460.7,
+            "total_price": 2303.5
+        },
+        {
+            "description": "Object-based exuding time-frame",
+            "quantity": 3,
+            "unit_price": 76.29,
+            "total_price": 228.87
+        },
+        {
+            "description": "Horizontal maximized concept",
+            "quantity": 1,
+            "unit_price": 302.22,
+            "total_price": 302.22
+        }
+    ],
+    "amount": 2834.59
+}

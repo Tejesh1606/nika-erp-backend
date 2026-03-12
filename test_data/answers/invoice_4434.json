@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Brown, Warren and Johnston",
+    "invoice_number": "INV-32357",
+    "date": "2025-11-30",
+    "items": [
+        {
+            "description": "Visionary 6thgeneration hardware",
+            "quantity": 4,
+            "unit_price": 335.44,
+            "total_price": 1341.76
+        },
+        {
+            "description": "Reverse-engineered optimal workforce",
+            "quantity": 8,
+            "unit_price": 487.31,
+            "total_price": 3898.48
+        },
+        {
+            "description": "Future-proofed executive solution",
+            "quantity": 5,
+            "unit_price": 67.24,
+            "total_price": 336.2
+        },
+        {
+            "description": "Persistent responsive throughput",
+            "quantity": 10,
+            "unit_price": 348.67,
+            "total_price": 3486.7
+        }
+    ],
+    "amount": 9063.14
+}

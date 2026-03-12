@@ -1,0 +1,20 @@
+{
+    "vendor_name": "James, Williams and Smith",
+    "invoice_number": "INV-81585",
+    "date": "2025-08-11",
+    "items": [
+        {
+            "description": "Organized system-worthy projection",
+            "quantity": 8,
+            "unit_price": 254.62,
+            "total_price": 2036.96
+        },
+        {
+            "description": "Down-sized analyzing collaboration",
+            "quantity": 9,
+            "unit_price": 432.34,
+            "total_price": 3891.06
+        }
+    ],
+    "amount": 5928.02
+}

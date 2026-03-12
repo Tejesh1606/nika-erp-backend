@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Meza Group",
+    "invoice_number": "INV-50446",
+    "date": "2026-03-08",
+    "items": [
+        {
+            "description": "Robust secondary utilization",
+            "quantity": 3,
+            "unit_price": 487.39,
+            "total_price": 1462.17
+        },
+        {
+            "description": "Decentralized secondary encoding",
+            "quantity": 4,
+            "unit_price": 13.1,
+            "total_price": 52.4
+        },
+        {
+            "description": "Organized attitude-oriented instruction set",
+            "quantity": 7,
+            "unit_price": 99.31,
+            "total_price": 695.17
+        }
+    ],
+    "amount": 2209.74
+}

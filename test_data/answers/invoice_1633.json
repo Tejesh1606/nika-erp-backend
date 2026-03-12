@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Erickson, Jackson and Bernard",
+    "invoice_number": "INV-99449",
+    "date": "2025-09-22",
+    "items": [
+        {
+            "description": "Front-line incremental ability",
+            "quantity": 6,
+            "unit_price": 422.52,
+            "total_price": 2535.12
+        },
+        {
+            "description": "Synergized multi-state flexibility",
+            "quantity": 1,
+            "unit_price": 95.49,
+            "total_price": 95.49
+        },
+        {
+            "description": "Re-engineered upward-trending time-frame",
+            "quantity": 1,
+            "unit_price": 492.21,
+            "total_price": 492.21
+        }
+    ],
+    "amount": 3122.82
+}

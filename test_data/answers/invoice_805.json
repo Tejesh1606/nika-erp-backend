@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Morgan-Williams",
+    "invoice_number": "INV-97876",
+    "date": "2026-02-17",
+    "items": [
+        {
+            "description": "Organic user-facing focus group",
+            "quantity": 3,
+            "unit_price": 217.32,
+            "total_price": 651.96
+        },
+        {
+            "description": "Stand-alone background concept",
+            "quantity": 7,
+            "unit_price": 257.4,
+            "total_price": 1801.8
+        },
+        {
+            "description": "Triple-buffered 4thgeneration orchestration",
+            "quantity": 1,
+            "unit_price": 409.35,
+            "total_price": 409.35
+        }
+    ],
+    "amount": 2863.11
+}

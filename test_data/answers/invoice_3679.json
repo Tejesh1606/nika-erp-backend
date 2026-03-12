@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Brewer Group",
+    "invoice_number": "INV-39274",
+    "date": "2025-06-25",
+    "items": [
+        {
+            "description": "Customizable national open architecture",
+            "quantity": 1,
+            "unit_price": 284.71,
+            "total_price": 284.71
+        },
+        {
+            "description": "Synergized 4thgeneration methodology",
+            "quantity": 1,
+            "unit_price": 343.4,
+            "total_price": 343.4
+        },
+        {
+            "description": "Reduced stable initiative",
+            "quantity": 6,
+            "unit_price": 380.43,
+            "total_price": 2282.58
+        },
+        {
+            "description": "Vision-oriented fault-tolerant superstructure",
+            "quantity": 5,
+            "unit_price": 159.1,
+            "total_price": 795.5
+        }
+    ],
+    "amount": 3706.19
+}

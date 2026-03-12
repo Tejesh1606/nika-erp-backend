@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Moore-Ware",
+    "invoice_number": "INV-58752",
+    "date": "2025-04-22",
+    "items": [
+        {
+            "description": "Horizontal encompassing neural-net",
+            "quantity": 9,
+            "unit_price": 221.27,
+            "total_price": 1991.43
+        }
+    ],
+    "amount": 1991.43
+}

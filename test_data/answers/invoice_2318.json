@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Williams LLC",
+    "invoice_number": "INV-95455",
+    "date": "2026-01-15",
+    "items": [
+        {
+            "description": "Managed grid-enabled approach",
+            "quantity": 9,
+            "unit_price": 156.89,
+            "total_price": 1412.01
+        },
+        {
+            "description": "Customizable regional superstructure",
+            "quantity": 10,
+            "unit_price": 474.29,
+            "total_price": 4742.9
+        },
+        {
+            "description": "Face-to-face global forecast",
+            "quantity": 6,
+            "unit_price": 208.87,
+            "total_price": 1253.22
+        },
+        {
+            "description": "Managed transitional software",
+            "quantity": 6,
+            "unit_price": 181.89,
+            "total_price": 1091.34
+        }
+    ],
+    "amount": 8499.47
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Griffith-Koch",
+    "invoice_number": "INV-47407",
+    "date": "2025-04-29",
+    "items": [
+        {
+            "description": "User-centric content-based infrastructure",
+            "quantity": 7,
+            "unit_price": 234.6,
+            "total_price": 1642.2
+        },
+        {
+            "description": "Public-key dedicated knowledge user",
+            "quantity": 4,
+            "unit_price": 63.05,
+            "total_price": 252.2
+        }
+    ],
+    "amount": 1894.4
+}

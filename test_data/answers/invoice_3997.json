@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Thomas and Sons",
+    "invoice_number": "INV-11739",
+    "date": "2025-07-22",
+    "items": [
+        {
+            "description": "Implemented clear-thinking protocol",
+            "quantity": 3,
+            "unit_price": 31.47,
+            "total_price": 94.41
+        },
+        {
+            "description": "Quality-focused scalable extranet",
+            "quantity": 9,
+            "unit_price": 354.24,
+            "total_price": 3188.16
+        },
+        {
+            "description": "Streamlined tertiary conglomeration",
+            "quantity": 3,
+            "unit_price": 296.89,
+            "total_price": 890.67
+        }
+    ],
+    "amount": 4173.24
+}

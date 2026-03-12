@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gonzalez and Sons",
+    "invoice_number": "INV-54070",
+    "date": "2025-07-29",
+    "items": [
+        {
+            "description": "Managed value-added knowledgebase",
+            "quantity": 2,
+            "unit_price": 456.92,
+            "total_price": 913.84
+        }
+    ],
+    "amount": 913.84
+}

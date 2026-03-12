@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Taylor, Heath and Andersen",
+    "invoice_number": "INV-42361",
+    "date": "2026-01-11",
+    "items": [
+        {
+            "description": "Public-key optimal capacity",
+            "quantity": 8,
+            "unit_price": 80.26,
+            "total_price": 642.08
+        },
+        {
+            "description": "Cross-platform zero tolerance middleware",
+            "quantity": 1,
+            "unit_price": 441.78,
+            "total_price": 441.78
+        },
+        {
+            "description": "Triple-buffered methodical monitoring",
+            "quantity": 1,
+            "unit_price": 157.89,
+            "total_price": 157.89
+        }
+    ],
+    "amount": 1241.75
+}

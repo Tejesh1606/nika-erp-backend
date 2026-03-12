@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Aguilar, Peck and Garcia",
+    "invoice_number": "INV-30669",
+    "date": "2025-04-18",
+    "items": [
+        {
+            "description": "Advanced well-modulated orchestration",
+            "quantity": 8,
+            "unit_price": 311.87,
+            "total_price": 2494.96
+        },
+        {
+            "description": "Organized clear-thinking approach",
+            "quantity": 9,
+            "unit_price": 249.7,
+            "total_price": 2247.3
+        }
+    ],
+    "amount": 4742.26
+}

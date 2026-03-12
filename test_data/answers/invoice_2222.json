@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Nelson-Blackburn",
+    "invoice_number": "INV-15121",
+    "date": "2025-09-20",
+    "items": [
+        {
+            "description": "Diverse bottom-line definition",
+            "quantity": 6,
+            "unit_price": 101.72,
+            "total_price": 610.32
+        }
+    ],
+    "amount": 610.32
+}

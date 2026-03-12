@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mullen PLC",
+    "invoice_number": "INV-26469",
+    "date": "2026-02-03",
+    "items": [
+        {
+            "description": "Re-engineered methodical function",
+            "quantity": 2,
+            "unit_price": 95.51,
+            "total_price": 191.02
+        }
+    ],
+    "amount": 191.02
+}

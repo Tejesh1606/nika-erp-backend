@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson-Vaughn",
+    "invoice_number": "INV-93395",
+    "date": "2026-01-25",
+    "items": [
+        {
+            "description": "Multi-tiered context-sensitive support",
+            "quantity": 5,
+            "unit_price": 186.96,
+            "total_price": 934.8
+        },
+        {
+            "description": "Pre-emptive multimedia project",
+            "quantity": 10,
+            "unit_price": 397.47,
+            "total_price": 3974.7
+        },
+        {
+            "description": "Seamless 4thgeneration migration",
+            "quantity": 7,
+            "unit_price": 496.43,
+            "total_price": 3475.01
+        },
+        {
+            "description": "Public-key user-facing synergy",
+            "quantity": 4,
+            "unit_price": 58.95,
+            "total_price": 235.8
+        }
+    ],
+    "amount": 8620.31
+}

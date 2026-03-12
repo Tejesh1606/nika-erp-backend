@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Allen, Williams and Hernandez",
+    "invoice_number": "INV-46406",
+    "date": "2026-03-04",
+    "items": [
+        {
+            "description": "Devolved encompassing utilization",
+            "quantity": 5,
+            "unit_price": 117.5,
+            "total_price": 587.5
+        },
+        {
+            "description": "Business-focused secondary encryption",
+            "quantity": 5,
+            "unit_price": 45.17,
+            "total_price": 225.85
+        },
+        {
+            "description": "Expanded national budgetary management",
+            "quantity": 9,
+            "unit_price": 226.77,
+            "total_price": 2040.93
+        }
+    ],
+    "amount": 2854.28
+}

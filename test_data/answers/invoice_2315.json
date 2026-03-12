@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Villarreal, Graham and Cabrera",
+    "invoice_number": "INV-64879",
+    "date": "2025-12-24",
+    "items": [
+        {
+            "description": "Proactive high-level system engine",
+            "quantity": 10,
+            "unit_price": 18.79,
+            "total_price": 187.9
+        },
+        {
+            "description": "Open-source 3rdgeneration concept",
+            "quantity": 2,
+            "unit_price": 325.51,
+            "total_price": 651.02
+        },
+        {
+            "description": "Balanced needs-based access",
+            "quantity": 9,
+            "unit_price": 234.38,
+            "total_price": 2109.42
+        }
+    ],
+    "amount": 2948.34
+}

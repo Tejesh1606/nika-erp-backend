@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Horne PLC",
+    "invoice_number": "INV-62180",
+    "date": "2026-01-14",
+    "items": [
+        {
+            "description": "Customer-focused intermediate help-desk",
+            "quantity": 1,
+            "unit_price": 81.69,
+            "total_price": 81.69
+        },
+        {
+            "description": "Face-to-face mission-critical methodology",
+            "quantity": 1,
+            "unit_price": 237.68,
+            "total_price": 237.68
+        }
+    ],
+    "amount": 319.37
+}

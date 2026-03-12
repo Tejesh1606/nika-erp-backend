@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Sanchez-Cruz",
+    "invoice_number": "INV-45079",
+    "date": "2025-05-08",
+    "items": [
+        {
+            "description": "Seamless multimedia emulation",
+            "quantity": 7,
+            "unit_price": 182.82,
+            "total_price": 1279.74
+        },
+        {
+            "description": "Versatile reciprocal definition",
+            "quantity": 8,
+            "unit_price": 16.78,
+            "total_price": 134.24
+        },
+        {
+            "description": "Advanced demand-driven process improvement",
+            "quantity": 8,
+            "unit_price": 102.23,
+            "total_price": 817.84
+        },
+        {
+            "description": "Virtual heuristic encoding",
+            "quantity": 3,
+            "unit_price": 98.57,
+            "total_price": 295.71
+        }
+    ],
+    "amount": 2527.53
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ellis Inc",
+    "invoice_number": "INV-46023",
+    "date": "2025-04-11",
+    "items": [
+        {
+            "description": "Multi-channeled 24hour success",
+            "quantity": 7,
+            "unit_price": 12.64,
+            "total_price": 88.48
+        },
+        {
+            "description": "Networked didactic conglomeration",
+            "quantity": 8,
+            "unit_price": 243.82,
+            "total_price": 1950.56
+        }
+    ],
+    "amount": 2039.04
+}

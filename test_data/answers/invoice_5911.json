@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mcmahon and Sons",
+    "invoice_number": "INV-37729",
+    "date": "2025-12-18",
+    "items": [
+        {
+            "description": "Right-sized heuristic Graphic Interface",
+            "quantity": 10,
+            "unit_price": 244.74,
+            "total_price": 2447.4
+        },
+        {
+            "description": "Fundamental high-level support",
+            "quantity": 2,
+            "unit_price": 339.66,
+            "total_price": 679.32
+        },
+        {
+            "description": "Sharable client-server groupware",
+            "quantity": 6,
+            "unit_price": 33.49,
+            "total_price": 200.94
+        }
+    ],
+    "amount": 3327.66
+}

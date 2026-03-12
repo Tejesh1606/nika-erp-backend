@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Barrera LLC",
+    "invoice_number": "INV-14455",
+    "date": "2025-12-18",
+    "items": [
+        {
+            "description": "Open-source multi-tasking challenge",
+            "quantity": 8,
+            "unit_price": 380.39,
+            "total_price": 3043.12
+        },
+        {
+            "description": "Ergonomic solution-oriented superstructure",
+            "quantity": 9,
+            "unit_price": 18.28,
+            "total_price": 164.52
+        },
+        {
+            "description": "Fully-configurable zero-defect leverage",
+            "quantity": 9,
+            "unit_price": 20.16,
+            "total_price": 181.44
+        }
+    ],
+    "amount": 3389.08
+}

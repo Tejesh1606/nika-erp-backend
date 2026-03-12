@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jacobs-Hodges",
+    "invoice_number": "INV-20084",
+    "date": "2026-01-19",
+    "items": [
+        {
+            "description": "Pre-emptive multimedia Graphical User Interface",
+            "quantity": 10,
+            "unit_price": 168.75,
+            "total_price": 1687.5
+        },
+        {
+            "description": "Customizable contextually-based hardware",
+            "quantity": 1,
+            "unit_price": 220.87,
+            "total_price": 220.87
+        },
+        {
+            "description": "Robust transitional concept",
+            "quantity": 7,
+            "unit_price": 82.7,
+            "total_price": 578.9
+        },
+        {
+            "description": "Synergized logistical conglomeration",
+            "quantity": 10,
+            "unit_price": 164.89,
+            "total_price": 1648.9
+        }
+    ],
+    "amount": 4136.17
+}

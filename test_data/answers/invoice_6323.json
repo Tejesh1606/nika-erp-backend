@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gross, Young and Ayala",
+    "invoice_number": "INV-92888",
+    "date": "2025-05-25",
+    "items": [
+        {
+            "description": "Secured incremental orchestration",
+            "quantity": 3,
+            "unit_price": 65.61,
+            "total_price": 196.83
+        }
+    ],
+    "amount": 196.83
+}

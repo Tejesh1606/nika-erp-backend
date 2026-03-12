@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Tanner, Waters and Lee",
+    "invoice_number": "INV-93221",
+    "date": "2025-11-02",
+    "items": [
+        {
+            "description": "Versatile logistical ability",
+            "quantity": 7,
+            "unit_price": 234.24,
+            "total_price": 1639.68
+        }
+    ],
+    "amount": 1639.68
+}

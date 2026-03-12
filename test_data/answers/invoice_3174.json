@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gray PLC",
+    "invoice_number": "INV-88002",
+    "date": "2026-01-04",
+    "items": [
+        {
+            "description": "Multi-tiered analyzing ability",
+            "quantity": 6,
+            "unit_price": 226.05,
+            "total_price": 1356.3
+        }
+    ],
+    "amount": 1356.3
+}

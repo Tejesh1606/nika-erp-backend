@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Pope Ltd",
+    "invoice_number": "INV-73261",
+    "date": "2025-05-14",
+    "items": [
+        {
+            "description": "Grass-roots grid-enabled implementation",
+            "quantity": 7,
+            "unit_price": 91.99,
+            "total_price": 643.93
+        }
+    ],
+    "amount": 643.93
+}

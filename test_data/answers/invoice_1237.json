@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ramirez, Phelps and Rios",
+    "invoice_number": "INV-12185",
+    "date": "2025-07-16",
+    "items": [
+        {
+            "description": "Synergistic foreground strategy",
+            "quantity": 10,
+            "unit_price": 84.19,
+            "total_price": 841.9
+        }
+    ],
+    "amount": 841.9
+}

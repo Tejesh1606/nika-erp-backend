@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jackson, Madden and Fernandez",
+    "invoice_number": "INV-63145",
+    "date": "2025-09-18",
+    "items": [
+        {
+            "description": "Up-sized user-facing productivity",
+            "quantity": 1,
+            "unit_price": 252.67,
+            "total_price": 252.67
+        },
+        {
+            "description": "Configurable tangible database",
+            "quantity": 1,
+            "unit_price": 196.03,
+            "total_price": 196.03
+        }
+    ],
+    "amount": 448.7
+}

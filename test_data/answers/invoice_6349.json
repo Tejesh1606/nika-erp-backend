@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Scott PLC",
+    "invoice_number": "INV-89425",
+    "date": "2025-08-08",
+    "items": [
+        {
+            "description": "Monitored intermediate protocol",
+            "quantity": 2,
+            "unit_price": 428.31,
+            "total_price": 856.62
+        }
+    ],
+    "amount": 856.62
+}

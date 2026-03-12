@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Tran, Harris and Ford",
+    "invoice_number": "INV-78172",
+    "date": "2025-05-15",
+    "items": [
+        {
+            "description": "Decentralized uniform success",
+            "quantity": 8,
+            "unit_price": 380.82,
+            "total_price": 3046.56
+        }
+    ],
+    "amount": 3046.56
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Murray Ltd",
+    "invoice_number": "INV-29331",
+    "date": "2025-05-25",
+    "items": [
+        {
+            "description": "Enhanced exuding function",
+            "quantity": 10,
+            "unit_price": 37.64,
+            "total_price": 376.4
+        }
+    ],
+    "amount": 376.4
+}

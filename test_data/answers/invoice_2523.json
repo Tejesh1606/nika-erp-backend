@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Page-Ramirez",
+    "invoice_number": "INV-15860",
+    "date": "2025-07-07",
+    "items": [
+        {
+            "description": "Multi-layered multimedia monitoring",
+            "quantity": 7,
+            "unit_price": 26.95,
+            "total_price": 188.65
+        }
+    ],
+    "amount": 188.65
+}

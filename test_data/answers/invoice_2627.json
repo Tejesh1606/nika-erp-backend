@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ramirez, Mendoza and Ross",
+    "invoice_number": "INV-90449",
+    "date": "2025-05-10",
+    "items": [
+        {
+            "description": "Sharable reciprocal infrastructure",
+            "quantity": 5,
+            "unit_price": 35.28,
+            "total_price": 176.4
+        },
+        {
+            "description": "Implemented encompassing framework",
+            "quantity": 8,
+            "unit_price": 421.74,
+            "total_price": 3373.92
+        }
+    ],
+    "amount": 3550.32
+}

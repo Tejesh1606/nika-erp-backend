@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Bond, Robinson and Jenkins",
+    "invoice_number": "INV-11349",
+    "date": "2025-11-29",
+    "items": [
+        {
+            "description": "De-engineered optimizing service-desk",
+            "quantity": 10,
+            "unit_price": 111.94,
+            "total_price": 1119.4
+        },
+        {
+            "description": "Vision-oriented 4thgeneration middleware",
+            "quantity": 9,
+            "unit_price": 38.29,
+            "total_price": 344.61
+        },
+        {
+            "description": "Organic asymmetric middleware",
+            "quantity": 7,
+            "unit_price": 10.81,
+            "total_price": 75.67
+        },
+        {
+            "description": "Enterprise-wide maximized focus group",
+            "quantity": 6,
+            "unit_price": 475.63,
+            "total_price": 2853.78
+        }
+    ],
+    "amount": 4393.46
+}

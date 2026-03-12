@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Stephenson-Thompson",
+    "invoice_number": "INV-40750",
+    "date": "2025-03-27",
+    "items": [
+        {
+            "description": "Mandatory maximized open architecture",
+            "quantity": 10,
+            "unit_price": 307.39,
+            "total_price": 3073.9
+        }
+    ],
+    "amount": 3073.9
+}

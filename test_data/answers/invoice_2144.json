@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Floyd, Watson and Walker",
+    "invoice_number": "INV-67288",
+    "date": "2025-07-13",
+    "items": [
+        {
+            "description": "Down-sized bandwidth-monitored emulation",
+            "quantity": 5,
+            "unit_price": 328.72,
+            "total_price": 1643.6
+        }
+    ],
+    "amount": 1643.6
+}

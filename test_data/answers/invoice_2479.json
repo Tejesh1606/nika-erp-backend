@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Garcia-Garcia",
+    "invoice_number": "INV-81834",
+    "date": "2025-10-22",
+    "items": [
+        {
+            "description": "Triple-buffered national workforce",
+            "quantity": 1,
+            "unit_price": 167.71,
+            "total_price": 167.71
+        }
+    ],
+    "amount": 167.71
+}

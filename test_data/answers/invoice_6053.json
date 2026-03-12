@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Walker LLC",
+    "invoice_number": "INV-99468",
+    "date": "2025-06-04",
+    "items": [
+        {
+            "description": "Future-proofed radical methodology",
+            "quantity": 7,
+            "unit_price": 121.17,
+            "total_price": 848.19
+        }
+    ],
+    "amount": 848.19
+}

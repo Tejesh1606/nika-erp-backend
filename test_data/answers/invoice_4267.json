@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Foster Ltd",
+    "invoice_number": "INV-90626",
+    "date": "2026-02-15",
+    "items": [
+        {
+            "description": "Progressive asymmetric alliance",
+            "quantity": 1,
+            "unit_price": 377.49,
+            "total_price": 377.49
+        }
+    ],
+    "amount": 377.49
+}

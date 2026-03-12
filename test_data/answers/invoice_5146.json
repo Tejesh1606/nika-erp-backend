@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith, Adams and Clay",
+    "invoice_number": "INV-43022",
+    "date": "2025-05-08",
+    "items": [
+        {
+            "description": "Implemented real-time benchmark",
+            "quantity": 9,
+            "unit_price": 499.3,
+            "total_price": 4493.7
+        }
+    ],
+    "amount": 4493.7
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jones and Sons",
+    "invoice_number": "INV-20800",
+    "date": "2026-03-01",
+    "items": [
+        {
+            "description": "Managed didactic groupware",
+            "quantity": 8,
+            "unit_price": 339.54,
+            "total_price": 2716.32
+        },
+        {
+            "description": "Business-focused incremental policy",
+            "quantity": 9,
+            "unit_price": 155.0,
+            "total_price": 1395.0
+        },
+        {
+            "description": "Switchable intermediate protocol",
+            "quantity": 4,
+            "unit_price": 83.15,
+            "total_price": 332.6
+        }
+    ],
+    "amount": 4443.92
+}

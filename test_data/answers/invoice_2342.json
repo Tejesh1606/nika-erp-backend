@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jacobs Ltd",
+    "invoice_number": "INV-64723",
+    "date": "2025-08-09",
+    "items": [
+        {
+            "description": "Down-sized system-worthy intranet",
+            "quantity": 1,
+            "unit_price": 304.27,
+            "total_price": 304.27
+        },
+        {
+            "description": "Balanced client-driven installation",
+            "quantity": 8,
+            "unit_price": 311.64,
+            "total_price": 2493.12
+        },
+        {
+            "description": "Open-architected 24hour firmware",
+            "quantity": 3,
+            "unit_price": 226.1,
+            "total_price": 678.3
+        },
+        {
+            "description": "Mandatory actuating paradigm",
+            "quantity": 10,
+            "unit_price": 55.53,
+            "total_price": 555.3
+        }
+    ],
+    "amount": 4030.99
+}

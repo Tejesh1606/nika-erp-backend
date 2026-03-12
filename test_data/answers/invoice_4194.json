@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ellison and Sons",
+    "invoice_number": "INV-83988",
+    "date": "2025-07-11",
+    "items": [
+        {
+            "description": "Enterprise-wide global matrices",
+            "quantity": 1,
+            "unit_price": 382.25,
+            "total_price": 382.25
+        }
+    ],
+    "amount": 382.25
+}

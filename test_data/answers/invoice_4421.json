@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Gomez-Henry",
+    "invoice_number": "INV-82962",
+    "date": "2025-05-14",
+    "items": [
+        {
+            "description": "Open-architected mobile support",
+            "quantity": 7,
+            "unit_price": 470.56,
+            "total_price": 3293.92
+        },
+        {
+            "description": "Reactive homogeneous Graphic Interface",
+            "quantity": 1,
+            "unit_price": 46.58,
+            "total_price": 46.58
+        },
+        {
+            "description": "Balanced empowering flexibility",
+            "quantity": 7,
+            "unit_price": 240.78,
+            "total_price": 1685.46
+        }
+    ],
+    "amount": 5025.96
+}

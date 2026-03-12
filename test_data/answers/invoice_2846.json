@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Silva-Miller",
+    "invoice_number": "INV-44191",
+    "date": "2025-11-05",
+    "items": [
+        {
+            "description": "Organic attitude-oriented artificial intelligence",
+            "quantity": 3,
+            "unit_price": 449.43,
+            "total_price": 1348.29
+        }
+    ],
+    "amount": 1348.29
+}

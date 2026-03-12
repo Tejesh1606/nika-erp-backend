@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Dillon-Bell",
+    "invoice_number": "INV-22165",
+    "date": "2025-10-02",
+    "items": [
+        {
+            "description": "Public-key leadingedge artificial intelligence",
+            "quantity": 6,
+            "unit_price": 228.03,
+            "total_price": 1368.18
+        },
+        {
+            "description": "Stand-alone bifurcated function",
+            "quantity": 5,
+            "unit_price": 163.73,
+            "total_price": 818.65
+        },
+        {
+            "description": "Progressive interactive analyzer",
+            "quantity": 6,
+            "unit_price": 269.58,
+            "total_price": 1617.48
+        },
+        {
+            "description": "Centralized solution-oriented hierarchy",
+            "quantity": 6,
+            "unit_price": 245.16,
+            "total_price": 1470.96
+        }
+    ],
+    "amount": 5275.27
+}

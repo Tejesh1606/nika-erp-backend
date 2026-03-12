@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Carney-Perez",
+    "invoice_number": "INV-59605",
+    "date": "2025-05-21",
+    "items": [
+        {
+            "description": "Progressive discrete paradigm",
+            "quantity": 5,
+            "unit_price": 305.29,
+            "total_price": 1526.45
+        },
+        {
+            "description": "Object-based transitional throughput",
+            "quantity": 1,
+            "unit_price": 481.72,
+            "total_price": 481.72
+        },
+        {
+            "description": "Public-key mobile moratorium",
+            "quantity": 8,
+            "unit_price": 414.82,
+            "total_price": 3318.56
+        }
+    ],
+    "amount": 5326.73
+}

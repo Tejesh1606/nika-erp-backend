@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jones Inc",
+    "invoice_number": "INV-15258",
+    "date": "2025-11-01",
+    "items": [
+        {
+            "description": "Customizable 4thgeneration software",
+            "quantity": 8,
+            "unit_price": 133.06,
+            "total_price": 1064.48
+        },
+        {
+            "description": "Visionary empowering infrastructure",
+            "quantity": 7,
+            "unit_price": 372.98,
+            "total_price": 2610.86
+        },
+        {
+            "description": "Automated actuating groupware",
+            "quantity": 5,
+            "unit_price": 270.49,
+            "total_price": 1352.45
+        }
+    ],
+    "amount": 5027.79
+}

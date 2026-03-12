@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Dixon, Flowers and Boyle",
+    "invoice_number": "INV-57173",
+    "date": "2025-10-01",
+    "items": [
+        {
+            "description": "Intuitive local flexibility",
+            "quantity": 10,
+            "unit_price": 441.71,
+            "total_price": 4417.1
+        },
+        {
+            "description": "Secured asynchronous system engine",
+            "quantity": 8,
+            "unit_price": 81.95,
+            "total_price": 655.6
+        },
+        {
+            "description": "Cross-group actuating infrastructure",
+            "quantity": 6,
+            "unit_price": 231.05,
+            "total_price": 1386.3
+        },
+        {
+            "description": "Stand-alone intermediate knowledgebase",
+            "quantity": 10,
+            "unit_price": 98.36,
+            "total_price": 983.6
+        }
+    ],
+    "amount": 7442.6
+}

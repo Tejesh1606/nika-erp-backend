@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hernandez-Roberts",
+    "invoice_number": "INV-86912",
+    "date": "2026-01-18",
+    "items": [
+        {
+            "description": "Fully-configurable mission-critical policy",
+            "quantity": 9,
+            "unit_price": 48.22,
+            "total_price": 433.98
+        },
+        {
+            "description": "Phased reciprocal alliance",
+            "quantity": 9,
+            "unit_price": 478.94,
+            "total_price": 4310.46
+        },
+        {
+            "description": "Ameliorated modular approach",
+            "quantity": 9,
+            "unit_price": 350.02,
+            "total_price": 3150.18
+        }
+    ],
+    "amount": 7894.62
+}

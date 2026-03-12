@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Whitaker and Sons",
+    "invoice_number": "INV-81773",
+    "date": "2025-08-10",
+    "items": [
+        {
+            "description": "Customer-focused client-driven circuit",
+            "quantity": 6,
+            "unit_price": 470.78,
+            "total_price": 2824.68
+        }
+    ],
+    "amount": 2824.68
+}

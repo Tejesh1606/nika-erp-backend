@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Sanders PLC",
+    "invoice_number": "INV-33602",
+    "date": "2025-09-04",
+    "items": [
+        {
+            "description": "Progressive scalable open architecture",
+            "quantity": 7,
+            "unit_price": 175.38,
+            "total_price": 1227.66
+        },
+        {
+            "description": "Realigned even-keeled Local Area Network",
+            "quantity": 3,
+            "unit_price": 107.93,
+            "total_price": 323.79
+        }
+    ],
+    "amount": 1551.45
+}

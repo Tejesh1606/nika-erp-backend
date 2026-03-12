@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wagner-Wheeler",
+    "invoice_number": "INV-98131",
+    "date": "2025-12-04",
+    "items": [
+        {
+            "description": "Team-oriented intermediate matrix",
+            "quantity": 8,
+            "unit_price": 195.12,
+            "total_price": 1560.96
+        },
+        {
+            "description": "Up-sized exuding moratorium",
+            "quantity": 6,
+            "unit_price": 344.96,
+            "total_price": 2069.76
+        },
+        {
+            "description": "Organic incremental software",
+            "quantity": 10,
+            "unit_price": 297.62,
+            "total_price": 2976.2
+        }
+    ],
+    "amount": 6606.92
+}

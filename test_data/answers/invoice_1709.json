@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Merritt-Kelly",
+    "invoice_number": "INV-66333",
+    "date": "2025-09-22",
+    "items": [
+        {
+            "description": "Reactive contextually-based Internet solution",
+            "quantity": 8,
+            "unit_price": 47.58,
+            "total_price": 380.64
+        },
+        {
+            "description": "Re-engineered bi-directional matrix",
+            "quantity": 2,
+            "unit_price": 24.98,
+            "total_price": 49.96
+        },
+        {
+            "description": "Self-enabling mobile interface",
+            "quantity": 9,
+            "unit_price": 332.34,
+            "total_price": 2991.06
+        },
+        {
+            "description": "Virtual next generation project",
+            "quantity": 10,
+            "unit_price": 279.07,
+            "total_price": 2790.7
+        }
+    ],
+    "amount": 6212.36
+}

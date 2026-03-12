@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Garza-White",
+    "invoice_number": "INV-85573",
+    "date": "2025-08-14",
+    "items": [
+        {
+            "description": "Assimilated global model",
+            "quantity": 1,
+            "unit_price": 240.78,
+            "total_price": 240.78
+        },
+        {
+            "description": "Optional heuristic emulation",
+            "quantity": 4,
+            "unit_price": 399.68,
+            "total_price": 1598.72
+        }
+    ],
+    "amount": 1839.5
+}

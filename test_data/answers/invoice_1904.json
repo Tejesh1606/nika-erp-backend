@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lopez-Reyes",
+    "invoice_number": "INV-22181",
+    "date": "2025-06-29",
+    "items": [
+        {
+            "description": "Centralized uniform encoding",
+            "quantity": 4,
+            "unit_price": 470.94,
+            "total_price": 1883.76
+        },
+        {
+            "description": "Reactive explicit functionalities",
+            "quantity": 1,
+            "unit_price": 66.3,
+            "total_price": 66.3
+        },
+        {
+            "description": "Streamlined dynamic project",
+            "quantity": 1,
+            "unit_price": 177.36,
+            "total_price": 177.36
+        },
+        {
+            "description": "Configurable optimizing migration",
+            "quantity": 4,
+            "unit_price": 200.39,
+            "total_price": 801.56
+        }
+    ],
+    "amount": 2928.98
+}

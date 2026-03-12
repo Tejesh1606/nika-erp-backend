@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Davis, Pitts and Johnson",
+    "invoice_number": "INV-30184",
+    "date": "2025-11-29",
+    "items": [
+        {
+            "description": "Persevering asynchronous Graphic Interface",
+            "quantity": 3,
+            "unit_price": 343.69,
+            "total_price": 1031.07
+        },
+        {
+            "description": "User-friendly didactic attitude",
+            "quantity": 10,
+            "unit_price": 378.89,
+            "total_price": 3788.9
+        },
+        {
+            "description": "Enhanced zero administration data-warehouse",
+            "quantity": 5,
+            "unit_price": 415.13,
+            "total_price": 2075.65
+        }
+    ],
+    "amount": 6895.62
+}

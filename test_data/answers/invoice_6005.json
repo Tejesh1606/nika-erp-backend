@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Robles-Velasquez",
+    "invoice_number": "INV-99920",
+    "date": "2025-09-03",
+    "items": [
+        {
+            "description": "Compatible logistical function",
+            "quantity": 10,
+            "unit_price": 235.45,
+            "total_price": 2354.5
+        },
+        {
+            "description": "Assimilated incremental infrastructure",
+            "quantity": 10,
+            "unit_price": 405.31,
+            "total_price": 4053.1
+        },
+        {
+            "description": "Realigned human-resource knowledge user",
+            "quantity": 5,
+            "unit_price": 13.96,
+            "total_price": 69.8
+        },
+        {
+            "description": "Re-contextualized zero administration orchestration",
+            "quantity": 3,
+            "unit_price": 90.58,
+            "total_price": 271.74
+        }
+    ],
+    "amount": 6749.14
+}

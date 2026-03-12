@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Snyder and Sons",
+    "invoice_number": "INV-14598",
+    "date": "2025-05-25",
+    "items": [
+        {
+            "description": "Decentralized dedicated implementation",
+            "quantity": 6,
+            "unit_price": 427.26,
+            "total_price": 2563.56
+        },
+        {
+            "description": "Secured grid-enabled hardware",
+            "quantity": 1,
+            "unit_price": 187.37,
+            "total_price": 187.37
+        },
+        {
+            "description": "Triple-buffered coherent model",
+            "quantity": 1,
+            "unit_price": 397.76,
+            "total_price": 397.76
+        }
+    ],
+    "amount": 3148.69
+}

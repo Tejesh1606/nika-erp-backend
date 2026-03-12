@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cook, Gomez and Miranda",
+    "invoice_number": "INV-18318",
+    "date": "2025-11-18",
+    "items": [
+        {
+            "description": "Business-focused multi-state database",
+            "quantity": 9,
+            "unit_price": 429.87,
+            "total_price": 3868.83
+        },
+        {
+            "description": "Multi-lateral national customer loyalty",
+            "quantity": 2,
+            "unit_price": 188.35,
+            "total_price": 376.7
+        }
+    ],
+    "amount": 4245.53
+}

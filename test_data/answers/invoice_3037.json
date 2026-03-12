@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jones, Hale and Webb",
+    "invoice_number": "INV-72636",
+    "date": "2025-08-17",
+    "items": [
+        {
+            "description": "De-engineered executive concept",
+            "quantity": 4,
+            "unit_price": 409.2,
+            "total_price": 1636.8
+        }
+    ],
+    "amount": 1636.8
+}

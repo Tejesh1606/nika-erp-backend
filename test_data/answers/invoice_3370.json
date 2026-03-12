@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Duncan-Cruz",
+    "invoice_number": "INV-12170",
+    "date": "2026-02-19",
+    "items": [
+        {
+            "description": "Streamlined responsive info-mediaries",
+            "quantity": 3,
+            "unit_price": 223.2,
+            "total_price": 669.6
+        },
+        {
+            "description": "Implemented holistic strategy",
+            "quantity": 6,
+            "unit_price": 447.4,
+            "total_price": 2684.4
+        },
+        {
+            "description": "Multi-channeled fault-tolerant framework",
+            "quantity": 9,
+            "unit_price": 138.15,
+            "total_price": 1243.35
+        }
+    ],
+    "amount": 4597.35
+}

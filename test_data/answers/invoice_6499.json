@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Miller-Bell",
+    "invoice_number": "INV-55109",
+    "date": "2025-03-10",
+    "items": [
+        {
+            "description": "Reverse-engineered maximized encoding",
+            "quantity": 9,
+            "unit_price": 441.51,
+            "total_price": 3973.59
+        },
+        {
+            "description": "Virtual didactic customer loyalty",
+            "quantity": 3,
+            "unit_price": 157.28,
+            "total_price": 471.84
+        },
+        {
+            "description": "Balanced real-time model",
+            "quantity": 8,
+            "unit_price": 417.89,
+            "total_price": 3343.12
+        }
+    ],
+    "amount": 7788.55
+}

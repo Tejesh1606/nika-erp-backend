@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Foley, Gordon and Bailey",
+    "invoice_number": "INV-78820",
+    "date": "2025-08-07",
+    "items": [
+        {
+            "description": "Profound asymmetric conglomeration",
+            "quantity": 5,
+            "unit_price": 94.73,
+            "total_price": 473.65
+        },
+        {
+            "description": "Streamlined coherent help-desk",
+            "quantity": 9,
+            "unit_price": 379.41,
+            "total_price": 3414.69
+        },
+        {
+            "description": "Streamlined uniform open system",
+            "quantity": 1,
+            "unit_price": 203.7,
+            "total_price": 203.7
+        }
+    ],
+    "amount": 4092.04
+}

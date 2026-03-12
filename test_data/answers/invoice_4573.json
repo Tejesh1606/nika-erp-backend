@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Scott-French",
+    "invoice_number": "INV-21980",
+    "date": "2025-06-10",
+    "items": [
+        {
+            "description": "Programmable scalable ability",
+            "quantity": 4,
+            "unit_price": 313.7,
+            "total_price": 1254.8
+        },
+        {
+            "description": "Decentralized bottom-line functionalities",
+            "quantity": 8,
+            "unit_price": 267.08,
+            "total_price": 2136.64
+        }
+    ],
+    "amount": 3391.44
+}

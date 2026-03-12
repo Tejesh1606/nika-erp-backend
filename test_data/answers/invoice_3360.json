@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Duarte Group",
+    "invoice_number": "INV-43804",
+    "date": "2026-01-04",
+    "items": [
+        {
+            "description": "Virtual 6thgeneration superstructure",
+            "quantity": 7,
+            "unit_price": 59.52,
+            "total_price": 416.64
+        },
+        {
+            "description": "Multi-tiered discrete groupware",
+            "quantity": 4,
+            "unit_price": 305.92,
+            "total_price": 1223.68
+        },
+        {
+            "description": "Cross-group intermediate migration",
+            "quantity": 9,
+            "unit_price": 233.39,
+            "total_price": 2100.51
+        }
+    ],
+    "amount": 3740.83
+}

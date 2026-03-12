@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Morales Group",
+    "invoice_number": "INV-35657",
+    "date": "2025-07-14",
+    "items": [
+        {
+            "description": "Configurable value-added framework",
+            "quantity": 9,
+            "unit_price": 260.66,
+            "total_price": 2345.94
+        }
+    ],
+    "amount": 2345.94
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith LLC",
+    "invoice_number": "INV-25869",
+    "date": "2025-05-28",
+    "items": [
+        {
+            "description": "Enterprise-wide zero-defect software",
+            "quantity": 7,
+            "unit_price": 480.45,
+            "total_price": 3363.15
+        }
+    ],
+    "amount": 3363.15
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bonilla-Porter",
+    "invoice_number": "INV-30484",
+    "date": "2025-12-28",
+    "items": [
+        {
+            "description": "Compatible empowering paradigm",
+            "quantity": 3,
+            "unit_price": 260.02,
+            "total_price": 780.06
+        },
+        {
+            "description": "Robust 24/7 array",
+            "quantity": 3,
+            "unit_price": 383.23,
+            "total_price": 1149.69
+        }
+    ],
+    "amount": 1929.75
+}

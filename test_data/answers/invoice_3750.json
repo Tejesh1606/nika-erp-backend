@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Williams-Fuller",
+    "invoice_number": "INV-36333",
+    "date": "2025-08-07",
+    "items": [
+        {
+            "description": "Monitored asymmetric website",
+            "quantity": 7,
+            "unit_price": 57.78,
+            "total_price": 404.46
+        }
+    ],
+    "amount": 404.46
+}

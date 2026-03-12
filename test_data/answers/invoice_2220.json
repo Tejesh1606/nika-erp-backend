@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Kim Inc",
+    "invoice_number": "INV-16599",
+    "date": "2025-08-12",
+    "items": [
+        {
+            "description": "Re-engineered user-facing success",
+            "quantity": 7,
+            "unit_price": 250.13,
+            "total_price": 1750.91
+        }
+    ],
+    "amount": 1750.91
+}

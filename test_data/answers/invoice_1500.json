@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Baldwin Ltd",
+    "invoice_number": "INV-16198",
+    "date": "2025-06-28",
+    "items": [
+        {
+            "description": "Multi-lateral background policy",
+            "quantity": 8,
+            "unit_price": 423.12,
+            "total_price": 3384.96
+        }
+    ],
+    "amount": 3384.96
+}

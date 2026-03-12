@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hanson, Montgomery and Huff",
+    "invoice_number": "INV-98826",
+    "date": "2026-01-01",
+    "items": [
+        {
+            "description": "Monitored cohesive infrastructure",
+            "quantity": 10,
+            "unit_price": 183.48,
+            "total_price": 1834.8
+        }
+    ],
+    "amount": 1834.8
+}

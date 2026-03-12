@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith-Gaines",
+    "invoice_number": "INV-19832",
+    "date": "2025-11-08",
+    "items": [
+        {
+            "description": "Synergized responsive contingency",
+            "quantity": 4,
+            "unit_price": 239.71,
+            "total_price": 958.84
+        },
+        {
+            "description": "Profound 4thgeneration toolset",
+            "quantity": 1,
+            "unit_price": 273.0,
+            "total_price": 273.0
+        },
+        {
+            "description": "Open-source attitude-oriented protocol",
+            "quantity": 7,
+            "unit_price": 31.01,
+            "total_price": 217.07
+        }
+    ],
+    "amount": 1448.91
+}

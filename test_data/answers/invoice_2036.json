@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Shepherd Inc",
+    "invoice_number": "INV-43242",
+    "date": "2025-05-13",
+    "items": [
+        {
+            "description": "Optional cohesive secured line",
+            "quantity": 6,
+            "unit_price": 18.51,
+            "total_price": 111.06
+        },
+        {
+            "description": "Advanced asynchronous process improvement",
+            "quantity": 2,
+            "unit_price": 94.91,
+            "total_price": 189.82
+        },
+        {
+            "description": "Streamlined modular attitude",
+            "quantity": 2,
+            "unit_price": 316.71,
+            "total_price": 633.42
+        }
+    ],
+    "amount": 934.3
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Bauer PLC",
+    "invoice_number": "INV-25682",
+    "date": "2025-08-09",
+    "items": [
+        {
+            "description": "Fully-configurable 24/7 analyzer",
+            "quantity": 1,
+            "unit_price": 155.32,
+            "total_price": 155.32
+        }
+    ],
+    "amount": 155.32
+}

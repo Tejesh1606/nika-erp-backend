@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wagner Ltd",
+    "invoice_number": "INV-35679",
+    "date": "2025-09-29",
+    "items": [
+        {
+            "description": "Organized interactive neural-net",
+            "quantity": 4,
+            "unit_price": 442.12,
+            "total_price": 1768.48
+        },
+        {
+            "description": "Profound demand-driven neural-net",
+            "quantity": 10,
+            "unit_price": 138.99,
+            "total_price": 1389.9
+        }
+    ],
+    "amount": 3158.38
+}

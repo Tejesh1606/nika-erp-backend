@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Berg Ltd",
+    "invoice_number": "INV-41820",
+    "date": "2025-09-15",
+    "items": [
+        {
+            "description": "Pre-emptive even-keeled Internet solution",
+            "quantity": 5,
+            "unit_price": 121.88,
+            "total_price": 609.4
+        }
+    ],
+    "amount": 609.4
+}

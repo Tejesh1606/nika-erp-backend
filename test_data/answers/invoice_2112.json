@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Nolan, Pierce and Smith",
+    "invoice_number": "INV-56567",
+    "date": "2025-10-09",
+    "items": [
+        {
+            "description": "Team-oriented cohesive instruction set",
+            "quantity": 2,
+            "unit_price": 433.48,
+            "total_price": 866.96
+        }
+    ],
+    "amount": 866.96
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hill-Harding",
+    "invoice_number": "INV-74092",
+    "date": "2025-05-10",
+    "items": [
+        {
+            "description": "Optimized multi-state analyzer",
+            "quantity": 6,
+            "unit_price": 283.04,
+            "total_price": 1698.24
+        },
+        {
+            "description": "Quality-focused 24/7 model",
+            "quantity": 5,
+            "unit_price": 348.73,
+            "total_price": 1743.65
+        },
+        {
+            "description": "Cross-platform upward-trending secured line",
+            "quantity": 1,
+            "unit_price": 159.63,
+            "total_price": 159.63
+        }
+    ],
+    "amount": 3601.52
+}

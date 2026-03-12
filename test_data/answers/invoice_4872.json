@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Garner, Hopkins and Herrera",
+    "invoice_number": "INV-32213",
+    "date": "2025-08-06",
+    "items": [
+        {
+            "description": "Business-focused scalable system engine",
+            "quantity": 4,
+            "unit_price": 410.23,
+            "total_price": 1640.92
+        },
+        {
+            "description": "Digitized uniform encryption",
+            "quantity": 2,
+            "unit_price": 332.51,
+            "total_price": 665.02
+        },
+        {
+            "description": "Managed executive projection",
+            "quantity": 5,
+            "unit_price": 142.98,
+            "total_price": 714.9
+        }
+    ],
+    "amount": 3020.84
+}

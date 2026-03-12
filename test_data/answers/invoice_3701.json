@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Taylor, Gray and Burns",
+    "invoice_number": "INV-42485",
+    "date": "2025-12-20",
+    "items": [
+        {
+            "description": "Open-architected solution-oriented paradigm",
+            "quantity": 8,
+            "unit_price": 205.18,
+            "total_price": 1641.44
+        },
+        {
+            "description": "Expanded actuating toolset",
+            "quantity": 7,
+            "unit_price": 283.03,
+            "total_price": 1981.21
+        },
+        {
+            "description": "Automated high-level capacity",
+            "quantity": 4,
+            "unit_price": 64.95,
+            "total_price": 259.8
+        }
+    ],
+    "amount": 3882.45
+}

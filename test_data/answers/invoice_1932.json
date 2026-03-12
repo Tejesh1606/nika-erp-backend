@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ramirez-Kennedy",
+    "invoice_number": "INV-25147",
+    "date": "2025-08-16",
+    "items": [
+        {
+            "description": "Upgradable background process improvement",
+            "quantity": 6,
+            "unit_price": 121.34,
+            "total_price": 728.04
+        },
+        {
+            "description": "Up-sized multimedia circuit",
+            "quantity": 9,
+            "unit_price": 490.67,
+            "total_price": 4416.03
+        },
+        {
+            "description": "Phased dedicated workforce",
+            "quantity": 9,
+            "unit_price": 245.25,
+            "total_price": 2207.25
+        }
+    ],
+    "amount": 7351.32
+}

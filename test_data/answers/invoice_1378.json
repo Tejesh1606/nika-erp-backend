@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Clark PLC",
+    "invoice_number": "INV-94972",
+    "date": "2025-07-12",
+    "items": [
+        {
+            "description": "User-centric impactful system engine",
+            "quantity": 5,
+            "unit_price": 71.12,
+            "total_price": 355.6
+        },
+        {
+            "description": "Monitored zero-defect conglomeration",
+            "quantity": 8,
+            "unit_price": 473.57,
+            "total_price": 3788.56
+        },
+        {
+            "description": "Proactive background groupware",
+            "quantity": 9,
+            "unit_price": 198.85,
+            "total_price": 1789.65
+        },
+        {
+            "description": "Multi-channeled reciprocal monitoring",
+            "quantity": 4,
+            "unit_price": 116.95,
+            "total_price": 467.8
+        }
+    ],
+    "amount": 6401.61
+}

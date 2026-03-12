@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lutz-Harris",
+    "invoice_number": "INV-93344",
+    "date": "2025-07-05",
+    "items": [
+        {
+            "description": "Vision-oriented mission-critical info-mediaries",
+            "quantity": 5,
+            "unit_price": 316.28,
+            "total_price": 1581.4
+        },
+        {
+            "description": "Total multi-state monitoring",
+            "quantity": 6,
+            "unit_price": 296.04,
+            "total_price": 1776.24
+        },
+        {
+            "description": "Reduced didactic structure",
+            "quantity": 6,
+            "unit_price": 448.29,
+            "total_price": 2689.74
+        },
+        {
+            "description": "Profit-focused intangible artificial intelligence",
+            "quantity": 8,
+            "unit_price": 164.91,
+            "total_price": 1319.28
+        }
+    ],
+    "amount": 7366.66
+}

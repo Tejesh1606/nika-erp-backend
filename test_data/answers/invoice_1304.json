@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Villanueva, Figueroa and Cox",
+    "invoice_number": "INV-14304",
+    "date": "2025-08-10",
+    "items": [
+        {
+            "description": "Self-enabling bandwidth-monitored groupware",
+            "quantity": 2,
+            "unit_price": 250.32,
+            "total_price": 500.64
+        }
+    ],
+    "amount": 500.64
+}

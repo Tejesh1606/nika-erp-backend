@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Smith LLC",
+    "invoice_number": "INV-10947",
+    "date": "2025-11-22",
+    "items": [
+        {
+            "description": "Reduced 6thgeneration attitude",
+            "quantity": 7,
+            "unit_price": 330.0,
+            "total_price": 2310.0
+        },
+        {
+            "description": "Extended multi-state utilization",
+            "quantity": 5,
+            "unit_price": 270.62,
+            "total_price": 1353.1
+        }
+    ],
+    "amount": 3663.1
+}

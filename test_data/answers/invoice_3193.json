@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Richards Ltd",
+    "invoice_number": "INV-56784",
+    "date": "2025-07-08",
+    "items": [
+        {
+            "description": "Multi-layered grid-enabled solution",
+            "quantity": 8,
+            "unit_price": 286.73,
+            "total_price": 2293.84
+        },
+        {
+            "description": "Organized 6thgeneration collaboration",
+            "quantity": 3,
+            "unit_price": 84.78,
+            "total_price": 254.34
+        }
+    ],
+    "amount": 2548.18
+}

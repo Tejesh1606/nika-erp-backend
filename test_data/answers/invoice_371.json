@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Erickson, Armstrong and Lee",
+    "invoice_number": "INV-39145",
+    "date": "2025-11-30",
+    "items": [
+        {
+            "description": "Public-key scalable toolset",
+            "quantity": 5,
+            "unit_price": 457.84,
+            "total_price": 2289.2
+        },
+        {
+            "description": "Phased static help-desk",
+            "quantity": 5,
+            "unit_price": 415.06,
+            "total_price": 2075.3
+        },
+        {
+            "description": "Profit-focused exuding concept",
+            "quantity": 10,
+            "unit_price": 279.03,
+            "total_price": 2790.3
+        }
+    ],
+    "amount": 7154.8
+}

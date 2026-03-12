@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Greene-Haas",
+    "invoice_number": "INV-21568",
+    "date": "2025-04-19",
+    "items": [
+        {
+            "description": "Synergized content-based toolset",
+            "quantity": 3,
+            "unit_price": 415.75,
+            "total_price": 1247.25
+        },
+        {
+            "description": "Organized optimizing website",
+            "quantity": 4,
+            "unit_price": 131.9,
+            "total_price": 527.6
+        },
+        {
+            "description": "Reactive directional adapter",
+            "quantity": 4,
+            "unit_price": 77.24,
+            "total_price": 308.96
+        }
+    ],
+    "amount": 2083.81
+}

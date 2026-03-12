@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Freeman Inc",
+    "invoice_number": "INV-56031",
+    "date": "2025-03-25",
+    "items": [
+        {
+            "description": "Adaptive intermediate productivity",
+            "quantity": 1,
+            "unit_price": 57.65,
+            "total_price": 57.65
+        },
+        {
+            "description": "Team-oriented systematic infrastructure",
+            "quantity": 7,
+            "unit_price": 110.13,
+            "total_price": 770.91
+        }
+    ],
+    "amount": 828.56
+}

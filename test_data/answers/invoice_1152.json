@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ramirez-Harris",
+    "invoice_number": "INV-27974",
+    "date": "2026-01-29",
+    "items": [
+        {
+            "description": "Programmable discrete function",
+            "quantity": 5,
+            "unit_price": 493.32,
+            "total_price": 2466.6
+        },
+        {
+            "description": "User-centric neutral database",
+            "quantity": 4,
+            "unit_price": 97.41,
+            "total_price": 389.64
+        },
+        {
+            "description": "Decentralized holistic success",
+            "quantity": 5,
+            "unit_price": 395.76,
+            "total_price": 1978.8
+        }
+    ],
+    "amount": 4835.04
+}

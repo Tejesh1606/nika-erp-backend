@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Alexander PLC",
+    "invoice_number": "INV-70654",
+    "date": "2025-12-17",
+    "items": [
+        {
+            "description": "Public-key real-time protocol",
+            "quantity": 1,
+            "unit_price": 274.9,
+            "total_price": 274.9
+        },
+        {
+            "description": "Switchable responsive archive",
+            "quantity": 5,
+            "unit_price": 278.13,
+            "total_price": 1390.65
+        }
+    ],
+    "amount": 1665.55
+}

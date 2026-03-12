@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Simpson, Lewis and Harris",
+    "invoice_number": "INV-50034",
+    "date": "2025-04-28",
+    "items": [
+        {
+            "description": "Customer-focused 6thgeneration installation",
+            "quantity": 10,
+            "unit_price": 335.41,
+            "total_price": 3354.1
+        },
+        {
+            "description": "Multi-lateral asymmetric analyzer",
+            "quantity": 3,
+            "unit_price": 153.68,
+            "total_price": 461.04
+        }
+    ],
+    "amount": 3815.14
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Joyce, Mercado and Moore",
+    "invoice_number": "INV-87892",
+    "date": "2025-10-01",
+    "items": [
+        {
+            "description": "Switchable non-volatile data-warehouse",
+            "quantity": 7,
+            "unit_price": 485.66,
+            "total_price": 3399.62
+        },
+        {
+            "description": "Organized interactive conglomeration",
+            "quantity": 9,
+            "unit_price": 432.32,
+            "total_price": 3890.88
+        }
+    ],
+    "amount": 7290.5
+}

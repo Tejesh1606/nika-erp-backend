@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Scott, Sawyer and Robinson",
+    "invoice_number": "INV-72496",
+    "date": "2026-02-16",
+    "items": [
+        {
+            "description": "Advanced global moderator",
+            "quantity": 5,
+            "unit_price": 13.98,
+            "total_price": 69.9
+        },
+        {
+            "description": "Proactive systemic structure",
+            "quantity": 6,
+            "unit_price": 39.63,
+            "total_price": 237.78
+        },
+        {
+            "description": "Pre-emptive upward-trending groupware",
+            "quantity": 7,
+            "unit_price": 247.6,
+            "total_price": 1733.2
+        }
+    ],
+    "amount": 2040.88
+}

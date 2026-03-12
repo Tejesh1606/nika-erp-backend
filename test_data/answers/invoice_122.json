@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wheeler, Hayes and Walker",
+    "invoice_number": "INV-90623",
+    "date": "2025-03-25",
+    "items": [
+        {
+            "description": "Upgradable zero tolerance protocol",
+            "quantity": 6,
+            "unit_price": 443.77,
+            "total_price": 2662.62
+        }
+    ],
+    "amount": 2662.62
+}

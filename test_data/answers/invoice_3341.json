@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Clark, Hull and Perry",
+    "invoice_number": "INV-52691",
+    "date": "2025-08-02",
+    "items": [
+        {
+            "description": "Grass-roots scalable knowledgebase",
+            "quantity": 7,
+            "unit_price": 130.76,
+            "total_price": 915.32
+        },
+        {
+            "description": "Universal methodical attitude",
+            "quantity": 9,
+            "unit_price": 490.78,
+            "total_price": 4417.02
+        },
+        {
+            "description": "Configurable global model",
+            "quantity": 9,
+            "unit_price": 146.92,
+            "total_price": 1322.28
+        }
+    ],
+    "amount": 6654.62
+}

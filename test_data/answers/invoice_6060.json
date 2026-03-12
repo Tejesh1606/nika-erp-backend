@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hughes, Nelson and Cross",
+    "invoice_number": "INV-17613",
+    "date": "2025-07-17",
+    "items": [
+        {
+            "description": "Secured explicit extranet",
+            "quantity": 10,
+            "unit_price": 349.02,
+            "total_price": 3490.2
+        },
+        {
+            "description": "Multi-lateral systematic protocol",
+            "quantity": 3,
+            "unit_price": 98.82,
+            "total_price": 296.46
+        },
+        {
+            "description": "Reverse-engineered non-volatile attitude",
+            "quantity": 10,
+            "unit_price": 101.49,
+            "total_price": 1014.9
+        },
+        {
+            "description": "Fundamental foreground circuit",
+            "quantity": 7,
+            "unit_price": 48.66,
+            "total_price": 340.62
+        }
+    ],
+    "amount": 5142.18
+}

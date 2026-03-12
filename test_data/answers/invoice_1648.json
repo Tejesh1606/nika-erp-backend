@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Allen LLC",
+    "invoice_number": "INV-43043",
+    "date": "2026-01-17",
+    "items": [
+        {
+            "description": "Fully-configurable web-enabled secured line",
+            "quantity": 8,
+            "unit_price": 102.51,
+            "total_price": 820.08
+        },
+        {
+            "description": "Realigned reciprocal orchestration",
+            "quantity": 6,
+            "unit_price": 320.59,
+            "total_price": 1923.54
+        }
+    ],
+    "amount": 2743.62
+}

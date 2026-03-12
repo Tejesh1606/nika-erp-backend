@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Thomas PLC",
+    "invoice_number": "INV-45044",
+    "date": "2025-03-29",
+    "items": [
+        {
+            "description": "Up-sized scalable hub",
+            "quantity": 8,
+            "unit_price": 485.41,
+            "total_price": 3883.28
+        },
+        {
+            "description": "Triple-buffered zero-defect encryption",
+            "quantity": 4,
+            "unit_price": 289.51,
+            "total_price": 1158.04
+        }
+    ],
+    "amount": 5041.32
+}

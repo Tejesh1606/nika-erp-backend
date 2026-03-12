@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hodges-Collins",
+    "invoice_number": "INV-69509",
+    "date": "2025-11-18",
+    "items": [
+        {
+            "description": "Distributed motivating benchmark",
+            "quantity": 5,
+            "unit_price": 120.94,
+            "total_price": 604.7
+        },
+        {
+            "description": "De-engineered directional hierarchy",
+            "quantity": 6,
+            "unit_price": 493.75,
+            "total_price": 2962.5
+        }
+    ],
+    "amount": 3567.2
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Maddox, Bailey and Raymond",
+    "invoice_number": "INV-12844",
+    "date": "2026-01-15",
+    "items": [
+        {
+            "description": "Mandatory incremental hub",
+            "quantity": 1,
+            "unit_price": 119.6,
+            "total_price": 119.6
+        }
+    ],
+    "amount": 119.6
+}

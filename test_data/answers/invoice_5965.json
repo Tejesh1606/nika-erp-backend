@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ayala and Sons",
+    "invoice_number": "INV-29592",
+    "date": "2025-06-05",
+    "items": [
+        {
+            "description": "Down-sized modular circuit",
+            "quantity": 8,
+            "unit_price": 463.43,
+            "total_price": 3707.44
+        },
+        {
+            "description": "Face-to-face fault-tolerant firmware",
+            "quantity": 10,
+            "unit_price": 220.89,
+            "total_price": 2208.9
+        }
+    ],
+    "amount": 5916.34
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gray-Brown",
+    "invoice_number": "INV-11267",
+    "date": "2025-09-19",
+    "items": [
+        {
+            "description": "Progressive encompassing function",
+            "quantity": 2,
+            "unit_price": 149.39,
+            "total_price": 298.78
+        }
+    ],
+    "amount": 298.78
+}

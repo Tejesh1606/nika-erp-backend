@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jackson-Salas",
+    "invoice_number": "INV-78985",
+    "date": "2025-08-01",
+    "items": [
+        {
+            "description": "Proactive national hierarchy",
+            "quantity": 5,
+            "unit_price": 179.95,
+            "total_price": 899.75
+        },
+        {
+            "description": "Managed eco-centric methodology",
+            "quantity": 4,
+            "unit_price": 286.04,
+            "total_price": 1144.16
+        }
+    ],
+    "amount": 2043.91
+}

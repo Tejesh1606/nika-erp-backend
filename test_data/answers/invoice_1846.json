@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wright, Freeman and Craig",
+    "invoice_number": "INV-82510",
+    "date": "2025-10-11",
+    "items": [
+        {
+            "description": "Face-to-face full-range success",
+            "quantity": 10,
+            "unit_price": 342.84,
+            "total_price": 3428.4
+        }
+    ],
+    "amount": 3428.4
+}

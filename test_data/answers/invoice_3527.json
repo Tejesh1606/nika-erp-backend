@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Romero-Miller",
+    "invoice_number": "INV-18126",
+    "date": "2025-09-22",
+    "items": [
+        {
+            "description": "Versatile transitional challenge",
+            "quantity": 10,
+            "unit_price": 348.57,
+            "total_price": 3485.7
+        },
+        {
+            "description": "Switchable coherent knowledge user",
+            "quantity": 8,
+            "unit_price": 138.28,
+            "total_price": 1106.24
+        },
+        {
+            "description": "Organic zero-defect groupware",
+            "quantity": 6,
+            "unit_price": 202.14,
+            "total_price": 1212.84
+        },
+        {
+            "description": "Innovative local throughput",
+            "quantity": 9,
+            "unit_price": 176.24,
+            "total_price": 1586.16
+        }
+    ],
+    "amount": 7390.94
+}

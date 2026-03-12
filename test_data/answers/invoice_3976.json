@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Franco Ltd",
+    "invoice_number": "INV-52964",
+    "date": "2025-11-18",
+    "items": [
+        {
+            "description": "Future-proofed tertiary open system",
+            "quantity": 1,
+            "unit_price": 285.99,
+            "total_price": 285.99
+        },
+        {
+            "description": "Synchronized 4thgeneration capacity",
+            "quantity": 4,
+            "unit_price": 448.74,
+            "total_price": 1794.96
+        }
+    ],
+    "amount": 2080.95
+}

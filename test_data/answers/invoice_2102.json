@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rodriguez, Murphy and Hawkins",
+    "invoice_number": "INV-17666",
+    "date": "2025-08-07",
+    "items": [
+        {
+            "description": "Integrated fault-tolerant system engine",
+            "quantity": 1,
+            "unit_price": 387.02,
+            "total_price": 387.02
+        },
+        {
+            "description": "Devolved systematic ability",
+            "quantity": 5,
+            "unit_price": 420.84,
+            "total_price": 2104.2
+        },
+        {
+            "description": "Balanced human-resource conglomeration",
+            "quantity": 8,
+            "unit_price": 403.44,
+            "total_price": 3227.52
+        },
+        {
+            "description": "Re-contextualized motivating methodology",
+            "quantity": 2,
+            "unit_price": 242.77,
+            "total_price": 485.54
+        }
+    ],
+    "amount": 6204.28
+}

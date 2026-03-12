@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Tapia-Walton",
+    "invoice_number": "INV-42576",
+    "date": "2025-07-30",
+    "items": [
+        {
+            "description": "Organized regional software",
+            "quantity": 9,
+            "unit_price": 186.85,
+            "total_price": 1681.65
+        }
+    ],
+    "amount": 1681.65
+}

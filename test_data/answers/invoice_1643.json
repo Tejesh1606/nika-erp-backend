@@ -1,0 +1,32 @@
+{
+    "vendor_name": "King Group",
+    "invoice_number": "INV-70762",
+    "date": "2025-05-09",
+    "items": [
+        {
+            "description": "Centralized zero tolerance approach",
+            "quantity": 6,
+            "unit_price": 396.08,
+            "total_price": 2376.48
+        },
+        {
+            "description": "User-friendly logistical moderator",
+            "quantity": 9,
+            "unit_price": 105.19,
+            "total_price": 946.71
+        },
+        {
+            "description": "Implemented demand-driven installation",
+            "quantity": 4,
+            "unit_price": 453.36,
+            "total_price": 1813.44
+        },
+        {
+            "description": "Customizable executive circuit",
+            "quantity": 2,
+            "unit_price": 81.34,
+            "total_price": 162.68
+        }
+    ],
+    "amount": 5299.31
+}

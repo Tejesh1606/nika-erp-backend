@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Moore-Aguilar",
+    "invoice_number": "INV-89639",
+    "date": "2025-06-21",
+    "items": [
+        {
+            "description": "Profit-focused bifurcated frame",
+            "quantity": 4,
+            "unit_price": 57.27,
+            "total_price": 229.08
+        },
+        {
+            "description": "Customizable executive ability",
+            "quantity": 2,
+            "unit_price": 339.24,
+            "total_price": 678.48
+        },
+        {
+            "description": "Versatile attitude-oriented data-warehouse",
+            "quantity": 8,
+            "unit_price": 265.92,
+            "total_price": 2127.36
+        },
+        {
+            "description": "Profound high-level solution",
+            "quantity": 2,
+            "unit_price": 340.53,
+            "total_price": 681.06
+        }
+    ],
+    "amount": 3715.98
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Robinson LLC",
+    "invoice_number": "INV-25045",
+    "date": "2026-02-20",
+    "items": [
+        {
+            "description": "Extended 4thgeneration Graphic Interface",
+            "quantity": 9,
+            "unit_price": 61.76,
+            "total_price": 555.84
+        },
+        {
+            "description": "Devolved directional artificial intelligence",
+            "quantity": 10,
+            "unit_price": 79.84,
+            "total_price": 798.4
+        },
+        {
+            "description": "Upgradable system-worthy capacity",
+            "quantity": 6,
+            "unit_price": 46.4,
+            "total_price": 278.4
+        }
+    ],
+    "amount": 1632.64
+}

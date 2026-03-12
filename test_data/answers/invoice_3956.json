@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Anderson LLC",
+    "invoice_number": "INV-63132",
+    "date": "2025-10-22",
+    "items": [
+        {
+            "description": "Universal zero administration access",
+            "quantity": 4,
+            "unit_price": 442.7,
+            "total_price": 1770.8
+        },
+        {
+            "description": "Customizable mobile info-mediaries",
+            "quantity": 9,
+            "unit_price": 85.61,
+            "total_price": 770.49
+        }
+    ],
+    "amount": 2541.29
+}

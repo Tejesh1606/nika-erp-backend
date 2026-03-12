@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Pearson-Howard",
+    "invoice_number": "INV-77104",
+    "date": "2025-06-03",
+    "items": [
+        {
+            "description": "Upgradable discrete data-warehouse",
+            "quantity": 2,
+            "unit_price": 238.06,
+            "total_price": 476.12
+        },
+        {
+            "description": "Open-architected executive task-force",
+            "quantity": 2,
+            "unit_price": 272.08,
+            "total_price": 544.16
+        },
+        {
+            "description": "Phased local access",
+            "quantity": 9,
+            "unit_price": 122.03,
+            "total_price": 1098.27
+        }
+    ],
+    "amount": 2118.55
+}

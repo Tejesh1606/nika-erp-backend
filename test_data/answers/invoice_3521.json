@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jennings-Schroeder",
+    "invoice_number": "INV-78937",
+    "date": "2025-11-20",
+    "items": [
+        {
+            "description": "Up-sized attitude-oriented Graphical User Interface",
+            "quantity": 8,
+            "unit_price": 480.77,
+            "total_price": 3846.16
+        },
+        {
+            "description": "Mandatory optimizing analyzer",
+            "quantity": 10,
+            "unit_price": 264.8,
+            "total_price": 2648.0
+        }
+    ],
+    "amount": 6494.16
+}

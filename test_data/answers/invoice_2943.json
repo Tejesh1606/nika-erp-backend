@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Swanson PLC",
+    "invoice_number": "INV-44816",
+    "date": "2026-01-01",
+    "items": [
+        {
+            "description": "Seamless actuating matrix",
+            "quantity": 7,
+            "unit_price": 283.49,
+            "total_price": 1984.43
+        }
+    ],
+    "amount": 1984.43
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Atkinson, Griffin and Hall",
+    "invoice_number": "INV-20747",
+    "date": "2025-08-14",
+    "items": [
+        {
+            "description": "Universal leadingedge intranet",
+            "quantity": 8,
+            "unit_price": 139.68,
+            "total_price": 1117.44
+        },
+        {
+            "description": "Distributed user-facing info-mediaries",
+            "quantity": 9,
+            "unit_price": 368.5,
+            "total_price": 3316.5
+        }
+    ],
+    "amount": 4433.94
+}

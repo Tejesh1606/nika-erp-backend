@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Campos-Cummings",
+    "invoice_number": "INV-86284",
+    "date": "2025-05-12",
+    "items": [
+        {
+            "description": "Adaptive scalable monitoring",
+            "quantity": 8,
+            "unit_price": 299.04,
+            "total_price": 2392.32
+        },
+        {
+            "description": "Programmable bandwidth-monitored projection",
+            "quantity": 6,
+            "unit_price": 176.11,
+            "total_price": 1056.66
+        },
+        {
+            "description": "Future-proofed dynamic throughput",
+            "quantity": 7,
+            "unit_price": 393.57,
+            "total_price": 2754.99
+        },
+        {
+            "description": "Compatible regional capacity",
+            "quantity": 7,
+            "unit_price": 88.86,
+            "total_price": 622.02
+        }
+    ],
+    "amount": 6825.99
+}

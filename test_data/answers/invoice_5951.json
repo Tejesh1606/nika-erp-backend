@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Figueroa Inc",
+    "invoice_number": "INV-20704",
+    "date": "2025-11-15",
+    "items": [
+        {
+            "description": "Persevering fault-tolerant Local Area Network",
+            "quantity": 10,
+            "unit_price": 76.08,
+            "total_price": 760.8
+        },
+        {
+            "description": "Fundamental tangible open architecture",
+            "quantity": 6,
+            "unit_price": 40.84,
+            "total_price": 245.04
+        }
+    ],
+    "amount": 1005.84
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Frank, Reyes and Roman",
+    "invoice_number": "INV-66479",
+    "date": "2025-05-29",
+    "items": [
+        {
+            "description": "Grass-roots clear-thinking artificial intelligence",
+            "quantity": 3,
+            "unit_price": 216.44,
+            "total_price": 649.32
+        }
+    ],
+    "amount": 649.32
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson-Morris",
+    "invoice_number": "INV-85334",
+    "date": "2025-10-30",
+    "items": [
+        {
+            "description": "Right-sized eco-centric forecast",
+            "quantity": 10,
+            "unit_price": 428.89,
+            "total_price": 4288.9
+        },
+        {
+            "description": "Reduced tertiary flexibility",
+            "quantity": 5,
+            "unit_price": 47.29,
+            "total_price": 236.45
+        },
+        {
+            "description": "Open-architected intermediate intranet",
+            "quantity": 7,
+            "unit_price": 270.11,
+            "total_price": 1890.77
+        },
+        {
+            "description": "Digitized transitional application",
+            "quantity": 8,
+            "unit_price": 62.26,
+            "total_price": 498.08
+        }
+    ],
+    "amount": 6914.2
+}

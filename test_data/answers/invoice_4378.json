@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Woods-Olson",
+    "invoice_number": "INV-24546",
+    "date": "2025-06-22",
+    "items": [
+        {
+            "description": "Automated heuristic workforce",
+            "quantity": 10,
+            "unit_price": 31.56,
+            "total_price": 315.6
+        },
+        {
+            "description": "Organized maximized approach",
+            "quantity": 3,
+            "unit_price": 274.37,
+            "total_price": 823.11
+        },
+        {
+            "description": "Devolved high-level synergy",
+            "quantity": 3,
+            "unit_price": 360.58,
+            "total_price": 1081.74
+        }
+    ],
+    "amount": 2220.45
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Scott, Martinez and Obrien",
+    "invoice_number": "INV-80248",
+    "date": "2025-03-17",
+    "items": [
+        {
+            "description": "Programmable multimedia task-force",
+            "quantity": 9,
+            "unit_price": 89.56,
+            "total_price": 806.04
+        }
+    ],
+    "amount": 806.04
+}

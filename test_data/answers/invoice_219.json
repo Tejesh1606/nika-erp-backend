@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Valdez-Schwartz",
+    "invoice_number": "INV-18142",
+    "date": "2025-11-23",
+    "items": [
+        {
+            "description": "Decentralized maximized function",
+            "quantity": 1,
+            "unit_price": 206.1,
+            "total_price": 206.1
+        },
+        {
+            "description": "Diverse impactful software",
+            "quantity": 8,
+            "unit_price": 159.97,
+            "total_price": 1279.76
+        },
+        {
+            "description": "Profit-focused tertiary throughput",
+            "quantity": 2,
+            "unit_price": 455.46,
+            "total_price": 910.92
+        }
+    ],
+    "amount": 2396.78
+}

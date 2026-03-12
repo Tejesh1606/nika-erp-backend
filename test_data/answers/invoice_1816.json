@@ -1,0 +1,32 @@
+{
+    "vendor_name": "May, Walker and Page",
+    "invoice_number": "INV-47415",
+    "date": "2025-03-21",
+    "items": [
+        {
+            "description": "Fully-configurable analyzing capability",
+            "quantity": 8,
+            "unit_price": 436.83,
+            "total_price": 3494.64
+        },
+        {
+            "description": "Ameliorated reciprocal hierarchy",
+            "quantity": 8,
+            "unit_price": 195.84,
+            "total_price": 1566.72
+        },
+        {
+            "description": "Open-architected modular open system",
+            "quantity": 2,
+            "unit_price": 436.91,
+            "total_price": 873.82
+        },
+        {
+            "description": "Visionary scalable knowledge user",
+            "quantity": 10,
+            "unit_price": 300.07,
+            "total_price": 3000.7
+        }
+    ],
+    "amount": 8935.88
+}

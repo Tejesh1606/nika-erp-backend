@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Crosby-Adams",
+    "invoice_number": "INV-42742",
+    "date": "2025-11-14",
+    "items": [
+        {
+            "description": "Organized tertiary instruction set",
+            "quantity": 4,
+            "unit_price": 104.73,
+            "total_price": 418.92
+        },
+        {
+            "description": "Horizontal fresh-thinking implementation",
+            "quantity": 9,
+            "unit_price": 67.56,
+            "total_price": 608.04
+        },
+        {
+            "description": "Compatible multi-state superstructure",
+            "quantity": 4,
+            "unit_price": 336.88,
+            "total_price": 1347.52
+        }
+    ],
+    "amount": 2374.48
+}

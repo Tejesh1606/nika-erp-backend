@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brown-Harmon",
+    "invoice_number": "INV-46814",
+    "date": "2025-06-23",
+    "items": [
+        {
+            "description": "Function-based human-resource monitoring",
+            "quantity": 1,
+            "unit_price": 209.27,
+            "total_price": 209.27
+        },
+        {
+            "description": "Sharable foreground adapter",
+            "quantity": 1,
+            "unit_price": 178.9,
+            "total_price": 178.9
+        },
+        {
+            "description": "Customer-focused static customer loyalty",
+            "quantity": 6,
+            "unit_price": 337.43,
+            "total_price": 2024.58
+        }
+    ],
+    "amount": 2412.75
+}

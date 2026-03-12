@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Burke-Martinez",
+    "invoice_number": "INV-52769",
+    "date": "2025-04-27",
+    "items": [
+        {
+            "description": "Multi-lateral national database",
+            "quantity": 4,
+            "unit_price": 443.0,
+            "total_price": 1772.0
+        },
+        {
+            "description": "Progressive grid-enabled artificial intelligence",
+            "quantity": 2,
+            "unit_price": 493.15,
+            "total_price": 986.3
+        },
+        {
+            "description": "Optional discrete functionalities",
+            "quantity": 5,
+            "unit_price": 411.99,
+            "total_price": 2059.95
+        }
+    ],
+    "amount": 4818.25
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bryant-Gonzalez",
+    "invoice_number": "INV-89500",
+    "date": "2025-09-01",
+    "items": [
+        {
+            "description": "Horizontal cohesive parallelism",
+            "quantity": 4,
+            "unit_price": 102.3,
+            "total_price": 409.2
+        },
+        {
+            "description": "De-engineered fresh-thinking adapter",
+            "quantity": 4,
+            "unit_price": 232.92,
+            "total_price": 931.68
+        },
+        {
+            "description": "Decentralized actuating Graphic Interface",
+            "quantity": 5,
+            "unit_price": 45.36,
+            "total_price": 226.8
+        }
+    ],
+    "amount": 1567.68
+}

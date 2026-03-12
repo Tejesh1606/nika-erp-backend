@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Burns PLC",
+    "invoice_number": "INV-38819",
+    "date": "2025-07-21",
+    "items": [
+        {
+            "description": "Enterprise-wide leadingedge Graphical User Interface",
+            "quantity": 7,
+            "unit_price": 230.22,
+            "total_price": 1611.54
+        },
+        {
+            "description": "Operative high-level challenge",
+            "quantity": 2,
+            "unit_price": 326.57,
+            "total_price": 653.14
+        }
+    ],
+    "amount": 2264.68
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jennings LLC",
+    "invoice_number": "INV-35060",
+    "date": "2025-03-17",
+    "items": [
+        {
+            "description": "Organized hybrid model",
+            "quantity": 2,
+            "unit_price": 244.71,
+            "total_price": 489.42
+        },
+        {
+            "description": "Streamlined discrete collaboration",
+            "quantity": 1,
+            "unit_price": 70.76,
+            "total_price": 70.76
+        },
+        {
+            "description": "Re-engineered zero-defect middleware",
+            "quantity": 9,
+            "unit_price": 374.25,
+            "total_price": 3368.25
+        }
+    ],
+    "amount": 3928.43
+}

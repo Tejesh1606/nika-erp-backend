@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wheeler, Hall and Olson",
+    "invoice_number": "INV-40305",
+    "date": "2025-04-08",
+    "items": [
+        {
+            "description": "Focused optimizing Local Area Network",
+            "quantity": 7,
+            "unit_price": 123.99,
+            "total_price": 867.93
+        },
+        {
+            "description": "Digitized non-volatile moratorium",
+            "quantity": 9,
+            "unit_price": 405.13,
+            "total_price": 3646.17
+        }
+    ],
+    "amount": 4514.1
+}

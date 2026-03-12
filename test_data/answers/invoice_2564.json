@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Parker, Walker and Garcia",
+    "invoice_number": "INV-39861",
+    "date": "2025-11-13",
+    "items": [
+        {
+            "description": "Enhanced high-level contingency",
+            "quantity": 10,
+            "unit_price": 329.66,
+            "total_price": 3296.6
+        }
+    ],
+    "amount": 3296.6
+}

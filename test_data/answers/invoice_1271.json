@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Sanchez, Petersen and Conley",
+    "invoice_number": "INV-78623",
+    "date": "2025-10-16",
+    "items": [
+        {
+            "description": "Persevering 6thgeneration archive",
+            "quantity": 8,
+            "unit_price": 185.18,
+            "total_price": 1481.44
+        },
+        {
+            "description": "Inverse holistic alliance",
+            "quantity": 10,
+            "unit_price": 438.3,
+            "total_price": 4383.0
+        }
+    ],
+    "amount": 5864.44
+}

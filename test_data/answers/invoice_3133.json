@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Lopez, Gentry and Lynch",
+    "invoice_number": "INV-18666",
+    "date": "2025-08-16",
+    "items": [
+        {
+            "description": "Persistent intermediate focus group",
+            "quantity": 2,
+            "unit_price": 488.54,
+            "total_price": 977.08
+        },
+        {
+            "description": "Advanced dynamic circuit",
+            "quantity": 2,
+            "unit_price": 294.57,
+            "total_price": 589.14
+        }
+    ],
+    "amount": 1566.22
+}

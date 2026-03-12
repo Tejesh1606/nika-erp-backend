@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Perez, Pineda and Cook",
+    "invoice_number": "INV-12755",
+    "date": "2025-10-15",
+    "items": [
+        {
+            "description": "Monitored bottom-line flexibility",
+            "quantity": 9,
+            "unit_price": 155.26,
+            "total_price": 1397.34
+        },
+        {
+            "description": "Up-sized clear-thinking knowledgebase",
+            "quantity": 10,
+            "unit_price": 255.44,
+            "total_price": 2554.4
+        }
+    ],
+    "amount": 3951.74
+}

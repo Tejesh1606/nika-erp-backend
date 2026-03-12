@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hays, Murphy and Love",
+    "invoice_number": "INV-36453",
+    "date": "2025-05-16",
+    "items": [
+        {
+            "description": "Multi-layered system-worthy model",
+            "quantity": 4,
+            "unit_price": 468.98,
+            "total_price": 1875.92
+        },
+        {
+            "description": "Centralized value-added contingency",
+            "quantity": 6,
+            "unit_price": 455.19,
+            "total_price": 2731.14
+        },
+        {
+            "description": "Horizontal grid-enabled functionalities",
+            "quantity": 4,
+            "unit_price": 148.79,
+            "total_price": 595.16
+        }
+    ],
+    "amount": 5202.22
+}

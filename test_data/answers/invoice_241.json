@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Munoz, Harris and Herman",
+    "invoice_number": "INV-82362",
+    "date": "2025-07-11",
+    "items": [
+        {
+            "description": "Vision-oriented executive implementation",
+            "quantity": 5,
+            "unit_price": 434.28,
+            "total_price": 2171.4
+        },
+        {
+            "description": "Persistent national projection",
+            "quantity": 7,
+            "unit_price": 476.86,
+            "total_price": 3338.02
+        },
+        {
+            "description": "Multi-channeled fault-tolerant firmware",
+            "quantity": 4,
+            "unit_price": 361.02,
+            "total_price": 1444.08
+        }
+    ],
+    "amount": 6953.5
+}

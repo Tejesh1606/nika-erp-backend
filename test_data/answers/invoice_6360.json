@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Adams, Pratt and Henderson",
+    "invoice_number": "INV-48776",
+    "date": "2026-01-24",
+    "items": [
+        {
+            "description": "Innovative directional solution",
+            "quantity": 4,
+            "unit_price": 420.07,
+            "total_price": 1680.28
+        }
+    ],
+    "amount": 1680.28
+}

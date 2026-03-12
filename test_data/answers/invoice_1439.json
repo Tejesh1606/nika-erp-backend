@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Campos and Sons",
+    "invoice_number": "INV-59931",
+    "date": "2025-09-08",
+    "items": [
+        {
+            "description": "Multi-tiered mission-critical concept",
+            "quantity": 8,
+            "unit_price": 328.6,
+            "total_price": 2628.8
+        },
+        {
+            "description": "Visionary 3rdgeneration parallelism",
+            "quantity": 6,
+            "unit_price": 265.12,
+            "total_price": 1590.72
+        }
+    ],
+    "amount": 4219.52
+}

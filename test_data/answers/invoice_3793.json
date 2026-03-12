@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gomez, Boyd and Roberts",
+    "invoice_number": "INV-27232",
+    "date": "2025-08-04",
+    "items": [
+        {
+            "description": "De-engineered fresh-thinking encoding",
+            "quantity": 6,
+            "unit_price": 348.55,
+            "total_price": 2091.3
+        },
+        {
+            "description": "Synergistic national array",
+            "quantity": 8,
+            "unit_price": 119.0,
+            "total_price": 952.0
+        }
+    ],
+    "amount": 3043.3
+}

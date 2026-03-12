@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Taylor, Harris and Phillips",
+    "invoice_number": "INV-39603",
+    "date": "2025-07-28",
+    "items": [
+        {
+            "description": "Streamlined asymmetric complexity",
+            "quantity": 4,
+            "unit_price": 270.72,
+            "total_price": 1082.88
+        },
+        {
+            "description": "Reverse-engineered 3rdgeneration function",
+            "quantity": 10,
+            "unit_price": 332.89,
+            "total_price": 3328.9
+        },
+        {
+            "description": "Multi-lateral needs-based website",
+            "quantity": 6,
+            "unit_price": 382.07,
+            "total_price": 2292.42
+        },
+        {
+            "description": "Re-contextualized intangible definition",
+            "quantity": 1,
+            "unit_price": 432.07,
+            "total_price": 432.07
+        }
+    ],
+    "amount": 7136.27
+}

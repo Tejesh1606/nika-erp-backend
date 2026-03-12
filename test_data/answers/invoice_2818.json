@@ -1,0 +1,20 @@
+{
+    "vendor_name": "George, Howard and Davis",
+    "invoice_number": "INV-37251",
+    "date": "2025-12-14",
+    "items": [
+        {
+            "description": "Visionary next generation extranet",
+            "quantity": 7,
+            "unit_price": 257.45,
+            "total_price": 1802.15
+        },
+        {
+            "description": "Intuitive discrete attitude",
+            "quantity": 8,
+            "unit_price": 225.1,
+            "total_price": 1800.8
+        }
+    ],
+    "amount": 3602.95
+}

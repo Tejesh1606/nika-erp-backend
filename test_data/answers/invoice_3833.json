@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Sanchez-Dougherty",
+    "invoice_number": "INV-64115",
+    "date": "2026-03-01",
+    "items": [
+        {
+            "description": "Quality-focused transitional portal",
+            "quantity": 1,
+            "unit_price": 90.52,
+            "total_price": 90.52
+        },
+        {
+            "description": "Universal composite leverage",
+            "quantity": 3,
+            "unit_price": 38.79,
+            "total_price": 116.37
+        },
+        {
+            "description": "Centralized upward-trending software",
+            "quantity": 5,
+            "unit_price": 78.48,
+            "total_price": 392.4
+        },
+        {
+            "description": "Future-proofed maximized conglomeration",
+            "quantity": 6,
+            "unit_price": 452.44,
+            "total_price": 2714.64
+        }
+    ],
+    "amount": 3313.93
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Owens, Bennett and Brown",
+    "invoice_number": "INV-49832",
+    "date": "2025-05-04",
+    "items": [
+        {
+            "description": "Customizable bifurcated standardization",
+            "quantity": 3,
+            "unit_price": 303.32,
+            "total_price": 909.96
+        },
+        {
+            "description": "Programmable well-modulated middleware",
+            "quantity": 6,
+            "unit_price": 247.75,
+            "total_price": 1486.5
+        }
+    ],
+    "amount": 2396.46
+}

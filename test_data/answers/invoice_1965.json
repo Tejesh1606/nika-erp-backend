@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cook-Walter",
+    "invoice_number": "INV-83737",
+    "date": "2025-10-11",
+    "items": [
+        {
+            "description": "Quality-focused local Graphic Interface",
+            "quantity": 3,
+            "unit_price": 484.32,
+            "total_price": 1452.96
+        }
+    ],
+    "amount": 1452.96
+}

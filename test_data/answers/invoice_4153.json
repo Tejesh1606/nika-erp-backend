@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Anderson, Evans and Black",
+    "invoice_number": "INV-15881",
+    "date": "2025-07-21",
+    "items": [
+        {
+            "description": "Customizable logistical capability",
+            "quantity": 10,
+            "unit_price": 51.27,
+            "total_price": 512.7
+        },
+        {
+            "description": "Reverse-engineered maximized collaboration",
+            "quantity": 2,
+            "unit_price": 87.62,
+            "total_price": 175.24
+        },
+        {
+            "description": "User-friendly full-range architecture",
+            "quantity": 6,
+            "unit_price": 455.45,
+            "total_price": 2732.7
+        },
+        {
+            "description": "Enterprise-wide solution-oriented data-warehouse",
+            "quantity": 5,
+            "unit_price": 466.29,
+            "total_price": 2331.45
+        }
+    ],
+    "amount": 5752.09
+}

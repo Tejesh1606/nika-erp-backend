@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Johnson Inc",
+    "invoice_number": "INV-80756",
+    "date": "2025-10-03",
+    "items": [
+        {
+            "description": "Ergonomic 24hour matrix",
+            "quantity": 7,
+            "unit_price": 76.55,
+            "total_price": 535.85
+        }
+    ],
+    "amount": 535.85
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cruz-Neal",
+    "invoice_number": "INV-21252",
+    "date": "2025-11-12",
+    "items": [
+        {
+            "description": "Sharable value-added Internet solution",
+            "quantity": 2,
+            "unit_price": 66.29,
+            "total_price": 132.58
+        }
+    ],
+    "amount": 132.58
+}

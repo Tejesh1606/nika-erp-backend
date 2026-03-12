@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hunter LLC",
+    "invoice_number": "INV-32188",
+    "date": "2025-08-23",
+    "items": [
+        {
+            "description": "Organic discrete time-frame",
+            "quantity": 1,
+            "unit_price": 108.6,
+            "total_price": 108.6
+        },
+        {
+            "description": "Ameliorated composite concept",
+            "quantity": 8,
+            "unit_price": 476.05,
+            "total_price": 3808.4
+        },
+        {
+            "description": "Balanced reciprocal orchestration",
+            "quantity": 2,
+            "unit_price": 282.94,
+            "total_price": 565.88
+        }
+    ],
+    "amount": 4482.88
+}

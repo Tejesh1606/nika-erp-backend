@@ -1,0 +1,32 @@
+{
+    "vendor_name": "White, Mcgee and Blake",
+    "invoice_number": "INV-68201",
+    "date": "2025-04-05",
+    "items": [
+        {
+            "description": "Synchronized zero tolerance artificial intelligence",
+            "quantity": 7,
+            "unit_price": 73.03,
+            "total_price": 511.21
+        },
+        {
+            "description": "Centralized leadingedge task-force",
+            "quantity": 5,
+            "unit_price": 428.37,
+            "total_price": 2141.85
+        },
+        {
+            "description": "Front-line heuristic capability",
+            "quantity": 2,
+            "unit_price": 434.66,
+            "total_price": 869.32
+        },
+        {
+            "description": "De-engineered neutral policy",
+            "quantity": 6,
+            "unit_price": 370.21,
+            "total_price": 2221.26
+        }
+    ],
+    "amount": 5743.64
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lewis, Reed and Shepard",
+    "invoice_number": "INV-95880",
+    "date": "2025-03-28",
+    "items": [
+        {
+            "description": "Integrated mission-critical analyzer",
+            "quantity": 7,
+            "unit_price": 93.79,
+            "total_price": 656.53
+        },
+        {
+            "description": "Vision-oriented high-level solution",
+            "quantity": 2,
+            "unit_price": 108.22,
+            "total_price": 216.44
+        },
+        {
+            "description": "Persevering background website",
+            "quantity": 3,
+            "unit_price": 491.61,
+            "total_price": 1474.83
+        },
+        {
+            "description": "Diverse intangible functionalities",
+            "quantity": 7,
+            "unit_price": 395.61,
+            "total_price": 2769.27
+        }
+    ],
+    "amount": 5117.07
+}

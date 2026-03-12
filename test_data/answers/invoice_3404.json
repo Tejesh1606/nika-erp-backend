@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Edwards, Curry and Miranda",
+    "invoice_number": "INV-13396",
+    "date": "2025-05-12",
+    "items": [
+        {
+            "description": "Reverse-engineered global toolset",
+            "quantity": 3,
+            "unit_price": 69.11,
+            "total_price": 207.33
+        },
+        {
+            "description": "Polarized content-based utilization",
+            "quantity": 9,
+            "unit_price": 436.56,
+            "total_price": 3929.04
+        },
+        {
+            "description": "Programmable 24/7 benchmark",
+            "quantity": 9,
+            "unit_price": 384.01,
+            "total_price": 3456.09
+        }
+    ],
+    "amount": 7592.46
+}

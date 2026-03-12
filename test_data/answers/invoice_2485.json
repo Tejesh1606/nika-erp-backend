@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wolfe LLC",
+    "invoice_number": "INV-85436",
+    "date": "2025-11-13",
+    "items": [
+        {
+            "description": "Multi-layered impactful function",
+            "quantity": 3,
+            "unit_price": 52.98,
+            "total_price": 158.94
+        },
+        {
+            "description": "Persistent value-added orchestration",
+            "quantity": 2,
+            "unit_price": 105.19,
+            "total_price": 210.38
+        },
+        {
+            "description": "Right-sized national flexibility",
+            "quantity": 3,
+            "unit_price": 448.7,
+            "total_price": 1346.1
+        }
+    ],
+    "amount": 1715.42
+}

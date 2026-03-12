@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Castaneda, Day and Weaver",
+    "invoice_number": "INV-49178",
+    "date": "2025-07-22",
+    "items": [
+        {
+            "description": "Switchable modular conglomeration",
+            "quantity": 5,
+            "unit_price": 456.7,
+            "total_price": 2283.5
+        },
+        {
+            "description": "User-centric systematic adapter",
+            "quantity": 4,
+            "unit_price": 445.22,
+            "total_price": 1780.88
+        }
+    ],
+    "amount": 4064.38
+}

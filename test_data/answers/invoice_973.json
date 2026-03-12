@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith-Stephenson",
+    "invoice_number": "INV-36013",
+    "date": "2025-04-20",
+    "items": [
+        {
+            "description": "Ergonomic executive analyzer",
+            "quantity": 5,
+            "unit_price": 271.93,
+            "total_price": 1359.65
+        }
+    ],
+    "amount": 1359.65
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Freeman, Howe and Pacheco",
+    "invoice_number": "INV-91111",
+    "date": "2025-05-05",
+    "items": [
+        {
+            "description": "Enhanced fresh-thinking focus group",
+            "quantity": 6,
+            "unit_price": 25.81,
+            "total_price": 154.86
+        }
+    ],
+    "amount": 154.86
+}

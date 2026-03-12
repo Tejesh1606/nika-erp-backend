@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Brown LLC",
+    "invoice_number": "INV-17917",
+    "date": "2025-11-04",
+    "items": [
+        {
+            "description": "Versatile intermediate artificial intelligence",
+            "quantity": 1,
+            "unit_price": 252.87,
+            "total_price": 252.87
+        },
+        {
+            "description": "Synergistic well-modulated structure",
+            "quantity": 6,
+            "unit_price": 142.79,
+            "total_price": 856.74
+        }
+    ],
+    "amount": 1109.61
+}

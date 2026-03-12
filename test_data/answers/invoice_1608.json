@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cole LLC",
+    "invoice_number": "INV-95466",
+    "date": "2026-02-02",
+    "items": [
+        {
+            "description": "Automated discrete secured line",
+            "quantity": 8,
+            "unit_price": 445.6,
+            "total_price": 3564.8
+        }
+    ],
+    "amount": 3564.8
+}

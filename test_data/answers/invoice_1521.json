@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gould, Wilson and Martin",
+    "invoice_number": "INV-27301",
+    "date": "2025-12-21",
+    "items": [
+        {
+            "description": "Robust non-volatile algorithm",
+            "quantity": 10,
+            "unit_price": 202.89,
+            "total_price": 2028.9
+        }
+    ],
+    "amount": 2028.9
+}

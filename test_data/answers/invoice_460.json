@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Diaz, Hill and Becker",
+    "invoice_number": "INV-36698",
+    "date": "2025-08-16",
+    "items": [
+        {
+            "description": "Reactive zero tolerance open architecture",
+            "quantity": 8,
+            "unit_price": 433.11,
+            "total_price": 3464.88
+        },
+        {
+            "description": "Polarized context-sensitive hub",
+            "quantity": 7,
+            "unit_price": 138.44,
+            "total_price": 969.08
+        },
+        {
+            "description": "Realigned next generation matrices",
+            "quantity": 5,
+            "unit_price": 193.53,
+            "total_price": 967.65
+        },
+        {
+            "description": "Function-based fault-tolerant orchestration",
+            "quantity": 10,
+            "unit_price": 495.06,
+            "total_price": 4950.6
+        }
+    ],
+    "amount": 10352.21
+}

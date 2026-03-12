@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Davidson-Chapman",
+    "invoice_number": "INV-63580",
+    "date": "2026-02-15",
+    "items": [
+        {
+            "description": "Automated bottom-line info-mediaries",
+            "quantity": 3,
+            "unit_price": 144.25,
+            "total_price": 432.75
+        }
+    ],
+    "amount": 432.75
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Brown-Velez",
+    "invoice_number": "INV-16537",
+    "date": "2025-08-02",
+    "items": [
+        {
+            "description": "User-friendly systemic circuit",
+            "quantity": 4,
+            "unit_price": 41.2,
+            "total_price": 164.8
+        },
+        {
+            "description": "Reduced bandwidth-monitored artificial intelligence",
+            "quantity": 9,
+            "unit_price": 188.19,
+            "total_price": 1693.71
+        }
+    ],
+    "amount": 1858.51
+}

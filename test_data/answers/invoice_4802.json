@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Collins, Baker and Clarke",
+    "invoice_number": "INV-59496",
+    "date": "2025-05-02",
+    "items": [
+        {
+            "description": "Organic mission-critical database",
+            "quantity": 5,
+            "unit_price": 343.06,
+            "total_price": 1715.3
+        },
+        {
+            "description": "Face-to-face bi-directional contingency",
+            "quantity": 7,
+            "unit_price": 401.73,
+            "total_price": 2812.11
+        },
+        {
+            "description": "Mandatory multi-state attitude",
+            "quantity": 6,
+            "unit_price": 83.34,
+            "total_price": 500.04
+        }
+    ],
+    "amount": 5027.45
+}

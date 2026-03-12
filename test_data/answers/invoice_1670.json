@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Pratt and Sons",
+    "invoice_number": "INV-93394",
+    "date": "2025-04-12",
+    "items": [
+        {
+            "description": "Programmable client-server process improvement",
+            "quantity": 6,
+            "unit_price": 314.25,
+            "total_price": 1885.5
+        },
+        {
+            "description": "Organic asynchronous interface",
+            "quantity": 3,
+            "unit_price": 83.99,
+            "total_price": 251.97
+        },
+        {
+            "description": "Up-sized scalable moratorium",
+            "quantity": 8,
+            "unit_price": 336.81,
+            "total_price": 2694.48
+        }
+    ],
+    "amount": 4831.95
+}

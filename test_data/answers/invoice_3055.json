@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Torres-Miller",
+    "invoice_number": "INV-91349",
+    "date": "2025-05-08",
+    "items": [
+        {
+            "description": "Multi-layered holistic array",
+            "quantity": 1,
+            "unit_price": 86.1,
+            "total_price": 86.1
+        }
+    ],
+    "amount": 86.1
+}

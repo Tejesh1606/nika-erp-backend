@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Atkins PLC",
+    "invoice_number": "INV-71812",
+    "date": "2025-03-11",
+    "items": [
+        {
+            "description": "Synergized 6thgeneration ability",
+            "quantity": 1,
+            "unit_price": 461.86,
+            "total_price": 461.86
+        },
+        {
+            "description": "Balanced national challenge",
+            "quantity": 3,
+            "unit_price": 188.45,
+            "total_price": 565.35
+        },
+        {
+            "description": "Enhanced clear-thinking approach",
+            "quantity": 9,
+            "unit_price": 359.21,
+            "total_price": 3232.89
+        }
+    ],
+    "amount": 4260.1
+}

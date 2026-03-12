@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bowman, Evans and Wade",
+    "invoice_number": "INV-16470",
+    "date": "2025-09-25",
+    "items": [
+        {
+            "description": "Organic mobile parallelism",
+            "quantity": 4,
+            "unit_price": 311.98,
+            "total_price": 1247.92
+        },
+        {
+            "description": "Persistent scalable challenge",
+            "quantity": 6,
+            "unit_price": 453.98,
+            "total_price": 2723.88
+        }
+    ],
+    "amount": 3971.8
+}

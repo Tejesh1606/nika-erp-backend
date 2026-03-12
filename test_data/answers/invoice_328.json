@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Williams-Glass",
+    "invoice_number": "INV-66774",
+    "date": "2026-01-22",
+    "items": [
+        {
+            "description": "Up-sized hybrid methodology",
+            "quantity": 8,
+            "unit_price": 467.92,
+            "total_price": 3743.36
+        },
+        {
+            "description": "Assimilated homogeneous software",
+            "quantity": 10,
+            "unit_price": 153.16,
+            "total_price": 1531.6
+        },
+        {
+            "description": "Optimized context-sensitive help-desk",
+            "quantity": 4,
+            "unit_price": 39.33,
+            "total_price": 157.32
+        }
+    ],
+    "amount": 5432.28
+}

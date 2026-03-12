@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gray Ltd",
+    "invoice_number": "INV-54759",
+    "date": "2025-04-12",
+    "items": [
+        {
+            "description": "Multi-lateral uniform model",
+            "quantity": 6,
+            "unit_price": 22.7,
+            "total_price": 136.2
+        },
+        {
+            "description": "Grass-roots multi-tasking collaboration",
+            "quantity": 8,
+            "unit_price": 142.59,
+            "total_price": 1140.72
+        }
+    ],
+    "amount": 1276.92
+}

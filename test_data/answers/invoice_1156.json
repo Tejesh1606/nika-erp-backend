@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Keller PLC",
+    "invoice_number": "INV-16849",
+    "date": "2025-11-20",
+    "items": [
+        {
+            "description": "Integrated 5thgeneration moratorium",
+            "quantity": 10,
+            "unit_price": 398.61,
+            "total_price": 3986.1
+        },
+        {
+            "description": "Virtual grid-enabled algorithm",
+            "quantity": 6,
+            "unit_price": 332.85,
+            "total_price": 1997.1
+        },
+        {
+            "description": "Robust web-enabled Graphical User Interface",
+            "quantity": 10,
+            "unit_price": 472.39,
+            "total_price": 4723.9
+        },
+        {
+            "description": "Fundamental web-enabled parallelism",
+            "quantity": 9,
+            "unit_price": 362.99,
+            "total_price": 3266.91
+        }
+    ],
+    "amount": 13974.01
+}

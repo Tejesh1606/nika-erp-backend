@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Green-Bennett",
+    "invoice_number": "INV-93819",
+    "date": "2025-03-26",
+    "items": [
+        {
+            "description": "Virtual static workforce",
+            "quantity": 7,
+            "unit_price": 301.82,
+            "total_price": 2112.74
+        }
+    ],
+    "amount": 2112.74
+}

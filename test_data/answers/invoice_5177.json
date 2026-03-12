@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Marks, Sawyer and Riley",
+    "invoice_number": "INV-70635",
+    "date": "2026-01-30",
+    "items": [
+        {
+            "description": "Networked client-server function",
+            "quantity": 8,
+            "unit_price": 350.24,
+            "total_price": 2801.92
+        },
+        {
+            "description": "Digitized neutral hierarchy",
+            "quantity": 3,
+            "unit_price": 293.73,
+            "total_price": 881.19
+        },
+        {
+            "description": "Proactive empowering alliance",
+            "quantity": 10,
+            "unit_price": 224.31,
+            "total_price": 2243.1
+        }
+    ],
+    "amount": 5926.21
+}

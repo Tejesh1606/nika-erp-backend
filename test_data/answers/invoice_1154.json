@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Porter Inc",
+    "invoice_number": "INV-45428",
+    "date": "2025-06-24",
+    "items": [
+        {
+            "description": "Reverse-engineered human-resource framework",
+            "quantity": 10,
+            "unit_price": 140.43,
+            "total_price": 1404.3
+        },
+        {
+            "description": "Configurable analyzing focus group",
+            "quantity": 8,
+            "unit_price": 42.88,
+            "total_price": 343.04
+        }
+    ],
+    "amount": 1747.34
+}

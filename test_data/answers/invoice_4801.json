@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Dodson, Jackson and Allison",
+    "invoice_number": "INV-23663",
+    "date": "2025-08-19",
+    "items": [
+        {
+            "description": "Synergistic composite open architecture",
+            "quantity": 1,
+            "unit_price": 341.7,
+            "total_price": 341.7
+        },
+        {
+            "description": "Triple-buffered optimizing analyzer",
+            "quantity": 4,
+            "unit_price": 361.55,
+            "total_price": 1446.2
+        }
+    ],
+    "amount": 1787.9
+}

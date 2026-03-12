@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Martin PLC",
+    "invoice_number": "INV-78607",
+    "date": "2025-05-26",
+    "items": [
+        {
+            "description": "Team-oriented bottom-line toolset",
+            "quantity": 1,
+            "unit_price": 80.22,
+            "total_price": 80.22
+        },
+        {
+            "description": "Future-proofed object-oriented secured line",
+            "quantity": 3,
+            "unit_price": 258.2,
+            "total_price": 774.6
+        },
+        {
+            "description": "Visionary asymmetric flexibility",
+            "quantity": 1,
+            "unit_price": 61.31,
+            "total_price": 61.31
+        },
+        {
+            "description": "Compatible actuating artificial intelligence",
+            "quantity": 2,
+            "unit_price": 48.4,
+            "total_price": 96.8
+        }
+    ],
+    "amount": 1012.93
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rodriguez LLC",
+    "invoice_number": "INV-38709",
+    "date": "2025-08-19",
+    "items": [
+        {
+            "description": "Customer-focused clear-thinking intranet",
+            "quantity": 5,
+            "unit_price": 288.87,
+            "total_price": 1444.35
+        },
+        {
+            "description": "Open-architected optimizing middleware",
+            "quantity": 2,
+            "unit_price": 345.36,
+            "total_price": 690.72
+        },
+        {
+            "description": "Organized hybrid conglomeration",
+            "quantity": 10,
+            "unit_price": 265.34,
+            "total_price": 2653.4
+        },
+        {
+            "description": "Visionary cohesive toolset",
+            "quantity": 1,
+            "unit_price": 303.37,
+            "total_price": 303.37
+        }
+    ],
+    "amount": 5091.84
+}

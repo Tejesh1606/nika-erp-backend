@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Brooks-Young",
+    "invoice_number": "INV-53448",
+    "date": "2025-05-17",
+    "items": [
+        {
+            "description": "Optimized system-worthy concept",
+            "quantity": 8,
+            "unit_price": 425.53,
+            "total_price": 3404.24
+        },
+        {
+            "description": "Business-focused client-driven policy",
+            "quantity": 7,
+            "unit_price": 107.94,
+            "total_price": 755.58
+        },
+        {
+            "description": "Synergistic even-keeled time-frame",
+            "quantity": 5,
+            "unit_price": 38.06,
+            "total_price": 190.3
+        },
+        {
+            "description": "Reactive mobile extranet",
+            "quantity": 3,
+            "unit_price": 259.89,
+            "total_price": 779.67
+        }
+    ],
+    "amount": 5129.79
+}

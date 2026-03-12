@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cooley-Young",
+    "invoice_number": "INV-36855",
+    "date": "2025-11-28",
+    "items": [
+        {
+            "description": "Function-based bi-directional infrastructure",
+            "quantity": 2,
+            "unit_price": 283.86,
+            "total_price": 567.72
+        },
+        {
+            "description": "Phased national benchmark",
+            "quantity": 8,
+            "unit_price": 361.15,
+            "total_price": 2889.2
+        },
+        {
+            "description": "Digitized maximized support",
+            "quantity": 7,
+            "unit_price": 65.52,
+            "total_price": 458.64
+        }
+    ],
+    "amount": 3915.56
+}

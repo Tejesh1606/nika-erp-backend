@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Sanchez Ltd",
+    "invoice_number": "INV-82541",
+    "date": "2025-05-06",
+    "items": [
+        {
+            "description": "Face-to-face directional orchestration",
+            "quantity": 7,
+            "unit_price": 352.65,
+            "total_price": 2468.55
+        },
+        {
+            "description": "Quality-focused regional service-desk",
+            "quantity": 3,
+            "unit_price": 367.92,
+            "total_price": 1103.76
+        },
+        {
+            "description": "Multi-channeled asymmetric benchmark",
+            "quantity": 10,
+            "unit_price": 299.0,
+            "total_price": 2990.0
+        },
+        {
+            "description": "Total bottom-line encoding",
+            "quantity": 1,
+            "unit_price": 106.32,
+            "total_price": 106.32
+        }
+    ],
+    "amount": 6668.63
+}

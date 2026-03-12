@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Singleton-Young",
+    "invoice_number": "INV-84206",
+    "date": "2025-10-29",
+    "items": [
+        {
+            "description": "Multi-layered contextually-based array",
+            "quantity": 3,
+            "unit_price": 303.55,
+            "total_price": 910.65
+        },
+        {
+            "description": "Cross-platform zero administration support",
+            "quantity": 5,
+            "unit_price": 329.98,
+            "total_price": 1649.9
+        },
+        {
+            "description": "Sharable upward-trending software",
+            "quantity": 6,
+            "unit_price": 388.85,
+            "total_price": 2333.1
+        }
+    ],
+    "amount": 4893.65
+}

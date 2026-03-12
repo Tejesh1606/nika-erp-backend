@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Nelson Group",
+    "invoice_number": "INV-45495",
+    "date": "2025-05-24",
+    "items": [
+        {
+            "description": "Upgradable coherent help-desk",
+            "quantity": 10,
+            "unit_price": 474.59,
+            "total_price": 4745.9
+        }
+    ],
+    "amount": 4745.9
+}

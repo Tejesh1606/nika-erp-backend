@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lane, Miller and Mullen",
+    "invoice_number": "INV-25688",
+    "date": "2025-03-24",
+    "items": [
+        {
+            "description": "Advanced client-driven implementation",
+            "quantity": 8,
+            "unit_price": 69.72,
+            "total_price": 557.76
+        },
+        {
+            "description": "Adaptive mobile intranet",
+            "quantity": 2,
+            "unit_price": 422.66,
+            "total_price": 845.32
+        },
+        {
+            "description": "Versatile composite architecture",
+            "quantity": 2,
+            "unit_price": 447.79,
+            "total_price": 895.58
+        },
+        {
+            "description": "Function-based content-based product",
+            "quantity": 6,
+            "unit_price": 459.96,
+            "total_price": 2759.76
+        }
+    ],
+    "amount": 5058.42
+}

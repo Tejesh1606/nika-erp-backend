@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Herrera-Coleman",
+    "invoice_number": "INV-15103",
+    "date": "2026-02-05",
+    "items": [
+        {
+            "description": "Customer-focused analyzing framework",
+            "quantity": 2,
+            "unit_price": 415.08,
+            "total_price": 830.16
+        },
+        {
+            "description": "Synchronized client-driven standardization",
+            "quantity": 4,
+            "unit_price": 238.01,
+            "total_price": 952.04
+        }
+    ],
+    "amount": 1782.2
+}

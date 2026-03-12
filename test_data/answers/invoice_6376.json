@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Huffman, Rogers and White",
+    "invoice_number": "INV-29859",
+    "date": "2026-02-06",
+    "items": [
+        {
+            "description": "De-engineered user-facing application",
+            "quantity": 2,
+            "unit_price": 74.91,
+            "total_price": 149.82
+        },
+        {
+            "description": "Ameliorated zero administration info-mediaries",
+            "quantity": 6,
+            "unit_price": 245.33,
+            "total_price": 1471.98
+        }
+    ],
+    "amount": 1621.8
+}

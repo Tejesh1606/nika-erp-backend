@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Peck-Anderson",
+    "invoice_number": "INV-84498",
+    "date": "2025-08-19",
+    "items": [
+        {
+            "description": "Multi-lateral needs-based software",
+            "quantity": 6,
+            "unit_price": 376.47,
+            "total_price": 2258.82
+        },
+        {
+            "description": "Enhanced well-modulated leverage",
+            "quantity": 6,
+            "unit_price": 280.92,
+            "total_price": 1685.52
+        },
+        {
+            "description": "Visionary asynchronous adapter",
+            "quantity": 7,
+            "unit_price": 275.65,
+            "total_price": 1929.55
+        }
+    ],
+    "amount": 5873.89
+}

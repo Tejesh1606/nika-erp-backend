@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Pruitt LLC",
+    "invoice_number": "INV-20784",
+    "date": "2025-05-03",
+    "items": [
+        {
+            "description": "Upgradable static superstructure",
+            "quantity": 7,
+            "unit_price": 130.85,
+            "total_price": 915.95
+        },
+        {
+            "description": "Ameliorated optimal flexibility",
+            "quantity": 4,
+            "unit_price": 428.41,
+            "total_price": 1713.64
+        }
+    ],
+    "amount": 2629.59
+}

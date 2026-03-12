@@ -1,0 +1,32 @@
+{
+    "vendor_name": "English-Price",
+    "invoice_number": "INV-92361",
+    "date": "2025-04-22",
+    "items": [
+        {
+            "description": "Synergistic uniform throughput",
+            "quantity": 2,
+            "unit_price": 413.7,
+            "total_price": 827.4
+        },
+        {
+            "description": "Managed needs-based model",
+            "quantity": 5,
+            "unit_price": 287.92,
+            "total_price": 1439.6
+        },
+        {
+            "description": "Function-based encompassing secured line",
+            "quantity": 5,
+            "unit_price": 18.3,
+            "total_price": 91.5
+        },
+        {
+            "description": "Monitored clear-thinking data-warehouse",
+            "quantity": 3,
+            "unit_price": 397.1,
+            "total_price": 1191.3
+        }
+    ],
+    "amount": 3549.8
+}

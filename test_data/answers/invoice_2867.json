@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson, Ortiz and Ross",
+    "invoice_number": "INV-76353",
+    "date": "2025-05-06",
+    "items": [
+        {
+            "description": "Front-line value-added frame",
+            "quantity": 4,
+            "unit_price": 129.84,
+            "total_price": 519.36
+        },
+        {
+            "description": "Up-sized empowering Graphical User Interface",
+            "quantity": 8,
+            "unit_price": 198.27,
+            "total_price": 1586.16
+        },
+        {
+            "description": "Fully-configurable multi-tasking website",
+            "quantity": 3,
+            "unit_price": 27.37,
+            "total_price": 82.11
+        },
+        {
+            "description": "Managed solution-oriented protocol",
+            "quantity": 2,
+            "unit_price": 188.36,
+            "total_price": 376.72
+        }
+    ],
+    "amount": 2564.35
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ramirez LLC",
+    "invoice_number": "INV-76237",
+    "date": "2025-06-26",
+    "items": [
+        {
+            "description": "Distributed intangible projection",
+            "quantity": 4,
+            "unit_price": 319.65,
+            "total_price": 1278.6
+        },
+        {
+            "description": "Realigned real-time migration",
+            "quantity": 1,
+            "unit_price": 99.07,
+            "total_price": 99.07
+        }
+    ],
+    "amount": 1377.67
+}

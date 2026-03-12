@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bailey LLC",
+    "invoice_number": "INV-89550",
+    "date": "2025-11-30",
+    "items": [
+        {
+            "description": "Networked demand-driven benchmark",
+            "quantity": 1,
+            "unit_price": 28.95,
+            "total_price": 28.95
+        },
+        {
+            "description": "Centralized homogeneous task-force",
+            "quantity": 9,
+            "unit_price": 470.94,
+            "total_price": 4238.46
+        }
+    ],
+    "amount": 4267.41
+}

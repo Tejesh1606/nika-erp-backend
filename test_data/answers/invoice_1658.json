@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Michael-Mullins",
+    "invoice_number": "INV-82913",
+    "date": "2025-12-04",
+    "items": [
+        {
+            "description": "Down-sized 4thgeneration support",
+            "quantity": 8,
+            "unit_price": 217.81,
+            "total_price": 1742.48
+        },
+        {
+            "description": "Cross-platform responsive orchestration",
+            "quantity": 2,
+            "unit_price": 220.94,
+            "total_price": 441.88
+        },
+        {
+            "description": "Ameliorated static focus group",
+            "quantity": 9,
+            "unit_price": 14.54,
+            "total_price": 130.86
+        }
+    ],
+    "amount": 2315.22
+}

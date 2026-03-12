@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Owens, Nixon and Roberson",
+    "invoice_number": "INV-32450",
+    "date": "2026-01-13",
+    "items": [
+        {
+            "description": "Customizable 6thgeneration leverage",
+            "quantity": 8,
+            "unit_price": 103.27,
+            "total_price": 826.16
+        },
+        {
+            "description": "Synergized transitional model",
+            "quantity": 10,
+            "unit_price": 439.69,
+            "total_price": 4396.9
+        },
+        {
+            "description": "Progressive dedicated artificial intelligence",
+            "quantity": 4,
+            "unit_price": 386.35,
+            "total_price": 1545.4
+        }
+    ],
+    "amount": 6768.46
+}

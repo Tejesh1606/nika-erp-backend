@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Adams, Rivera and Chavez",
+    "invoice_number": "INV-86916",
+    "date": "2025-12-10",
+    "items": [
+        {
+            "description": "Up-sized encompassing success",
+            "quantity": 8,
+            "unit_price": 35.99,
+            "total_price": 287.92
+        }
+    ],
+    "amount": 287.92
+}

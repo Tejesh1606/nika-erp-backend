@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Campos, Scott and Kim",
+    "invoice_number": "INV-10171",
+    "date": "2025-07-19",
+    "items": [
+        {
+            "description": "Exclusive modular archive",
+            "quantity": 4,
+            "unit_price": 437.15,
+            "total_price": 1748.6
+        },
+        {
+            "description": "Stand-alone multi-state interface",
+            "quantity": 7,
+            "unit_price": 129.3,
+            "total_price": 905.1
+        }
+    ],
+    "amount": 2653.7
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mora Ltd",
+    "invoice_number": "INV-69160",
+    "date": "2025-09-18",
+    "items": [
+        {
+            "description": "Optimized intangible structure",
+            "quantity": 1,
+            "unit_price": 360.37,
+            "total_price": 360.37
+        },
+        {
+            "description": "Optimized global approach",
+            "quantity": 3,
+            "unit_price": 288.17,
+            "total_price": 864.51
+        },
+        {
+            "description": "Monitored context-sensitive protocol",
+            "quantity": 8,
+            "unit_price": 31.2,
+            "total_price": 249.6
+        },
+        {
+            "description": "Phased secondary task-force",
+            "quantity": 9,
+            "unit_price": 443.88,
+            "total_price": 3994.92
+        }
+    ],
+    "amount": 5469.4
+}

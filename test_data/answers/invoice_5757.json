@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lopez, Ray and Boyer",
+    "invoice_number": "INV-12280",
+    "date": "2025-09-11",
+    "items": [
+        {
+            "description": "Intuitive motivating Internet solution",
+            "quantity": 1,
+            "unit_price": 340.85,
+            "total_price": 340.85
+        },
+        {
+            "description": "Innovative directional hierarchy",
+            "quantity": 8,
+            "unit_price": 134.09,
+            "total_price": 1072.72
+        },
+        {
+            "description": "Realigned disintermediate adapter",
+            "quantity": 5,
+            "unit_price": 448.71,
+            "total_price": 2243.55
+        }
+    ],
+    "amount": 3657.12
+}

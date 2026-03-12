@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Dorsey, Hull and Perez",
+    "invoice_number": "INV-38695",
+    "date": "2025-08-29",
+    "items": [
+        {
+            "description": "User-friendly foreground collaboration",
+            "quantity": 6,
+            "unit_price": 358.46,
+            "total_price": 2150.76
+        }
+    ],
+    "amount": 2150.76
+}

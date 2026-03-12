@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Moore, Smith and Ramirez",
+    "invoice_number": "INV-52826",
+    "date": "2026-02-08",
+    "items": [
+        {
+            "description": "Distributed multi-tasking core",
+            "quantity": 6,
+            "unit_price": 449.32,
+            "total_price": 2695.92
+        },
+        {
+            "description": "Multi-channeled real-time parallelism",
+            "quantity": 7,
+            "unit_price": 226.29,
+            "total_price": 1584.03
+        },
+        {
+            "description": "Right-sized exuding alliance",
+            "quantity": 3,
+            "unit_price": 421.82,
+            "total_price": 1265.46
+        }
+    ],
+    "amount": 5545.41
+}

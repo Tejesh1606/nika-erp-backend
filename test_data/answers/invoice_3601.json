@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Thompson, Williams and Crawford",
+    "invoice_number": "INV-23872",
+    "date": "2025-08-20",
+    "items": [
+        {
+            "description": "Persistent value-added flexibility",
+            "quantity": 3,
+            "unit_price": 439.84,
+            "total_price": 1319.52
+        }
+    ],
+    "amount": 1319.52
+}

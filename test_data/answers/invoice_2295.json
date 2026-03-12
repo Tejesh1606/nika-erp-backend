@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Rasmussen, Morales and Butler",
+    "invoice_number": "INV-28135",
+    "date": "2025-07-26",
+    "items": [
+        {
+            "description": "Robust clear-thinking data-warehouse",
+            "quantity": 3,
+            "unit_price": 74.82,
+            "total_price": 224.46
+        },
+        {
+            "description": "Progressive intermediate success",
+            "quantity": 10,
+            "unit_price": 335.43,
+            "total_price": 3354.3
+        }
+    ],
+    "amount": 3578.76
+}

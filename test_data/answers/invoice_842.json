@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jones, Clarke and Lee",
+    "invoice_number": "INV-85132",
+    "date": "2025-04-26",
+    "items": [
+        {
+            "description": "Sharable multimedia extranet",
+            "quantity": 9,
+            "unit_price": 241.67,
+            "total_price": 2175.03
+        }
+    ],
+    "amount": 2175.03
+}

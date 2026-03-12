@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hill Inc",
+    "invoice_number": "INV-60748",
+    "date": "2025-07-21",
+    "items": [
+        {
+            "description": "Object-based reciprocal core",
+            "quantity": 1,
+            "unit_price": 392.95,
+            "total_price": 392.95
+        },
+        {
+            "description": "Self-enabling web-enabled standardization",
+            "quantity": 2,
+            "unit_price": 449.42,
+            "total_price": 898.84
+        }
+    ],
+    "amount": 1291.79
+}

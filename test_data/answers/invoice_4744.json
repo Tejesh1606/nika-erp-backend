@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wise-Gibson",
+    "invoice_number": "INV-93778",
+    "date": "2025-08-26",
+    "items": [
+        {
+            "description": "Distributed full-range encoding",
+            "quantity": 4,
+            "unit_price": 120.77,
+            "total_price": 483.08
+        },
+        {
+            "description": "Adaptive discrete capability",
+            "quantity": 8,
+            "unit_price": 335.4,
+            "total_price": 2683.2
+        }
+    ],
+    "amount": 3166.28
+}

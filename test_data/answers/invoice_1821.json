@@ -1,0 +1,32 @@
+{
+    "vendor_name": "West-Hernandez",
+    "invoice_number": "INV-13995",
+    "date": "2026-02-09",
+    "items": [
+        {
+            "description": "Up-sized bi-directional Graphical User Interface",
+            "quantity": 7,
+            "unit_price": 173.66,
+            "total_price": 1215.62
+        },
+        {
+            "description": "Triple-buffered analyzing Local Area Network",
+            "quantity": 8,
+            "unit_price": 335.13,
+            "total_price": 2681.04
+        },
+        {
+            "description": "Configurable dedicated migration",
+            "quantity": 3,
+            "unit_price": 83.26,
+            "total_price": 249.78
+        },
+        {
+            "description": "Balanced incremental knowledge user",
+            "quantity": 2,
+            "unit_price": 159.54,
+            "total_price": 319.08
+        }
+    ],
+    "amount": 4465.52
+}

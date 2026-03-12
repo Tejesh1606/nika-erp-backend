@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Stevens PLC",
+    "invoice_number": "INV-68733",
+    "date": "2025-04-12",
+    "items": [
+        {
+            "description": "Proactive local functionalities",
+            "quantity": 4,
+            "unit_price": 164.86,
+            "total_price": 659.44
+        },
+        {
+            "description": "Decentralized modular synergy",
+            "quantity": 8,
+            "unit_price": 411.87,
+            "total_price": 3294.96
+        },
+        {
+            "description": "Streamlined 3rdgeneration benchmark",
+            "quantity": 8,
+            "unit_price": 231.42,
+            "total_price": 1851.36
+        }
+    ],
+    "amount": 5805.76
+}

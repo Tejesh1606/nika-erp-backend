@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Torres-Jordan",
+    "invoice_number": "INV-96540",
+    "date": "2026-01-26",
+    "items": [
+        {
+            "description": "Adaptive actuating extranet",
+            "quantity": 7,
+            "unit_price": 297.23,
+            "total_price": 2080.61
+        },
+        {
+            "description": "Devolved grid-enabled forecast",
+            "quantity": 8,
+            "unit_price": 437.63,
+            "total_price": 3501.04
+        }
+    ],
+    "amount": 5581.65
+}

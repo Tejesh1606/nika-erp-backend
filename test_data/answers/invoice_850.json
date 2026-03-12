@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Johnson-Wilson",
+    "invoice_number": "INV-48086",
+    "date": "2025-08-27",
+    "items": [
+        {
+            "description": "Ergonomic responsive paradigm",
+            "quantity": 10,
+            "unit_price": 389.81,
+            "total_price": 3898.1
+        }
+    ],
+    "amount": 3898.1
+}

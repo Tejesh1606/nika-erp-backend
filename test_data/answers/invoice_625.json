@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Perez, Cruz and Norris",
+    "invoice_number": "INV-73185",
+    "date": "2025-04-25",
+    "items": [
+        {
+            "description": "Re-contextualized national help-desk",
+            "quantity": 10,
+            "unit_price": 70.69,
+            "total_price": 706.9
+        }
+    ],
+    "amount": 706.9
+}

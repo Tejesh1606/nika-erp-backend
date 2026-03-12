@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cruz, Scott and Oconnell",
+    "invoice_number": "INV-11870",
+    "date": "2026-02-17",
+    "items": [
+        {
+            "description": "Vision-oriented bifurcated portal",
+            "quantity": 5,
+            "unit_price": 21.2,
+            "total_price": 106.0
+        }
+    ],
+    "amount": 106.0
+}

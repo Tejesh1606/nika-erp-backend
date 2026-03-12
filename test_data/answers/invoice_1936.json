@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Sullivan LLC",
+    "invoice_number": "INV-81522",
+    "date": "2025-08-25",
+    "items": [
+        {
+            "description": "Automated value-added interface",
+            "quantity": 8,
+            "unit_price": 164.97,
+            "total_price": 1319.76
+        },
+        {
+            "description": "Organized content-based parallelism",
+            "quantity": 6,
+            "unit_price": 93.14,
+            "total_price": 558.84
+        },
+        {
+            "description": "Reactive directional structure",
+            "quantity": 10,
+            "unit_price": 373.21,
+            "total_price": 3732.1
+        }
+    ],
+    "amount": 5610.7
+}

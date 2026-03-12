@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Edwards-Watkins",
+    "invoice_number": "INV-20144",
+    "date": "2026-01-20",
+    "items": [
+        {
+            "description": "Quality-focused needs-based process improvement",
+            "quantity": 2,
+            "unit_price": 24.01,
+            "total_price": 48.02
+        }
+    ],
+    "amount": 48.02
+}

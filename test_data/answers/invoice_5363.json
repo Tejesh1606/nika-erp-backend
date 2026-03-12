@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Morgan-Holt",
+    "invoice_number": "INV-13457",
+    "date": "2025-12-16",
+    "items": [
+        {
+            "description": "Streamlined even-keeled collaboration",
+            "quantity": 10,
+            "unit_price": 271.76,
+            "total_price": 2717.6
+        },
+        {
+            "description": "Decentralized 3rdgeneration access",
+            "quantity": 9,
+            "unit_price": 420.91,
+            "total_price": 3788.19
+        },
+        {
+            "description": "Customizable exuding productivity",
+            "quantity": 3,
+            "unit_price": 400.47,
+            "total_price": 1201.41
+        }
+    ],
+    "amount": 7707.2
+}

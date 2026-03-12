@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lambert and Sons",
+    "invoice_number": "INV-52065",
+    "date": "2025-08-08",
+    "items": [
+        {
+            "description": "Realigned upward-trending standardization",
+            "quantity": 4,
+            "unit_price": 447.22,
+            "total_price": 1788.88
+        }
+    ],
+    "amount": 1788.88
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Morse-Kelley",
+    "invoice_number": "INV-23366",
+    "date": "2025-12-12",
+    "items": [
+        {
+            "description": "Seamless client-server architecture",
+            "quantity": 7,
+            "unit_price": 452.94,
+            "total_price": 3170.58
+        },
+        {
+            "description": "Virtual executive leverage",
+            "quantity": 5,
+            "unit_price": 114.23,
+            "total_price": 571.15
+        }
+    ],
+    "amount": 3741.73
+}

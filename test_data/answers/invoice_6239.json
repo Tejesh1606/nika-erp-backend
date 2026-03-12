@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wright, Williams and Buck",
+    "invoice_number": "INV-76528",
+    "date": "2025-10-24",
+    "items": [
+        {
+            "description": "Persevering even-keeled time-frame",
+            "quantity": 2,
+            "unit_price": 490.75,
+            "total_price": 981.5
+        },
+        {
+            "description": "Adaptive regional data-warehouse",
+            "quantity": 5,
+            "unit_price": 216.11,
+            "total_price": 1080.55
+        },
+        {
+            "description": "Virtual systemic paradigm",
+            "quantity": 9,
+            "unit_price": 314.2,
+            "total_price": 2827.8
+        }
+    ],
+    "amount": 4889.85
+}

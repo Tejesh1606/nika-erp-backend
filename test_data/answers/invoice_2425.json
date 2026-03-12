@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Orozco-Wilson",
+    "invoice_number": "INV-46214",
+    "date": "2025-03-16",
+    "items": [
+        {
+            "description": "Virtual dynamic portal",
+            "quantity": 7,
+            "unit_price": 404.45,
+            "total_price": 2831.15
+        },
+        {
+            "description": "Universal needs-based collaboration",
+            "quantity": 10,
+            "unit_price": 226.39,
+            "total_price": 2263.9
+        },
+        {
+            "description": "Enhanced attitude-oriented website",
+            "quantity": 2,
+            "unit_price": 12.31,
+            "total_price": 24.62
+        },
+        {
+            "description": "Quality-focused 4thgeneration software",
+            "quantity": 4,
+            "unit_price": 186.75,
+            "total_price": 747.0
+        }
+    ],
+    "amount": 5866.67
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Crawford Ltd",
+    "invoice_number": "INV-83437",
+    "date": "2025-06-08",
+    "items": [
+        {
+            "description": "Horizontal client-driven time-frame",
+            "quantity": 8,
+            "unit_price": 113.94,
+            "total_price": 911.52
+        },
+        {
+            "description": "Stand-alone 24hour installation",
+            "quantity": 10,
+            "unit_price": 327.93,
+            "total_price": 3279.3
+        }
+    ],
+    "amount": 4190.82
+}

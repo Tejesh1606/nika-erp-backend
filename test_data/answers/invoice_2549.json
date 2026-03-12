@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Turner and Sons",
+    "invoice_number": "INV-40595",
+    "date": "2025-04-03",
+    "items": [
+        {
+            "description": "Function-based high-level focus group",
+            "quantity": 5,
+            "unit_price": 452.65,
+            "total_price": 2263.25
+        },
+        {
+            "description": "Multi-tiered upward-trending support",
+            "quantity": 6,
+            "unit_price": 280.15,
+            "total_price": 1680.9
+        }
+    ],
+    "amount": 3944.15
+}

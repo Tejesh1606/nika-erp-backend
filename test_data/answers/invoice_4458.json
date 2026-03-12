@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Woods PLC",
+    "invoice_number": "INV-48938",
+    "date": "2025-11-03",
+    "items": [
+        {
+            "description": "Cross-group client-driven project",
+            "quantity": 9,
+            "unit_price": 139.38,
+            "total_price": 1254.42
+        },
+        {
+            "description": "Intuitive national architecture",
+            "quantity": 8,
+            "unit_price": 349.26,
+            "total_price": 2794.08
+        },
+        {
+            "description": "Re-contextualized directional Internet solution",
+            "quantity": 10,
+            "unit_price": 428.05,
+            "total_price": 4280.5
+        }
+    ],
+    "amount": 8329.0
+}

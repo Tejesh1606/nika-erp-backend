@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mills LLC",
+    "invoice_number": "INV-80675",
+    "date": "2025-12-15",
+    "items": [
+        {
+            "description": "Proactive fault-tolerant architecture",
+            "quantity": 6,
+            "unit_price": 466.07,
+            "total_price": 2796.42
+        },
+        {
+            "description": "Grass-roots composite matrix",
+            "quantity": 6,
+            "unit_price": 310.02,
+            "total_price": 1860.12
+        },
+        {
+            "description": "Profit-focused high-level emulation",
+            "quantity": 8,
+            "unit_price": 470.54,
+            "total_price": 3764.32
+        },
+        {
+            "description": "Self-enabling asymmetric extranet",
+            "quantity": 5,
+            "unit_price": 412.87,
+            "total_price": 2064.35
+        }
+    ],
+    "amount": 10485.21
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Curtis and Sons",
+    "invoice_number": "INV-47594",
+    "date": "2025-05-27",
+    "items": [
+        {
+            "description": "Fundamental even-keeled approach",
+            "quantity": 3,
+            "unit_price": 155.98,
+            "total_price": 467.94
+        },
+        {
+            "description": "Universal maximized solution",
+            "quantity": 5,
+            "unit_price": 450.45,
+            "total_price": 2252.25
+        },
+        {
+            "description": "Assimilated multimedia throughput",
+            "quantity": 5,
+            "unit_price": 203.57,
+            "total_price": 1017.85
+        }
+    ],
+    "amount": 3738.04
+}

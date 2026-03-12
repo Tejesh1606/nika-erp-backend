@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Fuller, Ingram and Moss",
+    "invoice_number": "INV-53583",
+    "date": "2025-04-29",
+    "items": [
+        {
+            "description": "Balanced heuristic moratorium",
+            "quantity": 10,
+            "unit_price": 57.83,
+            "total_price": 578.3
+        }
+    ],
+    "amount": 578.3
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith-Johnson",
+    "invoice_number": "INV-95991",
+    "date": "2025-11-16",
+    "items": [
+        {
+            "description": "Re-engineered exuding workforce",
+            "quantity": 7,
+            "unit_price": 313.87,
+            "total_price": 2197.09
+        },
+        {
+            "description": "Devolved exuding moderator",
+            "quantity": 2,
+            "unit_price": 480.01,
+            "total_price": 960.02
+        },
+        {
+            "description": "Reduced eco-centric conglomeration",
+            "quantity": 1,
+            "unit_price": 22.14,
+            "total_price": 22.14
+        }
+    ],
+    "amount": 3179.25
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Rodriguez-Stephens",
+    "invoice_number": "INV-70952",
+    "date": "2025-08-02",
+    "items": [
+        {
+            "description": "Digitized user-facing portal",
+            "quantity": 5,
+            "unit_price": 12.6,
+            "total_price": 63.0
+        },
+        {
+            "description": "Multi-layered 24hour matrices",
+            "quantity": 5,
+            "unit_price": 401.07,
+            "total_price": 2005.35
+        },
+        {
+            "description": "Operative solution-oriented matrices",
+            "quantity": 2,
+            "unit_price": 431.21,
+            "total_price": 862.42
+        }
+    ],
+    "amount": 2930.77
+}

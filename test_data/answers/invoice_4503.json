@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Greene-Mccullough",
+    "invoice_number": "INV-74689",
+    "date": "2026-03-02",
+    "items": [
+        {
+            "description": "Intuitive non-volatile support",
+            "quantity": 1,
+            "unit_price": 480.54,
+            "total_price": 480.54
+        },
+        {
+            "description": "Enterprise-wide analyzing firmware",
+            "quantity": 10,
+            "unit_price": 190.22,
+            "total_price": 1902.2
+        },
+        {
+            "description": "Up-sized asymmetric service-desk",
+            "quantity": 8,
+            "unit_price": 56.82,
+            "total_price": 454.56
+        },
+        {
+            "description": "Monitored fresh-thinking complexity",
+            "quantity": 10,
+            "unit_price": 17.36,
+            "total_price": 173.6
+        }
+    ],
+    "amount": 3010.9
+}

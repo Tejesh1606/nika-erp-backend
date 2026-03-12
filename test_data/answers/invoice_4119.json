@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Ramsey LLC",
+    "invoice_number": "INV-66719",
+    "date": "2025-07-30",
+    "items": [
+        {
+            "description": "Operative systemic help-desk",
+            "quantity": 9,
+            "unit_price": 378.34,
+            "total_price": 3405.06
+        },
+        {
+            "description": "Proactive transitional capability",
+            "quantity": 8,
+            "unit_price": 489.8,
+            "total_price": 3918.4
+        },
+        {
+            "description": "Virtual intangible infrastructure",
+            "quantity": 6,
+            "unit_price": 379.22,
+            "total_price": 2275.32
+        },
+        {
+            "description": "Multi-channeled mobile migration",
+            "quantity": 9,
+            "unit_price": 476.21,
+            "total_price": 4285.89
+        }
+    ],
+    "amount": 13884.67
+}

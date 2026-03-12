@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brooks-Bailey",
+    "invoice_number": "INV-86219",
+    "date": "2025-11-16",
+    "items": [
+        {
+            "description": "Versatile real-time collaboration",
+            "quantity": 4,
+            "unit_price": 340.22,
+            "total_price": 1360.88
+        },
+        {
+            "description": "Multi-layered 3rdgeneration matrix",
+            "quantity": 4,
+            "unit_price": 103.03,
+            "total_price": 412.12
+        },
+        {
+            "description": "Optimized content-based emulation",
+            "quantity": 8,
+            "unit_price": 273.03,
+            "total_price": 2184.24
+        }
+    ],
+    "amount": 3957.24
+}

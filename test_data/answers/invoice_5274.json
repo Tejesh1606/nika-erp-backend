@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lopez, Bowman and Diaz",
+    "invoice_number": "INV-99441",
+    "date": "2026-03-04",
+    "items": [
+        {
+            "description": "Quality-focused zero tolerance toolset",
+            "quantity": 10,
+            "unit_price": 253.1,
+            "total_price": 2531.0
+        },
+        {
+            "description": "Enhanced intangible definition",
+            "quantity": 4,
+            "unit_price": 203.26,
+            "total_price": 813.04
+        },
+        {
+            "description": "Diverse background moderator",
+            "quantity": 7,
+            "unit_price": 85.44,
+            "total_price": 598.08
+        }
+    ],
+    "amount": 3942.12
+}

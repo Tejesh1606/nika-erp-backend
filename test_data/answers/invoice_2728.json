@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Johnson, Johnson and Jones",
+    "invoice_number": "INV-48129",
+    "date": "2025-04-26",
+    "items": [
+        {
+            "description": "Visionary leadingedge benchmark",
+            "quantity": 7,
+            "unit_price": 311.04,
+            "total_price": 2177.28
+        }
+    ],
+    "amount": 2177.28
+}

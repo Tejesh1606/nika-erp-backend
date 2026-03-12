@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Clark Ltd",
+    "invoice_number": "INV-87510",
+    "date": "2025-10-02",
+    "items": [
+        {
+            "description": "Synergized static encoding",
+            "quantity": 5,
+            "unit_price": 490.06,
+            "total_price": 2450.3
+        }
+    ],
+    "amount": 2450.3
+}

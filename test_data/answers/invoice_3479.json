@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Brown PLC",
+    "invoice_number": "INV-60718",
+    "date": "2025-10-15",
+    "items": [
+        {
+            "description": "Re-contextualized leadingedge complexity",
+            "quantity": 8,
+            "unit_price": 137.1,
+            "total_price": 1096.8
+        }
+    ],
+    "amount": 1096.8
+}

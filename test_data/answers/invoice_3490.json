@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Warren-Brooks",
+    "invoice_number": "INV-79742",
+    "date": "2025-05-31",
+    "items": [
+        {
+            "description": "Exclusive upward-trending monitoring",
+            "quantity": 2,
+            "unit_price": 69.05,
+            "total_price": 138.1
+        },
+        {
+            "description": "Multi-layered impactful paradigm",
+            "quantity": 3,
+            "unit_price": 402.31,
+            "total_price": 1206.93
+        },
+        {
+            "description": "Ergonomic contextually-based success",
+            "quantity": 2,
+            "unit_price": 298.81,
+            "total_price": 597.62
+        },
+        {
+            "description": "Robust bottom-line encryption",
+            "quantity": 7,
+            "unit_price": 327.61,
+            "total_price": 2293.27
+        }
+    ],
+    "amount": 4235.92
+}

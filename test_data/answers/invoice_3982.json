@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Bradshaw PLC",
+    "invoice_number": "INV-47326",
+    "date": "2025-04-11",
+    "items": [
+        {
+            "description": "Distributed scalable knowledgebase",
+            "quantity": 2,
+            "unit_price": 22.11,
+            "total_price": 44.22
+        },
+        {
+            "description": "Assimilated intangible info-mediaries",
+            "quantity": 4,
+            "unit_price": 322.14,
+            "total_price": 1288.56
+        },
+        {
+            "description": "Customer-focused next generation time-frame",
+            "quantity": 7,
+            "unit_price": 177.15,
+            "total_price": 1240.05
+        },
+        {
+            "description": "Inverse static emulation",
+            "quantity": 5,
+            "unit_price": 247.02,
+            "total_price": 1235.1
+        }
+    ],
+    "amount": 3807.93
+}

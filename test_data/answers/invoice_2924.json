@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mcconnell Inc",
+    "invoice_number": "INV-16530",
+    "date": "2025-10-14",
+    "items": [
+        {
+            "description": "Expanded grid-enabled support",
+            "quantity": 8,
+            "unit_price": 199.04,
+            "total_price": 1592.32
+        },
+        {
+            "description": "Profit-focused contextually-based approach",
+            "quantity": 3,
+            "unit_price": 296.51,
+            "total_price": 889.53
+        },
+        {
+            "description": "Customizable hybrid toolset",
+            "quantity": 3,
+            "unit_price": 400.86,
+            "total_price": 1202.58
+        },
+        {
+            "description": "Ergonomic 5thgeneration artificial intelligence",
+            "quantity": 8,
+            "unit_price": 244.9,
+            "total_price": 1959.2
+        }
+    ],
+    "amount": 5643.63
+}

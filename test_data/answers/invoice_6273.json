@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Kaufman, Hernandez and Schmitt",
+    "invoice_number": "INV-96978",
+    "date": "2025-12-16",
+    "items": [
+        {
+            "description": "Ergonomic transitional attitude",
+            "quantity": 10,
+            "unit_price": 482.18,
+            "total_price": 4821.8
+        }
+    ],
+    "amount": 4821.8
+}

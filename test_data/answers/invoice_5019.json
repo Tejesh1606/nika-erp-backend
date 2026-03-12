@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith-Patterson",
+    "invoice_number": "INV-96238",
+    "date": "2025-12-15",
+    "items": [
+        {
+            "description": "De-engineered holistic neural-net",
+            "quantity": 8,
+            "unit_price": 251.11,
+            "total_price": 2008.88
+        },
+        {
+            "description": "Exclusive contextually-based analyzer",
+            "quantity": 4,
+            "unit_price": 355.96,
+            "total_price": 1423.84
+        },
+        {
+            "description": "Cloned encompassing website",
+            "quantity": 7,
+            "unit_price": 267.0,
+            "total_price": 1869.0
+        }
+    ],
+    "amount": 5301.72
+}

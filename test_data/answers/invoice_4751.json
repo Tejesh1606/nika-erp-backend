@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Quinn-Ramos",
+    "invoice_number": "INV-38788",
+    "date": "2026-01-27",
+    "items": [
+        {
+            "description": "Focused radical encryption",
+            "quantity": 5,
+            "unit_price": 215.38,
+            "total_price": 1076.9
+        }
+    ],
+    "amount": 1076.9
+}

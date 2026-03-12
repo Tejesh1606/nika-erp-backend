@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Patterson-Rogers",
+    "invoice_number": "INV-35738",
+    "date": "2025-09-19",
+    "items": [
+        {
+            "description": "Networked object-oriented extranet",
+            "quantity": 10,
+            "unit_price": 310.78,
+            "total_price": 3107.8
+        }
+    ],
+    "amount": 3107.8
+}

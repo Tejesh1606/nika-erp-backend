@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mcpherson-Delacruz",
+    "invoice_number": "INV-40759",
+    "date": "2026-02-04",
+    "items": [
+        {
+            "description": "Integrated 24hour info-mediaries",
+            "quantity": 4,
+            "unit_price": 463.09,
+            "total_price": 1852.36
+        },
+        {
+            "description": "Self-enabling cohesive approach",
+            "quantity": 4,
+            "unit_price": 388.75,
+            "total_price": 1555.0
+        },
+        {
+            "description": "Customer-focused incremental interface",
+            "quantity": 5,
+            "unit_price": 70.89,
+            "total_price": 354.45
+        },
+        {
+            "description": "Ergonomic dynamic flexibility",
+            "quantity": 5,
+            "unit_price": 400.16,
+            "total_price": 2000.8
+        }
+    ],
+    "amount": 5762.61
+}

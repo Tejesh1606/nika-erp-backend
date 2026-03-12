@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Zimmerman, Stewart and Brandt",
+    "invoice_number": "INV-32301",
+    "date": "2025-08-06",
+    "items": [
+        {
+            "description": "User-friendly clear-thinking attitude",
+            "quantity": 8,
+            "unit_price": 19.8,
+            "total_price": 158.4
+        }
+    ],
+    "amount": 158.4
+}

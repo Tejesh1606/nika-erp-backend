@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bennett PLC",
+    "invoice_number": "INV-29181",
+    "date": "2025-05-29",
+    "items": [
+        {
+            "description": "Vision-oriented client-server Graphic Interface",
+            "quantity": 6,
+            "unit_price": 91.55,
+            "total_price": 549.3
+        },
+        {
+            "description": "Organized user-facing complexity",
+            "quantity": 10,
+            "unit_price": 193.08,
+            "total_price": 1930.8
+        }
+    ],
+    "amount": 2480.1
+}

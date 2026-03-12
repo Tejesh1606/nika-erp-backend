@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Savage-Ward",
+    "invoice_number": "INV-22764",
+    "date": "2025-05-01",
+    "items": [
+        {
+            "description": "Vision-oriented systematic time-frame",
+            "quantity": 10,
+            "unit_price": 226.85,
+            "total_price": 2268.5
+        },
+        {
+            "description": "Up-sized directional groupware",
+            "quantity": 7,
+            "unit_price": 470.83,
+            "total_price": 3295.81
+        },
+        {
+            "description": "Business-focused intangible infrastructure",
+            "quantity": 3,
+            "unit_price": 206.83,
+            "total_price": 620.49
+        }
+    ],
+    "amount": 6184.8
+}

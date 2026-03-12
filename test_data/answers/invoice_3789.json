@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Anderson Group",
+    "invoice_number": "INV-20102",
+    "date": "2025-10-30",
+    "items": [
+        {
+            "description": "Virtual analyzing service-desk",
+            "quantity": 4,
+            "unit_price": 18.85,
+            "total_price": 75.4
+        }
+    ],
+    "amount": 75.4
+}

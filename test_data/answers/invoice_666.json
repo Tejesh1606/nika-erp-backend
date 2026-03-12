@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bauer, Martin and Wilson",
+    "invoice_number": "INV-51500",
+    "date": "2025-10-18",
+    "items": [
+        {
+            "description": "De-engineered leadingedge firmware",
+            "quantity": 4,
+            "unit_price": 30.79,
+            "total_price": 123.16
+        },
+        {
+            "description": "Multi-layered contextually-based database",
+            "quantity": 6,
+            "unit_price": 144.97,
+            "total_price": 869.82
+        }
+    ],
+    "amount": 992.98
+}

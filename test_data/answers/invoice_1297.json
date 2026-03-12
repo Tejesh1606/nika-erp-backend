@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Juarez and Sons",
+    "invoice_number": "INV-78390",
+    "date": "2025-06-29",
+    "items": [
+        {
+            "description": "Assimilated directional hub",
+            "quantity": 7,
+            "unit_price": 410.27,
+            "total_price": 2871.89
+        },
+        {
+            "description": "Re-contextualized high-level structure",
+            "quantity": 2,
+            "unit_price": 461.17,
+            "total_price": 922.34
+        }
+    ],
+    "amount": 3794.23
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Richardson, Sanchez and Macdonald",
+    "invoice_number": "INV-32738",
+    "date": "2025-05-22",
+    "items": [
+        {
+            "description": "Streamlined clear-thinking website",
+            "quantity": 6,
+            "unit_price": 103.67,
+            "total_price": 622.02
+        },
+        {
+            "description": "Organized modular project",
+            "quantity": 1,
+            "unit_price": 455.27,
+            "total_price": 455.27
+        }
+    ],
+    "amount": 1077.29
+}

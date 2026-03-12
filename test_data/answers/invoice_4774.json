@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Davis, Brown and Cooper",
+    "invoice_number": "INV-61210",
+    "date": "2025-06-22",
+    "items": [
+        {
+            "description": "Persistent scalable service-desk",
+            "quantity": 10,
+            "unit_price": 81.9,
+            "total_price": 819.0
+        },
+        {
+            "description": "Optimized user-facing groupware",
+            "quantity": 9,
+            "unit_price": 376.41,
+            "total_price": 3387.69
+        },
+        {
+            "description": "Quality-focused responsive hub",
+            "quantity": 1,
+            "unit_price": 481.27,
+            "total_price": 481.27
+        },
+        {
+            "description": "Persevering web-enabled hierarchy",
+            "quantity": 10,
+            "unit_price": 60.37,
+            "total_price": 603.7
+        }
+    ],
+    "amount": 5291.66
+}

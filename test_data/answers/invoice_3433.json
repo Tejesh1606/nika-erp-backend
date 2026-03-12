@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hernandez-Carey",
+    "invoice_number": "INV-61154",
+    "date": "2026-01-25",
+    "items": [
+        {
+            "description": "Automated 24hour model",
+            "quantity": 10,
+            "unit_price": 271.32,
+            "total_price": 2713.2
+        },
+        {
+            "description": "Inverse value-added model",
+            "quantity": 5,
+            "unit_price": 496.69,
+            "total_price": 2483.45
+        },
+        {
+            "description": "Secured fault-tolerant policy",
+            "quantity": 4,
+            "unit_price": 119.61,
+            "total_price": 478.44
+        }
+    ],
+    "amount": 5675.09
+}

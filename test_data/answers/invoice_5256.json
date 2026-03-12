@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Rivera Ltd",
+    "invoice_number": "INV-21911",
+    "date": "2025-09-18",
+    "items": [
+        {
+            "description": "Face-to-face directional encryption",
+            "quantity": 2,
+            "unit_price": 248.48,
+            "total_price": 496.96
+        },
+        {
+            "description": "Monitored multi-state budgetary management",
+            "quantity": 6,
+            "unit_price": 52.58,
+            "total_price": 315.48
+        },
+        {
+            "description": "Focused incremental middleware",
+            "quantity": 4,
+            "unit_price": 470.33,
+            "total_price": 1881.32
+        }
+    ],
+    "amount": 2693.76
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Watson, Carson and Perry",
+    "invoice_number": "INV-94133",
+    "date": "2025-08-21",
+    "items": [
+        {
+            "description": "Horizontal client-server algorithm",
+            "quantity": 9,
+            "unit_price": 290.26,
+            "total_price": 2612.34
+        }
+    ],
+    "amount": 2612.34
+}

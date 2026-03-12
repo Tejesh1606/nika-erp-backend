@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Alexander-Rodriguez",
+    "invoice_number": "INV-84951",
+    "date": "2025-09-22",
+    "items": [
+        {
+            "description": "Total even-keeled installation",
+            "quantity": 5,
+            "unit_price": 320.84,
+            "total_price": 1604.2
+        },
+        {
+            "description": "Assimilated heuristic core",
+            "quantity": 7,
+            "unit_price": 375.5,
+            "total_price": 2628.5
+        }
+    ],
+    "amount": 4232.7
+}

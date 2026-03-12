@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Dickson-Gonzalez",
+    "invoice_number": "INV-72850",
+    "date": "2025-10-19",
+    "items": [
+        {
+            "description": "Digitized coherent utilization",
+            "quantity": 3,
+            "unit_price": 216.85,
+            "total_price": 650.55
+        },
+        {
+            "description": "Team-oriented intermediate concept",
+            "quantity": 9,
+            "unit_price": 210.94,
+            "total_price": 1898.46
+        },
+        {
+            "description": "Profit-focused bifurcated pricing structure",
+            "quantity": 2,
+            "unit_price": 83.23,
+            "total_price": 166.46
+        }
+    ],
+    "amount": 2715.47
+}

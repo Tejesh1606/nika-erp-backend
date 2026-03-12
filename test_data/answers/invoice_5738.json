@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Paul, Reynolds and Evans",
+    "invoice_number": "INV-80367",
+    "date": "2025-08-17",
+    "items": [
+        {
+            "description": "Multi-tiered maximized infrastructure",
+            "quantity": 3,
+            "unit_price": 325.28,
+            "total_price": 975.84
+        },
+        {
+            "description": "Visionary scalable protocol",
+            "quantity": 7,
+            "unit_price": 17.73,
+            "total_price": 124.11
+        },
+        {
+            "description": "Upgradable transitional extranet",
+            "quantity": 9,
+            "unit_price": 183.0,
+            "total_price": 1647.0
+        },
+        {
+            "description": "Open-source reciprocal capability",
+            "quantity": 7,
+            "unit_price": 385.13,
+            "total_price": 2695.91
+        }
+    ],
+    "amount": 5442.86
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Rivera-Cunningham",
+    "invoice_number": "INV-85701",
+    "date": "2025-10-11",
+    "items": [
+        {
+            "description": "Optional demand-driven contingency",
+            "quantity": 9,
+            "unit_price": 245.13,
+            "total_price": 2206.17
+        }
+    ],
+    "amount": 2206.17
+}

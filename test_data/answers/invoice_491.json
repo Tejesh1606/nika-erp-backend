@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hubbard, Miller and Baker",
+    "invoice_number": "INV-30352",
+    "date": "2025-04-10",
+    "items": [
+        {
+            "description": "Streamlined human-resource function",
+            "quantity": 7,
+            "unit_price": 209.04,
+            "total_price": 1463.28
+        },
+        {
+            "description": "Focused dynamic support",
+            "quantity": 5,
+            "unit_price": 296.44,
+            "total_price": 1482.2
+        },
+        {
+            "description": "Horizontal leadingedge product",
+            "quantity": 1,
+            "unit_price": 195.56,
+            "total_price": 195.56
+        },
+        {
+            "description": "De-engineered clear-thinking moderator",
+            "quantity": 10,
+            "unit_price": 175.87,
+            "total_price": 1758.7
+        }
+    ],
+    "amount": 4899.74
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gregory, Patterson and Thomas",
+    "invoice_number": "INV-86490",
+    "date": "2025-07-26",
+    "items": [
+        {
+            "description": "Up-sized reciprocal array",
+            "quantity": 2,
+            "unit_price": 82.39,
+            "total_price": 164.78
+        },
+        {
+            "description": "Upgradable 24hour emulation",
+            "quantity": 8,
+            "unit_price": 374.64,
+            "total_price": 2997.12
+        },
+        {
+            "description": "Progressive full-range contingency",
+            "quantity": 9,
+            "unit_price": 295.86,
+            "total_price": 2662.74
+        },
+        {
+            "description": "Integrated client-server leverage",
+            "quantity": 2,
+            "unit_price": 358.84,
+            "total_price": 717.68
+        }
+    ],
+    "amount": 6542.32
+}

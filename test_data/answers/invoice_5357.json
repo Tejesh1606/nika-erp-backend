@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Fox, Reyes and Gonzalez",
+    "invoice_number": "INV-31621",
+    "date": "2026-02-10",
+    "items": [
+        {
+            "description": "Object-based leadingedge instruction set",
+            "quantity": 8,
+            "unit_price": 435.17,
+            "total_price": 3481.36
+        },
+        {
+            "description": "User-centric directional solution",
+            "quantity": 10,
+            "unit_price": 85.11,
+            "total_price": 851.1
+        },
+        {
+            "description": "Stand-alone bandwidth-monitored array",
+            "quantity": 2,
+            "unit_price": 494.75,
+            "total_price": 989.5
+        },
+        {
+            "description": "Integrated dynamic artificial intelligence",
+            "quantity": 4,
+            "unit_price": 148.51,
+            "total_price": 594.04
+        }
+    ],
+    "amount": 5916.0
+}

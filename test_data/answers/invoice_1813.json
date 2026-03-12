@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Branch Inc",
+    "invoice_number": "INV-65372",
+    "date": "2025-04-25",
+    "items": [
+        {
+            "description": "Multi-lateral reciprocal complexity",
+            "quantity": 4,
+            "unit_price": 452.15,
+            "total_price": 1808.6
+        },
+        {
+            "description": "Polarized discrete open architecture",
+            "quantity": 9,
+            "unit_price": 117.59,
+            "total_price": 1058.31
+        },
+        {
+            "description": "Proactive even-keeled approach",
+            "quantity": 3,
+            "unit_price": 173.56,
+            "total_price": 520.68
+        }
+    ],
+    "amount": 3387.59
+}

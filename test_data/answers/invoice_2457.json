@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mcclure-Spencer",
+    "invoice_number": "INV-35533",
+    "date": "2026-02-14",
+    "items": [
+        {
+            "description": "Inverse transitional portal",
+            "quantity": 8,
+            "unit_price": 135.06,
+            "total_price": 1080.48
+        },
+        {
+            "description": "Proactive empowering product",
+            "quantity": 8,
+            "unit_price": 317.62,
+            "total_price": 2540.96
+        }
+    ],
+    "amount": 3621.44
+}

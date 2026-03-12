@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lozano, Black and Lee",
+    "invoice_number": "INV-78378",
+    "date": "2025-08-19",
+    "items": [
+        {
+            "description": "Future-proofed multi-tasking system engine",
+            "quantity": 6,
+            "unit_price": 177.51,
+            "total_price": 1065.06
+        },
+        {
+            "description": "Quality-focused content-based implementation",
+            "quantity": 8,
+            "unit_price": 142.68,
+            "total_price": 1141.44
+        },
+        {
+            "description": "Devolved incremental parallelism",
+            "quantity": 9,
+            "unit_price": 256.46,
+            "total_price": 2308.14
+        }
+    ],
+    "amount": 4514.64
+}

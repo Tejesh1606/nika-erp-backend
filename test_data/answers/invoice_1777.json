@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Schultz, Peters and White",
+    "invoice_number": "INV-23155",
+    "date": "2025-06-27",
+    "items": [
+        {
+            "description": "Innovative executive model",
+            "quantity": 5,
+            "unit_price": 81.82,
+            "total_price": 409.1
+        },
+        {
+            "description": "Progressive reciprocal info-mediaries",
+            "quantity": 6,
+            "unit_price": 375.02,
+            "total_price": 2250.12
+        },
+        {
+            "description": "Networked optimizing process improvement",
+            "quantity": 9,
+            "unit_price": 37.42,
+            "total_price": 336.78
+        },
+        {
+            "description": "Universal mobile circuit",
+            "quantity": 3,
+            "unit_price": 103.79,
+            "total_price": 311.37
+        }
+    ],
+    "amount": 3307.37
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Fuller LLC",
+    "invoice_number": "INV-71944",
+    "date": "2026-02-18",
+    "items": [
+        {
+            "description": "Synergized responsive adapter",
+            "quantity": 5,
+            "unit_price": 244.39,
+            "total_price": 1221.95
+        },
+        {
+            "description": "Diverse tangible extranet",
+            "quantity": 1,
+            "unit_price": 152.78,
+            "total_price": 152.78
+        },
+        {
+            "description": "Assimilated reciprocal encryption",
+            "quantity": 4,
+            "unit_price": 191.55,
+            "total_price": 766.2
+        }
+    ],
+    "amount": 2140.93
+}

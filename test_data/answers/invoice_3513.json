@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Carson, Martin and Sanchez",
+    "invoice_number": "INV-62369",
+    "date": "2025-07-23",
+    "items": [
+        {
+            "description": "Fundamental 24hour encryption",
+            "quantity": 3,
+            "unit_price": 14.94,
+            "total_price": 44.82
+        },
+        {
+            "description": "Assimilated leadingedge policy",
+            "quantity": 1,
+            "unit_price": 108.65,
+            "total_price": 108.65
+        },
+        {
+            "description": "Stand-alone optimizing capability",
+            "quantity": 7,
+            "unit_price": 443.94,
+            "total_price": 3107.58
+        }
+    ],
+    "amount": 3261.05
+}

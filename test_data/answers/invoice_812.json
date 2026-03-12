@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Price-Flores",
+    "invoice_number": "INV-64109",
+    "date": "2026-02-18",
+    "items": [
+        {
+            "description": "Inverse empowering implementation",
+            "quantity": 4,
+            "unit_price": 72.29,
+            "total_price": 289.16
+        }
+    ],
+    "amount": 289.16
+}

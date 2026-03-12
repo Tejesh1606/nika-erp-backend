@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Howard, Brown and Ferguson",
+    "invoice_number": "INV-38551",
+    "date": "2025-08-22",
+    "items": [
+        {
+            "description": "Extended modular flexibility",
+            "quantity": 10,
+            "unit_price": 106.97,
+            "total_price": 1069.7
+        }
+    ],
+    "amount": 1069.7
+}

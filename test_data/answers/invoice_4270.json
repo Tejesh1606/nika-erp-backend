@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Webster-Lane",
+    "invoice_number": "INV-35560",
+    "date": "2025-11-04",
+    "items": [
+        {
+            "description": "Advanced real-time collaboration",
+            "quantity": 6,
+            "unit_price": 375.66,
+            "total_price": 2253.96
+        }
+    ],
+    "amount": 2253.96
+}

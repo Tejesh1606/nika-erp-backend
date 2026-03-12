@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Evans, Camacho and Wright",
+    "invoice_number": "INV-46082",
+    "date": "2025-11-27",
+    "items": [
+        {
+            "description": "Realigned motivating function",
+            "quantity": 7,
+            "unit_price": 148.99,
+            "total_price": 1042.93
+        }
+    ],
+    "amount": 1042.93
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hicks Group",
+    "invoice_number": "INV-60780",
+    "date": "2026-03-07",
+    "items": [
+        {
+            "description": "Monitored tangible toolset",
+            "quantity": 4,
+            "unit_price": 485.99,
+            "total_price": 1943.96
+        },
+        {
+            "description": "Open-architected coherent capacity",
+            "quantity": 10,
+            "unit_price": 497.25,
+            "total_price": 4972.5
+        },
+        {
+            "description": "Grass-roots asynchronous process improvement",
+            "quantity": 4,
+            "unit_price": 92.61,
+            "total_price": 370.44
+        }
+    ],
+    "amount": 7286.9
+}

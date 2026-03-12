@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Reed Ltd",
+    "invoice_number": "INV-84196",
+    "date": "2025-05-07",
+    "items": [
+        {
+            "description": "Universal static software",
+            "quantity": 8,
+            "unit_price": 331.73,
+            "total_price": 2653.84
+        },
+        {
+            "description": "Self-enabling contextually-based conglomeration",
+            "quantity": 9,
+            "unit_price": 358.84,
+            "total_price": 3229.56
+        },
+        {
+            "description": "Upgradable heuristic initiative",
+            "quantity": 2,
+            "unit_price": 139.38,
+            "total_price": 278.76
+        }
+    ],
+    "amount": 6162.16
+}

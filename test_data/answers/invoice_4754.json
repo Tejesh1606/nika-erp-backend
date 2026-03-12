@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Olson-Barber",
+    "invoice_number": "INV-76812",
+    "date": "2025-06-11",
+    "items": [
+        {
+            "description": "Robust local model",
+            "quantity": 5,
+            "unit_price": 182.99,
+            "total_price": 914.95
+        }
+    ],
+    "amount": 914.95
+}

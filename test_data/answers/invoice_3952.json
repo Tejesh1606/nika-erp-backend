@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lawson-Jones",
+    "invoice_number": "INV-26863",
+    "date": "2025-04-09",
+    "items": [
+        {
+            "description": "Digitized secondary strategy",
+            "quantity": 9,
+            "unit_price": 407.19,
+            "total_price": 3664.71
+        },
+        {
+            "description": "Optimized non-volatile knowledge user",
+            "quantity": 4,
+            "unit_price": 367.06,
+            "total_price": 1468.24
+        },
+        {
+            "description": "User-centric fault-tolerant open architecture",
+            "quantity": 7,
+            "unit_price": 383.2,
+            "total_price": 2682.4
+        }
+    ],
+    "amount": 7815.35
+}

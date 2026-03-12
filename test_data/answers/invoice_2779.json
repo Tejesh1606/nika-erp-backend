@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Nelson PLC",
+    "invoice_number": "INV-36963",
+    "date": "2025-06-23",
+    "items": [
+        {
+            "description": "Open-source systemic solution",
+            "quantity": 5,
+            "unit_price": 257.72,
+            "total_price": 1288.6
+        }
+    ],
+    "amount": 1288.6
+}

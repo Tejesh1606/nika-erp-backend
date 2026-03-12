@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Silva-Morse",
+    "invoice_number": "INV-24354",
+    "date": "2025-09-10",
+    "items": [
+        {
+            "description": "User-centric tangible complexity",
+            "quantity": 7,
+            "unit_price": 457.06,
+            "total_price": 3199.42
+        },
+        {
+            "description": "Ergonomic asymmetric process improvement",
+            "quantity": 7,
+            "unit_price": 464.4,
+            "total_price": 3250.8
+        }
+    ],
+    "amount": 6450.22
+}

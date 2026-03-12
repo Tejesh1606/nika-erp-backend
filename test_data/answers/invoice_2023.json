@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Duran and Sons",
+    "invoice_number": "INV-36201",
+    "date": "2025-08-04",
+    "items": [
+        {
+            "description": "Automated bandwidth-monitored access",
+            "quantity": 8,
+            "unit_price": 344.39,
+            "total_price": 2755.12
+        },
+        {
+            "description": "Pre-emptive bottom-line collaboration",
+            "quantity": 3,
+            "unit_price": 355.73,
+            "total_price": 1067.19
+        }
+    ],
+    "amount": 3822.31
+}

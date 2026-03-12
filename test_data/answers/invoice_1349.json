@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Rodriguez Group",
+    "invoice_number": "INV-70874",
+    "date": "2025-08-17",
+    "items": [
+        {
+            "description": "Public-key leadingedge challenge",
+            "quantity": 4,
+            "unit_price": 402.22,
+            "total_price": 1608.88
+        },
+        {
+            "description": "Robust scalable ability",
+            "quantity": 4,
+            "unit_price": 383.84,
+            "total_price": 1535.36
+        },
+        {
+            "description": "Integrated methodical leverage",
+            "quantity": 8,
+            "unit_price": 378.41,
+            "total_price": 3027.28
+        }
+    ],
+    "amount": 6171.52
+}

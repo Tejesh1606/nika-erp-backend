@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jordan-Lopez",
+    "invoice_number": "INV-72549",
+    "date": "2026-01-27",
+    "items": [
+        {
+            "description": "Horizontal secondary analyzer",
+            "quantity": 8,
+            "unit_price": 408.51,
+            "total_price": 3268.08
+        },
+        {
+            "description": "Ameliorated transitional emulation",
+            "quantity": 5,
+            "unit_price": 438.75,
+            "total_price": 2193.75
+        },
+        {
+            "description": "Seamless asynchronous application",
+            "quantity": 10,
+            "unit_price": 10.36,
+            "total_price": 103.6
+        }
+    ],
+    "amount": 5565.43
+}

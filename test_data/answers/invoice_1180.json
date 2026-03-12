@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Franklin, Rodriguez and Bowen",
+    "invoice_number": "INV-19666",
+    "date": "2025-12-20",
+    "items": [
+        {
+            "description": "Multi-channeled local installation",
+            "quantity": 6,
+            "unit_price": 391.08,
+            "total_price": 2346.48
+        },
+        {
+            "description": "Self-enabling local support",
+            "quantity": 3,
+            "unit_price": 323.85,
+            "total_price": 971.55
+        },
+        {
+            "description": "Optional explicit system engine",
+            "quantity": 5,
+            "unit_price": 349.07,
+            "total_price": 1745.35
+        },
+        {
+            "description": "Polarized tangible challenge",
+            "quantity": 6,
+            "unit_price": 453.72,
+            "total_price": 2722.32
+        }
+    ],
+    "amount": 7785.7
+}

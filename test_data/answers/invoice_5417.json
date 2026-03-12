@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Oconnor, Kelly and Haynes",
+    "invoice_number": "INV-72533",
+    "date": "2025-04-11",
+    "items": [
+        {
+            "description": "Cross-platform explicit policy",
+            "quantity": 5,
+            "unit_price": 406.94,
+            "total_price": 2034.7
+        },
+        {
+            "description": "Cross-group logistical portal",
+            "quantity": 1,
+            "unit_price": 486.68,
+            "total_price": 486.68
+        }
+    ],
+    "amount": 2521.38
+}

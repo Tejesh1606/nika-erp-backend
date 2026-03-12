@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Moore Ltd",
+    "invoice_number": "INV-77967",
+    "date": "2026-01-25",
+    "items": [
+        {
+            "description": "Team-oriented value-added synergy",
+            "quantity": 4,
+            "unit_price": 252.3,
+            "total_price": 1009.2
+        },
+        {
+            "description": "Assimilated attitude-oriented concept",
+            "quantity": 3,
+            "unit_price": 374.06,
+            "total_price": 1122.18
+        }
+    ],
+    "amount": 2131.38
+}

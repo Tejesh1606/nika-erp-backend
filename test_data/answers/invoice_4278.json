@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Sanchez, Vasquez and Williams",
+    "invoice_number": "INV-75509",
+    "date": "2025-12-24",
+    "items": [
+        {
+            "description": "Persistent 5thgeneration pricing structure",
+            "quantity": 6,
+            "unit_price": 459.4,
+            "total_price": 2756.4
+        },
+        {
+            "description": "Reduced actuating superstructure",
+            "quantity": 2,
+            "unit_price": 227.36,
+            "total_price": 454.72
+        },
+        {
+            "description": "Ergonomic bifurcated intranet",
+            "quantity": 4,
+            "unit_price": 494.74,
+            "total_price": 1978.96
+        }
+    ],
+    "amount": 5190.08
+}

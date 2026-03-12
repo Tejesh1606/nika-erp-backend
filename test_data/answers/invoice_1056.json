@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Powell LLC",
+    "invoice_number": "INV-77800",
+    "date": "2025-05-09",
+    "items": [
+        {
+            "description": "Optional discrete attitude",
+            "quantity": 9,
+            "unit_price": 425.95,
+            "total_price": 3833.55
+        }
+    ],
+    "amount": 3833.55
+}

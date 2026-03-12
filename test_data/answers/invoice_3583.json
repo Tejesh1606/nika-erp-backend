@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Myers-Diaz",
+    "invoice_number": "INV-42481",
+    "date": "2025-06-04",
+    "items": [
+        {
+            "description": "Operative dedicated task-force",
+            "quantity": 8,
+            "unit_price": 46.12,
+            "total_price": 368.96
+        },
+        {
+            "description": "Front-line 24hour functionalities",
+            "quantity": 10,
+            "unit_price": 391.3,
+            "total_price": 3913.0
+        },
+        {
+            "description": "Polarized tertiary throughput",
+            "quantity": 1,
+            "unit_price": 89.1,
+            "total_price": 89.1
+        },
+        {
+            "description": "Multi-layered tangible framework",
+            "quantity": 6,
+            "unit_price": 130.8,
+            "total_price": 784.8
+        }
+    ],
+    "amount": 5155.86
+}

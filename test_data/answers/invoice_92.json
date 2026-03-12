@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Baird-Sanchez",
+    "invoice_number": "INV-82255",
+    "date": "2025-05-04",
+    "items": [
+        {
+            "description": "Networked content-based policy",
+            "quantity": 2,
+            "unit_price": 433.78,
+            "total_price": 867.56
+        },
+        {
+            "description": "Profound value-added challenge",
+            "quantity": 2,
+            "unit_price": 71.83,
+            "total_price": 143.66
+        },
+        {
+            "description": "Cloned even-keeled throughput",
+            "quantity": 5,
+            "unit_price": 57.21,
+            "total_price": 286.05
+        },
+        {
+            "description": "Operative global toolset",
+            "quantity": 2,
+            "unit_price": 165.05,
+            "total_price": 330.1
+        }
+    ],
+    "amount": 1627.37
+}

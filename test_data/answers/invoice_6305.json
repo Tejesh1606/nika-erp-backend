@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Anderson, Daugherty and Fox",
+    "invoice_number": "INV-90936",
+    "date": "2025-03-16",
+    "items": [
+        {
+            "description": "Enterprise-wide 24hour utilization",
+            "quantity": 6,
+            "unit_price": 139.99,
+            "total_price": 839.94
+        }
+    ],
+    "amount": 839.94
+}

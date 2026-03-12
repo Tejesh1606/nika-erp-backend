@@ -1,0 +1,14 @@
+{
+    "vendor_name": "White and Sons",
+    "invoice_number": "INV-24405",
+    "date": "2025-05-19",
+    "items": [
+        {
+            "description": "Visionary zero-defect definition",
+            "quantity": 2,
+            "unit_price": 234.41,
+            "total_price": 468.82
+        }
+    ],
+    "amount": 468.82
+}

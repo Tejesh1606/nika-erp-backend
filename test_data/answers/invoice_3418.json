@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Keith Ltd",
+    "invoice_number": "INV-60712",
+    "date": "2025-11-09",
+    "items": [
+        {
+            "description": "Customer-focused object-oriented task-force",
+            "quantity": 9,
+            "unit_price": 16.93,
+            "total_price": 152.37
+        },
+        {
+            "description": "Open-architected neutral application",
+            "quantity": 3,
+            "unit_price": 108.16,
+            "total_price": 324.48
+        },
+        {
+            "description": "Horizontal heuristic algorithm",
+            "quantity": 2,
+            "unit_price": 428.25,
+            "total_price": 856.5
+        }
+    ],
+    "amount": 1333.35
+}

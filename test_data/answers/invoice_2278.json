@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wang, Orozco and Moore",
+    "invoice_number": "INV-37771",
+    "date": "2025-12-06",
+    "items": [
+        {
+            "description": "User-friendly system-worthy budgetary management",
+            "quantity": 6,
+            "unit_price": 487.34,
+            "total_price": 2924.04
+        },
+        {
+            "description": "Secured national definition",
+            "quantity": 8,
+            "unit_price": 419.08,
+            "total_price": 3352.64
+        },
+        {
+            "description": "Re-engineered client-driven forecast",
+            "quantity": 1,
+            "unit_price": 80.16,
+            "total_price": 80.16
+        },
+        {
+            "description": "Quality-focused explicit middleware",
+            "quantity": 2,
+            "unit_price": 256.59,
+            "total_price": 513.18
+        }
+    ],
+    "amount": 6870.02
+}

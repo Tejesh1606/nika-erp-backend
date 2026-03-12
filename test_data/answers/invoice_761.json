@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Austin-Hamilton",
+    "invoice_number": "INV-65838",
+    "date": "2025-04-14",
+    "items": [
+        {
+            "description": "Balanced multimedia Graphical User Interface",
+            "quantity": 4,
+            "unit_price": 193.19,
+            "total_price": 772.76
+        },
+        {
+            "description": "Persistent systematic definition",
+            "quantity": 7,
+            "unit_price": 213.15,
+            "total_price": 1492.05
+        },
+        {
+            "description": "Stand-alone systemic structure",
+            "quantity": 7,
+            "unit_price": 277.26,
+            "total_price": 1940.82
+        },
+        {
+            "description": "Distributed modular moderator",
+            "quantity": 9,
+            "unit_price": 343.13,
+            "total_price": 3088.17
+        }
+    ],
+    "amount": 7293.8
+}

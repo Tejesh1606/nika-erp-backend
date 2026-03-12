@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Haas, Smith and Love",
+    "invoice_number": "INV-42895",
+    "date": "2025-06-21",
+    "items": [
+        {
+            "description": "Digitized solution-oriented workforce",
+            "quantity": 6,
+            "unit_price": 392.16,
+            "total_price": 2352.96
+        },
+        {
+            "description": "Balanced discrete array",
+            "quantity": 9,
+            "unit_price": 340.89,
+            "total_price": 3068.01
+        },
+        {
+            "description": "Multi-channeled multi-tasking policy",
+            "quantity": 9,
+            "unit_price": 315.6,
+            "total_price": 2840.4
+        },
+        {
+            "description": "Virtual client-driven groupware",
+            "quantity": 6,
+            "unit_price": 461.95,
+            "total_price": 2771.7
+        }
+    ],
+    "amount": 11033.07
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Edwards, Young and Thomas",
+    "invoice_number": "INV-58066",
+    "date": "2025-07-31",
+    "items": [
+        {
+            "description": "Monitored neutral adapter",
+            "quantity": 7,
+            "unit_price": 395.5,
+            "total_price": 2768.5
+        }
+    ],
+    "amount": 2768.5
+}

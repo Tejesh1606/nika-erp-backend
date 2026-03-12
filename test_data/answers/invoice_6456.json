@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Perez, Peters and Wood",
+    "invoice_number": "INV-48998",
+    "date": "2025-04-15",
+    "items": [
+        {
+            "description": "Quality-focused zero tolerance hub",
+            "quantity": 9,
+            "unit_price": 258.12,
+            "total_price": 2323.08
+        },
+        {
+            "description": "Secured exuding approach",
+            "quantity": 3,
+            "unit_price": 164.47,
+            "total_price": 493.41
+        },
+        {
+            "description": "Centralized fault-tolerant migration",
+            "quantity": 5,
+            "unit_price": 36.3,
+            "total_price": 181.5
+        },
+        {
+            "description": "Robust impactful groupware",
+            "quantity": 9,
+            "unit_price": 254.1,
+            "total_price": 2286.9
+        }
+    ],
+    "amount": 5284.89
+}

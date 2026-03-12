@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hickman LLC",
+    "invoice_number": "INV-41385",
+    "date": "2025-03-31",
+    "items": [
+        {
+            "description": "Front-line non-volatile artificial intelligence",
+            "quantity": 8,
+            "unit_price": 332.43,
+            "total_price": 2659.44
+        },
+        {
+            "description": "Configurable upward-trending matrix",
+            "quantity": 1,
+            "unit_price": 43.48,
+            "total_price": 43.48
+        },
+        {
+            "description": "Cloned well-modulated monitoring",
+            "quantity": 4,
+            "unit_price": 358.84,
+            "total_price": 1435.36
+        },
+        {
+            "description": "Visionary clear-thinking capacity",
+            "quantity": 4,
+            "unit_price": 276.49,
+            "total_price": 1105.96
+        }
+    ],
+    "amount": 5244.24
+}

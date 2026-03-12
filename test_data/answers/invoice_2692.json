@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Grimes, Kirk and Clements",
+    "invoice_number": "INV-72274",
+    "date": "2025-09-07",
+    "items": [
+        {
+            "description": "Persevering value-added system engine",
+            "quantity": 9,
+            "unit_price": 413.03,
+            "total_price": 3717.27
+        },
+        {
+            "description": "Customizable bottom-line task-force",
+            "quantity": 3,
+            "unit_price": 446.76,
+            "total_price": 1340.28
+        }
+    ],
+    "amount": 5057.55
+}

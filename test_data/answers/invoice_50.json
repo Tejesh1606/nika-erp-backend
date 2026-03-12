@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bryant Group",
+    "invoice_number": "INV-97500",
+    "date": "2025-10-01",
+    "items": [
+        {
+            "description": "Realigned radical functionalities",
+            "quantity": 9,
+            "unit_price": 119.39,
+            "total_price": 1074.51
+        },
+        {
+            "description": "Versatile leadingedge pricing structure",
+            "quantity": 5,
+            "unit_price": 150.91,
+            "total_price": 754.55
+        },
+        {
+            "description": "Up-sized motivating interface",
+            "quantity": 4,
+            "unit_price": 434.71,
+            "total_price": 1738.84
+        }
+    ],
+    "amount": 3567.9
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Stanley, Davis and Reeves",
+    "invoice_number": "INV-82342",
+    "date": "2025-04-20",
+    "items": [
+        {
+            "description": "Virtual high-level firmware",
+            "quantity": 6,
+            "unit_price": 457.44,
+            "total_price": 2744.64
+        }
+    ],
+    "amount": 2744.64
+}

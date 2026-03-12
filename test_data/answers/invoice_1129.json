@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Stevens-Trevino",
+    "invoice_number": "INV-28355",
+    "date": "2025-06-25",
+    "items": [
+        {
+            "description": "Virtual stable framework",
+            "quantity": 9,
+            "unit_price": 61.02,
+            "total_price": 549.18
+        },
+        {
+            "description": "Object-based asymmetric project",
+            "quantity": 6,
+            "unit_price": 124.59,
+            "total_price": 747.54
+        },
+        {
+            "description": "Polarized homogeneous leverage",
+            "quantity": 1,
+            "unit_price": 325.41,
+            "total_price": 325.41
+        },
+        {
+            "description": "Robust stable contingency",
+            "quantity": 3,
+            "unit_price": 352.49,
+            "total_price": 1057.47
+        }
+    ],
+    "amount": 2679.6
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Palmer, Meyer and Powell",
+    "invoice_number": "INV-91820",
+    "date": "2025-07-02",
+    "items": [
+        {
+            "description": "Quality-focused asynchronous solution",
+            "quantity": 7,
+            "unit_price": 352.81,
+            "total_price": 2469.67
+        }
+    ],
+    "amount": 2469.67
+}

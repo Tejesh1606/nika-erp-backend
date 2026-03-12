@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Tanner Ltd",
+    "invoice_number": "INV-36200",
+    "date": "2026-03-01",
+    "items": [
+        {
+            "description": "Expanded fresh-thinking contingency",
+            "quantity": 7,
+            "unit_price": 350.36,
+            "total_price": 2452.52
+        },
+        {
+            "description": "Adaptive intermediate concept",
+            "quantity": 6,
+            "unit_price": 438.07,
+            "total_price": 2628.42
+        }
+    ],
+    "amount": 5080.94
+}

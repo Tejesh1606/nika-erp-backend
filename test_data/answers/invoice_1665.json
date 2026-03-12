@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Copeland, Wallace and Stewart",
+    "invoice_number": "INV-89466",
+    "date": "2025-05-31",
+    "items": [
+        {
+            "description": "Upgradable zero administration adapter",
+            "quantity": 4,
+            "unit_price": 38.07,
+            "total_price": 152.28
+        },
+        {
+            "description": "Exclusive impactful frame",
+            "quantity": 1,
+            "unit_price": 448.98,
+            "total_price": 448.98
+        }
+    ],
+    "amount": 601.26
+}

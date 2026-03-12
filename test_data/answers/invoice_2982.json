@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Pierce PLC",
+    "invoice_number": "INV-69702",
+    "date": "2025-07-29",
+    "items": [
+        {
+            "description": "Grass-roots multimedia access",
+            "quantity": 1,
+            "unit_price": 348.49,
+            "total_price": 348.49
+        },
+        {
+            "description": "Digitized real-time emulation",
+            "quantity": 9,
+            "unit_price": 234.66,
+            "total_price": 2111.94
+        },
+        {
+            "description": "Exclusive zero administration hub",
+            "quantity": 8,
+            "unit_price": 372.76,
+            "total_price": 2982.08
+        },
+        {
+            "description": "Quality-focused discrete system engine",
+            "quantity": 4,
+            "unit_price": 94.75,
+            "total_price": 379.0
+        }
+    ],
+    "amount": 5821.51
+}

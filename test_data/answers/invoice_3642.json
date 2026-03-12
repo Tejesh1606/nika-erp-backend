@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson-Mejia",
+    "invoice_number": "INV-91143",
+    "date": "2026-02-28",
+    "items": [
+        {
+            "description": "Upgradable dedicated projection",
+            "quantity": 5,
+            "unit_price": 488.7,
+            "total_price": 2443.5
+        },
+        {
+            "description": "Sharable stable protocol",
+            "quantity": 3,
+            "unit_price": 356.02,
+            "total_price": 1068.06
+        },
+        {
+            "description": "Reverse-engineered web-enabled monitoring",
+            "quantity": 10,
+            "unit_price": 426.33,
+            "total_price": 4263.3
+        },
+        {
+            "description": "Proactive scalable strategy",
+            "quantity": 2,
+            "unit_price": 76.84,
+            "total_price": 153.68
+        }
+    ],
+    "amount": 7928.54
+}

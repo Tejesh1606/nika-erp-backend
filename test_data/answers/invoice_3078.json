@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Phillips-Riddle",
+    "invoice_number": "INV-76490",
+    "date": "2025-12-23",
+    "items": [
+        {
+            "description": "Up-sized 5thgeneration secured line",
+            "quantity": 6,
+            "unit_price": 310.29,
+            "total_price": 1861.74
+        },
+        {
+            "description": "Re-contextualized optimizing neural-net",
+            "quantity": 10,
+            "unit_price": 387.38,
+            "total_price": 3873.8
+        },
+        {
+            "description": "Expanded non-volatile methodology",
+            "quantity": 3,
+            "unit_price": 424.39,
+            "total_price": 1273.17
+        }
+    ],
+    "amount": 7008.71
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Underwood, Johnston and Hines",
+    "invoice_number": "INV-32962",
+    "date": "2025-09-07",
+    "items": [
+        {
+            "description": "Programmable solution-oriented intranet",
+            "quantity": 9,
+            "unit_price": 450.04,
+            "total_price": 4050.36
+        }
+    ],
+    "amount": 4050.36
+}

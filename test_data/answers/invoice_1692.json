@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Owens Ltd",
+    "invoice_number": "INV-18064",
+    "date": "2025-11-25",
+    "items": [
+        {
+            "description": "Team-oriented global alliance",
+            "quantity": 3,
+            "unit_price": 485.45,
+            "total_price": 1456.35
+        }
+    ],
+    "amount": 1456.35
+}

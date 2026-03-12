@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Shannon and Sons",
+    "invoice_number": "INV-44964",
+    "date": "2025-03-20",
+    "items": [
+        {
+            "description": "Phased stable moderator",
+            "quantity": 9,
+            "unit_price": 430.95,
+            "total_price": 3878.55
+        }
+    ],
+    "amount": 3878.55
+}

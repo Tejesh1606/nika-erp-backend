@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Nash Ltd",
+    "invoice_number": "INV-85771",
+    "date": "2026-01-28",
+    "items": [
+        {
+            "description": "Robust exuding groupware",
+            "quantity": 4,
+            "unit_price": 234.32,
+            "total_price": 937.28
+        }
+    ],
+    "amount": 937.28
+}

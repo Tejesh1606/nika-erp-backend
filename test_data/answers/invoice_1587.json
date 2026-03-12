@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jones, Edwards and Small",
+    "invoice_number": "INV-67098",
+    "date": "2025-08-13",
+    "items": [
+        {
+            "description": "Optional coherent instruction set",
+            "quantity": 7,
+            "unit_price": 454.9,
+            "total_price": 3184.3
+        }
+    ],
+    "amount": 3184.3
+}

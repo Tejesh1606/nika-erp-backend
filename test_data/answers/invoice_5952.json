@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Carney Ltd",
+    "invoice_number": "INV-72268",
+    "date": "2025-10-15",
+    "items": [
+        {
+            "description": "Optional bandwidth-monitored parallelism",
+            "quantity": 2,
+            "unit_price": 106.66,
+            "total_price": 213.32
+        },
+        {
+            "description": "Grass-roots clear-thinking core",
+            "quantity": 10,
+            "unit_price": 416.11,
+            "total_price": 4161.1
+        },
+        {
+            "description": "Vision-oriented motivating approach",
+            "quantity": 7,
+            "unit_price": 384.4,
+            "total_price": 2690.8
+        },
+        {
+            "description": "Enterprise-wide user-facing architecture",
+            "quantity": 6,
+            "unit_price": 12.44,
+            "total_price": 74.64
+        }
+    ],
+    "amount": 7139.86
+}

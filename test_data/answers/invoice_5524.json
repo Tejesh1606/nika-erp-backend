@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Murphy-Hampton",
+    "invoice_number": "INV-81124",
+    "date": "2025-09-13",
+    "items": [
+        {
+            "description": "Extended human-resource neural-net",
+            "quantity": 9,
+            "unit_price": 375.37,
+            "total_price": 3378.33
+        },
+        {
+            "description": "Automated maximized conglomeration",
+            "quantity": 6,
+            "unit_price": 138.01,
+            "total_price": 828.06
+        },
+        {
+            "description": "Right-sized hybrid interface",
+            "quantity": 9,
+            "unit_price": 12.61,
+            "total_price": 113.49
+        },
+        {
+            "description": "Up-sized asynchronous model",
+            "quantity": 5,
+            "unit_price": 71.53,
+            "total_price": 357.65
+        }
+    ],
+    "amount": 4677.53
+}

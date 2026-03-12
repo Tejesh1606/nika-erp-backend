@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Thomas-Wiggins",
+    "invoice_number": "INV-77652",
+    "date": "2025-11-26",
+    "items": [
+        {
+            "description": "De-engineered demand-driven success",
+            "quantity": 4,
+            "unit_price": 321.9,
+            "total_price": 1287.6
+        },
+        {
+            "description": "Automated logistical info-mediaries",
+            "quantity": 6,
+            "unit_price": 373.49,
+            "total_price": 2240.94
+        }
+    ],
+    "amount": 3528.54
+}

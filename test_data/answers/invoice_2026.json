@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Anderson-Clark",
+    "invoice_number": "INV-38402",
+    "date": "2025-12-02",
+    "items": [
+        {
+            "description": "Distributed client-server complexity",
+            "quantity": 7,
+            "unit_price": 438.86,
+            "total_price": 3072.02
+        },
+        {
+            "description": "Universal multimedia adapter",
+            "quantity": 3,
+            "unit_price": 264.23,
+            "total_price": 792.69
+        },
+        {
+            "description": "Sharable bi-directional system engine",
+            "quantity": 6,
+            "unit_price": 266.36,
+            "total_price": 1598.16
+        },
+        {
+            "description": "Robust explicit extranet",
+            "quantity": 3,
+            "unit_price": 147.82,
+            "total_price": 443.46
+        }
+    ],
+    "amount": 5906.33
+}

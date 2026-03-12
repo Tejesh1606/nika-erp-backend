@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Pace, Miller and Willis",
+    "invoice_number": "INV-19828",
+    "date": "2025-03-17",
+    "items": [
+        {
+            "description": "Cloned dedicated project",
+            "quantity": 3,
+            "unit_price": 280.07,
+            "total_price": 840.21
+        },
+        {
+            "description": "Organic clear-thinking array",
+            "quantity": 10,
+            "unit_price": 497.42,
+            "total_price": 4974.2
+        },
+        {
+            "description": "Managed bottom-line analyzer",
+            "quantity": 3,
+            "unit_price": 325.67,
+            "total_price": 977.01
+        }
+    ],
+    "amount": 6791.42
+}

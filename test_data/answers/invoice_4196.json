@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Robertson-Wallace",
+    "invoice_number": "INV-60264",
+    "date": "2026-02-22",
+    "items": [
+        {
+            "description": "Compatible zero tolerance process improvement",
+            "quantity": 4,
+            "unit_price": 180.14,
+            "total_price": 720.56
+        },
+        {
+            "description": "Configurable neutral system engine",
+            "quantity": 3,
+            "unit_price": 422.22,
+            "total_price": 1266.66
+        },
+        {
+            "description": "Re-contextualized multi-state leverage",
+            "quantity": 10,
+            "unit_price": 38.45,
+            "total_price": 384.5
+        }
+    ],
+    "amount": 2371.72
+}

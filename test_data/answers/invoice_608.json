@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Weber, Mitchell and Miller",
+    "invoice_number": "INV-76269",
+    "date": "2025-04-07",
+    "items": [
+        {
+            "description": "Grass-roots eco-centric capacity",
+            "quantity": 8,
+            "unit_price": 216.66,
+            "total_price": 1733.28
+        },
+        {
+            "description": "Seamless even-keeled focus group",
+            "quantity": 5,
+            "unit_price": 26.15,
+            "total_price": 130.75
+        },
+        {
+            "description": "Function-based 24/7 support",
+            "quantity": 9,
+            "unit_price": 489.15,
+            "total_price": 4402.35
+        }
+    ],
+    "amount": 6266.38
+}

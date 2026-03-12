@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Walton LLC",
+    "invoice_number": "INV-36974",
+    "date": "2025-04-18",
+    "items": [
+        {
+            "description": "Fully-configurable leadingedge support",
+            "quantity": 6,
+            "unit_price": 115.59,
+            "total_price": 693.54
+        },
+        {
+            "description": "Face-to-face bi-directional collaboration",
+            "quantity": 4,
+            "unit_price": 18.32,
+            "total_price": 73.28
+        },
+        {
+            "description": "Universal object-oriented hub",
+            "quantity": 9,
+            "unit_price": 366.65,
+            "total_price": 3299.85
+        },
+        {
+            "description": "Team-oriented 4thgeneration utilization",
+            "quantity": 1,
+            "unit_price": 342.79,
+            "total_price": 342.79
+        }
+    ],
+    "amount": 4409.46
+}

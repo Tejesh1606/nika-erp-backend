@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rosario, Kemp and Spencer",
+    "invoice_number": "INV-47464",
+    "date": "2025-11-14",
+    "items": [
+        {
+            "description": "Innovative tertiary leverage",
+            "quantity": 8,
+            "unit_price": 376.21,
+            "total_price": 3009.68
+        },
+        {
+            "description": "Ergonomic contextually-based artificial intelligence",
+            "quantity": 9,
+            "unit_price": 59.97,
+            "total_price": 539.73
+        },
+        {
+            "description": "Phased scalable knowledge user",
+            "quantity": 6,
+            "unit_price": 157.3,
+            "total_price": 943.8
+        },
+        {
+            "description": "Profound well-modulated Graphic Interface",
+            "quantity": 2,
+            "unit_price": 426.44,
+            "total_price": 852.88
+        }
+    ],
+    "amount": 5346.09
+}

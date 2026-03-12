@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cook and Sons",
+    "invoice_number": "INV-31734",
+    "date": "2026-02-13",
+    "items": [
+        {
+            "description": "Phased 5thgeneration capacity",
+            "quantity": 4,
+            "unit_price": 453.37,
+            "total_price": 1813.48
+        },
+        {
+            "description": "Profit-focused zero-defect parallelism",
+            "quantity": 1,
+            "unit_price": 349.71,
+            "total_price": 349.71
+        },
+        {
+            "description": "Robust impactful installation",
+            "quantity": 3,
+            "unit_price": 374.5,
+            "total_price": 1123.5
+        }
+    ],
+    "amount": 3286.69
+}

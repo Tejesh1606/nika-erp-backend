@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Young Ltd",
+    "invoice_number": "INV-20940",
+    "date": "2025-10-27",
+    "items": [
+        {
+            "description": "Total stable access",
+            "quantity": 2,
+            "unit_price": 429.05,
+            "total_price": 858.1
+        },
+        {
+            "description": "Automated client-server frame",
+            "quantity": 9,
+            "unit_price": 110.56,
+            "total_price": 995.04
+        },
+        {
+            "description": "Cross-group high-level Graphical User Interface",
+            "quantity": 5,
+            "unit_price": 195.13,
+            "total_price": 975.65
+        }
+    ],
+    "amount": 2828.79
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wright and Sons",
+    "invoice_number": "INV-57366",
+    "date": "2025-05-28",
+    "items": [
+        {
+            "description": "Configurable holistic encryption",
+            "quantity": 2,
+            "unit_price": 383.3,
+            "total_price": 766.6
+        },
+        {
+            "description": "Multi-channeled intermediate concept",
+            "quantity": 4,
+            "unit_price": 159.88,
+            "total_price": 639.52
+        }
+    ],
+    "amount": 1406.12
+}

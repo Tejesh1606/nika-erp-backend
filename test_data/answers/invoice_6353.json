@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Burnett-Solis",
+    "invoice_number": "INV-66917",
+    "date": "2025-12-18",
+    "items": [
+        {
+            "description": "Cloned bi-directional throughput",
+            "quantity": 3,
+            "unit_price": 99.52,
+            "total_price": 298.56
+        }
+    ],
+    "amount": 298.56
+}

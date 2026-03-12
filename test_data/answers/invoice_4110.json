@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Burke, Ponce and King",
+    "invoice_number": "INV-68646",
+    "date": "2026-01-01",
+    "items": [
+        {
+            "description": "Innovative neutral secured line",
+            "quantity": 1,
+            "unit_price": 115.41,
+            "total_price": 115.41
+        },
+        {
+            "description": "Virtual secondary superstructure",
+            "quantity": 7,
+            "unit_price": 138.88,
+            "total_price": 972.16
+        },
+        {
+            "description": "Upgradable bottom-line workforce",
+            "quantity": 7,
+            "unit_price": 107.62,
+            "total_price": 753.34
+        }
+    ],
+    "amount": 1840.91
+}

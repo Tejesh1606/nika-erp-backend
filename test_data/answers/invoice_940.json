@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Floyd, Garrison and Bennett",
+    "invoice_number": "INV-65982",
+    "date": "2025-11-27",
+    "items": [
+        {
+            "description": "Down-sized analyzing attitude",
+            "quantity": 10,
+            "unit_price": 361.72,
+            "total_price": 3617.2
+        },
+        {
+            "description": "Multi-channeled methodical conglomeration",
+            "quantity": 7,
+            "unit_price": 206.94,
+            "total_price": 1448.58
+        },
+        {
+            "description": "Business-focused bottom-line migration",
+            "quantity": 4,
+            "unit_price": 88.27,
+            "total_price": 353.08
+        },
+        {
+            "description": "Streamlined global parallelism",
+            "quantity": 9,
+            "unit_price": 226.99,
+            "total_price": 2042.91
+        }
+    ],
+    "amount": 7461.77
+}

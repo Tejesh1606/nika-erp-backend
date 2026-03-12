@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hernandez, Fitzgerald and Pitts",
+    "invoice_number": "INV-27255",
+    "date": "2025-04-10",
+    "items": [
+        {
+            "description": "Operative bottom-line approach",
+            "quantity": 7,
+            "unit_price": 491.1,
+            "total_price": 3437.7
+        },
+        {
+            "description": "Organic scalable strategy",
+            "quantity": 1,
+            "unit_price": 220.44,
+            "total_price": 220.44
+        },
+        {
+            "description": "Centralized foreground attitude",
+            "quantity": 7,
+            "unit_price": 218.24,
+            "total_price": 1527.68
+        }
+    ],
+    "amount": 5185.82
+}

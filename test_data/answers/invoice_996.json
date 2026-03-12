@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Ortiz PLC",
+    "invoice_number": "INV-48652",
+    "date": "2025-07-13",
+    "items": [
+        {
+            "description": "Centralized responsive access",
+            "quantity": 10,
+            "unit_price": 114.04,
+            "total_price": 1140.4
+        },
+        {
+            "description": "Multi-channeled directional superstructure",
+            "quantity": 5,
+            "unit_price": 369.01,
+            "total_price": 1845.05
+        },
+        {
+            "description": "Grass-roots context-sensitive extranet",
+            "quantity": 1,
+            "unit_price": 265.75,
+            "total_price": 265.75
+        },
+        {
+            "description": "Ameliorated national protocol",
+            "quantity": 10,
+            "unit_price": 425.35,
+            "total_price": 4253.5
+        }
+    ],
+    "amount": 7504.7
+}

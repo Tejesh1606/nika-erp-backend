@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Little PLC",
+    "invoice_number": "INV-92097",
+    "date": "2025-10-10",
+    "items": [
+        {
+            "description": "Multi-channeled homogeneous knowledge user",
+            "quantity": 1,
+            "unit_price": 371.72,
+            "total_price": 371.72
+        },
+        {
+            "description": "Team-oriented clear-thinking firmware",
+            "quantity": 4,
+            "unit_price": 171.57,
+            "total_price": 686.28
+        },
+        {
+            "description": "Business-focused high-level hierarchy",
+            "quantity": 7,
+            "unit_price": 433.67,
+            "total_price": 3035.69
+        }
+    ],
+    "amount": 4093.69
+}

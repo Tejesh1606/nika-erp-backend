@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Griffith-Frank",
+    "invoice_number": "INV-84395",
+    "date": "2025-10-26",
+    "items": [
+        {
+            "description": "Configurable actuating collaboration",
+            "quantity": 8,
+            "unit_price": 481.54,
+            "total_price": 3852.32
+        }
+    ],
+    "amount": 3852.32
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Fletcher-Friedman",
+    "invoice_number": "INV-73530",
+    "date": "2025-08-17",
+    "items": [
+        {
+            "description": "Operative fault-tolerant monitoring",
+            "quantity": 4,
+            "unit_price": 433.57,
+            "total_price": 1734.28
+        },
+        {
+            "description": "Persevering multi-state framework",
+            "quantity": 2,
+            "unit_price": 20.16,
+            "total_price": 40.32
+        },
+        {
+            "description": "Customizable directional moratorium",
+            "quantity": 8,
+            "unit_price": 119.15,
+            "total_price": 953.2
+        },
+        {
+            "description": "Synchronized dynamic capability",
+            "quantity": 5,
+            "unit_price": 238.99,
+            "total_price": 1194.95
+        }
+    ],
+    "amount": 3922.75
+}

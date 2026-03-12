@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson Ltd",
+    "invoice_number": "INV-13920",
+    "date": "2025-09-03",
+    "items": [
+        {
+            "description": "Progressive attitude-oriented support",
+            "quantity": 1,
+            "unit_price": 371.14,
+            "total_price": 371.14
+        },
+        {
+            "description": "Balanced upward-trending architecture",
+            "quantity": 2,
+            "unit_price": 484.49,
+            "total_price": 968.98
+        },
+        {
+            "description": "Upgradable 5thgeneration benchmark",
+            "quantity": 2,
+            "unit_price": 183.61,
+            "total_price": 367.22
+        },
+        {
+            "description": "Devolved explicit frame",
+            "quantity": 2,
+            "unit_price": 216.34,
+            "total_price": 432.68
+        }
+    ],
+    "amount": 2140.02
+}

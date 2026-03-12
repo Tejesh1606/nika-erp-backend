@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Woods-Bell",
+    "invoice_number": "INV-15289",
+    "date": "2025-05-23",
+    "items": [
+        {
+            "description": "Integrated full-range task-force",
+            "quantity": 2,
+            "unit_price": 299.51,
+            "total_price": 599.02
+        },
+        {
+            "description": "De-engineered web-enabled collaboration",
+            "quantity": 6,
+            "unit_price": 63.15,
+            "total_price": 378.9
+        }
+    ],
+    "amount": 977.92
+}

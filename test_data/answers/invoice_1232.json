@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Fitzpatrick Inc",
+    "invoice_number": "INV-35668",
+    "date": "2025-08-27",
+    "items": [
+        {
+            "description": "Multi-lateral multi-tasking core",
+            "quantity": 9,
+            "unit_price": 337.45,
+            "total_price": 3037.05
+        },
+        {
+            "description": "Adaptive optimizing function",
+            "quantity": 10,
+            "unit_price": 167.96,
+            "total_price": 1679.6
+        }
+    ],
+    "amount": 4716.65
+}

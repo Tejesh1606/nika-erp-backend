@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Freeman Ltd",
+    "invoice_number": "INV-56248",
+    "date": "2025-07-07",
+    "items": [
+        {
+            "description": "Open-source bi-directional workforce",
+            "quantity": 3,
+            "unit_price": 425.68,
+            "total_price": 1277.04
+        },
+        {
+            "description": "Fundamental bandwidth-monitored benchmark",
+            "quantity": 1,
+            "unit_price": 282.91,
+            "total_price": 282.91
+        }
+    ],
+    "amount": 1559.95
+}

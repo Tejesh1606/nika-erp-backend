@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Anderson, Campbell and Hardy",
+    "invoice_number": "INV-26794",
+    "date": "2025-07-30",
+    "items": [
+        {
+            "description": "Re-contextualized methodical architecture",
+            "quantity": 10,
+            "unit_price": 479.14,
+            "total_price": 4791.4
+        },
+        {
+            "description": "Ameliorated local hub",
+            "quantity": 7,
+            "unit_price": 499.43,
+            "total_price": 3496.01
+        },
+        {
+            "description": "Operative dynamic database",
+            "quantity": 4,
+            "unit_price": 469.04,
+            "total_price": 1876.16
+        },
+        {
+            "description": "Inverse system-worthy emulation",
+            "quantity": 3,
+            "unit_price": 246.33,
+            "total_price": 738.99
+        }
+    ],
+    "amount": 10902.56
+}

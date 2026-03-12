@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brown-Hughes",
+    "invoice_number": "INV-18430",
+    "date": "2025-05-27",
+    "items": [
+        {
+            "description": "Profound incremental matrix",
+            "quantity": 8,
+            "unit_price": 16.34,
+            "total_price": 130.72
+        },
+        {
+            "description": "Innovative tertiary model",
+            "quantity": 9,
+            "unit_price": 274.55,
+            "total_price": 2470.95
+        },
+        {
+            "description": "Inverse modular middleware",
+            "quantity": 3,
+            "unit_price": 350.37,
+            "total_price": 1051.11
+        }
+    ],
+    "amount": 3652.78
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Moyer-Gordon",
+    "invoice_number": "INV-20070",
+    "date": "2025-04-14",
+    "items": [
+        {
+            "description": "Streamlined static synergy",
+            "quantity": 9,
+            "unit_price": 47.92,
+            "total_price": 431.28
+        },
+        {
+            "description": "Visionary analyzing functionalities",
+            "quantity": 9,
+            "unit_price": 22.71,
+            "total_price": 204.39
+        },
+        {
+            "description": "Visionary system-worthy system engine",
+            "quantity": 1,
+            "unit_price": 446.33,
+            "total_price": 446.33
+        }
+    ],
+    "amount": 1082.0
+}

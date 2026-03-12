@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Tran Inc",
+    "invoice_number": "INV-58354",
+    "date": "2025-05-25",
+    "items": [
+        {
+            "description": "Implemented non-volatile toolset",
+            "quantity": 9,
+            "unit_price": 190.76,
+            "total_price": 1716.84
+        }
+    ],
+    "amount": 1716.84
+}

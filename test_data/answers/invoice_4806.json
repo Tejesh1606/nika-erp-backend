@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Thomas, Tran and Murphy",
+    "invoice_number": "INV-94200",
+    "date": "2025-09-01",
+    "items": [
+        {
+            "description": "Assimilated transitional product",
+            "quantity": 5,
+            "unit_price": 101.23,
+            "total_price": 506.15
+        },
+        {
+            "description": "Inverse 24hour product",
+            "quantity": 3,
+            "unit_price": 95.06,
+            "total_price": 285.18
+        },
+        {
+            "description": "Ameliorated heuristic workforce",
+            "quantity": 5,
+            "unit_price": 61.89,
+            "total_price": 309.45
+        },
+        {
+            "description": "Organic empowering software",
+            "quantity": 6,
+            "unit_price": 429.54,
+            "total_price": 2577.24
+        }
+    ],
+    "amount": 3678.02
+}

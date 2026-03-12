@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Nelson Group",
+    "invoice_number": "INV-45503",
+    "date": "2025-08-16",
+    "items": [
+        {
+            "description": "Programmable bi-directional toolset",
+            "quantity": 6,
+            "unit_price": 454.99,
+            "total_price": 2729.94
+        },
+        {
+            "description": "Face-to-face fresh-thinking process improvement",
+            "quantity": 1,
+            "unit_price": 366.27,
+            "total_price": 366.27
+        }
+    ],
+    "amount": 3096.21
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Richard, Robinson and Brown",
+    "invoice_number": "INV-20426",
+    "date": "2025-06-24",
+    "items": [
+        {
+            "description": "Seamless neutral functionalities",
+            "quantity": 6,
+            "unit_price": 342.41,
+            "total_price": 2054.46
+        }
+    ],
+    "amount": 2054.46
+}

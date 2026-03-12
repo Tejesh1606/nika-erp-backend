@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Erickson, Greene and Bryant",
+    "invoice_number": "INV-52423",
+    "date": "2025-11-20",
+    "items": [
+        {
+            "description": "Phased tangible Internet solution",
+            "quantity": 2,
+            "unit_price": 131.05,
+            "total_price": 262.1
+        },
+        {
+            "description": "Extended web-enabled matrix",
+            "quantity": 8,
+            "unit_price": 328.92,
+            "total_price": 2631.36
+        }
+    ],
+    "amount": 2893.46
+}

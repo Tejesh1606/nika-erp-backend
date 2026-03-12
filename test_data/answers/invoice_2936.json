@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Goodman-Smith",
+    "invoice_number": "INV-83554",
+    "date": "2025-10-31",
+    "items": [
+        {
+            "description": "Vision-oriented 3rdgeneration matrices",
+            "quantity": 2,
+            "unit_price": 336.74,
+            "total_price": 673.48
+        },
+        {
+            "description": "Mandatory attitude-oriented secured line",
+            "quantity": 10,
+            "unit_price": 447.88,
+            "total_price": 4478.8
+        },
+        {
+            "description": "Re-contextualized tangible open system",
+            "quantity": 7,
+            "unit_price": 461.74,
+            "total_price": 3232.18
+        }
+    ],
+    "amount": 8384.46
+}

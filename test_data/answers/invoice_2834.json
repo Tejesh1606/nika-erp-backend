@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Allen Group",
+    "invoice_number": "INV-60017",
+    "date": "2025-08-24",
+    "items": [
+        {
+            "description": "Reduced stable interface",
+            "quantity": 3,
+            "unit_price": 190.49,
+            "total_price": 571.47
+        },
+        {
+            "description": "Right-sized context-sensitive time-frame",
+            "quantity": 6,
+            "unit_price": 373.12,
+            "total_price": 2238.72
+        }
+    ],
+    "amount": 2810.19
+}

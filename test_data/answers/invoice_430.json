@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Phillips, Walters and Evans",
+    "invoice_number": "INV-94926",
+    "date": "2025-07-31",
+    "items": [
+        {
+            "description": "Advanced neutral open architecture",
+            "quantity": 4,
+            "unit_price": 18.02,
+            "total_price": 72.08
+        },
+        {
+            "description": "Digitized bottom-line analyzer",
+            "quantity": 8,
+            "unit_price": 29.76,
+            "total_price": 238.08
+        },
+        {
+            "description": "Adaptive object-oriented policy",
+            "quantity": 4,
+            "unit_price": 401.33,
+            "total_price": 1605.32
+        }
+    ],
+    "amount": 1915.48
+}

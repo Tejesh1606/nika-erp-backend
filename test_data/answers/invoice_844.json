@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Moyer, Webster and Collins",
+    "invoice_number": "INV-80928",
+    "date": "2026-01-04",
+    "items": [
+        {
+            "description": "Digitized client-server leverage",
+            "quantity": 3,
+            "unit_price": 136.17,
+            "total_price": 408.51
+        }
+    ],
+    "amount": 408.51
+}

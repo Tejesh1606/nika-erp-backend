@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Rowe Inc",
+    "invoice_number": "INV-17525",
+    "date": "2025-11-14",
+    "items": [
+        {
+            "description": "Streamlined even-keeled infrastructure",
+            "quantity": 4,
+            "unit_price": 76.75,
+            "total_price": 307.0
+        }
+    ],
+    "amount": 307.0
+}

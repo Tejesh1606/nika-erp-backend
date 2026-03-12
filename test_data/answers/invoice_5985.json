@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Chan Ltd",
+    "invoice_number": "INV-51023",
+    "date": "2026-01-09",
+    "items": [
+        {
+            "description": "Synergized 3rdgeneration workforce",
+            "quantity": 1,
+            "unit_price": 285.89,
+            "total_price": 285.89
+        },
+        {
+            "description": "Exclusive reciprocal product",
+            "quantity": 4,
+            "unit_price": 431.09,
+            "total_price": 1724.36
+        },
+        {
+            "description": "Ergonomic analyzing time-frame",
+            "quantity": 6,
+            "unit_price": 347.59,
+            "total_price": 2085.54
+        },
+        {
+            "description": "Focused multimedia access",
+            "quantity": 6,
+            "unit_price": 395.38,
+            "total_price": 2372.28
+        }
+    ],
+    "amount": 6468.07
+}

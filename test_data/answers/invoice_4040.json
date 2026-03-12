@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Roberts, Hatfield and Russo",
+    "invoice_number": "INV-38947",
+    "date": "2026-02-01",
+    "items": [
+        {
+            "description": "Digitized asynchronous Internet solution",
+            "quantity": 8,
+            "unit_price": 412.44,
+            "total_price": 3299.52
+        },
+        {
+            "description": "Monitored analyzing conglomeration",
+            "quantity": 6,
+            "unit_price": 51.67,
+            "total_price": 310.02
+        },
+        {
+            "description": "Synergized even-keeled collaboration",
+            "quantity": 1,
+            "unit_price": 138.2,
+            "total_price": 138.2
+        }
+    ],
+    "amount": 3747.74
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Owens-Dickson",
+    "invoice_number": "INV-59068",
+    "date": "2025-12-02",
+    "items": [
+        {
+            "description": "User-centric eco-centric capacity",
+            "quantity": 2,
+            "unit_price": 480.32,
+            "total_price": 960.64
+        },
+        {
+            "description": "Distributed background middleware",
+            "quantity": 5,
+            "unit_price": 397.83,
+            "total_price": 1989.15
+        },
+        {
+            "description": "Quality-focused disintermediate strategy",
+            "quantity": 4,
+            "unit_price": 315.8,
+            "total_price": 1263.2
+        }
+    ],
+    "amount": 4212.99
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Martin, Hale and Rodriguez",
+    "invoice_number": "INV-82030",
+    "date": "2025-03-16",
+    "items": [
+        {
+            "description": "Centralized directional Internet solution",
+            "quantity": 10,
+            "unit_price": 105.1,
+            "total_price": 1051.0
+        },
+        {
+            "description": "Optimized incremental adapter",
+            "quantity": 7,
+            "unit_price": 87.15,
+            "total_price": 610.05
+        },
+        {
+            "description": "User-centric system-worthy synergy",
+            "quantity": 3,
+            "unit_price": 294.78,
+            "total_price": 884.34
+        }
+    ],
+    "amount": 2545.39
+}

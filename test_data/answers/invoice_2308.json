@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rangel-Bennett",
+    "invoice_number": "INV-39343",
+    "date": "2026-02-03",
+    "items": [
+        {
+            "description": "Customizable leadingedge complexity",
+            "quantity": 1,
+            "unit_price": 423.5,
+            "total_price": 423.5
+        },
+        {
+            "description": "Re-contextualized even-keeled toolset",
+            "quantity": 10,
+            "unit_price": 151.43,
+            "total_price": 1514.3
+        },
+        {
+            "description": "Organic intermediate encoding",
+            "quantity": 9,
+            "unit_price": 187.45,
+            "total_price": 1687.05
+        },
+        {
+            "description": "Realigned 24hour moratorium",
+            "quantity": 1,
+            "unit_price": 177.09,
+            "total_price": 177.09
+        }
+    ],
+    "amount": 3801.94
+}

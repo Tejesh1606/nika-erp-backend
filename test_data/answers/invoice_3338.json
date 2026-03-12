@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Allen, Gates and Sawyer",
+    "invoice_number": "INV-84223",
+    "date": "2025-07-04",
+    "items": [
+        {
+            "description": "Realigned executive array",
+            "quantity": 6,
+            "unit_price": 329.82,
+            "total_price": 1978.92
+        },
+        {
+            "description": "Total executive conglomeration",
+            "quantity": 8,
+            "unit_price": 204.44,
+            "total_price": 1635.52
+        },
+        {
+            "description": "Self-enabling tertiary productivity",
+            "quantity": 9,
+            "unit_price": 250.91,
+            "total_price": 2258.19
+        },
+        {
+            "description": "Fully-configurable foreground structure",
+            "quantity": 3,
+            "unit_price": 397.35,
+            "total_price": 1192.05
+        }
+    ],
+    "amount": 7064.68
+}

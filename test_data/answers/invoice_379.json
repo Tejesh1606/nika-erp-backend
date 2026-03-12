@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wright, Steele and Cooper",
+    "invoice_number": "INV-26899",
+    "date": "2025-04-17",
+    "items": [
+        {
+            "description": "Networked motivating parallelism",
+            "quantity": 10,
+            "unit_price": 320.34,
+            "total_price": 3203.4
+        },
+        {
+            "description": "Integrated composite architecture",
+            "quantity": 6,
+            "unit_price": 70.18,
+            "total_price": 421.08
+        },
+        {
+            "description": "Balanced exuding frame",
+            "quantity": 2,
+            "unit_price": 339.82,
+            "total_price": 679.64
+        },
+        {
+            "description": "Persevering upward-trending model",
+            "quantity": 6,
+            "unit_price": 443.5,
+            "total_price": 2661.0
+        }
+    ],
+    "amount": 6965.12
+}

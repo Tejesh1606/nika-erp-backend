@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Richards-Young",
+    "invoice_number": "INV-98363",
+    "date": "2025-04-23",
+    "items": [
+        {
+            "description": "Open-source transitional data-warehouse",
+            "quantity": 9,
+            "unit_price": 224.69,
+            "total_price": 2022.21
+        },
+        {
+            "description": "Reactive discrete complexity",
+            "quantity": 1,
+            "unit_price": 320.22,
+            "total_price": 320.22
+        }
+    ],
+    "amount": 2342.43
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ford-Reynolds",
+    "invoice_number": "INV-53065",
+    "date": "2025-11-20",
+    "items": [
+        {
+            "description": "Horizontal system-worthy service-desk",
+            "quantity": 8,
+            "unit_price": 475.75,
+            "total_price": 3806.0
+        },
+        {
+            "description": "Adaptive explicit firmware",
+            "quantity": 9,
+            "unit_price": 340.59,
+            "total_price": 3065.31
+        }
+    ],
+    "amount": 6871.31
+}

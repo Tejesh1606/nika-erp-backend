@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Carter PLC",
+    "invoice_number": "INV-92737",
+    "date": "2025-07-09",
+    "items": [
+        {
+            "description": "Reduced homogeneous encoding",
+            "quantity": 2,
+            "unit_price": 69.0,
+            "total_price": 138.0
+        },
+        {
+            "description": "Function-based dedicated interface",
+            "quantity": 1,
+            "unit_price": 11.2,
+            "total_price": 11.2
+        },
+        {
+            "description": "Multi-layered zero tolerance success",
+            "quantity": 9,
+            "unit_price": 97.22,
+            "total_price": 874.98
+        }
+    ],
+    "amount": 1024.18
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Robinson and Sons",
+    "invoice_number": "INV-41767",
+    "date": "2026-01-19",
+    "items": [
+        {
+            "description": "Object-based scalable task-force",
+            "quantity": 3,
+            "unit_price": 494.4,
+            "total_price": 1483.2
+        },
+        {
+            "description": "Synergized didactic service-desk",
+            "quantity": 8,
+            "unit_price": 384.39,
+            "total_price": 3075.12
+        },
+        {
+            "description": "Cloned explicit throughput",
+            "quantity": 8,
+            "unit_price": 97.52,
+            "total_price": 780.16
+        }
+    ],
+    "amount": 5338.48
+}

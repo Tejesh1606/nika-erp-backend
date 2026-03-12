@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Graham Ltd",
+    "invoice_number": "INV-80593",
+    "date": "2025-05-22",
+    "items": [
+        {
+            "description": "Cross-group exuding throughput",
+            "quantity": 6,
+            "unit_price": 276.28,
+            "total_price": 1657.68
+        },
+        {
+            "description": "Persistent client-server leverage",
+            "quantity": 4,
+            "unit_price": 452.16,
+            "total_price": 1808.64
+        },
+        {
+            "description": "Optimized 3rdgeneration budgetary management",
+            "quantity": 1,
+            "unit_price": 281.48,
+            "total_price": 281.48
+        }
+    ],
+    "amount": 3747.8
+}

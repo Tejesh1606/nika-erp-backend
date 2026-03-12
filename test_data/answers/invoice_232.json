@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Taylor LLC",
+    "invoice_number": "INV-40692",
+    "date": "2026-01-19",
+    "items": [
+        {
+            "description": "Upgradable object-oriented functionalities",
+            "quantity": 1,
+            "unit_price": 60.9,
+            "total_price": 60.9
+        },
+        {
+            "description": "Re-engineered radical throughput",
+            "quantity": 1,
+            "unit_price": 334.65,
+            "total_price": 334.65
+        }
+    ],
+    "amount": 395.55
+}

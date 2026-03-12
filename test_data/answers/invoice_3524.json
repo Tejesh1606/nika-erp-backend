@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Spencer, Richards and Wilson",
+    "invoice_number": "INV-52642",
+    "date": "2025-12-20",
+    "items": [
+        {
+            "description": "Assimilated multimedia orchestration",
+            "quantity": 9,
+            "unit_price": 65.68,
+            "total_price": 591.12
+        }
+    ],
+    "amount": 591.12
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Rhodes-Contreras",
+    "invoice_number": "INV-53046",
+    "date": "2025-05-24",
+    "items": [
+        {
+            "description": "Robust actuating moratorium",
+            "quantity": 8,
+            "unit_price": 120.5,
+            "total_price": 964.0
+        }
+    ],
+    "amount": 964.0
+}

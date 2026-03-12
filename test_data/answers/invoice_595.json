@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Pacheco, Sherman and Guerrero",
+    "invoice_number": "INV-69372",
+    "date": "2025-10-01",
+    "items": [
+        {
+            "description": "Implemented human-resource pricing structure",
+            "quantity": 7,
+            "unit_price": 380.99,
+            "total_price": 2666.93
+        },
+        {
+            "description": "Re-engineered local customer loyalty",
+            "quantity": 6,
+            "unit_price": 250.47,
+            "total_price": 1502.82
+        },
+        {
+            "description": "Expanded systemic functionalities",
+            "quantity": 7,
+            "unit_price": 477.5,
+            "total_price": 3342.5
+        }
+    ],
+    "amount": 7512.25
+}

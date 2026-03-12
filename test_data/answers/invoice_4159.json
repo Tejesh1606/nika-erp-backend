@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wells-Leon",
+    "invoice_number": "INV-21809",
+    "date": "2025-09-03",
+    "items": [
+        {
+            "description": "Decentralized web-enabled concept",
+            "quantity": 5,
+            "unit_price": 455.95,
+            "total_price": 2279.75
+        },
+        {
+            "description": "Implemented zero administration emulation",
+            "quantity": 4,
+            "unit_price": 265.69,
+            "total_price": 1062.76
+        }
+    ],
+    "amount": 3342.51
+}

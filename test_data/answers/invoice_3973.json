@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Campbell PLC",
+    "invoice_number": "INV-48287",
+    "date": "2026-01-11",
+    "items": [
+        {
+            "description": "Quality-focused real-time archive",
+            "quantity": 5,
+            "unit_price": 259.83,
+            "total_price": 1299.15
+        },
+        {
+            "description": "Profit-focused heuristic complexity",
+            "quantity": 4,
+            "unit_price": 203.57,
+            "total_price": 814.28
+        },
+        {
+            "description": "Up-sized radical middleware",
+            "quantity": 1,
+            "unit_price": 377.19,
+            "total_price": 377.19
+        },
+        {
+            "description": "Front-line motivating middleware",
+            "quantity": 10,
+            "unit_price": 144.85,
+            "total_price": 1448.5
+        }
+    ],
+    "amount": 3939.12
+}

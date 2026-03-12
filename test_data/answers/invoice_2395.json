@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hudson-Sullivan",
+    "invoice_number": "INV-17706",
+    "date": "2025-06-14",
+    "items": [
+        {
+            "description": "Seamless homogeneous projection",
+            "quantity": 2,
+            "unit_price": 125.82,
+            "total_price": 251.64
+        },
+        {
+            "description": "Virtual local ability",
+            "quantity": 4,
+            "unit_price": 167.69,
+            "total_price": 670.76
+        },
+        {
+            "description": "De-engineered web-enabled frame",
+            "quantity": 6,
+            "unit_price": 442.7,
+            "total_price": 2656.2
+        }
+    ],
+    "amount": 3578.6
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Blackburn, Fisher and Reyes",
+    "invoice_number": "INV-65287",
+    "date": "2025-12-30",
+    "items": [
+        {
+            "description": "Diverse transitional throughput",
+            "quantity": 7,
+            "unit_price": 344.11,
+            "total_price": 2408.77
+        },
+        {
+            "description": "Balanced intangible methodology",
+            "quantity": 1,
+            "unit_price": 116.63,
+            "total_price": 116.63
+        },
+        {
+            "description": "Self-enabling actuating encoding",
+            "quantity": 4,
+            "unit_price": 290.04,
+            "total_price": 1160.16
+        },
+        {
+            "description": "Robust discrete data-warehouse",
+            "quantity": 10,
+            "unit_price": 318.82,
+            "total_price": 3188.2
+        }
+    ],
+    "amount": 6873.76
+}

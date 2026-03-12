@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wiggins Inc",
+    "invoice_number": "INV-19749",
+    "date": "2025-07-07",
+    "items": [
+        {
+            "description": "Face-to-face directional analyzer",
+            "quantity": 5,
+            "unit_price": 27.6,
+            "total_price": 138.0
+        },
+        {
+            "description": "Optimized eco-centric algorithm",
+            "quantity": 7,
+            "unit_price": 276.37,
+            "total_price": 1934.59
+        }
+    ],
+    "amount": 2072.59
+}

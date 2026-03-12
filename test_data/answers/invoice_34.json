@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Williams LLC",
+    "invoice_number": "INV-15229",
+    "date": "2026-02-21",
+    "items": [
+        {
+            "description": "Multi-channeled demand-driven software",
+            "quantity": 1,
+            "unit_price": 209.71,
+            "total_price": 209.71
+        },
+        {
+            "description": "Fully-configurable static benchmark",
+            "quantity": 7,
+            "unit_price": 135.64,
+            "total_price": 949.48
+        }
+    ],
+    "amount": 1159.19
+}

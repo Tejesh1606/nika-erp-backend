@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Moreno-Rodriguez",
+    "invoice_number": "INV-94332",
+    "date": "2025-05-13",
+    "items": [
+        {
+            "description": "Future-proofed well-modulated policy",
+            "quantity": 8,
+            "unit_price": 231.63,
+            "total_price": 1853.04
+        },
+        {
+            "description": "Phased stable conglomeration",
+            "quantity": 8,
+            "unit_price": 457.81,
+            "total_price": 3662.48
+        },
+        {
+            "description": "Multi-tiered fresh-thinking Graphical User Interface",
+            "quantity": 1,
+            "unit_price": 251.44,
+            "total_price": 251.44
+        }
+    ],
+    "amount": 5766.96
+}

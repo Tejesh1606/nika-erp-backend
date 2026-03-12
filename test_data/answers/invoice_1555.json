@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Brown, Marquez and Johnson",
+    "invoice_number": "INV-84928",
+    "date": "2025-07-21",
+    "items": [
+        {
+            "description": "Multi-lateral homogeneous adapter",
+            "quantity": 3,
+            "unit_price": 197.71,
+            "total_price": 593.13
+        },
+        {
+            "description": "Pre-emptive intermediate success",
+            "quantity": 4,
+            "unit_price": 240.84,
+            "total_price": 963.36
+        }
+    ],
+    "amount": 1556.49
+}

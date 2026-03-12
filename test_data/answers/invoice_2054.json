@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Sanchez, Thornton and Hodge",
+    "invoice_number": "INV-46148",
+    "date": "2025-10-19",
+    "items": [
+        {
+            "description": "Organized executive definition",
+            "quantity": 6,
+            "unit_price": 439.01,
+            "total_price": 2634.06
+        },
+        {
+            "description": "Re-engineered encompassing installation",
+            "quantity": 5,
+            "unit_price": 239.35,
+            "total_price": 1196.75
+        }
+    ],
+    "amount": 3830.81
+}

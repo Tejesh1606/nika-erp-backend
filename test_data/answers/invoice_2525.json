@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mcguire, Rosales and Gonzalez",
+    "invoice_number": "INV-80222",
+    "date": "2025-08-28",
+    "items": [
+        {
+            "description": "Customizable fresh-thinking product",
+            "quantity": 4,
+            "unit_price": 208.0,
+            "total_price": 832.0
+        },
+        {
+            "description": "Versatile hybrid time-frame",
+            "quantity": 8,
+            "unit_price": 101.92,
+            "total_price": 815.36
+        },
+        {
+            "description": "Public-key real-time archive",
+            "quantity": 4,
+            "unit_price": 302.99,
+            "total_price": 1211.96
+        },
+        {
+            "description": "User-friendly 5thgeneration paradigm",
+            "quantity": 1,
+            "unit_price": 388.89,
+            "total_price": 388.89
+        }
+    ],
+    "amount": 3248.21
+}

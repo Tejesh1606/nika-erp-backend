@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hunter-Garcia",
+    "invoice_number": "INV-86371",
+    "date": "2025-06-27",
+    "items": [
+        {
+            "description": "Synergistic fresh-thinking concept",
+            "quantity": 5,
+            "unit_price": 343.34,
+            "total_price": 1716.7
+        },
+        {
+            "description": "Intuitive fresh-thinking encryption",
+            "quantity": 5,
+            "unit_price": 285.37,
+            "total_price": 1426.85
+        }
+    ],
+    "amount": 3143.55
+}

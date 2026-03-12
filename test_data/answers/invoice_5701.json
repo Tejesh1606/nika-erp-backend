@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Ochoa-Cook",
+    "invoice_number": "INV-68543",
+    "date": "2025-11-29",
+    "items": [
+        {
+            "description": "Pre-emptive dynamic frame",
+            "quantity": 4,
+            "unit_price": 142.57,
+            "total_price": 570.28
+        },
+        {
+            "description": "Synergized secondary data-warehouse",
+            "quantity": 5,
+            "unit_price": 341.98,
+            "total_price": 1709.9
+        },
+        {
+            "description": "Distributed next generation contingency",
+            "quantity": 1,
+            "unit_price": 432.67,
+            "total_price": 432.67
+        },
+        {
+            "description": "Focused real-time architecture",
+            "quantity": 6,
+            "unit_price": 429.67,
+            "total_price": 2578.02
+        }
+    ],
+    "amount": 5290.87
+}

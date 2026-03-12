@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hughes-Leonard",
+    "invoice_number": "INV-78472",
+    "date": "2025-11-22",
+    "items": [
+        {
+            "description": "Stand-alone non-volatile definition",
+            "quantity": 3,
+            "unit_price": 123.65,
+            "total_price": 370.95
+        },
+        {
+            "description": "Re-engineered tertiary emulation",
+            "quantity": 6,
+            "unit_price": 430.37,
+            "total_price": 2582.22
+        },
+        {
+            "description": "Total secondary hardware",
+            "quantity": 5,
+            "unit_price": 475.21,
+            "total_price": 2376.05
+        },
+        {
+            "description": "Automated even-keeled instruction set",
+            "quantity": 3,
+            "unit_price": 230.9,
+            "total_price": 692.7
+        }
+    ],
+    "amount": 6021.92
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Byrd LLC",
+    "invoice_number": "INV-95404",
+    "date": "2025-08-15",
+    "items": [
+        {
+            "description": "Profound 3rdgeneration time-frame",
+            "quantity": 8,
+            "unit_price": 362.45,
+            "total_price": 2899.6
+        },
+        {
+            "description": "Visionary systemic access",
+            "quantity": 4,
+            "unit_price": 224.33,
+            "total_price": 897.32
+        },
+        {
+            "description": "Phased clear-thinking project",
+            "quantity": 4,
+            "unit_price": 408.8,
+            "total_price": 1635.2
+        }
+    ],
+    "amount": 5432.12
+}

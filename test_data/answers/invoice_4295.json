@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Harrison, Skinner and Klein",
+    "invoice_number": "INV-22112",
+    "date": "2025-10-17",
+    "items": [
+        {
+            "description": "Adaptive systemic installation",
+            "quantity": 8,
+            "unit_price": 237.18,
+            "total_price": 1897.44
+        },
+        {
+            "description": "Open-architected radical Graphic Interface",
+            "quantity": 5,
+            "unit_price": 467.23,
+            "total_price": 2336.15
+        },
+        {
+            "description": "Integrated foreground projection",
+            "quantity": 10,
+            "unit_price": 29.2,
+            "total_price": 292.0
+        }
+    ],
+    "amount": 4525.59
+}

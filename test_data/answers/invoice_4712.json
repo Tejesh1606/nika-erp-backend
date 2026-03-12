@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Robinson-Miller",
+    "invoice_number": "INV-65269",
+    "date": "2025-09-08",
+    "items": [
+        {
+            "description": "Intuitive full-range time-frame",
+            "quantity": 10,
+            "unit_price": 248.77,
+            "total_price": 2487.7
+        },
+        {
+            "description": "Organized optimal capability",
+            "quantity": 6,
+            "unit_price": 354.26,
+            "total_price": 2125.56
+        }
+    ],
+    "amount": 4613.26
+}

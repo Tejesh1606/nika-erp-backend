@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Thompson, Floyd and Washington",
+    "invoice_number": "INV-25212",
+    "date": "2025-04-05",
+    "items": [
+        {
+            "description": "Front-line uniform intranet",
+            "quantity": 1,
+            "unit_price": 208.61,
+            "total_price": 208.61
+        },
+        {
+            "description": "Reverse-engineered optimal Graphic Interface",
+            "quantity": 2,
+            "unit_price": 451.26,
+            "total_price": 902.52
+        },
+        {
+            "description": "Operative dedicated synergy",
+            "quantity": 9,
+            "unit_price": 379.82,
+            "total_price": 3418.38
+        },
+        {
+            "description": "Synergistic fresh-thinking emulation",
+            "quantity": 2,
+            "unit_price": 161.22,
+            "total_price": 322.44
+        }
+    ],
+    "amount": 4851.95
+}

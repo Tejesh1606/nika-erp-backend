@@ -1,0 +1,20 @@
+{
+    "vendor_name": "King Group",
+    "invoice_number": "INV-54282",
+    "date": "2025-07-04",
+    "items": [
+        {
+            "description": "Inverse homogeneous functionalities",
+            "quantity": 4,
+            "unit_price": 452.03,
+            "total_price": 1808.12
+        },
+        {
+            "description": "Optional human-resource definition",
+            "quantity": 5,
+            "unit_price": 304.28,
+            "total_price": 1521.4
+        }
+    ],
+    "amount": 3329.52
+}

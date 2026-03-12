@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Harrell-Gonzales",
+    "invoice_number": "INV-41720",
+    "date": "2025-08-01",
+    "items": [
+        {
+            "description": "Progressive impactful initiative",
+            "quantity": 6,
+            "unit_price": 117.62,
+            "total_price": 705.72
+        },
+        {
+            "description": "User-friendly mobile benchmark",
+            "quantity": 8,
+            "unit_price": 343.11,
+            "total_price": 2744.88
+        },
+        {
+            "description": "Monitored fresh-thinking firmware",
+            "quantity": 9,
+            "unit_price": 163.12,
+            "total_price": 1468.08
+        }
+    ],
+    "amount": 4918.68
+}

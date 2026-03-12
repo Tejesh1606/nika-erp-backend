@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Barry-Bonilla",
+    "invoice_number": "INV-11339",
+    "date": "2026-02-28",
+    "items": [
+        {
+            "description": "Multi-channeled zero-defect structure",
+            "quantity": 4,
+            "unit_price": 320.13,
+            "total_price": 1280.52
+        },
+        {
+            "description": "Extended asynchronous data-warehouse",
+            "quantity": 2,
+            "unit_price": 384.02,
+            "total_price": 768.04
+        }
+    ],
+    "amount": 2048.56
+}

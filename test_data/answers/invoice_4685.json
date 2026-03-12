@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Ward-Wells",
+    "invoice_number": "INV-19758",
+    "date": "2025-12-05",
+    "items": [
+        {
+            "description": "Open-source optimizing neural-net",
+            "quantity": 8,
+            "unit_price": 324.77,
+            "total_price": 2598.16
+        }
+    ],
+    "amount": 2598.16
+}

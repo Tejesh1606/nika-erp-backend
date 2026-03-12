@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jimenez Group",
+    "invoice_number": "INV-23017",
+    "date": "2026-01-25",
+    "items": [
+        {
+            "description": "Grass-roots zero tolerance encoding",
+            "quantity": 1,
+            "unit_price": 483.76,
+            "total_price": 483.76
+        },
+        {
+            "description": "Fully-configurable leadingedge alliance",
+            "quantity": 9,
+            "unit_price": 264.53,
+            "total_price": 2380.77
+        }
+    ],
+    "amount": 2864.53
+}

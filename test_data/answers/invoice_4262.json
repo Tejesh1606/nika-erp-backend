@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mason Ltd",
+    "invoice_number": "INV-90557",
+    "date": "2025-11-14",
+    "items": [
+        {
+            "description": "Multi-lateral content-based archive",
+            "quantity": 6,
+            "unit_price": 114.18,
+            "total_price": 685.08
+        },
+        {
+            "description": "Customizable heuristic focus group",
+            "quantity": 5,
+            "unit_price": 463.21,
+            "total_price": 2316.05
+        },
+        {
+            "description": "Vision-oriented static encoding",
+            "quantity": 4,
+            "unit_price": 86.7,
+            "total_price": 346.8
+        },
+        {
+            "description": "Re-contextualized mission-critical moratorium",
+            "quantity": 5,
+            "unit_price": 412.64,
+            "total_price": 2063.2
+        }
+    ],
+    "amount": 5411.13
+}

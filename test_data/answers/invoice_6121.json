@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Collins, Beasley and Weaver",
+    "invoice_number": "INV-21631",
+    "date": "2025-09-20",
+    "items": [
+        {
+            "description": "Stand-alone needs-based moderator",
+            "quantity": 3,
+            "unit_price": 362.78,
+            "total_price": 1088.34
+        },
+        {
+            "description": "Switchable hybrid benchmark",
+            "quantity": 8,
+            "unit_price": 64.04,
+            "total_price": 512.32
+        }
+    ],
+    "amount": 1600.66
+}

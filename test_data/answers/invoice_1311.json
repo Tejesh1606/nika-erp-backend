@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Webster-Guzman",
+    "invoice_number": "INV-74566",
+    "date": "2025-11-09",
+    "items": [
+        {
+            "description": "Enhanced full-range middleware",
+            "quantity": 9,
+            "unit_price": 232.43,
+            "total_price": 2091.87
+        },
+        {
+            "description": "Polarized multimedia forecast",
+            "quantity": 10,
+            "unit_price": 285.35,
+            "total_price": 2853.5
+        }
+    ],
+    "amount": 4945.37
+}

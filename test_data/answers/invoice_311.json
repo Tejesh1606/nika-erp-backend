@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brady LLC",
+    "invoice_number": "INV-25473",
+    "date": "2026-01-02",
+    "items": [
+        {
+            "description": "Assimilated full-range workforce",
+            "quantity": 3,
+            "unit_price": 417.34,
+            "total_price": 1252.02
+        },
+        {
+            "description": "Optimized encompassing moderator",
+            "quantity": 10,
+            "unit_price": 293.52,
+            "total_price": 2935.2
+        },
+        {
+            "description": "Cloned empowering structure",
+            "quantity": 5,
+            "unit_price": 180.96,
+            "total_price": 904.8
+        }
+    ],
+    "amount": 5092.02
+}

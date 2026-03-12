@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Reyes PLC",
+    "invoice_number": "INV-24380",
+    "date": "2025-09-02",
+    "items": [
+        {
+            "description": "Down-sized methodical attitude",
+            "quantity": 7,
+            "unit_price": 203.53,
+            "total_price": 1424.71
+        }
+    ],
+    "amount": 1424.71
+}

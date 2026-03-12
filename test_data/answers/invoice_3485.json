@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Gonzalez-Burns",
+    "invoice_number": "INV-74591",
+    "date": "2025-11-19",
+    "items": [
+        {
+            "description": "Optimized well-modulated hardware",
+            "quantity": 3,
+            "unit_price": 193.69,
+            "total_price": 581.07
+        },
+        {
+            "description": "Right-sized hybrid workforce",
+            "quantity": 9,
+            "unit_price": 418.34,
+            "total_price": 3765.06
+        },
+        {
+            "description": "Fundamental user-facing groupware",
+            "quantity": 9,
+            "unit_price": 396.24,
+            "total_price": 3566.16
+        }
+    ],
+    "amount": 7912.29
+}

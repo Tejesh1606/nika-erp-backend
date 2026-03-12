@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Fitzgerald LLC",
+    "invoice_number": "INV-21478",
+    "date": "2025-06-01",
+    "items": [
+        {
+            "description": "Intuitive solution-oriented interface",
+            "quantity": 7,
+            "unit_price": 53.18,
+            "total_price": 372.26
+        },
+        {
+            "description": "Upgradable dedicated service-desk",
+            "quantity": 7,
+            "unit_price": 330.42,
+            "total_price": 2312.94
+        }
+    ],
+    "amount": 2685.2
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Walker, Contreras and Mendoza",
+    "invoice_number": "INV-60920",
+    "date": "2025-05-17",
+    "items": [
+        {
+            "description": "Persevering holistic task-force",
+            "quantity": 7,
+            "unit_price": 20.51,
+            "total_price": 143.57
+        }
+    ],
+    "amount": 143.57
+}

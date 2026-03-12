@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Green Group",
+    "invoice_number": "INV-43634",
+    "date": "2025-08-20",
+    "items": [
+        {
+            "description": "Polarized high-level time-frame",
+            "quantity": 10,
+            "unit_price": 499.29,
+            "total_price": 4992.9
+        },
+        {
+            "description": "Assimilated dynamic moderator",
+            "quantity": 9,
+            "unit_price": 251.52,
+            "total_price": 2263.68
+        },
+        {
+            "description": "Centralized real-time Graphic Interface",
+            "quantity": 7,
+            "unit_price": 497.03,
+            "total_price": 3479.21
+        },
+        {
+            "description": "User-centric explicit artificial intelligence",
+            "quantity": 3,
+            "unit_price": 123.16,
+            "total_price": 369.48
+        }
+    ],
+    "amount": 11105.27
+}

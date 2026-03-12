@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Carroll and Sons",
+    "invoice_number": "INV-54741",
+    "date": "2026-02-05",
+    "items": [
+        {
+            "description": "Function-based context-sensitive hardware",
+            "quantity": 1,
+            "unit_price": 215.45,
+            "total_price": 215.45
+        }
+    ],
+    "amount": 215.45
+}

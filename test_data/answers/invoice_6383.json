@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Perry, Gardner and Sutton",
+    "invoice_number": "INV-39445",
+    "date": "2025-08-19",
+    "items": [
+        {
+            "description": "Open-source tangible complexity",
+            "quantity": 5,
+            "unit_price": 260.63,
+            "total_price": 1303.15
+        }
+    ],
+    "amount": 1303.15
+}

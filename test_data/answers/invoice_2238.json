@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith Inc",
+    "invoice_number": "INV-30902",
+    "date": "2025-11-04",
+    "items": [
+        {
+            "description": "Cross-platform zero administration open architecture",
+            "quantity": 6,
+            "unit_price": 30.87,
+            "total_price": 185.22
+        }
+    ],
+    "amount": 185.22
+}

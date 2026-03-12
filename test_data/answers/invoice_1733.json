@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Livingston-Leblanc",
+    "invoice_number": "INV-31098",
+    "date": "2025-10-14",
+    "items": [
+        {
+            "description": "Total real-time architecture",
+            "quantity": 9,
+            "unit_price": 115.67,
+            "total_price": 1041.03
+        },
+        {
+            "description": "Visionary zero-defect firmware",
+            "quantity": 6,
+            "unit_price": 52.74,
+            "total_price": 316.44
+        },
+        {
+            "description": "Ameliorated hybrid moderator",
+            "quantity": 8,
+            "unit_price": 339.15,
+            "total_price": 2713.2
+        },
+        {
+            "description": "Synergistic national firmware",
+            "quantity": 3,
+            "unit_price": 312.68,
+            "total_price": 938.04
+        }
+    ],
+    "amount": 5008.71
+}

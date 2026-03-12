@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Anderson-Dunn",
+    "invoice_number": "INV-50313",
+    "date": "2025-09-20",
+    "items": [
+        {
+            "description": "Managed impactful contingency",
+            "quantity": 9,
+            "unit_price": 437.9,
+            "total_price": 3941.1
+        },
+        {
+            "description": "Extended local moratorium",
+            "quantity": 7,
+            "unit_price": 457.34,
+            "total_price": 3201.38
+        },
+        {
+            "description": "Stand-alone next generation interface",
+            "quantity": 2,
+            "unit_price": 485.24,
+            "total_price": 970.48
+        }
+    ],
+    "amount": 8112.96
+}

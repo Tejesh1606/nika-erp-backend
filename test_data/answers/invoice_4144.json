@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Higgins, Deleon and Murphy",
+    "invoice_number": "INV-86778",
+    "date": "2025-04-30",
+    "items": [
+        {
+            "description": "Triple-buffered asymmetric budgetary management",
+            "quantity": 9,
+            "unit_price": 57.77,
+            "total_price": 519.93
+        },
+        {
+            "description": "Universal next generation groupware",
+            "quantity": 9,
+            "unit_price": 431.34,
+            "total_price": 3882.06
+        },
+        {
+            "description": "User-friendly leadingedge conglomeration",
+            "quantity": 5,
+            "unit_price": 456.64,
+            "total_price": 2283.2
+        }
+    ],
+    "amount": 6685.19
+}

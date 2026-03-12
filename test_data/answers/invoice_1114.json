@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Ho, Murray and White",
+    "invoice_number": "INV-67264",
+    "date": "2025-04-15",
+    "items": [
+        {
+            "description": "Devolved multi-tasking intranet",
+            "quantity": 1,
+            "unit_price": 346.29,
+            "total_price": 346.29
+        },
+        {
+            "description": "Team-oriented foreground middleware",
+            "quantity": 4,
+            "unit_price": 481.76,
+            "total_price": 1927.04
+        },
+        {
+            "description": "Synergized transitional help-desk",
+            "quantity": 7,
+            "unit_price": 286.49,
+            "total_price": 2005.43
+        },
+        {
+            "description": "Persistent heuristic interface",
+            "quantity": 5,
+            "unit_price": 321.02,
+            "total_price": 1605.1
+        }
+    ],
+    "amount": 5883.86
+}

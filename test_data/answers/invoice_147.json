@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wheeler, Cruz and Carpenter",
+    "invoice_number": "INV-15376",
+    "date": "2025-08-30",
+    "items": [
+        {
+            "description": "Re-engineered solution-oriented core",
+            "quantity": 3,
+            "unit_price": 432.93,
+            "total_price": 1298.79
+        },
+        {
+            "description": "Inverse real-time leverage",
+            "quantity": 9,
+            "unit_price": 366.91,
+            "total_price": 3302.19
+        }
+    ],
+    "amount": 4600.98
+}

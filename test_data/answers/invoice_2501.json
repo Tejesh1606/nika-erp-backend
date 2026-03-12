@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Ramirez, Skinner and Smith",
+    "invoice_number": "INV-35062",
+    "date": "2026-01-30",
+    "items": [
+        {
+            "description": "Integrated coherent analyzer",
+            "quantity": 7,
+            "unit_price": 481.15,
+            "total_price": 3368.05
+        },
+        {
+            "description": "Focused bandwidth-monitored open system",
+            "quantity": 6,
+            "unit_price": 425.45,
+            "total_price": 2552.7
+        },
+        {
+            "description": "User-friendly leadingedge secured line",
+            "quantity": 2,
+            "unit_price": 293.88,
+            "total_price": 587.76
+        },
+        {
+            "description": "Persevering methodical forecast",
+            "quantity": 4,
+            "unit_price": 474.44,
+            "total_price": 1897.76
+        }
+    ],
+    "amount": 8406.27
+}

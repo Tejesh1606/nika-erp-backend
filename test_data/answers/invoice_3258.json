@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Miller-Conrad",
+    "invoice_number": "INV-31659",
+    "date": "2025-11-08",
+    "items": [
+        {
+            "description": "Reactive systemic model",
+            "quantity": 5,
+            "unit_price": 435.07,
+            "total_price": 2175.35
+        },
+        {
+            "description": "Enhanced global challenge",
+            "quantity": 8,
+            "unit_price": 38.15,
+            "total_price": 305.2
+        },
+        {
+            "description": "Compatible composite protocol",
+            "quantity": 4,
+            "unit_price": 117.3,
+            "total_price": 469.2
+        }
+    ],
+    "amount": 2949.75
+}

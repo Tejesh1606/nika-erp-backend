@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Vazquez, Black and Huber",
+    "invoice_number": "INV-11316",
+    "date": "2026-01-21",
+    "items": [
+        {
+            "description": "Function-based demand-driven focus group",
+            "quantity": 3,
+            "unit_price": 471.23,
+            "total_price": 1413.69
+        }
+    ],
+    "amount": 1413.69
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Copeland, Lee and Jones",
+    "invoice_number": "INV-70488",
+    "date": "2025-06-08",
+    "items": [
+        {
+            "description": "Persistent asynchronous framework",
+            "quantity": 10,
+            "unit_price": 390.17,
+            "total_price": 3901.7
+        },
+        {
+            "description": "Multi-lateral 6thgeneration definition",
+            "quantity": 6,
+            "unit_price": 488.01,
+            "total_price": 2928.06
+        },
+        {
+            "description": "Compatible bifurcated monitoring",
+            "quantity": 1,
+            "unit_price": 423.44,
+            "total_price": 423.44
+        },
+        {
+            "description": "Automated tangible collaboration",
+            "quantity": 8,
+            "unit_price": 407.45,
+            "total_price": 3259.6
+        }
+    ],
+    "amount": 10512.8
+}

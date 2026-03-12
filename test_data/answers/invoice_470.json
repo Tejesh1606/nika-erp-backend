@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rodriguez, Jones and Phillips",
+    "invoice_number": "INV-25336",
+    "date": "2026-01-14",
+    "items": [
+        {
+            "description": "Profound eco-centric monitoring",
+            "quantity": 2,
+            "unit_price": 188.02,
+            "total_price": 376.04
+        },
+        {
+            "description": "Re-engineered eco-centric solution",
+            "quantity": 3,
+            "unit_price": 186.75,
+            "total_price": 560.25
+        },
+        {
+            "description": "Organic homogeneous open system",
+            "quantity": 5,
+            "unit_price": 229.77,
+            "total_price": 1148.85
+        },
+        {
+            "description": "Polarized zero administration encryption",
+            "quantity": 3,
+            "unit_price": 115.91,
+            "total_price": 347.73
+        }
+    ],
+    "amount": 2432.87
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mitchell, Brown and Campbell",
+    "invoice_number": "INV-48145",
+    "date": "2025-06-18",
+    "items": [
+        {
+            "description": "Persistent even-keeled contingency",
+            "quantity": 2,
+            "unit_price": 47.79,
+            "total_price": 95.58
+        },
+        {
+            "description": "Persevering actuating knowledge user",
+            "quantity": 8,
+            "unit_price": 356.13,
+            "total_price": 2849.04
+        },
+        {
+            "description": "Devolved high-level framework",
+            "quantity": 1,
+            "unit_price": 348.76,
+            "total_price": 348.76
+        }
+    ],
+    "amount": 3293.38
+}

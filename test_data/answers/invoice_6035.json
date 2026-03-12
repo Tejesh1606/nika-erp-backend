@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Stewart-Mitchell",
+    "invoice_number": "INV-72522",
+    "date": "2026-03-02",
+    "items": [
+        {
+            "description": "Synergized maximized adapter",
+            "quantity": 4,
+            "unit_price": 46.07,
+            "total_price": 184.28
+        },
+        {
+            "description": "Object-based 6thgeneration model",
+            "quantity": 3,
+            "unit_price": 110.48,
+            "total_price": 331.44
+        },
+        {
+            "description": "Visionary scalable utilization",
+            "quantity": 2,
+            "unit_price": 244.18,
+            "total_price": 488.36
+        }
+    ],
+    "amount": 1004.08
+}

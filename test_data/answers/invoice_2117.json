@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Smith Inc",
+    "invoice_number": "INV-34886",
+    "date": "2025-05-08",
+    "items": [
+        {
+            "description": "Switchable motivating utilization",
+            "quantity": 9,
+            "unit_price": 219.9,
+            "total_price": 1979.1
+        },
+        {
+            "description": "Diverse dedicated definition",
+            "quantity": 2,
+            "unit_price": 13.96,
+            "total_price": 27.92
+        },
+        {
+            "description": "Universal real-time collaboration",
+            "quantity": 1,
+            "unit_price": 49.27,
+            "total_price": 49.27
+        },
+        {
+            "description": "Cross-platform systematic moratorium",
+            "quantity": 4,
+            "unit_price": 192.7,
+            "total_price": 770.8
+        }
+    ],
+    "amount": 2827.09
+}

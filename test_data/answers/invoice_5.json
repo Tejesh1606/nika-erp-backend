@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Munoz-Roman",
+    "invoice_number": "INV-70217",
+    "date": "2025-10-03",
+    "items": [
+        {
+            "description": "Decentralized homogeneous artificial intelligence",
+            "quantity": 6,
+            "unit_price": 242.71,
+            "total_price": 1456.26
+        },
+        {
+            "description": "Reactive explicit product",
+            "quantity": 5,
+            "unit_price": 381.34,
+            "total_price": 1906.7
+        },
+        {
+            "description": "Secured high-level orchestration",
+            "quantity": 6,
+            "unit_price": 19.82,
+            "total_price": 118.92
+        }
+    ],
+    "amount": 3481.88
+}

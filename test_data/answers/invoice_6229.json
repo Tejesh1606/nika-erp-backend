@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Morris-Fischer",
+    "invoice_number": "INV-61214",
+    "date": "2025-05-22",
+    "items": [
+        {
+            "description": "Implemented responsive neural-net",
+            "quantity": 9,
+            "unit_price": 112.77,
+            "total_price": 1014.93
+        },
+        {
+            "description": "Decentralized empowering budgetary management",
+            "quantity": 2,
+            "unit_price": 284.56,
+            "total_price": 569.12
+        }
+    ],
+    "amount": 1584.05
+}

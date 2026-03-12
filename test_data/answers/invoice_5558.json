@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gibson, Thompson and Warner",
+    "invoice_number": "INV-23132",
+    "date": "2025-07-24",
+    "items": [
+        {
+            "description": "Implemented global Graphical User Interface",
+            "quantity": 5,
+            "unit_price": 84.3,
+            "total_price": 421.5
+        }
+    ],
+    "amount": 421.5
+}

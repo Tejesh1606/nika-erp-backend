@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mcmahon, Campbell and Nunez",
+    "invoice_number": "INV-20032",
+    "date": "2025-10-30",
+    "items": [
+        {
+            "description": "Horizontal high-level instruction set",
+            "quantity": 5,
+            "unit_price": 490.29,
+            "total_price": 2451.45
+        }
+    ],
+    "amount": 2451.45
+}

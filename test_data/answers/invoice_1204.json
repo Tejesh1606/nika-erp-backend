@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Garcia, Sanders and Washington",
+    "invoice_number": "INV-30571",
+    "date": "2025-06-26",
+    "items": [
+        {
+            "description": "Innovative 4thgeneration emulation",
+            "quantity": 9,
+            "unit_price": 131.37,
+            "total_price": 1182.33
+        },
+        {
+            "description": "Self-enabling zero administration solution",
+            "quantity": 5,
+            "unit_price": 106.5,
+            "total_price": 532.5
+        }
+    ],
+    "amount": 1714.83
+}

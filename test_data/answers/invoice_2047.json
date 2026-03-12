@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Vazquez-Johnson",
+    "invoice_number": "INV-53335",
+    "date": "2025-03-21",
+    "items": [
+        {
+            "description": "Ameliorated incremental encryption",
+            "quantity": 4,
+            "unit_price": 191.58,
+            "total_price": 766.32
+        },
+        {
+            "description": "Multi-channeled foreground standardization",
+            "quantity": 10,
+            "unit_price": 309.88,
+            "total_price": 3098.8
+        },
+        {
+            "description": "Face-to-face methodical customer loyalty",
+            "quantity": 7,
+            "unit_price": 432.31,
+            "total_price": 3026.17
+        },
+        {
+            "description": "Automated optimizing support",
+            "quantity": 10,
+            "unit_price": 259.55,
+            "total_price": 2595.5
+        }
+    ],
+    "amount": 9486.79
+}

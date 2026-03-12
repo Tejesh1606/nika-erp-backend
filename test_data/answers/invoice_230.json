@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Pineda Ltd",
+    "invoice_number": "INV-24790",
+    "date": "2025-03-21",
+    "items": [
+        {
+            "description": "Switchable intangible pricing structure",
+            "quantity": 2,
+            "unit_price": 124.17,
+            "total_price": 248.34
+        },
+        {
+            "description": "Visionary 3rdgeneration encoding",
+            "quantity": 9,
+            "unit_price": 149.06,
+            "total_price": 1341.54
+        },
+        {
+            "description": "Expanded asymmetric attitude",
+            "quantity": 9,
+            "unit_price": 255.26,
+            "total_price": 2297.34
+        }
+    ],
+    "amount": 3887.22
+}

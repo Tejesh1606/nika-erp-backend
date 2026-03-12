@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Trevino, Martin and Green",
+    "invoice_number": "INV-36630",
+    "date": "2025-06-20",
+    "items": [
+        {
+            "description": "Pre-emptive intermediate policy",
+            "quantity": 1,
+            "unit_price": 149.66,
+            "total_price": 149.66
+        },
+        {
+            "description": "Open-architected exuding support",
+            "quantity": 9,
+            "unit_price": 64.32,
+            "total_price": 578.88
+        },
+        {
+            "description": "Multi-layered system-worthy flexibility",
+            "quantity": 7,
+            "unit_price": 366.49,
+            "total_price": 2565.43
+        },
+        {
+            "description": "Integrated 24hour instruction set",
+            "quantity": 1,
+            "unit_price": 43.33,
+            "total_price": 43.33
+        }
+    ],
+    "amount": 3337.3
+}

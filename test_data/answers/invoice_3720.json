@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lozano, Hudson and Swanson",
+    "invoice_number": "INV-54056",
+    "date": "2026-03-03",
+    "items": [
+        {
+            "description": "Integrated real-time standardization",
+            "quantity": 10,
+            "unit_price": 329.57,
+            "total_price": 3295.7
+        }
+    ],
+    "amount": 3295.7
+}

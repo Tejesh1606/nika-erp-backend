@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Davis Inc",
+    "invoice_number": "INV-67333",
+    "date": "2025-03-13",
+    "items": [
+        {
+            "description": "Self-enabling zero administration parallelism",
+            "quantity": 1,
+            "unit_price": 493.39,
+            "total_price": 493.39
+        },
+        {
+            "description": "Distributed 4thgeneration process improvement",
+            "quantity": 1,
+            "unit_price": 362.57,
+            "total_price": 362.57
+        }
+    ],
+    "amount": 855.96
+}

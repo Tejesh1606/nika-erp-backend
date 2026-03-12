@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Thompson-Le",
+    "invoice_number": "INV-88765",
+    "date": "2025-11-14",
+    "items": [
+        {
+            "description": "Enterprise-wide object-oriented success",
+            "quantity": 6,
+            "unit_price": 89.28,
+            "total_price": 535.68
+        },
+        {
+            "description": "Self-enabling mobile toolset",
+            "quantity": 3,
+            "unit_price": 436.26,
+            "total_price": 1308.78
+        },
+        {
+            "description": "Fully-configurable grid-enabled capacity",
+            "quantity": 5,
+            "unit_price": 169.99,
+            "total_price": 849.95
+        }
+    ],
+    "amount": 2694.41
+}

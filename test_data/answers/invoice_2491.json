@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Stokes-Foley",
+    "invoice_number": "INV-48164",
+    "date": "2025-11-29",
+    "items": [
+        {
+            "description": "Centralized heuristic archive",
+            "quantity": 3,
+            "unit_price": 121.32,
+            "total_price": 363.96
+        },
+        {
+            "description": "Operative homogeneous help-desk",
+            "quantity": 8,
+            "unit_price": 472.45,
+            "total_price": 3779.6
+        },
+        {
+            "description": "Function-based fresh-thinking benchmark",
+            "quantity": 10,
+            "unit_price": 330.7,
+            "total_price": 3307.0
+        },
+        {
+            "description": "Distributed context-sensitive extranet",
+            "quantity": 9,
+            "unit_price": 192.03,
+            "total_price": 1728.27
+        }
+    ],
+    "amount": 9178.83
+}

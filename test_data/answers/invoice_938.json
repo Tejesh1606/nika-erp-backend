@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Pena-Ray",
+    "invoice_number": "INV-67918",
+    "date": "2025-12-04",
+    "items": [
+        {
+            "description": "Polarized explicit circuit",
+            "quantity": 6,
+            "unit_price": 377.14,
+            "total_price": 2262.84
+        }
+    ],
+    "amount": 2262.84
+}

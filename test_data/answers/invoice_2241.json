@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Simmons-Johnson",
+    "invoice_number": "INV-21174",
+    "date": "2025-04-27",
+    "items": [
+        {
+            "description": "Realigned dynamic model",
+            "quantity": 4,
+            "unit_price": 453.07,
+            "total_price": 1812.28
+        }
+    ],
+    "amount": 1812.28
+}

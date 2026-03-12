@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson and Sons",
+    "invoice_number": "INV-34415",
+    "date": "2025-06-09",
+    "items": [
+        {
+            "description": "User-centric tangible capability",
+            "quantity": 10,
+            "unit_price": 485.88,
+            "total_price": 4858.8
+        },
+        {
+            "description": "Progressive intermediate protocol",
+            "quantity": 5,
+            "unit_price": 124.92,
+            "total_price": 624.6
+        },
+        {
+            "description": "User-friendly interactive Local Area Network",
+            "quantity": 8,
+            "unit_price": 426.47,
+            "total_price": 3411.76
+        },
+        {
+            "description": "Re-engineered scalable application",
+            "quantity": 5,
+            "unit_price": 464.25,
+            "total_price": 2321.25
+        }
+    ],
+    "amount": 11216.41
+}

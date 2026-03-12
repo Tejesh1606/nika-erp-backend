@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Williams-Knapp",
+    "invoice_number": "INV-81538",
+    "date": "2025-10-19",
+    "items": [
+        {
+            "description": "Virtual full-range neural-net",
+            "quantity": 5,
+            "unit_price": 89.7,
+            "total_price": 448.5
+        },
+        {
+            "description": "Networked reciprocal knowledge user",
+            "quantity": 1,
+            "unit_price": 108.8,
+            "total_price": 108.8
+        }
+    ],
+    "amount": 557.3
+}

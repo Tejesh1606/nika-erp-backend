@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wood-Martin",
+    "invoice_number": "INV-74326",
+    "date": "2025-10-02",
+    "items": [
+        {
+            "description": "Visionary 24/7 database",
+            "quantity": 10,
+            "unit_price": 413.18,
+            "total_price": 4131.8
+        },
+        {
+            "description": "Integrated human-resource data-warehouse",
+            "quantity": 2,
+            "unit_price": 318.92,
+            "total_price": 637.84
+        },
+        {
+            "description": "Exclusive user-facing contingency",
+            "quantity": 10,
+            "unit_price": 324.01,
+            "total_price": 3240.1
+        },
+        {
+            "description": "Profound leadingedge firmware",
+            "quantity": 3,
+            "unit_price": 55.51,
+            "total_price": 166.53
+        }
+    ],
+    "amount": 8176.27
+}

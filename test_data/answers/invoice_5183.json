@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Taylor PLC",
+    "invoice_number": "INV-28813",
+    "date": "2026-01-22",
+    "items": [
+        {
+            "description": "Intuitive background system engine",
+            "quantity": 1,
+            "unit_price": 291.5,
+            "total_price": 291.5
+        },
+        {
+            "description": "Total demand-driven process improvement",
+            "quantity": 9,
+            "unit_price": 141.59,
+            "total_price": 1274.31
+        },
+        {
+            "description": "Assimilated 24hour conglomeration",
+            "quantity": 10,
+            "unit_price": 283.38,
+            "total_price": 2833.8
+        }
+    ],
+    "amount": 4399.61
+}

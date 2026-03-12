@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Moore-Mullins",
+    "invoice_number": "INV-27486",
+    "date": "2025-08-24",
+    "items": [
+        {
+            "description": "Future-proofed human-resource solution",
+            "quantity": 3,
+            "unit_price": 263.09,
+            "total_price": 789.27
+        }
+    ],
+    "amount": 789.27
+}

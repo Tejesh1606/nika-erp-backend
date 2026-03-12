@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Kaiser Ltd",
+    "invoice_number": "INV-39711",
+    "date": "2026-02-02",
+    "items": [
+        {
+            "description": "Decentralized grid-enabled support",
+            "quantity": 7,
+            "unit_price": 131.76,
+            "total_price": 922.32
+        },
+        {
+            "description": "Exclusive static migration",
+            "quantity": 8,
+            "unit_price": 310.29,
+            "total_price": 2482.32
+        }
+    ],
+    "amount": 3404.64
+}

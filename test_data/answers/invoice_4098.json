@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Daugherty PLC",
+    "invoice_number": "INV-14197",
+    "date": "2025-07-16",
+    "items": [
+        {
+            "description": "Organized directional contingency",
+            "quantity": 7,
+            "unit_price": 292.69,
+            "total_price": 2048.83
+        }
+    ],
+    "amount": 2048.83
+}

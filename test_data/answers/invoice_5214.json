@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Fowler LLC",
+    "invoice_number": "INV-62148",
+    "date": "2026-03-07",
+    "items": [
+        {
+            "description": "Monitored hybrid complexity",
+            "quantity": 7,
+            "unit_price": 455.29,
+            "total_price": 3187.03
+        },
+        {
+            "description": "Cloned optimal concept",
+            "quantity": 4,
+            "unit_price": 273.13,
+            "total_price": 1092.52
+        },
+        {
+            "description": "Right-sized uniform Graphic Interface",
+            "quantity": 4,
+            "unit_price": 481.7,
+            "total_price": 1926.8
+        }
+    ],
+    "amount": 6206.35
+}

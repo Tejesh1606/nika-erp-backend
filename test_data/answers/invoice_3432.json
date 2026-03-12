@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Moore LLC",
+    "invoice_number": "INV-75174",
+    "date": "2025-04-29",
+    "items": [
+        {
+            "description": "Expanded background structure",
+            "quantity": 7,
+            "unit_price": 145.02,
+            "total_price": 1015.14
+        },
+        {
+            "description": "Digitized fresh-thinking circuit",
+            "quantity": 1,
+            "unit_price": 420.33,
+            "total_price": 420.33
+        },
+        {
+            "description": "Grass-roots context-sensitive customer loyalty",
+            "quantity": 1,
+            "unit_price": 301.05,
+            "total_price": 301.05
+        }
+    ],
+    "amount": 1736.52
+}

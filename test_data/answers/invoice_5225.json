@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gray-Nguyen",
+    "invoice_number": "INV-22572",
+    "date": "2026-02-16",
+    "items": [
+        {
+            "description": "Implemented multimedia Local Area Network",
+            "quantity": 8,
+            "unit_price": 265.44,
+            "total_price": 2123.52
+        },
+        {
+            "description": "Fundamental optimizing leverage",
+            "quantity": 9,
+            "unit_price": 340.15,
+            "total_price": 3061.35
+        }
+    ],
+    "amount": 5184.87
+}

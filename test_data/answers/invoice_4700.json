@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Clayton-Russell",
+    "invoice_number": "INV-98348",
+    "date": "2026-02-06",
+    "items": [
+        {
+            "description": "Cloned stable Graphical User Interface",
+            "quantity": 6,
+            "unit_price": 232.38,
+            "total_price": 1394.28
+        },
+        {
+            "description": "Ergonomic attitude-oriented intranet",
+            "quantity": 4,
+            "unit_price": 110.04,
+            "total_price": 440.16
+        },
+        {
+            "description": "Multi-tiered impactful adapter",
+            "quantity": 1,
+            "unit_price": 86.67,
+            "total_price": 86.67
+        },
+        {
+            "description": "Team-oriented composite frame",
+            "quantity": 6,
+            "unit_price": 161.16,
+            "total_price": 966.96
+        }
+    ],
+    "amount": 2888.07
+}

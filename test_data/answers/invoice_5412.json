@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Meyer Ltd",
+    "invoice_number": "INV-17204",
+    "date": "2026-02-22",
+    "items": [
+        {
+            "description": "Advanced didactic secured line",
+            "quantity": 7,
+            "unit_price": 422.27,
+            "total_price": 2955.89
+        },
+        {
+            "description": "Grass-roots 5thgeneration process improvement",
+            "quantity": 9,
+            "unit_price": 406.25,
+            "total_price": 3656.25
+        },
+        {
+            "description": "User-centric dynamic groupware",
+            "quantity": 5,
+            "unit_price": 258.42,
+            "total_price": 1292.1
+        }
+    ],
+    "amount": 7904.24
+}

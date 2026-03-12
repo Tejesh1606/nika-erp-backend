@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Aguilar, Davis and Dixon",
+    "invoice_number": "INV-17292",
+    "date": "2025-09-01",
+    "items": [
+        {
+            "description": "De-engineered multimedia instruction set",
+            "quantity": 2,
+            "unit_price": 81.2,
+            "total_price": 162.4
+        },
+        {
+            "description": "Persevering non-volatile approach",
+            "quantity": 2,
+            "unit_price": 127.86,
+            "total_price": 255.72
+        },
+        {
+            "description": "Realigned maximized service-desk",
+            "quantity": 8,
+            "unit_price": 347.76,
+            "total_price": 2782.08
+        }
+    ],
+    "amount": 3200.2
+}

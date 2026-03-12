@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Walter, Johnson and Powell",
+    "invoice_number": "INV-35426",
+    "date": "2025-12-25",
+    "items": [
+        {
+            "description": "De-engineered zero tolerance installation",
+            "quantity": 9,
+            "unit_price": 246.78,
+            "total_price": 2221.02
+        },
+        {
+            "description": "Organized well-modulated core",
+            "quantity": 1,
+            "unit_price": 26.88,
+            "total_price": 26.88
+        },
+        {
+            "description": "Re-contextualized client-driven productivity",
+            "quantity": 1,
+            "unit_price": 47.67,
+            "total_price": 47.67
+        },
+        {
+            "description": "Assimilated homogeneous strategy",
+            "quantity": 9,
+            "unit_price": 132.93,
+            "total_price": 1196.37
+        }
+    ],
+    "amount": 3491.94
+}

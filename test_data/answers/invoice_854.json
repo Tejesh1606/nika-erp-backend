@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Greene-Rowland",
+    "invoice_number": "INV-42053",
+    "date": "2026-03-01",
+    "items": [
+        {
+            "description": "Balanced well-modulated pricing structure",
+            "quantity": 10,
+            "unit_price": 488.59,
+            "total_price": 4885.9
+        }
+    ],
+    "amount": 4885.9
+}

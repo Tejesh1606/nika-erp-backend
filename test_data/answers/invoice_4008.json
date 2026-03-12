@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Frazier Inc",
+    "invoice_number": "INV-37422",
+    "date": "2025-08-18",
+    "items": [
+        {
+            "description": "Advanced homogeneous intranet",
+            "quantity": 3,
+            "unit_price": 81.79,
+            "total_price": 245.37
+        }
+    ],
+    "amount": 245.37
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Thompson, Haas and Molina",
+    "invoice_number": "INV-38401",
+    "date": "2025-08-11",
+    "items": [
+        {
+            "description": "Open-source radical model",
+            "quantity": 5,
+            "unit_price": 386.42,
+            "total_price": 1932.1
+        }
+    ],
+    "amount": 1932.1
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Davidson, Allison and Clark",
+    "invoice_number": "INV-68140",
+    "date": "2025-08-24",
+    "items": [
+        {
+            "description": "Ameliorated methodical function",
+            "quantity": 5,
+            "unit_price": 302.03,
+            "total_price": 1510.15
+        },
+        {
+            "description": "Up-sized responsive attitude",
+            "quantity": 4,
+            "unit_price": 12.82,
+            "total_price": 51.28
+        }
+    ],
+    "amount": 1561.43
+}

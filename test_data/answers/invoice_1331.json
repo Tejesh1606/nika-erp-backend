@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Marks, Murphy and Ryan",
+    "invoice_number": "INV-47047",
+    "date": "2025-10-18",
+    "items": [
+        {
+            "description": "Managed scalable architecture",
+            "quantity": 7,
+            "unit_price": 84.13,
+            "total_price": 588.91
+        },
+        {
+            "description": "User-centric asynchronous open system",
+            "quantity": 7,
+            "unit_price": 138.72,
+            "total_price": 971.04
+        },
+        {
+            "description": "Cross-group next generation time-frame",
+            "quantity": 4,
+            "unit_price": 271.38,
+            "total_price": 1085.52
+        }
+    ],
+    "amount": 2645.47
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hodges Ltd",
+    "invoice_number": "INV-81171",
+    "date": "2025-08-28",
+    "items": [
+        {
+            "description": "Enhanced actuating database",
+            "quantity": 2,
+            "unit_price": 426.01,
+            "total_price": 852.02
+        },
+        {
+            "description": "Down-sized dedicated moderator",
+            "quantity": 7,
+            "unit_price": 26.04,
+            "total_price": 182.28
+        },
+        {
+            "description": "Face-to-face well-modulated collaboration",
+            "quantity": 7,
+            "unit_price": 349.57,
+            "total_price": 2446.99
+        }
+    ],
+    "amount": 3481.29
+}

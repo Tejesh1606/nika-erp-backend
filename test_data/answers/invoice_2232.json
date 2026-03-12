@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ballard-Ortega",
+    "invoice_number": "INV-18967",
+    "date": "2025-07-27",
+    "items": [
+        {
+            "description": "Expanded fresh-thinking task-force",
+            "quantity": 6,
+            "unit_price": 294.54,
+            "total_price": 1767.24
+        },
+        {
+            "description": "Front-line even-keeled installation",
+            "quantity": 5,
+            "unit_price": 114.31,
+            "total_price": 571.55
+        }
+    ],
+    "amount": 2338.79
+}

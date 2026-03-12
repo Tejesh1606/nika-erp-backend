@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Lindsey PLC",
+    "invoice_number": "INV-34168",
+    "date": "2025-05-11",
+    "items": [
+        {
+            "description": "Front-line asymmetric synergy",
+            "quantity": 3,
+            "unit_price": 313.66,
+            "total_price": 940.98
+        }
+    ],
+    "amount": 940.98
+}

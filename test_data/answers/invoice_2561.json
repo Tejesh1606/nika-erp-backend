@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith Group",
+    "invoice_number": "INV-65628",
+    "date": "2026-02-18",
+    "items": [
+        {
+            "description": "Fully-configurable demand-driven support",
+            "quantity": 4,
+            "unit_price": 296.01,
+            "total_price": 1184.04
+        },
+        {
+            "description": "Programmable client-server capacity",
+            "quantity": 2,
+            "unit_price": 231.5,
+            "total_price": 463.0
+        },
+        {
+            "description": "Devolved client-driven focus group",
+            "quantity": 8,
+            "unit_price": 35.56,
+            "total_price": 284.48
+        }
+    ],
+    "amount": 1931.52
+}

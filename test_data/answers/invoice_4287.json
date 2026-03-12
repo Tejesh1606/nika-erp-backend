@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lang and Sons",
+    "invoice_number": "INV-57815",
+    "date": "2025-10-27",
+    "items": [
+        {
+            "description": "Multi-layered background leverage",
+            "quantity": 7,
+            "unit_price": 178.52,
+            "total_price": 1249.64
+        },
+        {
+            "description": "Optional disintermediate hierarchy",
+            "quantity": 1,
+            "unit_price": 158.46,
+            "total_price": 158.46
+        },
+        {
+            "description": "Enterprise-wide empowering budgetary management",
+            "quantity": 4,
+            "unit_price": 468.87,
+            "total_price": 1875.48
+        },
+        {
+            "description": "Front-line solution-oriented algorithm",
+            "quantity": 8,
+            "unit_price": 455.79,
+            "total_price": 3646.32
+        }
+    ],
+    "amount": 6929.9
+}

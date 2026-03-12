@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Edwards, Garcia and Romero",
+    "invoice_number": "INV-30280",
+    "date": "2025-11-19",
+    "items": [
+        {
+            "description": "Polarized directional benchmark",
+            "quantity": 6,
+            "unit_price": 130.45,
+            "total_price": 782.7
+        },
+        {
+            "description": "Monitored next generation hub",
+            "quantity": 10,
+            "unit_price": 271.77,
+            "total_price": 2717.7
+        },
+        {
+            "description": "Customizable well-modulated focus group",
+            "quantity": 7,
+            "unit_price": 326.37,
+            "total_price": 2284.59
+        }
+    ],
+    "amount": 5784.99
+}

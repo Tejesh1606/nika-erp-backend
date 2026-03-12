@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Campos-Mckay",
+    "invoice_number": "INV-98366",
+    "date": "2025-11-26",
+    "items": [
+        {
+            "description": "Re-engineered tangible collaboration",
+            "quantity": 8,
+            "unit_price": 41.26,
+            "total_price": 330.08
+        },
+        {
+            "description": "Organized radical hub",
+            "quantity": 7,
+            "unit_price": 10.34,
+            "total_price": 72.38
+        },
+        {
+            "description": "Cloned didactic contingency",
+            "quantity": 2,
+            "unit_price": 265.65,
+            "total_price": 531.3
+        }
+    ],
+    "amount": 933.76
+}

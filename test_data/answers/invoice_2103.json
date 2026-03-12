@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Little-Castillo",
+    "invoice_number": "INV-51114",
+    "date": "2025-09-27",
+    "items": [
+        {
+            "description": "Inverse zero-defect support",
+            "quantity": 6,
+            "unit_price": 450.68,
+            "total_price": 2704.08
+        },
+        {
+            "description": "Networked scalable initiative",
+            "quantity": 6,
+            "unit_price": 308.52,
+            "total_price": 1851.12
+        }
+    ],
+    "amount": 4555.2
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jones, Arnold and Walker",
+    "invoice_number": "INV-13860",
+    "date": "2025-03-10",
+    "items": [
+        {
+            "description": "Universal hybrid toolset",
+            "quantity": 6,
+            "unit_price": 276.18,
+            "total_price": 1657.08
+        },
+        {
+            "description": "Horizontal dynamic data-warehouse",
+            "quantity": 8,
+            "unit_price": 27.27,
+            "total_price": 218.16
+        },
+        {
+            "description": "Synergistic coherent contingency",
+            "quantity": 5,
+            "unit_price": 460.34,
+            "total_price": 2301.7
+        }
+    ],
+    "amount": 4176.94
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Johnson-Spencer",
+    "invoice_number": "INV-58353",
+    "date": "2025-09-06",
+    "items": [
+        {
+            "description": "Reactive clear-thinking pricing structure",
+            "quantity": 3,
+            "unit_price": 180.26,
+            "total_price": 540.78
+        },
+        {
+            "description": "Cross-group asymmetric function",
+            "quantity": 4,
+            "unit_price": 204.71,
+            "total_price": 818.84
+        },
+        {
+            "description": "Object-based transitional success",
+            "quantity": 7,
+            "unit_price": 54.04,
+            "total_price": 378.28
+        }
+    ],
+    "amount": 1737.9
+}

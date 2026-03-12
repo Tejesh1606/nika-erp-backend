@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Fisher-Butler",
+    "invoice_number": "INV-69285",
+    "date": "2025-08-28",
+    "items": [
+        {
+            "description": "Networked maximized hierarchy",
+            "quantity": 7,
+            "unit_price": 281.79,
+            "total_price": 1972.53
+        },
+        {
+            "description": "Mandatory fresh-thinking secured line",
+            "quantity": 2,
+            "unit_price": 334.27,
+            "total_price": 668.54
+        },
+        {
+            "description": "Open-architected client-driven success",
+            "quantity": 3,
+            "unit_price": 120.79,
+            "total_price": 362.37
+        },
+        {
+            "description": "Progressive demand-driven encryption",
+            "quantity": 10,
+            "unit_price": 153.76,
+            "total_price": 1537.6
+        }
+    ],
+    "amount": 4541.04
+}

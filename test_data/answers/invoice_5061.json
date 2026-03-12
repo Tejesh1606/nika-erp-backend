@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jarvis-Hunt",
+    "invoice_number": "INV-84894",
+    "date": "2026-01-05",
+    "items": [
+        {
+            "description": "Stand-alone 24/7 Graphical User Interface",
+            "quantity": 4,
+            "unit_price": 17.71,
+            "total_price": 70.84
+        },
+        {
+            "description": "Upgradable reciprocal hub",
+            "quantity": 8,
+            "unit_price": 392.82,
+            "total_price": 3142.56
+        }
+    ],
+    "amount": 3213.4
+}

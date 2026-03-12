@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Miller, Patton and Evans",
+    "invoice_number": "INV-25456",
+    "date": "2025-09-18",
+    "items": [
+        {
+            "description": "Focused actuating policy",
+            "quantity": 1,
+            "unit_price": 292.27,
+            "total_price": 292.27
+        },
+        {
+            "description": "Quality-focused full-range adapter",
+            "quantity": 1,
+            "unit_price": 351.47,
+            "total_price": 351.47
+        },
+        {
+            "description": "Face-to-face explicit extranet",
+            "quantity": 3,
+            "unit_price": 419.78,
+            "total_price": 1259.34
+        }
+    ],
+    "amount": 1903.08
+}

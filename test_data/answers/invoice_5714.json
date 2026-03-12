@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Taylor and Sons",
+    "invoice_number": "INV-81402",
+    "date": "2026-03-05",
+    "items": [
+        {
+            "description": "Switchable heuristic workforce",
+            "quantity": 10,
+            "unit_price": 324.49,
+            "total_price": 3244.9
+        }
+    ],
+    "amount": 3244.9
+}

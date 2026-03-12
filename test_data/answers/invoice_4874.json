@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Adams Ltd",
+    "invoice_number": "INV-79576",
+    "date": "2026-02-26",
+    "items": [
+        {
+            "description": "Robust client-driven leverage",
+            "quantity": 2,
+            "unit_price": 485.88,
+            "total_price": 971.76
+        },
+        {
+            "description": "Multi-lateral scalable concept",
+            "quantity": 4,
+            "unit_price": 447.38,
+            "total_price": 1789.52
+        },
+        {
+            "description": "Exclusive encompassing application",
+            "quantity": 4,
+            "unit_price": 188.62,
+            "total_price": 754.48
+        }
+    ],
+    "amount": 3515.76
+}

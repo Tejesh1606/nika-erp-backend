@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Goodman and Sons",
+    "invoice_number": "INV-72831",
+    "date": "2025-11-02",
+    "items": [
+        {
+            "description": "Profound incremental project",
+            "quantity": 3,
+            "unit_price": 431.72,
+            "total_price": 1295.16
+        },
+        {
+            "description": "Versatile scalable complexity",
+            "quantity": 6,
+            "unit_price": 198.03,
+            "total_price": 1188.18
+        },
+        {
+            "description": "Front-line radical model",
+            "quantity": 2,
+            "unit_price": 81.6,
+            "total_price": 163.2
+        },
+        {
+            "description": "Horizontal modular throughput",
+            "quantity": 8,
+            "unit_price": 172.69,
+            "total_price": 1381.52
+        }
+    ],
+    "amount": 4028.06
+}

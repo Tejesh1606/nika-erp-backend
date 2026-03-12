@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Matthews Ltd",
+    "invoice_number": "INV-54453",
+    "date": "2026-03-01",
+    "items": [
+        {
+            "description": "Robust transitional protocol",
+            "quantity": 7,
+            "unit_price": 339.6,
+            "total_price": 2377.2
+        },
+        {
+            "description": "Persistent clear-thinking frame",
+            "quantity": 10,
+            "unit_price": 134.16,
+            "total_price": 1341.6
+        },
+        {
+            "description": "Up-sized transitional info-mediaries",
+            "quantity": 8,
+            "unit_price": 15.46,
+            "total_price": 123.68
+        },
+        {
+            "description": "Operative systematic projection",
+            "quantity": 2,
+            "unit_price": 21.75,
+            "total_price": 43.5
+        }
+    ],
+    "amount": 3885.98
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Contreras, Hebert and Jackson",
+    "invoice_number": "INV-14449",
+    "date": "2025-06-07",
+    "items": [
+        {
+            "description": "Enhanced composite framework",
+            "quantity": 9,
+            "unit_price": 205.46,
+            "total_price": 1849.14
+        },
+        {
+            "description": "Business-focused neutral ability",
+            "quantity": 2,
+            "unit_price": 372.05,
+            "total_price": 744.1
+        },
+        {
+            "description": "Streamlined maximized leverage",
+            "quantity": 3,
+            "unit_price": 51.97,
+            "total_price": 155.91
+        }
+    ],
+    "amount": 2749.15
+}

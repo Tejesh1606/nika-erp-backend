@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Salas, Phillips and Hall",
+    "invoice_number": "INV-98962",
+    "date": "2025-05-22",
+    "items": [
+        {
+            "description": "Inverse neutral projection",
+            "quantity": 6,
+            "unit_price": 499.94,
+            "total_price": 2999.64
+        },
+        {
+            "description": "Business-focused context-sensitive software",
+            "quantity": 7,
+            "unit_price": 167.06,
+            "total_price": 1169.42
+        }
+    ],
+    "amount": 4169.06
+}

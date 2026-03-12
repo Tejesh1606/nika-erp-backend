@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Crosby-Green",
+    "invoice_number": "INV-97917",
+    "date": "2025-04-30",
+    "items": [
+        {
+            "description": "Down-sized 4thgeneration archive",
+            "quantity": 1,
+            "unit_price": 224.21,
+            "total_price": 224.21
+        },
+        {
+            "description": "Fundamental stable model",
+            "quantity": 9,
+            "unit_price": 266.56,
+            "total_price": 2399.04
+        },
+        {
+            "description": "Fully-configurable dedicated encryption",
+            "quantity": 6,
+            "unit_price": 284.75,
+            "total_price": 1708.5
+        }
+    ],
+    "amount": 4331.75
+}

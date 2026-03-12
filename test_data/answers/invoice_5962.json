@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wright PLC",
+    "invoice_number": "INV-29209",
+    "date": "2025-03-13",
+    "items": [
+        {
+            "description": "Synergized 3rdgeneration access",
+            "quantity": 7,
+            "unit_price": 321.75,
+            "total_price": 2252.25
+        },
+        {
+            "description": "Synergized scalable conglomeration",
+            "quantity": 1,
+            "unit_price": 338.19,
+            "total_price": 338.19
+        },
+        {
+            "description": "Right-sized methodical monitoring",
+            "quantity": 2,
+            "unit_price": 84.9,
+            "total_price": 169.8
+        }
+    ],
+    "amount": 2760.24
+}

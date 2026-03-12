@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Cardenas PLC",
+    "invoice_number": "INV-91116",
+    "date": "2025-10-21",
+    "items": [
+        {
+            "description": "Self-enabling didactic synergy",
+            "quantity": 10,
+            "unit_price": 344.32,
+            "total_price": 3443.2
+        },
+        {
+            "description": "Polarized multi-tasking forecast",
+            "quantity": 6,
+            "unit_price": 391.44,
+            "total_price": 2348.64
+        },
+        {
+            "description": "Quality-focused transitional initiative",
+            "quantity": 4,
+            "unit_price": 59.63,
+            "total_price": 238.52
+        },
+        {
+            "description": "Intuitive cohesive data-warehouse",
+            "quantity": 3,
+            "unit_price": 146.4,
+            "total_price": 439.2
+        }
+    ],
+    "amount": 6469.56
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Schmidt PLC",
+    "invoice_number": "INV-41583",
+    "date": "2025-07-18",
+    "items": [
+        {
+            "description": "Progressive transitional synergy",
+            "quantity": 4,
+            "unit_price": 356.75,
+            "total_price": 1427.0
+        }
+    ],
+    "amount": 1427.0
+}

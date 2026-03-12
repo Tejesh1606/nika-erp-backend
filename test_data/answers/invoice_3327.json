@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Whitney PLC",
+    "invoice_number": "INV-35385",
+    "date": "2025-06-17",
+    "items": [
+        {
+            "description": "Assimilated zero-defect structure",
+            "quantity": 6,
+            "unit_price": 186.51,
+            "total_price": 1119.06
+        },
+        {
+            "description": "Robust object-oriented artificial intelligence",
+            "quantity": 2,
+            "unit_price": 66.95,
+            "total_price": 133.9
+        }
+    ],
+    "amount": 1252.96
+}

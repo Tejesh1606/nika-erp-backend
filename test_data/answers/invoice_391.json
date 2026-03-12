@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Davis, Briggs and White",
+    "invoice_number": "INV-62530",
+    "date": "2025-08-11",
+    "items": [
+        {
+            "description": "Persevering encompassing info-mediaries",
+            "quantity": 1,
+            "unit_price": 288.6,
+            "total_price": 288.6
+        },
+        {
+            "description": "Team-oriented mission-critical website",
+            "quantity": 4,
+            "unit_price": 388.29,
+            "total_price": 1553.16
+        },
+        {
+            "description": "Operative solution-oriented website",
+            "quantity": 10,
+            "unit_price": 104.74,
+            "total_price": 1047.4
+        },
+        {
+            "description": "Down-sized bifurcated capacity",
+            "quantity": 6,
+            "unit_price": 130.9,
+            "total_price": 785.4
+        }
+    ],
+    "amount": 3674.56
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Olson and Sons",
+    "invoice_number": "INV-62531",
+    "date": "2025-04-27",
+    "items": [
+        {
+            "description": "Optimized even-keeled leverage",
+            "quantity": 4,
+            "unit_price": 473.01,
+            "total_price": 1892.04
+        },
+        {
+            "description": "Intuitive coherent secured line",
+            "quantity": 6,
+            "unit_price": 218.25,
+            "total_price": 1309.5
+        },
+        {
+            "description": "Profound responsive initiative",
+            "quantity": 2,
+            "unit_price": 59.42,
+            "total_price": 118.84
+        },
+        {
+            "description": "Function-based human-resource benchmark",
+            "quantity": 8,
+            "unit_price": 26.41,
+            "total_price": 211.28
+        }
+    ],
+    "amount": 3531.66
+}

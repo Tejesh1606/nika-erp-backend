@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith and Sons",
+    "invoice_number": "INV-81772",
+    "date": "2026-01-16",
+    "items": [
+        {
+            "description": "Ergonomic leadingedge encryption",
+            "quantity": 1,
+            "unit_price": 284.12,
+            "total_price": 284.12
+        }
+    ],
+    "amount": 284.12
+}

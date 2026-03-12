@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Rodriguez, Simmons and Jennings",
+    "invoice_number": "INV-20928",
+    "date": "2025-12-22",
+    "items": [
+        {
+            "description": "Business-focused upward-trending middleware",
+            "quantity": 4,
+            "unit_price": 214.95,
+            "total_price": 859.8
+        },
+        {
+            "description": "Pre-emptive discrete process improvement",
+            "quantity": 5,
+            "unit_price": 199.99,
+            "total_price": 999.95
+        },
+        {
+            "description": "Distributed cohesive attitude",
+            "quantity": 10,
+            "unit_price": 467.3,
+            "total_price": 4673.0
+        }
+    ],
+    "amount": 6532.75
+}

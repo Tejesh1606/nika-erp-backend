@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rodriguez Ltd",
+    "invoice_number": "INV-24475",
+    "date": "2025-07-11",
+    "items": [
+        {
+            "description": "Public-key optimal array",
+            "quantity": 4,
+            "unit_price": 397.44,
+            "total_price": 1589.76
+        },
+        {
+            "description": "Down-sized intermediate moratorium",
+            "quantity": 9,
+            "unit_price": 431.45,
+            "total_price": 3883.05
+        },
+        {
+            "description": "Open-architected web-enabled standardization",
+            "quantity": 1,
+            "unit_price": 213.65,
+            "total_price": 213.65
+        },
+        {
+            "description": "Horizontal upward-trending portal",
+            "quantity": 4,
+            "unit_price": 306.94,
+            "total_price": 1227.76
+        }
+    ],
+    "amount": 6914.22
+}

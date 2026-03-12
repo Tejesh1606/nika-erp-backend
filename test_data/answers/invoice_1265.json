@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Choi, Morales and Wise",
+    "invoice_number": "INV-49708",
+    "date": "2025-08-21",
+    "items": [
+        {
+            "description": "Fundamental user-facing productivity",
+            "quantity": 8,
+            "unit_price": 223.6,
+            "total_price": 1788.8
+        },
+        {
+            "description": "Customizable real-time workforce",
+            "quantity": 10,
+            "unit_price": 345.6,
+            "total_price": 3456.0
+        }
+    ],
+    "amount": 5244.8
+}

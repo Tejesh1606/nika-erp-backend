@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Green PLC",
+    "invoice_number": "INV-30473",
+    "date": "2025-05-14",
+    "items": [
+        {
+            "description": "Horizontal disintermediate adapter",
+            "quantity": 7,
+            "unit_price": 453.43,
+            "total_price": 3174.01
+        },
+        {
+            "description": "Distributed discrete solution",
+            "quantity": 3,
+            "unit_price": 171.61,
+            "total_price": 514.83
+        }
+    ],
+    "amount": 3688.84
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Schultz LLC",
+    "invoice_number": "INV-56683",
+    "date": "2026-01-23",
+    "items": [
+        {
+            "description": "Secured mission-critical open architecture",
+            "quantity": 10,
+            "unit_price": 307.49,
+            "total_price": 3074.9
+        },
+        {
+            "description": "Digitized zero tolerance flexibility",
+            "quantity": 3,
+            "unit_price": 295.17,
+            "total_price": 885.51
+        },
+        {
+            "description": "Intuitive mobile functionalities",
+            "quantity": 10,
+            "unit_price": 335.8,
+            "total_price": 3358.0
+        }
+    ],
+    "amount": 7318.41
+}

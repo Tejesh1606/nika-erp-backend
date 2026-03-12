@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mills, Moore and Smith",
+    "invoice_number": "INV-78417",
+    "date": "2025-12-27",
+    "items": [
+        {
+            "description": "Up-sized clear-thinking portal",
+            "quantity": 9,
+            "unit_price": 357.57,
+            "total_price": 3218.13
+        },
+        {
+            "description": "Intuitive zero tolerance project",
+            "quantity": 1,
+            "unit_price": 262.85,
+            "total_price": 262.85
+        },
+        {
+            "description": "Programmable hybrid standardization",
+            "quantity": 5,
+            "unit_price": 309.09,
+            "total_price": 1545.45
+        },
+        {
+            "description": "Profound even-keeled benchmark",
+            "quantity": 7,
+            "unit_price": 18.86,
+            "total_price": 132.02
+        }
+    ],
+    "amount": 5158.45
+}

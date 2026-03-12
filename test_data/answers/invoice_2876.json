@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Higgins-Miles",
+    "invoice_number": "INV-40350",
+    "date": "2025-03-10",
+    "items": [
+        {
+            "description": "Upgradable contextually-based orchestration",
+            "quantity": 5,
+            "unit_price": 294.84,
+            "total_price": 1474.2
+        },
+        {
+            "description": "Triple-buffered contextually-based methodology",
+            "quantity": 5,
+            "unit_price": 146.04,
+            "total_price": 730.2
+        },
+        {
+            "description": "Optimized executive adapter",
+            "quantity": 7,
+            "unit_price": 337.29,
+            "total_price": 2361.03
+        },
+        {
+            "description": "Intuitive even-keeled matrices",
+            "quantity": 7,
+            "unit_price": 207.79,
+            "total_price": 1454.53
+        }
+    ],
+    "amount": 6019.96
+}

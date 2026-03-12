@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Fields, Gill and Contreras",
+    "invoice_number": "INV-29527",
+    "date": "2026-02-08",
+    "items": [
+        {
+            "description": "Upgradable fresh-thinking array",
+            "quantity": 4,
+            "unit_price": 496.97,
+            "total_price": 1987.88
+        },
+        {
+            "description": "Secured static process improvement",
+            "quantity": 4,
+            "unit_price": 376.68,
+            "total_price": 1506.72
+        },
+        {
+            "description": "Open-source human-resource emulation",
+            "quantity": 7,
+            "unit_price": 459.64,
+            "total_price": 3217.48
+        }
+    ],
+    "amount": 6712.08
+}

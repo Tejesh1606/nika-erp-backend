@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hill PLC",
+    "invoice_number": "INV-36847",
+    "date": "2025-08-14",
+    "items": [
+        {
+            "description": "Fully-configurable fresh-thinking Internet solution",
+            "quantity": 8,
+            "unit_price": 81.31,
+            "total_price": 650.48
+        },
+        {
+            "description": "Progressive analyzing solution",
+            "quantity": 7,
+            "unit_price": 228.73,
+            "total_price": 1601.11
+        }
+    ],
+    "amount": 2251.59
+}

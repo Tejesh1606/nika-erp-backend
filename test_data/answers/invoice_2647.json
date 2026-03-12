@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Morris, Kelley and Russell",
+    "invoice_number": "INV-19722",
+    "date": "2026-01-12",
+    "items": [
+        {
+            "description": "Up-sized regional approach",
+            "quantity": 1,
+            "unit_price": 404.58,
+            "total_price": 404.58
+        },
+        {
+            "description": "Distributed clear-thinking encryption",
+            "quantity": 1,
+            "unit_price": 470.56,
+            "total_price": 470.56
+        }
+    ],
+    "amount": 875.14
+}

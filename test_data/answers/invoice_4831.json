@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Pearson and Sons",
+    "invoice_number": "INV-70843",
+    "date": "2025-10-26",
+    "items": [
+        {
+            "description": "Vision-oriented multimedia pricing structure",
+            "quantity": 6,
+            "unit_price": 414.2,
+            "total_price": 2485.2
+        },
+        {
+            "description": "Synergized upward-trending solution",
+            "quantity": 7,
+            "unit_price": 333.41,
+            "total_price": 2333.87
+        },
+        {
+            "description": "Cross-platform even-keeled groupware",
+            "quantity": 9,
+            "unit_price": 71.36,
+            "total_price": 642.24
+        },
+        {
+            "description": "Fundamental needs-based artificial intelligence",
+            "quantity": 5,
+            "unit_price": 367.74,
+            "total_price": 1838.7
+        }
+    ],
+    "amount": 7300.01
+}

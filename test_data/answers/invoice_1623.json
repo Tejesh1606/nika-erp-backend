@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Montes Group",
+    "invoice_number": "INV-21170",
+    "date": "2025-04-30",
+    "items": [
+        {
+            "description": "Cross-platform radical model",
+            "quantity": 10,
+            "unit_price": 27.24,
+            "total_price": 272.4
+        },
+        {
+            "description": "Realigned zero administration budgetary management",
+            "quantity": 4,
+            "unit_price": 229.36,
+            "total_price": 917.44
+        }
+    ],
+    "amount": 1189.84
+}

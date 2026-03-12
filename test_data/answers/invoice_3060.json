@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Caldwell, Herrera and Diaz",
+    "invoice_number": "INV-66698",
+    "date": "2025-06-09",
+    "items": [
+        {
+            "description": "Intuitive clear-thinking access",
+            "quantity": 3,
+            "unit_price": 241.27,
+            "total_price": 723.81
+        }
+    ],
+    "amount": 723.81
+}

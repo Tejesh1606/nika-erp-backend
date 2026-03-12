@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Sandoval-May",
+    "invoice_number": "INV-10342",
+    "date": "2025-09-16",
+    "items": [
+        {
+            "description": "Profound national data-warehouse",
+            "quantity": 1,
+            "unit_price": 154.65,
+            "total_price": 154.65
+        },
+        {
+            "description": "Networked optimal complexity",
+            "quantity": 5,
+            "unit_price": 263.4,
+            "total_price": 1317.0
+        }
+    ],
+    "amount": 1471.65
+}

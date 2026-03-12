@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Holmes Ltd",
+    "invoice_number": "INV-54085",
+    "date": "2025-11-21",
+    "items": [
+        {
+            "description": "Re-engineered methodical flexibility",
+            "quantity": 6,
+            "unit_price": 316.42,
+            "total_price": 1898.52
+        },
+        {
+            "description": "Organic leadingedge Internet solution",
+            "quantity": 7,
+            "unit_price": 492.29,
+            "total_price": 3446.03
+        }
+    ],
+    "amount": 5344.55
+}

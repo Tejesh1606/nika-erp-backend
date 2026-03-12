@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Stone Group",
+    "invoice_number": "INV-81809",
+    "date": "2025-09-09",
+    "items": [
+        {
+            "description": "Automated regional throughput",
+            "quantity": 9,
+            "unit_price": 87.81,
+            "total_price": 790.29
+        },
+        {
+            "description": "Organic leadingedge knowledgebase",
+            "quantity": 9,
+            "unit_price": 274.0,
+            "total_price": 2466.0
+        },
+        {
+            "description": "Organic radical hub",
+            "quantity": 7,
+            "unit_price": 111.7,
+            "total_price": 781.9
+        }
+    ],
+    "amount": 4038.19
+}

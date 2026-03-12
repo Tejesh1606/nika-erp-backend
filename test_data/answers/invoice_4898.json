@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jackson LLC",
+    "invoice_number": "INV-31024",
+    "date": "2025-05-20",
+    "items": [
+        {
+            "description": "Reverse-engineered coherent extranet",
+            "quantity": 7,
+            "unit_price": 466.1,
+            "total_price": 3262.7
+        }
+    ],
+    "amount": 3262.7
+}

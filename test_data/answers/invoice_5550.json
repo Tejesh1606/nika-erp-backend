@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gardner Ltd",
+    "invoice_number": "INV-20070",
+    "date": "2025-03-24",
+    "items": [
+        {
+            "description": "Extended 3rdgeneration complexity",
+            "quantity": 10,
+            "unit_price": 364.66,
+            "total_price": 3646.6
+        }
+    ],
+    "amount": 3646.6
+}

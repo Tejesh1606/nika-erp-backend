@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ochoa LLC",
+    "invoice_number": "INV-15688",
+    "date": "2025-10-30",
+    "items": [
+        {
+            "description": "Open-architected multimedia functionalities",
+            "quantity": 6,
+            "unit_price": 294.41,
+            "total_price": 1766.46
+        },
+        {
+            "description": "Secured didactic middleware",
+            "quantity": 7,
+            "unit_price": 90.87,
+            "total_price": 636.09
+        }
+    ],
+    "amount": 2402.55
+}

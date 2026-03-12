@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Morgan, Lee and Cummings",
+    "invoice_number": "INV-39233",
+    "date": "2025-11-18",
+    "items": [
+        {
+            "description": "Public-key well-modulated analyzer",
+            "quantity": 8,
+            "unit_price": 129.93,
+            "total_price": 1039.44
+        },
+        {
+            "description": "Balanced encompassing orchestration",
+            "quantity": 10,
+            "unit_price": 444.06,
+            "total_price": 4440.6
+        },
+        {
+            "description": "Public-key directional strategy",
+            "quantity": 9,
+            "unit_price": 412.16,
+            "total_price": 3709.44
+        }
+    ],
+    "amount": 9189.48
+}

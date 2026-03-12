@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Parker-Brown",
+    "invoice_number": "INV-67505",
+    "date": "2025-09-23",
+    "items": [
+        {
+            "description": "Proactive interactive instruction set",
+            "quantity": 8,
+            "unit_price": 309.92,
+            "total_price": 2479.36
+        },
+        {
+            "description": "Assimilated well-modulated throughput",
+            "quantity": 2,
+            "unit_price": 298.37,
+            "total_price": 596.74
+        },
+        {
+            "description": "Upgradable asynchronous leverage",
+            "quantity": 9,
+            "unit_price": 238.06,
+            "total_price": 2142.54
+        },
+        {
+            "description": "Quality-focused cohesive service-desk",
+            "quantity": 7,
+            "unit_price": 156.67,
+            "total_price": 1096.69
+        }
+    ],
+    "amount": 6315.33
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Williams-Thomas",
+    "invoice_number": "INV-18227",
+    "date": "2025-08-15",
+    "items": [
+        {
+            "description": "Up-sized non-volatile secured line",
+            "quantity": 9,
+            "unit_price": 27.98,
+            "total_price": 251.82
+        },
+        {
+            "description": "Profit-focused bifurcated frame",
+            "quantity": 8,
+            "unit_price": 64.53,
+            "total_price": 516.24
+        }
+    ],
+    "amount": 768.06
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jones, Jones and Smith",
+    "invoice_number": "INV-76476",
+    "date": "2025-11-09",
+    "items": [
+        {
+            "description": "Assimilated optimal paradigm",
+            "quantity": 9,
+            "unit_price": 342.4,
+            "total_price": 3081.6
+        }
+    ],
+    "amount": 3081.6
+}

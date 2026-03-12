@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Sherman-Simmons",
+    "invoice_number": "INV-72152",
+    "date": "2025-04-19",
+    "items": [
+        {
+            "description": "Stand-alone content-based Local Area Network",
+            "quantity": 3,
+            "unit_price": 49.29,
+            "total_price": 147.87
+        },
+        {
+            "description": "Business-focused responsive circuit",
+            "quantity": 6,
+            "unit_price": 218.93,
+            "total_price": 1313.58
+        }
+    ],
+    "amount": 1461.45
+}

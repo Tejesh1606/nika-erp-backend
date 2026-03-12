@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Price, Spears and Smith",
+    "invoice_number": "INV-54642",
+    "date": "2025-07-11",
+    "items": [
+        {
+            "description": "Monitored leadingedge collaboration",
+            "quantity": 7,
+            "unit_price": 320.23,
+            "total_price": 2241.61
+        },
+        {
+            "description": "Persistent value-added methodology",
+            "quantity": 2,
+            "unit_price": 75.48,
+            "total_price": 150.96
+        },
+        {
+            "description": "Expanded national standardization",
+            "quantity": 6,
+            "unit_price": 322.62,
+            "total_price": 1935.72
+        },
+        {
+            "description": "Down-sized systematic info-mediaries",
+            "quantity": 7,
+            "unit_price": 351.25,
+            "total_price": 2458.75
+        }
+    ],
+    "amount": 6787.04
+}

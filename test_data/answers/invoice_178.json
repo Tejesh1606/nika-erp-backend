@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Richardson, Edwards and Ramirez",
+    "invoice_number": "INV-24869",
+    "date": "2025-03-19",
+    "items": [
+        {
+            "description": "User-centric contextually-based methodology",
+            "quantity": 4,
+            "unit_price": 309.58,
+            "total_price": 1238.32
+        }
+    ],
+    "amount": 1238.32
+}

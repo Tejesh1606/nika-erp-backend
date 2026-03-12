@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Moore-Murray",
+    "invoice_number": "INV-80381",
+    "date": "2026-02-19",
+    "items": [
+        {
+            "description": "Managed maximized toolset",
+            "quantity": 8,
+            "unit_price": 339.75,
+            "total_price": 2718.0
+        },
+        {
+            "description": "Open-source value-added approach",
+            "quantity": 7,
+            "unit_price": 74.75,
+            "total_price": 523.25
+        },
+        {
+            "description": "Programmable exuding open system",
+            "quantity": 7,
+            "unit_price": 215.84,
+            "total_price": 1510.88
+        }
+    ],
+    "amount": 4752.13
+}

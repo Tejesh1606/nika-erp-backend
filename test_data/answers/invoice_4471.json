@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Becker, Mills and Hutchinson",
+    "invoice_number": "INV-30922",
+    "date": "2025-09-13",
+    "items": [
+        {
+            "description": "Reverse-engineered actuating function",
+            "quantity": 4,
+            "unit_price": 369.3,
+            "total_price": 1477.2
+        }
+    ],
+    "amount": 1477.2
+}

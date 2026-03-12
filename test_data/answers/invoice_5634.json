@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wise, Tyler and Mullen",
+    "invoice_number": "INV-81471",
+    "date": "2025-04-07",
+    "items": [
+        {
+            "description": "Seamless dedicated monitoring",
+            "quantity": 6,
+            "unit_price": 205.91,
+            "total_price": 1235.46
+        }
+    ],
+    "amount": 1235.46
+}

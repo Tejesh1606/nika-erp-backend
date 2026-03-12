@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Chang Ltd",
+    "invoice_number": "INV-56900",
+    "date": "2025-05-22",
+    "items": [
+        {
+            "description": "Cross-group reciprocal product",
+            "quantity": 8,
+            "unit_price": 340.03,
+            "total_price": 2720.24
+        },
+        {
+            "description": "Innovative transitional definition",
+            "quantity": 5,
+            "unit_price": 193.92,
+            "total_price": 969.6
+        }
+    ],
+    "amount": 3689.84
+}

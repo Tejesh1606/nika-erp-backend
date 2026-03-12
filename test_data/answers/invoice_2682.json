@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hansen, Warner and Webb",
+    "invoice_number": "INV-23478",
+    "date": "2025-08-25",
+    "items": [
+        {
+            "description": "Cross-group bi-directional hierarchy",
+            "quantity": 6,
+            "unit_price": 235.45,
+            "total_price": 1412.7
+        },
+        {
+            "description": "Programmable human-resource interface",
+            "quantity": 8,
+            "unit_price": 464.37,
+            "total_price": 3714.96
+        },
+        {
+            "description": "Programmable interactive budgetary management",
+            "quantity": 8,
+            "unit_price": 112.2,
+            "total_price": 897.6
+        },
+        {
+            "description": "Configurable non-volatile orchestration",
+            "quantity": 7,
+            "unit_price": 256.24,
+            "total_price": 1793.68
+        }
+    ],
+    "amount": 7818.94
+}

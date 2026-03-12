@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ray LLC",
+    "invoice_number": "INV-12337",
+    "date": "2025-11-13",
+    "items": [
+        {
+            "description": "Re-engineered 24hour Local Area Network",
+            "quantity": 7,
+            "unit_price": 203.02,
+            "total_price": 1421.14
+        },
+        {
+            "description": "Horizontal clear-thinking initiative",
+            "quantity": 5,
+            "unit_price": 183.41,
+            "total_price": 917.05
+        },
+        {
+            "description": "Automated national moderator",
+            "quantity": 4,
+            "unit_price": 59.34,
+            "total_price": 237.36
+        }
+    ],
+    "amount": 2575.55
+}

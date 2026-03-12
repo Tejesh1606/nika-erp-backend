@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Walters-Kelly",
+    "invoice_number": "INV-52037",
+    "date": "2025-05-08",
+    "items": [
+        {
+            "description": "Streamlined impactful function",
+            "quantity": 7,
+            "unit_price": 152.36,
+            "total_price": 1066.52
+        },
+        {
+            "description": "Distributed well-modulated synergy",
+            "quantity": 7,
+            "unit_price": 389.85,
+            "total_price": 2728.95
+        },
+        {
+            "description": "Future-proofed didactic intranet",
+            "quantity": 10,
+            "unit_price": 153.14,
+            "total_price": 1531.4
+        },
+        {
+            "description": "Integrated coherent middleware",
+            "quantity": 5,
+            "unit_price": 124.65,
+            "total_price": 623.25
+        }
+    ],
+    "amount": 5950.12
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Crawford and Sons",
+    "invoice_number": "INV-78247",
+    "date": "2025-11-07",
+    "items": [
+        {
+            "description": "Ameliorated explicit instruction set",
+            "quantity": 6,
+            "unit_price": 379.45,
+            "total_price": 2276.7
+        },
+        {
+            "description": "Synergized needs-based capacity",
+            "quantity": 6,
+            "unit_price": 179.43,
+            "total_price": 1076.58
+        },
+        {
+            "description": "Phased grid-enabled instruction set",
+            "quantity": 4,
+            "unit_price": 148.63,
+            "total_price": 594.52
+        }
+    ],
+    "amount": 3947.8
+}

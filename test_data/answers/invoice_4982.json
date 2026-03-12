@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Howard PLC",
+    "invoice_number": "INV-93529",
+    "date": "2026-01-14",
+    "items": [
+        {
+            "description": "Face-to-face disintermediate focus group",
+            "quantity": 2,
+            "unit_price": 200.45,
+            "total_price": 400.9
+        },
+        {
+            "description": "Intuitive asynchronous conglomeration",
+            "quantity": 10,
+            "unit_price": 393.54,
+            "total_price": 3935.4
+        },
+        {
+            "description": "Robust multi-tasking collaboration",
+            "quantity": 10,
+            "unit_price": 425.65,
+            "total_price": 4256.5
+        }
+    ],
+    "amount": 8592.8
+}

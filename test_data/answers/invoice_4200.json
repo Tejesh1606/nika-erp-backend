@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Turner-Lopez",
+    "invoice_number": "INV-63575",
+    "date": "2025-04-26",
+    "items": [
+        {
+            "description": "Switchable user-facing leverage",
+            "quantity": 9,
+            "unit_price": 220.9,
+            "total_price": 1988.1
+        }
+    ],
+    "amount": 1988.1
+}

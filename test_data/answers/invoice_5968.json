@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Shaw Ltd",
+    "invoice_number": "INV-49465",
+    "date": "2025-08-21",
+    "items": [
+        {
+            "description": "Versatile hybrid capability",
+            "quantity": 9,
+            "unit_price": 313.93,
+            "total_price": 2825.37
+        },
+        {
+            "description": "Robust optimal open system",
+            "quantity": 3,
+            "unit_price": 467.23,
+            "total_price": 1401.69
+        },
+        {
+            "description": "Organic attitude-oriented analyzer",
+            "quantity": 5,
+            "unit_price": 233.43,
+            "total_price": 1167.15
+        }
+    ],
+    "amount": 5394.21
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gilmore, Flores and Thomas",
+    "invoice_number": "INV-33892",
+    "date": "2025-08-30",
+    "items": [
+        {
+            "description": "Customizable optimal protocol",
+            "quantity": 9,
+            "unit_price": 15.72,
+            "total_price": 141.48
+        },
+        {
+            "description": "Diverse incremental algorithm",
+            "quantity": 4,
+            "unit_price": 356.3,
+            "total_price": 1425.2
+        },
+        {
+            "description": "Virtual clear-thinking product",
+            "quantity": 8,
+            "unit_price": 251.75,
+            "total_price": 2014.0
+        },
+        {
+            "description": "Switchable human-resource toolset",
+            "quantity": 1,
+            "unit_price": 287.86,
+            "total_price": 287.86
+        }
+    ],
+    "amount": 3868.54
+}

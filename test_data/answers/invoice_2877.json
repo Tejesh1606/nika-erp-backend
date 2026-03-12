@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Allen, Nichols and Thompson",
+    "invoice_number": "INV-30390",
+    "date": "2025-04-04",
+    "items": [
+        {
+            "description": "Function-based analyzing help-desk",
+            "quantity": 10,
+            "unit_price": 105.78,
+            "total_price": 1057.8
+        },
+        {
+            "description": "Cloned didactic array",
+            "quantity": 2,
+            "unit_price": 272.03,
+            "total_price": 544.06
+        },
+        {
+            "description": "Public-key human-resource implementation",
+            "quantity": 1,
+            "unit_price": 252.83,
+            "total_price": 252.83
+        }
+    ],
+    "amount": 1854.69
+}

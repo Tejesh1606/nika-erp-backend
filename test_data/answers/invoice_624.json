@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Myers, Hernandez and Rivera",
+    "invoice_number": "INV-61292",
+    "date": "2025-10-18",
+    "items": [
+        {
+            "description": "Adaptive multimedia strategy",
+            "quantity": 8,
+            "unit_price": 383.21,
+            "total_price": 3065.68
+        },
+        {
+            "description": "Visionary mobile matrices",
+            "quantity": 6,
+            "unit_price": 101.77,
+            "total_price": 610.62
+        },
+        {
+            "description": "Optional impactful superstructure",
+            "quantity": 4,
+            "unit_price": 345.0,
+            "total_price": 1380.0
+        },
+        {
+            "description": "Vision-oriented zero tolerance architecture",
+            "quantity": 10,
+            "unit_price": 264.08,
+            "total_price": 2640.8
+        }
+    ],
+    "amount": 7697.1
+}

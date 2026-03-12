@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cooper, Heath and Payne",
+    "invoice_number": "INV-14141",
+    "date": "2025-08-23",
+    "items": [
+        {
+            "description": "Decentralized human-resource knowledge user",
+            "quantity": 3,
+            "unit_price": 121.36,
+            "total_price": 364.08
+        },
+        {
+            "description": "Intuitive homogeneous intranet",
+            "quantity": 4,
+            "unit_price": 419.35,
+            "total_price": 1677.4
+        }
+    ],
+    "amount": 2041.48
+}

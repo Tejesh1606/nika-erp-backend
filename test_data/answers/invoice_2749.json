@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Perez-Rodgers",
+    "invoice_number": "INV-28596",
+    "date": "2026-01-30",
+    "items": [
+        {
+            "description": "Reverse-engineered foreground flexibility",
+            "quantity": 8,
+            "unit_price": 421.12,
+            "total_price": 3368.96
+        },
+        {
+            "description": "Sharable zero tolerance hardware",
+            "quantity": 6,
+            "unit_price": 39.67,
+            "total_price": 238.02
+        }
+    ],
+    "amount": 3606.98
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rivera LLC",
+    "invoice_number": "INV-97393",
+    "date": "2026-01-19",
+    "items": [
+        {
+            "description": "Quality-focused neutral encoding",
+            "quantity": 1,
+            "unit_price": 407.42,
+            "total_price": 407.42
+        },
+        {
+            "description": "Secured radical support",
+            "quantity": 8,
+            "unit_price": 413.48,
+            "total_price": 3307.84
+        },
+        {
+            "description": "Phased empowering synergy",
+            "quantity": 9,
+            "unit_price": 465.37,
+            "total_price": 4188.33
+        },
+        {
+            "description": "Customer-focused neutral hardware",
+            "quantity": 10,
+            "unit_price": 358.15,
+            "total_price": 3581.5
+        }
+    ],
+    "amount": 11485.09
+}

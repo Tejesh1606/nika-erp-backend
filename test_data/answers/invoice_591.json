@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Oliver PLC",
+    "invoice_number": "INV-30843",
+    "date": "2025-09-12",
+    "items": [
+        {
+            "description": "Networked asymmetric Graphical User Interface",
+            "quantity": 1,
+            "unit_price": 384.6,
+            "total_price": 384.6
+        },
+        {
+            "description": "Expanded system-worthy parallelism",
+            "quantity": 1,
+            "unit_price": 12.29,
+            "total_price": 12.29
+        },
+        {
+            "description": "Optional zero tolerance Internet solution",
+            "quantity": 7,
+            "unit_price": 327.49,
+            "total_price": 2292.43
+        },
+        {
+            "description": "Re-contextualized zero tolerance Graphical User Interface",
+            "quantity": 8,
+            "unit_price": 157.57,
+            "total_price": 1260.56
+        }
+    ],
+    "amount": 3949.88
+}

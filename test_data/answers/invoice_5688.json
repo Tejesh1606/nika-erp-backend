@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Owens, Moreno and Allen",
+    "invoice_number": "INV-92190",
+    "date": "2025-04-04",
+    "items": [
+        {
+            "description": "Grass-roots executive open architecture",
+            "quantity": 8,
+            "unit_price": 381.45,
+            "total_price": 3051.6
+        },
+        {
+            "description": "Polarized static matrix",
+            "quantity": 9,
+            "unit_price": 463.84,
+            "total_price": 4174.56
+        },
+        {
+            "description": "Organic exuding intranet",
+            "quantity": 2,
+            "unit_price": 230.9,
+            "total_price": 461.8
+        }
+    ],
+    "amount": 7687.96
+}

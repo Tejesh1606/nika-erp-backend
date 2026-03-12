@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Deleon-Henson",
+    "invoice_number": "INV-63264",
+    "date": "2025-11-05",
+    "items": [
+        {
+            "description": "User-friendly coherent encoding",
+            "quantity": 3,
+            "unit_price": 338.38,
+            "total_price": 1015.14
+        },
+        {
+            "description": "Diverse context-sensitive installation",
+            "quantity": 5,
+            "unit_price": 379.3,
+            "total_price": 1896.5
+        },
+        {
+            "description": "Assimilated context-sensitive support",
+            "quantity": 7,
+            "unit_price": 448.11,
+            "total_price": 3136.77
+        },
+        {
+            "description": "Managed zero tolerance installation",
+            "quantity": 10,
+            "unit_price": 162.3,
+            "total_price": 1623.0
+        }
+    ],
+    "amount": 7671.41
+}

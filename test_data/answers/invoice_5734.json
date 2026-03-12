@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Conway and Sons",
+    "invoice_number": "INV-84413",
+    "date": "2025-03-26",
+    "items": [
+        {
+            "description": "Object-based intangible Graphic Interface",
+            "quantity": 7,
+            "unit_price": 399.94,
+            "total_price": 2799.58
+        },
+        {
+            "description": "Centralized user-facing initiative",
+            "quantity": 1,
+            "unit_price": 279.97,
+            "total_price": 279.97
+        },
+        {
+            "description": "Profound multi-tasking product",
+            "quantity": 10,
+            "unit_price": 464.41,
+            "total_price": 4644.1
+        }
+    ],
+    "amount": 7723.65
+}

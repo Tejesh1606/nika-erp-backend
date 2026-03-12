@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Moss-Frederick",
+    "invoice_number": "INV-34725",
+    "date": "2025-05-26",
+    "items": [
+        {
+            "description": "Advanced object-oriented hub",
+            "quantity": 3,
+            "unit_price": 388.19,
+            "total_price": 1164.57
+        },
+        {
+            "description": "Profit-focused modular circuit",
+            "quantity": 4,
+            "unit_price": 373.02,
+            "total_price": 1492.08
+        },
+        {
+            "description": "Front-line system-worthy open architecture",
+            "quantity": 4,
+            "unit_price": 317.13,
+            "total_price": 1268.52
+        }
+    ],
+    "amount": 3925.17
+}

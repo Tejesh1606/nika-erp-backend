@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Rice LLC",
+    "invoice_number": "INV-70178",
+    "date": "2026-02-21",
+    "items": [
+        {
+            "description": "Streamlined zero-defect frame",
+            "quantity": 6,
+            "unit_price": 231.59,
+            "total_price": 1389.54
+        },
+        {
+            "description": "Reduced zero administration installation",
+            "quantity": 3,
+            "unit_price": 356.78,
+            "total_price": 1070.34
+        },
+        {
+            "description": "Multi-lateral regional policy",
+            "quantity": 6,
+            "unit_price": 217.04,
+            "total_price": 1302.24
+        }
+    ],
+    "amount": 3762.12
+}

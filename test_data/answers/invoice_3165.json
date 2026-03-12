@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Carney-Thompson",
+    "invoice_number": "INV-54546",
+    "date": "2025-12-23",
+    "items": [
+        {
+            "description": "Synergistic dedicated policy",
+            "quantity": 1,
+            "unit_price": 398.78,
+            "total_price": 398.78
+        },
+        {
+            "description": "Multi-lateral 6thgeneration throughput",
+            "quantity": 6,
+            "unit_price": 284.36,
+            "total_price": 1706.16
+        },
+        {
+            "description": "Customer-focused background budgetary management",
+            "quantity": 1,
+            "unit_price": 378.29,
+            "total_price": 378.29
+        }
+    ],
+    "amount": 2483.23
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Miller, Vaughan and Harris",
+    "invoice_number": "INV-37030",
+    "date": "2025-04-10",
+    "items": [
+        {
+            "description": "Seamless zero administration website",
+            "quantity": 1,
+            "unit_price": 269.26,
+            "total_price": 269.26
+        },
+        {
+            "description": "Persevering explicit open system",
+            "quantity": 3,
+            "unit_price": 302.66,
+            "total_price": 907.98
+        },
+        {
+            "description": "Fully-configurable bifurcated encoding",
+            "quantity": 4,
+            "unit_price": 412.51,
+            "total_price": 1650.04
+        }
+    ],
+    "amount": 2827.28
+}

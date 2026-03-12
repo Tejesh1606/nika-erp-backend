@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Moore-Garza",
+    "invoice_number": "INV-28709",
+    "date": "2025-04-25",
+    "items": [
+        {
+            "description": "Ameliorated regional time-frame",
+            "quantity": 7,
+            "unit_price": 121.27,
+            "total_price": 848.89
+        }
+    ],
+    "amount": 848.89
+}

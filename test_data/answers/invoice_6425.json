@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Williams-Nelson",
+    "invoice_number": "INV-46457",
+    "date": "2025-07-19",
+    "items": [
+        {
+            "description": "Customizable radical solution",
+            "quantity": 6,
+            "unit_price": 467.49,
+            "total_price": 2804.94
+        }
+    ],
+    "amount": 2804.94
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hill-Stephenson",
+    "invoice_number": "INV-53314",
+    "date": "2025-07-12",
+    "items": [
+        {
+            "description": "Multi-channeled bandwidth-monitored software",
+            "quantity": 2,
+            "unit_price": 22.27,
+            "total_price": 44.54
+        }
+    ],
+    "amount": 44.54
+}

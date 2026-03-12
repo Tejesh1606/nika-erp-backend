@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Farmer, Caldwell and Ortiz",
+    "invoice_number": "INV-60231",
+    "date": "2025-04-11",
+    "items": [
+        {
+            "description": "Assimilated empowering knowledgebase",
+            "quantity": 4,
+            "unit_price": 314.79,
+            "total_price": 1259.16
+        }
+    ],
+    "amount": 1259.16
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith Ltd",
+    "invoice_number": "INV-77357",
+    "date": "2025-08-24",
+    "items": [
+        {
+            "description": "Right-sized hybrid info-mediaries",
+            "quantity": 3,
+            "unit_price": 367.72,
+            "total_price": 1103.16
+        },
+        {
+            "description": "Cloned analyzing budgetary management",
+            "quantity": 10,
+            "unit_price": 443.09,
+            "total_price": 4430.9
+        },
+        {
+            "description": "Virtual human-resource middleware",
+            "quantity": 7,
+            "unit_price": 458.96,
+            "total_price": 3212.72
+        }
+    ],
+    "amount": 8746.78
+}

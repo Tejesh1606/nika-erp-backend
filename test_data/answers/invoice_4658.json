@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lee-Jones",
+    "invoice_number": "INV-55148",
+    "date": "2026-02-05",
+    "items": [
+        {
+            "description": "Synergistic mission-critical structure",
+            "quantity": 3,
+            "unit_price": 460.3,
+            "total_price": 1380.9
+        },
+        {
+            "description": "Decentralized intermediate synergy",
+            "quantity": 4,
+            "unit_price": 33.81,
+            "total_price": 135.24
+        },
+        {
+            "description": "Realigned client-server installation",
+            "quantity": 1,
+            "unit_price": 257.25,
+            "total_price": 257.25
+        }
+    ],
+    "amount": 1773.39
+}

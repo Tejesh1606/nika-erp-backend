@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wallace-King",
+    "invoice_number": "INV-54540",
+    "date": "2025-06-07",
+    "items": [
+        {
+            "description": "Face-to-face stable customer loyalty",
+            "quantity": 3,
+            "unit_price": 444.91,
+            "total_price": 1334.73
+        },
+        {
+            "description": "Vision-oriented bottom-line methodology",
+            "quantity": 1,
+            "unit_price": 375.56,
+            "total_price": 375.56
+        },
+        {
+            "description": "Virtual attitude-oriented extranet",
+            "quantity": 5,
+            "unit_price": 193.44,
+            "total_price": 967.2
+        }
+    ],
+    "amount": 2677.49
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Coffey, George and Goodman",
+    "invoice_number": "INV-15965",
+    "date": "2025-03-11",
+    "items": [
+        {
+            "description": "Function-based motivating process improvement",
+            "quantity": 6,
+            "unit_price": 281.49,
+            "total_price": 1688.94
+        }
+    ],
+    "amount": 1688.94
+}

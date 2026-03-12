@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Miller LLC",
+    "invoice_number": "INV-37549",
+    "date": "2025-08-09",
+    "items": [
+        {
+            "description": "Integrated background Graphic Interface",
+            "quantity": 10,
+            "unit_price": 285.45,
+            "total_price": 2854.5
+        },
+        {
+            "description": "Implemented logistical benchmark",
+            "quantity": 4,
+            "unit_price": 419.89,
+            "total_price": 1679.56
+        }
+    ],
+    "amount": 4534.06
+}

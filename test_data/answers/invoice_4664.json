@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Sutton, Johnson and Dodson",
+    "invoice_number": "INV-27020",
+    "date": "2025-06-26",
+    "items": [
+        {
+            "description": "Horizontal impactful workforce",
+            "quantity": 4,
+            "unit_price": 475.18,
+            "total_price": 1900.72
+        },
+        {
+            "description": "Universal contextually-based open architecture",
+            "quantity": 4,
+            "unit_price": 152.44,
+            "total_price": 609.76
+        },
+        {
+            "description": "Progressive zero tolerance concept",
+            "quantity": 4,
+            "unit_price": 347.54,
+            "total_price": 1390.16
+        }
+    ],
+    "amount": 3900.64
+}

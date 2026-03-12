@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Grant, Harrington and Howard",
+    "invoice_number": "INV-73349",
+    "date": "2025-12-03",
+    "items": [
+        {
+            "description": "Front-line stable concept",
+            "quantity": 5,
+            "unit_price": 148.47,
+            "total_price": 742.35
+        }
+    ],
+    "amount": 742.35
+}

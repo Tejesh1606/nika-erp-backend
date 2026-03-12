@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Barton and Sons",
+    "invoice_number": "INV-70771",
+    "date": "2025-04-13",
+    "items": [
+        {
+            "description": "Persevering user-facing ability",
+            "quantity": 6,
+            "unit_price": 44.58,
+            "total_price": 267.48
+        }
+    ],
+    "amount": 267.48
+}

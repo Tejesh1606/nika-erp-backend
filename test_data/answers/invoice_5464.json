@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Smith-Allen",
+    "invoice_number": "INV-57753",
+    "date": "2025-09-08",
+    "items": [
+        {
+            "description": "Enterprise-wide empowering Local Area Network",
+            "quantity": 1,
+            "unit_price": 418.05,
+            "total_price": 418.05
+        },
+        {
+            "description": "Open-architected demand-driven policy",
+            "quantity": 9,
+            "unit_price": 94.51,
+            "total_price": 850.59
+        }
+    ],
+    "amount": 1268.64
+}

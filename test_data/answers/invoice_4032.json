@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hammond, Young and Clark",
+    "invoice_number": "INV-63113",
+    "date": "2025-07-08",
+    "items": [
+        {
+            "description": "Robust actuating migration",
+            "quantity": 7,
+            "unit_price": 365.17,
+            "total_price": 2556.19
+        }
+    ],
+    "amount": 2556.19
+}

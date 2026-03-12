@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Patterson, Salas and Wright",
+    "invoice_number": "INV-66917",
+    "date": "2025-10-20",
+    "items": [
+        {
+            "description": "Face-to-face optimizing collaboration",
+            "quantity": 1,
+            "unit_price": 278.85,
+            "total_price": 278.85
+        },
+        {
+            "description": "Re-engineered 24hour instruction set",
+            "quantity": 10,
+            "unit_price": 313.78,
+            "total_price": 3137.8
+        },
+        {
+            "description": "Balanced 6thgeneration leverage",
+            "quantity": 3,
+            "unit_price": 136.97,
+            "total_price": 410.91
+        }
+    ],
+    "amount": 3827.56
+}

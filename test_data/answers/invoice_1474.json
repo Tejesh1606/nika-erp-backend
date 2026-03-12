@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Evans and Sons",
+    "invoice_number": "INV-28882",
+    "date": "2025-07-01",
+    "items": [
+        {
+            "description": "Assimilated 4thgeneration projection",
+            "quantity": 1,
+            "unit_price": 380.91,
+            "total_price": 380.91
+        }
+    ],
+    "amount": 380.91
+}

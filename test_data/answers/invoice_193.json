@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Davis Group",
+    "invoice_number": "INV-76249",
+    "date": "2025-09-02",
+    "items": [
+        {
+            "description": "Front-line didactic paradigm",
+            "quantity": 8,
+            "unit_price": 148.92,
+            "total_price": 1191.36
+        },
+        {
+            "description": "Multi-channeled actuating application",
+            "quantity": 8,
+            "unit_price": 271.69,
+            "total_price": 2173.52
+        }
+    ],
+    "amount": 3364.88
+}

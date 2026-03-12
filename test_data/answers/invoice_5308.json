@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Webb, Anderson and Gross",
+    "invoice_number": "INV-31236",
+    "date": "2025-11-09",
+    "items": [
+        {
+            "description": "Reduced secondary approach",
+            "quantity": 6,
+            "unit_price": 310.1,
+            "total_price": 1860.6
+        },
+        {
+            "description": "Upgradable zero administration framework",
+            "quantity": 9,
+            "unit_price": 156.81,
+            "total_price": 1411.29
+        },
+        {
+            "description": "Extended human-resource moderator",
+            "quantity": 1,
+            "unit_price": 48.6,
+            "total_price": 48.6
+        }
+    ],
+    "amount": 3320.49
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Aguilar and Sons",
+    "invoice_number": "INV-74843",
+    "date": "2025-04-23",
+    "items": [
+        {
+            "description": "Inverse secondary hub",
+            "quantity": 5,
+            "unit_price": 350.9,
+            "total_price": 1754.5
+        },
+        {
+            "description": "Programmable impactful access",
+            "quantity": 10,
+            "unit_price": 243.5,
+            "total_price": 2435.0
+        },
+        {
+            "description": "Enterprise-wide impactful framework",
+            "quantity": 3,
+            "unit_price": 454.11,
+            "total_price": 1362.33
+        },
+        {
+            "description": "De-engineered demand-driven initiative",
+            "quantity": 3,
+            "unit_price": 97.22,
+            "total_price": 291.66
+        }
+    ],
+    "amount": 5843.49
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hernandez-Wright",
+    "invoice_number": "INV-48219",
+    "date": "2025-05-01",
+    "items": [
+        {
+            "description": "Future-proofed radical task-force",
+            "quantity": 3,
+            "unit_price": 66.81,
+            "total_price": 200.43
+        },
+        {
+            "description": "Innovative background workforce",
+            "quantity": 9,
+            "unit_price": 486.86,
+            "total_price": 4381.74
+        },
+        {
+            "description": "Proactive motivating groupware",
+            "quantity": 3,
+            "unit_price": 405.54,
+            "total_price": 1216.62
+        },
+        {
+            "description": "Reactive empowering leverage",
+            "quantity": 7,
+            "unit_price": 371.12,
+            "total_price": 2597.84
+        }
+    ],
+    "amount": 8396.63
+}

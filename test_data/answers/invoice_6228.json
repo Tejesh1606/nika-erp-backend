@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hernandez-Jones",
+    "invoice_number": "INV-47358",
+    "date": "2025-08-14",
+    "items": [
+        {
+            "description": "Cross-platform discrete data-warehouse",
+            "quantity": 10,
+            "unit_price": 355.53,
+            "total_price": 3555.3
+        },
+        {
+            "description": "Monitored empowering intranet",
+            "quantity": 6,
+            "unit_price": 344.29,
+            "total_price": 2065.74
+        },
+        {
+            "description": "Ergonomic uniform encryption",
+            "quantity": 1,
+            "unit_price": 367.11,
+            "total_price": 367.11
+        },
+        {
+            "description": "Phased analyzing concept",
+            "quantity": 7,
+            "unit_price": 10.01,
+            "total_price": 70.07
+        }
+    ],
+    "amount": 6058.22
+}

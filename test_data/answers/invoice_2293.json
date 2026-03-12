@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Powell, Hernandez and Hayes",
+    "invoice_number": "INV-82745",
+    "date": "2025-09-25",
+    "items": [
+        {
+            "description": "Innovative 6thgeneration knowledge user",
+            "quantity": 8,
+            "unit_price": 105.74,
+            "total_price": 845.92
+        },
+        {
+            "description": "Operative interactive extranet",
+            "quantity": 4,
+            "unit_price": 22.47,
+            "total_price": 89.88
+        }
+    ],
+    "amount": 935.8
+}

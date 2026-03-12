@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Monroe PLC",
+    "invoice_number": "INV-72810",
+    "date": "2025-09-13",
+    "items": [
+        {
+            "description": "Horizontal logistical info-mediaries",
+            "quantity": 4,
+            "unit_price": 382.21,
+            "total_price": 1528.84
+        },
+        {
+            "description": "Fully-configurable actuating software",
+            "quantity": 5,
+            "unit_price": 16.03,
+            "total_price": 80.15
+        },
+        {
+            "description": "Public-key didactic groupware",
+            "quantity": 8,
+            "unit_price": 453.75,
+            "total_price": 3630.0
+        },
+        {
+            "description": "Organic clear-thinking secured line",
+            "quantity": 1,
+            "unit_price": 17.71,
+            "total_price": 17.71
+        }
+    ],
+    "amount": 5256.7
+}

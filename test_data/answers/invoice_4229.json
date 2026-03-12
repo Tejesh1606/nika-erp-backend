@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Powell Group",
+    "invoice_number": "INV-28363",
+    "date": "2026-02-10",
+    "items": [
+        {
+            "description": "Down-sized exuding hierarchy",
+            "quantity": 7,
+            "unit_price": 184.03,
+            "total_price": 1288.21
+        },
+        {
+            "description": "Inverse zero administration migration",
+            "quantity": 1,
+            "unit_price": 443.36,
+            "total_price": 443.36
+        }
+    ],
+    "amount": 1731.57
+}

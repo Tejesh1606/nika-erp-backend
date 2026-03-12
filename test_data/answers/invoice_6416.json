@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wong, Wright and Chambers",
+    "invoice_number": "INV-53925",
+    "date": "2026-01-17",
+    "items": [
+        {
+            "description": "Total bottom-line utilization",
+            "quantity": 1,
+            "unit_price": 284.78,
+            "total_price": 284.78
+        },
+        {
+            "description": "Reduced heuristic extranet",
+            "quantity": 6,
+            "unit_price": 218.88,
+            "total_price": 1313.28
+        },
+        {
+            "description": "Grass-roots composite secured line",
+            "quantity": 8,
+            "unit_price": 400.8,
+            "total_price": 3206.4
+        },
+        {
+            "description": "Face-to-face demand-driven firmware",
+            "quantity": 3,
+            "unit_price": 416.4,
+            "total_price": 1249.2
+        }
+    ],
+    "amount": 6053.66
+}

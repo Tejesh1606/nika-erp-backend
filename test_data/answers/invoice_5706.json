@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Madden, Barber and Guzman",
+    "invoice_number": "INV-59755",
+    "date": "2025-08-11",
+    "items": [
+        {
+            "description": "Assimilated object-oriented framework",
+            "quantity": 3,
+            "unit_price": 165.19,
+            "total_price": 495.57
+        },
+        {
+            "description": "Persistent multi-tasking customer loyalty",
+            "quantity": 4,
+            "unit_price": 345.35,
+            "total_price": 1381.4
+        },
+        {
+            "description": "Business-focused intangible circuit",
+            "quantity": 5,
+            "unit_price": 463.09,
+            "total_price": 2315.45
+        },
+        {
+            "description": "Optimized explicit initiative",
+            "quantity": 1,
+            "unit_price": 244.34,
+            "total_price": 244.34
+        }
+    ],
+    "amount": 4436.76
+}

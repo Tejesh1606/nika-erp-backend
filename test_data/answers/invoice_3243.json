@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Scott, Daniel and Ramirez",
+    "invoice_number": "INV-49983",
+    "date": "2025-08-06",
+    "items": [
+        {
+            "description": "Adaptive explicit conglomeration",
+            "quantity": 2,
+            "unit_price": 56.3,
+            "total_price": 112.6
+        },
+        {
+            "description": "Reduced dynamic knowledgebase",
+            "quantity": 8,
+            "unit_price": 156.92,
+            "total_price": 1255.36
+        }
+    ],
+    "amount": 1367.96
+}

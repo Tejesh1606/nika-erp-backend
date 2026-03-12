@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Greene-Alvarez",
+    "invoice_number": "INV-16952",
+    "date": "2025-06-13",
+    "items": [
+        {
+            "description": "Universal responsive system engine",
+            "quantity": 1,
+            "unit_price": 17.59,
+            "total_price": 17.59
+        },
+        {
+            "description": "Re-contextualized intangible solution",
+            "quantity": 10,
+            "unit_price": 420.99,
+            "total_price": 4209.9
+        }
+    ],
+    "amount": 4227.49
+}

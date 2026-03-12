@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Allen-Calderon",
+    "invoice_number": "INV-58623",
+    "date": "2025-03-26",
+    "items": [
+        {
+            "description": "De-engineered upward-trending moderator",
+            "quantity": 4,
+            "unit_price": 445.53,
+            "total_price": 1782.12
+        },
+        {
+            "description": "Stand-alone background project",
+            "quantity": 4,
+            "unit_price": 292.57,
+            "total_price": 1170.28
+        },
+        {
+            "description": "Sharable interactive flexibility",
+            "quantity": 7,
+            "unit_price": 470.06,
+            "total_price": 3290.42
+        }
+    ],
+    "amount": 6242.82
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "King, Oconnor and Pruitt",
+    "invoice_number": "INV-57255",
+    "date": "2025-06-23",
+    "items": [
+        {
+            "description": "Mandatory holistic focus group",
+            "quantity": 3,
+            "unit_price": 341.31,
+            "total_price": 1023.93
+        },
+        {
+            "description": "Cloned needs-based pricing structure",
+            "quantity": 10,
+            "unit_price": 273.0,
+            "total_price": 2730.0
+        },
+        {
+            "description": "Down-sized foreground monitoring",
+            "quantity": 10,
+            "unit_price": 438.19,
+            "total_price": 4381.9
+        }
+    ],
+    "amount": 8135.83
+}

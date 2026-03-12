@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hampton, Weaver and White",
+    "invoice_number": "INV-50298",
+    "date": "2025-03-18",
+    "items": [
+        {
+            "description": "Multi-tiered cohesive migration",
+            "quantity": 3,
+            "unit_price": 373.64,
+            "total_price": 1120.92
+        },
+        {
+            "description": "Down-sized motivating Graphic Interface",
+            "quantity": 5,
+            "unit_price": 245.36,
+            "total_price": 1226.8
+        },
+        {
+            "description": "Adaptive leadingedge complexity",
+            "quantity": 7,
+            "unit_price": 241.41,
+            "total_price": 1689.87
+        }
+    ],
+    "amount": 4037.59
+}

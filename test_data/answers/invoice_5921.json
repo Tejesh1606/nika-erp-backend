@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Santos Inc",
+    "invoice_number": "INV-48804",
+    "date": "2025-06-17",
+    "items": [
+        {
+            "description": "Networked value-added data-warehouse",
+            "quantity": 2,
+            "unit_price": 299.01,
+            "total_price": 598.02
+        }
+    ],
+    "amount": 598.02
+}

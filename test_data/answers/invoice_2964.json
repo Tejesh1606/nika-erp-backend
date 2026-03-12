@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Holloway-Palmer",
+    "invoice_number": "INV-54919",
+    "date": "2025-05-18",
+    "items": [
+        {
+            "description": "Synchronized intangible encoding",
+            "quantity": 3,
+            "unit_price": 64.72,
+            "total_price": 194.16
+        },
+        {
+            "description": "Upgradable methodical workforce",
+            "quantity": 10,
+            "unit_price": 429.73,
+            "total_price": 4297.3
+        },
+        {
+            "description": "Reverse-engineered empowering strategy",
+            "quantity": 5,
+            "unit_price": 119.26,
+            "total_price": 596.3
+        },
+        {
+            "description": "Vision-oriented asymmetric circuit",
+            "quantity": 9,
+            "unit_price": 228.81,
+            "total_price": 2059.29
+        }
+    ],
+    "amount": 7147.05
+}

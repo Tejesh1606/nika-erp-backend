@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Fritz, Fowler and Wong",
+    "invoice_number": "INV-36039",
+    "date": "2025-09-04",
+    "items": [
+        {
+            "description": "Reverse-engineered leadingedge software",
+            "quantity": 5,
+            "unit_price": 262.91,
+            "total_price": 1314.55
+        }
+    ],
+    "amount": 1314.55
+}

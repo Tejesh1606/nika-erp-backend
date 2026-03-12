@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Chavez LLC",
+    "invoice_number": "INV-42198",
+    "date": "2025-10-16",
+    "items": [
+        {
+            "description": "Versatile national open system",
+            "quantity": 2,
+            "unit_price": 151.77,
+            "total_price": 303.54
+        }
+    ],
+    "amount": 303.54
+}

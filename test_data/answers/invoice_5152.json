@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Phillips, Perez and Horton",
+    "invoice_number": "INV-20203",
+    "date": "2025-10-30",
+    "items": [
+        {
+            "description": "Synergistic responsive architecture",
+            "quantity": 1,
+            "unit_price": 335.49,
+            "total_price": 335.49
+        },
+        {
+            "description": "Multi-tiered discrete workforce",
+            "quantity": 4,
+            "unit_price": 408.63,
+            "total_price": 1634.52
+        }
+    ],
+    "amount": 1970.01
+}

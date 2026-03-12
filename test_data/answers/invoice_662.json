@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Rojas-Smith",
+    "invoice_number": "INV-34780",
+    "date": "2025-04-02",
+    "items": [
+        {
+            "description": "Ameliorated discrete model",
+            "quantity": 6,
+            "unit_price": 416.35,
+            "total_price": 2498.1
+        },
+        {
+            "description": "Stand-alone full-range installation",
+            "quantity": 7,
+            "unit_price": 250.61,
+            "total_price": 1754.27
+        }
+    ],
+    "amount": 4252.37
+}

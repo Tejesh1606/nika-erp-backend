@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Turner, Hunt and Garcia",
+    "invoice_number": "INV-99013",
+    "date": "2025-04-11",
+    "items": [
+        {
+            "description": "Mandatory intermediate website",
+            "quantity": 9,
+            "unit_price": 114.58,
+            "total_price": 1031.22
+        },
+        {
+            "description": "Synergistic zero tolerance time-frame",
+            "quantity": 10,
+            "unit_price": 417.48,
+            "total_price": 4174.8
+        },
+        {
+            "description": "Versatile cohesive emulation",
+            "quantity": 7,
+            "unit_price": 415.04,
+            "total_price": 2905.28
+        }
+    ],
+    "amount": 8111.3
+}

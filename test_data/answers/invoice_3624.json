@@ -1,0 +1,26 @@
+{
+    "vendor_name": "King, Price and Fletcher",
+    "invoice_number": "INV-32232",
+    "date": "2025-05-03",
+    "items": [
+        {
+            "description": "Switchable dynamic open system",
+            "quantity": 2,
+            "unit_price": 386.64,
+            "total_price": 773.28
+        },
+        {
+            "description": "Horizontal 24hour matrix",
+            "quantity": 7,
+            "unit_price": 356.86,
+            "total_price": 2498.02
+        },
+        {
+            "description": "Configurable web-enabled intranet",
+            "quantity": 10,
+            "unit_price": 476.84,
+            "total_price": 4768.4
+        }
+    ],
+    "amount": 8039.7
+}

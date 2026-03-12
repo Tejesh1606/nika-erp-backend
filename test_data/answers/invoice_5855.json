@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Martin, Hill and Nelson",
+    "invoice_number": "INV-30828",
+    "date": "2025-08-05",
+    "items": [
+        {
+            "description": "Monitored zero administration firmware",
+            "quantity": 1,
+            "unit_price": 98.31,
+            "total_price": 98.31
+        },
+        {
+            "description": "Re-contextualized upward-trending functionalities",
+            "quantity": 9,
+            "unit_price": 437.95,
+            "total_price": 3941.55
+        },
+        {
+            "description": "Configurable static migration",
+            "quantity": 3,
+            "unit_price": 104.67,
+            "total_price": 314.01
+        },
+        {
+            "description": "Robust responsive protocol",
+            "quantity": 10,
+            "unit_price": 209.82,
+            "total_price": 2098.2
+        }
+    ],
+    "amount": 6452.07
+}

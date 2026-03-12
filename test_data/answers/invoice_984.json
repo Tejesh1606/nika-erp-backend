@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Garner, Lewis and Kennedy",
+    "invoice_number": "INV-89498",
+    "date": "2025-04-17",
+    "items": [
+        {
+            "description": "Optional contextually-based extranet",
+            "quantity": 7,
+            "unit_price": 438.77,
+            "total_price": 3071.39
+        },
+        {
+            "description": "Pre-emptive high-level groupware",
+            "quantity": 6,
+            "unit_price": 455.53,
+            "total_price": 2733.18
+        },
+        {
+            "description": "Innovative bifurcated attitude",
+            "quantity": 6,
+            "unit_price": 89.18,
+            "total_price": 535.08
+        }
+    ],
+    "amount": 6339.65
+}

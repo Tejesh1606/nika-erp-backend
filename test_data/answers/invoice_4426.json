@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Sawyer Inc",
+    "invoice_number": "INV-68364",
+    "date": "2025-08-04",
+    "items": [
+        {
+            "description": "Switchable national artificial intelligence",
+            "quantity": 3,
+            "unit_price": 248.07,
+            "total_price": 744.21
+        },
+        {
+            "description": "Organic solution-oriented access",
+            "quantity": 2,
+            "unit_price": 229.29,
+            "total_price": 458.58
+        },
+        {
+            "description": "Balanced interactive monitoring",
+            "quantity": 5,
+            "unit_price": 111.96,
+            "total_price": 559.8
+        },
+        {
+            "description": "Compatible empowering definition",
+            "quantity": 10,
+            "unit_price": 247.61,
+            "total_price": 2476.1
+        }
+    ],
+    "amount": 4238.69
+}

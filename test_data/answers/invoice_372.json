@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Walter, White and Davis",
+    "invoice_number": "INV-26769",
+    "date": "2025-12-21",
+    "items": [
+        {
+            "description": "Fundamental uniform workforce",
+            "quantity": 5,
+            "unit_price": 491.82,
+            "total_price": 2459.1
+        },
+        {
+            "description": "Realigned well-modulated contingency",
+            "quantity": 2,
+            "unit_price": 83.03,
+            "total_price": 166.06
+        }
+    ],
+    "amount": 2625.16
+}

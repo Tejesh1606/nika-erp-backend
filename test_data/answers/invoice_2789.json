@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Torres, Green and Cox",
+    "invoice_number": "INV-89365",
+    "date": "2025-09-08",
+    "items": [
+        {
+            "description": "Digitized reciprocal infrastructure",
+            "quantity": 1,
+            "unit_price": 310.33,
+            "total_price": 310.33
+        },
+        {
+            "description": "Monitored global info-mediaries",
+            "quantity": 7,
+            "unit_price": 94.76,
+            "total_price": 663.32
+        }
+    ],
+    "amount": 973.65
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Murphy, Barr and Olson",
+    "invoice_number": "INV-55773",
+    "date": "2025-12-20",
+    "items": [
+        {
+            "description": "Switchable systematic task-force",
+            "quantity": 10,
+            "unit_price": 15.12,
+            "total_price": 151.2
+        },
+        {
+            "description": "Optional radical hub",
+            "quantity": 6,
+            "unit_price": 146.93,
+            "total_price": 881.58
+        },
+        {
+            "description": "Triple-buffered asymmetric access",
+            "quantity": 1,
+            "unit_price": 465.87,
+            "total_price": 465.87
+        }
+    ],
+    "amount": 1498.65
+}

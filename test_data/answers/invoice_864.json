@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bolton, Murillo and Goodwin",
+    "invoice_number": "INV-81188",
+    "date": "2026-02-26",
+    "items": [
+        {
+            "description": "Fundamental 24/7 throughput",
+            "quantity": 3,
+            "unit_price": 468.15,
+            "total_price": 1404.45
+        },
+        {
+            "description": "Innovative executive hardware",
+            "quantity": 2,
+            "unit_price": 385.17,
+            "total_price": 770.34
+        }
+    ],
+    "amount": 2174.79
+}

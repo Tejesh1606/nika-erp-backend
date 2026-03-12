@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Savage, Stone and Mendoza",
+    "invoice_number": "INV-65558",
+    "date": "2025-06-07",
+    "items": [
+        {
+            "description": "Re-contextualized attitude-oriented framework",
+            "quantity": 1,
+            "unit_price": 106.9,
+            "total_price": 106.9
+        },
+        {
+            "description": "Decentralized needs-based solution",
+            "quantity": 10,
+            "unit_price": 115.23,
+            "total_price": 1152.3
+        },
+        {
+            "description": "Front-line fresh-thinking paradigm",
+            "quantity": 3,
+            "unit_price": 292.56,
+            "total_price": 877.68
+        },
+        {
+            "description": "Automated value-added success",
+            "quantity": 9,
+            "unit_price": 80.52,
+            "total_price": 724.68
+        }
+    ],
+    "amount": 2861.56
+}

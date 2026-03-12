@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wood, Banks and Gray",
+    "invoice_number": "INV-67486",
+    "date": "2025-05-16",
+    "items": [
+        {
+            "description": "Profound uniform parallelism",
+            "quantity": 3,
+            "unit_price": 333.88,
+            "total_price": 1001.64
+        }
+    ],
+    "amount": 1001.64
+}

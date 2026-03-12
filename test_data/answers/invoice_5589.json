@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gordon-Bishop",
+    "invoice_number": "INV-80698",
+    "date": "2025-12-25",
+    "items": [
+        {
+            "description": "Team-oriented exuding complexity",
+            "quantity": 9,
+            "unit_price": 424.37,
+            "total_price": 3819.33
+        }
+    ],
+    "amount": 3819.33
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Taylor Inc",
+    "invoice_number": "INV-67848",
+    "date": "2025-04-02",
+    "items": [
+        {
+            "description": "Progressive regional projection",
+            "quantity": 4,
+            "unit_price": 495.11,
+            "total_price": 1980.44
+        },
+        {
+            "description": "Up-sized non-volatile system engine",
+            "quantity": 2,
+            "unit_price": 52.48,
+            "total_price": 104.96
+        },
+        {
+            "description": "Focused heuristic function",
+            "quantity": 4,
+            "unit_price": 224.38,
+            "total_price": 897.52
+        },
+        {
+            "description": "Synergistic leadingedge support",
+            "quantity": 6,
+            "unit_price": 356.08,
+            "total_price": 2136.48
+        }
+    ],
+    "amount": 5119.4
+}

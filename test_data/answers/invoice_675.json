@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Clark Group",
+    "invoice_number": "INV-78852",
+    "date": "2025-07-17",
+    "items": [
+        {
+            "description": "Cloned optimizing system engine",
+            "quantity": 9,
+            "unit_price": 451.69,
+            "total_price": 4065.21
+        },
+        {
+            "description": "Multi-tiered background ability",
+            "quantity": 7,
+            "unit_price": 104.18,
+            "total_price": 729.26
+        },
+        {
+            "description": "Open-source scalable flexibility",
+            "quantity": 7,
+            "unit_price": 142.15,
+            "total_price": 995.05
+        }
+    ],
+    "amount": 5789.52
+}

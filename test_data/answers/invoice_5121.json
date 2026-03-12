@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mullins-Dennis",
+    "invoice_number": "INV-33061",
+    "date": "2026-02-06",
+    "items": [
+        {
+            "description": "Enterprise-wide systematic initiative",
+            "quantity": 3,
+            "unit_price": 230.33,
+            "total_price": 690.99
+        }
+    ],
+    "amount": 690.99
+}

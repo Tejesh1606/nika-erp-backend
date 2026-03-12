@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Fuentes, Williams and Schneider",
+    "invoice_number": "INV-73937",
+    "date": "2025-06-10",
+    "items": [
+        {
+            "description": "Multi-channeled 5thgeneration encoding",
+            "quantity": 3,
+            "unit_price": 494.69,
+            "total_price": 1484.07
+        },
+        {
+            "description": "Decentralized multimedia toolset",
+            "quantity": 3,
+            "unit_price": 222.89,
+            "total_price": 668.67
+        },
+        {
+            "description": "Progressive exuding parallelism",
+            "quantity": 4,
+            "unit_price": 417.96,
+            "total_price": 1671.84
+        }
+    ],
+    "amount": 3824.58
+}

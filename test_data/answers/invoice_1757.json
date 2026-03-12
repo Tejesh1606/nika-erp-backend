@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Bryant, Johnson and Nunez",
+    "invoice_number": "INV-32009",
+    "date": "2025-06-25",
+    "items": [
+        {
+            "description": "Quality-focused context-sensitive time-frame",
+            "quantity": 4,
+            "unit_price": 30.7,
+            "total_price": 122.8
+        }
+    ],
+    "amount": 122.8
+}

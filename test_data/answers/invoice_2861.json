@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Fisher, Woods and Kirby",
+    "invoice_number": "INV-16267",
+    "date": "2025-08-30",
+    "items": [
+        {
+            "description": "Face-to-face bottom-line knowledge user",
+            "quantity": 5,
+            "unit_price": 185.07,
+            "total_price": 925.35
+        },
+        {
+            "description": "Innovative even-keeled help-desk",
+            "quantity": 6,
+            "unit_price": 473.52,
+            "total_price": 2841.12
+        },
+        {
+            "description": "Persistent maximized interface",
+            "quantity": 7,
+            "unit_price": 316.63,
+            "total_price": 2216.41
+        }
+    ],
+    "amount": 5982.88
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Palmer Ltd",
+    "invoice_number": "INV-35494",
+    "date": "2025-09-08",
+    "items": [
+        {
+            "description": "Profound didactic infrastructure",
+            "quantity": 3,
+            "unit_price": 399.19,
+            "total_price": 1197.57
+        },
+        {
+            "description": "Sharable bifurcated help-desk",
+            "quantity": 6,
+            "unit_price": 423.67,
+            "total_price": 2542.02
+        },
+        {
+            "description": "Sharable object-oriented contingency",
+            "quantity": 6,
+            "unit_price": 117.04,
+            "total_price": 702.24
+        },
+        {
+            "description": "Networked intangible model",
+            "quantity": 2,
+            "unit_price": 447.65,
+            "total_price": 895.3
+        }
+    ],
+    "amount": 5337.13
+}

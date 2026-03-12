@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson, Wilson and Gibson",
+    "invoice_number": "INV-27295",
+    "date": "2025-06-02",
+    "items": [
+        {
+            "description": "Polarized zero-defect circuit",
+            "quantity": 4,
+            "unit_price": 200.82,
+            "total_price": 803.28
+        },
+        {
+            "description": "Reverse-engineered next generation circuit",
+            "quantity": 1,
+            "unit_price": 285.9,
+            "total_price": 285.9
+        },
+        {
+            "description": "Networked neutral portal",
+            "quantity": 5,
+            "unit_price": 48.08,
+            "total_price": 240.4
+        },
+        {
+            "description": "Focused directional focus group",
+            "quantity": 9,
+            "unit_price": 132.95,
+            "total_price": 1196.55
+        }
+    ],
+    "amount": 2526.13
+}

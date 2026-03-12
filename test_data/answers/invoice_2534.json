@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Coleman Group",
+    "invoice_number": "INV-10385",
+    "date": "2025-07-17",
+    "items": [
+        {
+            "description": "Advanced cohesive concept",
+            "quantity": 3,
+            "unit_price": 480.27,
+            "total_price": 1440.81
+        }
+    ],
+    "amount": 1440.81
+}

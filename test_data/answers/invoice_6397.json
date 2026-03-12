@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gomez, Beard and Mooney",
+    "invoice_number": "INV-92366",
+    "date": "2025-12-10",
+    "items": [
+        {
+            "description": "Enterprise-wide cohesive contingency",
+            "quantity": 6,
+            "unit_price": 55.02,
+            "total_price": 330.12
+        },
+        {
+            "description": "Fundamental optimal conglomeration",
+            "quantity": 5,
+            "unit_price": 78.0,
+            "total_price": 390.0
+        },
+        {
+            "description": "Team-oriented encompassing extranet",
+            "quantity": 4,
+            "unit_price": 211.91,
+            "total_price": 847.64
+        },
+        {
+            "description": "Fundamental 4thgeneration structure",
+            "quantity": 4,
+            "unit_price": 256.23,
+            "total_price": 1024.92
+        }
+    ],
+    "amount": 2592.68
+}

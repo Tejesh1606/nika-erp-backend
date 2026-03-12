@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Murphy-Lopez",
+    "invoice_number": "INV-77173",
+    "date": "2025-11-25",
+    "items": [
+        {
+            "description": "Up-sized zero tolerance paradigm",
+            "quantity": 7,
+            "unit_price": 361.91,
+            "total_price": 2533.37
+        },
+        {
+            "description": "Sharable full-range contingency",
+            "quantity": 5,
+            "unit_price": 255.69,
+            "total_price": 1278.45
+        },
+        {
+            "description": "Focused bottom-line circuit",
+            "quantity": 2,
+            "unit_price": 275.96,
+            "total_price": 551.92
+        }
+    ],
+    "amount": 4363.74
+}

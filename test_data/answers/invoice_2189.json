@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Vargas and Sons",
+    "invoice_number": "INV-12832",
+    "date": "2025-10-18",
+    "items": [
+        {
+            "description": "Open-source object-oriented website",
+            "quantity": 3,
+            "unit_price": 353.48,
+            "total_price": 1060.44
+        },
+        {
+            "description": "Balanced intangible methodology",
+            "quantity": 4,
+            "unit_price": 428.36,
+            "total_price": 1713.44
+        },
+        {
+            "description": "Open-architected empowering solution",
+            "quantity": 8,
+            "unit_price": 23.97,
+            "total_price": 191.76
+        },
+        {
+            "description": "Versatile stable portal",
+            "quantity": 10,
+            "unit_price": 415.97,
+            "total_price": 4159.7
+        }
+    ],
+    "amount": 7125.34
+}

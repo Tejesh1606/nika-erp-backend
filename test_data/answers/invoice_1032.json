@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Scott-Kennedy",
+    "invoice_number": "INV-43557",
+    "date": "2025-12-30",
+    "items": [
+        {
+            "description": "Organic solution-oriented challenge",
+            "quantity": 8,
+            "unit_price": 107.33,
+            "total_price": 858.64
+        },
+        {
+            "description": "Decentralized non-volatile matrix",
+            "quantity": 2,
+            "unit_price": 31.63,
+            "total_price": 63.26
+        },
+        {
+            "description": "Balanced high-level forecast",
+            "quantity": 7,
+            "unit_price": 114.91,
+            "total_price": 804.37
+        }
+    ],
+    "amount": 1726.27
+}

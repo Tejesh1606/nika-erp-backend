@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hill and Sons",
+    "invoice_number": "INV-92135",
+    "date": "2026-01-02",
+    "items": [
+        {
+            "description": "Automated 4thgeneration pricing structure",
+            "quantity": 8,
+            "unit_price": 68.06,
+            "total_price": 544.48
+        },
+        {
+            "description": "Stand-alone attitude-oriented software",
+            "quantity": 3,
+            "unit_price": 468.26,
+            "total_price": 1404.78
+        },
+        {
+            "description": "User-centric well-modulated knowledgebase",
+            "quantity": 1,
+            "unit_price": 327.06,
+            "total_price": 327.06
+        }
+    ],
+    "amount": 2276.32
+}

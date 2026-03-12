@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cruz PLC",
+    "invoice_number": "INV-47070",
+    "date": "2025-03-18",
+    "items": [
+        {
+            "description": "Programmable zero administration hub",
+            "quantity": 7,
+            "unit_price": 206.82,
+            "total_price": 1447.74
+        },
+        {
+            "description": "Profound multimedia knowledge user",
+            "quantity": 3,
+            "unit_price": 47.41,
+            "total_price": 142.23
+        }
+    ],
+    "amount": 1589.97
+}

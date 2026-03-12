@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lucas LLC",
+    "invoice_number": "INV-55817",
+    "date": "2025-04-25",
+    "items": [
+        {
+            "description": "Fully-configurable uniform interface",
+            "quantity": 4,
+            "unit_price": 67.3,
+            "total_price": 269.2
+        },
+        {
+            "description": "Balanced object-oriented approach",
+            "quantity": 9,
+            "unit_price": 147.36,
+            "total_price": 1326.24
+        },
+        {
+            "description": "Team-oriented multi-tasking Graphic Interface",
+            "quantity": 10,
+            "unit_price": 107.48,
+            "total_price": 1074.8
+        },
+        {
+            "description": "Public-key bandwidth-monitored middleware",
+            "quantity": 10,
+            "unit_price": 171.11,
+            "total_price": 1711.1
+        }
+    ],
+    "amount": 4381.34
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Schmitt Group",
+    "invoice_number": "INV-77300",
+    "date": "2025-03-28",
+    "items": [
+        {
+            "description": "Synergistic exuding firmware",
+            "quantity": 3,
+            "unit_price": 79.58,
+            "total_price": 238.74
+        },
+        {
+            "description": "Enhanced 4thgeneration initiative",
+            "quantity": 9,
+            "unit_price": 14.1,
+            "total_price": 126.9
+        }
+    ],
+    "amount": 365.64
+}

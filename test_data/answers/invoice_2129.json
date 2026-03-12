@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cooper, Ross and Perkins",
+    "invoice_number": "INV-79889",
+    "date": "2025-04-19",
+    "items": [
+        {
+            "description": "Multi-tiered explicit time-frame",
+            "quantity": 4,
+            "unit_price": 186.57,
+            "total_price": 746.28
+        },
+        {
+            "description": "Reduced national algorithm",
+            "quantity": 10,
+            "unit_price": 343.63,
+            "total_price": 3436.3
+        }
+    ],
+    "amount": 4182.58
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Rivera, Fuller and Bradshaw",
+    "invoice_number": "INV-91612",
+    "date": "2025-09-14",
+    "items": [
+        {
+            "description": "Grass-roots national strategy",
+            "quantity": 10,
+            "unit_price": 209.87,
+            "total_price": 2098.7
+        },
+        {
+            "description": "Persevering even-keeled array",
+            "quantity": 8,
+            "unit_price": 131.89,
+            "total_price": 1055.12
+        },
+        {
+            "description": "Synergized asymmetric strategy",
+            "quantity": 9,
+            "unit_price": 35.63,
+            "total_price": 320.67
+        },
+        {
+            "description": "Sharable explicit moderator",
+            "quantity": 8,
+            "unit_price": 66.81,
+            "total_price": 534.48
+        }
+    ],
+    "amount": 4008.97
+}

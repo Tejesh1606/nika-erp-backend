@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Crawford-Graham",
+    "invoice_number": "INV-32458",
+    "date": "2025-03-17",
+    "items": [
+        {
+            "description": "Realigned local open architecture",
+            "quantity": 1,
+            "unit_price": 158.84,
+            "total_price": 158.84
+        },
+        {
+            "description": "Streamlined analyzing hardware",
+            "quantity": 4,
+            "unit_price": 287.3,
+            "total_price": 1149.2
+        },
+        {
+            "description": "Polarized tertiary circuit",
+            "quantity": 2,
+            "unit_price": 227.13,
+            "total_price": 454.26
+        }
+    ],
+    "amount": 1762.3
+}

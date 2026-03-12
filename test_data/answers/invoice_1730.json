@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jenkins, Thomas and Blair",
+    "invoice_number": "INV-38902",
+    "date": "2025-11-11",
+    "items": [
+        {
+            "description": "Grass-roots encompassing adapter",
+            "quantity": 7,
+            "unit_price": 58.06,
+            "total_price": 406.42
+        },
+        {
+            "description": "Proactive leadingedge intranet",
+            "quantity": 4,
+            "unit_price": 35.18,
+            "total_price": 140.72
+        },
+        {
+            "description": "Right-sized executive infrastructure",
+            "quantity": 2,
+            "unit_price": 344.1,
+            "total_price": 688.2
+        }
+    ],
+    "amount": 1235.34
+}

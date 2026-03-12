@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Miller LLC",
+    "invoice_number": "INV-80968",
+    "date": "2025-08-16",
+    "items": [
+        {
+            "description": "Versatile optimizing emulation",
+            "quantity": 5,
+            "unit_price": 348.93,
+            "total_price": 1744.65
+        },
+        {
+            "description": "Reactive analyzing info-mediaries",
+            "quantity": 6,
+            "unit_price": 187.84,
+            "total_price": 1127.04
+        },
+        {
+            "description": "Programmable intangible monitoring",
+            "quantity": 3,
+            "unit_price": 389.5,
+            "total_price": 1168.5
+        }
+    ],
+    "amount": 4040.19
+}

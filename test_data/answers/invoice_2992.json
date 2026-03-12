@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Chavez, Wall and Ellis",
+    "invoice_number": "INV-97455",
+    "date": "2025-08-25",
+    "items": [
+        {
+            "description": "Centralized 24/7 info-mediaries",
+            "quantity": 9,
+            "unit_price": 415.19,
+            "total_price": 3736.71
+        },
+        {
+            "description": "Grass-roots directional function",
+            "quantity": 5,
+            "unit_price": 273.88,
+            "total_price": 1369.4
+        },
+        {
+            "description": "Inverse solution-oriented structure",
+            "quantity": 9,
+            "unit_price": 124.29,
+            "total_price": 1118.61
+        },
+        {
+            "description": "Reverse-engineered transitional knowledgebase",
+            "quantity": 2,
+            "unit_price": 261.79,
+            "total_price": 523.58
+        }
+    ],
+    "amount": 6748.3
+}

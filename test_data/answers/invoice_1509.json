@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Allen-Sullivan",
+    "invoice_number": "INV-37426",
+    "date": "2025-10-05",
+    "items": [
+        {
+            "description": "Sharable bandwidth-monitored core",
+            "quantity": 8,
+            "unit_price": 309.86,
+            "total_price": 2478.88
+        }
+    ],
+    "amount": 2478.88
+}

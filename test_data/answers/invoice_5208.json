@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Goodman-Burton",
+    "invoice_number": "INV-79418",
+    "date": "2025-06-10",
+    "items": [
+        {
+            "description": "Re-engineered asynchronous algorithm",
+            "quantity": 3,
+            "unit_price": 73.93,
+            "total_price": 221.79
+        },
+        {
+            "description": "Expanded context-sensitive ability",
+            "quantity": 6,
+            "unit_price": 132.77,
+            "total_price": 796.62
+        },
+        {
+            "description": "Team-oriented even-keeled benchmark",
+            "quantity": 8,
+            "unit_price": 29.37,
+            "total_price": 234.96
+        },
+        {
+            "description": "Up-sized actuating emulation",
+            "quantity": 2,
+            "unit_price": 26.69,
+            "total_price": 53.38
+        }
+    ],
+    "amount": 1306.75
+}

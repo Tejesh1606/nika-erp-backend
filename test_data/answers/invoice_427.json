@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hayes-Sullivan",
+    "invoice_number": "INV-51471",
+    "date": "2025-03-15",
+    "items": [
+        {
+            "description": "Networked systematic capability",
+            "quantity": 3,
+            "unit_price": 82.15,
+            "total_price": 246.45
+        },
+        {
+            "description": "Public-key 24hour project",
+            "quantity": 6,
+            "unit_price": 96.03,
+            "total_price": 576.18
+        },
+        {
+            "description": "Up-sized regional architecture",
+            "quantity": 9,
+            "unit_price": 210.21,
+            "total_price": 1891.89
+        }
+    ],
+    "amount": 2714.52
+}

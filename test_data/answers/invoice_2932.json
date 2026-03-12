@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ortiz-Rodgers",
+    "invoice_number": "INV-99496",
+    "date": "2025-05-07",
+    "items": [
+        {
+            "description": "Profit-focused high-level support",
+            "quantity": 6,
+            "unit_price": 443.57,
+            "total_price": 2661.42
+        },
+        {
+            "description": "Balanced composite artificial intelligence",
+            "quantity": 5,
+            "unit_price": 188.81,
+            "total_price": 944.05
+        }
+    ],
+    "amount": 3605.47
+}

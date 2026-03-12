@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Smith-Gonzalez",
+    "invoice_number": "INV-40568",
+    "date": "2026-02-16",
+    "items": [
+        {
+            "description": "Virtual dedicated software",
+            "quantity": 7,
+            "unit_price": 417.19,
+            "total_price": 2920.33
+        },
+        {
+            "description": "Decentralized responsive product",
+            "quantity": 7,
+            "unit_price": 177.85,
+            "total_price": 1244.95
+        },
+        {
+            "description": "Public-key multimedia database",
+            "quantity": 3,
+            "unit_price": 21.59,
+            "total_price": 64.77
+        },
+        {
+            "description": "Public-key even-keeled hierarchy",
+            "quantity": 5,
+            "unit_price": 342.53,
+            "total_price": 1712.65
+        }
+    ],
+    "amount": 5942.7
+}

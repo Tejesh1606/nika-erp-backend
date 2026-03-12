@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Clark, Johnson and Lucas",
+    "invoice_number": "INV-48170",
+    "date": "2025-07-01",
+    "items": [
+        {
+            "description": "Extended asymmetric software",
+            "quantity": 7,
+            "unit_price": 325.36,
+            "total_price": 2277.52
+        },
+        {
+            "description": "Diverse attitude-oriented utilization",
+            "quantity": 6,
+            "unit_price": 94.63,
+            "total_price": 567.78
+        }
+    ],
+    "amount": 2845.3
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Vega, Pratt and Reid",
+    "invoice_number": "INV-44626",
+    "date": "2026-02-18",
+    "items": [
+        {
+            "description": "Self-enabling bi-directional utilization",
+            "quantity": 8,
+            "unit_price": 377.8,
+            "total_price": 3022.4
+        }
+    ],
+    "amount": 3022.4
+}

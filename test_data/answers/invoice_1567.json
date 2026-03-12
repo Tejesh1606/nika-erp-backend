@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hayden-Harding",
+    "invoice_number": "INV-56391",
+    "date": "2026-01-08",
+    "items": [
+        {
+            "description": "Robust object-oriented structure",
+            "quantity": 2,
+            "unit_price": 455.49,
+            "total_price": 910.98
+        },
+        {
+            "description": "User-friendly impactful system engine",
+            "quantity": 4,
+            "unit_price": 228.54,
+            "total_price": 914.16
+        }
+    ],
+    "amount": 1825.14
+}

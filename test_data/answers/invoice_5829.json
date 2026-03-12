@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wallace-Martinez",
+    "invoice_number": "INV-90298",
+    "date": "2026-02-08",
+    "items": [
+        {
+            "description": "Horizontal neutral leverage",
+            "quantity": 2,
+            "unit_price": 312.31,
+            "total_price": 624.62
+        },
+        {
+            "description": "Down-sized executive model",
+            "quantity": 2,
+            "unit_price": 30.23,
+            "total_price": 60.46
+        }
+    ],
+    "amount": 685.08
+}

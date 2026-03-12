@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Jones, Williams and Martinez",
+    "invoice_number": "INV-99385",
+    "date": "2025-03-24",
+    "items": [
+        {
+            "description": "Extended needs-based matrix",
+            "quantity": 6,
+            "unit_price": 440.33,
+            "total_price": 2641.98
+        }
+    ],
+    "amount": 2641.98
+}

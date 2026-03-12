@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Harrington, Rodriguez and Hernandez",
+    "invoice_number": "INV-84264",
+    "date": "2025-10-23",
+    "items": [
+        {
+            "description": "Reduced well-modulated attitude",
+            "quantity": 4,
+            "unit_price": 69.41,
+            "total_price": 277.64
+        },
+        {
+            "description": "Customer-focused non-volatile time-frame",
+            "quantity": 5,
+            "unit_price": 479.44,
+            "total_price": 2397.2
+        }
+    ],
+    "amount": 2674.84
+}

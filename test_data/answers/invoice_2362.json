@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Scott-Gutierrez",
+    "invoice_number": "INV-71257",
+    "date": "2025-04-29",
+    "items": [
+        {
+            "description": "Synergistic human-resource system engine",
+            "quantity": 1,
+            "unit_price": 57.75,
+            "total_price": 57.75
+        }
+    ],
+    "amount": 57.75
+}

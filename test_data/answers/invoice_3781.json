@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Long, Cooper and Hill",
+    "invoice_number": "INV-64010",
+    "date": "2025-10-31",
+    "items": [
+        {
+            "description": "Persevering eco-centric hardware",
+            "quantity": 6,
+            "unit_price": 111.15,
+            "total_price": 666.9
+        }
+    ],
+    "amount": 666.9
+}

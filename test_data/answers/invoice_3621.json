@@ -1,0 +1,26 @@
+{
+    "vendor_name": "West-Ashley",
+    "invoice_number": "INV-37543",
+    "date": "2025-09-30",
+    "items": [
+        {
+            "description": "Integrated motivating productivity",
+            "quantity": 5,
+            "unit_price": 242.75,
+            "total_price": 1213.75
+        },
+        {
+            "description": "Compatible bandwidth-monitored array",
+            "quantity": 8,
+            "unit_price": 411.52,
+            "total_price": 3292.16
+        },
+        {
+            "description": "Inverse transitional methodology",
+            "quantity": 1,
+            "unit_price": 63.5,
+            "total_price": 63.5
+        }
+    ],
+    "amount": 4569.41
+}

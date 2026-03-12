@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Dawson-Phillips",
+    "invoice_number": "INV-17432",
+    "date": "2026-02-07",
+    "items": [
+        {
+            "description": "Public-key systematic service-desk",
+            "quantity": 6,
+            "unit_price": 410.37,
+            "total_price": 2462.22
+        }
+    ],
+    "amount": 2462.22
+}

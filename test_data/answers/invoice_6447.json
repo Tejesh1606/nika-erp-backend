@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Avery-Rose",
+    "invoice_number": "INV-44854",
+    "date": "2025-05-24",
+    "items": [
+        {
+            "description": "Fundamental secondary info-mediaries",
+            "quantity": 5,
+            "unit_price": 411.23,
+            "total_price": 2056.15
+        },
+        {
+            "description": "Grass-roots fresh-thinking middleware",
+            "quantity": 7,
+            "unit_price": 166.62,
+            "total_price": 1166.34
+        },
+        {
+            "description": "Distributed reciprocal Graphic Interface",
+            "quantity": 6,
+            "unit_price": 428.71,
+            "total_price": 2572.26
+        },
+        {
+            "description": "Fundamental impactful database",
+            "quantity": 3,
+            "unit_price": 466.95,
+            "total_price": 1400.85
+        }
+    ],
+    "amount": 7195.6
+}

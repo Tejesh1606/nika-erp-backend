@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Turner Inc",
+    "invoice_number": "INV-54510",
+    "date": "2025-08-05",
+    "items": [
+        {
+            "description": "Streamlined contextually-based interface",
+            "quantity": 5,
+            "unit_price": 17.93,
+            "total_price": 89.65
+        },
+        {
+            "description": "Distributed executive function",
+            "quantity": 4,
+            "unit_price": 376.84,
+            "total_price": 1507.36
+        },
+        {
+            "description": "Networked systematic matrices",
+            "quantity": 7,
+            "unit_price": 373.67,
+            "total_price": 2615.69
+        },
+        {
+            "description": "Automated empowering instruction set",
+            "quantity": 4,
+            "unit_price": 18.94,
+            "total_price": 75.76
+        }
+    ],
+    "amount": 4288.46
+}

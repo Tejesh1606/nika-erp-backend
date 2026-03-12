@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Sandoval Group",
+    "invoice_number": "INV-72071",
+    "date": "2025-09-12",
+    "items": [
+        {
+            "description": "Diverse well-modulated application",
+            "quantity": 6,
+            "unit_price": 338.72,
+            "total_price": 2032.32
+        },
+        {
+            "description": "Integrated discrete open system",
+            "quantity": 6,
+            "unit_price": 348.12,
+            "total_price": 2088.72
+        },
+        {
+            "description": "Proactive bottom-line middleware",
+            "quantity": 7,
+            "unit_price": 361.58,
+            "total_price": 2531.06
+        },
+        {
+            "description": "Profound neutral service-desk",
+            "quantity": 3,
+            "unit_price": 31.79,
+            "total_price": 95.37
+        }
+    ],
+    "amount": 6747.47
+}

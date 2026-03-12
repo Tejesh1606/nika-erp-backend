@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Thomas PLC",
+    "invoice_number": "INV-99695",
+    "date": "2025-06-25",
+    "items": [
+        {
+            "description": "Devolved systemic analyzer",
+            "quantity": 7,
+            "unit_price": 220.9,
+            "total_price": 1546.3
+        },
+        {
+            "description": "Reduced context-sensitive knowledgebase",
+            "quantity": 8,
+            "unit_price": 128.36,
+            "total_price": 1026.88
+        },
+        {
+            "description": "Integrated optimal encryption",
+            "quantity": 3,
+            "unit_price": 497.37,
+            "total_price": 1492.11
+        }
+    ],
+    "amount": 4065.29
+}

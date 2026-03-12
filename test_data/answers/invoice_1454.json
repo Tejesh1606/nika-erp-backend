@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Johnston, Lopez and Martinez",
+    "invoice_number": "INV-19932",
+    "date": "2025-05-21",
+    "items": [
+        {
+            "description": "Enterprise-wide fresh-thinking system engine",
+            "quantity": 5,
+            "unit_price": 245.61,
+            "total_price": 1228.05
+        },
+        {
+            "description": "Focused cohesive infrastructure",
+            "quantity": 5,
+            "unit_price": 319.46,
+            "total_price": 1597.3
+        },
+        {
+            "description": "Sharable optimizing frame",
+            "quantity": 8,
+            "unit_price": 262.64,
+            "total_price": 2101.12
+        }
+    ],
+    "amount": 4926.47
+}

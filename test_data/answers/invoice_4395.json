@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mckenzie PLC",
+    "invoice_number": "INV-17806",
+    "date": "2025-07-29",
+    "items": [
+        {
+            "description": "Robust human-resource Internet solution",
+            "quantity": 3,
+            "unit_price": 233.59,
+            "total_price": 700.77
+        }
+    ],
+    "amount": 700.77
+}

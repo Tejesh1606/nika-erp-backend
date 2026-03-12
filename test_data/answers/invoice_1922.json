@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Garcia PLC",
+    "invoice_number": "INV-55431",
+    "date": "2025-11-28",
+    "items": [
+        {
+            "description": "Implemented holistic matrix",
+            "quantity": 7,
+            "unit_price": 24.74,
+            "total_price": 173.18
+        },
+        {
+            "description": "Balanced foreground Internet solution",
+            "quantity": 5,
+            "unit_price": 233.48,
+            "total_price": 1167.4
+        }
+    ],
+    "amount": 1340.58
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Moody, Rivera and Bridges",
+    "invoice_number": "INV-29148",
+    "date": "2025-03-30",
+    "items": [
+        {
+            "description": "Future-proofed zero-defect infrastructure",
+            "quantity": 2,
+            "unit_price": 429.16,
+            "total_price": 858.32
+        },
+        {
+            "description": "Compatible needs-based leverage",
+            "quantity": 7,
+            "unit_price": 435.36,
+            "total_price": 3047.52
+        },
+        {
+            "description": "Enterprise-wide content-based extranet",
+            "quantity": 4,
+            "unit_price": 212.58,
+            "total_price": 850.32
+        },
+        {
+            "description": "Multi-tiered 24/7 capability",
+            "quantity": 3,
+            "unit_price": 434.01,
+            "total_price": 1302.03
+        }
+    ],
+    "amount": 6058.19
+}

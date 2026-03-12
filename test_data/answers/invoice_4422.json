@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Roberts, Barrera and Escobar",
+    "invoice_number": "INV-46568",
+    "date": "2025-12-23",
+    "items": [
+        {
+            "description": "Devolved regional firmware",
+            "quantity": 7,
+            "unit_price": 401.47,
+            "total_price": 2810.29
+        },
+        {
+            "description": "Visionary client-server synergy",
+            "quantity": 10,
+            "unit_price": 324.7,
+            "total_price": 3247.0
+        }
+    ],
+    "amount": 6057.29
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jackson-Cortez",
+    "invoice_number": "INV-74004",
+    "date": "2025-05-19",
+    "items": [
+        {
+            "description": "Quality-focused secondary approach",
+            "quantity": 9,
+            "unit_price": 71.3,
+            "total_price": 641.7
+        },
+        {
+            "description": "Progressive 5thgeneration archive",
+            "quantity": 1,
+            "unit_price": 477.56,
+            "total_price": 477.56
+        },
+        {
+            "description": "Synchronized actuating task-force",
+            "quantity": 8,
+            "unit_price": 352.7,
+            "total_price": 2821.6
+        }
+    ],
+    "amount": 3940.86
+}

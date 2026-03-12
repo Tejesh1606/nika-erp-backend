@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Wilson-Moses",
+    "invoice_number": "INV-77281",
+    "date": "2025-03-09",
+    "items": [
+        {
+            "description": "Progressive modular budgetary management",
+            "quantity": 1,
+            "unit_price": 325.77,
+            "total_price": 325.77
+        }
+    ],
+    "amount": 325.77
+}

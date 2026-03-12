@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Gross PLC",
+    "invoice_number": "INV-39488",
+    "date": "2026-01-18",
+    "items": [
+        {
+            "description": "Business-focused discrete open architecture",
+            "quantity": 6,
+            "unit_price": 34.58,
+            "total_price": 207.48
+        },
+        {
+            "description": "Progressive explicit adapter",
+            "quantity": 4,
+            "unit_price": 363.8,
+            "total_price": 1455.2
+        },
+        {
+            "description": "Customer-focused user-facing Internet solution",
+            "quantity": 7,
+            "unit_price": 93.51,
+            "total_price": 654.57
+        }
+    ],
+    "amount": 2317.25
+}

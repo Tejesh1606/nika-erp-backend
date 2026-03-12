@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wagner, Williams and Oneal",
+    "invoice_number": "INV-82018",
+    "date": "2025-11-22",
+    "items": [
+        {
+            "description": "De-engineered local conglomeration",
+            "quantity": 9,
+            "unit_price": 180.82,
+            "total_price": 1627.38
+        },
+        {
+            "description": "Compatible actuating system engine",
+            "quantity": 1,
+            "unit_price": 202.58,
+            "total_price": 202.58
+        },
+        {
+            "description": "Intuitive bandwidth-monitored encryption",
+            "quantity": 7,
+            "unit_price": 291.72,
+            "total_price": 2042.04
+        },
+        {
+            "description": "Fully-configurable even-keeled implementation",
+            "quantity": 1,
+            "unit_price": 82.17,
+            "total_price": 82.17
+        }
+    ],
+    "amount": 3954.17
+}

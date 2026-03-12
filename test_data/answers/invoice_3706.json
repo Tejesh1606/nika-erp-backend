@@ -1,0 +1,26 @@
+{
+    "vendor_name": "White and Sons",
+    "invoice_number": "INV-27506",
+    "date": "2025-05-23",
+    "items": [
+        {
+            "description": "Monitored next generation hub",
+            "quantity": 9,
+            "unit_price": 74.6,
+            "total_price": 671.4
+        },
+        {
+            "description": "Reverse-engineered discrete hardware",
+            "quantity": 7,
+            "unit_price": 389.18,
+            "total_price": 2724.26
+        },
+        {
+            "description": "Profound analyzing solution",
+            "quantity": 10,
+            "unit_price": 470.66,
+            "total_price": 4706.6
+        }
+    ],
+    "amount": 8102.26
+}

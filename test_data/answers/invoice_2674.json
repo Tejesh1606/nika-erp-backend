@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Carroll-Flowers",
+    "invoice_number": "INV-24906",
+    "date": "2026-02-08",
+    "items": [
+        {
+            "description": "Ergonomic client-server firmware",
+            "quantity": 7,
+            "unit_price": 237.28,
+            "total_price": 1660.96
+        },
+        {
+            "description": "Secured holistic task-force",
+            "quantity": 6,
+            "unit_price": 218.21,
+            "total_price": 1309.26
+        }
+    ],
+    "amount": 2970.22
+}

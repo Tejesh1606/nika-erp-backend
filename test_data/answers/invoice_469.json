@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Perez-Mccarty",
+    "invoice_number": "INV-69606",
+    "date": "2026-03-05",
+    "items": [
+        {
+            "description": "Open-architected object-oriented ability",
+            "quantity": 3,
+            "unit_price": 87.23,
+            "total_price": 261.69
+        },
+        {
+            "description": "Fundamental context-sensitive installation",
+            "quantity": 6,
+            "unit_price": 306.7,
+            "total_price": 1840.2
+        }
+    ],
+    "amount": 2101.89
+}

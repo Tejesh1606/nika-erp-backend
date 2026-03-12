@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson-Lopez",
+    "invoice_number": "INV-17108",
+    "date": "2025-05-19",
+    "items": [
+        {
+            "description": "Profit-focused intermediate groupware",
+            "quantity": 3,
+            "unit_price": 351.42,
+            "total_price": 1054.26
+        },
+        {
+            "description": "Stand-alone system-worthy groupware",
+            "quantity": 10,
+            "unit_price": 490.14,
+            "total_price": 4901.4
+        },
+        {
+            "description": "Total 3rdgeneration service-desk",
+            "quantity": 6,
+            "unit_price": 284.94,
+            "total_price": 1709.64
+        },
+        {
+            "description": "Inverse client-driven concept",
+            "quantity": 5,
+            "unit_price": 229.31,
+            "total_price": 1146.55
+        }
+    ],
+    "amount": 8811.85
+}

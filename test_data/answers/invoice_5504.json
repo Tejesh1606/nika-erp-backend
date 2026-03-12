@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Peterson, Rodriguez and Davis",
+    "invoice_number": "INV-10488",
+    "date": "2026-02-08",
+    "items": [
+        {
+            "description": "Open-source high-level instruction set",
+            "quantity": 9,
+            "unit_price": 86.68,
+            "total_price": 780.12
+        }
+    ],
+    "amount": 780.12
+}

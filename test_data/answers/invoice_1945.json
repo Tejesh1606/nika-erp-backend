@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Shepard, Fleming and Bolton",
+    "invoice_number": "INV-20838",
+    "date": "2025-11-22",
+    "items": [
+        {
+            "description": "Devolved contextually-based intranet",
+            "quantity": 8,
+            "unit_price": 357.7,
+            "total_price": 2861.6
+        }
+    ],
+    "amount": 2861.6
+}

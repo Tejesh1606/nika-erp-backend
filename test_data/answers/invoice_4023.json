@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mccarty, Fitzpatrick and Miles",
+    "invoice_number": "INV-28284",
+    "date": "2025-09-23",
+    "items": [
+        {
+            "description": "Versatile tangible ability",
+            "quantity": 3,
+            "unit_price": 133.52,
+            "total_price": 400.56
+        },
+        {
+            "description": "Virtual hybrid contingency",
+            "quantity": 3,
+            "unit_price": 134.92,
+            "total_price": 404.76
+        },
+        {
+            "description": "Monitored disintermediate software",
+            "quantity": 1,
+            "unit_price": 157.28,
+            "total_price": 157.28
+        }
+    ],
+    "amount": 962.6
+}

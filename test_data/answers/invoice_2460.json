@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Garcia, Lopez and Johnson",
+    "invoice_number": "INV-57170",
+    "date": "2025-08-23",
+    "items": [
+        {
+            "description": "Pre-emptive disintermediate data-warehouse",
+            "quantity": 9,
+            "unit_price": 32.88,
+            "total_price": 295.92
+        },
+        {
+            "description": "Ergonomic client-server solution",
+            "quantity": 10,
+            "unit_price": 68.97,
+            "total_price": 689.7
+        },
+        {
+            "description": "Triple-buffered real-time standardization",
+            "quantity": 6,
+            "unit_price": 139.08,
+            "total_price": 834.48
+        },
+        {
+            "description": "Polarized didactic toolset",
+            "quantity": 6,
+            "unit_price": 462.56,
+            "total_price": 2775.36
+        }
+    ],
+    "amount": 4595.46
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Cox-Davidson",
+    "invoice_number": "INV-72611",
+    "date": "2026-02-10",
+    "items": [
+        {
+            "description": "Focused foreground Local Area Network",
+            "quantity": 5,
+            "unit_price": 398.16,
+            "total_price": 1990.8
+        },
+        {
+            "description": "Robust clear-thinking capability",
+            "quantity": 5,
+            "unit_price": 238.86,
+            "total_price": 1194.3
+        },
+        {
+            "description": "Universal bottom-line info-mediaries",
+            "quantity": 8,
+            "unit_price": 85.35,
+            "total_price": 682.8
+        },
+        {
+            "description": "Devolved global algorithm",
+            "quantity": 8,
+            "unit_price": 434.67,
+            "total_price": 3477.36
+        }
+    ],
+    "amount": 7345.26
+}

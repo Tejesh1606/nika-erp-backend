@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Smith, Johnson and Chen",
+    "invoice_number": "INV-54632",
+    "date": "2026-03-09",
+    "items": [
+        {
+            "description": "Visionary uniform contingency",
+            "quantity": 9,
+            "unit_price": 486.66,
+            "total_price": 4379.94
+        }
+    ],
+    "amount": 4379.94
+}

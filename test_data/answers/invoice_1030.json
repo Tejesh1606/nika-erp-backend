@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hughes, Clark and Bishop",
+    "invoice_number": "INV-19830",
+    "date": "2025-05-07",
+    "items": [
+        {
+            "description": "Re-contextualized responsive methodology",
+            "quantity": 9,
+            "unit_price": 76.3,
+            "total_price": 686.7
+        },
+        {
+            "description": "Cross-platform 24/7 circuit",
+            "quantity": 8,
+            "unit_price": 306.75,
+            "total_price": 2454.0
+        },
+        {
+            "description": "Visionary fault-tolerant neural-net",
+            "quantity": 6,
+            "unit_price": 419.93,
+            "total_price": 2519.58
+        }
+    ],
+    "amount": 5660.28
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Whitehead-Mathis",
+    "invoice_number": "INV-22097",
+    "date": "2025-11-10",
+    "items": [
+        {
+            "description": "Optimized even-keeled analyzer",
+            "quantity": 1,
+            "unit_price": 111.62,
+            "total_price": 111.62
+        },
+        {
+            "description": "Adaptive full-range throughput",
+            "quantity": 8,
+            "unit_price": 322.48,
+            "total_price": 2579.84
+        },
+        {
+            "description": "De-engineered scalable firmware",
+            "quantity": 2,
+            "unit_price": 421.54,
+            "total_price": 843.08
+        },
+        {
+            "description": "Diverse user-facing intranet",
+            "quantity": 1,
+            "unit_price": 132.35,
+            "total_price": 132.35
+        }
+    ],
+    "amount": 3666.89
+}

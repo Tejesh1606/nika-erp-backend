@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Huerta, Cox and Alexander",
+    "invoice_number": "INV-84961",
+    "date": "2025-05-18",
+    "items": [
+        {
+            "description": "Organized 3rdgeneration matrix",
+            "quantity": 2,
+            "unit_price": 117.87,
+            "total_price": 235.74
+        }
+    ],
+    "amount": 235.74
+}

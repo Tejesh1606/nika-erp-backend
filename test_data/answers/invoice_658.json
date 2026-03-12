@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hodges, Flores and Hurst",
+    "invoice_number": "INV-76003",
+    "date": "2025-11-28",
+    "items": [
+        {
+            "description": "Optimized even-keeled application",
+            "quantity": 10,
+            "unit_price": 209.8,
+            "total_price": 2098.0
+        },
+        {
+            "description": "Cloned holistic hardware",
+            "quantity": 8,
+            "unit_price": 392.81,
+            "total_price": 3142.48
+        },
+        {
+            "description": "Organized mobile middleware",
+            "quantity": 1,
+            "unit_price": 361.17,
+            "total_price": 361.17
+        }
+    ],
+    "amount": 5601.65
+}

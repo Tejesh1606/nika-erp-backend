@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Dillon Ltd",
+    "invoice_number": "INV-69219",
+    "date": "2025-03-18",
+    "items": [
+        {
+            "description": "Visionary interactive system engine",
+            "quantity": 5,
+            "unit_price": 475.44,
+            "total_price": 2377.2
+        },
+        {
+            "description": "Diverse responsive productivity",
+            "quantity": 3,
+            "unit_price": 21.07,
+            "total_price": 63.21
+        }
+    ],
+    "amount": 2440.41
+}

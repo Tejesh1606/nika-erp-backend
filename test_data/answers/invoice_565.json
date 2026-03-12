@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Armstrong, Hart and Burch",
+    "invoice_number": "INV-85886",
+    "date": "2025-07-26",
+    "items": [
+        {
+            "description": "Automated background throughput",
+            "quantity": 10,
+            "unit_price": 334.41,
+            "total_price": 3344.1
+        },
+        {
+            "description": "Innovative fresh-thinking hub",
+            "quantity": 4,
+            "unit_price": 224.48,
+            "total_price": 897.92
+        },
+        {
+            "description": "Multi-tiered asymmetric task-force",
+            "quantity": 10,
+            "unit_price": 244.3,
+            "total_price": 2443.0
+        }
+    ],
+    "amount": 6685.02
+}

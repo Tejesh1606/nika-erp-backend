@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Young, Sanders and Taylor",
+    "invoice_number": "INV-27131",
+    "date": "2026-02-02",
+    "items": [
+        {
+            "description": "Innovative homogeneous support",
+            "quantity": 9,
+            "unit_price": 358.57,
+            "total_price": 3227.13
+        },
+        {
+            "description": "Function-based even-keeled leverage",
+            "quantity": 3,
+            "unit_price": 404.71,
+            "total_price": 1214.13
+        },
+        {
+            "description": "Customizable 5thgeneration implementation",
+            "quantity": 5,
+            "unit_price": 240.0,
+            "total_price": 1200.0
+        },
+        {
+            "description": "Business-focused hybrid approach",
+            "quantity": 7,
+            "unit_price": 310.32,
+            "total_price": 2172.24
+        }
+    ],
+    "amount": 7813.5
+}

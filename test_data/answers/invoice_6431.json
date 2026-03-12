@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Newton-Watson",
+    "invoice_number": "INV-45180",
+    "date": "2025-05-24",
+    "items": [
+        {
+            "description": "Devolved dynamic contingency",
+            "quantity": 5,
+            "unit_price": 298.65,
+            "total_price": 1493.25
+        },
+        {
+            "description": "Grass-roots intangible open system",
+            "quantity": 10,
+            "unit_price": 262.06,
+            "total_price": 2620.6
+        }
+    ],
+    "amount": 4113.85
+}

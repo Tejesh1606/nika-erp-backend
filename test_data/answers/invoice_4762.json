@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Summers-Maxwell",
+    "invoice_number": "INV-11707",
+    "date": "2025-11-28",
+    "items": [
+        {
+            "description": "Polarized disintermediate productivity",
+            "quantity": 1,
+            "unit_price": 324.87,
+            "total_price": 324.87
+        },
+        {
+            "description": "Cross-platform object-oriented matrices",
+            "quantity": 5,
+            "unit_price": 268.0,
+            "total_price": 1340.0
+        }
+    ],
+    "amount": 1664.87
+}

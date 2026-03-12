@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Nguyen-White",
+    "invoice_number": "INV-61109",
+    "date": "2025-09-17",
+    "items": [
+        {
+            "description": "Sharable analyzing collaboration",
+            "quantity": 3,
+            "unit_price": 407.97,
+            "total_price": 1223.91
+        },
+        {
+            "description": "Decentralized mission-critical workforce",
+            "quantity": 5,
+            "unit_price": 351.72,
+            "total_price": 1758.6
+        }
+    ],
+    "amount": 2982.51
+}

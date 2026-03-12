@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hartman LLC",
+    "invoice_number": "INV-65199",
+    "date": "2026-01-07",
+    "items": [
+        {
+            "description": "Versatile zero administration neural-net",
+            "quantity": 9,
+            "unit_price": 171.75,
+            "total_price": 1545.75
+        },
+        {
+            "description": "Stand-alone client-driven core",
+            "quantity": 4,
+            "unit_price": 298.4,
+            "total_price": 1193.6
+        },
+        {
+            "description": "Intuitive fault-tolerant installation",
+            "quantity": 4,
+            "unit_price": 463.7,
+            "total_price": 1854.8
+        },
+        {
+            "description": "Reverse-engineered foreground service-desk",
+            "quantity": 3,
+            "unit_price": 97.3,
+            "total_price": 291.9
+        }
+    ],
+    "amount": 4886.05
+}

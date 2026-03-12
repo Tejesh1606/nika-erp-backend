@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Kirby-Lewis",
+    "invoice_number": "INV-76889",
+    "date": "2025-06-26",
+    "items": [
+        {
+            "description": "Balanced cohesive support",
+            "quantity": 6,
+            "unit_price": 247.8,
+            "total_price": 1486.8
+        },
+        {
+            "description": "Public-key non-volatile architecture",
+            "quantity": 3,
+            "unit_price": 377.04,
+            "total_price": 1131.12
+        }
+    ],
+    "amount": 2617.92
+}

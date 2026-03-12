@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hughes-Leonard",
+    "invoice_number": "INV-54378",
+    "date": "2025-03-14",
+    "items": [
+        {
+            "description": "Triple-buffered well-modulated frame",
+            "quantity": 8,
+            "unit_price": 434.64,
+            "total_price": 3477.12
+        }
+    ],
+    "amount": 3477.12
+}

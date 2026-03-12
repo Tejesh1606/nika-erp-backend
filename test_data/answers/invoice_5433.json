@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Acosta, Phillips and Thomas",
+    "invoice_number": "INV-94120",
+    "date": "2025-10-31",
+    "items": [
+        {
+            "description": "Enhanced bandwidth-monitored alliance",
+            "quantity": 2,
+            "unit_price": 263.73,
+            "total_price": 527.46
+        },
+        {
+            "description": "Customer-focused modular challenge",
+            "quantity": 3,
+            "unit_price": 468.05,
+            "total_price": 1404.15
+        }
+    ],
+    "amount": 1931.61
+}

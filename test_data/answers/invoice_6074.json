@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Stewart, Martin and Lewis",
+    "invoice_number": "INV-74879",
+    "date": "2025-04-18",
+    "items": [
+        {
+            "description": "Balanced bottom-line solution",
+            "quantity": 5,
+            "unit_price": 177.87,
+            "total_price": 889.35
+        },
+        {
+            "description": "Ameliorated even-keeled system engine",
+            "quantity": 2,
+            "unit_price": 418.37,
+            "total_price": 836.74
+        },
+        {
+            "description": "Future-proofed didactic data-warehouse",
+            "quantity": 1,
+            "unit_price": 86.07,
+            "total_price": 86.07
+        },
+        {
+            "description": "Automated high-level task-force",
+            "quantity": 3,
+            "unit_price": 383.97,
+            "total_price": 1151.91
+        }
+    ],
+    "amount": 2964.07
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Munoz and Sons",
+    "invoice_number": "INV-66181",
+    "date": "2025-10-01",
+    "items": [
+        {
+            "description": "Managed radical contingency",
+            "quantity": 4,
+            "unit_price": 337.32,
+            "total_price": 1349.28
+        },
+        {
+            "description": "Synergistic interactive collaboration",
+            "quantity": 9,
+            "unit_price": 334.96,
+            "total_price": 3014.64
+        },
+        {
+            "description": "Synchronized systemic framework",
+            "quantity": 10,
+            "unit_price": 142.3,
+            "total_price": 1423.0
+        }
+    ],
+    "amount": 5786.92
+}

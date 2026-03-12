@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Walker LLC",
+    "invoice_number": "INV-15105",
+    "date": "2025-07-31",
+    "items": [
+        {
+            "description": "Multi-tiered value-added Local Area Network",
+            "quantity": 10,
+            "unit_price": 456.74,
+            "total_price": 4567.4
+        }
+    ],
+    "amount": 4567.4
+}

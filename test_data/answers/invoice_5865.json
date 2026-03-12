@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Figueroa, Marks and Holder",
+    "invoice_number": "INV-92205",
+    "date": "2025-11-24",
+    "items": [
+        {
+            "description": "Front-line context-sensitive approach",
+            "quantity": 8,
+            "unit_price": 253.79,
+            "total_price": 2030.32
+        },
+        {
+            "description": "Configurable radical Local Area Network",
+            "quantity": 7,
+            "unit_price": 259.15,
+            "total_price": 1814.05
+        },
+        {
+            "description": "Balanced responsive data-warehouse",
+            "quantity": 4,
+            "unit_price": 132.78,
+            "total_price": 531.12
+        }
+    ],
+    "amount": 4375.49
+}

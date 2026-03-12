@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Walters-Rhodes",
+    "invoice_number": "INV-26315",
+    "date": "2026-02-26",
+    "items": [
+        {
+            "description": "Grass-roots context-sensitive parallelism",
+            "quantity": 1,
+            "unit_price": 452.34,
+            "total_price": 452.34
+        },
+        {
+            "description": "Mandatory 3rdgeneration encoding",
+            "quantity": 10,
+            "unit_price": 115.37,
+            "total_price": 1153.7
+        },
+        {
+            "description": "Self-enabling dedicated interface",
+            "quantity": 1,
+            "unit_price": 286.45,
+            "total_price": 286.45
+        },
+        {
+            "description": "Re-engineered dynamic implementation",
+            "quantity": 1,
+            "unit_price": 129.31,
+            "total_price": 129.31
+        }
+    ],
+    "amount": 2021.8
+}

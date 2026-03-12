@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Fischer-Castillo",
+    "invoice_number": "INV-94045",
+    "date": "2025-12-26",
+    "items": [
+        {
+            "description": "Focused mission-critical secured line",
+            "quantity": 10,
+            "unit_price": 499.44,
+            "total_price": 4994.4
+        },
+        {
+            "description": "Up-sized analyzing data-warehouse",
+            "quantity": 5,
+            "unit_price": 462.89,
+            "total_price": 2314.45
+        }
+    ],
+    "amount": 7308.85
+}

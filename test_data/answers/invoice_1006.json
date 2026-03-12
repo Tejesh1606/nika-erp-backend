@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gomez LLC",
+    "invoice_number": "INV-39607",
+    "date": "2026-03-01",
+    "items": [
+        {
+            "description": "Synergized human-resource software",
+            "quantity": 10,
+            "unit_price": 200.8,
+            "total_price": 2008.0
+        }
+    ],
+    "amount": 2008.0
+}

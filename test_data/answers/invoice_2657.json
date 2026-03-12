@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jordan and Sons",
+    "invoice_number": "INV-58339",
+    "date": "2025-04-02",
+    "items": [
+        {
+            "description": "Digitized mobile contingency",
+            "quantity": 1,
+            "unit_price": 30.26,
+            "total_price": 30.26
+        },
+        {
+            "description": "Grass-roots foreground hardware",
+            "quantity": 5,
+            "unit_price": 387.39,
+            "total_price": 1936.95
+        }
+    ],
+    "amount": 1967.21
+}

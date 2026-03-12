@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Smith-Osborne",
+    "invoice_number": "INV-26631",
+    "date": "2025-09-01",
+    "items": [
+        {
+            "description": "Upgradable client-driven process improvement",
+            "quantity": 3,
+            "unit_price": 377.65,
+            "total_price": 1132.95
+        },
+        {
+            "description": "Switchable composite solution",
+            "quantity": 8,
+            "unit_price": 181.77,
+            "total_price": 1454.16
+        }
+    ],
+    "amount": 2587.11
+}

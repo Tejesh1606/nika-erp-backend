@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Gilbert Ltd",
+    "invoice_number": "INV-27073",
+    "date": "2025-03-14",
+    "items": [
+        {
+            "description": "Front-line bi-directional time-frame",
+            "quantity": 8,
+            "unit_price": 15.35,
+            "total_price": 122.8
+        },
+        {
+            "description": "Progressive intangible knowledge user",
+            "quantity": 7,
+            "unit_price": 450.73,
+            "total_price": 3155.11
+        },
+        {
+            "description": "Optimized upward-trending toolset",
+            "quantity": 2,
+            "unit_price": 286.61,
+            "total_price": 573.22
+        }
+    ],
+    "amount": 3851.13
+}

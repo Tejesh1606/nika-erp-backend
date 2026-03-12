@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Robinson, Miller and Ward",
+    "invoice_number": "INV-36644",
+    "date": "2026-02-02",
+    "items": [
+        {
+            "description": "Ameliorated high-level open architecture",
+            "quantity": 4,
+            "unit_price": 46.55,
+            "total_price": 186.2
+        }
+    ],
+    "amount": 186.2
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Walters-Yates",
+    "invoice_number": "INV-46495",
+    "date": "2025-09-01",
+    "items": [
+        {
+            "description": "Synchronized exuding monitoring",
+            "quantity": 5,
+            "unit_price": 328.55,
+            "total_price": 1642.75
+        },
+        {
+            "description": "Innovative multi-tasking help-desk",
+            "quantity": 6,
+            "unit_price": 315.1,
+            "total_price": 1890.6
+        },
+        {
+            "description": "Synchronized hybrid time-frame",
+            "quantity": 6,
+            "unit_price": 257.32,
+            "total_price": 1543.92
+        },
+        {
+            "description": "Secured user-facing function",
+            "quantity": 2,
+            "unit_price": 402.52,
+            "total_price": 805.04
+        }
+    ],
+    "amount": 5882.31
+}

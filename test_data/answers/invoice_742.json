@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Gates-Greene",
+    "invoice_number": "INV-47089",
+    "date": "2025-12-16",
+    "items": [
+        {
+            "description": "Synergistic content-based instruction set",
+            "quantity": 4,
+            "unit_price": 461.82,
+            "total_price": 1847.28
+        },
+        {
+            "description": "Enterprise-wide incremental utilization",
+            "quantity": 10,
+            "unit_price": 288.45,
+            "total_price": 2884.5
+        },
+        {
+            "description": "Digitized 4thgeneration frame",
+            "quantity": 7,
+            "unit_price": 374.43,
+            "total_price": 2621.01
+        },
+        {
+            "description": "Fundamental disintermediate process improvement",
+            "quantity": 9,
+            "unit_price": 82.02,
+            "total_price": 738.18
+        }
+    ],
+    "amount": 8090.97
+}

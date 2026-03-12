@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mcclain-Blake",
+    "invoice_number": "INV-81702",
+    "date": "2025-03-15",
+    "items": [
+        {
+            "description": "Team-oriented fresh-thinking extranet",
+            "quantity": 9,
+            "unit_price": 215.05,
+            "total_price": 1935.45
+        },
+        {
+            "description": "Synergistic 3rdgeneration approach",
+            "quantity": 8,
+            "unit_price": 376.86,
+            "total_price": 3014.88
+        },
+        {
+            "description": "Reduced composite time-frame",
+            "quantity": 9,
+            "unit_price": 449.22,
+            "total_price": 4042.98
+        }
+    ],
+    "amount": 8993.31
+}

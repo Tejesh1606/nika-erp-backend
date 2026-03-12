@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Winters-Davis",
+    "invoice_number": "INV-81339",
+    "date": "2025-04-16",
+    "items": [
+        {
+            "description": "Streamlined fault-tolerant frame",
+            "quantity": 8,
+            "unit_price": 403.11,
+            "total_price": 3224.88
+        }
+    ],
+    "amount": 3224.88
+}

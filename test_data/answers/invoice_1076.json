@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lang Group",
+    "invoice_number": "INV-16133",
+    "date": "2025-06-23",
+    "items": [
+        {
+            "description": "Operative bottom-line capability",
+            "quantity": 9,
+            "unit_price": 19.17,
+            "total_price": 172.53
+        },
+        {
+            "description": "Organized composite policy",
+            "quantity": 8,
+            "unit_price": 443.53,
+            "total_price": 3548.24
+        },
+        {
+            "description": "Inverse optimizing info-mediaries",
+            "quantity": 9,
+            "unit_price": 234.98,
+            "total_price": 2114.82
+        }
+    ],
+    "amount": 5835.59
+}

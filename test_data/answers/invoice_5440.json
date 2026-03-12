@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mendoza, Wade and Goodwin",
+    "invoice_number": "INV-74154",
+    "date": "2025-11-11",
+    "items": [
+        {
+            "description": "Advanced 24hour capacity",
+            "quantity": 6,
+            "unit_price": 464.31,
+            "total_price": 2785.86
+        },
+        {
+            "description": "Down-sized secondary intranet",
+            "quantity": 3,
+            "unit_price": 262.13,
+            "total_price": 786.39
+        }
+    ],
+    "amount": 3572.25
+}

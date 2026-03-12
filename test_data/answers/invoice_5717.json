@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Davis and Sons",
+    "invoice_number": "INV-99174",
+    "date": "2025-11-22",
+    "items": [
+        {
+            "description": "Configurable coherent help-desk",
+            "quantity": 1,
+            "unit_price": 116.23,
+            "total_price": 116.23
+        }
+    ],
+    "amount": 116.23
+}

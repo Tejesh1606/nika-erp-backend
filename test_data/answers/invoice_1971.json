@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Davis, Rodriguez and Rodriguez",
+    "invoice_number": "INV-67216",
+    "date": "2025-05-30",
+    "items": [
+        {
+            "description": "Public-key holistic groupware",
+            "quantity": 7,
+            "unit_price": 68.08,
+            "total_price": 476.56
+        }
+    ],
+    "amount": 476.56
+}

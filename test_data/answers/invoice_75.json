@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Everett-Woods",
+    "invoice_number": "INV-18564",
+    "date": "2025-08-11",
+    "items": [
+        {
+            "description": "Pre-emptive asynchronous orchestration",
+            "quantity": 9,
+            "unit_price": 65.05,
+            "total_price": 585.45
+        },
+        {
+            "description": "Self-enabling systemic application",
+            "quantity": 5,
+            "unit_price": 340.32,
+            "total_price": 1701.6
+        }
+    ],
+    "amount": 2287.05
+}

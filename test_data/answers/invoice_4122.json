@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mack and Sons",
+    "invoice_number": "INV-13010",
+    "date": "2025-09-08",
+    "items": [
+        {
+            "description": "Digitized encompassing superstructure",
+            "quantity": 9,
+            "unit_price": 378.04,
+            "total_price": 3402.36
+        },
+        {
+            "description": "Reactive mobile info-mediaries",
+            "quantity": 8,
+            "unit_price": 31.01,
+            "total_price": 248.08
+        },
+        {
+            "description": "Function-based bandwidth-monitored contingency",
+            "quantity": 6,
+            "unit_price": 84.12,
+            "total_price": 504.72
+        }
+    ],
+    "amount": 4155.16
+}

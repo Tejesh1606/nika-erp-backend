@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Logan, Gibson and Murphy",
+    "invoice_number": "INV-35228",
+    "date": "2025-04-19",
+    "items": [
+        {
+            "description": "Customer-focused 24/7 policy",
+            "quantity": 6,
+            "unit_price": 31.75,
+            "total_price": 190.5
+        }
+    ],
+    "amount": 190.5
+}

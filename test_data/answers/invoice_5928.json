@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wilson LLC",
+    "invoice_number": "INV-39064",
+    "date": "2025-06-15",
+    "items": [
+        {
+            "description": "Synergized dedicated Internet solution",
+            "quantity": 7,
+            "unit_price": 311.82,
+            "total_price": 2182.74
+        },
+        {
+            "description": "Upgradable empowering info-mediaries",
+            "quantity": 10,
+            "unit_price": 137.43,
+            "total_price": 1374.3
+        },
+        {
+            "description": "Optimized optimal definition",
+            "quantity": 1,
+            "unit_price": 290.81,
+            "total_price": 290.81
+        }
+    ],
+    "amount": 3847.85
+}

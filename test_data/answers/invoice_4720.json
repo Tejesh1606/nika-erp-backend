@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Perez Group",
+    "invoice_number": "INV-78576",
+    "date": "2025-10-27",
+    "items": [
+        {
+            "description": "Robust system-worthy budgetary management",
+            "quantity": 5,
+            "unit_price": 76.28,
+            "total_price": 381.4
+        },
+        {
+            "description": "Synergistic 3rdgeneration open architecture",
+            "quantity": 1,
+            "unit_price": 374.15,
+            "total_price": 374.15
+        }
+    ],
+    "amount": 755.55
+}

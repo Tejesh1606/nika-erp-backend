@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Fuller PLC",
+    "invoice_number": "INV-94100",
+    "date": "2026-01-29",
+    "items": [
+        {
+            "description": "Polarized regional application",
+            "quantity": 1,
+            "unit_price": 318.44,
+            "total_price": 318.44
+        },
+        {
+            "description": "Public-key value-added superstructure",
+            "quantity": 8,
+            "unit_price": 408.23,
+            "total_price": 3265.84
+        }
+    ],
+    "amount": 3584.28
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Williams, Bell and Johnson",
+    "invoice_number": "INV-87491",
+    "date": "2025-08-04",
+    "items": [
+        {
+            "description": "Managed impactful task-force",
+            "quantity": 2,
+            "unit_price": 23.11,
+            "total_price": 46.22
+        },
+        {
+            "description": "Realigned national task-force",
+            "quantity": 4,
+            "unit_price": 264.86,
+            "total_price": 1059.44
+        },
+        {
+            "description": "Diverse homogeneous matrices",
+            "quantity": 8,
+            "unit_price": 169.52,
+            "total_price": 1356.16
+        }
+    ],
+    "amount": 2461.82
+}

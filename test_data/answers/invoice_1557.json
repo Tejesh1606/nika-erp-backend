@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Patrick, Singleton and Werner",
+    "invoice_number": "INV-57785",
+    "date": "2025-03-27",
+    "items": [
+        {
+            "description": "Virtual discrete array",
+            "quantity": 1,
+            "unit_price": 352.18,
+            "total_price": 352.18
+        },
+        {
+            "description": "Triple-buffered cohesive array",
+            "quantity": 9,
+            "unit_price": 327.29,
+            "total_price": 2945.61
+        },
+        {
+            "description": "Seamless tangible neural-net",
+            "quantity": 2,
+            "unit_price": 471.44,
+            "total_price": 942.88
+        }
+    ],
+    "amount": 4240.67
+}

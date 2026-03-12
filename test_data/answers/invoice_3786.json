@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Greene Ltd",
+    "invoice_number": "INV-86435",
+    "date": "2025-04-21",
+    "items": [
+        {
+            "description": "Vision-oriented user-facing Internet solution",
+            "quantity": 10,
+            "unit_price": 43.58,
+            "total_price": 435.8
+        }
+    ],
+    "amount": 435.8
+}

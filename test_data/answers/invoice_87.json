@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Rivera Ltd",
+    "invoice_number": "INV-74942",
+    "date": "2025-06-28",
+    "items": [
+        {
+            "description": "Switchable impactful task-force",
+            "quantity": 1,
+            "unit_price": 69.82,
+            "total_price": 69.82
+        },
+        {
+            "description": "Reactive 5thgeneration knowledgebase",
+            "quantity": 1,
+            "unit_price": 321.05,
+            "total_price": 321.05
+        },
+        {
+            "description": "Cross-group foreground extranet",
+            "quantity": 8,
+            "unit_price": 89.67,
+            "total_price": 717.36
+        }
+    ],
+    "amount": 1108.23
+}

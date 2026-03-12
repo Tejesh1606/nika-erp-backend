@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Alexander, Rowland and Bautista",
+    "invoice_number": "INV-73908",
+    "date": "2025-03-11",
+    "items": [
+        {
+            "description": "Intuitive multimedia leverage",
+            "quantity": 8,
+            "unit_price": 36.11,
+            "total_price": 288.88
+        },
+        {
+            "description": "Proactive cohesive conglomeration",
+            "quantity": 5,
+            "unit_price": 25.83,
+            "total_price": 129.15
+        }
+    ],
+    "amount": 418.03
+}

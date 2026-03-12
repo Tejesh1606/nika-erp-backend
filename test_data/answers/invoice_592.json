@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Benson, Thompson and Caldwell",
+    "invoice_number": "INV-85260",
+    "date": "2026-01-27",
+    "items": [
+        {
+            "description": "Pre-emptive bifurcated parallelism",
+            "quantity": 9,
+            "unit_price": 45.28,
+            "total_price": 407.52
+        }
+    ],
+    "amount": 407.52
+}

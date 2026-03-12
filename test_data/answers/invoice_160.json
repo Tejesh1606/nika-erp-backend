@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cole-Palmer",
+    "invoice_number": "INV-67340",
+    "date": "2025-04-13",
+    "items": [
+        {
+            "description": "Face-to-face local hardware",
+            "quantity": 9,
+            "unit_price": 454.77,
+            "total_price": 4092.93
+        }
+    ],
+    "amount": 4092.93
+}

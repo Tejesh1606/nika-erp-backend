@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Johnson PLC",
+    "invoice_number": "INV-90105",
+    "date": "2025-11-29",
+    "items": [
+        {
+            "description": "Profit-focused bifurcated concept",
+            "quantity": 8,
+            "unit_price": 105.94,
+            "total_price": 847.52
+        },
+        {
+            "description": "Up-sized regional knowledge user",
+            "quantity": 7,
+            "unit_price": 282.29,
+            "total_price": 1976.03
+        },
+        {
+            "description": "Triple-buffered bifurcated utilization",
+            "quantity": 6,
+            "unit_price": 335.42,
+            "total_price": 2012.52
+        }
+    ],
+    "amount": 4836.07
+}

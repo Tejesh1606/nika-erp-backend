@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wright Group",
+    "invoice_number": "INV-89305",
+    "date": "2026-02-11",
+    "items": [
+        {
+            "description": "Optimized executive Graphic Interface",
+            "quantity": 8,
+            "unit_price": 447.83,
+            "total_price": 3582.64
+        },
+        {
+            "description": "Expanded fresh-thinking policy",
+            "quantity": 8,
+            "unit_price": 457.14,
+            "total_price": 3657.12
+        }
+    ],
+    "amount": 7239.76
+}

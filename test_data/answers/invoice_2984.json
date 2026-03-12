@@ -1,0 +1,14 @@
+{
+    "vendor_name": "York-Castillo",
+    "invoice_number": "INV-54311",
+    "date": "2026-02-28",
+    "items": [
+        {
+            "description": "Function-based homogeneous orchestration",
+            "quantity": 7,
+            "unit_price": 75.1,
+            "total_price": 525.7
+        }
+    ],
+    "amount": 525.7
+}

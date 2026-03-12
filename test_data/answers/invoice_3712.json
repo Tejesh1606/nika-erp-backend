@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Powers, Diaz and Diaz",
+    "invoice_number": "INV-37248",
+    "date": "2025-09-17",
+    "items": [
+        {
+            "description": "Persistent optimizing emulation",
+            "quantity": 10,
+            "unit_price": 129.6,
+            "total_price": 1296.0
+        },
+        {
+            "description": "Realigned heuristic projection",
+            "quantity": 9,
+            "unit_price": 138.9,
+            "total_price": 1250.1
+        }
+    ],
+    "amount": 2546.1
+}

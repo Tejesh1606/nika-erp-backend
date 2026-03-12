@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Miller Ltd",
+    "invoice_number": "INV-57775",
+    "date": "2025-06-12",
+    "items": [
+        {
+            "description": "Self-enabling 24hour knowledge user",
+            "quantity": 4,
+            "unit_price": 86.08,
+            "total_price": 344.32
+        },
+        {
+            "description": "Seamless incremental installation",
+            "quantity": 5,
+            "unit_price": 477.63,
+            "total_price": 2388.15
+        },
+        {
+            "description": "Cross-platform multi-tasking Internet solution",
+            "quantity": 8,
+            "unit_price": 127.6,
+            "total_price": 1020.8
+        }
+    ],
+    "amount": 3753.27
+}

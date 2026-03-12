@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Michael and Sons",
+    "invoice_number": "INV-21240",
+    "date": "2025-08-10",
+    "items": [
+        {
+            "description": "Phased optimizing task-force",
+            "quantity": 6,
+            "unit_price": 153.46,
+            "total_price": 920.76
+        },
+        {
+            "description": "Down-sized human-resource website",
+            "quantity": 1,
+            "unit_price": 417.13,
+            "total_price": 417.13
+        },
+        {
+            "description": "Networked executive adapter",
+            "quantity": 9,
+            "unit_price": 67.62,
+            "total_price": 608.58
+        }
+    ],
+    "amount": 1946.47
+}

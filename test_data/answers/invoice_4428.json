@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Vega LLC",
+    "invoice_number": "INV-42974",
+    "date": "2025-04-25",
+    "items": [
+        {
+            "description": "Persevering zero tolerance artificial intelligence",
+            "quantity": 9,
+            "unit_price": 447.57,
+            "total_price": 4028.13
+        },
+        {
+            "description": "Inverse 5thgeneration algorithm",
+            "quantity": 3,
+            "unit_price": 99.64,
+            "total_price": 298.92
+        }
+    ],
+    "amount": 4327.05
+}

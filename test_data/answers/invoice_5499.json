@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Williams LLC",
+    "invoice_number": "INV-82897",
+    "date": "2025-10-18",
+    "items": [
+        {
+            "description": "Switchable grid-enabled standardization",
+            "quantity": 8,
+            "unit_price": 324.24,
+            "total_price": 2593.92
+        },
+        {
+            "description": "Versatile didactic moratorium",
+            "quantity": 3,
+            "unit_price": 28.75,
+            "total_price": 86.25
+        },
+        {
+            "description": "Customizable fresh-thinking leverage",
+            "quantity": 10,
+            "unit_price": 189.79,
+            "total_price": 1897.9
+        }
+    ],
+    "amount": 4578.07
+}

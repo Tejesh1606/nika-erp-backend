@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Martin, Young and Holland",
+    "invoice_number": "INV-95322",
+    "date": "2025-04-16",
+    "items": [
+        {
+            "description": "Networked incremental collaboration",
+            "quantity": 3,
+            "unit_price": 67.54,
+            "total_price": 202.62
+        },
+        {
+            "description": "Upgradable tangible pricing structure",
+            "quantity": 1,
+            "unit_price": 136.2,
+            "total_price": 136.2
+        },
+        {
+            "description": "Balanced needs-based intranet",
+            "quantity": 2,
+            "unit_price": 245.49,
+            "total_price": 490.98
+        }
+    ],
+    "amount": 829.8
+}

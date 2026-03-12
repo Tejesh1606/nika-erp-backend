@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mason, Fisher and Hart",
+    "invoice_number": "INV-66456",
+    "date": "2025-04-11",
+    "items": [
+        {
+            "description": "Centralized discrete hierarchy",
+            "quantity": 3,
+            "unit_price": 237.16,
+            "total_price": 711.48
+        },
+        {
+            "description": "Open-architected holistic methodology",
+            "quantity": 5,
+            "unit_price": 291.27,
+            "total_price": 1456.35
+        },
+        {
+            "description": "Future-proofed secondary neural-net",
+            "quantity": 3,
+            "unit_price": 379.88,
+            "total_price": 1139.64
+        }
+    ],
+    "amount": 3307.47
+}

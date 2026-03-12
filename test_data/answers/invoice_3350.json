@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bridges, Dunn and Lewis",
+    "invoice_number": "INV-84854",
+    "date": "2025-11-15",
+    "items": [
+        {
+            "description": "Multi-lateral logistical architecture",
+            "quantity": 1,
+            "unit_price": 216.6,
+            "total_price": 216.6
+        },
+        {
+            "description": "Open-source fault-tolerant initiative",
+            "quantity": 8,
+            "unit_price": 364.47,
+            "total_price": 2915.76
+        },
+        {
+            "description": "Virtual static moderator",
+            "quantity": 8,
+            "unit_price": 304.03,
+            "total_price": 2432.24
+        }
+    ],
+    "amount": 5564.6
+}

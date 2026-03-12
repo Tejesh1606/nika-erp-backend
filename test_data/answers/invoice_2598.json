@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Sweeney-Richardson",
+    "invoice_number": "INV-59881",
+    "date": "2025-07-01",
+    "items": [
+        {
+            "description": "Optimized content-based portal",
+            "quantity": 1,
+            "unit_price": 136.48,
+            "total_price": 136.48
+        },
+        {
+            "description": "Compatible disintermediate neural-net",
+            "quantity": 5,
+            "unit_price": 337.7,
+            "total_price": 1688.5
+        }
+    ],
+    "amount": 1824.98
+}

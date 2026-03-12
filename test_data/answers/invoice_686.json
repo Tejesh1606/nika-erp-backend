@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Butler Inc",
+    "invoice_number": "INV-25278",
+    "date": "2026-01-21",
+    "items": [
+        {
+            "description": "De-engineered 3rdgeneration matrices",
+            "quantity": 2,
+            "unit_price": 125.51,
+            "total_price": 251.02
+        },
+        {
+            "description": "Monitored fault-tolerant solution",
+            "quantity": 9,
+            "unit_price": 470.85,
+            "total_price": 4237.65
+        },
+        {
+            "description": "Multi-lateral client-driven intranet",
+            "quantity": 3,
+            "unit_price": 221.81,
+            "total_price": 665.43
+        }
+    ],
+    "amount": 5154.1
+}

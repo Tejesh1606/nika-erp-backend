@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Davis-Hayden",
+    "invoice_number": "INV-62223",
+    "date": "2025-05-20",
+    "items": [
+        {
+            "description": "Cross-group directional concept",
+            "quantity": 1,
+            "unit_price": 189.85,
+            "total_price": 189.85
+        },
+        {
+            "description": "Front-line optimal contingency",
+            "quantity": 10,
+            "unit_price": 131.67,
+            "total_price": 1316.7
+        },
+        {
+            "description": "Secured holistic access",
+            "quantity": 3,
+            "unit_price": 172.08,
+            "total_price": 516.24
+        },
+        {
+            "description": "Customizable systematic parallelism",
+            "quantity": 6,
+            "unit_price": 88.1,
+            "total_price": 528.6
+        }
+    ],
+    "amount": 2551.39
+}

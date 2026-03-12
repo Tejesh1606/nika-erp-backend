@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Green Ltd",
+    "invoice_number": "INV-19868",
+    "date": "2026-01-12",
+    "items": [
+        {
+            "description": "Progressive directional focus group",
+            "quantity": 9,
+            "unit_price": 90.86,
+            "total_price": 817.74
+        }
+    ],
+    "amount": 817.74
+}

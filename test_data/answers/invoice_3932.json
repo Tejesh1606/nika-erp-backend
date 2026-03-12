@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Harris Ltd",
+    "invoice_number": "INV-19153",
+    "date": "2025-07-07",
+    "items": [
+        {
+            "description": "Streamlined multi-state functionalities",
+            "quantity": 9,
+            "unit_price": 163.63,
+            "total_price": 1472.67
+        },
+        {
+            "description": "Mandatory value-added toolset",
+            "quantity": 6,
+            "unit_price": 304.82,
+            "total_price": 1828.92
+        },
+        {
+            "description": "Assimilated maximized adapter",
+            "quantity": 9,
+            "unit_price": 293.67,
+            "total_price": 2643.03
+        },
+        {
+            "description": "Digitized homogeneous extranet",
+            "quantity": 4,
+            "unit_price": 112.27,
+            "total_price": 449.08
+        }
+    ],
+    "amount": 6393.7
+}

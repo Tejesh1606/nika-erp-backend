@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Medina-Payne",
+    "invoice_number": "INV-62074",
+    "date": "2026-02-08",
+    "items": [
+        {
+            "description": "Progressive user-facing matrices",
+            "quantity": 9,
+            "unit_price": 426.31,
+            "total_price": 3836.79
+        },
+        {
+            "description": "Self-enabling cohesive toolset",
+            "quantity": 4,
+            "unit_price": 482.04,
+            "total_price": 1928.16
+        }
+    ],
+    "amount": 5764.95
+}

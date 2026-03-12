@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Pittman-Collins",
+    "invoice_number": "INV-65450",
+    "date": "2025-03-20",
+    "items": [
+        {
+            "description": "Organized 24/7 frame",
+            "quantity": 10,
+            "unit_price": 137.45,
+            "total_price": 1374.5
+        },
+        {
+            "description": "Organized scalable collaboration",
+            "quantity": 7,
+            "unit_price": 363.65,
+            "total_price": 2545.55
+        },
+        {
+            "description": "Versatile intangible initiative",
+            "quantity": 6,
+            "unit_price": 209.65,
+            "total_price": 1257.9
+        }
+    ],
+    "amount": 5177.95
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Taylor Group",
+    "invoice_number": "INV-74204",
+    "date": "2025-12-04",
+    "items": [
+        {
+            "description": "Customer-focused fresh-thinking info-mediaries",
+            "quantity": 2,
+            "unit_price": 183.5,
+            "total_price": 367.0
+        },
+        {
+            "description": "Stand-alone motivating Graphical User Interface",
+            "quantity": 8,
+            "unit_price": 308.34,
+            "total_price": 2466.72
+        },
+        {
+            "description": "Ergonomic real-time ability",
+            "quantity": 7,
+            "unit_price": 333.95,
+            "total_price": 2337.65
+        },
+        {
+            "description": "Reverse-engineered bandwidth-monitored software",
+            "quantity": 1,
+            "unit_price": 274.6,
+            "total_price": 274.6
+        }
+    ],
+    "amount": 5445.97
+}

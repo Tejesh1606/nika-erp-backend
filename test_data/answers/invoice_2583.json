@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lewis PLC",
+    "invoice_number": "INV-44375",
+    "date": "2025-09-21",
+    "items": [
+        {
+            "description": "Synchronized attitude-oriented secured line",
+            "quantity": 8,
+            "unit_price": 470.6,
+            "total_price": 3764.8
+        },
+        {
+            "description": "Customizable contextually-based project",
+            "quantity": 1,
+            "unit_price": 58.96,
+            "total_price": 58.96
+        },
+        {
+            "description": "Open-source tangible info-mediaries",
+            "quantity": 1,
+            "unit_price": 427.12,
+            "total_price": 427.12
+        }
+    ],
+    "amount": 4250.88
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Green Ltd",
+    "invoice_number": "INV-35764",
+    "date": "2025-04-07",
+    "items": [
+        {
+            "description": "Assimilated uniform middleware",
+            "quantity": 5,
+            "unit_price": 107.71,
+            "total_price": 538.55
+        },
+        {
+            "description": "Cross-group client-driven extranet",
+            "quantity": 2,
+            "unit_price": 272.23,
+            "total_price": 544.46
+        }
+    ],
+    "amount": 1083.01
+}

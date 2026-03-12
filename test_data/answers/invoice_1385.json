@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Phillips Inc",
+    "invoice_number": "INV-90244",
+    "date": "2025-09-12",
+    "items": [
+        {
+            "description": "Organic intangible open architecture",
+            "quantity": 9,
+            "unit_price": 144.96,
+            "total_price": 1304.64
+        },
+        {
+            "description": "Reactive non-volatile core",
+            "quantity": 1,
+            "unit_price": 162.03,
+            "total_price": 162.03
+        },
+        {
+            "description": "Open-source contextually-based model",
+            "quantity": 3,
+            "unit_price": 390.17,
+            "total_price": 1170.51
+        },
+        {
+            "description": "Reduced impactful product",
+            "quantity": 5,
+            "unit_price": 200.55,
+            "total_price": 1002.75
+        }
+    ],
+    "amount": 3639.93
+}

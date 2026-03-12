@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cervantes-Smith",
+    "invoice_number": "INV-50234",
+    "date": "2025-09-19",
+    "items": [
+        {
+            "description": "Decentralized tangible methodology",
+            "quantity": 6,
+            "unit_price": 440.86,
+            "total_price": 2645.16
+        },
+        {
+            "description": "Streamlined logistical installation",
+            "quantity": 1,
+            "unit_price": 374.89,
+            "total_price": 374.89
+        }
+    ],
+    "amount": 3020.05
+}

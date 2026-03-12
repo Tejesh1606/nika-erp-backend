@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Trujillo, Barnes and Scott",
+    "invoice_number": "INV-84995",
+    "date": "2025-09-07",
+    "items": [
+        {
+            "description": "Expanded local moderator",
+            "quantity": 7,
+            "unit_price": 451.99,
+            "total_price": 3163.93
+        },
+        {
+            "description": "Balanced fresh-thinking encryption",
+            "quantity": 5,
+            "unit_price": 270.5,
+            "total_price": 1352.5
+        }
+    ],
+    "amount": 4516.43
+}

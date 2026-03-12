@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Chambers PLC",
+    "invoice_number": "INV-80321",
+    "date": "2026-03-05",
+    "items": [
+        {
+            "description": "Diverse mobile capability",
+            "quantity": 5,
+            "unit_price": 144.6,
+            "total_price": 723.0
+        },
+        {
+            "description": "Realigned coherent instruction set",
+            "quantity": 7,
+            "unit_price": 328.1,
+            "total_price": 2296.7
+        },
+        {
+            "description": "Total fresh-thinking throughput",
+            "quantity": 10,
+            "unit_price": 348.39,
+            "total_price": 3483.9
+        }
+    ],
+    "amount": 6503.6
+}

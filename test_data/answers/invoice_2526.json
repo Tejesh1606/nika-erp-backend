@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Kim, Salas and Williamson",
+    "invoice_number": "INV-80480",
+    "date": "2025-03-29",
+    "items": [
+        {
+            "description": "Digitized discrete productivity",
+            "quantity": 1,
+            "unit_price": 136.76,
+            "total_price": 136.76
+        },
+        {
+            "description": "Innovative zero-defect product",
+            "quantity": 1,
+            "unit_price": 486.96,
+            "total_price": 486.96
+        },
+        {
+            "description": "Future-proofed heuristic interface",
+            "quantity": 9,
+            "unit_price": 402.68,
+            "total_price": 3624.12
+        },
+        {
+            "description": "Profound explicit firmware",
+            "quantity": 3,
+            "unit_price": 371.86,
+            "total_price": 1115.58
+        }
+    ],
+    "amount": 5363.42
+}

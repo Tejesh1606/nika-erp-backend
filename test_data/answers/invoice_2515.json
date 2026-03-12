@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hartman, Morrison and Chen",
+    "invoice_number": "INV-53743",
+    "date": "2025-12-20",
+    "items": [
+        {
+            "description": "Cross-group neutral workforce",
+            "quantity": 6,
+            "unit_price": 326.91,
+            "total_price": 1961.46
+        },
+        {
+            "description": "Quality-focused bandwidth-monitored collaboration",
+            "quantity": 4,
+            "unit_price": 93.9,
+            "total_price": 375.6
+        },
+        {
+            "description": "Re-contextualized secondary utilization",
+            "quantity": 3,
+            "unit_price": 308.68,
+            "total_price": 926.04
+        }
+    ],
+    "amount": 3263.1
+}

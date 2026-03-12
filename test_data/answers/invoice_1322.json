@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Nguyen-Castro",
+    "invoice_number": "INV-36142",
+    "date": "2026-01-12",
+    "items": [
+        {
+            "description": "Extended regional middleware",
+            "quantity": 3,
+            "unit_price": 316.34,
+            "total_price": 949.02
+        },
+        {
+            "description": "Organic even-keeled benchmark",
+            "quantity": 1,
+            "unit_price": 202.3,
+            "total_price": 202.3
+        }
+    ],
+    "amount": 1151.32
+}

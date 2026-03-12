@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ross-Hooper",
+    "invoice_number": "INV-59451",
+    "date": "2025-10-30",
+    "items": [
+        {
+            "description": "Integrated system-worthy open architecture",
+            "quantity": 5,
+            "unit_price": 151.57,
+            "total_price": 757.85
+        },
+        {
+            "description": "Face-to-face intermediate software",
+            "quantity": 7,
+            "unit_price": 120.93,
+            "total_price": 846.51
+        }
+    ],
+    "amount": 1604.36
+}

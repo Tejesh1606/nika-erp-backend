@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Dominguez, Walker and Harris",
+    "invoice_number": "INV-58622",
+    "date": "2025-10-25",
+    "items": [
+        {
+            "description": "Persistent uniform access",
+            "quantity": 5,
+            "unit_price": 91.8,
+            "total_price": 459.0
+        }
+    ],
+    "amount": 459.0
+}

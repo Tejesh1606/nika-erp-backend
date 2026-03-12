@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Shaw and Sons",
+    "invoice_number": "INV-87569",
+    "date": "2026-03-09",
+    "items": [
+        {
+            "description": "Reduced coherent concept",
+            "quantity": 9,
+            "unit_price": 412.43,
+            "total_price": 3711.87
+        },
+        {
+            "description": "Switchable regional success",
+            "quantity": 5,
+            "unit_price": 182.81,
+            "total_price": 914.05
+        }
+    ],
+    "amount": 4625.92
+}

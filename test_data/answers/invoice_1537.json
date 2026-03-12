@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Petersen PLC",
+    "invoice_number": "INV-98617",
+    "date": "2025-08-15",
+    "items": [
+        {
+            "description": "Grass-roots empowering policy",
+            "quantity": 8,
+            "unit_price": 195.86,
+            "total_price": 1566.88
+        }
+    ],
+    "amount": 1566.88
+}

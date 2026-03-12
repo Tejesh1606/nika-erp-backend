@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Rogers, Gonzalez and Rasmussen",
+    "invoice_number": "INV-67224",
+    "date": "2025-07-30",
+    "items": [
+        {
+            "description": "Re-contextualized methodical flexibility",
+            "quantity": 9,
+            "unit_price": 364.93,
+            "total_price": 3284.37
+        },
+        {
+            "description": "Object-based human-resource superstructure",
+            "quantity": 2,
+            "unit_price": 433.41,
+            "total_price": 866.82
+        }
+    ],
+    "amount": 4151.19
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Johnson, Sexton and Walker",
+    "invoice_number": "INV-51696",
+    "date": "2025-09-02",
+    "items": [
+        {
+            "description": "Proactive local process improvement",
+            "quantity": 7,
+            "unit_price": 345.66,
+            "total_price": 2419.62
+        },
+        {
+            "description": "Face-to-face bottom-line conglomeration",
+            "quantity": 1,
+            "unit_price": 350.27,
+            "total_price": 350.27
+        }
+    ],
+    "amount": 2769.89
+}

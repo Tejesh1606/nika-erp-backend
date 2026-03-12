@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hernandez PLC",
+    "invoice_number": "INV-49824",
+    "date": "2025-04-11",
+    "items": [
+        {
+            "description": "Fully-configurable bottom-line open architecture",
+            "quantity": 9,
+            "unit_price": 116.93,
+            "total_price": 1052.37
+        },
+        {
+            "description": "Virtual intangible portal",
+            "quantity": 5,
+            "unit_price": 369.46,
+            "total_price": 1847.3
+        },
+        {
+            "description": "Right-sized regional definition",
+            "quantity": 6,
+            "unit_price": 140.65,
+            "total_price": 843.9
+        }
+    ],
+    "amount": 3743.57
+}

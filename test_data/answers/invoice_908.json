@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lane, Bates and Martin",
+    "invoice_number": "INV-25300",
+    "date": "2026-01-02",
+    "items": [
+        {
+            "description": "Cross-group secondary structure",
+            "quantity": 5,
+            "unit_price": 246.6,
+            "total_price": 1233.0
+        },
+        {
+            "description": "Networked hybrid strategy",
+            "quantity": 10,
+            "unit_price": 274.84,
+            "total_price": 2748.4
+        },
+        {
+            "description": "Reverse-engineered attitude-oriented model",
+            "quantity": 9,
+            "unit_price": 111.7,
+            "total_price": 1005.3
+        },
+        {
+            "description": "Ergonomic interactive concept",
+            "quantity": 7,
+            "unit_price": 175.21,
+            "total_price": 1226.47
+        }
+    ],
+    "amount": 6213.17
+}

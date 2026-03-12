@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mann-Cortez",
+    "invoice_number": "INV-55374",
+    "date": "2025-03-11",
+    "items": [
+        {
+            "description": "Phased solution-oriented ability",
+            "quantity": 8,
+            "unit_price": 120.74,
+            "total_price": 965.92
+        },
+        {
+            "description": "Proactive mission-critical hub",
+            "quantity": 7,
+            "unit_price": 212.95,
+            "total_price": 1490.65
+        },
+        {
+            "description": "Adaptive uniform open architecture",
+            "quantity": 4,
+            "unit_price": 482.32,
+            "total_price": 1929.28
+        }
+    ],
+    "amount": 4385.85
+}

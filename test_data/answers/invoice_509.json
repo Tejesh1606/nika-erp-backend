@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Stewart PLC",
+    "invoice_number": "INV-94495",
+    "date": "2025-12-27",
+    "items": [
+        {
+            "description": "Monitored leadingedge superstructure",
+            "quantity": 9,
+            "unit_price": 38.81,
+            "total_price": 349.29
+        },
+        {
+            "description": "Ergonomic 3rdgeneration solution",
+            "quantity": 1,
+            "unit_price": 216.56,
+            "total_price": 216.56
+        },
+        {
+            "description": "Multi-tiered heuristic success",
+            "quantity": 4,
+            "unit_price": 411.84,
+            "total_price": 1647.36
+        },
+        {
+            "description": "Devolved eco-centric analyzer",
+            "quantity": 7,
+            "unit_price": 304.8,
+            "total_price": 2133.6
+        }
+    ],
+    "amount": 4346.81
+}

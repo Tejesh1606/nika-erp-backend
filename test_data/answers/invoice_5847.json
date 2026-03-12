@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Farmer, Morgan and Oliver",
+    "invoice_number": "INV-87977",
+    "date": "2025-12-28",
+    "items": [
+        {
+            "description": "Inverse mobile artificial intelligence",
+            "quantity": 1,
+            "unit_price": 213.2,
+            "total_price": 213.2
+        },
+        {
+            "description": "Reduced exuding intranet",
+            "quantity": 7,
+            "unit_price": 176.83,
+            "total_price": 1237.81
+        },
+        {
+            "description": "Synchronized solution-oriented methodology",
+            "quantity": 7,
+            "unit_price": 12.45,
+            "total_price": 87.15
+        },
+        {
+            "description": "Business-focused 6thgeneration Local Area Network",
+            "quantity": 10,
+            "unit_price": 268.76,
+            "total_price": 2687.6
+        }
+    ],
+    "amount": 4225.76
+}

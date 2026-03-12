@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Barnes-Rivera",
+    "invoice_number": "INV-20633",
+    "date": "2025-06-11",
+    "items": [
+        {
+            "description": "Diverse regional matrices",
+            "quantity": 9,
+            "unit_price": 13.93,
+            "total_price": 125.37
+        }
+    ],
+    "amount": 125.37
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Robinson LLC",
+    "invoice_number": "INV-17696",
+    "date": "2025-11-16",
+    "items": [
+        {
+            "description": "Focused value-added software",
+            "quantity": 6,
+            "unit_price": 473.08,
+            "total_price": 2838.48
+        },
+        {
+            "description": "Team-oriented zero-defect paradigm",
+            "quantity": 7,
+            "unit_price": 376.29,
+            "total_price": 2634.03
+        }
+    ],
+    "amount": 5472.51
+}

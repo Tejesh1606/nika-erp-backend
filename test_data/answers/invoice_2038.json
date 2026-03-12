@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Gibson, Johnson and Friedman",
+    "invoice_number": "INV-72202",
+    "date": "2025-05-31",
+    "items": [
+        {
+            "description": "Compatible composite interface",
+            "quantity": 9,
+            "unit_price": 87.73,
+            "total_price": 789.57
+        }
+    ],
+    "amount": 789.57
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Schmidt, Graham and Manning",
+    "invoice_number": "INV-49366",
+    "date": "2026-02-01",
+    "items": [
+        {
+            "description": "Universal impactful paradigm",
+            "quantity": 5,
+            "unit_price": 245.04,
+            "total_price": 1225.2
+        },
+        {
+            "description": "Extended interactive groupware",
+            "quantity": 10,
+            "unit_price": 147.98,
+            "total_price": 1479.8
+        }
+    ],
+    "amount": 2705.0
+}

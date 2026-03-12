@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jackson Group",
+    "invoice_number": "INV-74763",
+    "date": "2025-11-27",
+    "items": [
+        {
+            "description": "Assimilated bandwidth-monitored synergy",
+            "quantity": 5,
+            "unit_price": 477.5,
+            "total_price": 2387.5
+        },
+        {
+            "description": "Versatile attitude-oriented initiative",
+            "quantity": 7,
+            "unit_price": 475.08,
+            "total_price": 3325.56
+        },
+        {
+            "description": "Organized motivating budgetary management",
+            "quantity": 4,
+            "unit_price": 495.59,
+            "total_price": 1982.36
+        },
+        {
+            "description": "Customizable intermediate Local Area Network",
+            "quantity": 10,
+            "unit_price": 289.56,
+            "total_price": 2895.6
+        }
+    ],
+    "amount": 10591.02
+}

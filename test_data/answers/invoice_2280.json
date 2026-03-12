@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Pacheco, Jones and Smith",
+    "invoice_number": "INV-39967",
+    "date": "2025-03-27",
+    "items": [
+        {
+            "description": "Digitized bandwidth-monitored hub",
+            "quantity": 2,
+            "unit_price": 361.02,
+            "total_price": 722.04
+        },
+        {
+            "description": "Compatible homogeneous leverage",
+            "quantity": 4,
+            "unit_price": 420.97,
+            "total_price": 1683.88
+        }
+    ],
+    "amount": 2405.92
+}

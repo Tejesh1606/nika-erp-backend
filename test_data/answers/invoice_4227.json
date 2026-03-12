@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Sullivan PLC",
+    "invoice_number": "INV-91653",
+    "date": "2025-11-28",
+    "items": [
+        {
+            "description": "Automated solution-oriented info-mediaries",
+            "quantity": 10,
+            "unit_price": 349.41,
+            "total_price": 3494.1
+        },
+        {
+            "description": "Integrated real-time utilization",
+            "quantity": 6,
+            "unit_price": 73.41,
+            "total_price": 440.46
+        }
+    ],
+    "amount": 3934.56
+}

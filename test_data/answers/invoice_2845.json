@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cole-Ryan",
+    "invoice_number": "INV-85941",
+    "date": "2025-06-17",
+    "items": [
+        {
+            "description": "Persevering 3rdgeneration installation",
+            "quantity": 9,
+            "unit_price": 221.23,
+            "total_price": 1991.07
+        },
+        {
+            "description": "Total bi-directional knowledgebase",
+            "quantity": 9,
+            "unit_price": 308.53,
+            "total_price": 2776.77
+        },
+        {
+            "description": "Total secondary adapter",
+            "quantity": 8,
+            "unit_price": 364.07,
+            "total_price": 2912.56
+        }
+    ],
+    "amount": 7680.4
+}

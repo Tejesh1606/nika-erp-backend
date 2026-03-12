@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Buckley, Walls and Davis",
+    "invoice_number": "INV-30869",
+    "date": "2025-08-05",
+    "items": [
+        {
+            "description": "Operative client-driven frame",
+            "quantity": 5,
+            "unit_price": 114.94,
+            "total_price": 574.7
+        },
+        {
+            "description": "Integrated discrete installation",
+            "quantity": 8,
+            "unit_price": 402.14,
+            "total_price": 3217.12
+        }
+    ],
+    "amount": 3791.82
+}

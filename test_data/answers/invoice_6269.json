@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Martin LLC",
+    "invoice_number": "INV-54064",
+    "date": "2025-11-18",
+    "items": [
+        {
+            "description": "Triple-buffered impactful contingency",
+            "quantity": 2,
+            "unit_price": 206.74,
+            "total_price": 413.48
+        }
+    ],
+    "amount": 413.48
+}

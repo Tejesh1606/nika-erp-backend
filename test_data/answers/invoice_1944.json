@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Schultz Group",
+    "invoice_number": "INV-91393",
+    "date": "2025-07-31",
+    "items": [
+        {
+            "description": "Focused foreground flexibility",
+            "quantity": 9,
+            "unit_price": 459.85,
+            "total_price": 4138.65
+        }
+    ],
+    "amount": 4138.65
+}

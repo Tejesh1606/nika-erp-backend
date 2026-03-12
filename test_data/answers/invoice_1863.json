@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Peterson-Green",
+    "invoice_number": "INV-51098",
+    "date": "2026-01-15",
+    "items": [
+        {
+            "description": "Switchable actuating budgetary management",
+            "quantity": 8,
+            "unit_price": 227.18,
+            "total_price": 1817.44
+        },
+        {
+            "description": "Decentralized reciprocal challenge",
+            "quantity": 6,
+            "unit_price": 293.75,
+            "total_price": 1762.5
+        },
+        {
+            "description": "Up-sized radical service-desk",
+            "quantity": 6,
+            "unit_price": 236.32,
+            "total_price": 1417.92
+        }
+    ],
+    "amount": 4997.86
+}

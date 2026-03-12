@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Austin PLC",
+    "invoice_number": "INV-40443",
+    "date": "2025-06-17",
+    "items": [
+        {
+            "description": "Team-oriented secondary monitoring",
+            "quantity": 7,
+            "unit_price": 392.81,
+            "total_price": 2749.67
+        },
+        {
+            "description": "Optional zero tolerance product",
+            "quantity": 2,
+            "unit_price": 78.54,
+            "total_price": 157.08
+        },
+        {
+            "description": "Right-sized motivating matrix",
+            "quantity": 2,
+            "unit_price": 48.58,
+            "total_price": 97.16
+        },
+        {
+            "description": "Cross-platform interactive solution",
+            "quantity": 5,
+            "unit_price": 412.29,
+            "total_price": 2061.45
+        }
+    ],
+    "amount": 5065.36
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Long-Brown",
+    "invoice_number": "INV-17870",
+    "date": "2025-11-15",
+    "items": [
+        {
+            "description": "Centralized real-time groupware",
+            "quantity": 6,
+            "unit_price": 413.53,
+            "total_price": 2481.18
+        }
+    ],
+    "amount": 2481.18
+}

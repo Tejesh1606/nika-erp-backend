@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mercado-Bruce",
+    "invoice_number": "INV-53276",
+    "date": "2025-08-10",
+    "items": [
+        {
+            "description": "Open-architected cohesive concept",
+            "quantity": 1,
+            "unit_price": 31.54,
+            "total_price": 31.54
+        },
+        {
+            "description": "Right-sized systemic hub",
+            "quantity": 4,
+            "unit_price": 206.78,
+            "total_price": 827.12
+        }
+    ],
+    "amount": 858.66
+}

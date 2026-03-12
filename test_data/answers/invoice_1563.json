@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cummings-Hernandez",
+    "invoice_number": "INV-34485",
+    "date": "2025-06-12",
+    "items": [
+        {
+            "description": "Advanced fresh-thinking concept",
+            "quantity": 1,
+            "unit_price": 366.36,
+            "total_price": 366.36
+        },
+        {
+            "description": "Visionary encompassing migration",
+            "quantity": 9,
+            "unit_price": 348.25,
+            "total_price": 3134.25
+        }
+    ],
+    "amount": 3500.61
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Smith Ltd",
+    "invoice_number": "INV-59451",
+    "date": "2025-12-22",
+    "items": [
+        {
+            "description": "Programmable dynamic open architecture",
+            "quantity": 5,
+            "unit_price": 397.6,
+            "total_price": 1988.0
+        },
+        {
+            "description": "Proactive next generation pricing structure",
+            "quantity": 7,
+            "unit_price": 301.15,
+            "total_price": 2108.05
+        },
+        {
+            "description": "Automated didactic synergy",
+            "quantity": 1,
+            "unit_price": 140.85,
+            "total_price": 140.85
+        },
+        {
+            "description": "Integrated scalable hardware",
+            "quantity": 3,
+            "unit_price": 331.75,
+            "total_price": 995.25
+        }
+    ],
+    "amount": 5232.15
+}

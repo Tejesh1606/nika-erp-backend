@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Green-Huerta",
+    "invoice_number": "INV-58001",
+    "date": "2025-06-29",
+    "items": [
+        {
+            "description": "Robust local monitoring",
+            "quantity": 2,
+            "unit_price": 174.5,
+            "total_price": 349.0
+        }
+    ],
+    "amount": 349.0
+}

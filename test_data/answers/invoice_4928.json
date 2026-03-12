@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gonzalez-Mosley",
+    "invoice_number": "INV-34496",
+    "date": "2025-05-04",
+    "items": [
+        {
+            "description": "Adaptive leadingedge circuit",
+            "quantity": 10,
+            "unit_price": 288.72,
+            "total_price": 2887.2
+        },
+        {
+            "description": "Inverse upward-trending alliance",
+            "quantity": 10,
+            "unit_price": 48.59,
+            "total_price": 485.9
+        }
+    ],
+    "amount": 3373.1
+}

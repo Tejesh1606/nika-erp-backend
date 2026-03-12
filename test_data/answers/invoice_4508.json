@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Fields-Duran",
+    "invoice_number": "INV-45906",
+    "date": "2026-02-26",
+    "items": [
+        {
+            "description": "Secured mission-critical collaboration",
+            "quantity": 3,
+            "unit_price": 248.12,
+            "total_price": 744.36
+        }
+    ],
+    "amount": 744.36
+}

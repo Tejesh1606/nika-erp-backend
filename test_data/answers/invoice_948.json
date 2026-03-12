@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Andrews Ltd",
+    "invoice_number": "INV-31130",
+    "date": "2025-04-12",
+    "items": [
+        {
+            "description": "Realigned eco-centric system engine",
+            "quantity": 5,
+            "unit_price": 447.95,
+            "total_price": 2239.75
+        },
+        {
+            "description": "Automated attitude-oriented capability",
+            "quantity": 5,
+            "unit_price": 15.44,
+            "total_price": 77.2
+        }
+    ],
+    "amount": 2316.95
+}

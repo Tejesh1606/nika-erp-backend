@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Thompson-Hood",
+    "invoice_number": "INV-47580",
+    "date": "2025-04-05",
+    "items": [
+        {
+            "description": "Sharable 4thgeneration system engine",
+            "quantity": 4,
+            "unit_price": 327.49,
+            "total_price": 1309.96
+        },
+        {
+            "description": "Sharable directional knowledge user",
+            "quantity": 2,
+            "unit_price": 438.27,
+            "total_price": 876.54
+        },
+        {
+            "description": "Monitored bi-directional framework",
+            "quantity": 8,
+            "unit_price": 218.21,
+            "total_price": 1745.68
+        }
+    ],
+    "amount": 3932.18
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Wilson LLC",
+    "invoice_number": "INV-30578",
+    "date": "2025-06-15",
+    "items": [
+        {
+            "description": "Persistent attitude-oriented array",
+            "quantity": 3,
+            "unit_price": 145.25,
+            "total_price": 435.75
+        },
+        {
+            "description": "Organic neutral migration",
+            "quantity": 9,
+            "unit_price": 172.42,
+            "total_price": 1551.78
+        },
+        {
+            "description": "Phased systematic task-force",
+            "quantity": 10,
+            "unit_price": 166.56,
+            "total_price": 1665.6
+        },
+        {
+            "description": "Vision-oriented grid-enabled access",
+            "quantity": 9,
+            "unit_price": 257.14,
+            "total_price": 2314.26
+        }
+    ],
+    "amount": 5967.39
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Carr-Ramirez",
+    "invoice_number": "INV-71026",
+    "date": "2025-06-26",
+    "items": [
+        {
+            "description": "Total background intranet",
+            "quantity": 3,
+            "unit_price": 341.58,
+            "total_price": 1024.74
+        },
+        {
+            "description": "Optimized fault-tolerant data-warehouse",
+            "quantity": 9,
+            "unit_price": 358.57,
+            "total_price": 3227.13
+        },
+        {
+            "description": "Future-proofed encompassing archive",
+            "quantity": 1,
+            "unit_price": 228.41,
+            "total_price": 228.41
+        }
+    ],
+    "amount": 4480.28
+}

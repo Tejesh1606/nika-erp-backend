@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Smith-Hayes",
+    "invoice_number": "INV-99884",
+    "date": "2025-04-23",
+    "items": [
+        {
+            "description": "Integrated upward-trending support",
+            "quantity": 7,
+            "unit_price": 409.69,
+            "total_price": 2867.83
+        },
+        {
+            "description": "Progressive didactic website",
+            "quantity": 7,
+            "unit_price": 468.29,
+            "total_price": 3278.03
+        },
+        {
+            "description": "Object-based next generation Local Area Network",
+            "quantity": 6,
+            "unit_price": 457.57,
+            "total_price": 2745.42
+        },
+        {
+            "description": "Integrated logistical leverage",
+            "quantity": 9,
+            "unit_price": 117.37,
+            "total_price": 1056.33
+        }
+    ],
+    "amount": 9947.61
+}

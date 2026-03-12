@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Carter Inc",
+    "invoice_number": "INV-98398",
+    "date": "2025-09-17",
+    "items": [
+        {
+            "description": "Intuitive interactive process improvement",
+            "quantity": 2,
+            "unit_price": 148.64,
+            "total_price": 297.28
+        },
+        {
+            "description": "Sharable even-keeled data-warehouse",
+            "quantity": 9,
+            "unit_price": 244.25,
+            "total_price": 2198.25
+        }
+    ],
+    "amount": 2495.53
+}

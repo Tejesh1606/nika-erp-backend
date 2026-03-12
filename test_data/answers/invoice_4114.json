@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Griffith, Williams and Bennett",
+    "invoice_number": "INV-39013",
+    "date": "2025-07-19",
+    "items": [
+        {
+            "description": "Stand-alone multi-state success",
+            "quantity": 8,
+            "unit_price": 140.53,
+            "total_price": 1124.24
+        },
+        {
+            "description": "Switchable intermediate workforce",
+            "quantity": 4,
+            "unit_price": 29.35,
+            "total_price": 117.4
+        },
+        {
+            "description": "Reverse-engineered optimizing alliance",
+            "quantity": 9,
+            "unit_price": 337.18,
+            "total_price": 3034.62
+        }
+    ],
+    "amount": 4276.26
+}

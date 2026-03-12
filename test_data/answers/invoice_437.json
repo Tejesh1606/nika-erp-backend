@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Thompson PLC",
+    "invoice_number": "INV-20744",
+    "date": "2026-01-29",
+    "items": [
+        {
+            "description": "Grass-roots client-driven monitoring",
+            "quantity": 5,
+            "unit_price": 263.13,
+            "total_price": 1315.65
+        },
+        {
+            "description": "Exclusive empowering superstructure",
+            "quantity": 1,
+            "unit_price": 473.85,
+            "total_price": 473.85
+        }
+    ],
+    "amount": 1789.5
+}

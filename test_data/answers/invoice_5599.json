@@ -1,0 +1,20 @@
+{
+    "vendor_name": "King Inc",
+    "invoice_number": "INV-98573",
+    "date": "2025-07-21",
+    "items": [
+        {
+            "description": "De-engineered homogeneous portal",
+            "quantity": 10,
+            "unit_price": 52.52,
+            "total_price": 525.2
+        },
+        {
+            "description": "Self-enabling hybrid customer loyalty",
+            "quantity": 5,
+            "unit_price": 373.08,
+            "total_price": 1865.4
+        }
+    ],
+    "amount": 2390.6
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cameron, Porter and Carroll",
+    "invoice_number": "INV-60673",
+    "date": "2025-07-26",
+    "items": [
+        {
+            "description": "Triple-buffered non-volatile hierarchy",
+            "quantity": 6,
+            "unit_price": 289.87,
+            "total_price": 1739.22
+        },
+        {
+            "description": "Reduced incremental Graphic Interface",
+            "quantity": 1,
+            "unit_price": 150.93,
+            "total_price": 150.93
+        },
+        {
+            "description": "Open-source 24/7 analyzer",
+            "quantity": 6,
+            "unit_price": 319.7,
+            "total_price": 1918.2
+        }
+    ],
+    "amount": 3808.35
+}

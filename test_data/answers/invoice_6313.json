@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Davis, Smith and Garcia",
+    "invoice_number": "INV-73180",
+    "date": "2025-09-13",
+    "items": [
+        {
+            "description": "Synergistic optimal synergy",
+            "quantity": 7,
+            "unit_price": 441.12,
+            "total_price": 3087.84
+        },
+        {
+            "description": "Pre-emptive discrete access",
+            "quantity": 2,
+            "unit_price": 449.3,
+            "total_price": 898.6
+        },
+        {
+            "description": "Secured scalable product",
+            "quantity": 2,
+            "unit_price": 127.34,
+            "total_price": 254.68
+        }
+    ],
+    "amount": 4241.12
+}

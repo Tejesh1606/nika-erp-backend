@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Valencia-Miller",
+    "invoice_number": "INV-32474",
+    "date": "2026-02-04",
+    "items": [
+        {
+            "description": "Progressive intermediate intranet",
+            "quantity": 6,
+            "unit_price": 46.9,
+            "total_price": 281.4
+        },
+        {
+            "description": "Down-sized motivating matrix",
+            "quantity": 2,
+            "unit_price": 443.56,
+            "total_price": 887.12
+        },
+        {
+            "description": "Polarized eco-centric methodology",
+            "quantity": 8,
+            "unit_price": 319.28,
+            "total_price": 2554.24
+        }
+    ],
+    "amount": 3722.76
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Vasquez and Sons",
+    "invoice_number": "INV-89993",
+    "date": "2025-08-08",
+    "items": [
+        {
+            "description": "Enhanced secondary matrix",
+            "quantity": 1,
+            "unit_price": 73.59,
+            "total_price": 73.59
+        },
+        {
+            "description": "Customer-focused client-server moratorium",
+            "quantity": 2,
+            "unit_price": 276.6,
+            "total_price": 553.2
+        },
+        {
+            "description": "Visionary intermediate data-warehouse",
+            "quantity": 8,
+            "unit_price": 336.51,
+            "total_price": 2692.08
+        },
+        {
+            "description": "Seamless secondary benchmark",
+            "quantity": 4,
+            "unit_price": 158.71,
+            "total_price": 634.84
+        }
+    ],
+    "amount": 3953.71
+}

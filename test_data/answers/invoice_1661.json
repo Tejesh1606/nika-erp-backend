@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Davenport-Reynolds",
+    "invoice_number": "INV-18292",
+    "date": "2026-01-26",
+    "items": [
+        {
+            "description": "Diverse methodical implementation",
+            "quantity": 2,
+            "unit_price": 26.7,
+            "total_price": 53.4
+        },
+        {
+            "description": "Adaptive composite hub",
+            "quantity": 7,
+            "unit_price": 331.48,
+            "total_price": 2320.36
+        },
+        {
+            "description": "Automated national conglomeration",
+            "quantity": 9,
+            "unit_price": 237.07,
+            "total_price": 2133.63
+        },
+        {
+            "description": "Synergized intangible benchmark",
+            "quantity": 8,
+            "unit_price": 208.82,
+            "total_price": 1670.56
+        }
+    ],
+    "amount": 6177.95
+}

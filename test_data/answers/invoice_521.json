@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Moore, Murillo and Ramos",
+    "invoice_number": "INV-56179",
+    "date": "2026-02-22",
+    "items": [
+        {
+            "description": "Intuitive neutral Graphic Interface",
+            "quantity": 7,
+            "unit_price": 258.98,
+            "total_price": 1812.86
+        },
+        {
+            "description": "Multi-layered incremental task-force",
+            "quantity": 3,
+            "unit_price": 23.99,
+            "total_price": 71.97
+        }
+    ],
+    "amount": 1884.83
+}

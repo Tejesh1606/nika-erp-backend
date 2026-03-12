@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Anderson, Deleon and Smith",
+    "invoice_number": "INV-15525",
+    "date": "2025-05-22",
+    "items": [
+        {
+            "description": "Centralized multi-state database",
+            "quantity": 8,
+            "unit_price": 335.81,
+            "total_price": 2686.48
+        },
+        {
+            "description": "Multi-lateral human-resource infrastructure",
+            "quantity": 2,
+            "unit_price": 427.96,
+            "total_price": 855.92
+        }
+    ],
+    "amount": 3542.4
+}

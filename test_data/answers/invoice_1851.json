@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Martinez, Shaw and Berry",
+    "invoice_number": "INV-39098",
+    "date": "2025-06-20",
+    "items": [
+        {
+            "description": "Public-key impactful monitoring",
+            "quantity": 5,
+            "unit_price": 121.83,
+            "total_price": 609.15
+        },
+        {
+            "description": "Total motivating emulation",
+            "quantity": 4,
+            "unit_price": 308.6,
+            "total_price": 1234.4
+        }
+    ],
+    "amount": 1843.55
+}

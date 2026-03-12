@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Salas and Sons",
+    "invoice_number": "INV-42531",
+    "date": "2025-07-13",
+    "items": [
+        {
+            "description": "Total well-modulated orchestration",
+            "quantity": 1,
+            "unit_price": 232.97,
+            "total_price": 232.97
+        },
+        {
+            "description": "Multi-tiered 24hour hierarchy",
+            "quantity": 8,
+            "unit_price": 194.23,
+            "total_price": 1553.84
+        },
+        {
+            "description": "Focused 24/7 challenge",
+            "quantity": 1,
+            "unit_price": 217.86,
+            "total_price": 217.86
+        },
+        {
+            "description": "User-friendly human-resource archive",
+            "quantity": 5,
+            "unit_price": 111.08,
+            "total_price": 555.4
+        }
+    ],
+    "amount": 2560.07
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Thompson-Petersen",
+    "invoice_number": "INV-85527",
+    "date": "2026-01-21",
+    "items": [
+        {
+            "description": "Cross-platform radical project",
+            "quantity": 8,
+            "unit_price": 369.81,
+            "total_price": 2958.48
+        },
+        {
+            "description": "Innovative 5thgeneration superstructure",
+            "quantity": 10,
+            "unit_price": 231.22,
+            "total_price": 2312.2
+        },
+        {
+            "description": "Re-engineered homogeneous artificial intelligence",
+            "quantity": 1,
+            "unit_price": 449.99,
+            "total_price": 449.99
+        }
+    ],
+    "amount": 5720.67
+}

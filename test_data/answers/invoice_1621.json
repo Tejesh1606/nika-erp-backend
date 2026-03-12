@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Webb, Willis and Terry",
+    "invoice_number": "INV-39720",
+    "date": "2026-01-27",
+    "items": [
+        {
+            "description": "Switchable zero-defect methodology",
+            "quantity": 5,
+            "unit_price": 55.49,
+            "total_price": 277.45
+        },
+        {
+            "description": "Realigned zero administration knowledgebase",
+            "quantity": 3,
+            "unit_price": 325.45,
+            "total_price": 976.35
+        }
+    ],
+    "amount": 1253.8
+}

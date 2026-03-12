@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Sweeney-Glass",
+    "invoice_number": "INV-88363",
+    "date": "2025-10-30",
+    "items": [
+        {
+            "description": "Triple-buffered reciprocal synergy",
+            "quantity": 2,
+            "unit_price": 419.41,
+            "total_price": 838.82
+        }
+    ],
+    "amount": 838.82
+}

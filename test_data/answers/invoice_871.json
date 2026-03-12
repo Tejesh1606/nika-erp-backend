@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Davis-Garcia",
+    "invoice_number": "INV-82470",
+    "date": "2025-05-16",
+    "items": [
+        {
+            "description": "Automated system-worthy portal",
+            "quantity": 7,
+            "unit_price": 97.42,
+            "total_price": 681.94
+        },
+        {
+            "description": "Pre-emptive 4thgeneration contingency",
+            "quantity": 1,
+            "unit_price": 340.57,
+            "total_price": 340.57
+        },
+        {
+            "description": "Exclusive asymmetric info-mediaries",
+            "quantity": 8,
+            "unit_price": 225.41,
+            "total_price": 1803.28
+        },
+        {
+            "description": "Horizontal demand-driven emulation",
+            "quantity": 2,
+            "unit_price": 381.4,
+            "total_price": 762.8
+        }
+    ],
+    "amount": 3588.59
+}

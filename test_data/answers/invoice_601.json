@@ -1,0 +1,14 @@
+{
+    "vendor_name": "White, Hicks and Arnold",
+    "invoice_number": "INV-68988",
+    "date": "2025-08-05",
+    "items": [
+        {
+            "description": "Multi-channeled directional contingency",
+            "quantity": 5,
+            "unit_price": 219.75,
+            "total_price": 1098.75
+        }
+    ],
+    "amount": 1098.75
+}

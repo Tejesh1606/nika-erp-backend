@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hughes, Hart and Welch",
+    "invoice_number": "INV-68079",
+    "date": "2025-04-22",
+    "items": [
+        {
+            "description": "Innovative multimedia hierarchy",
+            "quantity": 5,
+            "unit_price": 396.43,
+            "total_price": 1982.15
+        },
+        {
+            "description": "Horizontal asynchronous open architecture",
+            "quantity": 6,
+            "unit_price": 293.46,
+            "total_price": 1760.76
+        },
+        {
+            "description": "Face-to-face regional hardware",
+            "quantity": 5,
+            "unit_price": 304.15,
+            "total_price": 1520.75
+        },
+        {
+            "description": "Diverse system-worthy functionalities",
+            "quantity": 5,
+            "unit_price": 331.48,
+            "total_price": 1657.4
+        }
+    ],
+    "amount": 6921.06
+}

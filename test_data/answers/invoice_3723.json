@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Horn Ltd",
+    "invoice_number": "INV-46681",
+    "date": "2026-02-22",
+    "items": [
+        {
+            "description": "Assimilated cohesive data-warehouse",
+            "quantity": 10,
+            "unit_price": 95.89,
+            "total_price": 958.9
+        },
+        {
+            "description": "Right-sized demand-driven infrastructure",
+            "quantity": 5,
+            "unit_price": 422.49,
+            "total_price": 2112.45
+        },
+        {
+            "description": "Synchronized clear-thinking leverage",
+            "quantity": 6,
+            "unit_price": 15.41,
+            "total_price": 92.46
+        }
+    ],
+    "amount": 3163.81
+}

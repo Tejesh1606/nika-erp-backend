@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Neal-Kelley",
+    "invoice_number": "INV-21727",
+    "date": "2026-01-19",
+    "items": [
+        {
+            "description": "Expanded local complexity",
+            "quantity": 8,
+            "unit_price": 307.13,
+            "total_price": 2457.04
+        }
+    ],
+    "amount": 2457.04
+}

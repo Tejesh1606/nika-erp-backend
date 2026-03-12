@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Martin and Sons",
+    "invoice_number": "INV-63487",
+    "date": "2025-10-29",
+    "items": [
+        {
+            "description": "Expanded bottom-line productivity",
+            "quantity": 4,
+            "unit_price": 361.66,
+            "total_price": 1446.64
+        },
+        {
+            "description": "Realigned 3rdgeneration info-mediaries",
+            "quantity": 3,
+            "unit_price": 409.37,
+            "total_price": 1228.11
+        }
+    ],
+    "amount": 2674.75
+}

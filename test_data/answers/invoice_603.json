@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Carpenter Ltd",
+    "invoice_number": "INV-20494",
+    "date": "2025-05-03",
+    "items": [
+        {
+            "description": "Upgradable upward-trending moderator",
+            "quantity": 10,
+            "unit_price": 132.38,
+            "total_price": 1323.8
+        },
+        {
+            "description": "Versatile zero-defect focus group",
+            "quantity": 5,
+            "unit_price": 284.8,
+            "total_price": 1424.0
+        }
+    ],
+    "amount": 2747.8
+}

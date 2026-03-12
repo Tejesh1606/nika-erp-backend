@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cook Inc",
+    "invoice_number": "INV-89458",
+    "date": "2025-03-27",
+    "items": [
+        {
+            "description": "Re-engineered demand-driven knowledgebase",
+            "quantity": 5,
+            "unit_price": 422.34,
+            "total_price": 2111.7
+        },
+        {
+            "description": "Multi-layered local task-force",
+            "quantity": 1,
+            "unit_price": 390.22,
+            "total_price": 390.22
+        }
+    ],
+    "amount": 2501.92
+}

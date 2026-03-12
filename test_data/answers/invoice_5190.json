@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Baker, Perkins and Harris",
+    "invoice_number": "INV-93731",
+    "date": "2025-12-23",
+    "items": [
+        {
+            "description": "Re-contextualized dynamic frame",
+            "quantity": 7,
+            "unit_price": 148.67,
+            "total_price": 1040.69
+        }
+    ],
+    "amount": 1040.69
+}

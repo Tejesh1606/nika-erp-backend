@@ -1,0 +1,14 @@
+{
+    "vendor_name": "James and Sons",
+    "invoice_number": "INV-45808",
+    "date": "2025-12-07",
+    "items": [
+        {
+            "description": "Enterprise-wide explicit process improvement",
+            "quantity": 3,
+            "unit_price": 310.35,
+            "total_price": 931.05
+        }
+    ],
+    "amount": 931.05
+}

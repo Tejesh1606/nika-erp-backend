@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Baker-Hernandez",
+    "invoice_number": "INV-83181",
+    "date": "2025-04-19",
+    "items": [
+        {
+            "description": "Quality-focused 24hour core",
+            "quantity": 4,
+            "unit_price": 372.29,
+            "total_price": 1489.16
+        },
+        {
+            "description": "Optional multi-state policy",
+            "quantity": 1,
+            "unit_price": 88.45,
+            "total_price": 88.45
+        },
+        {
+            "description": "Expanded motivating productivity",
+            "quantity": 9,
+            "unit_price": 166.99,
+            "total_price": 1502.91
+        }
+    ],
+    "amount": 3080.52
+}

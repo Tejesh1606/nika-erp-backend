@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Holt Inc",
+    "invoice_number": "INV-87113",
+    "date": "2025-04-24",
+    "items": [
+        {
+            "description": "Right-sized content-based hierarchy",
+            "quantity": 10,
+            "unit_price": 287.39,
+            "total_price": 2873.9
+        },
+        {
+            "description": "Diverse homogeneous extranet",
+            "quantity": 9,
+            "unit_price": 217.92,
+            "total_price": 1961.28
+        },
+        {
+            "description": "De-engineered global orchestration",
+            "quantity": 9,
+            "unit_price": 266.98,
+            "total_price": 2402.82
+        },
+        {
+            "description": "Switchable solution-oriented pricing structure",
+            "quantity": 4,
+            "unit_price": 168.07,
+            "total_price": 672.28
+        }
+    ],
+    "amount": 7910.28
+}

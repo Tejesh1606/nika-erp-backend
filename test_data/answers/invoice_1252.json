@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hines PLC",
+    "invoice_number": "INV-24136",
+    "date": "2025-08-19",
+    "items": [
+        {
+            "description": "Optimized zero-defect flexibility",
+            "quantity": 1,
+            "unit_price": 249.52,
+            "total_price": 249.52
+        },
+        {
+            "description": "Re-engineered impactful parallelism",
+            "quantity": 4,
+            "unit_price": 282.19,
+            "total_price": 1128.76
+        }
+    ],
+    "amount": 1378.28
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Graham, Martin and Barber",
+    "invoice_number": "INV-71504",
+    "date": "2025-07-20",
+    "items": [
+        {
+            "description": "Organic discrete middleware",
+            "quantity": 2,
+            "unit_price": 467.76,
+            "total_price": 935.52
+        }
+    ],
+    "amount": 935.52
+}

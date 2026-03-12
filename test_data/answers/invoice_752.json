@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ellis-Rodriguez",
+    "invoice_number": "INV-29405",
+    "date": "2025-04-26",
+    "items": [
+        {
+            "description": "Monitored background database",
+            "quantity": 4,
+            "unit_price": 318.63,
+            "total_price": 1274.52
+        },
+        {
+            "description": "Horizontal contextually-based concept",
+            "quantity": 2,
+            "unit_price": 366.72,
+            "total_price": 733.44
+        }
+    ],
+    "amount": 2007.96
+}

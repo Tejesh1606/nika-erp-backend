@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mooney Inc",
+    "invoice_number": "INV-12116",
+    "date": "2025-10-02",
+    "items": [
+        {
+            "description": "Profit-focused impactful complexity",
+            "quantity": 7,
+            "unit_price": 326.96,
+            "total_price": 2288.72
+        }
+    ],
+    "amount": 2288.72
+}

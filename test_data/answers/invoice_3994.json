@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hendricks Ltd",
+    "invoice_number": "INV-17287",
+    "date": "2026-02-17",
+    "items": [
+        {
+            "description": "Automated local database",
+            "quantity": 4,
+            "unit_price": 63.43,
+            "total_price": 253.72
+        }
+    ],
+    "amount": 253.72
+}

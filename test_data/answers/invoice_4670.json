@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Alvarez, Anderson and Hale",
+    "invoice_number": "INV-93315",
+    "date": "2025-09-14",
+    "items": [
+        {
+            "description": "Total zero-defect open architecture",
+            "quantity": 10,
+            "unit_price": 74.43,
+            "total_price": 744.3
+        },
+        {
+            "description": "Customer-focused next generation archive",
+            "quantity": 4,
+            "unit_price": 144.45,
+            "total_price": 577.8
+        },
+        {
+            "description": "Multi-lateral grid-enabled database",
+            "quantity": 10,
+            "unit_price": 28.76,
+            "total_price": 287.6
+        }
+    ],
+    "amount": 1609.7
+}

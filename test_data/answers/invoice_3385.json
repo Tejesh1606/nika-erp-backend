@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Harris, Hull and Hayes",
+    "invoice_number": "INV-83961",
+    "date": "2025-05-31",
+    "items": [
+        {
+            "description": "Right-sized asymmetric interface",
+            "quantity": 10,
+            "unit_price": 383.8,
+            "total_price": 3838.0
+        },
+        {
+            "description": "Synchronized hybrid ability",
+            "quantity": 3,
+            "unit_price": 414.12,
+            "total_price": 1242.36
+        },
+        {
+            "description": "Cross-platform optimal capability",
+            "quantity": 8,
+            "unit_price": 432.01,
+            "total_price": 3456.08
+        }
+    ],
+    "amount": 8536.44
+}

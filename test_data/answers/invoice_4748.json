@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gilmore LLC",
+    "invoice_number": "INV-99724",
+    "date": "2025-05-21",
+    "items": [
+        {
+            "description": "Reduced 4thgeneration alliance",
+            "quantity": 3,
+            "unit_price": 166.98,
+            "total_price": 500.94
+        },
+        {
+            "description": "Front-line well-modulated flexibility",
+            "quantity": 10,
+            "unit_price": 474.38,
+            "total_price": 4743.8
+        }
+    ],
+    "amount": 5244.74
+}

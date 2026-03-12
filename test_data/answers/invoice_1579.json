@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lee, Lloyd and Ware",
+    "invoice_number": "INV-65956",
+    "date": "2025-10-07",
+    "items": [
+        {
+            "description": "Re-contextualized eco-centric database",
+            "quantity": 1,
+            "unit_price": 38.35,
+            "total_price": 38.35
+        },
+        {
+            "description": "Adaptive asymmetric complexity",
+            "quantity": 6,
+            "unit_price": 253.86,
+            "total_price": 1523.16
+        },
+        {
+            "description": "Automated empowering superstructure",
+            "quantity": 3,
+            "unit_price": 367.24,
+            "total_price": 1101.72
+        }
+    ],
+    "amount": 2663.23
+}

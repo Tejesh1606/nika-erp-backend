@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Reyes, Chen and Wallace",
+    "invoice_number": "INV-11520",
+    "date": "2025-04-24",
+    "items": [
+        {
+            "description": "Customizable attitude-oriented capability",
+            "quantity": 8,
+            "unit_price": 465.83,
+            "total_price": 3726.64
+        },
+        {
+            "description": "Pre-emptive secondary secured line",
+            "quantity": 1,
+            "unit_price": 74.75,
+            "total_price": 74.75
+        },
+        {
+            "description": "Profound directional adapter",
+            "quantity": 7,
+            "unit_price": 276.91,
+            "total_price": 1938.37
+        }
+    ],
+    "amount": 5739.76
+}

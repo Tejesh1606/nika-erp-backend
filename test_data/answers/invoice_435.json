@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Silva, Cunningham and Diaz",
+    "invoice_number": "INV-51462",
+    "date": "2025-08-22",
+    "items": [
+        {
+            "description": "Down-sized 24hour functionalities",
+            "quantity": 8,
+            "unit_price": 181.87,
+            "total_price": 1454.96
+        },
+        {
+            "description": "Fully-configurable zero tolerance definition",
+            "quantity": 2,
+            "unit_price": 497.74,
+            "total_price": 995.48
+        },
+        {
+            "description": "Universal user-facing project",
+            "quantity": 9,
+            "unit_price": 69.03,
+            "total_price": 621.27
+        },
+        {
+            "description": "Optional even-keeled hierarchy",
+            "quantity": 2,
+            "unit_price": 425.97,
+            "total_price": 851.94
+        }
+    ],
+    "amount": 3923.65
+}

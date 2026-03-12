@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Williams-Moore",
+    "invoice_number": "INV-54926",
+    "date": "2026-01-05",
+    "items": [
+        {
+            "description": "Focused needs-based info-mediaries",
+            "quantity": 1,
+            "unit_price": 242.95,
+            "total_price": 242.95
+        },
+        {
+            "description": "Customizable bi-directional groupware",
+            "quantity": 6,
+            "unit_price": 197.4,
+            "total_price": 1184.4
+        },
+        {
+            "description": "Decentralized bottom-line artificial intelligence",
+            "quantity": 6,
+            "unit_price": 485.57,
+            "total_price": 2913.42
+        },
+        {
+            "description": "Triple-buffered intermediate conglomeration",
+            "quantity": 2,
+            "unit_price": 113.09,
+            "total_price": 226.18
+        }
+    ],
+    "amount": 4566.95
+}

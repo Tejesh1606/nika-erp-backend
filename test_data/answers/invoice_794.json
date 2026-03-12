@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Dennis LLC",
+    "invoice_number": "INV-44046",
+    "date": "2025-11-07",
+    "items": [
+        {
+            "description": "Profit-focused heuristic capability",
+            "quantity": 3,
+            "unit_price": 170.44,
+            "total_price": 511.32
+        },
+        {
+            "description": "Business-focused web-enabled projection",
+            "quantity": 6,
+            "unit_price": 219.29,
+            "total_price": 1315.74
+        },
+        {
+            "description": "Decentralized local framework",
+            "quantity": 1,
+            "unit_price": 107.96,
+            "total_price": 107.96
+        },
+        {
+            "description": "Re-engineered user-facing ability",
+            "quantity": 6,
+            "unit_price": 282.97,
+            "total_price": 1697.82
+        }
+    ],
+    "amount": 3632.84
+}

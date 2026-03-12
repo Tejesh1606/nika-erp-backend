@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Melendez, Smith and Lewis",
+    "invoice_number": "INV-10287",
+    "date": "2025-04-14",
+    "items": [
+        {
+            "description": "Multi-tiered grid-enabled benchmark",
+            "quantity": 9,
+            "unit_price": 273.68,
+            "total_price": 2463.12
+        },
+        {
+            "description": "Right-sized multi-state neural-net",
+            "quantity": 6,
+            "unit_price": 281.45,
+            "total_price": 1688.7
+        },
+        {
+            "description": "Robust 24hour initiative",
+            "quantity": 4,
+            "unit_price": 91.29,
+            "total_price": 365.16
+        },
+        {
+            "description": "User-friendly 3rdgeneration policy",
+            "quantity": 1,
+            "unit_price": 84.12,
+            "total_price": 84.12
+        }
+    ],
+    "amount": 4601.1
+}

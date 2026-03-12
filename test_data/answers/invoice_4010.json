@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Brown-Mclean",
+    "invoice_number": "INV-46936",
+    "date": "2025-10-18",
+    "items": [
+        {
+            "description": "Operative mission-critical firmware",
+            "quantity": 6,
+            "unit_price": 397.78,
+            "total_price": 2386.68
+        },
+        {
+            "description": "Total high-level attitude",
+            "quantity": 2,
+            "unit_price": 21.78,
+            "total_price": 43.56
+        },
+        {
+            "description": "Team-oriented value-added function",
+            "quantity": 8,
+            "unit_price": 220.71,
+            "total_price": 1765.68
+        },
+        {
+            "description": "Intuitive discrete knowledge user",
+            "quantity": 3,
+            "unit_price": 308.16,
+            "total_price": 924.48
+        }
+    ],
+    "amount": 5120.4
+}

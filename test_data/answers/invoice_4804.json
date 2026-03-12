@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Coleman-Espinoza",
+    "invoice_number": "INV-26915",
+    "date": "2025-07-04",
+    "items": [
+        {
+            "description": "Open-architected reciprocal initiative",
+            "quantity": 4,
+            "unit_price": 460.56,
+            "total_price": 1842.24
+        }
+    ],
+    "amount": 1842.24
+}

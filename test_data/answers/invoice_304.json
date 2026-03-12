@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lucas-Bowers",
+    "invoice_number": "INV-41370",
+    "date": "2025-09-17",
+    "items": [
+        {
+            "description": "Networked bifurcated encoding",
+            "quantity": 5,
+            "unit_price": 383.69,
+            "total_price": 1918.45
+        },
+        {
+            "description": "Proactive scalable policy",
+            "quantity": 6,
+            "unit_price": 44.44,
+            "total_price": 266.64
+        },
+        {
+            "description": "Compatible multi-tasking access",
+            "quantity": 9,
+            "unit_price": 297.92,
+            "total_price": 2681.28
+        }
+    ],
+    "amount": 4866.37
+}

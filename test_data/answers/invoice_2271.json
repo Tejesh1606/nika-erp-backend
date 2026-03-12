@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Sharp, Dunn and Mueller",
+    "invoice_number": "INV-71016",
+    "date": "2026-02-08",
+    "items": [
+        {
+            "description": "Profit-focused 5thgeneration access",
+            "quantity": 5,
+            "unit_price": 262.72,
+            "total_price": 1313.6
+        },
+        {
+            "description": "Down-sized solution-oriented extranet",
+            "quantity": 3,
+            "unit_price": 280.7,
+            "total_price": 842.1
+        },
+        {
+            "description": "Synchronized explicit core",
+            "quantity": 10,
+            "unit_price": 176.3,
+            "total_price": 1763.0
+        }
+    ],
+    "amount": 3918.7
+}

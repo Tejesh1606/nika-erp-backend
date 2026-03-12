@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Shepherd, Blair and Blevins",
+    "invoice_number": "INV-59404",
+    "date": "2025-05-23",
+    "items": [
+        {
+            "description": "Networked zero tolerance productivity",
+            "quantity": 1,
+            "unit_price": 241.38,
+            "total_price": 241.38
+        }
+    ],
+    "amount": 241.38
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Ellis Group",
+    "invoice_number": "INV-54624",
+    "date": "2025-05-08",
+    "items": [
+        {
+            "description": "Universal analyzing software",
+            "quantity": 1,
+            "unit_price": 315.52,
+            "total_price": 315.52
+        },
+        {
+            "description": "Customer-focused uniform focus group",
+            "quantity": 2,
+            "unit_price": 120.83,
+            "total_price": 241.66
+        },
+        {
+            "description": "Profound maximized instruction set",
+            "quantity": 3,
+            "unit_price": 388.29,
+            "total_price": 1164.87
+        }
+    ],
+    "amount": 1722.05
+}

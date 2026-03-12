@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Mitchell Group",
+    "invoice_number": "INV-98302",
+    "date": "2025-12-24",
+    "items": [
+        {
+            "description": "Mandatory asynchronous neural-net",
+            "quantity": 10,
+            "unit_price": 366.02,
+            "total_price": 3660.2
+        },
+        {
+            "description": "Enhanced methodical functionalities",
+            "quantity": 4,
+            "unit_price": 228.12,
+            "total_price": 912.48
+        },
+        {
+            "description": "Multi-channeled didactic orchestration",
+            "quantity": 7,
+            "unit_price": 486.43,
+            "total_price": 3405.01
+        }
+    ],
+    "amount": 7977.69
+}

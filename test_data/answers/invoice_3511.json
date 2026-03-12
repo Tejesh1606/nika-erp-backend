@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson and Sons",
+    "invoice_number": "INV-92000",
+    "date": "2025-03-22",
+    "items": [
+        {
+            "description": "Persistent responsive hub",
+            "quantity": 8,
+            "unit_price": 484.02,
+            "total_price": 3872.16
+        },
+        {
+            "description": "Optional 24hour structure",
+            "quantity": 3,
+            "unit_price": 401.69,
+            "total_price": 1205.07
+        },
+        {
+            "description": "Mandatory coherent interface",
+            "quantity": 6,
+            "unit_price": 262.86,
+            "total_price": 1577.16
+        },
+        {
+            "description": "Secured regional time-frame",
+            "quantity": 9,
+            "unit_price": 95.97,
+            "total_price": 863.73
+        }
+    ],
+    "amount": 7518.12
+}

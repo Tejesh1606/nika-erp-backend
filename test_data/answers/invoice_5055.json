@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Dyer LLC",
+    "invoice_number": "INV-77516",
+    "date": "2025-06-07",
+    "items": [
+        {
+            "description": "Diverse eco-centric system engine",
+            "quantity": 9,
+            "unit_price": 195.48,
+            "total_price": 1759.32
+        }
+    ],
+    "amount": 1759.32
+}

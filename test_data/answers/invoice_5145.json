@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hill-Torres",
+    "invoice_number": "INV-85150",
+    "date": "2026-01-10",
+    "items": [
+        {
+            "description": "Monitored systemic benchmark",
+            "quantity": 9,
+            "unit_price": 484.55,
+            "total_price": 4360.95
+        },
+        {
+            "description": "Implemented disintermediate knowledge user",
+            "quantity": 2,
+            "unit_price": 272.12,
+            "total_price": 544.24
+        }
+    ],
+    "amount": 4905.19
+}

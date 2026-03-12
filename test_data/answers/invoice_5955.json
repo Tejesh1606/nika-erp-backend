@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Collins, Murray and Valentine",
+    "invoice_number": "INV-60616",
+    "date": "2025-11-06",
+    "items": [
+        {
+            "description": "Customer-focused responsive functionalities",
+            "quantity": 3,
+            "unit_price": 278.7,
+            "total_price": 836.1
+        }
+    ],
+    "amount": 836.1
+}

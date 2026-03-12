@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Holden LLC",
+    "invoice_number": "INV-69293",
+    "date": "2025-12-12",
+    "items": [
+        {
+            "description": "Re-contextualized coherent moderator",
+            "quantity": 4,
+            "unit_price": 444.32,
+            "total_price": 1777.28
+        }
+    ],
+    "amount": 1777.28
+}

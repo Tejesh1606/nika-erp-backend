@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jordan, Anderson and Patel",
+    "invoice_number": "INV-40161",
+    "date": "2025-09-19",
+    "items": [
+        {
+            "description": "Realigned static workforce",
+            "quantity": 4,
+            "unit_price": 320.37,
+            "total_price": 1281.48
+        },
+        {
+            "description": "Multi-channeled asynchronous infrastructure",
+            "quantity": 1,
+            "unit_price": 245.74,
+            "total_price": 245.74
+        }
+    ],
+    "amount": 1527.22
+}

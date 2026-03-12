@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Rodriguez PLC",
+    "invoice_number": "INV-59895",
+    "date": "2025-10-14",
+    "items": [
+        {
+            "description": "Balanced value-added migration",
+            "quantity": 6,
+            "unit_price": 67.17,
+            "total_price": 403.02
+        },
+        {
+            "description": "Phased asynchronous projection",
+            "quantity": 10,
+            "unit_price": 167.26,
+            "total_price": 1672.6
+        },
+        {
+            "description": "Networked modular circuit",
+            "quantity": 8,
+            "unit_price": 394.6,
+            "total_price": 3156.8
+        }
+    ],
+    "amount": 5232.42
+}

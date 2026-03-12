@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mcconnell-Dunn",
+    "invoice_number": "INV-80731",
+    "date": "2025-07-29",
+    "items": [
+        {
+            "description": "Networked fault-tolerant task-force",
+            "quantity": 10,
+            "unit_price": 324.72,
+            "total_price": 3247.2
+        },
+        {
+            "description": "De-engineered didactic algorithm",
+            "quantity": 8,
+            "unit_price": 20.31,
+            "total_price": 162.48
+        },
+        {
+            "description": "Fundamental asynchronous synergy",
+            "quantity": 4,
+            "unit_price": 182.94,
+            "total_price": 731.76
+        },
+        {
+            "description": "Vision-oriented coherent algorithm",
+            "quantity": 1,
+            "unit_price": 499.79,
+            "total_price": 499.79
+        }
+    ],
+    "amount": 4641.23
+}

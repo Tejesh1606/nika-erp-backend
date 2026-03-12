@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Fernandez Inc",
+    "invoice_number": "INV-47753",
+    "date": "2025-12-31",
+    "items": [
+        {
+            "description": "Team-oriented client-driven analyzer",
+            "quantity": 3,
+            "unit_price": 437.79,
+            "total_price": 1313.37
+        },
+        {
+            "description": "Integrated directional projection",
+            "quantity": 6,
+            "unit_price": 273.68,
+            "total_price": 1642.08
+        },
+        {
+            "description": "Reactive encompassing task-force",
+            "quantity": 3,
+            "unit_price": 314.01,
+            "total_price": 942.03
+        },
+        {
+            "description": "Switchable fresh-thinking analyzer",
+            "quantity": 3,
+            "unit_price": 288.01,
+            "total_price": 864.03
+        }
+    ],
+    "amount": 4761.51
+}

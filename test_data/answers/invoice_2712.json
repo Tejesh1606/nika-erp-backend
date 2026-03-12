@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Horton, Gonzalez and Young",
+    "invoice_number": "INV-65156",
+    "date": "2026-01-31",
+    "items": [
+        {
+            "description": "Streamlined didactic implementation",
+            "quantity": 5,
+            "unit_price": 43.47,
+            "total_price": 217.35
+        },
+        {
+            "description": "Right-sized transitional task-force",
+            "quantity": 7,
+            "unit_price": 193.48,
+            "total_price": 1354.36
+        },
+        {
+            "description": "Exclusive 24/7 array",
+            "quantity": 5,
+            "unit_price": 423.24,
+            "total_price": 2116.2
+        },
+        {
+            "description": "Centralized analyzing success",
+            "quantity": 6,
+            "unit_price": 318.49,
+            "total_price": 1910.94
+        }
+    ],
+    "amount": 5598.85
+}

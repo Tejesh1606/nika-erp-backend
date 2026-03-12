@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gordon-Johnson",
+    "invoice_number": "INV-87005",
+    "date": "2025-03-11",
+    "items": [
+        {
+            "description": "Advanced user-facing matrices",
+            "quantity": 10,
+            "unit_price": 387.13,
+            "total_price": 3871.3
+        },
+        {
+            "description": "Synergistic user-facing knowledgebase",
+            "quantity": 10,
+            "unit_price": 174.48,
+            "total_price": 1744.8
+        }
+    ],
+    "amount": 5616.1
+}

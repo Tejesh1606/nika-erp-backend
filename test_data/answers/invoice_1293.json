@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Holland, Ferguson and Johnson",
+    "invoice_number": "INV-73020",
+    "date": "2026-01-24",
+    "items": [
+        {
+            "description": "Up-sized analyzing frame",
+            "quantity": 7,
+            "unit_price": 462.85,
+            "total_price": 3239.95
+        },
+        {
+            "description": "Object-based uniform throughput",
+            "quantity": 3,
+            "unit_price": 386.21,
+            "total_price": 1158.63
+        }
+    ],
+    "amount": 4398.58
+}

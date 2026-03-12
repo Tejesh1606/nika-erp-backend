@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wright Inc",
+    "invoice_number": "INV-72094",
+    "date": "2025-03-18",
+    "items": [
+        {
+            "description": "Profit-focused leadingedge infrastructure",
+            "quantity": 3,
+            "unit_price": 446.77,
+            "total_price": 1340.31
+        },
+        {
+            "description": "Centralized bottom-line framework",
+            "quantity": 7,
+            "unit_price": 370.47,
+            "total_price": 2593.29
+        }
+    ],
+    "amount": 3933.6
+}

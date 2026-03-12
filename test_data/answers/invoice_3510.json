@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Vaughan-Mcknight",
+    "invoice_number": "INV-15458",
+    "date": "2025-10-08",
+    "items": [
+        {
+            "description": "Realigned stable orchestration",
+            "quantity": 4,
+            "unit_price": 370.83,
+            "total_price": 1483.32
+        },
+        {
+            "description": "Intuitive value-added parallelism",
+            "quantity": 6,
+            "unit_price": 161.89,
+            "total_price": 971.34
+        }
+    ],
+    "amount": 2454.66
+}

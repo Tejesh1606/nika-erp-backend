@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brown Inc",
+    "invoice_number": "INV-91062",
+    "date": "2025-07-28",
+    "items": [
+        {
+            "description": "Cross-group static array",
+            "quantity": 1,
+            "unit_price": 414.05,
+            "total_price": 414.05
+        },
+        {
+            "description": "Exclusive responsive analyzer",
+            "quantity": 6,
+            "unit_price": 184.33,
+            "total_price": 1105.98
+        },
+        {
+            "description": "Extended 4thgeneration intranet",
+            "quantity": 1,
+            "unit_price": 122.9,
+            "total_price": 122.9
+        }
+    ],
+    "amount": 1642.93
+}

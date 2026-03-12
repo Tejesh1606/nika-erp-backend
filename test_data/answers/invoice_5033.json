@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Carroll, Smith and Randall",
+    "invoice_number": "INV-58315",
+    "date": "2025-10-17",
+    "items": [
+        {
+            "description": "Innovative needs-based productivity",
+            "quantity": 4,
+            "unit_price": 224.91,
+            "total_price": 899.64
+        },
+        {
+            "description": "Expanded zero tolerance infrastructure",
+            "quantity": 4,
+            "unit_price": 352.07,
+            "total_price": 1408.28
+        }
+    ],
+    "amount": 2307.92
+}

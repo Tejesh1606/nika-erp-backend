@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mercado, Leon and Jones",
+    "invoice_number": "INV-32388",
+    "date": "2025-10-10",
+    "items": [
+        {
+            "description": "Multi-tiered full-range hierarchy",
+            "quantity": 4,
+            "unit_price": 233.87,
+            "total_price": 935.48
+        }
+    ],
+    "amount": 935.48
+}

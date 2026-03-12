@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Bryant-Kennedy",
+    "invoice_number": "INV-31482",
+    "date": "2025-07-31",
+    "items": [
+        {
+            "description": "Switchable holistic success",
+            "quantity": 2,
+            "unit_price": 193.48,
+            "total_price": 386.96
+        }
+    ],
+    "amount": 386.96
+}

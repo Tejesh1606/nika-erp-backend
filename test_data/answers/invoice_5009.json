@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ramsey, Mills and Ray",
+    "invoice_number": "INV-66568",
+    "date": "2025-09-11",
+    "items": [
+        {
+            "description": "Object-based context-sensitive support",
+            "quantity": 1,
+            "unit_price": 147.52,
+            "total_price": 147.52
+        },
+        {
+            "description": "Compatible motivating challenge",
+            "quantity": 1,
+            "unit_price": 429.81,
+            "total_price": 429.81
+        }
+    ],
+    "amount": 577.33
+}

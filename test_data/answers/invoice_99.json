@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bright-Francis",
+    "invoice_number": "INV-66881",
+    "date": "2025-04-16",
+    "items": [
+        {
+            "description": "Virtual scalable strategy",
+            "quantity": 8,
+            "unit_price": 75.44,
+            "total_price": 603.52
+        },
+        {
+            "description": "Cross-platform leadingedge concept",
+            "quantity": 7,
+            "unit_price": 118.56,
+            "total_price": 829.92
+        },
+        {
+            "description": "Team-oriented exuding algorithm",
+            "quantity": 9,
+            "unit_price": 156.64,
+            "total_price": 1409.76
+        }
+    ],
+    "amount": 2843.2
+}

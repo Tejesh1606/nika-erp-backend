@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Cook-Mayer",
+    "invoice_number": "INV-49676",
+    "date": "2025-12-04",
+    "items": [
+        {
+            "description": "Customizable fault-tolerant contingency",
+            "quantity": 6,
+            "unit_price": 448.18,
+            "total_price": 2689.08
+        },
+        {
+            "description": "Innovative next generation workforce",
+            "quantity": 2,
+            "unit_price": 79.72,
+            "total_price": 159.44
+        },
+        {
+            "description": "Persistent disintermediate paradigm",
+            "quantity": 7,
+            "unit_price": 217.55,
+            "total_price": 1522.85
+        },
+        {
+            "description": "Open-source cohesive info-mediaries",
+            "quantity": 5,
+            "unit_price": 325.36,
+            "total_price": 1626.8
+        }
+    ],
+    "amount": 5998.17
+}

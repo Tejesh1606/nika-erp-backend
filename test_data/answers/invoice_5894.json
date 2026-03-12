@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Powell Group",
+    "invoice_number": "INV-50778",
+    "date": "2025-06-05",
+    "items": [
+        {
+            "description": "Extended stable superstructure",
+            "quantity": 8,
+            "unit_price": 156.06,
+            "total_price": 1248.48
+        }
+    ],
+    "amount": 1248.48
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Watkins PLC",
+    "invoice_number": "INV-13847",
+    "date": "2025-05-28",
+    "items": [
+        {
+            "description": "Stand-alone solution-oriented function",
+            "quantity": 5,
+            "unit_price": 27.53,
+            "total_price": 137.65
+        },
+        {
+            "description": "Team-oriented non-volatile capability",
+            "quantity": 3,
+            "unit_price": 74.8,
+            "total_price": 224.4
+        }
+    ],
+    "amount": 362.05
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hudson-Gentry",
+    "invoice_number": "INV-49917",
+    "date": "2026-02-28",
+    "items": [
+        {
+            "description": "Optional transitional hardware",
+            "quantity": 6,
+            "unit_price": 144.37,
+            "total_price": 866.22
+        },
+        {
+            "description": "Cross-group optimal access",
+            "quantity": 5,
+            "unit_price": 51.14,
+            "total_price": 255.7
+        },
+        {
+            "description": "Seamless multimedia initiative",
+            "quantity": 10,
+            "unit_price": 215.78,
+            "total_price": 2157.8
+        },
+        {
+            "description": "De-engineered explicit approach",
+            "quantity": 10,
+            "unit_price": 307.27,
+            "total_price": 3072.7
+        }
+    ],
+    "amount": 6352.42
+}

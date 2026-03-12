@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Johnson, Freeman and Gross",
+    "invoice_number": "INV-67459",
+    "date": "2026-01-26",
+    "items": [
+        {
+            "description": "De-engineered optimizing knowledgebase",
+            "quantity": 1,
+            "unit_price": 194.7,
+            "total_price": 194.7
+        },
+        {
+            "description": "Advanced attitude-oriented superstructure",
+            "quantity": 8,
+            "unit_price": 201.59,
+            "total_price": 1612.72
+        }
+    ],
+    "amount": 1807.42
+}

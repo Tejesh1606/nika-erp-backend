@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Glenn-Young",
+    "invoice_number": "INV-87353",
+    "date": "2025-08-09",
+    "items": [
+        {
+            "description": "Self-enabling foreground structure",
+            "quantity": 2,
+            "unit_price": 100.67,
+            "total_price": 201.34
+        },
+        {
+            "description": "Multi-tiered impactful implementation",
+            "quantity": 1,
+            "unit_price": 146.12,
+            "total_price": 146.12
+        },
+        {
+            "description": "Optional needs-based data-warehouse",
+            "quantity": 3,
+            "unit_price": 72.05,
+            "total_price": 216.15
+        }
+    ],
+    "amount": 563.61
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Walsh-Powell",
+    "invoice_number": "INV-22887",
+    "date": "2026-01-05",
+    "items": [
+        {
+            "description": "Expanded client-server knowledgebase",
+            "quantity": 3,
+            "unit_price": 186.25,
+            "total_price": 558.75
+        },
+        {
+            "description": "Configurable actuating alliance",
+            "quantity": 1,
+            "unit_price": 370.9,
+            "total_price": 370.9
+        },
+        {
+            "description": "Innovative regional projection",
+            "quantity": 9,
+            "unit_price": 141.6,
+            "total_price": 1274.4
+        }
+    ],
+    "amount": 2204.05
+}

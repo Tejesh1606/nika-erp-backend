@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Logan-Nelson",
+    "invoice_number": "INV-66805",
+    "date": "2025-07-26",
+    "items": [
+        {
+            "description": "Integrated multi-state extranet",
+            "quantity": 2,
+            "unit_price": 91.89,
+            "total_price": 183.78
+        },
+        {
+            "description": "Adaptive actuating access",
+            "quantity": 10,
+            "unit_price": 377.97,
+            "total_price": 3779.7
+        }
+    ],
+    "amount": 3963.48
+}

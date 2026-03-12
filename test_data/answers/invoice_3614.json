@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Miller, Turner and Jones",
+    "invoice_number": "INV-26454",
+    "date": "2025-11-23",
+    "items": [
+        {
+            "description": "Innovative didactic framework",
+            "quantity": 4,
+            "unit_price": 156.47,
+            "total_price": 625.88
+        },
+        {
+            "description": "Stand-alone foreground database",
+            "quantity": 1,
+            "unit_price": 280.17,
+            "total_price": 280.17
+        },
+        {
+            "description": "Monitored dynamic middleware",
+            "quantity": 7,
+            "unit_price": 118.84,
+            "total_price": 831.88
+        },
+        {
+            "description": "Total asynchronous architecture",
+            "quantity": 3,
+            "unit_price": 414.63,
+            "total_price": 1243.89
+        }
+    ],
+    "amount": 2981.82
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Rodriguez-Leblanc",
+    "invoice_number": "INV-53233",
+    "date": "2025-09-06",
+    "items": [
+        {
+            "description": "Ameliorated stable installation",
+            "quantity": 1,
+            "unit_price": 306.6,
+            "total_price": 306.6
+        },
+        {
+            "description": "Organized analyzing knowledgebase",
+            "quantity": 3,
+            "unit_price": 33.43,
+            "total_price": 100.29
+        }
+    ],
+    "amount": 406.89
+}

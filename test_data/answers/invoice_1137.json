@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Collier PLC",
+    "invoice_number": "INV-72093",
+    "date": "2025-09-19",
+    "items": [
+        {
+            "description": "Multi-channeled heuristic process improvement",
+            "quantity": 9,
+            "unit_price": 78.6,
+            "total_price": 707.4
+        },
+        {
+            "description": "Realigned client-driven website",
+            "quantity": 1,
+            "unit_price": 344.23,
+            "total_price": 344.23
+        },
+        {
+            "description": "Cloned leadingedge interface",
+            "quantity": 9,
+            "unit_price": 287.48,
+            "total_price": 2587.32
+        },
+        {
+            "description": "Self-enabling homogeneous archive",
+            "quantity": 3,
+            "unit_price": 295.09,
+            "total_price": 885.27
+        }
+    ],
+    "amount": 4524.22
+}

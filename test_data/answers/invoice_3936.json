@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Estrada and Sons",
+    "invoice_number": "INV-40001",
+    "date": "2025-12-21",
+    "items": [
+        {
+            "description": "Vision-oriented high-level middleware",
+            "quantity": 5,
+            "unit_price": 338.62,
+            "total_price": 1693.1
+        },
+        {
+            "description": "Secured demand-driven knowledgebase",
+            "quantity": 6,
+            "unit_price": 61.99,
+            "total_price": 371.94
+        },
+        {
+            "description": "Persistent zero administration budgetary management",
+            "quantity": 6,
+            "unit_price": 282.36,
+            "total_price": 1694.16
+        },
+        {
+            "description": "Diverse holistic moratorium",
+            "quantity": 8,
+            "unit_price": 243.65,
+            "total_price": 1949.2
+        }
+    ],
+    "amount": 5708.4
+}

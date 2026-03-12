@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Freeman-Watts",
+    "invoice_number": "INV-89182",
+    "date": "2025-12-15",
+    "items": [
+        {
+            "description": "Diverse context-sensitive neural-net",
+            "quantity": 3,
+            "unit_price": 243.59,
+            "total_price": 730.77
+        },
+        {
+            "description": "Virtual discrete framework",
+            "quantity": 5,
+            "unit_price": 53.46,
+            "total_price": 267.3
+        },
+        {
+            "description": "Reverse-engineered bottom-line firmware",
+            "quantity": 9,
+            "unit_price": 406.45,
+            "total_price": 3658.05
+        }
+    ],
+    "amount": 4656.12
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Jackson-Garcia",
+    "invoice_number": "INV-11937",
+    "date": "2025-09-13",
+    "items": [
+        {
+            "description": "Reactive asynchronous neural-net",
+            "quantity": 9,
+            "unit_price": 90.06,
+            "total_price": 810.54
+        },
+        {
+            "description": "Persevering bandwidth-monitored analyzer",
+            "quantity": 4,
+            "unit_price": 427.06,
+            "total_price": 1708.24
+        },
+        {
+            "description": "Seamless static initiative",
+            "quantity": 1,
+            "unit_price": 183.12,
+            "total_price": 183.12
+        },
+        {
+            "description": "Self-enabling multi-tasking functionalities",
+            "quantity": 7,
+            "unit_price": 465.13,
+            "total_price": 3255.91
+        }
+    ],
+    "amount": 5957.81
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "James-Reilly",
+    "invoice_number": "INV-71553",
+    "date": "2026-02-14",
+    "items": [
+        {
+            "description": "Centralized zero tolerance product",
+            "quantity": 6,
+            "unit_price": 174.46,
+            "total_price": 1046.76
+        },
+        {
+            "description": "Triple-buffered cohesive leverage",
+            "quantity": 9,
+            "unit_price": 116.16,
+            "total_price": 1045.44
+        },
+        {
+            "description": "Total discrete process improvement",
+            "quantity": 10,
+            "unit_price": 47.52,
+            "total_price": 475.2
+        },
+        {
+            "description": "De-engineered encompassing website",
+            "quantity": 5,
+            "unit_price": 311.56,
+            "total_price": 1557.8
+        }
+    ],
+    "amount": 4125.2
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bennett-Smith",
+    "invoice_number": "INV-27707",
+    "date": "2025-06-02",
+    "items": [
+        {
+            "description": "Object-based homogeneous superstructure",
+            "quantity": 9,
+            "unit_price": 331.52,
+            "total_price": 2983.68
+        },
+        {
+            "description": "Centralized zero administration frame",
+            "quantity": 3,
+            "unit_price": 240.6,
+            "total_price": 721.8
+        }
+    ],
+    "amount": 3705.48
+}

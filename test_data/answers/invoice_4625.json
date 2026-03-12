@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Lang-Ramirez",
+    "invoice_number": "INV-22339",
+    "date": "2026-02-15",
+    "items": [
+        {
+            "description": "Object-based secondary complexity",
+            "quantity": 2,
+            "unit_price": 292.79,
+            "total_price": 585.58
+        },
+        {
+            "description": "Switchable client-server service-desk",
+            "quantity": 2,
+            "unit_price": 53.89,
+            "total_price": 107.78
+        },
+        {
+            "description": "Sharable multimedia product",
+            "quantity": 6,
+            "unit_price": 99.19,
+            "total_price": 595.14
+        }
+    ],
+    "amount": 1288.5
+}

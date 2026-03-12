@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Peters, Bishop and Johnson",
+    "invoice_number": "INV-39099",
+    "date": "2025-12-27",
+    "items": [
+        {
+            "description": "Monitored modular open architecture",
+            "quantity": 3,
+            "unit_price": 465.77,
+            "total_price": 1397.31
+        },
+        {
+            "description": "Stand-alone tertiary algorithm",
+            "quantity": 9,
+            "unit_price": 360.76,
+            "total_price": 3246.84
+        },
+        {
+            "description": "Synergistic discrete Local Area Network",
+            "quantity": 1,
+            "unit_price": 284.94,
+            "total_price": 284.94
+        },
+        {
+            "description": "Realigned optimal throughput",
+            "quantity": 3,
+            "unit_price": 272.18,
+            "total_price": 816.54
+        }
+    ],
+    "amount": 5745.63
+}

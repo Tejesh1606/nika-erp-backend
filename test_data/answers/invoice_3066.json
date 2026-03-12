@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Mills, Russell and Romero",
+    "invoice_number": "INV-80209",
+    "date": "2025-12-19",
+    "items": [
+        {
+            "description": "Multi-channeled background moderator",
+            "quantity": 2,
+            "unit_price": 129.55,
+            "total_price": 259.1
+        },
+        {
+            "description": "Synergized heuristic instruction set",
+            "quantity": 4,
+            "unit_price": 415.38,
+            "total_price": 1661.52
+        }
+    ],
+    "amount": 1920.62
+}

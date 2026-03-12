@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Saunders, Sparks and Harris",
+    "invoice_number": "INV-96781",
+    "date": "2025-09-18",
+    "items": [
+        {
+            "description": "Pre-emptive motivating firmware",
+            "quantity": 1,
+            "unit_price": 433.96,
+            "total_price": 433.96
+        }
+    ],
+    "amount": 433.96
+}

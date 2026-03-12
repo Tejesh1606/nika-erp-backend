@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Moore-Miranda",
+    "invoice_number": "INV-32515",
+    "date": "2026-02-03",
+    "items": [
+        {
+            "description": "Diverse reciprocal protocol",
+            "quantity": 2,
+            "unit_price": 43.63,
+            "total_price": 87.26
+        },
+        {
+            "description": "Diverse fresh-thinking model",
+            "quantity": 4,
+            "unit_price": 416.52,
+            "total_price": 1666.08
+        },
+        {
+            "description": "Phased solution-oriented policy",
+            "quantity": 2,
+            "unit_price": 185.04,
+            "total_price": 370.08
+        }
+    ],
+    "amount": 2123.42
+}

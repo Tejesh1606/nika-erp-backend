@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Allen PLC",
+    "invoice_number": "INV-92361",
+    "date": "2025-06-14",
+    "items": [
+        {
+            "description": "Realigned encompassing core",
+            "quantity": 9,
+            "unit_price": 22.85,
+            "total_price": 205.65
+        }
+    ],
+    "amount": 205.65
+}

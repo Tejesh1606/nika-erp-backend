@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Walker and Sons",
+    "invoice_number": "INV-34975",
+    "date": "2026-02-06",
+    "items": [
+        {
+            "description": "Future-proofed executive synergy",
+            "quantity": 10,
+            "unit_price": 22.96,
+            "total_price": 229.6
+        },
+        {
+            "description": "Proactive homogeneous capacity",
+            "quantity": 4,
+            "unit_price": 251.07,
+            "total_price": 1004.28
+        }
+    ],
+    "amount": 1233.88
+}

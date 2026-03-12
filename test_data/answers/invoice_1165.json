@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Perez, Lynn and Braun",
+    "invoice_number": "INV-43743",
+    "date": "2025-03-15",
+    "items": [
+        {
+            "description": "Synergistic heuristic moratorium",
+            "quantity": 8,
+            "unit_price": 127.0,
+            "total_price": 1016.0
+        },
+        {
+            "description": "Universal 6thgeneration policy",
+            "quantity": 5,
+            "unit_price": 123.42,
+            "total_price": 617.1
+        },
+        {
+            "description": "Front-line grid-enabled benchmark",
+            "quantity": 5,
+            "unit_price": 438.99,
+            "total_price": 2194.95
+        }
+    ],
+    "amount": 3828.05
+}

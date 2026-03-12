@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Macdonald, Romero and Mann",
+    "invoice_number": "INV-87726",
+    "date": "2025-09-07",
+    "items": [
+        {
+            "description": "Decentralized needs-based Internet solution",
+            "quantity": 4,
+            "unit_price": 94.27,
+            "total_price": 377.08
+        }
+    ],
+    "amount": 377.08
+}

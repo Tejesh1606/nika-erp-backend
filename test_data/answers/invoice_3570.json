@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Bryant, Morgan and Boyle",
+    "invoice_number": "INV-70280",
+    "date": "2025-04-20",
+    "items": [
+        {
+            "description": "Horizontal local encoding",
+            "quantity": 5,
+            "unit_price": 302.48,
+            "total_price": 1512.4
+        },
+        {
+            "description": "Distributed 6thgeneration forecast",
+            "quantity": 9,
+            "unit_price": 15.28,
+            "total_price": 137.52
+        }
+    ],
+    "amount": 1649.92
+}

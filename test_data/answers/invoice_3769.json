@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Mclean-Webb",
+    "invoice_number": "INV-57628",
+    "date": "2026-01-25",
+    "items": [
+        {
+            "description": "Synchronized encompassing budgetary management",
+            "quantity": 7,
+            "unit_price": 184.34,
+            "total_price": 1290.38
+        },
+        {
+            "description": "Upgradable maximized projection",
+            "quantity": 7,
+            "unit_price": 380.85,
+            "total_price": 2665.95
+        },
+        {
+            "description": "Total homogeneous info-mediaries",
+            "quantity": 6,
+            "unit_price": 123.93,
+            "total_price": 743.58
+        },
+        {
+            "description": "Adaptive explicit functionalities",
+            "quantity": 8,
+            "unit_price": 152.07,
+            "total_price": 1216.56
+        }
+    ],
+    "amount": 5916.47
+}

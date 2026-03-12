@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ortiz-Hunt",
+    "invoice_number": "INV-77084",
+    "date": "2026-03-05",
+    "items": [
+        {
+            "description": "Object-based tertiary website",
+            "quantity": 6,
+            "unit_price": 68.54,
+            "total_price": 411.24
+        },
+        {
+            "description": "Switchable object-oriented circuit",
+            "quantity": 10,
+            "unit_price": 477.23,
+            "total_price": 4772.3
+        }
+    ],
+    "amount": 5183.54
+}

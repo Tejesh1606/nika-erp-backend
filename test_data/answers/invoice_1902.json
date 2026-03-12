@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Brown PLC",
+    "invoice_number": "INV-60585",
+    "date": "2025-09-04",
+    "items": [
+        {
+            "description": "Optional homogeneous budgetary management",
+            "quantity": 8,
+            "unit_price": 172.32,
+            "total_price": 1378.56
+        },
+        {
+            "description": "Balanced 4thgeneration migration",
+            "quantity": 8,
+            "unit_price": 338.41,
+            "total_price": 2707.28
+        }
+    ],
+    "amount": 4085.84
+}

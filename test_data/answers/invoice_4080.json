@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wallace PLC",
+    "invoice_number": "INV-73736",
+    "date": "2025-05-09",
+    "items": [
+        {
+            "description": "Reduced incremental moderator",
+            "quantity": 4,
+            "unit_price": 179.4,
+            "total_price": 717.6
+        },
+        {
+            "description": "User-centric cohesive conglomeration",
+            "quantity": 6,
+            "unit_price": 199.57,
+            "total_price": 1197.42
+        }
+    ],
+    "amount": 1915.02
+}

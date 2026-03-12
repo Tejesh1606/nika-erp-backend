@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Brown, Porter and Hull",
+    "invoice_number": "INV-89324",
+    "date": "2025-11-11",
+    "items": [
+        {
+            "description": "Organic logistical circuit",
+            "quantity": 9,
+            "unit_price": 350.29,
+            "total_price": 3152.61
+        }
+    ],
+    "amount": 3152.61
+}

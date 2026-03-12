@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hull-Allen",
+    "invoice_number": "INV-22057",
+    "date": "2025-10-23",
+    "items": [
+        {
+            "description": "Advanced discrete installation",
+            "quantity": 2,
+            "unit_price": 119.62,
+            "total_price": 239.24
+        }
+    ],
+    "amount": 239.24
+}

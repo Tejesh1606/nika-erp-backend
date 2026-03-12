@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Robinson-Pierce",
+    "invoice_number": "INV-42847",
+    "date": "2025-09-07",
+    "items": [
+        {
+            "description": "Proactive neutral monitoring",
+            "quantity": 6,
+            "unit_price": 180.89,
+            "total_price": 1085.34
+        },
+        {
+            "description": "Fundamental 24/7 intranet",
+            "quantity": 10,
+            "unit_price": 260.12,
+            "total_price": 2601.2
+        },
+        {
+            "description": "Adaptive tangible standardization",
+            "quantity": 3,
+            "unit_price": 392.35,
+            "total_price": 1177.05
+        }
+    ],
+    "amount": 4863.59
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Miller Inc",
+    "invoice_number": "INV-25627",
+    "date": "2025-10-01",
+    "items": [
+        {
+            "description": "Persevering multimedia analyzer",
+            "quantity": 4,
+            "unit_price": 63.0,
+            "total_price": 252.0
+        },
+        {
+            "description": "Front-line tangible hardware",
+            "quantity": 9,
+            "unit_price": 230.62,
+            "total_price": 2075.58
+        },
+        {
+            "description": "Team-oriented neutral instruction set",
+            "quantity": 8,
+            "unit_price": 498.83,
+            "total_price": 3990.64
+        }
+    ],
+    "amount": 6318.22
+}

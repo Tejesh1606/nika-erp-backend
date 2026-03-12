@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Jackson, Osborne and Thompson",
+    "invoice_number": "INV-53809",
+    "date": "2026-02-16",
+    "items": [
+        {
+            "description": "Persevering discrete access",
+            "quantity": 6,
+            "unit_price": 285.19,
+            "total_price": 1711.14
+        },
+        {
+            "description": "User-centric bi-directional middleware",
+            "quantity": 3,
+            "unit_price": 51.56,
+            "total_price": 154.68
+        },
+        {
+            "description": "User-friendly 6thgeneration moderator",
+            "quantity": 3,
+            "unit_price": 250.27,
+            "total_price": 750.81
+        }
+    ],
+    "amount": 2616.63
+}

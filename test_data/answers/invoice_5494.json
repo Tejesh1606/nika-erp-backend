@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lee, Kane and Miller",
+    "invoice_number": "INV-84255",
+    "date": "2025-12-18",
+    "items": [
+        {
+            "description": "Networked 3rdgeneration parallelism",
+            "quantity": 3,
+            "unit_price": 226.69,
+            "total_price": 680.07
+        },
+        {
+            "description": "Decentralized 4thgeneration challenge",
+            "quantity": 7,
+            "unit_price": 91.74,
+            "total_price": 642.18
+        },
+        {
+            "description": "Persevering interactive toolset",
+            "quantity": 7,
+            "unit_price": 161.8,
+            "total_price": 1132.6
+        },
+        {
+            "description": "Future-proofed modular archive",
+            "quantity": 3,
+            "unit_price": 244.18,
+            "total_price": 732.54
+        }
+    ],
+    "amount": 3187.39
+}

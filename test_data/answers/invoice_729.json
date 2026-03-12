@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lyons-Rodriguez",
+    "invoice_number": "INV-81531",
+    "date": "2025-08-20",
+    "items": [
+        {
+            "description": "Phased systemic encryption",
+            "quantity": 10,
+            "unit_price": 366.5,
+            "total_price": 3665.0
+        },
+        {
+            "description": "Grass-roots zero tolerance circuit",
+            "quantity": 3,
+            "unit_price": 481.87,
+            "total_price": 1445.61
+        },
+        {
+            "description": "Multi-lateral methodical structure",
+            "quantity": 2,
+            "unit_price": 298.26,
+            "total_price": 596.52
+        },
+        {
+            "description": "Multi-layered fault-tolerant adapter",
+            "quantity": 1,
+            "unit_price": 459.66,
+            "total_price": 459.66
+        }
+    ],
+    "amount": 6166.79
+}

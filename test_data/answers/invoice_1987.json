@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Hall-Long",
+    "invoice_number": "INV-30050",
+    "date": "2025-04-10",
+    "items": [
+        {
+            "description": "Re-engineered multimedia website",
+            "quantity": 3,
+            "unit_price": 120.33,
+            "total_price": 360.99
+        }
+    ],
+    "amount": 360.99
+}

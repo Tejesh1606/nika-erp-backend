@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Anderson-Russell",
+    "invoice_number": "INV-67832",
+    "date": "2025-07-08",
+    "items": [
+        {
+            "description": "Seamless even-keeled challenge",
+            "quantity": 2,
+            "unit_price": 227.09,
+            "total_price": 454.18
+        },
+        {
+            "description": "Enterprise-wide well-modulated conglomeration",
+            "quantity": 9,
+            "unit_price": 95.52,
+            "total_price": 859.68
+        }
+    ],
+    "amount": 1313.86
+}

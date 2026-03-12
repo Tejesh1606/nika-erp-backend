@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Orozco LLC",
+    "invoice_number": "INV-23103",
+    "date": "2025-03-24",
+    "items": [
+        {
+            "description": "Reduced attitude-oriented analyzer",
+            "quantity": 10,
+            "unit_price": 220.32,
+            "total_price": 2203.2
+        },
+        {
+            "description": "Seamless 24hour core",
+            "quantity": 2,
+            "unit_price": 218.44,
+            "total_price": 436.88
+        },
+        {
+            "description": "Down-sized hybrid matrix",
+            "quantity": 9,
+            "unit_price": 138.74,
+            "total_price": 1248.66
+        },
+        {
+            "description": "Customer-focused encompassing parallelism",
+            "quantity": 1,
+            "unit_price": 272.39,
+            "total_price": 272.39
+        }
+    ],
+    "amount": 4161.13
+}

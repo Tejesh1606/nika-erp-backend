@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Wood, Davis and Stone",
+    "invoice_number": "INV-26716",
+    "date": "2025-07-11",
+    "items": [
+        {
+            "description": "Optional web-enabled interface",
+            "quantity": 6,
+            "unit_price": 124.06,
+            "total_price": 744.36
+        },
+        {
+            "description": "Self-enabling zero-defect Graphical User Interface",
+            "quantity": 7,
+            "unit_price": 211.39,
+            "total_price": 1479.73
+        }
+    ],
+    "amount": 2224.09
+}

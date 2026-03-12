@@ -1,0 +1,14 @@
+{
+    "vendor_name": "White, Cannon and Hendricks",
+    "invoice_number": "INV-76764",
+    "date": "2025-04-10",
+    "items": [
+        {
+            "description": "Distributed 24hour parallelism",
+            "quantity": 4,
+            "unit_price": 469.74,
+            "total_price": 1878.96
+        }
+    ],
+    "amount": 1878.96
+}

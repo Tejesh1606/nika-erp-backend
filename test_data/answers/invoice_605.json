@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Yates, Edwards and Brown",
+    "invoice_number": "INV-55029",
+    "date": "2025-10-02",
+    "items": [
+        {
+            "description": "Vision-oriented 24/7 leverage",
+            "quantity": 2,
+            "unit_price": 357.23,
+            "total_price": 714.46
+        },
+        {
+            "description": "Persevering multimedia leverage",
+            "quantity": 9,
+            "unit_price": 342.6,
+            "total_price": 3083.4
+        },
+        {
+            "description": "Re-engineered upward-trending groupware",
+            "quantity": 6,
+            "unit_price": 142.1,
+            "total_price": 852.6
+        },
+        {
+            "description": "Operative heuristic website",
+            "quantity": 1,
+            "unit_price": 372.04,
+            "total_price": 372.04
+        }
+    ],
+    "amount": 5022.5
+}

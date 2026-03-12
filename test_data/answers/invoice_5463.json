@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Rice LLC",
+    "invoice_number": "INV-89384",
+    "date": "2025-04-21",
+    "items": [
+        {
+            "description": "Seamless national installation",
+            "quantity": 9,
+            "unit_price": 146.0,
+            "total_price": 1314.0
+        },
+        {
+            "description": "Versatile hybrid artificial intelligence",
+            "quantity": 6,
+            "unit_price": 223.21,
+            "total_price": 1339.26
+        },
+        {
+            "description": "Extended client-server paradigm",
+            "quantity": 9,
+            "unit_price": 446.97,
+            "total_price": 4022.73
+        }
+    ],
+    "amount": 6675.99
+}

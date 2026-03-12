@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Ball, Chan and Holloway",
+    "invoice_number": "INV-68623",
+    "date": "2025-06-19",
+    "items": [
+        {
+            "description": "Implemented contextually-based alliance",
+            "quantity": 4,
+            "unit_price": 29.36,
+            "total_price": 117.44
+        },
+        {
+            "description": "Intuitive empowering approach",
+            "quantity": 1,
+            "unit_price": 184.52,
+            "total_price": 184.52
+        }
+    ],
+    "amount": 301.96
+}

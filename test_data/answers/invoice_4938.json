@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Simmons, Ruiz and Williamson",
+    "invoice_number": "INV-40615",
+    "date": "2025-11-21",
+    "items": [
+        {
+            "description": "Networked logistical knowledgebase",
+            "quantity": 5,
+            "unit_price": 55.16,
+            "total_price": 275.8
+        }
+    ],
+    "amount": 275.8
+}

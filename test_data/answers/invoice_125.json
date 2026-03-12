@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Weber-Richards",
+    "invoice_number": "INV-52622",
+    "date": "2025-08-03",
+    "items": [
+        {
+            "description": "Right-sized multi-tasking frame",
+            "quantity": 7,
+            "unit_price": 194.72,
+            "total_price": 1363.04
+        },
+        {
+            "description": "Persevering motivating portal",
+            "quantity": 10,
+            "unit_price": 406.83,
+            "total_price": 4068.3
+        },
+        {
+            "description": "Optional bandwidth-monitored utilization",
+            "quantity": 4,
+            "unit_price": 463.08,
+            "total_price": 1852.32
+        },
+        {
+            "description": "Total bifurcated projection",
+            "quantity": 4,
+            "unit_price": 326.96,
+            "total_price": 1307.84
+        }
+    ],
+    "amount": 8591.5
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Chandler PLC",
+    "invoice_number": "INV-95072",
+    "date": "2025-05-23",
+    "items": [
+        {
+            "description": "Synergized disintermediate system engine",
+            "quantity": 7,
+            "unit_price": 203.63,
+            "total_price": 1425.41
+        }
+    ],
+    "amount": 1425.41
+}

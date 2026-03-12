@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Brown and Sons",
+    "invoice_number": "INV-14700",
+    "date": "2025-09-07",
+    "items": [
+        {
+            "description": "Fundamental cohesive strategy",
+            "quantity": 6,
+            "unit_price": 321.43,
+            "total_price": 1928.58
+        },
+        {
+            "description": "Persistent intermediate budgetary management",
+            "quantity": 9,
+            "unit_price": 322.91,
+            "total_price": 2906.19
+        },
+        {
+            "description": "Proactive 6thgeneration intranet",
+            "quantity": 4,
+            "unit_price": 163.84,
+            "total_price": 655.36
+        },
+        {
+            "description": "Multi-channeled tertiary open architecture",
+            "quantity": 2,
+            "unit_price": 264.03,
+            "total_price": 528.06
+        }
+    ],
+    "amount": 6018.19
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Jenkins PLC",
+    "invoice_number": "INV-74122",
+    "date": "2026-02-06",
+    "items": [
+        {
+            "description": "Extended optimizing leverage",
+            "quantity": 5,
+            "unit_price": 24.48,
+            "total_price": 122.4
+        },
+        {
+            "description": "Persistent even-keeled access",
+            "quantity": 1,
+            "unit_price": 290.38,
+            "total_price": 290.38
+        }
+    ],
+    "amount": 412.78
+}

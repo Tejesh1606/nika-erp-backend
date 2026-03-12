@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Potts-Benson",
+    "invoice_number": "INV-49119",
+    "date": "2026-02-07",
+    "items": [
+        {
+            "description": "Customizable grid-enabled database",
+            "quantity": 6,
+            "unit_price": 244.46,
+            "total_price": 1466.76
+        },
+        {
+            "description": "Multi-lateral optimizing Local Area Network",
+            "quantity": 10,
+            "unit_price": 83.13,
+            "total_price": 831.3
+        },
+        {
+            "description": "Persistent bottom-line application",
+            "quantity": 3,
+            "unit_price": 368.9,
+            "total_price": 1106.7
+        },
+        {
+            "description": "Switchable actuating budgetary management",
+            "quantity": 1,
+            "unit_price": 420.5,
+            "total_price": 420.5
+        }
+    ],
+    "amount": 3825.26
+}

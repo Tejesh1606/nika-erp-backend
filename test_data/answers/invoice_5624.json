@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Smith-Mccullough",
+    "invoice_number": "INV-51960",
+    "date": "2025-09-12",
+    "items": [
+        {
+            "description": "Universal static frame",
+            "quantity": 9,
+            "unit_price": 85.28,
+            "total_price": 767.52
+        },
+        {
+            "description": "Compatible 5thgeneration encryption",
+            "quantity": 10,
+            "unit_price": 274.04,
+            "total_price": 2740.4
+        },
+        {
+            "description": "Phased incremental complexity",
+            "quantity": 6,
+            "unit_price": 56.45,
+            "total_price": 338.7
+        },
+        {
+            "description": "Enhanced intangible superstructure",
+            "quantity": 6,
+            "unit_price": 30.26,
+            "total_price": 181.56
+        }
+    ],
+    "amount": 4028.18
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Anderson, Miller and Vega",
+    "invoice_number": "INV-88018",
+    "date": "2025-12-19",
+    "items": [
+        {
+            "description": "Customer-focused radical implementation",
+            "quantity": 4,
+            "unit_price": 197.6,
+            "total_price": 790.4
+        }
+    ],
+    "amount": 790.4
+}

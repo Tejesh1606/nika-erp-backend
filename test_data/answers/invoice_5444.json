@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Curtis, Tucker and Nelson",
+    "invoice_number": "INV-35350",
+    "date": "2025-12-05",
+    "items": [
+        {
+            "description": "Enhanced 24hour database",
+            "quantity": 8,
+            "unit_price": 116.5,
+            "total_price": 932.0
+        },
+        {
+            "description": "Up-sized optimal circuit",
+            "quantity": 3,
+            "unit_price": 291.49,
+            "total_price": 874.47
+        },
+        {
+            "description": "Down-sized homogeneous neural-net",
+            "quantity": 2,
+            "unit_price": 314.12,
+            "total_price": 628.24
+        },
+        {
+            "description": "Open-architected motivating leverage",
+            "quantity": 6,
+            "unit_price": 355.53,
+            "total_price": 2133.18
+        }
+    ],
+    "amount": 4567.89
+}

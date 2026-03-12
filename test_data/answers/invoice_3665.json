@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Brown Group",
+    "invoice_number": "INV-53821",
+    "date": "2026-01-06",
+    "items": [
+        {
+            "description": "Reduced empowering service-desk",
+            "quantity": 4,
+            "unit_price": 359.35,
+            "total_price": 1437.4
+        },
+        {
+            "description": "Assimilated 4thgeneration encoding",
+            "quantity": 1,
+            "unit_price": 163.23,
+            "total_price": 163.23
+        },
+        {
+            "description": "Public-key bandwidth-monitored migration",
+            "quantity": 7,
+            "unit_price": 141.2,
+            "total_price": 988.4
+        }
+    ],
+    "amount": 2589.03
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Howe Group",
+    "invoice_number": "INV-38358",
+    "date": "2026-01-12",
+    "items": [
+        {
+            "description": "Open-source full-range attitude",
+            "quantity": 2,
+            "unit_price": 480.59,
+            "total_price": 961.18
+        },
+        {
+            "description": "Cross-group motivating paradigm",
+            "quantity": 3,
+            "unit_price": 182.4,
+            "total_price": 547.2
+        },
+        {
+            "description": "Focused object-oriented focus group",
+            "quantity": 8,
+            "unit_price": 277.22,
+            "total_price": 2217.76
+        },
+        {
+            "description": "Adaptive interactive standardization",
+            "quantity": 1,
+            "unit_price": 316.33,
+            "total_price": 316.33
+        }
+    ],
+    "amount": 4042.47
+}

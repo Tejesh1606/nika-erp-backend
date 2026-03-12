@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lopez-Ali",
+    "invoice_number": "INV-83882",
+    "date": "2025-11-04",
+    "items": [
+        {
+            "description": "De-engineered 24/7 info-mediaries",
+            "quantity": 1,
+            "unit_price": 409.37,
+            "total_price": 409.37
+        },
+        {
+            "description": "Operative hybrid archive",
+            "quantity": 2,
+            "unit_price": 127.1,
+            "total_price": 254.2
+        },
+        {
+            "description": "Persevering non-volatile paradigm",
+            "quantity": 1,
+            "unit_price": 380.73,
+            "total_price": 380.73
+        },
+        {
+            "description": "Open-source context-sensitive core",
+            "quantity": 7,
+            "unit_price": 476.15,
+            "total_price": 3333.05
+        }
+    ],
+    "amount": 4377.35
+}

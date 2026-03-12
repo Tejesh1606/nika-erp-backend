@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Nelson, Johnson and Daniels",
+    "invoice_number": "INV-88300",
+    "date": "2025-05-17",
+    "items": [
+        {
+            "description": "Progressive foreground functionalities",
+            "quantity": 6,
+            "unit_price": 493.43,
+            "total_price": 2960.58
+        },
+        {
+            "description": "Synergized bandwidth-monitored infrastructure",
+            "quantity": 1,
+            "unit_price": 58.53,
+            "total_price": 58.53
+        },
+        {
+            "description": "Triple-buffered coherent budgetary management",
+            "quantity": 2,
+            "unit_price": 325.49,
+            "total_price": 650.98
+        },
+        {
+            "description": "User-friendly high-level paradigm",
+            "quantity": 9,
+            "unit_price": 273.55,
+            "total_price": 2461.95
+        }
+    ],
+    "amount": 6132.04
+}

@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Thompson Group",
+    "invoice_number": "INV-84421",
+    "date": "2026-02-17",
+    "items": [
+        {
+            "description": "Virtual object-oriented secured line",
+            "quantity": 6,
+            "unit_price": 139.32,
+            "total_price": 835.92
+        },
+        {
+            "description": "Distributed global time-frame",
+            "quantity": 7,
+            "unit_price": 153.75,
+            "total_price": 1076.25
+        },
+        {
+            "description": "Mandatory multi-tasking time-frame",
+            "quantity": 4,
+            "unit_price": 209.21,
+            "total_price": 836.84
+        },
+        {
+            "description": "Front-line actuating access",
+            "quantity": 3,
+            "unit_price": 219.77,
+            "total_price": 659.31
+        }
+    ],
+    "amount": 3408.32
+}

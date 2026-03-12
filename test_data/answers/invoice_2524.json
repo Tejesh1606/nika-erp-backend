@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Garcia Inc",
+    "invoice_number": "INV-50811",
+    "date": "2025-04-02",
+    "items": [
+        {
+            "description": "Integrated mission-critical application",
+            "quantity": 7,
+            "unit_price": 356.46,
+            "total_price": 2495.22
+        },
+        {
+            "description": "Streamlined tangible benchmark",
+            "quantity": 8,
+            "unit_price": 416.92,
+            "total_price": 3335.36
+        },
+        {
+            "description": "Versatile coherent emulation",
+            "quantity": 6,
+            "unit_price": 319.23,
+            "total_price": 1915.38
+        }
+    ],
+    "amount": 7745.96
+}

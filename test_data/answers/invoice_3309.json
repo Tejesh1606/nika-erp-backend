@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Morgan-Nichols",
+    "invoice_number": "INV-74345",
+    "date": "2025-06-30",
+    "items": [
+        {
+            "description": "Horizontal tangible moratorium",
+            "quantity": 2,
+            "unit_price": 145.3,
+            "total_price": 290.6
+        },
+        {
+            "description": "Team-oriented multi-tasking neural-net",
+            "quantity": 5,
+            "unit_price": 334.77,
+            "total_price": 1673.85
+        }
+    ],
+    "amount": 1964.45
+}

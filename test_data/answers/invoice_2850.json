@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Bishop-Bowman",
+    "invoice_number": "INV-67008",
+    "date": "2025-10-18",
+    "items": [
+        {
+            "description": "Programmable fresh-thinking adapter",
+            "quantity": 1,
+            "unit_price": 165.6,
+            "total_price": 165.6
+        }
+    ],
+    "amount": 165.6
+}

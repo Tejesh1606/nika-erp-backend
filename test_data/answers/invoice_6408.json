@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Hinton, Castillo and White",
+    "invoice_number": "INV-66508",
+    "date": "2025-12-15",
+    "items": [
+        {
+            "description": "Compatible human-resource matrix",
+            "quantity": 10,
+            "unit_price": 310.48,
+            "total_price": 3104.8
+        },
+        {
+            "description": "Cross-group human-resource solution",
+            "quantity": 1,
+            "unit_price": 126.58,
+            "total_price": 126.58
+        },
+        {
+            "description": "Phased contextually-based methodology",
+            "quantity": 3,
+            "unit_price": 481.01,
+            "total_price": 1443.03
+        },
+        {
+            "description": "Business-focused coherent circuit",
+            "quantity": 8,
+            "unit_price": 374.05,
+            "total_price": 2992.4
+        }
+    ],
+    "amount": 7666.81
+}

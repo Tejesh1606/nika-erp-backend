@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Garcia, Rush and Ruiz",
+    "invoice_number": "INV-47385",
+    "date": "2025-03-31",
+    "items": [
+        {
+            "description": "Horizontal directional definition",
+            "quantity": 9,
+            "unit_price": 452.49,
+            "total_price": 4072.41
+        },
+        {
+            "description": "Optimized neutral paradigm",
+            "quantity": 3,
+            "unit_price": 169.25,
+            "total_price": 507.75
+        },
+        {
+            "description": "Multi-layered upward-trending intranet",
+            "quantity": 2,
+            "unit_price": 398.42,
+            "total_price": 796.84
+        },
+        {
+            "description": "Right-sized homogeneous knowledge user",
+            "quantity": 5,
+            "unit_price": 54.32,
+            "total_price": 271.6
+        }
+    ],
+    "amount": 5648.6
+}

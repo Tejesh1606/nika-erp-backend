@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Meyer-Smith",
+    "invoice_number": "INV-69055",
+    "date": "2026-01-26",
+    "items": [
+        {
+            "description": "De-engineered scalable knowledge user",
+            "quantity": 1,
+            "unit_price": 445.94,
+            "total_price": 445.94
+        },
+        {
+            "description": "Sharable optimal attitude",
+            "quantity": 3,
+            "unit_price": 79.95,
+            "total_price": 239.85
+        }
+    ],
+    "amount": 685.79
+}

@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Cannon-Kelly",
+    "invoice_number": "INV-49380",
+    "date": "2026-01-16",
+    "items": [
+        {
+            "description": "Innovative systematic workforce",
+            "quantity": 9,
+            "unit_price": 159.96,
+            "total_price": 1439.64
+        },
+        {
+            "description": "Programmable national circuit",
+            "quantity": 8,
+            "unit_price": 152.06,
+            "total_price": 1216.48
+        }
+    ],
+    "amount": 2656.12
+}

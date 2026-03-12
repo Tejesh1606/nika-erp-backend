@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Wright, Bruce and Gonzalez",
+    "invoice_number": "INV-60422",
+    "date": "2026-02-03",
+    "items": [
+        {
+            "description": "Polarized bi-directional encoding",
+            "quantity": 1,
+            "unit_price": 103.01,
+            "total_price": 103.01
+        },
+        {
+            "description": "Multi-tiered object-oriented help-desk",
+            "quantity": 5,
+            "unit_price": 357.91,
+            "total_price": 1789.55
+        },
+        {
+            "description": "Re-engineered explicit standardization",
+            "quantity": 6,
+            "unit_price": 234.65,
+            "total_price": 1407.9
+        }
+    ],
+    "amount": 3300.46
+}

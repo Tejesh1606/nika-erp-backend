@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cooper-Sullivan",
+    "invoice_number": "INV-35068",
+    "date": "2025-10-27",
+    "items": [
+        {
+            "description": "Customer-focused logistical challenge",
+            "quantity": 6,
+            "unit_price": 67.99,
+            "total_price": 407.94
+        },
+        {
+            "description": "User-friendly optimal workforce",
+            "quantity": 8,
+            "unit_price": 265.33,
+            "total_price": 2122.64
+        },
+        {
+            "description": "Reverse-engineered responsive framework",
+            "quantity": 6,
+            "unit_price": 119.4,
+            "total_price": 716.4
+        }
+    ],
+    "amount": 3246.98
+}

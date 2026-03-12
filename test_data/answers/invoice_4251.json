@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Brown, Conway and Holland",
+    "invoice_number": "INV-78890",
+    "date": "2026-03-02",
+    "items": [
+        {
+            "description": "Enhanced tangible access",
+            "quantity": 8,
+            "unit_price": 414.91,
+            "total_price": 3319.28
+        },
+        {
+            "description": "Organic cohesive leverage",
+            "quantity": 4,
+            "unit_price": 478.74,
+            "total_price": 1914.96
+        },
+        {
+            "description": "Compatible coherent infrastructure",
+            "quantity": 6,
+            "unit_price": 14.95,
+            "total_price": 89.7
+        },
+        {
+            "description": "Ergonomic demand-driven function",
+            "quantity": 3,
+            "unit_price": 115.76,
+            "total_price": 347.28
+        }
+    ],
+    "amount": 5671.22
+}

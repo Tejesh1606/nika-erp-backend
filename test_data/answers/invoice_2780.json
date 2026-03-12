@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Shelton-Evans",
+    "invoice_number": "INV-19018",
+    "date": "2025-10-03",
+    "items": [
+        {
+            "description": "Universal uniform circuit",
+            "quantity": 2,
+            "unit_price": 74.21,
+            "total_price": 148.42
+        },
+        {
+            "description": "Front-line zero tolerance interface",
+            "quantity": 7,
+            "unit_price": 435.41,
+            "total_price": 3047.87
+        }
+    ],
+    "amount": 3196.29
+}

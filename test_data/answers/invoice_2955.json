@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Bailey-Byrd",
+    "invoice_number": "INV-96383",
+    "date": "2026-01-31",
+    "items": [
+        {
+            "description": "Balanced well-modulated benchmark",
+            "quantity": 10,
+            "unit_price": 459.36,
+            "total_price": 4593.6
+        },
+        {
+            "description": "Organic value-added alliance",
+            "quantity": 3,
+            "unit_price": 363.24,
+            "total_price": 1089.72
+        },
+        {
+            "description": "Networked logistical orchestration",
+            "quantity": 5,
+            "unit_price": 398.95,
+            "total_price": 1994.75
+        }
+    ],
+    "amount": 7678.07
+}

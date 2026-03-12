@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Young-Palmer",
+    "invoice_number": "INV-97770",
+    "date": "2025-07-10",
+    "items": [
+        {
+            "description": "De-engineered maximized methodology",
+            "quantity": 4,
+            "unit_price": 40.69,
+            "total_price": 162.76
+        },
+        {
+            "description": "Quality-focused object-oriented hardware",
+            "quantity": 4,
+            "unit_price": 303.63,
+            "total_price": 1214.52
+        },
+        {
+            "description": "Multi-tiered bottom-line core",
+            "quantity": 4,
+            "unit_price": 185.85,
+            "total_price": 743.4
+        },
+        {
+            "description": "Extended local archive",
+            "quantity": 9,
+            "unit_price": 293.0,
+            "total_price": 2637.0
+        }
+    ],
+    "amount": 4757.68
+}

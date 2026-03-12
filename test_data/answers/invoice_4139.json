@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Marks, Thompson and Bowers",
+    "invoice_number": "INV-97445",
+    "date": "2025-06-27",
+    "items": [
+        {
+            "description": "Persistent full-range solution",
+            "quantity": 6,
+            "unit_price": 129.92,
+            "total_price": 779.52
+        },
+        {
+            "description": "Self-enabling system-worthy parallelism",
+            "quantity": 5,
+            "unit_price": 198.21,
+            "total_price": 991.05
+        }
+    ],
+    "amount": 1770.57
+}

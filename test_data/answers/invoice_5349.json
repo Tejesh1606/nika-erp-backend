@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Mcdowell-Wilson",
+    "invoice_number": "INV-20352",
+    "date": "2025-07-25",
+    "items": [
+        {
+            "description": "User-friendly zero administration moderator",
+            "quantity": 1,
+            "unit_price": 379.0,
+            "total_price": 379.0
+        }
+    ],
+    "amount": 379.0
+}

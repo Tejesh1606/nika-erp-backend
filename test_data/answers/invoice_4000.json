@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Vega, Wolf and Taylor",
+    "invoice_number": "INV-83114",
+    "date": "2025-10-05",
+    "items": [
+        {
+            "description": "Triple-buffered local service-desk",
+            "quantity": 7,
+            "unit_price": 481.23,
+            "total_price": 3368.61
+        },
+        {
+            "description": "Operative maximized info-mediaries",
+            "quantity": 9,
+            "unit_price": 496.88,
+            "total_price": 4471.92
+        },
+        {
+            "description": "Optional 5thgeneration product",
+            "quantity": 4,
+            "unit_price": 153.22,
+            "total_price": 612.88
+        }
+    ],
+    "amount": 8453.41
+}

@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cummings Ltd",
+    "invoice_number": "INV-63880",
+    "date": "2025-06-03",
+    "items": [
+        {
+            "description": "Operative 24/7 encoding",
+            "quantity": 10,
+            "unit_price": 465.24,
+            "total_price": 4652.4
+        }
+    ],
+    "amount": 4652.4
+}

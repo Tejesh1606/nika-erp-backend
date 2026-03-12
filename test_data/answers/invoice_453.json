@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Baker, Ramsey and Cooper",
+    "invoice_number": "INV-69437",
+    "date": "2025-10-26",
+    "items": [
+        {
+            "description": "Reverse-engineered asymmetric emulation",
+            "quantity": 5,
+            "unit_price": 36.03,
+            "total_price": 180.15
+        },
+        {
+            "description": "Multi-tiered human-resource capacity",
+            "quantity": 3,
+            "unit_price": 276.95,
+            "total_price": 830.85
+        },
+        {
+            "description": "Customer-focused 3rdgeneration customer loyalty",
+            "quantity": 1,
+            "unit_price": 164.71,
+            "total_price": 164.71
+        },
+        {
+            "description": "Programmable motivating software",
+            "quantity": 4,
+            "unit_price": 309.23,
+            "total_price": 1236.92
+        }
+    ],
+    "amount": 2412.63
+}

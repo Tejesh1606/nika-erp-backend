@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Harris, Flores and West",
+    "invoice_number": "INV-35957",
+    "date": "2025-06-30",
+    "items": [
+        {
+            "description": "Self-enabling interactive initiative",
+            "quantity": 2,
+            "unit_price": 29.77,
+            "total_price": 59.54
+        },
+        {
+            "description": "Optional homogeneous artificial intelligence",
+            "quantity": 9,
+            "unit_price": 421.35,
+            "total_price": 3792.15
+        },
+        {
+            "description": "Pre-emptive 4thgeneration matrix",
+            "quantity": 2,
+            "unit_price": 470.9,
+            "total_price": 941.8
+        }
+    ],
+    "amount": 4793.49
+}

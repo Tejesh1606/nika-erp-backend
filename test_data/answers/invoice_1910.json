@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Meyers, Hendricks and Adams",
+    "invoice_number": "INV-91082",
+    "date": "2025-09-07",
+    "items": [
+        {
+            "description": "Balanced multi-state pricing structure",
+            "quantity": 1,
+            "unit_price": 89.91,
+            "total_price": 89.91
+        }
+    ],
+    "amount": 89.91
+}

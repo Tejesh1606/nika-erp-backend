@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Cervantes Group",
+    "invoice_number": "INV-89034",
+    "date": "2025-10-11",
+    "items": [
+        {
+            "description": "User-friendly explicit benchmark",
+            "quantity": 1,
+            "unit_price": 405.06,
+            "total_price": 405.06
+        }
+    ],
+    "amount": 405.06
+}

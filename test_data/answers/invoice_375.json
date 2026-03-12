@@ -1,0 +1,14 @@
+{
+    "vendor_name": "James, Evans and Brown",
+    "invoice_number": "INV-29762",
+    "date": "2025-05-01",
+    "items": [
+        {
+            "description": "Exclusive global installation",
+            "quantity": 10,
+            "unit_price": 209.14,
+            "total_price": 2091.4
+        }
+    ],
+    "amount": 2091.4
+}

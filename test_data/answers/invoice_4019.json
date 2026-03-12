@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Smith, Bowman and Brock",
+    "invoice_number": "INV-45303",
+    "date": "2025-11-27",
+    "items": [
+        {
+            "description": "User-centric client-server Local Area Network",
+            "quantity": 6,
+            "unit_price": 259.05,
+            "total_price": 1554.3
+        },
+        {
+            "description": "Cross-group homogeneous budgetary management",
+            "quantity": 2,
+            "unit_price": 55.39,
+            "total_price": 110.78
+        },
+        {
+            "description": "Synchronized multi-tasking synergy",
+            "quantity": 7,
+            "unit_price": 226.96,
+            "total_price": 1588.72
+        }
+    ],
+    "amount": 3253.8
+}

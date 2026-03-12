@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Johnson, Burton and Sanchez",
+    "invoice_number": "INV-82759",
+    "date": "2025-09-10",
+    "items": [
+        {
+            "description": "Realigned didactic analyzer",
+            "quantity": 10,
+            "unit_price": 311.77,
+            "total_price": 3117.7
+        },
+        {
+            "description": "Inverse secondary infrastructure",
+            "quantity": 3,
+            "unit_price": 39.98,
+            "total_price": 119.94
+        },
+        {
+            "description": "Progressive clear-thinking migration",
+            "quantity": 4,
+            "unit_price": 438.37,
+            "total_price": 1753.48
+        },
+        {
+            "description": "User-centric uniform toolset",
+            "quantity": 10,
+            "unit_price": 267.79,
+            "total_price": 2677.9
+        }
+    ],
+    "amount": 7669.02
+}

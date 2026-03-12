@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Flores Inc",
+    "invoice_number": "INV-88784",
+    "date": "2026-01-03",
+    "items": [
+        {
+            "description": "Multi-tiered analyzing workforce",
+            "quantity": 8,
+            "unit_price": 466.64,
+            "total_price": 3733.12
+        },
+        {
+            "description": "Multi-lateral intermediate leverage",
+            "quantity": 5,
+            "unit_price": 177.68,
+            "total_price": 888.4
+        }
+    ],
+    "amount": 4621.52
+}

@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Cooper-Hernandez",
+    "invoice_number": "INV-83494",
+    "date": "2025-08-15",
+    "items": [
+        {
+            "description": "Cloned analyzing portal",
+            "quantity": 1,
+            "unit_price": 397.49,
+            "total_price": 397.49
+        },
+        {
+            "description": "Managed eco-centric knowledgebase",
+            "quantity": 10,
+            "unit_price": 347.01,
+            "total_price": 3470.1
+        },
+        {
+            "description": "Streamlined cohesive neural-net",
+            "quantity": 7,
+            "unit_price": 77.86,
+            "total_price": 545.02
+        }
+    ],
+    "amount": 4412.61
+}

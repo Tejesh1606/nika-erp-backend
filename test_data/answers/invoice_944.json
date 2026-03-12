@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Berry, Armstrong and Hill",
+    "invoice_number": "INV-22393",
+    "date": "2026-01-11",
+    "items": [
+        {
+            "description": "Reverse-engineered contextually-based info-mediaries",
+            "quantity": 6,
+            "unit_price": 304.47,
+            "total_price": 1826.82
+        },
+        {
+            "description": "Polarized secondary standardization",
+            "quantity": 3,
+            "unit_price": 334.36,
+            "total_price": 1003.08
+        }
+    ],
+    "amount": 2829.9
+}

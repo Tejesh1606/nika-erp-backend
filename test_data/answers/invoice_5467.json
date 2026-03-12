@@ -1,0 +1,26 @@
+{
+    "vendor_name": "Hampton, Conner and Johnson",
+    "invoice_number": "INV-91515",
+    "date": "2026-01-18",
+    "items": [
+        {
+            "description": "Reverse-engineered multimedia interface",
+            "quantity": 4,
+            "unit_price": 111.38,
+            "total_price": 445.52
+        },
+        {
+            "description": "Optional systemic standardization",
+            "quantity": 8,
+            "unit_price": 369.89,
+            "total_price": 2959.12
+        },
+        {
+            "description": "Re-contextualized cohesive toolset",
+            "quantity": 4,
+            "unit_price": 471.06,
+            "total_price": 1884.24
+        }
+    ],
+    "amount": 5288.88
+}

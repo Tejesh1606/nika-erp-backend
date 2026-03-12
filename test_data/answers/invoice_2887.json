@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Franco, Dudley and Rodriguez",
+    "invoice_number": "INV-70386",
+    "date": "2025-07-21",
+    "items": [
+        {
+            "description": "Virtual regional conglomeration",
+            "quantity": 4,
+            "unit_price": 45.23,
+            "total_price": 180.92
+        },
+        {
+            "description": "Extended national database",
+            "quantity": 5,
+            "unit_price": 148.83,
+            "total_price": 744.15
+        },
+        {
+            "description": "Cross-platform optimizing definition",
+            "quantity": 3,
+            "unit_price": 418.9,
+            "total_price": 1256.7
+        },
+        {
+            "description": "Integrated national task-force",
+            "quantity": 1,
+            "unit_price": 129.86,
+            "total_price": 129.86
+        }
+    ],
+    "amount": 2311.63
+}

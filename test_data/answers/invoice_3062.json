@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Larson-Murray",
+    "invoice_number": "INV-20137",
+    "date": "2025-07-05",
+    "items": [
+        {
+            "description": "Ergonomic systemic data-warehouse",
+            "quantity": 6,
+            "unit_price": 102.25,
+            "total_price": 613.5
+        }
+    ],
+    "amount": 613.5
+}

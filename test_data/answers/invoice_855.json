@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Lopez, Nichols and Clarke",
+    "invoice_number": "INV-52949",
+    "date": "2025-06-12",
+    "items": [
+        {
+            "description": "Business-focused responsive utilization",
+            "quantity": 4,
+            "unit_price": 338.3,
+            "total_price": 1353.2
+        },
+        {
+            "description": "Grass-roots clear-thinking migration",
+            "quantity": 8,
+            "unit_price": 188.64,
+            "total_price": 1509.12
+        },
+        {
+            "description": "Reduced mobile database",
+            "quantity": 9,
+            "unit_price": 111.16,
+            "total_price": 1000.44
+        },
+        {
+            "description": "Upgradable attitude-oriented toolset",
+            "quantity": 1,
+            "unit_price": 460.7,
+            "total_price": 460.7
+        }
+    ],
+    "amount": 4323.46
+}

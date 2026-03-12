@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Smith Inc",
+    "invoice_number": "INV-42946",
+    "date": "2025-12-01",
+    "items": [
+        {
+            "description": "Adaptive asymmetric interface",
+            "quantity": 7,
+            "unit_price": 369.19,
+            "total_price": 2584.33
+        },
+        {
+            "description": "Seamless content-based emulation",
+            "quantity": 6,
+            "unit_price": 479.14,
+            "total_price": 2874.84
+        },
+        {
+            "description": "Virtual context-sensitive model",
+            "quantity": 1,
+            "unit_price": 67.48,
+            "total_price": 67.48
+        },
+        {
+            "description": "Grass-roots explicit challenge",
+            "quantity": 5,
+            "unit_price": 383.7,
+            "total_price": 1918.5
+        }
+    ],
+    "amount": 7445.15
+}

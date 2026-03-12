@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Dorsey-Bell",
+    "invoice_number": "INV-33777",
+    "date": "2026-02-09",
+    "items": [
+        {
+            "description": "Digitized non-volatile protocol",
+            "quantity": 4,
+            "unit_price": 406.5,
+            "total_price": 1626.0
+        }
+    ],
+    "amount": 1626.0
+}

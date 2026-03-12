@@ -1,0 +1,14 @@
+{
+    "vendor_name": "Barron, Wolfe and Sullivan",
+    "invoice_number": "INV-90777",
+    "date": "2025-05-21",
+    "items": [
+        {
+            "description": "User-friendly 24hour structure",
+            "quantity": 10,
+            "unit_price": 326.72,
+            "total_price": 3267.2
+        }
+    ],
+    "amount": 3267.2
+}

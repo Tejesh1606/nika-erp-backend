@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Leon, Cook and Pham",
+    "invoice_number": "INV-95715",
+    "date": "2026-03-01",
+    "items": [
+        {
+            "description": "Fully-configurable human-resource instruction set",
+            "quantity": 2,
+            "unit_price": 394.94,
+            "total_price": 789.88
+        },
+        {
+            "description": "Reactive modular monitoring",
+            "quantity": 1,
+            "unit_price": 190.18,
+            "total_price": 190.18
+        },
+        {
+            "description": "Public-key modular monitoring",
+            "quantity": 1,
+            "unit_price": 18.32,
+            "total_price": 18.32
+        },
+        {
+            "description": "Public-key discrete info-mediaries",
+            "quantity": 3,
+            "unit_price": 323.07,
+            "total_price": 969.21
+        }
+    ],
+    "amount": 1967.59
+}

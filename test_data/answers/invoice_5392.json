@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Hunter PLC",
+    "invoice_number": "INV-38886",
+    "date": "2025-10-12",
+    "items": [
+        {
+            "description": "Customer-focused reciprocal monitoring",
+            "quantity": 4,
+            "unit_price": 92.19,
+            "total_price": 368.76
+        },
+        {
+            "description": "Polarized real-time capacity",
+            "quantity": 1,
+            "unit_price": 18.29,
+            "total_price": 18.29
+        }
+    ],
+    "amount": 387.05
+}

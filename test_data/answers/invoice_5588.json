@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Gallagher-Hendricks",
+    "invoice_number": "INV-18801",
+    "date": "2025-05-22",
+    "items": [
+        {
+            "description": "Front-line asymmetric attitude",
+            "quantity": 6,
+            "unit_price": 80.98,
+            "total_price": 485.88
+        },
+        {
+            "description": "Multi-channeled background policy",
+            "quantity": 6,
+            "unit_price": 222.7,
+            "total_price": 1336.2
+        }
+    ],
+    "amount": 1822.08
+}

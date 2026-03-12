@@ -1,0 +1,32 @@
+{
+    "vendor_name": "Parsons-Pugh",
+    "invoice_number": "INV-82980",
+    "date": "2026-01-01",
+    "items": [
+        {
+            "description": "Advanced eco-centric extranet",
+            "quantity": 3,
+            "unit_price": 70.84,
+            "total_price": 212.52
+        },
+        {
+            "description": "User-friendly incremental analyzer",
+            "quantity": 3,
+            "unit_price": 349.11,
+            "total_price": 1047.33
+        },
+        {
+            "description": "Quality-focused tangible archive",
+            "quantity": 8,
+            "unit_price": 352.37,
+            "total_price": 2818.96
+        },
+        {
+            "description": "Team-oriented reciprocal methodology",
+            "quantity": 2,
+            "unit_price": 104.14,
+            "total_price": 208.28
+        }
+    ],
+    "amount": 4287.09
+}

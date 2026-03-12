@@ -1,0 +1,20 @@
+{
+    "vendor_name": "Davis-Cobb",
+    "invoice_number": "INV-31764",
+    "date": "2025-09-05",
+    "items": [
+        {
+            "description": "Multi-layered radical artificial intelligence",
+            "quantity": 1,
+            "unit_price": 225.74,
+            "total_price": 225.74
+        },
+        {
+            "description": "Phased analyzing adapter",
+            "quantity": 3,
+            "unit_price": 452.03,
+            "total_price": 1356.09
+        }
+    ],
+    "amount": 1581.83
+}
