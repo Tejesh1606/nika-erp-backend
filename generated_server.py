@@ -277,8 +277,9 @@ async def run_sql_query(request: QueryRequest, user_id: str = Depends(get_curren
         
         sql_upper = sql_query.upper()
         forbidden_keywords = ["INSERT", "UPDATE", "DELETE", "DROP", "ALTER", "TRUNCATE", "GRANT", "CREATE"]
-        is_mutation = any(keyword in sql_upper for keyword in forbidden_keywords)
         
+        # Using Regex \b to ensure we only match whole words, ignoring "CREATED_AT"
+        is_mutation = any(re.search(rf"\b{keyword}\b", sql_upper) for keyword in forbidden_keywords)
         if is_mutation and not is_admin:
             return JSONResponse(
                 status_code=403, 
