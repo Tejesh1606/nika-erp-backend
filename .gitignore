@@ -22,3 +22,6 @@ ERP_analysis1.py
 Market_Analyst_Test1.py
 pm.py
 reset_db.py
+
+# --- Local Testing -- 
+run_accuracy_test.py
