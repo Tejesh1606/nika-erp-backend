@@ -1,5 +1,5 @@
 import { UserButton } from "@clerk/clerk-react";
-import { UploadCloud, LayoutDashboard, FileText, Database, Settings, X } from 'lucide-react';
+import { UploadCloud, LayoutDashboard, FileText, Database, Settings, X, Home } from 'lucide-react';
 
 export const Sidebar = ({ activeTab, setActiveTab, setSelectedDashId, setSelectedReportId, isMobileMenuOpen, setIsMobileMenuOpen }: any) => {
   
@@ -22,6 +22,7 @@ export const Sidebar = ({ activeTab, setActiveTab, setSelectedDashId, setSelecte
           <button onClick={() => setIsMobileMenuOpen(false)} className="md:hidden p-2 text-slate-400 hover:text-white"><X className="w-6 h-6" /></button>
         </div>
         <nav className="flex flex-col gap-2">
+          <button onClick={() => navTo('home')} className={`flex items-center px-4 py-3 rounded-xl font-bold transition-all mb-2 ${activeTab === 'home' ? 'bg-blue-600 text-white' : 'hover:bg-slate-800 hover:text-white'}`}><Home className="w-5 h-5 mr-3"/> Home / App Grid</button>
           <button onClick={() => navTo('upload')} className={`flex items-center px-4 py-3 rounded-xl font-bold transition-all ${activeTab === 'upload' ? 'bg-blue-600 text-white' : 'hover:bg-slate-800 hover:text-white'}`}><UploadCloud className="w-5 h-5 mr-3"/> Upload</button>
           <button onClick={() => navTo('dashboard')} className={`flex items-center px-4 py-3 rounded-xl font-bold transition-all ${activeTab === 'dashboard' ? 'bg-blue-600 text-white' : 'hover:bg-slate-800 hover:text-white'}`}><LayoutDashboard className="w-5 h-5 mr-3"/> Dashboards</button>
           <button onClick={() => navTo('reports')} className={`flex items-center px-4 py-3 rounded-xl font-bold transition-all ${activeTab === 'reports' ? 'bg-blue-600 text-white' : 'hover:bg-slate-800 hover:text-white'}`}><FileText className="w-5 h-5 mr-3"/> Reports</button>

@@ -1,6 +1,7 @@
 import { Analytics } from "@vercel/analytics/react";
 import { SignedIn, SignedOut, SignIn, useAuth } from "@clerk/clerk-react";
 import { useState, useEffect, useMemo } from 'react';
+import { HomeTab } from './components/tabs/HomeTab';
 
 // Layout
 import { Sidebar } from './components/layout/Sidebar';
@@ -16,8 +17,9 @@ import { SettingsTab } from './components/tabs/SettingsTab';
 
 export default function App() {
   const { getToken } = useAuth();
+  
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
-  const [activeTab, setActiveTab] = useState<'upload' | 'dashboard' | 'reports' | 'invoices' | 'inspector' | 'settings'>('upload');
+  const [activeTab, setActiveTab] = useState<'home' | 'upload' | 'dashboard' | 'reports' | 'invoices' | 'inspector' | 'settings'>('home');
   
   const [selectedDashId, setSelectedDashId] = useState<string | null>(null);
   const [selectedReportId, setSelectedReportId] = useState<string | null>(null);
@@ -165,6 +167,9 @@ export default function App() {
           <Sidebar activeTab={activeTab} setActiveTab={setActiveTab} setSelectedDashId={setSelectedDashId} setSelectedReportId={setSelectedReportId} isMobileMenuOpen={isMobileMenuOpen} setIsMobileMenuOpen={setIsMobileMenuOpen} />
 
           <div className="flex-1 p-4 md:p-10 overflow-auto h-[calc(100vh-72px)] md:h-screen w-full relative">
+            
+            {activeTab === 'home' && <HomeTab setActiveTab={setActiveTab} />}
+            
             {activeTab === 'upload' && <UploadTab getToken={getToken} fetchHistory={fetchHistory} />}
             
             {activeTab === 'dashboard' && <DashboardsTab selectedDashId={selectedDashId} setSelectedDashId={setSelectedDashId} dashSearch={dashSearch} setDashSearch={setDashSearch} dashSort={dashSort} setDashSort={setDashSort} dashboards={dashboards} reports={reports} saveConfigs={saveConfigs} setActiveTab={setActiveTab} setSelectedReportId={setSelectedReportId} processChartData={processChartData} filterText={filterText} setFilterText={setFilterText} filterField={filterField} setFilterField={setFilterField} filterStatus={filterStatus} setFilterStatus={setFilterStatus} />}
