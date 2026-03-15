@@ -251,7 +251,7 @@ async def upload_invoice(file: UploadFile = File(...), user_id: str = Depends(ge
         return JSONResponse(status_code=200, content={"message": "Success", "data": parsed_data, "credits_remaining": org.api_credits})
     except IntegrityError:
         db.rollback()
-        return JSONResponse(status_code=400, content={"error": "Invoice number already exists."})
+        return JSONResponse(status_code=400, content={"error": f"Database Integrity Error: {str(e.orig)}"})
     except Exception as e:
         db.rollback()
         return JSONResponse(status_code=500, content={"error": str(e)})
