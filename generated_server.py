@@ -225,7 +225,9 @@ async def upload_invoice(file: UploadFile = File(...), user_id: str = Depends(ge
             
         # Compress the image before sending to OpenRouter
         optimized_bytes, new_mime_type = optimize_image_for_llm(raw_file_bytes)
-        
+        logger.info(f"Original file size: {len(raw_file_bytes) / 1024:.2f} KB")
+        logger.info(f"Compressed file size: {len(optimized_bytes) / 1024:.2f} KB")
+        # ---------------------------
         # Feed the COMPRESSED bytes to the AI, not the raw bytes
         parsed_data = process_invoice_with_vision(optimized_bytes, new_mime_type)
         # ---------------------------------
