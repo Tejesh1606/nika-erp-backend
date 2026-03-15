@@ -273,42 +273,35 @@ async def run_sql_query(request: QueryRequest, user_id: str = Depends(get_curren
         if not sql_query:
             return JSONResponse(status_code=400, content={"error": "Query cannot be empty"})
 
-        is_admin = False 
+        # 1. Establish a strict Read-Only transaction at the PostgreSQL engine level.
+        # This physically prevents INSERT, UPDATE, DELETE, DROP, or ALTER commands.
+        db.execute(text("SET LOCAL default_transaction_read_only = 'on';"))
         
-        sql_upper = sql_query.upper()
-        forbidden_keywords = ["INSERT", "UPDATE", "DELETE", "DROP", "ALTER", "TRUNCATE", "GRANT", "CREATE"]
-        
-        # Using Regex \b to ensure we only match whole words, ignoring "CREATED_AT"
-        is_mutation = any(re.search(rf"\b{keyword}\b", sql_upper) for keyword in forbidden_keywords)
-        if is_mutation and not is_admin:
-            return JSONResponse(
-                status_code=403, 
-                content={"error": "🔒 Permission Denied: You need Admin privileges to modify data."}
-            )
-        
+        # 2. Execute the arbitrary user query inside the Read-Only sandbox.
         result = db.execute(text(sql_query))
         
-        if is_mutation:
-            db.commit()
-            return {"results": [{"Status": "Success", "Message": "Database modified successfully."}]}
-        else:
-            rows = result.mappings().all()
+        # 3. Extract the data.
+        rows = result.mappings().all()
+        
+        formatted_rows = []
+        for row in rows:
+            row_dict = dict(row)
+            for key, value in row_dict.items():
+                if isinstance(value, datetime):
+                    row_dict[key] = value.isoformat()
+                elif isinstance(value, Decimal):
+                    row_dict[key] = float(value)
+            formatted_rows.append(row_dict)
             
-            formatted_rows = []
-            for row in rows:
-                row_dict = dict(row)
-                for key, value in row_dict.items():
-                    if isinstance(value, datetime):
-                        row_dict[key] = value.isoformat()
-                    elif isinstance(value, Decimal):
-                        row_dict[key] = float(value)
-                formatted_rows.append(row_dict)
-                
-            return {"results": formatted_rows}
-            
+        # 4. The Fail-Safe: Force a rollback to destroy the transaction state.
+        db.rollback() 
+        
+        return {"results": formatted_rows}
+        
     except Exception as e:
+        # If the user tries to mutate data, PostgreSQL will throw a Read-Only error here.
         db.rollback()
-        return JSONResponse(status_code=400, content={"error": f"SQL Syntax Error: {str(e)}"})
+        return JSONResponse(status_code=400, content={"error": f"SQL Execution Error: {str(e)}"})
     finally:
         db.close()
 
