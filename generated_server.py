@@ -7,6 +7,8 @@ from datetime import datetime
 from decimal import Decimal
 from typing import List
 import re
+from PIL import Image
+import io
 
 from fastapi import FastAPI, UploadFile, File, HTTPException, Depends, APIRouter, Request
 from fastapi.responses import JSONResponse
@@ -163,6 +165,27 @@ def get_or_create_user_org(db, user_id: str):
     member = db.query(OrganizationMember).filter(OrganizationMember.user_id == user_id).first()
     return member.org_id
 
+def optimize_image_for_llm(file_bytes: bytes) -> tuple[bytes, str]:
+    """
+    Compresses and resizes an image to cap LLM token costs.
+    Returns the optimized bytes and the new mime type.
+    """
+    # Load the image into memory
+    image = Image.open(io.BytesIO(file_bytes))
+    
+    # Strip alpha channels (transparency) to prevent JPEG export errors
+    if image.mode in ("RGBA", "P"):
+        image = image.convert("RGB")
+        
+    # Cap the maximum dimensions to 1024x1024 to enforce strict token limits
+    max_size = (1024, 1024)
+    image.thumbnail(max_size, Image.Resampling.LANCZOS)
+    
+    # Save the optimized image to a new buffer
+    output_buffer = io.BytesIO()
+    image.save(output_buffer, format="JPEG", quality=85)
+    
+    return output_buffer.getvalue(), "image/jpeg"
 
 # --- AI VISION ENGINE ---
 def process_invoice_with_vision(file_bytes: bytes, mime_type: str):
@@ -193,8 +216,19 @@ async def upload_invoice(file: UploadFile = File(...), user_id: str = Depends(ge
         if org.api_credits <= 0:
             return JSONResponse(status_code=403, content={"error": "Out of API credits. Please upgrade your plan."})
         
-        file_bytes = await file.read()
-        parsed_data = process_invoice_with_vision(file_bytes, file.content_type)
+        # --- NEW OPTIMIZATION PIPELINE ---
+        raw_file_bytes = await file.read()
+        
+        # Hard cap: Reject payloads over 10MB to prevent RAM exhaustion attacks
+        if len(raw_file_bytes) > 10 * 1024 * 1024:
+            return JSONResponse(status_code=413, content={"error": "File too large. Maximum size is 10MB."})
+            
+        # Compress the image before sending to OpenRouter
+        optimized_bytes, new_mime_type = optimize_image_for_llm(raw_file_bytes)
+        
+        # Feed the COMPRESSED bytes to the AI, not the raw bytes
+        parsed_data = process_invoice_with_vision(optimized_bytes, new_mime_type)
+        # ---------------------------------
         
         org.api_credits -= 1
         
