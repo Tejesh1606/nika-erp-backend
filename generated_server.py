@@ -9,6 +9,7 @@ from typing import List
 import re
 from PIL import Image
 import io
+import math
 
 from fastapi import FastAPI, UploadFile, File, HTTPException, Depends, APIRouter, Request
 from fastapi.responses import JSONResponse
@@ -187,7 +188,6 @@ def optimize_image_for_llm(file_bytes: bytes) -> tuple[bytes, str]:
     
     return output_buffer.getvalue(), "image/jpeg"
 
-# --- AI VISION ENGINE ---
 def process_invoice_with_vision(file_bytes: bytes, mime_type: str):
     base64_image = base64.b64encode(file_bytes).decode('utf-8')
     headers = {"Authorization": f"Bearer {OPENROUTER_API_KEY}", "Content-Type": "application/json"}
@@ -195,14 +195,37 @@ def process_invoice_with_vision(file_bytes: bytes, mime_type: str):
         "model": "openai/gpt-4o",
         "response_format": { "type": "json_object" }, 
         "messages": [{"role": "user", "content": [
-            {"type": "text", "text": """Extract data into this exact JSON structure. Null if missing: { "vendor": { "name": "string" }, "invoice_details": { "invoice_number": "string" }, "line_items": [ { "description": "string", "quantity": 1, "unit_price": 0.00, "total_price": 0.00 } ], "financials": { "grand_total": 0.00 }, "ai_metadata": { "confidence_score": 0, "image_quality_warning": false } } Ensure confidence_score is an integer between 0 and 100 representing your certainty of the extracted text."""},
+            {"type": "text", "text": """Extract data into this exact JSON structure. Null if missing: { "vendor": { "name": "string" }, "invoice_details": { "invoice_number": "string" }, "line_items": [ { "description": "string", "quantity": 1, "unit_price": 0.00, "total_price": 0.00 } ], "financials": { "grand_total": 0.00 }, "ai_metadata": { "confidence_score": 0, "image_quality_warning": false } } Ensure confidence_score is an integer between 0 and 100."""},
             {"type": "image_url", "image_url": { "url": f"data:{mime_type};base64,{base64_image}" }}
         ]}]
     }
     response = requests.post("https://openrouter.ai/api/v1/chat/completions", headers=headers, json=payload)
     if response.status_code != 200: raise Exception(f"AI Error: {response.text}")
-    return json.loads(response.json()['choices'][0]['message']['content'])
-
+    
+    response_data = response.json()
+    parsed_content = json.loads(response_data['choices'][0]['message']['content'])
+    
+    # --- 1. EXTRACT USAGE ---
+    usage = response_data.get('usage', {})
+    prompt_tokens = usage.get('prompt_tokens', 0)
+    completion_tokens = usage.get('completion_tokens', 0)
+    
+    # --- 2. CALCULATE BASE COST (GPT-4o Rates) ---
+    # Input: $0.000005 per token ($5/1M) | Output: $0.000015 per token ($15/1M)
+    actual_cost_usd = (prompt_tokens * 0.000005) + (completion_tokens * 0.000015)
+    
+    # --- 3. APPLY 100% MARKUP (Your Profit Margin) ---
+    retail_price_usd = actual_cost_usd * 2.0 
+    
+    # --- 4. CONVERT TO CREDITS (1 Credit = 1 Cent) ---
+    # math.ceil ensures if the cost is 3.1 cents, we charge 4 credits. 
+    credits_to_deduct = math.ceil(retail_price_usd * 100)
+    
+    # Hard floor: Never charge 0 credits for a transaction
+    if credits_to_deduct < 1:
+        credits_to_deduct = 1
+        
+    return parsed_content, credits_to_deduct
 
 # --- SECURED API ENDPOINTS ---
 
@@ -229,10 +252,14 @@ async def upload_invoice(file: UploadFile = File(...), user_id: str = Depends(ge
         logger.info(f"Compressed file size: {len(optimized_bytes) / 1024:.2f} KB")
         # ---------------------------
 # Feed the COMPRESSED bytes to the AI, not the raw bytes
-        parsed_data = process_invoice_with_vision(optimized_bytes, new_mime_type)
+# Catch the dynamic credit cost calculated by your margin engine
+        parsed_data, credits_to_deduct = process_invoice_with_vision(optimized_bytes, new_mime_type)
         
-        org.api_credits -= 1
-        
+        # Check if they have enough credits for this specific transaction
+        if org.api_credits < credits_to_deduct:
+            return JSONResponse(status_code=402, content={"error": "Insufficient credits to process this invoice."})
+            
+        org.api_credits -= credits_to_deduct
         # ==========================================
         # 🛡️ HITL QUARANTINE VALIDATION
         # ==========================================
