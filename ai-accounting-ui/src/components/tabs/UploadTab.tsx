@@ -28,18 +28,18 @@ export const UploadTab = ({ getToken, fetchHistory }: any) => {
     setProgress(0);
     setResults([]);
     
-    const token = await getToken();
     const finalResults = [];
 
-    // The Dispatch Loop: We specifically use a standard 'for' loop, NOT Promise.all().
-    // Promise.all() would fire all 50 requests at once, crashing your server.
-    // The 'await' inside this loop forces the browser to wait for File 1 to finish before sending File 2.
+    // The Dispatch Loop
     for (let i = 0; i < files.length; i++) {
       const file = files[i];
       const formData = new FormData(); 
       formData.append('file', file);
       
       try {
+        // FIX 1: Fetch a fresh token INSIDE the loop so it never expires during a long batch
+        const token = await getToken();
+        
         const res = await fetch('https://ai-erp-api-gfmt.onrender.com/upload-invoice/', { 
           method: 'POST', 
           headers: { Authorization: `Bearer ${token}` },
@@ -47,7 +47,9 @@ export const UploadTab = ({ getToken, fetchHistory }: any) => {
         });
         
         const result = await res.json();
-        if (!res.ok) throw new Error(result.error);
+        
+        // FIX 2: Catch FastAPI's 'detail' keyword so errors actually display in the UI
+        if (!res.ok) throw new Error(result.error || result.detail || `Server Error ${res.status}`);
         
         finalResults.push({ 
           fileName: file.name, 
@@ -63,14 +65,13 @@ export const UploadTab = ({ getToken, fetchHistory }: any) => {
         });
       }
       
-      // Update the progress bar after each file completes
       setProgress(i + 1);
     }
 
     setResults(finalResults);
     setIsProcessing(false);
-    setFiles([]); // Clear the queue
-    fetchHistory(); // Refresh the master ledger
+    setFiles([]); 
+    fetchHistory(); 
   };
 
   const resetUpload = () => {
