@@ -12,7 +12,6 @@ import { UploadTab } from './components/tabs/UploadTab';
 import { DashboardsTab } from './components/tabs/DashboardsTab';
 import { ReportsTab } from './components/tabs/ReportsTab';
 import { InvoicesTab } from './components/tabs/InvoicesTab';
-import { InspectorTab } from './components/tabs/InspectorTab';
 import { SettingsTab } from './components/tabs/SettingsTab';
 
 export default function App() {
@@ -216,8 +215,6 @@ const handlePageChange = (direction: 'next' | 'prev') => {
               pagination={pagination} 
               handlePageChange={handlePageChange} 
             />}
-            
-            {activeTab === 'inspector' && <InspectorTab getToken={getToken} />}
             
             {activeTab === 'settings' && <SettingsTab />}
           </div>

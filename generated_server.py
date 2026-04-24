@@ -10,6 +10,8 @@ import re
 from PIL import Image
 import io
 import math
+import secrets
+import hashlib
 
 from fastapi import FastAPI, UploadFile, File, HTTPException, Depends, APIRouter, Request
 from fastapi.responses import JSONResponse
@@ -100,6 +102,26 @@ class InvoiceItem(Base):
 
 Base.metadata.create_all(bind=engine)
 
+# 5. API KEYS (Machine-to-Machine Access)
+class ApiKey(Base):
+    __tablename__ = "api_keys"
+    key_id = Column(Integer, primary_key=True, index=True)
+    org_id = Column(String, ForeignKey("organizations.org_id"), nullable=False)
+    name = Column(String, nullable=False) # e.g., "Zapier Integration"
+    hashed_key = Column(String, unique=True, index=True, nullable=False)
+    created_at = Column(DateTime, default=datetime.utcnow)
+    last_used = Column(DateTime, nullable=True)
+
+# 6. AUDIT LOGS (The Accountability Trail)
+class AuditLog(Base):
+    __tablename__ = "audit_logs"
+    log_id = Column(Integer, primary_key=True, index=True)
+    invoice_id = Column(Integer, ForeignKey("invoices.invoice_id"), nullable=False)
+    changed_by = Column(String, nullable=False) # Clerk User ID or "API Key: Zapier"
+    field_name = Column(String, nullable=False)
+    old_value = Column(String, nullable=True)
+    new_value = Column(String, nullable=True)
+    timestamp = Column(DateTime, default=datetime.utcnow)
 # --- PYDANTIC MODELS ---
 class InvoiceItemEdit(BaseModel):
     description: str
@@ -135,13 +157,39 @@ security = HTTPBearer()
 jwks_url = f"{CLERK_FRONTEND_API.rstrip('/')}/.well-known/jwks.json"
 jwks_client = PyJWKClient(jwks_url)
 
-def get_current_user(credentials: HTTPAuthorizationCredentials = Depends(security)):
-    """Verifies the JWT token and returns the Clerk User ID."""
+def get_db():
+    db = SessionLocal()
+    try:
+        yield db
+    finally:
+        db.close()
+
+def get_auth_context(credentials: HTTPAuthorizationCredentials = Depends(security), db: Session = Depends(get_db)):
+    """Verifies either a Clerk JWT OR an M2M API Key. Returns an Auth Context dictionary."""
     token = credentials.credentials
+    
+    # Pathway A: Machine-to-Machine API Key
+    if token.startswith("nk_live_"):
+        hashed_token = hashlib.sha256(token.encode()).hexdigest()
+        api_key_record = db.query(ApiKey).filter(ApiKey.hashed_key == hashed_token).first()
+        
+        if not api_key_record:
+            raise HTTPException(status_code=401, detail="Invalid API Key")
+            
+        # Update last used timestamp
+        api_key_record.last_used = datetime.utcnow()
+        db.commit()
+        
+        return {"auth_type": "api_key", "org_id": api_key_record.org_id, "identifier": f"API Key ({api_key_record.name})"}
+        
+    # Pathway B: Human User Clerk JWT
     try:
         signing_key = jwks_client.get_signing_key_from_jwt(token)
         payload = jwt.decode(token, signing_key.key, algorithms=["RS256"])
-        return payload.get("sub") # The Clerk User ID
+        user_id = payload.get("sub")
+        org_id = get_or_create_user_org(db, user_id)
+        
+        return {"auth_type": "human", "org_id": org_id, "identifier": user_id}
     except Exception as e:
         logger.error(f"Token Verification Failed: {str(e)}")
         raise HTTPException(status_code=401, detail="Invalid Authentication Token")
@@ -230,100 +278,115 @@ def process_invoice_with_vision(file_bytes: bytes, mime_type: str):
 # --- SECURED API ENDPOINTS ---
 
 @app.post("/upload-invoice/")
-async def upload_invoice(file: UploadFile = File(...), user_id: str = Depends(get_current_user)):
-    db = SessionLocal()
+async def upload_invoice(file: UploadFile = File(...), auth_context: dict = Depends(get_auth_context), db: Session = Depends(get_db)):
     try:
-        org_id = get_or_create_user_org(db, user_id)
+        org_id = auth_context["org_id"]
         org = db.query(Organization).filter(Organization.org_id == org_id).first()
         
         if org.api_credits <= 0:
             return JSONResponse(status_code=403, content={"error": "Out of API credits. Please upgrade your plan."})
         
-        # --- NEW OPTIMIZATION PIPELINE ---
         raw_file_bytes = await file.read()
         
-        # Hard cap: Reject payloads over 10MB to prevent RAM exhaustion attacks
         if len(raw_file_bytes) > 10 * 1024 * 1024:
             return JSONResponse(status_code=413, content={"error": "File too large. Maximum size is 10MB."})
             
-        # Compress the image before sending to OpenRouter
         optimized_bytes, new_mime_type = optimize_image_for_llm(raw_file_bytes)
-        logger.info(f"Original file size: {len(raw_file_bytes) / 1024:.2f} KB")
-        logger.info(f"Compressed file size: {len(optimized_bytes) / 1024:.2f} KB")
-        # ---------------------------
-# Feed the COMPRESSED bytes to the AI, not the raw bytes
-# Catch the dynamic credit cost calculated by your margin engine
+        
         parsed_data, credits_to_deduct = process_invoice_with_vision(optimized_bytes, new_mime_type)
         
-        # Check if they have enough credits for this specific transaction
         if org.api_credits < credits_to_deduct:
             return JSONResponse(status_code=402, content={"error": "Insufficient credits to process this invoice."})
             
         org.api_credits -= credits_to_deduct
-        # ==========================================
-        # 🛡️ HITL QUARANTINE VALIDATION
-        # ==========================================
+        
         reported_total = float(parsed_data.get("financials", {}).get("grand_total") or 0.00)
         
         calculated_total = 0.0
         for item in parsed_data.get("line_items", []):
             calculated_total += float(item.get("total_price") or 0.00)
             
-        # We allow a $0.02 margin of error because floating-point math in Python 
-        # (and AI rounding) can sometimes cause 10.00 + 10.00 to equal 20.000000001
         is_math_valid = abs(reported_total - calculated_total) <= 0.02
+        confidence_score = int(parsed_data.get("ai_metadata", {}).get("confidence_score") or 100)
+        is_confident = confidence_score >= 85
         
-        final_status = "Pending" if is_math_valid else "Needs Review"
-        # ==========================================
+        final_status = "Pending" if (is_math_valid and is_confident) else "Needs Review"
         
         new_invoice = Invoice(
             org_id=org_id, 
             vendor_name=parsed_data.get("vendor", {}).get("name") or "Unknown",
             invoice_number=str(parsed_data.get("invoice_details", {}).get("invoice_number") or f"UNK-{datetime.now().timestamp()}"),
             amount=reported_total,
-            status=final_status # <--- Inject the validation result here
+            status=final_status 
         )
         
         db.add(new_invoice)
         db.flush()
+        
         for item in parsed_data.get("line_items", []):
             db.add(InvoiceItem(invoice_id=new_invoice.invoice_id, description=item.get("description", "Item"), quantity=float(item.get("quantity") or 1), unit_price=float(item.get("unit_price") or 0), total_price=float(item.get("total_price") or 0)))
             
         db.commit()
         return JSONResponse(status_code=200, content={"message": "Success", "data": parsed_data, "credits_remaining": org.api_credits})
-    except IntegrityError:
+    except IntegrityError as e:
         db.rollback()
         return JSONResponse(status_code=400, content={"error": f"Database Integrity Error: {str(e.orig)}"})
     except Exception as e:
         db.rollback()
         return JSONResponse(status_code=500, content={"error": str(e)})
-    finally:
-        db.close()
+
 
 @app.get("/invoices/")
-async def get_historical_invoices(user_id: str = Depends(get_current_user)):
-    db = SessionLocal()
+async def get_historical_invoices(skip: int = 0, limit: int = 50, auth_context: dict = Depends(get_auth_context), db: Session = Depends(get_db)):
     try:
-        org_id = get_or_create_user_org(db, user_id)
-        invoices = db.query(Invoice).filter(Invoice.org_id == org_id).all()
+        org_id = auth_context["org_id"]
+        
+        total_count = db.query(Invoice).filter(Invoice.org_id == org_id).count()
+        invoices = db.query(Invoice).filter(Invoice.org_id == org_id).order_by(Invoice.created_at.desc()).offset(skip).limit(limit).all()
         
         history = []
         for inv in invoices:
             items_list = [{"description": i.description or "-", "quantity": float(i.quantity) if i.quantity is not None else 1.0, "unit_price": float(i.unit_price) if i.unit_price is not None else 0.0, "total_price": float(i.total_price) if i.total_price is not None else 0.0} for i in inv.items]
-            history.append({"id": inv.invoice_id, "vendor_name": inv.vendor_name or "Unknown", "invoice_number": inv.invoice_number or "N/A", "amount": float(inv.amount) if inv.amount is not None else 0.0, "status": inv.status or "Pending", "date": inv.created_at.strftime("%Y-%m-%d"), "items": items_list})
-        return JSONResponse(status_code=200, content={"data": history})
-    finally:
-        db.close()
+            
+            # --- FETCH AUDIT LOGS ---
+            logs = db.query(AuditLog).filter(AuditLog.invoice_id == inv.invoice_id).order_by(AuditLog.timestamp.desc()).all()
+            audit_list = [{"field": l.field_name, "old": l.old_value, "new": l.new_value, "by": l.changed_by, "time": l.timestamp.strftime("%Y-%m-%d %H:%M:%S")} for l in logs]
+            
+            history.append({
+                "id": inv.invoice_id, 
+                "vendor_name": inv.vendor_name or "Unknown", 
+                "invoice_number": inv.invoice_number or "N/A", 
+                "amount": float(inv.amount) if inv.amount is not None else 0.0, 
+                "status": inv.status or "Pending", 
+                "date": inv.created_at.strftime("%Y-%m-%d"), 
+                "items": items_list,
+                "audit_logs": audit_list 
+            })
+            
+        return JSONResponse(status_code=200, content={"data": history, "pagination": {"total_records": total_count, "skip": skip, "limit": limit}})
+    except Exception as e:
+        return JSONResponse(status_code=500, content={"error": str(e)})
+
 
 @app.put("/invoices/{invoice_id}")
-async def update_invoice(invoice_id: int, request: InvoiceEditRequest, user_id: str = Depends(get_current_user)):
-    db = SessionLocal()
+async def update_invoice(invoice_id: int, request: InvoiceEditRequest, auth_context: dict = Depends(get_auth_context), db: Session = Depends(get_db)):
     try:
-        org_id = get_or_create_user_org(db, user_id)
+        org_id = auth_context["org_id"]
+        user_identifier = auth_context.get("identifier", "Unknown User")
         
         invoice = db.query(Invoice).filter(Invoice.invoice_id == invoice_id, Invoice.org_id == org_id).first()
         if not invoice:
             return JSONResponse(status_code=404, content={"error": "Invoice not found or access denied."})
+        
+        # --- THE AUDIT TRACKER ---
+        def log_change(field, old_val, new_val):
+            if str(old_val) != str(new_val):
+                db.add(AuditLog(invoice_id=invoice_id, changed_by=user_identifier, field_name=field, old_value=str(old_val), new_value=str(new_val)))
+
+        log_change("Vendor", invoice.vendor_name, request.vendor_name)
+        log_change("Invoice Number", invoice.invoice_number, request.invoice_number)
+        log_change("Total Amount", invoice.amount, request.amount)
+        log_change("Status", invoice.status, request.status)
         
         invoice.vendor_name = request.vendor_name
         invoice.invoice_number = request.invoice_number
@@ -339,49 +402,51 @@ async def update_invoice(invoice_id: int, request: InvoiceEditRequest, user_id: 
     except Exception as e:
         db.rollback()
         return JSONResponse(status_code=500, content={"error": str(e)})
-    finally:
-        db.close()
 
-@app.post("/api/inspector/query")
-async def run_sql_query(request: QueryRequest, user_id: str = Depends(get_current_user)):
-    db = SessionLocal()
+
+@app.get("/workspace/")
+async def get_workspace_details(auth_context: dict = Depends(get_auth_context), db: Session = Depends(get_db)):
     try:
-        sql_query = request.query.strip()
+        org_id = auth_context["org_id"]
+        org = db.query(Organization).filter(Organization.org_id == org_id).first()
         
-        if not sql_query:
-            return JSONResponse(status_code=400, content={"error": "Query cannot be empty"})
-
-        # 1. Establish a strict Read-Only transaction at the PostgreSQL engine level.
-        # This physically prevents INSERT, UPDATE, DELETE, DROP, or ALTER commands.
-        db.execute(text("SET LOCAL default_transaction_read_only = 'on';"))
-        
-        # 2. Execute the arbitrary user query inside the Read-Only sandbox.
-        result = db.execute(text(sql_query))
-        
-        # 3. Extract the data.
-        rows = result.mappings().all()
-        
-        formatted_rows = []
-        for row in rows:
-            row_dict = dict(row)
-            for key, value in row_dict.items():
-                if isinstance(value, datetime):
-                    row_dict[key] = value.isoformat()
-                elif isinstance(value, Decimal):
-                    row_dict[key] = float(value)
-            formatted_rows.append(row_dict)
-            
-        # 4. The Fail-Safe: Force a rollback to destroy the transaction state.
-        db.rollback() 
-        
-        return {"results": formatted_rows}
-        
+        return JSONResponse(status_code=200, content={
+            "org_id": org.org_id,
+            "name": org.name,
+            "api_credits": org.api_credits,
+            "dollar_value": f"${org.api_credits / 100:.2f}"
+        })
     except Exception as e:
-        # If the user tries to mutate data, PostgreSQL will throw a Read-Only error here.
+        return JSONResponse(status_code=500, content={"error": str(e)})
+
+
+class ApiKeyCreateRequest(BaseModel):
+    name: str
+
+@app.post("/api-keys/")
+async def create_api_key(request: ApiKeyCreateRequest, auth_context: dict = Depends(get_auth_context), db: Session = Depends(get_db)):
+    try:
+        if auth_context["auth_type"] != "human":
+             return JSONResponse(status_code=403, content={"error": "Machines cannot generate new keys."})
+             
+        org_id = auth_context["org_id"]
+        
+        raw_token = secrets.token_hex(32)
+        raw_api_key = f"nk_live_{raw_token}"
+        hashed_key = hashlib.sha256(raw_api_key.encode()).hexdigest()
+        
+        new_key = ApiKey(org_id=org_id, name=request.name, hashed_key=hashed_key)
+        db.add(new_key)
+        db.commit()
+        
+        return JSONResponse(status_code=200, content={
+            "message": "Success",
+            "raw_api_key": raw_api_key,
+            "name": request.name
+        })
+    except Exception as e:
         db.rollback()
-        return JSONResponse(status_code=400, content={"error": f"SQL Execution Error: {str(e)}"})
-    finally:
-        db.close()
+        return JSONResponse(status_code=500, content={"error": str(e)})    
 
 if __name__ == "__main__":
     import uvicorn
