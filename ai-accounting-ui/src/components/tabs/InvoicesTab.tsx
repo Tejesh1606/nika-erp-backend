@@ -10,7 +10,9 @@ export const InvoicesTab = ({
   filterText, setFilterText,
   filterField, setFilterField,
   filterStatus, setFilterStatus,
-  sortConfig, handleSort
+  sortConfig, handleSort,
+  pagination, 
+  handlePageChange
 }: any) => {
   // WE MOVED THIS STATE OUT OF APP.TSX!
   const [expandedId, setExpandedId] = useState<number | null>(null);
@@ -105,6 +107,7 @@ export const InvoicesTab = ({
                             ))}
                           </tbody>
                         </table>
+                        
                         <button onClick={() => setEditForm({...editForm, items: [...(editForm.items || []), {description: 'New Item', quantity: 1, unit_price: 0, total_price: 0}]})} className="text-sm font-bold text-blue-600 mb-6 px-3 py-1.5 bg-blue-50 rounded hover:bg-blue-100 transition-colors">+ Add Line Item</button>
                         
                         <div className="flex justify-end gap-4 border-t pt-4">
@@ -134,6 +137,32 @@ export const InvoicesTab = ({
             {filteredHistoricData.length === 0 && <tr><td colSpan={6} className="p-12 text-center text-slate-400 font-semibold italic">No records match your data filters.</td></tr>}
           </tbody>
         </table>
+        <div className="bg-slate-50 border-t p-4 flex items-center justify-between">
+          <div className="text-sm text-slate-500 font-semibold">
+            Showing <span className="text-slate-800">{pagination?.skip + 1 || 1}</span> to{' '}
+            <span className="text-slate-800">
+              {Math.min((pagination?.skip || 0) + (pagination?.limit || 50), pagination?.total_records || 0)}
+            </span>{' '}
+            of <span className="text-slate-800">{pagination?.total_records || 0}</span> total records
+          </div>
+          
+          <div className="flex gap-2">
+            <button
+              onClick={() => handlePageChange('prev')}
+              disabled={!pagination || pagination.skip === 0}
+              className="px-4 py-2 border rounded-lg text-sm font-bold text-slate-700 bg-white hover:bg-slate-100 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
+            >
+              Previous
+            </button>
+            <button
+              onClick={() => handlePageChange('next')}
+              disabled={!pagination || (pagination.skip + pagination.limit) >= pagination.total_records}
+              className="px-4 py-2 border rounded-lg text-sm font-bold text-slate-700 bg-white hover:bg-slate-100 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
+            >
+              Next
+            </button>
+          </div>
+        </div>
       </div>
     </div>
   );

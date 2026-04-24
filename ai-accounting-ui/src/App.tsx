@@ -25,6 +25,7 @@ export default function App() {
   const [selectedReportId, setSelectedReportId] = useState<string | null>(null);
   
   const [historicData, setHistoricData] = useState<any[]>([]);
+  const [pagination, setPagination] = useState({ skip: 0, limit: 50, total_records: 0 });
   const [dashboards, setDashboards] = useState<any[]>([]);
   const [reports, setReports] = useState<any[]>([]);
 
@@ -65,15 +66,38 @@ export default function App() {
     localStorage.setItem('dashboards', JSON.stringify(newDashboards));
   };
 
-  const fetchHistory = async () => {
+const fetchHistory = async (skipOffset = 0, limit = 50) => {
     try {
       const token = await getToken(); 
-      const res = await fetch('https://ai-erp-api-gfmt.onrender.com/invoices/', { headers: { Authorization: `Bearer ${token}` } });
+      // Notice the URL now explicitly demands a specific chunk of data
+      const res = await fetch(`https://ai-erp-api-gfmt.onrender.com/invoices/?skip=${skipOffset}&limit=${limit}`, { 
+        headers: { Authorization: `Bearer ${token}` } 
+      });
       const json = await res.json();
+      
       setHistoricData(json.data || []);
-    } catch (err) { console.error("Fetch failed", err); }
+      
+      // Save the pagination math sent back by the Python server
+      if (json.pagination) {
+        setPagination(json.pagination);
+      }
+    } catch (err) { 
+      console.error("Fetch failed", err); 
+    }
   };
-
+const handlePageChange = (direction: 'next' | 'prev') => {
+    let newSkip = pagination.skip;
+    
+    if (direction === 'next') {
+      newSkip += pagination.limit;
+    } else if (direction === 'prev') {
+      // Prevent negative math if the user clicks previous on page 1
+      newSkip = Math.max(0, pagination.skip - pagination.limit);
+    }
+    
+    // Trigger the fetch with the new starting line
+    fetchHistory(newSkip, pagination.limit);
+  };
   const handleSort = (key: string) => {
     let direction = 'asc';
     if (sortConfig.key === key && sortConfig.direction === 'asc') direction = 'desc';
@@ -176,7 +200,22 @@ export default function App() {
 
             {activeTab === 'reports' && <ReportsTab selectedReportId={selectedReportId} setSelectedReportId={setSelectedReportId} reports={reports} dashboards={dashboards} saveConfigs={saveConfigs} reportSearch={reportSearch} setReportSearch={setReportSearch} reportSort={reportSort} setReportSort={setReportSort} filteredHistoricData={filteredHistoricData} sortConfig={sortConfig} handleSort={handleSort} getFlattenedData={getFlattenedData} processChartData={processChartData} sortData={sortData} filterText={filterText} setFilterText={setFilterText} filterField={filterField} setFilterField={setFilterField} filterStatus={filterStatus} setFilterStatus={setFilterStatus} />}
             
-            {activeTab === 'invoices' && <InvoicesTab filteredHistoricData={filteredHistoricData} handleExportCSV={handleExportCSV} getToken={getToken} fetchHistory={fetchHistory} filterText={filterText} setFilterText={setFilterText} filterField={filterField} setFilterField={setFilterField} filterStatus={filterStatus} setFilterStatus={setFilterStatus} sortConfig={sortConfig} handleSort={handleSort} />}
+            {activeTab === 'invoices' && <InvoicesTab 
+              filteredHistoricData={filteredHistoricData} 
+              handleExportCSV={handleExportCSV} 
+              getToken={getToken} 
+              fetchHistory={fetchHistory} 
+              filterText={filterText} 
+              setFilterText={setFilterText} 
+              filterField={filterField} 
+              setFilterField={setFilterField} 
+              filterStatus={filterStatus} 
+              setFilterStatus={setFilterStatus} 
+              sortConfig={sortConfig} 
+              handleSort={handleSort} 
+              pagination={pagination} 
+              handlePageChange={handlePageChange} 
+            />}
             
             {activeTab === 'inspector' && <InspectorTab getToken={getToken} />}
             

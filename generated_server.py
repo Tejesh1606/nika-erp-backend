@@ -195,7 +195,7 @@ def process_invoice_with_vision(file_bytes: bytes, mime_type: str):
         "model": "openai/gpt-4o",
         "response_format": { "type": "json_object" }, 
         "messages": [{"role": "user", "content": [
-            {"type": "text", "text": """Extract data into this exact JSON structure. Null if missing: { "vendor": { "name": "string" }, "invoice_details": { "invoice_number": "string" }, "line_items": [ { "description": "string", "quantity": 1, "unit_price": 0.00, "total_price": 0.00 } ], "financials": { "grand_total": 0.00 } }"""},
+            {"type": "text", "text": """Extract data into this exact JSON structure. Null if missing: { "vendor": { "name": "string" }, "invoice_details": { "invoice_number": "string" }, "line_items": [ { "description": "string", "quantity": 1, "unit_price": 0.00, "total_price": 0.00 } ], "financials": { "grand_total": 0.00 }, "ai_metadata": { "confidence_score": 0, "image_quality_warning": false } } Ensure confidence_score is an integer between 0 and 100 representing your certainty of the extracted text."""},
             {"type": "image_url", "image_url": { "url": f"data:{mime_type};base64,{base64_image}" }}
         ]}]
     }
@@ -228,22 +228,37 @@ async def upload_invoice(file: UploadFile = File(...), user_id: str = Depends(ge
         logger.info(f"Original file size: {len(raw_file_bytes) / 1024:.2f} KB")
         logger.info(f"Compressed file size: {len(optimized_bytes) / 1024:.2f} KB")
         # ---------------------------
-        # Feed the COMPRESSED bytes to the AI, not the raw bytes
+# Feed the COMPRESSED bytes to the AI, not the raw bytes
         parsed_data = process_invoice_with_vision(optimized_bytes, new_mime_type)
-        # ---------------------------------
         
         org.api_credits -= 1
+        
+        # ==========================================
+        # 🛡️ HITL QUARANTINE VALIDATION
+        # ==========================================
+        reported_total = float(parsed_data.get("financials", {}).get("grand_total") or 0.00)
+        
+        calculated_total = 0.0
+        for item in parsed_data.get("line_items", []):
+            calculated_total += float(item.get("total_price") or 0.00)
+            
+        # We allow a $0.02 margin of error because floating-point math in Python 
+        # (and AI rounding) can sometimes cause 10.00 + 10.00 to equal 20.000000001
+        is_math_valid = abs(reported_total - calculated_total) <= 0.02
+        
+        final_status = "Pending" if is_math_valid else "Needs Review"
+        # ==========================================
         
         new_invoice = Invoice(
             org_id=org_id, 
             vendor_name=parsed_data.get("vendor", {}).get("name") or "Unknown",
             invoice_number=str(parsed_data.get("invoice_details", {}).get("invoice_number") or f"UNK-{datetime.now().timestamp()}"),
-            amount=float(parsed_data.get("financials", {}).get("grand_total") or 0.00),
-            status="Pending"
+            amount=reported_total,
+            status=final_status # <--- Inject the validation result here
         )
         
         db.add(new_invoice)
-        db.flush() 
+        db.flush()
         for item in parsed_data.get("line_items", []):
             db.add(InvoiceItem(invoice_id=new_invoice.invoice_id, description=item.get("description", "Item"), quantity=float(item.get("quantity") or 1), unit_price=float(item.get("unit_price") or 0), total_price=float(item.get("total_price") or 0)))
             
