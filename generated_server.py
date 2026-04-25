@@ -100,8 +100,6 @@ class InvoiceItem(Base):
     
     invoice = relationship("Invoice", back_populates="items")
 
-Base.metadata.create_all(bind=engine)
-
 # 5. API KEYS (Machine-to-Machine Access)
 class ApiKey(Base):
     __tablename__ = "api_keys"
@@ -122,6 +120,25 @@ class AuditLog(Base):
     old_value = Column(String, nullable=True)
     new_value = Column(String, nullable=True)
     timestamp = Column(DateTime, default=datetime.utcnow)
+
+# 6. AUDIT LOGS (The Accountability Trail)
+class AuditLog(Base):
+    __tablename__ = "audit_logs"
+    log_id = Column(Integer, primary_key=True, index=True)
+    invoice_id = Column(Integer, ForeignKey("invoices.invoice_id"), nullable=False)
+    changed_by = Column(String, nullable=False) 
+    field_name = Column(String, nullable=False)
+    old_value = Column(String, nullable=True)
+    new_value = Column(String, nullable=True)
+    timestamp = Column(DateTime, default=datetime.utcnow)
+
+# ---> PASTE IT HERE <---
+Base.metadata.create_all(bind=engine)
+
+# --- PYDANTIC MODELS ---
+class InvoiceItemEdit(BaseModel):
+    description: str
+
 # --- PYDANTIC MODELS ---
 class InvoiceItemEdit(BaseModel):
     description: str
