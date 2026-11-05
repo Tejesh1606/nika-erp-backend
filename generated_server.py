@@ -169,55 +169,110 @@ def get_db():
     finally:
         db.close()
 
-def get_auth_context(credentials: HTTPAuthorizationCredentials = Depends(security), db: Session = Depends(get_db)):
-    """Verifies either a Clerk JWT OR an M2M API Key. Returns an Auth Context dictionary."""
-    token = credentials.credentials
-    
-    # Pathway A: Machine-to-Machine API Key
-    if token.startswith("nk_live_"):
-        hashed_token = hashlib.sha256(token.encode()).hexdigest()
-        api_key_record = db.query(ApiKey).filter(ApiKey.hashed_key == hashed_token).first()
-        
-        if not api_key_record:
-            raise HTTPException(status_code=401, detail="Invalid API Key")
-            
-        # Update last used timestamp
-        api_key_record.last_used = datetime.utcnow()
-        db.commit()
-        
-        return {"auth_type": "api_key", "org_id": api_key_record.org_id, "identifier": f"API Key ({api_key_record.name})"}
-        
-    # Pathway B: Human User Clerk JWT
+def get_auth_context(
+    credentials: HTTPAuthorizationCredentials = Depends(security),
+    db: Session = Depends(get_db),
+):
+  """Verifies either a Clerk JWT OR an M2M API Key.
+
+  Returns an Auth Context dictionary.
+  """
+  token = credentials.credentials
+
+  # Pathway A: Machine-to-Machine API Key
+  if token.startswith("nk_live_"):
+    hashed_token = hashlib.sha256(token.encode()).hexdigest()
+    api_key_record = (
+        db.query(ApiKey).filter(ApiKey.hashed_key == hashed_token).first()
+    )
+
+    if not api_key_record:
+      raise HTTPException(status_code=401, detail="Invalid API Key")
+
     try:
-        signing_key = jwks_client.get_signing_key_from_jwt(token)
-        payload = jwt.decode(token, signing_key.key, algorithms=["RS256"])
-        user_id = payload.get("sub")
-        org_id = get_or_create_user_org(db, user_id)
-        
-        return {"auth_type": "human", "org_id": org_id, "identifier": user_id}
+      api_key_record.last_used = datetime.utcnow()
+      db.commit()
     except Exception as e:
-        logger.error(f"Token Verification Failed: {str(e)}")
-        raise HTTPException(status_code=401, detail="Invalid Authentication Token")
+      db.rollback()
+      logger.error(f"Failed to update API Key last_used: {str(e)}")
+
+    return {
+        "auth_type": "api_key",
+        "org_id": api_key_record.org_id,
+        "identifier": f"API Key ({api_key_record.name})",
+    }
+
+  # Pathway B: Human User Clerk JWT
+  try:
+    signing_key = jwks_client.get_signing_key_from_jwt(token)
+    payload = jwt.decode(token, signing_key.key, algorithms=["RS256"])
+    user_id = payload.get("sub")
+
+    if not user_id:
+      raise HTTPException(
+          status_code=401, detail="Token missing subject (user_id)"
+      )
+
+    # Note: Extract email from payload if available in claims
+    email = payload.get("email") or payload.get("primary_email_address")
+
+    # get_or_create_user_org is where the user sync/DB insert occurs
+    org_id = get_or_create_user_org(db, user_id, email=email)
+
+    return {"auth_type": "human", "org_id": org_id, "identifier": user_id}
+
+  except HTTPException:
+    raise
+  except Exception as e:
+    db.rollback()  # CRITICAL: Resets transaction state on Neon DB
+    logger.error(f"Token Verification Failed: {str(e)}")
+    raise HTTPException(status_code=401, detail="Invalid Authentication Token")
 
 # --- AUTO-PROVISIONING ENGINE ---
-def get_or_create_user_org(db, user_id: str):
-    """If a new user logs in, instantly build their workspace!"""
-    user = db.query(User).filter(User.user_id == user_id).first()
-    if not user:
-        # 1. Create User
-        user = User(user_id=user_id)
-        db.add(user)
-        # 2. Create Workspace
-        org_id = f"org_{user_id}"
-        org = Organization(org_id=org_id, name="My Personal Workspace", api_credits=50)
-        db.add(org)
-        # 3. Make User the Owner
-        db.add(OrganizationMember(org_id=org_id, user_id=user_id, role="owner"))
-        db.commit()
-    
-    # Return their primary organization ID
-    member = db.query(OrganizationMember).filter(OrganizationMember.user_id == user_id).first()
-    return member.org_id
+def get_or_create_user_org(db: Session, user_id: str, email: str = None) -> str:
+  """Finds or creates a user and their default workspace/organization."""
+  # 1. Look up user by Clerk ID first
+  user = db.query(User).filter(User.user_id == user_id).first()
+
+  # 2. Fallback: If not found by user_id but email exists, search by email
+  if not user and email:
+    user = db.query(User).filter(User.email == email).first()
+    if user:
+      # Sync the new Clerk user_id to this existing record
+      user.user_id = user_id
+      db.commit()
+      db.refresh(user)
+
+  # 3. Create a fresh record only if user does not exist at all
+  if not user:
+    # Use fallback email if Clerk token didn't carry one
+    assigned_email = email or f"{user_id}@placeholder.com"
+
+    # Double check email constraint before insert
+    existing_by_email = (
+        db.query(User).filter(User.email == assigned_email).first()
+    )
+    if existing_by_email:
+      existing_by_email.user_id = user_id
+      user = existing_by_email
+    else:
+      user = User(user_id=user_id, email=assigned_email)
+      db.add(user)
+
+    db.commit()
+    db.refresh(user)
+
+  # 4. Fetch or create the user's organization/workspace
+  org = db.query(Organization).filter(Organization.owner_id == user_id).first()
+  if not org:
+    org = Organization(
+        name="Personal Workspace", owner_id=user_id, id=f"org_{user_id[:16]}"
+    )
+    db.add(org)
+    db.commit()
+    db.refresh(org)
+
+  return org.id
 
 def optimize_image_for_llm(file_bytes: bytes) -> tuple[bytes, str]:
     """
