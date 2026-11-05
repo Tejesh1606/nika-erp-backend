@@ -36,13 +36,24 @@ CLERK_FRONTEND_API = os.getenv("CLERK_FRONTEND_API")
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# --- DATABASE SETUP ---
-DATABASE_URL = os.getenv("DATABASE_URL")
-if not DATABASE_URL:
-    raise ValueError("DATABASE_URL is missing from the .env file!")
+DATABASE_URL = os.getenv("DATABASE_URL", "")
 
-Base = declarative_base()
-engine = create_engine(DATABASE_URL)
+# Fix protocol dialect for psycopg2
+if DATABASE_URL.startswith("postgres://"):
+  DATABASE_URL = DATABASE_URL.replace("postgres://", "postgresql+psycopg2://", 1)
+elif DATABASE_URL.startswith("postgresql://") and not DATABASE_URL.startswith(
+    "postgresql+"
+):
+  DATABASE_URL = DATABASE_URL.replace(
+      "postgresql://", "postgresql+psycopg2://", 1
+  )
+
+engine = create_engine(
+    DATABASE_URL,
+    pool_pre_ping=True,
+    pool_recycle=300,
+    connect_args={"sslmode": "require"},
+)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 
 # 1. ORGANIZATIONS (The Core Tenant)
@@ -230,49 +241,61 @@ def get_auth_context(
 
 # --- AUTO-PROVISIONING ENGINE ---
 def get_or_create_user_org(db: Session, user_id: str, email: str = None) -> str:
-  """Finds or creates a user and their default workspace/organization."""
-  # 1. Look up user by Clerk ID first
-  user = db.query(User).filter(User.user_id == user_id).first()
+    """Finds or creates a user and their default workspace/organization."""
+    # 1. Look up user by Clerk ID first
+    user = db.query(User).filter(User.user_id == user_id).first()
 
-  # 2. Fallback: If not found by user_id but email exists, search by email
-  if not user and email:
-    user = db.query(User).filter(User.email == email).first()
-    if user:
-      # Sync the new Clerk user_id to this existing record
-      user.user_id = user_id
-      db.commit()
-      db.refresh(user)
+    # 2. Fallback: If not found by user_id but email exists, search by email
+    if not user and email:
+        user = db.query(User).filter(User.email == email).first()
+        if user:
+            # Sync the new Clerk user_id to this existing record
+            user.user_id = user_id
+            db.commit()
+            db.refresh(user)
 
-  # 3. Create a fresh record only if user does not exist at all
-  if not user:
-    # Use fallback email if Clerk token didn't carry one
-    assigned_email = email or f"{user_id}@placeholder.com"
+    # 3. Create a fresh user record only if user does not exist at all
+    if not user:
+        assigned_email = email or f"{user_id}@placeholder.com"
+        existing_by_email = (
+            db.query(User).filter(User.email == assigned_email).first()
+        )
+        if existing_by_email:
+            existing_by_email.user_id = user_id
+            user = existing_by_email
+        else:
+            user = User(user_id=user_id, email=assigned_email)
+            db.add(user)
 
-    # Double check email constraint before insert
-    existing_by_email = (
-        db.query(User).filter(User.email == assigned_email).first()
-    )
-    if existing_by_email:
-      existing_by_email.user_id = user_id
-      user = existing_by_email
-    else:
-      user = User(user_id=user_id, email=assigned_email)
-      db.add(user)
+        db.commit()
+        db.refresh(user)
 
-    db.commit()
-    db.refresh(user)
+    # 4. Fetch or create the user's organization using primary key (org_id)
+    target_org_id = f"org_{user_id}"
+    org = db.query(Organization).filter(Organization.org_id == target_org_id).first()
 
-  # 4. Fetch or create the user's organization/workspace
-  org = db.query(Organization).filter(Organization.owner_id == user_id).first()
-  if not org:
-    org = Organization(
-        name="Personal Workspace", owner_id=user_id, id=f"org_{user_id[:16]}"
-    )
-    db.add(org)
-    db.commit()
-    db.refresh(org)
+    if not org:
+        # Check if an organization exists via ownership or membership link if model supports it
+        if hasattr(Organization, "owner_id"):
+            org = db.query(Organization).filter(Organization.owner_id == user_id).first()
 
-  return org.id
+    if not org:
+        org = Organization(
+            org_id=target_org_id,
+            name="My Personal Workspace",
+            api_credits=50,
+            created_at=datetime.utcnow()
+        )
+        try:
+            db.add(org)
+            db.commit()
+            db.refresh(org)
+        except Exception:
+            db.rollback()
+            # Handle potential race conditions by re-querying
+            org = db.query(Organization).filter(Organization.org_id == target_org_id).first()
+
+    return org.org_id
 
 def optimize_image_for_llm(file_bytes: bytes) -> tuple[bytes, str]:
     """
